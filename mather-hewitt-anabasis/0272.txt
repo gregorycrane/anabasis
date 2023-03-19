@@ -1,57 +1,66 @@
-260 XENOPHON’S ANABASIS [1,4
+#260 XENOPHON’S ANABASIS [1,4
 
-69, 21. ’ABpoxépa: a Doric form.! The genitive is used rather than
-the dative because of the influence of dwoordyres. This was the last
+69, 21. ᾿Ἁβροκόμα: a Doric form.1 The genitive is used rather than
+the dative because of the influence of ἀποστάντες. This was the last
 addition to the Greek force of Cyrus. See Introd. § 8.
 
-69, 25. wtdAas: the article is omitted because the word is practically
-a proper name; cp. Bacwéws, 52,6. This pass is south of Issus, be-
+69, 25. πύλας: the article is omitted because the word is practically
+a proper name; cp. βασιλέως, 52,6. This pass is south of Issus, be-
 tween the Amanus range and the sea. It was fortified by two walls.
 -- ἦσαν δὲ ταῦτα : Xenophon violates more often than any other Attic
 writer the rule that a neuter plural subject takes a singular verb.2 ταῦτα
-agrees with the predicate substantive reiyy; cp. avry, 53, I.
+agrees with the predicate substantive τείχη; cp. αὕτη, 53, I.
 
-70,1. τὸ μὲν ἔσωθεν: 50. τεῖχος, defined further by the appositive
-phrase τὸ πρὸ τῆς Κιλικῶς. --- pd: on the side of.
+70,1. τὸ μὲν ἔσωθεν: sc. τεῖχος, defined further by the appositive
+phrase τὸ πρὸ τῆς Κιλικῶς. 
 
-70, 2. elye: agrees with the nearer subject (cp. 7, 55, 28), καὶ. ..
-φυλακή being added as an afterthought. Syennésis doubtless thought
-that he must keep up the appearance of defense in the eyes of Abrocé-
+πρό: on the side of.
+
+70, 2. εἶχε: agrees with the nearer subject (cp. 7, 55, 28), καὶ. ..
+φυλακή being added as an afterthought. Syennesis doubtless thought
+that he must keep up the appearance of defense in the eyes of Abroco-
 mas, the king’s general (1. 13), who, however, was no more sturdy a
-defender than Syennésis. In fact, the fleet rendered the pass untenable.
+defender than Syennesis. In fact, the fleet rendered the pass untenable.
 
-70, 3. vdakh: subject of éAéyero. — 81a phoou: detween.
+70, 3. φυλακή: subject of ἐλέγετο. 
 
-70, 4. wAOpov: predicate genitive of measure; cp. 7A€Opwr, 63, I.
+διὰ μέσου: detween.
+
+70, 4. πλέθρου: predicate genitive of measure; cp. πλέθρων, 63, 1.
 
 70,5. ἦσαν : agrees with the predicate nominative instead of with its
-subject.’ — ordBtor: see on orddtov, 69, 4.
+subject.3 
 
-70, 6. wapedOetv: subject of 7v; see on ovK erat, 67, 25.
+στάδιοι: see on στάδιον, 69, 4.
 
-70, 7. καθήκοντα: υ866, [Κα στενή, 45 a predicate adjective with 7yv;
-lit., down-reaching. Translate as a verb, extended down (xaOijxe).
+70, 6. καθήκοντα: subject of ἦν; see on οὐκ ἔσται, 67, 25.
 
-70, 8. ἀμφοτέροις : 566 οἡ ἀμφοτέρω, 51, 4.
+70, 7. καθήκοντα: used, like στενή, as a predicate adjective with ἦν;
+lit., down-reaching. Translate as a verb, extended down (καθῆκε).
 
-70,9. widkar: here in its usual meaning, gates; cp. 69, 25. — wapé-
-Sov: genitive with ἕνεκα.
+70, 8. ἀμφοτέροις : see on ἀμφοτέρω, 51, 4.
 
-70, 10. pereréuaro: translate as pluperfect, for it probably refers
+70,9. πύλαι: here in its usual meaning, gates; cp. 69, 25. 
+
+παρόδου: genitive with ἕνεκα.
+
+70, 10. μετεπέμψατο: translate as pluperfect, for it probably refers
 to the summoning of the fleet from Ephesus. Cyrus had foreseen the
 possibility of a blockade at the pass, and had prepared to overcome it.
-—elow wal &w: both between the two walls and on the Syrian side, so
+
+εἴσω καὶ ἔξω: both between the two walls and on the Syrian side, so
 as to take the Persian in front and rear.
 
-70, 1% βιασομένους : 20 overpower; for the tense, see on dzroxTevar,
-51, 15.— el pvAdrrovev: more vivid future condition in implied indirect
-discourse aftera past tense peremeuiparo, representing éav pvAdrrwot,
+70, 1 βιασομένους : to overpower; for the tense, see on ἀποκτενῶν,
+51, 15.
+
+
+εἰ φυλάττοιεν: more vivid future condition in implied indirect
+discourse after a past tense μετεπέμψατο, representing ἐὰν φυλάττωσι,
 the thought of Cyrus when he sent for the ships. For a similar change
 
 HA. B. G. Gl.
-1 146 D (footnote) 188, 3 72 €
-2 6o4 6 498 N. 899, 2 496
-3 610 501 904 498 @
+1 146D-(footnote) NA 188,3 72c
+2 604b 498N. 899,2 496
+3 610 501 904 498d
 
-Google
-
