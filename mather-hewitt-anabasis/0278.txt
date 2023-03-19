@@ -1,59 +1,73 @@
-266 XENOPHON’S ANABASIS [1,4
+#266 XENOPHON’S ANABASIS [1,4
 
-73) 22. ὅ τι: cp. ri, 1. 14.
+73, 22. ὅ τι: cp. τί, 1. 14.
 
-739 23. ἤν: -- ἐάν.
+73, 23. ἤν: = ἐάν.
 
-73, 24. aptavres: causal.—rod SiaBalvew: the infinitive is used as a
-substantive, and is partitive genitive with a verb of beginning.! — ag.
-«+» odoww: on the ground that you are, thinking that you are.
+73, 24. ἄρξαντες: causal.
 
-73, 2ς. χάριν: the object not enly of etvera: but of dzrodwoa. With
+τοῦ διαβαίνειν: the infinitive is used as a
+substantive, and is partitive genitive with a verb of beginning.1 
+
+ὡς... οὖσιν: on the ground that you are, thinking that you are.
+
+73, 25. χάριν: the object not enly of εἴσεται: but of ἀποδώσει. With
 the former it means gratitude, with the latter, the expression of grati-
-tude, a favor. |
+tude, a favor. 
 
-74,1. ἐπίσταται : 50. χάριν ἀποδιδόναι. ---- εἴ τις καὶ ἄλλος: tf any one
-does; Cp. @s Tis Kat adXos, 67, 16.
+74,1. ἐπίσταται : sc. χάριν ἀποδιδόναι. ---- 
 
-74,2. totpradtv: crasis follows the rules of contraction.2— tpiv: see
-on φιλίᾳ, 65, 2.— as . . . wreBopévors: on the ground that you alone are
+εἴ τις καὶ ἄλλος: if any one
+does; Cp. εἴ τις καὶ ἄλλος, 67, 16.
+
+74,2. τοὔμπαλιν: crasis follows the rules of contraction.2— 
+
+ὑμῖν: see on φιλίᾳ, 65, 2.
+
+ὡς. .. πειθομένοις: on the ground that you alone are
 obedient.
 
-74, 3. mwurrordrots: predicate adjective, as most trusty.— dpovpra: the
+74, 3. πιστοτάτοις: predicate adjective, as most trusty.— 
+
+φρούρια: the
 easy life of soldiers garrisoned in the acropolis of some city.
 
-74,4. AoXxaylas: implies promotions. — &AAov . . . Kipov: anything
+74,4. λοχαγίας: implies promotions. 
+
+ἄλλον... Κύρου: anything
 else that you may destre, I know you will secure from Cyrus, etc. ἄλλου
-is genitive with revfeoOe,® Kupov is genitive of source, and ovrwos geni-
-tive with dén00e.4 dAXAov may equally well be explained as attracted from
-dAAo (object of τεύξεσθε) ἴο ἴῃ case of the following relative.®
+is genitive with τεύξεσθε,3 Κύρου is genitive of source, and οὗτινος geni-
+tive with dδέησθε.4 ἄλλου may equally well be explained as attracted from
+ἄλλο (object of τεύξεσθε) in the case of the following relative.5
 
-74) 7. διαβεβηκότας : in indirect discourse; the report was duaPeBy-
-κασι. ---- τε : sometimes best omitted in translation.
+74, 7. διαβεβηκότας : in indirect discourse; the report was διαβεβή-
+κασι. ---- 
 
-74, 8. orparedpare: Menon’s division. —TAotv: the admiral’s son.
-— 'Hyé, etc.: bring out the emphasis of the pronouns in this sentence.
+τε : sometimes best omitted in translation.
 
-74,9. ἐπαινέσετε: 566 ΟΠ ἔσται, 52, 2.
+74, 8. στρατεύματι: Menon’s division. 
 
-74,10. h. . . vopl{ere: as sure as my name is Cyrus (lit., or no
-longer consider me Cyrus). Ue had been well known to the Greeks
+Γλοῦν: the admiral’s son.
+
+Ἐγώ, etc.: bring out the emphasis of the pronouns in this sentence.
+
+74,9. ἐπαινέσετε: see on ἔσται, 52, 2.
+
+74,10. ἢ. .. νομίζετε: as sure as my name is Cyrus (lit., or no
+longer consider me Cyrus). He had been well known to the Greeks
 as a generous prince since his services to Lysander in the closing years
 of the Peloponnesian war (see Introd. § 7; cp. § 5). Κῦρον is predicate
-accusative; unxere is to be taken with vouifere, not with the infinitive,
-in which case it would be ovxert.®
+accusative; μηκέτι is to be taken with νομίζετε, not with the infinitive,
+in which case it would be οὐκέτι.6
 
-74,11. nbxovro . . . ebruxfioat: see on ληφθῆναι, 71, 3.
+74,11. ηὔχοντο... εὐτυχῆσαι: see on ληφθῆναι, 71, 3.
 
-94,12. καί: Zoo, in addition to promises. Such a breach of fellow-
+94,12. καί: too, in addition to promises. Such a breach of fellow-
 
 HA, Β. σ. Gl.
-1 738 356 1099 510 }
+1 738 356 1099 510b
 2 77 43 43 35
-3 739 356 . 1099 510d
-4 743 362, 1% 1112 512
-5 1003 484, 2 1035 613¢
-6 10223 431, 2 1611 564
-
-Google
-
+3 739 356  1099 510d
+4 743 362,1 1112 512
+5 1003 484,2 1035 613c
+6 10223 431,2 1611 564
