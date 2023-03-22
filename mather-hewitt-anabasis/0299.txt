@@ -1,56 +1,61 @@
-1, 8] NOTES 287
+#287
 
-gt, 7. pty: dative of agent (which is really a dative of interest 1). —
+91, 7. ἡμῖν: dative of agent (which is really a dative of interest 1). —
+
+
 πεποίηται: the perfect sometimes gains from the context future perfect
-force; but the perfect may be used in translation. — épav . . . otidos:
+force; but the perfect may be used in translation. 
+
+ὁρῶν... στῖφος:
 although he saw the crowded mass at the center, i.e. the king’s body-
 guard of 6000 cavalry, 85, 22 f.
 
-g1, 8. Kupov: see on Tisoadépvous, 56, 5.— dvra: participle in
-indirect discourse; BaotXéa is its subject.
+91, 8. Κύρου: see on Τισσαφέρνους, 56, 5.
 
-91, 10. péoov: in its substantive use, but lacking the article. For
+ὄντα: participle in
+indirect discourse; βασιλέα is its subject.
+
+91, 10. μέσον: in its substantive use, but lacking the article. For
 the king’s superiority in numbers, see Introd. § 13.
 
-QI, 11. GAN Sbpos: yet 22 spite of all, notwithstanding all this ; ὅμως
-stamps the participle as concessive.?
+91, 11. ἀλλ᾽ ὅμως: yet 22 spite of all, notwithstanding all this ; ὅμως
+stamps the participle as concessive.2
 
-91,12. ph cuxd@Oeln: object of a verb of fearing, the optative depend-
-ing on the main verb 7OeAev.2 The present participle denotes action
+91,12. μὴ κυκλωθείη: object of a verb of fearing, the optative depend-
+ing on the main verb ἡθελεν.3 The present participle denotes action
 going on at the time of ἤθελεν.
 
-ΟἹ, 13. αὐτῷ μέλει: he was taking care; péAe retains the form
+91, 13. αὐτῷ μέλει: he was taking care; μέλει retains the form
 actually used by Clearchus, but the change to the optative would be as
 regular as in ἔχοι, 1. 14; see on 81, 3. These words were naturally
 interpreted by Cyrus as a promise to comply with the order. The dis-
 obedience of Clearchus left Cyrus and his bodyguard unsupported to
 contend against overwhelming odds. See Introd. § 14.
 
-91, 14. €xou: in indirect discourse for the present subjunctive éyy of
-direct discourse,‘ that all should be well. \f Clearchus had used the
+91, 14. ἔχοι: in indirect discourse for the present subjunctive ἔχῃ of
+direct discourse,4 that all should be well. If Clearchus had used the
 future indicative, which is the common construction (see on ἔσται; 52,
 2), the future optative would have been required.
 
-QI, 15. Td pev BapBapixdy orpdrevpa: that of the king.
+91, 15. τὸ μὲν βαρβαρικὸν στράτευμα: that of the king.
 
-οἱ. 16. ὁμαλῶς : -- ἐν ἴσῳ, 1. 2. — ἐν ro atrad: sc. χωρίῳ.
+91. 16. ὁμαλῶς : -- ἐν ἴσῳ, 1. 2. — ἐν τῷ αὐτῷ: sc. χωρίῳ.
 
-91,17. pévov: participle. —ovverdrrero . . . προσιόντων : τας 707.»1-
-ing its ranks from those who were still coming up, a state of affairs
+91,17. μένον: participle. 
+
+συνετάττετο. .. προσιόντων: was forming its ranks from those who were still coming up, a state of affairs
 resulting from the disorderly way in which they had been marching
 (87, 10-14).
 
 91, 18. οὐ πάνν πρός: at some distance from (lit., not very near).
 
-91,20. Flevodev: this is the first mention of the author. He never
+91,20. Ξενοφῶν: this is the first mention of the author. He never
 speaks of himself in the first person. Cp. Caesar’s practice, and see
 Introd. § 44 end.
 
 HA. B. G. Gl.
-1 769 380 1186, 1187 524 ὁ ἀπὰς
-2 9794 655, I
-3 887 594 1378 611 ¢
-4 885 ὁ 593,1 1374, 1 638 ¢
+1 769 380 1186,1187 524b-and-c
+2 979b 655,1 NA NA
+3 887 594 1378 611c
+4 885b 593,1 1374,1 638c
 
-Google
-

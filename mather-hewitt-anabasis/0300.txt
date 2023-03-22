@@ -1,60 +1,75 @@
-288 XENOPHON’S ANABASIS [1, 8
+#288 XENOPHON’S ANABASIS [1, 8
 
-QI, 21. ὡς συναντῆσαι: ορ. ὡς διακόπτειν, 90, 6. --- εἴ τι παραγγέλλοι:
+91, 21. ὡς συναντῆσαι: ορ. ὡς διακόπτειν, 90, 6. --- εἴ τι παραγγέλλοι:
 if he had any orders, indirect question.
 
-ΟΙ, 22. ἐπιστήσας: 56. τὸν ἵππον.
+91, 22. ἐπιστήσας: 56. τὸν ἵππον.
 
-91, 23. ἱερά, σφάγια: 5ς. ἐστί. Both words here mean omens; for
-1[η6 αἰβεγεπος, 5εα σφάγιον in Vocab. Omens were drawn especially
+91, 23. ἱερά, σφάγια: sc. ἐστί. Both words here mean omens; for
+the dfference, see σφάγιον in Vocab. Omens were drawn especially
 from the behavior and movements of the sacrificial victims; see p. 45,
 footnote, also Fig. 38, p. 107.
 
-QI, 24. Aéywv: note the tense, as he was saying this. — BopbBov .. .
-idvros: partitive genitive of the sound heard?; the person heard is
-the source, as Kvpov, 1. 8. The participle is circumstantial, not supple-
+91, 24. λέγων: note the tense, as he was saying this. — 
+
+θορύβον. ..
+ἰόντος: partitive genitive of the sound heard2; the person heard is
+the source, as Κύρου, 1. 8. The participle is circumstantial, not supple-
 mentary in indirect discourse; see on διελαύνοντα, 79, 10.
 
-91, 25. tls: cp. 6 Tt, 92, 2, and 566 Οἢ τί ποιήσουσιν, 73, 14. ---
+91, 25. τίς: cp. 6 Tt, 92, 2, and see on τί ποιήσουσιν, 73, 14. ---
+
 σύνθημα: see Introd. § 66.
 
-92, 1. Sevrepov: fur the second time, 2.6. it was repeated back from
+92, 1. δεύτερον: fur the second time, 2.6. it was repeated back from
 the last man to the first in order to avoid mistakes, just as a telegraphic
-message is ‘repeated.’ — cal 8s: with the early demonstrative force,’ and
-he. — ®atpace: the watchword would naturally have been given out by
-him, the commander in chief. — wapayy&Auu, εἴη : ΟΡ. μέλει, ἔχοι, 91, 14.
+message is ‘repeated.’ — 
 
-92, 3. “AAAG: see on 84, Ig.
+καὶ ὅς: with the early demonstrative force,3 and
+he. 
+
+ἐθαύμασε: the watchword would naturally have been given out by
+him, the commander in chief. 
+
+παραγγέλλει, εἴη : ΟΡ. μέλει, ἔχοι, 91, 14.
+
+92, 3. ἀλλά: see on 84, Ig.
 
 92, 4. τοῦτο ἔστω : so let tt be.
 
-92,6. odxérs: we should say less than. —8vayérny rd dddayye: see
-ON TW παῖδε, 51, 4.
+92,6. οὐκέτι: we should say less than.
+
+διειχέτην τὼ φάλαγγε: see
+on τὼ παῖδε, 51, 4.
 
 92, 7. ἐπαιάνιζον : 566 Introd. § 66.
 
-92, 8. ἤρχοντο: from apyw.— dvrior: equivalent to an English ad-
-verb; see on ἑκοῦσαι, 53, 26. For the case, see on ripwos, 65, 10. —
-πολεμίοις : dative with an adjective.4— os: temporal conjunction with
-ἐξεκύμαινε. ---- πορενομένων : SC. avT@v, genitive absolute of time.
+92, 8. ἤρχοντο: from ἄρχω.— 
 
-92,9. τι: 86. μέρος ; 80 450 ΜΠ τὸ ὑπολειπόμενον, οὗ which observe
+ἀντίοι: equivalent to an English ad-
+verb; see on ἑκοῦσαι, 53, 26. For the case, see on τίμιος, 65, 10. —
+πολεμίοις : dative with an adjective.4
+
+ὡς: temporal conjunction with
+ἐξεκύμαινε. ---- 
+
+πορευομένων : σψ. αὐτῶν, genitive absolute of time.
+
+92,9. τι: 86. μέρος ; so also with τὸ ὑπολειπόμενον, of which observe
 the tense, was being left behind.
 
-g2, 10. olow: adverb (originally cognate accusative with éAeAZovar,
+92, 10. οἷον: adverb (originally cognate accusative with ἐλελίζουσι,
 the sort of battle cry they raise).
 
-92, If. éXeAlLovor: the war cry was distinct from. the war song (cp.
+92, If. ἐλελίζουσι: the war cry was distinct from the war song (cp.
 ἐπαιάνιζον, 1. 7); see Introd. § 66.
 
-92,12. ἀσπίσι: for case, cp. agivy, 79,11. We might expect zpos
+92,12. ἀσπίσι: for case, cp. ἀξίνῃ, 79,11. We might expect πρὸς
 τὰς ἀσπίδας τοῖς δόρασι.
 
 H A, Β. σ. Gl.
-I τοχό 578 1605 655
-2 742 356 1102 5114
-3 655@ 1444 1023, 2 560
+1 1016 578 1605 655
+2 742 356 1102 511a
+3 655a 1444 1023,2 560
 4 765 376 1174 522
 
-Google
-

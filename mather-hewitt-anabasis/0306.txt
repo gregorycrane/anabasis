@@ -1,55 +1,60 @@
-204 XENOPHON’S ANABASIS [1,9
+#204 XENOPHON’S ANABASIS [1,9
 
 change from the form of direct discourse. Contrast the meaning of
-kaxas mpattw! with that οὗ κακῶς ποιῶ, 71, 11.
+κακῶς πράττω1 with that of κακῶς ποιῶ, 71, 11.
 
-96, 25. φανερὸς δ᾽ ἦν... πειρώμενος : (ρ. δῆλος ἦν... ἀνιώμενος, 59,
-5, and see note. — wowjoeev: in a past general condition, a type fre-
-quent in this chapter. The apodosis is zretpwevos, which denotes con-
-tinuance in the past (at the time of jv).
+96, 25. φανερὸς δ᾽ ἦν... πειρώμενος : cp. δῆλος ἦν... ἀνιώμενος, 59,
+5, and see note. — 
 
-97, 1. εὔχοιτο. .. ἔστε νικῴη : in indirect discourse for evyerar... €or
-av vixa (a temporal clause equivalent to a more vivid future condition).
+ποιήσειεν: in a past general condition, a type fre-
+quent in this chapter. The apodosis is πειρώμενος, which denotes con-
+tinuance in the past (at the time of ἦν).
 
-Q7, 2. GdeESpevos: returning like for like. But Cyrus had ill requited
+97, 1. εὔχοιτο. .. ἔστε νικῴη : in indirect discourse for εὔχεται... ἔστ᾽
+ἂν νικᾷ (a temporal clause equivalent to a more vivid future condition).
+
+Q7, 2. ἀλεξόμενος: returning like for like. But Cyrus had ill requited
 his brother’s forbearance, to which he had owed his life (51, 16).
 
-97, 3. kalydp ovv: see on 96, 15. — wdetoron, etc. : translate freely, fo
-him far (8n) more were eager to intrust ... than to any other one man
-in our time. ἑνί γε avdpi is somewhat parenthetical and modifies wAci-
-orot Oy (although grammatically in apposition with aire), ‘the number
-of persons who were eager to intrust their possessions to him was the
-very (67) greatest, at least for one man.’ trav ép pov is partitive
-genitive limiting avre.
+97, 3. καὶ γὰρ οὖν: see on 96, 15. — 
 
-97,5. ob... elmor: and yet, of course (dn), nobody would say either.
+πλεῖστοι, etc. : translate freely, to
+him far (δή) more were eager to intrust ... than to any other one man
+in our time. ἑνί γε ἀνδρί is somewhat parenthetical and modifies πλεῖ-
+στοι δή (although grammatically in apposition with aire), ‘the number
+of persons who were eager to intrust their possessions to him was the
+very (δή) greatest, at least for one man.’ τῶν ἐφ᾽ ἡμῶν is partitive
+genitive limiting αὐτῷ.
+
+97,5. οὐ... εἴποι: and yet, of course (δή), nobody would say either.
 τοῦτ᾽, which is explained by the appositive clause ὡς . .. εἴα καταγελᾶν,
 may be omitted in translation.
 
-97, 8. qv: as in 78, 6, with an infinitive as subject. — wodav: genitive
+97, 8. ἦν: as in 78, 6, with an infinitive as subject. — 
+
+ποδῶν: genitive
 of separation.
 
-97,9. orepopévouvs: the present passive, as in English ‘deprived,’
+97,9. στερομένους: the present passive, as in English ‘deprived,’
 has the perfect meaning ; otherwise the form required to denote a condi-
-tion or state would be éorepyeévous ; see on éLevypevy, 56, 10. In Persia
+tion or state would be ἐστερημένους ; see on ἐζευγμένη, 56, 10. In Persia
 severe punishments were in vogue, such as scourging, cutting off the
 ears and nose, hewing off the hands and feet, and putting out the eyes.
 
-97. 10. ἐγένετο : zt became possible; the subject is zopeverOar.
+97. 10. ἐγένετο : it became possible; the subject is πορεύεσθαι.
 
-97, 11. pydev dbtxodvre: the negative u7 shows the conditional force
-of the participle.2 — 70eAev: in a conditional relative clause equivalent
+97, 11. μηδὲν ἀδικοῦντι: the negative μή shows the conditional force
+of the participle.2 — 
+
+ἤθελεν: in a conditional relative clause equivalent
 to a simple past condition. In such a clause the optative is more usual,
 giving a general meaning, as in 1. 12, where we have the past general
-form of conditional relative clause 6 rt rpoywpotn (sc. éxetv.), whatever
-zt was to his advantage to have. But such words as oorts, ὅπῃ. etc.,
+form of conditional relative clause ὅ τι προχωροίη (sc. ἔχειν.), whatever
+it was to his advantage to have. But such words as ὅστις, ὅπῃ. etc.,
 in themselves convey sufficiently the idea of generality and indefinite-
 ness, and so are sometimes found with the indicative.®
 
 H A. B. G. GI.
-1 810 493,1 . 1075 499 @
-2 1025 431, 1 1612 5$82¢
-3 918, 8y4¢ 621 and N. 1432 618 c; cp 617
-
-Google
-
+1 810 493,1 1075 499 a
+2 1025 431,1 1612 582c
+3 918,894c 621-and-N. 1432 618c;cp-617

@@ -1,58 +1,65 @@
-1, 8] NOTES 289
+#289
 
-92, 13. éBow wovotwres: thus frightening; the participle has a touch
-of purpose, though it is present; cp. éwidecxvivres, 66, 24, and see note.
-- πρὶν... ἐξικνεῖσθαι : 566 οἡ εἶναι, 73» 14.
+92, 13. φόβον ποιοῦντες: thus frightening; the participle has a touch
+of purpose, though it is present; cp. ἐπιδεικνύντες, 66, 24, and see note.
+- πρὶν... ἐξικνεῖσθαι : see on εἶναι, 73, 14.
 
-92, 16. ph Oeiv: see on dye, 91, 5. They feared a rally and sudden
+92, 16. μὴ θεῖν: see on ἄγειν, 91, 5. They feared a rally and sudden
 attack by the enemy.
 
-93, 1. ta pav.. . rd 8€: in partitive apposition with ἅρματα.
+93, 1. τὰ μὲν... τὰ δέ: in partitive apposition with ἅρματα.
 
-93, 2. qvidxov: genitive with an adjective of want. In the panic
+93, 2. ἡνιόχων: genitive with an adjective of want. In the panic
 the charioteers had fled from their posts.
 
-93, 3- mpotSouv: saw them coming; for the force of apo-, cp. apo-
-ato Oopuevos, 52, 22, and for the optative, see on ὅπότε . .. βούλοιτο, 56,
-20. --- διίσταντο : they opened up gaps; cp. the use of this word in 76, 1.
-This maneuver was afterwards performed by the soldiers of Alexander
-in the battle with the Persians at Arbela; cp. Introd. § 48.— én 8
-ὅστις : 507,16 0716; we might expect fy, but the use of the past, as in
-77) 9, is exceptional.
+93, 3. προΐδοιεν: saw them coming; for the force of προ-, cp. προ-
+αἰσθόμενος, 52, 22, and for the optative, see on ὅπότε . .. βούλοιτο, 56,
+20. --- 
 
-93, 4. οὐδὲ τοῦτον : ovde is intensive, not even he; like the preceding
-ovdey, it belongs grammatically with épacay (see on ore . . . ey, 63,
-17), but in sense with waeiy. Note the emphatic repetition of nega-
-tives in these three lines (see on ovdevi, 63, 18). The scythe chariots,
+διίσταντο : they opened up gaps; cp. the use of this word in 76, 1.
+This maneuver was afterwards performed by the soldiers of Alexander
+in the battle with the Persians at Arbela; cp. Introd. § 48.— 
+
+ἔστι δ᾽
+ὅστις : 507,16 0716; we might expect ἦν, but the use of the past, as in
+77, 9, is exceptional.
+
+93, 4. οὐδὲ τοῦτον : οὐδέ is intensive, not even he; like the preceding
+οὐδέν, it belongs grammatically with ἔφασαν (see on οὔτε . .. ἔφη, 63,
+17), but in sense with παθεῖν. Note the emphatic repetition of nega-
+tives in these three lines (see on οὐδενί, 63, 18). The scythe chariots,
 fearful as was their appearance, were seldom more efficient than here.
 See Introd. § 51.
 
-93, 5. οὐδ᾽... δέ: [16 negative of xai . . . de (see 51, 6f.), and no
-one else either, strengthened by ovdeés, 1. 6.
+93, 5. οὐδ᾽... δέ: the negative of καὶ. .. δέ (see 51, 6f.), and no
+one else either, strengthened by οὐδείς, 1. 6.
 
-93, 8. νικῶντας, διώκοντας : 1η indirect discourse, frat the Greeks
-had conquered and were pursuing; the present of vuxdw and some
+93, 8. νικῶντας, διώκοντας : in indirect discourse, that the Greeks
+had conquered and were pursuing; the present of νικάω and some
 other verbs often refers to a continuous state rather than to an act, and
 the present may then be translated as the perfect of the corresponding
-act 2; as ‘I am victorious over’ or ‘I have conquered.’ — rd xa0 abrois:
-86. μέρος, the division opposite them.
+act 2; as ‘I am victorious over’ or ‘I have conquered.’ — 
 
-93, 9- RSdpevos: concessive.
+τὸ καθ᾽ αὑτούς: sc. μέρος, the division opposite them.
 
-93, 10. of8': see on |. 4.— &: distinguish from ὡς .ὃ
+93, 9. ἡδόμενος: concessive.
 
-93, II. ovverwapapévyy: circumstantial participle of manner.
+93, 10. οὐδ᾽: see on |. 4.— 
 
-93, 12. dwepedetro: watched to see, followed by an indirect question.
+ὧς: distinguish from ὡς .3
 
-93, 13. ὕδει αὐτὸν ὅτι... ἔχοι: 566 Οἡ ἀπήγγειλε . .. κρίσιν, 81, 17.
+93, 11. συνεσπειραμένην: circumstantial participle of manner.
 
-93, 15. ἔχοντεφ : ἰΓΔηβἰδίΐα as the main verb, hold their own center
+93, 12. ἐπεμελεῖτο: watched to see, followed by an indirect question.
+
+93, 13. ᾔδει αὐτὸν ὅτι... ἔχοι: see on ἀπήγγειλε . .. κρίσιν, 81, 17.
+
+93, 15. ἔχοντες : translate as the main verb, hold their own center
 
 HA. B. G. GI.
-I 753¢ 357 1140 512
-2 827 521 cp. 1256 4542
-8 120 138,3
+I 753c 357 1140 512
+2 827 521 cp.1256 454f
+8 120 NA 138,3 NA
 
 ANABASIS — 19
 
