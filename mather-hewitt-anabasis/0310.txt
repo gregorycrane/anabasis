@@ -1,9 +1,9 @@
-298 XENOPHON’S ANABASIS [1,9
+#298 XENOPHON’S ANABASIS [1,9
 
-99, 23. ὡς ph . . . Gywowv: for the mood, see on ἵνα. .. διαβῇ,
+99, 23. ὡς μὴ... ἄγωσιν: for the mood, see on ἵνα. .. διαβῇ,
 74,20. Cyrus was particularly fond of horses; see 95, 27 f.
 
-99, 26. pédAorev derOar: were likely to see him, a periphrastic future
+99, 26. μέλλοιεν ὄψεσθαι: were likely to see him, a periphrastic future
 as in 87, 16, but observe that here the future infinitive 1 is employed, —
 its principal use when not in indirect discourse.
 
@@ -11,51 +11,58 @@ its principal use when not in indirect discourse.
 his thought ‘that I may show whom I honor.’ The relative pronoun is
 rarely used to introduce indirect questions.
 
-99, 29. ‘EAAfvev, BapBdpev: partitive with ovdéva.
+99, 29. Ἑλλήνων, βαρβάρων: partitive with οὐδένα.
 
-100,1. τεκμήριον δέ: 5.5. ἐστί; the d€ correlates with ev, 99, 28, the
-proof being added to Xenophon’s private judgment. — S0tAou dvros:
+100,1. τεκμήριον δέ: 5.5. ἐστί; the δέ correlates with μέν, 99, 28, the
+proof being added to Xenophon’s private judgment. 
+
+δούλου ὄντος:
 concessive, slave though he was, see on ἧς, 84, 2.
 
-100, 2. wAfy, etc.: but see 62, 4-6, which shows that Orontas was
+100, 2. πλήν, etc.: but see 62, 4-6, which shows that Orontas was
 not the only one to prove unfaithful to Cyrus.
 
-100, 3. καὶ οὗτος... ἑαντῷ: for the circumstance see 81, 7 f. — oi:
-see ON ol, 53, 4.
+100, 3. καὶ οὗτος... ἑαντῷ: for the circumstance see 81, 7 f. — οἱ:
+see on οἷ, 53, 4.
 
-100, 4. avtrév: repeats é6v; omit it in translating, and render dy
-(whose antecedent, being indefinite, is omitted), ome whom, meaning
+100, 4. αὐτόν: repeats ὅν; omit it in translating, and render ὅν
+(whose antecedent, being indefinite, is omitted), one whom, meaning
 the faithless messenger of 81, 7 f.
 
-100, 6. ovrot: repeats zoAAoi with emphasis, these moreover the men
-most highly esteemed by him; cp. at tavra, 73, 8, and see note.
+100, 6. οὗτοι: repeats πολλοί with emphasis, these moreover the men
+most highly esteemed by him; cp. καὶ ταῦτα, 73, 8, and see note.
 
-100, 7. évres: equivalent to the protasis of a less vivid future con-
+100, 7. ὄντες: equivalent to the protasis of a less vivid future con-
 dition.
 
-100, 8. riufis: for the genitive with rvyydvew, see on dAdov. . .
-Κύρου, 74, 4-
+100, 8. τιμῆς: for the genitive with τυγχάνειν, see on ἄλλου. . .
+Κύρου, 74, 4.
 
-100, 9. Td... adr yevdpevov: what befell him, subject of an implied
-€ori; Texpnptov is predicate.
+100, 9. τὸ... αὐτῷ γενόμενον: what befell him, subject of an implied
+ἐστί; τεκμήριον is predicate.
 
-100, 10. Sr: with rexunpiov.— «ol... Kal: not only... but also.
+100, 10. ὅτι: with rexunpiov.
 
-100, II. tows: used only once because the three adjectives apply to
-only one class of people. — &mo@vyoxovros : note the tense.
+καὶ... καί: not only... but also.
 
-100, 15. lrmxod: see ON avTav, 53, 5. ---πεπτωκότα : ἴῃ indirect dis-
+100, 11. τούς: used only once because the three adjectives apply to
+only one class of people. — 
+
+ἀποθνήσκοντος : note the tense.
+
+100, 15. ἱππικοῦ: see on αὐτῶν, 53, 5. ---
+
+πεπτωκότα : ἴῃ indirect dis-
 course. See Introd. § 24.
 
-100, 17. CHAPTER 10. évraé€a: the narrative is taken up where it
-was left at the end of Chapter 8. —  Kkehadn Kal f xelp: they were cut
+CHAPTER 10.
+
+100, 17.  ἐνταῦθα: the narrative is taken up where it
+was left at the end of Chapter 8. —  ἡ κεφαλὴ καὶ ἡ χείρ: they were cut
 off by order of the king and fastened upon a stake (144, 1 f.).
 
-100, 19. peta’ Aptalov: era denotes a closer connection than ow;
-οἱ μετὰ ‘Aptaiov includes Ariaeus, Ariaeus and his men; so often the
+100, 19. μετὰ ᾿Ἀριαίον: μετά denotes a closer connection than σύν;
+οἱ μετὰ ᾿Ἀριαίον includes Ariaeus, Ariaeus and his men; so often the
 
 H A. B. G. Gl.
-1 8554 549, I 1278 570 ὁ
-
-Google
-
+1 855α 549,1 1278 570b
