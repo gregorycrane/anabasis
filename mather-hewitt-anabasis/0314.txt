@@ -1,62 +1,69 @@
-302 XENOPHON’S ANABASIS [1, 10
+#302 XENOPHON’S ANABASIS [1, 10
 
-103, 23. a@Opéou: predicate, like zeLor, 1. 12.
+103, 23. ἁθρόοι: predicate, like πεζοί, λ. 12.
 
-103, 24. lawwéwov: genitive of separation. .
+103, 24. ἱππέων: genitive of separation. 
 
-103, 25. ἀπεχώρησαν: ποίε the tense, simply stating the completed
-act, and cp. éyAovro of the act in progress (was being cleared ).
+103, 25. ἀπεχώρησαν: note the tense, simply stating the completed
+act, and cp. ἐψιλοῦτο of the act in progress (was being cleared ).
 
-103, 26. te atrév: af the foot; motion is implied, cp. ὑπό, 94, 11.
+103, 26. ὑπ᾽ αὐτόν: af the foot; motion is implied, cp. ὑπό, 94, 11.
 
-103, 28. ra. . . Addov: object of xariWovras, things on the other side
-of the hill.— tl tor: what was going on.
+103, 28. τὰ... λόφου: object of κατιδόντας, things on the other side
+of the hill.
 
-104, 1. ἀνὰ κράτος : (ρ. κατὰ κράτος, 92, 15. --- σχεδὸν... ὅτε: σόομέ
-the time when. .
+τί ἐστιν: what was going on.
 
-104, 2. ἦν: (ρΡ. ἐστιν, 103, 29. --- Atos: names of heavenly bodies
-may, like ᾿βασιλεύς, omit the article, being treated as proper nouns.
+104, 1. ἀνὰ κράτος : cp. κατὰ κράτος, 92, 15. --- 
 
-104, 3. θέμενοι τὰ ὅπλα : erounding arms.
+σχεδὸν... ὅτε: about
+the time when. 
 
-104, 4. @avpatow: observe the tense.— re... dalvorro: a causal
+104, 2. ἦν: cp. ἐστιν, 103, 29. --- ἥλιος: names of heavenly bodies
+may, like βασιλεύς, omit the article, being treated as proper nouns.
+
+104, 3. θέμενοι τὰ ὅπλα : grounding arms.
+
+104, 4. ἐθαύμαζον: observe the tense.
+
+ὅτι. . φαίνοιτο: a causal
 clause in implied indirect discourse, representing the thought of the
 Greeks.
 
-104, 6. τεθνηκότα : 566 Οἡ πεπτωκότα, 100, [ξ. --- διώκοντα οἴχεσθαι :
+104, 6. τεθνηκότα : see on πεπτωκότα, 100, 15. --- διώκοντα οἴχεσθαι :
 see on 101, 14.
 
-104, 7. καταληψόμενόν τι: fo occupy some point.
+104, 7. καταληψόμενόν τι: to occupy some point.
 
-104, 9. évrai€a: cp. 103, 22. — Gyowro, dwlovev: see on ef wepzotev,
+104, 9. ἐνταῦθα: cp. 103, 22. — 
 
-etc., 101, 17.
-104, 10. Sopryorév: a Greek’s regular meals were as follows: daxpa-
-tirpa, breakfast, a simple meal of bread dipped in wine, taken directly
-after rising; dpurrov, /uncheon, eaten late in the forenoon (for the
+ἄγοιντο, ἀπίοιεν: see on εἰ πέμποιεν, etc., 101, 17.
+
+104, 10. δορπηστόν: a Greek’s regular meals were as follows: ἀκρά-
+τισμα, breakfast, a simple meal of bread dipped in wine, taken directly
+after rising; ἄριστον, luncheon, eaten late in the forenoon (for the
 Greeks with Cyrus it was the first meal, a combination of breakfast and
-luncheon) ; detrvov, dinner, the chief meal, taken late in the day, having
-superseded the old dopzov, supper.
+luncheon) ; δεῖπνον, dinner, the chief meal, taken late in the day, having
+superseded the old δόρπον, supper.
 
-104, 12. τῶν τε ἄλλων: 566 οἡ τὰ. . . ἄλλα, 64, 16.
+104, 12. τῶν τε ἄλλων: see on τὰ. . . ἄλλα, 64, 16.
 
-104, 13. διηρπασμένα : 566 ΟΠ διελαύνοντα, 79», 10. --- εἴ Te: as in 75, 5.
+104, 13. διηρπασμένα : see on διελαύνοντα, 79, 10. --- εἴ τι: as in 75, 5.
 
 104, 16. λάβοι: in implied indirect discourse, representing a subjunc-
-tive of a more vivid future condition in the thought of Cyrus. — 8ta8c8ely
-... “EAAnow: Cyrus knew that his real strength lay, not in his 100,000
+tive of a more vivid future condition in the thought of Cyrus. — 
+
+διαδιδοίη
+... Ἕλλησιν: Cyrus knew that his real strength lay, not in his 100,000
 barbarians, but in his 13,000 Greeks; hence it was prudent to provide
 for their needs in case of emergency.
 
-104, 17. ws édéyovro: an extreme instance of the Greek tendency to
-use the personal construction ; translate as zt was said. See on A€yerat
-᾿Απόλλων, 57, 4. ---- pata: predicate of ἦσαν ; avrat is its subject.
+104, 17. ὡς ἐλέγοντο: an extreme instance of the Greek tendency to
+use the personal construction ; translate as it was said. See on λέγεται
+᾿Ἀπόλλων, 57, 4. ---- ἅμαξαι: predicate of ἦσαν ; αὗται is its subject.
 
-104, 18. Sihpracav: pluperfect in meaning; so ἦσαν, 1. 19, δηὰ
+104, 18. διήρπασαν: pluperfect in meaning; so ἦσαν, 1. 19, and
 ἐφάνη. 1. 21.
 
-104, 20. πρὶν. .. καταλῦσαι: 566 οἢ εἶναι, 73, 14.
+104, 20. πρὶν. .. καταλῦσαι: see on εἶναι, 73, 14.
 
-Google
-
