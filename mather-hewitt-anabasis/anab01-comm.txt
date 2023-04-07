@@ -1,7 +1,10 @@
 <pb n="227"/> NOTES
- TITLE. ᾿Ἀνάβασις: this title applies strictly only to the first book of the narrative. The word means ‘a going up.’ The Greeks considered any progress away from the coast, whether out to sea (ἀναπλεῖν) or inland, as here (ἀναβαίνειν), to be ‘a going up.’ Conversely, to return from the interior to the coast was to ‘go down’ (καταβαίνειν), just as to put in to shore from the high sea was to ‘sail down’ (καταπλεῖν). The march of the Ten Thousand became therefore a Catabasis (κατάβασις) as soon as they turned their steps coastward, which they did shortly after the battle at Cunaxa.
- BOOK I
- Page 51,1. CHAPTER I. Δαρείου, etc. : genitive of source.1— 
+ TITLE. Ἀνάβασις: this title applies strictly only to the first book of the narrative. The word means ‘a going up.’ The Greeks considered any progress away from the coast, whether out to sea (ἀναπλεῖν) or inland, as here (ἀναβαίνειν), to be ‘a going up.’ Conversely, to return from the interior to the coast was to ‘go down’ (καταβαίνειν), just as to put in to shore from the high sea was to ‘sail down’ (καταπλεῖν). The march of the Ten Thousand became therefore a Catabasis (κατάβασις) as soon as they turned their steps coastward, which they did shortly after the battle at Cunaxa.
+
+ * References to the text are made by page and line. Grammar references are grouped in footnotes. H A.= Hadley-Allen’s Greek Grammar; B.= Babbitt’s Grammar of Attic and Ionic Greek; G.=Goodwin’s Greek Grammar; Gl.= Goodell’s School Grammar of Attic Greek.
+
+CHAPTER I. 
+51,1. Δαρείου, etc. : genitive of source.1 
 
 γίγνονται: historical present,1 here better called the annalistic or notebook present, which is used as in diaries or notebooks to record incidents, especially births, deaths, and accessions. 
 
@@ -9,7 +12,7 @@
 
 51,2. μὲν. .. δέ: here, as often, these particles are to be translated only by stress of voice on the words which they follow. 
 
-Κῦρος: not to be confused with his more famous ancestor, Cyrus the Great. The following amusing lines are quoted by Robert Browning (Works, Riverside edition, IV, p. xi) as the beginning of a young friend’s poetical translation of the Anadbasis:
+Κῦρος: not to be confused with his more famous ancestor, Cyrus the Great. The following amusing lines are quoted by Robert Browning (Works, Riverside edition, IV, p. xi) as the beginning of a young friend’s poetical translation of the Anabasis:
 
 <cit><quote>
 <l>Cyrus the Great and Artaxerxes</l>
@@ -20,7 +23,7 @@
 
 </quote></cit>
 
-* References to the text are made by page and line. Grammar references are grouped in footnotes. H A.= Hadley-Allen’s Greek Grammar; B.= Babbitt’s Grammar of Attic and Ionic Greek; G.=Goodwin’s Greek Grammar; Gl.= Goodell’s School Grammar of Attic Greek.
+
 HA. B. G. Gl.
 1 750 365 1130,2 50a9a
 2 828 525 1252 454b
@@ -30,7 +33,7 @@ HA. B. G. Gl.
 #228 XENOPHON’'S ANABASIS (4,1
 
 51,3. ἠσθένει : the imperfect denotes the continuance of the state. Darius was at this time engaged in quelling a revolt in Media.—
-ὑπώπτευε: note the augment.! 
+ὑπώπτευε: note the augment.1
 
 τελευτὴν τοῦ βίου: the article, as often, is used for a possessive pronoun, — an end of his life; English prefers a Clause, as that his life was drawing to an end.
 
@@ -61,7 +64,7 @@ HA. B. G. Gl.
 
 51,8. ἁθροίζονται: not historical present.7—ὁ: the article is frequently used with proper nouns, especially with the names of persons well known or previously mentioned. 
 
-λαβών: the commonest use of the circumstantial participle.® English uses the present tense, but Greek is more accurate, the aorist participle expressing simple occurrence and
+λαβών: the commonest use of the circumstantial participle.® English uses the present tense, but Greek is more accurate, the aorist participle expressing simple occurrence and usually implying the completion of the action of the participle before the time of the main verb. Cyrus ad taken Tissaphernes before he started.9
 HA, B. G. Gl.
 1 362a 175,1 543 268b,438a
 2 939 342 895,3 570d
@@ -71,10 +74,11 @@ HA, B. G. Gl.
 6 726 341 1077 534
 7 824a 520,1 1253,1 454e
 8 968a-and-b 4 653,8-and-N. 3 1565,7;1565 583-and-a
+9 856 545 1288 581a
 
 <pb n="229"/>
 #229
- usually implying the completion of the action of the participle before the time of the main verb. Cyrus ad taken Tissaphernes before he started.1
+
 
 51,9. ὡς φίλον: as a friend, so he said. By the use of ὡς Xenophon means to imply that Cyrus, the subject of the sentence, believed, or at least pretended to believe, that Tissaphernes was his friend, without implying that Xenophon himself held that opinion. He knew, in fact, that Tissaphernes was no friend to Cyrus, as we see from 1. 13 f. 
 
@@ -96,7 +100,7 @@ HA, B. G. Gl.
 
 51,12. ἐτελεύτησε: sc. τὸν βίον; cp. τελευτὴν τοῦ Biov, l.3; for the translation, see on ézoince, l.6. — els: see on l.7.
 
-51,13. ἐτελεύτησε . . . αὐτῷ: accused Cyrus to his brother of plotting against him; see Introd. § 2. ὡς introduces indirect discourse following the idea of saying implied in διαβάλλει, which is historical present.3 Hence the mood4 of ἐπιβουλεύοι.
+51,12. ἐτελεύτησε . . . αὐτῷ: accused Cyrus to his brother of plotting against him; see Introd. § 2. ὡς introduces indirect discourse following the idea of saying implied in διαβάλλει, which is historical present.3 Hence the mood4 of ἐπιβουλεύοι.
 
 51,14. τόν: like τοῦ, l.3, and τῶν, l.9, equivalent to a possessive pronoun. 
 
@@ -104,7 +108,7 @@ HA, B. G. Gl.
 
 51,15. ὡς ἀποκτενῶν: future participle implying purpose,5 wth the avowed purpose of putting him to death. By using ὡς Xenophon marks this purpose as the one put forward by the king himself, and at the same
 HA. B. G. Gl.
-1 856 545 1288 581a
+
 2 729c 350 1085,3 506a
 3 cp.828 517,1 1268 NA
 4 932,2-and-b 673 1481,2 624b
@@ -112,14 +116,15 @@ HA. B. G. Gl.
 
 <pb n="230"/>
 #230 XENOPHON'’S ANABASIS [l.1
- time he disclaims all responsibility for its truth.1 See ὡς in Vocab., and cp. ὡς φίλον, l.9, and note. —: not the; cp. τόν, l. 14.
+ time he disclaims all responsibility for its truth.1 See ὡς in Vocab., and cp. ὡς φίλον, l.9, and note. —
+ 
+ ἡ: not the; cp. τόν, l. 14.
 
-51,16. ἐξαιτησαμένη: observe the force of the preposition (ot of his brother's power). The wife of a deceased king held a peculiarly powerful position in the Persian court. She ranked above the king’s chief wife, and often exercised more authority as queen mother than she had wielded as queen consort.
+51,16. ἐξαιτησαμένη: observe the force of the preposition (out of his brother's power). The wife of a deceased king held a peculiarly powerful position in the Persian court. She ranked above the king’s chief wife, and often exercised more authority as queen mother than she had wielded as queen consort.
 
 52,2. μήποτε: distinguish from οὕποτε.2
 
-ἔσται: in an object clause
-(as distinct from a purpose clause) the future is the usual construction with ὅπως3 after a verb denoting striving or caring for.
+ἔσται: in an object clause (as distinct from a purpose clause) the future is the usual construction with ὅπως3 after a verb denoting striving or caring for.
 
 ἐπί: with dative of person, the power of.
 
@@ -135,11 +140,13 @@ HA. B. G. Gl.
 
 ἀφικνεῖτο : a more usual construction here would be the optative,8 but the idea of indefiniteness denoted by that mood is sometimes felt to be sufficiently expressed by the indefinite relative ὅστις. 
 
-πάντας: of those from the king. The article, with or without a substantive, is often followed bya prepositional phrase equivalent to an attributive adjective.
+τῶν παρὰ βασιλέως: of those from the king. The article, with or without a substantive, is often followed bya prepositional phrase equivalent to an attributive adjective.
 
 52,6. βασιλέως: without the article (see Vocab.).
 
-πάντας: owing to the distributive meaning of ὅστις, it is easy for a word referring back to it to slip into the plural. πάντας serves as object of the participle as well as of ἀπεπέμπετο. ---- ἀπεπέμπετο : ποία the force of the tense ;9 for the voice of μεταπέμπεται, 51,5 ; contrast ἀποπέμπει, 51,16.
+πάντας: owing to the distributive meaning of ὅστις, it is easy for a word referring back to it to slip into the plural. πάντας serves as object of the participle as well as of ἀπεπέμπετο. ---- 
+
+ἀπεπέμπετο : note the force of the tense ;9 for the voice of μεταπέμπεται, 51,5 ; contrast ἀποπέμπει, 51,16.
 HA, B. G, Gl.
 1 978 656,3 1574 593c
 2 1021 431,1 1610 486
@@ -149,21 +156,20 @@ HA, B. G, Gl.
 6 417a 200N. 729 365a
 7 969b 653,4 1563,2 583
 8 914,B(2) 625 1431,2 618
-9 830 526,1 1253, 2  459
+9 830 526,1 1253,2  459
 
 <pb n="231"/>
 #231
 
-52,7. ὅστε... εἶναι: expresses the result as fending to follow the action of οὕτω διατιθείς, with such treatment as to make them, etc. It implies, but does not definitely state, that they were actually more friendly to him. To emphasize the attainment of a result, Greek uses gore with the indicative.1
+52,7. ὥστε... εἶναι: expresses the result as fending to follow the action of οὕτω διατιθείς, with such treatment as to make them, etc. It implies, but does not definitely state, that they were actually more friendly to him. To emphasize the attainment of a result, Greek uses ὥστε with the indicative.1
 
-αὐτῷ: depends on the adjective; the indirect reflexive αὑτῷ might have been used.3
+αὐτῷ: depends on the adjective; the indirect reflexive αὑτῷ might have been used.2
 
 μᾶλλον: rather (not forming a comparative with φίλους).
 
 52,8. καί: see καί, 51,6.
 
-τῶν βαρβάρων: genitive with a verb of caring for.2 We might expect ἐπεμελεῖτο ὡς οἱ παρ᾽ ἑαυτῷ βάρβαροι
-πολεμεῖν, etc., but the substantive is transferred to the main clause and made to depend on ἐπεμελεῖτο. Any one not a Greek was styled a βάρβαρος, and even now foreigners traveling in Greece are sometimes so called. 
+τῶν βαρβάρων: genitive with a verb of caring for.3 We might expect ἐπεμελεῖτο ὡς οἱ παρ᾽ ἑαυτῷ βάρβαροι πολεμεῖν, etc., but the substantive is transferred to the main clause and made to depend on ἐπεμελεῖτο. Any one not a Greek was styled a βάρβαρος, and even now foreigners traveling in Greece are sometimes so called. 
 
 παρ᾽ ἑαυτῷ: a prepositional phrase used attributively, like παρὰ βασιλέως, l. 6. ---- 
 
@@ -173,19 +179,24 @@ HA, B. G, Gl.
 
 52,9. τε. .. καί: not only... but also. 
 
-εὐνοϊκῶς ἔχοιεν: not infrequently Greek uses ἔχω intransitively with an adverb instead of εἰμί with an adjective, to hold (keep, stay) in a well-disposed condition, rather than to be well disposed. But translate in the latter way. —rhv: see on Τόν, 51,14.
+εὐνοϊκῶς ἔχοιεν: not infrequently Greek uses ἔχω intransitively with an adverb instead of εἰμί with an adjective, to hold (keep, stay) in a well-disposed condition, rather than to be well disposed. But translate in the latter way. 
+
+
+τὴν: see on Τόν, 51,14.
 
 52,10. ὡς μάλιστα ἐδύνατο : as best (lit., most) he could.
 
 52,11. ἐπικρυπτόμενος : circumstantial participle of manner. Note the voice.6 The whole phrase may be translated as secretly as he could. See Introd. § 6.
 
-ὅπως . .. λάβοι: a purpose clause depending on a past tense. ὅτι: often used, like ὡς, to strengthen a superlative adjective or adverb; cp. Latin guam in quam plurimi, as many as possible.
+ὅπως . .. λάβοι: a purpose clause depending on a past tense. 
+
+ὅτι: often used, like ὡς, to strengthen a superlative adjective or adverb; cp. Latin quam in quam plurimi, as many as possible.
 
 52,13. ὧδε: bear in mind the difference between ὧδε and οὕτω. In this instance ὧδε includes everything to the end of the chapter. —
 HA. B. . G. GL
-1 927  595 1450 566 5, 639 @
-2 765,684a 376, 471,1 1174, 992 522
-3 742 356 1102 sire
+1 927  595 1450 566b,639a
+2 765,684a 376, 471,1 1174,992 522
+3 742 356 1102 511c
 4 885b 593,1 1374,1-and-2 638c
 5 952 641 1526 565a
 6 812 504 1242,1 500a
@@ -197,12 +208,12 @@ HA. B. . G. GL
 ἐποιεῖτο: the tense indicates that the action was prolonged over a period of time.
 
 52,14. φυλακάς: from φύλαξ οὐ φυλακή? The antecedent is taken into the relative clause.1 Translate as if we had ὁπόσων φυλακῶν, which might have been used, of whatever garrisons he had, etc. —
+
 παρήγγειλε: note the force of the preposition, passed the word along, sent word.
 
 52,15. Πελοποννησίους: the Greek force of Cyrus was largely composed of Peloponnesians, at this time the best soldiers among the Greeks. See Introd. §§ 8, 53.
 
-52,16. ὡς ἐπιβουλεύοντος Τισσαφέρνους: genitive absolute of cause.2
-ὡς indicates the cause as that assigned by Cyrus, not by Xenophon; see on ὡς φίλον, 51,9, and ὡς ἀποκτενῶν, 51,15. Translate because, as he said, Tissaphernes was plotting.
+52,16. ὡς ἐπιβουλεύοντος Τισσαφέρνους: genitive absolute of cause.2 ὡς indicates the cause as that assigned by Cyrus, not by Xenophon; see on ὡς φίλον, 51,9, and ὡς ἀποκτενῶν, 51,15. Translate because, as he said, Tissaphernes was plotting.
 
 52,17. πόλεσι : See on αὐτῷ, 51,14.
 
@@ -250,8 +261,7 @@ HA. OB G. Gl.
 53,2. αὐτῷ: dat. of possessor, and in this again he had, etc. 
 
 τοῦ
-ἁθροίζειν: for collecting, objective genitive with πρόφασις. The infinitive
-(as in English, Latin, and other languages) is often used as a noun; at the same time it may take an object, like a verb.
+ἁθροίζειν: for collecting, objective genitive with πρόφασις. The infinitive (as in English, Latin, and other languages) is often used as a noun; at the same time it may take an object, like a verb.
 
 53,3- ἀδελφὸς ὢν: the ground of the demand; see on φιλοῦσα, §2, 4.
 
@@ -279,68 +289,82 @@ HA. B. G, Gl. x 679 475,1  989, 2 199b
 <pb n="234"/>
 234 XENOPHON’S ANABASIS {1,1
 
-53,6. ὥστε... ἠσθάνετο: 566 οἡ ὥστε. .. εἶναι, 52,7. Diphthongs are augmented by lengthening their first vowel. — wpds éavrév: see on παρ᾽ ἑαυτῷ, 52,8.
+53,6. ὥστε... ἠσθάνετο: see on ὥστε. .. εἶναι, 52,7. Diphthongs are augmented by lengthening their first vowel. — wpds éavrév: see on παρ᾽ ἑαυτῷ, 52,8.
 
 53,7. Τισσαφέρνει: stands first in its clause because emphatic in opposition to éavroy. The dative of association is regular with verbs of fighting!; ovv Ticoadepver would mean on the side of Tissaphernes.
 
 
 πολεμοῦντα : see on dirovaa, 52,4.
 
-53,8. Saravav: in indirect discourse.? — ot6év: see on τὸ ἀρχαῖον, 52,
-19; cp. English “ nothing loth” (= not at all unwilling), and “it profiteth me nothing,” 1 Corznthians 13. 3.— abtév wodepotvtwv : at their being at war; for the construction, ορ. ἐπιβουλεύοντος Τισσαφέρνους, 52,17. Since many of the Persian satraps possessed power which might be dangerous to the king if directed against him, any conflict between them that kept them busy and lessened their ability to aim at the chief power was not displeasing to Artaxerxes.
+53,8. δαπανᾶν: in indirect discourse.? — 
 
-53,9- wal yap: see on 52,18. — dméwepme: continued to, etc., a common use of the imperfect. — yeyvopévous: as they became due.
+οὐδέν: see on τὸ ἀρχαῖον, 52,
+19; cp. English “ nothing loth” (= not at all unwilling), and “it profiteth me nothing,” 1 Corinthians 13. 3.— 
 
-53,10. Baodet: the dative with a verb of sending denotes not so much the person ¢o whom, as the one for whom a thing is sent (dative of interest), but 4o may be used in translation. 
+αὐτῶν πολεμούντων : at their being at war; for the construction, cp. ἐπιβουλεύοντος Τισσαφέρνους, 52,17. Since many of the Persian satraps possessed power which might be dangerous to the king if directed against him, any conflict between them that kept them busy and lessened their ability to aim at the chief power was not displeasing to Artaxerxes.
 
-πόλεων ὧν : οΥ πόλεων
-ἅς. ὧν serves as object of éywy and is attracted into the case of its antecedent.’ — Tiswadépvous: belonging to Tissaphernes ; see on Twsσαφέρνους, 52,19.
+53,9. καὶ γάρ: see on 52,18. — 
 
-539)11. ἐτύγχανεν ἔχων: happened to have, in consequence of the fortunes of war. For the construction, 566 οὔ παρών, 51,5.
+ἀπέπεμπε: continued to, etc., a common use of the imperfect. — 
 
-53,12. abr@: dative of interest implying advantage.*— ovveAéyero:
-‘was being collected; cp. ἀπέπεμπε, l.9.
+γιγνομένους: as they became due.
 
-53,13. war dvriumépas: an adverbial phrase of place, followed by the genitive.®
+53,10. βασιλεῖ: the dative with a verb of sending denotes not so much the person ¢o whom, as the one for whom a thing is sent (dative of interest), but 4o may be used in translation. 
 
-53,15. gvyas: Clearchus was exiled for disobedience to the military authorities at Sparta (134, 18 81). -- τούτῳ : Πρ. αὐτῷ, l.5.
+πόλεων ὧν : for πόλεων ἅς. ὧν serves as object of ἔχων and is attracted into the case of its antecedent.8 — 
+
+Τισσαφέρνους: belonging to Tissaphernes ; see on Τισσαφέρνους, 52,19.
+
+53,11. ἐτύγχανεν ἔχων: happened to have, in consequence of the fortunes of war. For the construction, see on παρών, 51,5.
+
+53,12. αὐτῷ: dative of interest implying advantage. 
+
+συνελέγετο: was being collected; cp. ἀπέπεμπε, l.9.
+
+53,13. κατ' ἀντιπέρας: an adverbial phrase of place, followed by the genitive.5
+
+53,15. φυγάς: Clearchus was exiled for disobedience to the military authorities at Sparta (134, 18 81). -- 
+
+τούτῳ : cp. αὐτῷ, l.5.
 
 53,16. ἠγάσθη: came to admire, an inceptive or ingressive aorist.6 —
+
 τε: may sometimes be omitted in translation.
+
 HA. B. G. Gl.
-1 772 392, 1 and N, 11977 525
-2 946 646 1522, 2 578
-3 994 484, 1 1031 613 4
+1 772 392,1and-N, 1177 525
+2 946 646 1522,2 578
+3 994 484,1 1031 613b
 4 757 378 1165 523
-5 757 362, 3 148 | 518 ὁ
-6 84: 529 1260 464
+5 757 362,3 1148 518b
+6 841 529 1260 464
 
 <pb n="235"/>
 
-535 17. δίδωσιν: 566 on ἀνέβη, 51,10.
+53,17. δίδωσιν: see on ἀνέβη, 51,10.
 
-μυρίους δαρεικούς: nearly
-$55,000, but it should be kept in mind that the purchasing power of money was much greater then than now.
+μυρίους δαρεικούς: nearly $55,000, but it should be kept in mind that the purchasing power of money was much greater then than now.
 
 53,19. ἀπὸ. .. χρημάτων: viewed as the source whence sprang his ability to collect an army; the dative of means might have been used.
 
 53,21. ὁρμώμενος: Clearchus used this country as a base.
 
-53,22. Θρᾳξί: for the case, see on Τισσαφέρνει, l.7. --- τοῖς ὑπὲρ
-“Ἑλλήσποντον οἰκοῦσι: for the position of this attributive phrase, cp.
-τῇ . . Ἀβύδου, 1. 13.
+53,22. Θρᾳξί: for the case, see on Τισσαφέρνει, l.7. --- 
+
+τοῖς ὑπὲρ Ἑλλήσποντον οἰκοῦσι: for the position of this attributive phrase, cp. τῇ . . Ἀβύδου, 1. 13.
 
 53,24. Ἕλληνας: they were Greek colonists of the Chersonese and the Thracian shore of the Propontis, who, being regarded by the natives as intruders, had to wage a continual struggle to maintain their position. 
 
 καί: even, i.e. money as well as supplies and other assistance. Great care should be exercised in the translation of καί. It is often not connective, but intensive, i.e. not a conjunction, but an adverb. —
+
+
 συνεβάλλοντο: for the mood, see on ὥστε . ... εἶναι, 52,7. The tense shows that they gave not only once but repeatedly. The aorist would indicate that they gave a single lump sum. 
 
-αὐτῷ: not dependent on the preposition of the compound verb (contributed with him, cp. αὐτῷ,
-l.5), but a dative of interest implying advantage, gave him their contributions. 
+αὐτῷ: not dependent on the preposition of the compound verb (contributed with him, cp. αὐτῷ, l.5), but a dative of interest implying advantage, gave him their contributions. 
 
 εἰς: of purpose, for, towards.
 
-53,25. τῶν στρατιωτῶν: objective genitive; cp. αὐτῶν, 51, Io.
+53,25. τῶν στρατιωτῶν: objective genitive; cp. αὐτῶν, 51,10.
 
 53,26. ἑκοῦσαι: usually best translated as an adverb; here it might be rendered and were glad to do it. 
 
@@ -359,8 +383,8 @@ l.5), but a dative of interest implying advantage, gave him their contributions.
 οἴκοι: in attributive position.1 Note the quantity of the final syllable.2
 
 HA, B. G. Gl.
-1 66624 429,1 952,1 §55@
-2 1026 63 113 Σ4 4
+1 666a 429,1 952,1 555a
+2 102b 63 113 14a
 
 <pb n="236"/>
 
@@ -370,7 +394,7 @@ HA, B. G. Gl.
 
 54,4. μηνῶν: genitive of measure.2 
 
-ὡς... περιγενόμενος ἄν : because (expressed by the circumstantial participle of cause), as he said, he would thus, etc. For as, see on ὡς ἀποκτενῶν, 51,15. The participle with ἄν 3 is equivalent to the potential optative,4 representing the apodosis of a less vivid future condition, of which the protasis (‘if he should give them to him’) is implied in οὕτως.
+ὡς... περιγενόμενος ἄν : because (expressed by the circumstantial participle of cause), as he said, he would thus, etc. For ὡς, see on ὡς ἀποκτενῶν, 51,15. The participle with ἄν 3 is equivalent to the potential optative,4 representing the apodosis of a less vivid future condition, of which the protasis (‘if he should give them to him’) is implied in οὕτως.
 
 54,5. ἀντιστασιωτῶν : genitive of comparison.5— 
 
@@ -394,8 +418,8 @@ HA. B. G. Gl.
 8 924a 627 1470 644d
 9 924,921 627 1471,2 644
 10 937 677 1502,3 NA
- Google
-<pb n="237"/>
+
+<pb n="237"/>
 #237
  imply the completion of the act and be equivalent to the Latin future perfect, until he had (should have) consulted.1
 
@@ -405,7 +429,7 @@ HA. B. G. Gl.
 
 54,11. λαβόντα: circumstantial participle of time, having taken, to come; English says to take and come. 
 
-ὅτι: see on §2, 11. 
+ὅτι: see on 52,11. 
 
 παραγενέσθαι: to come (lit., fo become on hand). When not in indirect discourse, the infinitive has no idea of time, the present denoting continuance of an action, the aorist simple occurrence.2 
 
@@ -413,8 +437,7 @@ HA. B. G. Gl.
 
 54,12. Πισίδας: the omission of the article is not infrequent with names of peoples. 
 
-ὡς . . . παρεχόντων: because, as he said, etc.: cp.
-ὡς ἐπιβουλεύοντος, 52,16.
+ὡς . . . παρεχόντων: because, as he said, etc.: cp. ὡς ἐπιβουλεύοντος, 52,16.
 
 54,13. χώρᾳ: dative of interest implying disadvantage.
 
@@ -429,14 +452,15 @@ HA. B. G. Gl.
 
 54,17. σύν: an example of Xenophon’s violation of pure Attic usage (see Introd. § 43). Other prose writers generally used μετά with the genitive to express accompaniment. On the pretexts used by Cyrus in collecting his Greek troops, see Introd. § 6.
 
-54,18. οὕτως: so spelled before a vowel, but cp. οὕτω, 53,26; see on
+54,18. οὕτως: so spelled before a vowel, but cp. οὕτω, 53,26; see on ὧδε, 52,13.
 
-ὧδε, 52,13.
+CHAPTER 2.
 
-54,19. CHAPTER 2. ἐδόκει: it seemed best; the subject is πορεύεσθαι. ---- ἤδη: with πορεύεσθαι. 
+54,19.  ἐδόκει: it seemed best; the subject is πορεύεσθαι. ---- 
 
-πορεύεσθαι: expresses continuance, not present time; cp. παραγενέσθαι, l. 11, and see note. See Introd.
-§ 8.
+ἤδη: with πορεύεσθαι. 
+
+πορεύεσθαι: expresses continuance, not present time; cp. παραγενέσθαι, l. 11, and see note. See Introd. § 8.
 
 αὐτῷ: dative of indirect object.
 
@@ -446,9 +470,9 @@ HA. B. G. Gl.
 
 ὡς. . . βουλόμενος: that he wished; cp. ὡς... βουλόμενος, 1. 11.
 
-ἐκβαλεῖν: for the tense, see on
+ἐκβαλεῖν: for the tense, see on παραγενέσθαι, l. 11.
 
-παραγενέσθαι, 1. 11.
+
 HA. Β. G. Gl.
 
 1 898c 544 NA cp.-650c
@@ -461,32 +485,37 @@ HA. Β. G. Gl.
 
 54,21. ἐκ: repeated after ἐκβαλεῖν; cp. ‘cast out first the beam out of thine own eye,’ Matthew 7. 5. In translating, omit the preposition in the compound verb. 
 
-ὡς ἐπὶ τούτους: ostensibly against them ; cp.
-ὡς, 51,9, and see note.
+ὡς ἐπὶ τούτους: ostensibly against them ; cp. ὡς, 51,9, and see note.
 
-54,22. βαρβαρικόν, Ἑλληνικόν : 5.0. στράτευμα. --- ἐνταῦθα: thither, there, i.e. to Sardis, capital of Lydia and chief city of his province.
+54,22. βαρβαρικόν, Ἑλληνικόν : sc. στράτευμα. --- 
 
-54,23. ὅσον... στράτευμα: all the army he had. For the antecedent taken up into the relative clause, see on @vAaxas, 52,14.
+ἐνταῦθα: thither, there, i.e., to Sardis, capital of Lydia and chief city of his province.
 
-55,1. αὐτῷ: see on aire, 53,2. 
+54,23. ὅσον... στράτευμα: all the army he had. For the antecedent taken up into the relative clause, see on φυλακάς, 52,14.
+
+55,1. αὐτῷ: see on αὐτῷ, 53,2. 
 
 συναλλαγέντι πρός : having become reconciled with ; cp. πρός, 54,7
-55,2. τοὺς οἴκοι : Cp. τῶν οἴκοι ἀντιστασιωτῶν, 54,2. In such an expression a noun denoting merely men or things is often omitted ; cp. τῶν παρὰ βασιλέως, 52,5.—5 εἶχε στράτευμα: what he had in the way of an army; the antecedent is taken up into the relative clause.
 
-55,3- αὐτῷ: see on αὐτῷ, 53,12. --- προειστήκει: 5866 on ἀφειστήκεσαν, 52,20. When the perfect has a present meaning, the pluperfect is equivalent to the imperfect.1
+55,2. τοὺς οἴκοι : Cp. τῶν οἴκοι ἀντιστασιωτῶν, 54,2. In such an expression a noun denoting merely men or things is often omitted ; cp. τῶν παρὰ βασιλέως, 52,5.—
 
-τοῦ... ξενικοῦ: see on βαρβαρικόν, 54,
-22; for the genitive, see on αὐτῶν, 53,5.
+ὃ εἶχε στράτευμα: what he had in the way of an army; the antecedent is taken up into the relative clause.
 
-55,4. ἐν ταῖς πόλεσι: with the position of this attributive phrase cp.
-παρ᾽ ἑαυτῷ@, 52,8.
+55,3. αὐτῷ: see on αὐτῷ, 53,12. --- 
 
-λαβόντα: agrees with the omitted subject of ἥκειν ; it might have been dative agreeing with Reviga? (cp. συναλλαγέντι, l. 1, and λαβόντι, 54,23).
+προειστήκει: see on ἀφειστήκεσαν, 52,20. When the perfect has a present meaning, the pluperfect is equivalent to the imperfect.1
 
-55,5. ὁπόσοι: with omitted antecedent τοσούτων, depending on πλήν
-(cp. 52,21), except as many as.
+τοῦ... ξενικοῦ: see on βαρβαρικόν, 54,22; for the genitive, see on αὐτῶν, 53,5.
 
-55,0. τοὺς φυγάδας : -- τοὺς ἐκπεπτωκότας, 53,1.
+55,4. ἐν ταῖς πόλεσι: with the position of this attributive phrase cp. παρ᾽ ἑαυτῷ, 52,8.
+
+λαβόντα: agrees with the omitted subject of ἥκειν ; it might have been dative agreeing with Ξενίᾳ 2 (cp. συναλλαγέντι, l. 1, and λαβόντι, 54,23).
+
+55,5. ὁπόσοι: with omitted antecedent τοσούτων, depending on πλήν (cp. 52,21), except as many as.
+
+55,9. τοὺς φυγάδας : -- 
+
+τοὺς ἐκπεπτωκότας, 53,1.
 
 55,12. καταπράξειεν : in indirect discourse after a past tense3 representing ἐὰν καταπράξω of direct discourse. When a subjunctive with ἂν is changed to the optative, ἂν is omitted.4 
 
@@ -495,19 +524,22 @@ HA. Β. G. Gl.
 ἐστρατεύετο: he said στρατεύομαι. Such a change of tense in indirect discourse, while regular in English, is unusual in Greek.
 
 55,13. μή: a verb of promising is sometimes not felt as implying indirect discourse; the negative of the infinitive is then μή, not οὐ, and
+
 HA. B. G. Gl.
 1 849c 535 1263 457
 2 941 631-and-1 928,1 571c
 3 932,2 673 1481,2 662
-4 934 670,3 1484 NA
+4 934 670,2 1484 NA
 
 <pb n="239"/>
 #239
- the tense of the infinitive is aorist (or present), not future;1 for the aorist, see on παραγενέσθαι, 54,11. --- πρόσθεν : see on 54,7.
+ the tense of the infinitive is aorist (or present), not future;1 for the aorist, see on παραγενέσθαι, 54,11. --- 
+ 
+ πρόσθεν : see on 54,7.
 
 55,14. πρὶν... καταγάγοι: he said πρὶν ἂν καταγάγω (cp. πρὶν ἂν ... συμβουλεύσηται, 54,7); see on καταπράξειεν, l. 12.
 
-55,15. οἴκαδε: note the force of -de.2 
+55,15. οἴκαδε: note the force of -δε.2 
 
 οἱ δέ: see on ὁ δέ, 51,14.
 
@@ -515,8 +547,7 @@ HA. B. G. Gl.
 
 55,17. παρῆσαν εἰς Σάρδεις: came to Sardis (were on hand in Sardis); see on εἰς, 51,7.
 
-55,18. Σάρδεις: several ancient cities had plural names, as Ἀθῆναι,
-Θῆβαι, etc.; cp. Cincinnati, Buenos Aires, etc.
+55,18. Σάρδεις: several ancient cities had plural names, as Ἀθῆναι, Θῆβαι, etc.; cp. Cincinnati, Buenos Aires, etc.
 
 55,19. δή: accordingly. 
 
@@ -532,20 +563,21 @@ HA. B. G. Gl.
 
 55,29. αὐτῷ: see on 53,12; translate, in response to his summons.
 
-56,1. μείζονα. .. παρασκενήν : thinking that the expedition was too great to be against the Pistdians ; μείζονα is a predicate adjective; ὡς after a comparative and ἤ is equivalent to ὥστε, and takes the infinitive
-(here εἶναι implied).
+56,1. μείζονα. .. παρασκενήν : thinking that the expedition was too great to be against the Pistdians ; μείζονα is a predicate adjective; ὡς after a comparative and ἤ is equivalent to ὥστε, and takes the infinitive (here εἶναι implied).
 
-56,3. ὡς: a preposition.5— (sc. ὁδῷ) ἐδύνατο τάχιστα: cρ. ὡς
-μάλιστα ἐδύνατο, 52,10.
+56,3. ὡς: a preposition.5— (sc. ὁδῷ) ἐδύνατο τάχιστα: cρ. ὡς μάλιστα ἐδύνατο, 52,10.
 
 56,4. δή: naturally.
 
 56,5. Τισσαφέρνους: genitive of source.6
 
-56,6. Κῦρος δέ: corresponding to βασιλεὺς μέν, l.4. --- ὡρμᾶτο: was
-(meanwhile) setting out. The date is calculated, though not with certainty, to have been March 6, 401 B.c.— 4&6: (not ἐκ, out of ) shows that the troops were quartered outside the town.
+56,6. Κῦρος δέ: corresponding to βασιλεὺς μέν, l.4. --- 
 
-56,7. διὰ τῆς Λυδίας: follow the route on the map (frontispiece). Since the main highway to the east ran from Sardis to Ceramon Agora, it seems likely that in his march to Celaenae Cyrus was keeping up
+ὡρμᾶτο: was (meanwhile) setting out. The date is calculated, though not with certainty, to have been March 6, 401 B.c.— 
+
+ἀπό: (not ἐκ, out of ) shows that the troops were quartered outside the town.
+
+56,7. διὰ τῆς Λυδίας: follow the route on the map (frontispiece). Since the main highway to the east ran from Sardis to Ceramon Agora, it seems likely that in his march to Celaenae Cyrus was keeping up the pretense of a campaign against Pisidia. 
 HA. Β. σ. Ο!.
 1 948a 549,2 1286,1496 579a
 2 217 137,2 293  228
@@ -556,11 +588,13 @@ HA. Β. σ. Ο!.
 
 <pb n="240"/>
 #240 XENOPHON’'S ANABASIS [1,2
- the pretense of a campaign against Pisidia. 
+
 
 σταθμούς: accusative of extent. For the average day’s march in the first two books of the Anabasis, see Introd. § 64.
 
-56,9. εὖρος: 56. ἦν. --- πλέθρα : the pupil should familiarize himself with the English equivalents of the Greek measures.
+56,9. εὖρος: 56. ἦν. --- 
+
+πλέθρα : the pupil should familiarize himself with the English equivalents of the Greek measures.
 
 56,10. ἐζενγμένη πλοίοις: formed of boats joined together (lit., yoked by means of boats). The perfect tense expresses the completed act of joining and implies the permanence of the result. The boats had been joined and still were joined. An aorist participle would have expressed merely the fact that they had been joined.
 
@@ -576,9 +610,11 @@ HA. Β. σ. Ο!.
 
 ἦν: with a neuter plural subject,! which, however, as not infrequently, has a singular meaning; cp. Lat. castra, camp.
 
-56,19. θηρίων: genitive with an adjective of fullness. 
+56,19. θηρίων: genitive with an adjective of fullness (NODID). 
 
-ἐκεῖνος ἐθήρευεν : he used to hunt; see on ἀπεπέμπετο, 52,6. ἐκεῖνος (not ‘that one’) is used as a personal pronoun.
+ἐκεῖνος ἐθήρευεν : he used to hunt; see on ἀπεπέμπετο, 52,6. 
+
+ἐκεῖνος (not ‘that one’) is used as a personal pronoun.
 
 56,20. ὁπότε. .. βούλοιτο: a temporal clause depending on a verb which expresses repeated past action, so equivalent to a past general condition.2
 
@@ -598,7 +634,11 @@ HA. B. G. Gl.
 <pb n="241"/>
 #241
 
-56,23. Κελαινῶν: a poetical use, in which the genitive takes the place of a noun in apposition; so regularly in English, as ‘city of London,’ ‘state of Maine.’—éere: observe the accent.1— peydrov βασιλέως : the adjective is usually omitted, as with βασιλέα, l.3.
+56,23. Κελαινῶν: a poetical use, in which the genitive takes the place of a noun in apposition; so regularly in English, as ‘city of London,’ ‘state of Maine.
+
+ἔστι: observe the accent.1— 
+
+μεγάλον βασιλέως : the adjective is usually omitted, as with βασιλέα, l.3.
 
 57,1. ὑπό: αἱ the foot of. The Marsyas gushes with great force from the base of a rocky cliff. The cave from which it once flowed has now fallen in. 
 
@@ -612,18 +652,20 @@ HA. B. G. Gl.
 
 57,5. ἐρίζοντα: agrees with αὐτόν, which is to be supplied as object of νικήσας.
 
-οἱ: dative of the indirect reflexive pronoun; cp. οἷ, 53,4, and see note. For the case, see on Τισσαφέρνει, 53,7. --- περὶ σοφίας: in a contest of skill, in this instance evidently musical skill.
+οἱ: dative of the indirect reflexive pronoun; cp. οἷ, 53,4, and see note. For the case, see on Τισσαφέρνει, 53,7. --- 
+
+περὶ σοφίας: in a contest of skill, in this instance evidently musical skill.
 
 57,6. ὅθεν: with -θεν cp. -δε; see on οἴκαδε, 55,15.
 
-αἱ πηγαί: sc.
-εἰσί = ῥέουσι.
+αἱ πηγαί: sc. εἰσί = ῥέουσι.
 
 57,8. τῇ μάχῃ: the (famous 4) battle of Salamis, 480 B.C.; the dative denotes time when, like the Latin ablative.
 
 57,10. ἡμέρας τριάκοντα : there was no other halt of such length. Cyrus was waiting for the contingents of Clearchus and others to overtake him.
 
 58,2. Κρῆτας: Crete was famous for its archers. Nearly three hundred and fifty years later, Caesar employed them; see Gallic War 2. 7.
+
 HA. B. G. GI.
 1 480,1-and-2 262,1 144,5 384b(1)
 2 732a 352,1 1094,5 508
@@ -633,7 +675,7 @@ HA. B. G. GI.
 <pb n="242"/>
 #242 XENOPHON’S ANABASIS [1,2
 
-58,4. Σῶσις: not mentioned again. It is not known what became of him. |
+58,4. Σῶσις: not mentioned again. It is not known what became of him. 
 
 58,7. Σοφαίνετος: undoubtedly a mistake, either of Xenophon or of an early copyist, for Ἀγίας. Sophaenetus has already arrived (55,24), while Agias, an Arcadian, of whose coming no mention is made, was one of the generals entrapped by Tissaphernes at the Zapatas (132, 6).
 
@@ -654,23 +696,23 @@ HA. B. G. GI.
 
 58,25. πρός: on the frontier of.
 
-σταθμοὺς . . . τριάκοντα: the
-‘longest marches mentioned in the Anzadaszs. But pay for his troops
-‘was ahead.
+σταθμοὺς . . . τριάκοντα: the longest marches mentioned in the Anabasis. But pay for his troops was ahead.
 
 59,3. πλέον: as adverb, for more. 
 
-μηνῶν: genitive of measure ; cp.
-ποδῶν, 57,3 .
+μηνῶν: genitive of measure ; cp. ποδῶν, 57,3 .
 
 59,4. θύρας: since it applies to a camp, translate headquarters. —
-ἀπήτουν: used here of asking for what was due. Observe the tense, denoting continuous or repeated demands, and cp. ἀπέπεμπε, 53,9. For augment, see on ὥστε . . . ἠσθάνετο, 53,6. --- ὁ δέ: see on 51,14.
+
+ἀπήτουν: used here of asking for what was due. Observe the tense, denoting continuous or repeated demands, and cp. ἀπέπεμπε, 53,9. For augment, see on ὥστε . . . ἠσθάνετο, 53,6. --- 
+
+ὁ δέ: see on 51,14.
 
 59,5. λέγων διῆγε: the supplementary participle, not in indirect discourse, here defines the application of a verb which without it has only a general meaning.4 
 
 δῆλος ἦν ἀνιώμενος: supplementary participle in indirect discourse.5 To retain in English the personal construction, translate he was evidently troubled.
 
-59,6. πρὸς. .. τρόπου: like Cyrus (in keeping with the character
+59,6. πρὸς. .. τρόπου: like Cyrus (in keeping with the character  of Cyrus).
 HA. B. G. Gl.
 1 672 455, 1 979
 2 716a 333 1052 536-and-a
@@ -680,11 +722,11 @@ HA. B. G. Gl.
 
 <pb n="243"/>
 #243
- of Cyrus).
 
-ἔχοντα: the participle implies condition ;! it agrees with the unexpressed subject of the infinitive. 
 
-μή : 566 Οἢ 54,7. --- ἀποδιδόναι: for the force of ἀπο-, see on ἀπήτουν, l.4; translate not to pay his debts, if he had the money.
+ἔχοντα: the participle implies condition ;1 it agrees with the unexpressed subject of the infinitive. 
+
+μή : see on 54,7. --- ἀποδιδόναι: for the force of ἀπο-, see on ἀπήτουν, l.4; translate not to pay his debts, if he had the money.
 
 59,7. Συεννέσιος: used as a proper name (see Vocab.). For the position of the Cilician kings, see Κιλικία in Vocab. It will be seen from the map that the route of Cyrus lay directly through Cilicia. This fact put Syennesis in a trying position. As a dependent of the king, his clear duty was to obstruct and delay the passage of Cyrus by all possible means. Should he do so, however, and should Cyrus after all succeed in his attempt on the throne, the Cilician kingdom would be given to another. So he trimmed between the two rivals, sending one son to: Cyrus, the other to Artaxerxes. He made a pretense of resisting the advance of Cyrus, and sent the king assurances of his fidelity. To Cyrus, on the other hand, he despatched his wife with a large sum of money and the promise that any resistance to his passage through Cilicia should be only perfunctory.
 
@@ -698,19 +740,19 @@ HA. B. G. Gl.
 
 59,10. εἶχε: note the augment.2
 
-59,11. αἁτήν: observe the breathing.3
+59,11. αὑτήν: observe the breathing.3
 
 59,12. ἐλέγετο: here in the impersonal construction4 (cp. l. 8), its subject being the phrase indirectly quoted. 
 
 τῇ Κιλίσσῃ: for the case, Cp. αὐτῷ, 53. 5.
 
-59,16. παρὰ τὴν ὁδόν: dy the roadside; the accusative indicates that the water flowed beside the road. 
+59,16. παρὰ τὴν ὁδόν: by the roadside; the accusative indicates that the water flowed beside the road. 
 
 κρήνη... καλουμένη : the so-called spring of Midas.
 
 59,18. οἴνῳ: dative of means. 
 
-κεράσας circumstantial participle
+κεράσας circumstantial participle  implying: means. 
 HA. B. G. Gl. x 9692 653,6 1563, 5 583
 2 359 172,2 5390 267
 3 266a 141,12 491 203a
@@ -718,11 +760,13 @@ HA. B. G. Gl. x 9692 653,6 1563, 5 583
 
 <pb n="244"/>
 #244 XENOPHON’S ANABASIS (2, 2
- implying: means. 
+
 
 αὐτήν: the spring. The English idiom requires by mixing wine with it. 
 
-59,21. Κύρου: for the genitive, see on αὐτοῦ, 54; 6. --- ἐπιδεῖξαι : 566 on δοθῆναι, 53,4.
+59,21. Κύρου: for the genitive, see on αὐτοῦ, 54; 6. --- 
+
+ἐπιδεῖξαι :  see on δοθῆναι, 53,4.
 
 59,24. ὡς νόμος αὐτοῖς: sc. ἐστίν.
 
@@ -736,12 +780,11 @@ HA. B. G. Gl. x 9692 653,6 1563, 5 583
 
 δεξιόν: the place of honor, because in the conflict it was the post of danger. Since the shield was carried on the left arm, the soldiers on the right wing had their outer side unprotected. 
 
-οἱ
-σὺν αὐτῷ : 566 οη Τοὺς οἴκοι, 55; 2.
+οἱ σὺν αὐτῷ :  see on τοὺς οἴκοι, 55; 2.
 
 60,2. πρῶτον μέν: see on τὸ ἀρχαῖον, 52,19; the expression is correlative to εἶτα δέ, l.5.
 
-60,3. of 8: see on ὁ δέ, 51,14.
+60,3. οἱ δέ: see on ὁ δέ, 51,14.
 
 60,4. τεταγμένοι: for the tense, see on ἐζευγμένη, 56,10. --- 
 
@@ -830,7 +873,7 @@ HA. “ B. G. Gl,
 
 εἴ τις: Observe the accent of the proclitic.2 
 
-εἰ. . . é&ἐκώλνεν: a simple condition with conative imperfect,3 tried to prevent.
+εἰ. . . ἐκώλυεν: a simple condition with conative imperfect,3 tried to prevent.
 
 62,10. καί: too, i.e. in addition to the natural difficulties of the pass. Syennesis stayed there, however, only long enough to keep up appearances, and then, probably by agreement made through his wife with Cyrus, withdrew and left the strong position undefended.
 
@@ -872,9 +915,9 @@ HA. B. G. GI.
 
 ἔχοντα: participle in indirect discourse, was in charge of (had) triremes; see on βουλευομένους, 52,23.
 
-62,16. Λακεδαιμονίων: possessive genitive, belonging to the Spartans. See Introd. § 7. To keep the emphasis as expressed by the Greek order, translate, he kept hearing that triremes belonging to the Spartans and to Cyrus himself were sailing round from Ionia to Cilicia under the command of Tamos. See on τοῦτο. .. τὸ στράτευμα, 53,26.
+62,16. Λακεδαιμονίων: possessive genitive (§Gen1), belonging to the Spartans. See Introd. § 7. To keep the emphasis as expressed by the Greek order, translate, he kept hearing that triremes belonging to the Spartans and to Cyrus himself were sailing round from Ionia to Cilicia under the command of Tamos. See on τοῦτο. .. τὸ στράτευμα, 53,26.
 
-62,17. οὐδενὸς κωλύοντος: without opposition; genitive absolute. —
+62,17. οὐδενὸς κωλύοντος: without opposition; genitive absolute (§Gen15). —
 
 σκηνάς: camp (see Vocab.) or huts, for tents would have been taken away. Probably, too, a permanent guard was kept there.
 
@@ -904,10 +947,9 @@ HA. B. G. GI.
 
 63,2. ἐξέλιπον... εἰς χωρίον : left and went to or left for (as ‘he left for Boston ’).
 
-οἱ ἐνοικοῦντες: the inhabitants; cp. φεύγοντας, 52,
-25, and see note. The substantive participle is frequently to be rendered by a relative clause, those who, etc.; as οἱ . . . ἔχοντες, l. 3 f.
+οἱ ἐνοικοῦντες: the inhabitants; cp. φεύγοντας, 52,25, and see note. The substantive participle is frequently to be rendered by a relative clause, those who, etc.; as οἱ . . . ἔχοντες, l.3 f.
 
-63,3. ἐπὶ τὰ ὄρη: accusative of place whither; English expresses the place where, upon the mountains. 
+63,3. ἐπὶ τὰ ὄρη: accusative of direction (§Acc7); English expresses the place where, upon the mountains. 
 
 πλὴν οἱ... ἔχοντες : πλήν is a conjunction here, except that; sc. οὐκ ἐξέλιπον.
 HA. B. G. Gl.
@@ -994,7 +1036,7 @@ HA. : Β. σ. Gl.
 
 64,2. ἀπολαμβάνειν: forms the apodosis of the condition; in the same construction as διαρπάζεσθαι, l.1, the right to take back. Cyrus favors the Greeks in not giving strict orders that the booty be returned at once.
 
-64,4. CHAPTER 3. οὐκ ἔφασαν: 566 On οὔτε . . . ἔφη, 63,17. --ἱέναι: with future meaning in indirect discourse (see Vocab., and cp. Eng. “I am going,” “are you going?” etc., which refer to the future more often than to the present). In l.7 and in προϊέναι, l. 9, the infinitive is not in indirect discourse, and so has no idea of time; see on wapayeveoa, 54,11. 
+64,4. CHAPTER 3. οὐκ ἔφασαν: see on οὔτε . . . ἔφη, 63,17. --ἱέναι: with future meaning in indirect discourse (see Vocab., and cp. Eng. “I am going,” “are you going?” etc., which refer to the future more often than to the present). In l.7 and in προϊέναι, l. 9, the infinitive is not in indirect discourse, and so has no idea of time; see on wapayeveoa, 54,11. 
 
 τοῦ πρόσω: genitive of place.2
 
@@ -1155,8 +1197,7 @@ HA. ᾿ B. G. Gl.
 
 65,22. μεταπέμπεσθαι : to keep sending for him.
 
-65,23. αὐτός: for himself, intensifying the omitted subject of ἰέναι
-(see on τίμιος, 1. 10) ; ἰέναι is future in meaning, as in 64,4.
+65,23. αὐτός: for himself, intensifying the omitted subject of ἰέναι (see on τίμιος, 1. 10) ; ἰέναι is future in meaning, as in 64,4.
 
 65,24. θ᾽:  = τε:
 65,25. ἄλλων: partitive. 
@@ -1180,7 +1221,7 @@ HA. Β. σ. Gl.
 66,5. ἡμῖν: dative depending on the idea of giving in μισθοδότης. —
 ἀδικεῖσθαι: subject omitted because it is the same as that of the principal verb; see on ἰέναι, etc., 64,5.
 
-66,6. ὥστε... ἐθέλω: 566 οἡ ὥστε... εἶναι, 52,7. ---- μεταπεμπομένου
+66,6. ὥστε... ἐθέλω: see on ὥστε... εἶναι, 52,7. ---- μεταπεμπομένου
 αὐτοῦ: the genitive absolute implying concession! is often strengthened by καί or καίπερ.3
 
 65,7. τὸ μέγιστον : adverbial accusative ; so πάντα, l.8.
@@ -1330,7 +1371,7 @@ HA, B. G. Gl.
 
 μάλιστα ἀνθρώπων belongs with ἄρχεσθαι ἐπίσταμαι, and while it is of course superfluous after ὥς τις καὶ ἄλλος, yet it adds emphasis. ἀνθρώπων is partitive with the superlative. καὶ is not translatable.
 
-67,17. ἐπιδεικνύς : 566 on ἐπιδεικνύντες, 66,24.
+67,17. ἐπιδεικνύς :  see on ἐπιδεικνύντες, 66,24.
 
 67,18. αἰτεῖν: object infinitive with κελεύοντος ; sc. αὐτούς as direct object of κελεύοντος. — 
 
@@ -1575,8 +1616,7 @@ HA. B. G. Gl.
 
 70,23. τὰ πλείστου ἄξια: their most valuable possessions; for the genitive, see on πολλοῦ, 66,16. 
 
-70,24. ὧς μὲν. .. ἐδόκουν: parenthetical; translate impersonally
-(see on δοκεῖ, 66,10), as it seemed; μέν implies that some held another view (δέ), which is not mentioned. The reason may well have been simply that Xenias, who had previously made the journey (51,10), knew the dangerous nature of the enterprise. 
+70,24. ὧς μὲν. .. ἐδόκουν: parenthetical; translate impersonally (see on δοκεῖ, 66,10), as it seemed; μέν implies that some held another view (δέ), which is not mentioned. The reason may well have been simply that Xenias, who had previously made the journey (51,10), knew the dangerous nature of the enterprise. 
 
 τοῖς πλείστοις: most of them.
 
@@ -1915,7 +1955,7 @@ HA. B. G. Gl.
 
 75,7. πλεῖστοι: very many; wild asses are now scarce there.
 
-75,10. διώκοι: 566 Οἡ ὁπότε... βούλοιτο, 56,20.
+75,10. διώκοι: see on ὁπότε... βούλοιτο, 56,20.
 
 75,11. ἕστασαν: 2 pluperfect of ἵστημι. --- 
 
@@ -2057,8 +2097,7 @@ HA. B. G. . Gl
 3 858 565 1335-7 461
 <pb n="271"/>
 #271
-
-(cp. Lat. créderés, you would have believed); oto.ro dv would mean would think.
+ (cp. Lat. créderés, you would have believed); oto.ro dv would mean would think.
 
 77,27. μετεώρους: predicate adjective, best translated as a verb, ¢hey lifted the wagons and carried them out.
 
@@ -2068,8 +2107,7 @@ HA. B. G. . Gl
 
 ὅπου μή, etc.: equivalent to a protasis1 with εἰ μή; hence the negative of a protasis is employed 2; translate except where.
 
-78,3. ὅσῳ... τοσούτῳ, etc.: the quicker ... the more unprepared
-(lit., by how much quicker... by so much the more unprepared) ; for the dative, see on ἡμέραις, 63,7.
+78,3. ὅσῳ... τοσούτῳ, etc.: the quicker ... the more unprepared (lit., by how much quicker... by so much the more unprepared) ; for the dative, see on ἡμέραις, 63,7.
 
 78,4. ἔλθοι: in a conditional relative clause in indirect discourse. His thought was ὅσῳ ἂν θᾶττον ἔλθω . . . μαχοῦμαι, equivalent to a more vivid future condition. — 
 
@@ -2077,8 +2115,7 @@ HA. B. G. . Gl
 
 βασιλεῖ: for the case, see on Τισσαφέρνει, 53,7.
 
-78,5. συναγείρεσθαι: for συναγείρεται of Cyrus’ actual thought, the present being used because the army was already collecting. The future completion of the act was in his mind, though not expressed ; the greater
-(would be) the army that was collecting for the king.
+78,5. συναγείρεσθαι: for συναγείρεται of Cyrus’ actual thought, the present being used because the army was already collecting. The future completion of the act was in his mind, though not expressed ; the greater (would be) the army that was collecting for the king.
 
 78,6. συνιδεῖν. . . οὖσα: tt was possible for3 one who closely observed the king's realm to see at a glance that it ts strong, etc. After ovvidety (which is subject of impersonal ἦν) the grammatical construction would require ἰσχυρὰν οὖσαν (sc. τὴν ἀρχήν). Possibly Xenophon was interrupted in the middle of the sentence, and when he wrote ἰσχυρὰ οὖσα. he was under the impression that something like δήλη ἣν
 ἡ ἀρχή had gone before. 
@@ -2138,8 +2175,7 @@ HA. B. G. Gl.
 #273
  division was sure to cause friction. See Introd. § 68. Some had ascribed the desertion of Xenias and Pasion to pique (70,22 ff.) at an infringement of their rights.
 
-79,6. ἀγοράν: apparently for the supplies brought across the river
-(78,18 ff.).
+79,6. ἀγοράν: apparently for the supplies brought across the river (78,18 ff.).
 
 79,7. σὺν... αὐτόν: with only a few about him. 
 
@@ -2575,8 +2611,7 @@ HA, B. G, Gl.
 
 ἔστι ... ἡμῖν: 22 point of fact my father’s realm extends; μέν is a weak form of μήν. Observe the pluralis maiestatis, ἡμῖν, which is dative of interest.
 
-84,20. μέχρι οὗ: the antecedent is omitted, as often in English, to
-(the point) where.
+84,20. μέχρι οὗ: the antecedent is omitted, as often in English, to (the point) where.
 
 84,22. τούτων: these limits; for the genitive, cp. ἀμφοτέρων, 79,28.
 
@@ -2645,7 +2680,7 @@ HA. B. G. Gl.
 
 85,22. ἄλλοι : besides ; cp. ἄλλο. 76,23.
 
-85,23. ὦν: 566 on αὐτῶν, 53,5.
+85,23. ὦν: see on αὐτῶν, 53,5.
 
 85, 2ς. τοῦ: with στρατεύματος. — apxov
 
@@ -2811,8 +2846,7 @@ HA. B. G. Gl.
 
 89,15. ἐπὶ πολύ; for a long distance.
 
-89,16. χαλκός τις ἤστραπτε: there was a constant flashing of bronze
-(lit., some bronze kept flashing).
+89,16. χαλκός τις ἤστραπτε: there was a constant flashing of bronze (lit., some bronze kept flashing).
 
 80,23. ἐχόμενοι : cp. ἐχόμενος, 88, 2Ο.
 
@@ -2884,8 +2918,7 @@ HA. B. G. Gl.
 
 91,17. μένον: participle. 
 
-συνετάττετο. .. προσιόντων: was forming its ranks from those who were still coming up, a state of affairs resulting from the disorderly way in which they had been marching
-(87,10-14).
+συνετάττετο. .. προσιόντων: was forming its ranks from those who were still coming up, a state of affairs resulting from the disorderly way in which they had been marching (87,10-14).
 
 91,18. οὐ πάνν πρός: at some distance from (lit., not very near).
 
@@ -2929,7 +2962,7 @@ HA. B. G. Gl.
 
 διειχέτην τὼ φάλαγγε: see on τὼ παῖδε, 51,4.
 
-92,7. ἐπαιάνιζον : 566 Introd. § 66.
+92,7. ἐπαιάνιζον :  see Introd. § 66.
 
 92,8. ἤρχοντο: from ἄρχω.— 
 
@@ -3072,8 +3105,7 @@ HA. B. σ. Gl.
 ὑπὸ τὸν ὀφθαλμόν: the accusative implies motion; cp. εἰς τὰς χεῖρας, 80,4. Plutarch (Life of Artaxerxes,
 11), quoting Ctesias, says that after the king had retired from the fighting to recuperate from his wound, Cyrus had great difficulty in managing his restless horse. Finally his tiara (see on 89,5) fell off, and as he was riding through the crowd a young man, named Mithridates, not knowing who he was, struck him with a spear in one of his temples near the eye. He fell from his horse in a swoon. Presently regaining partial consciousness, he was being led away, when he was: hit from behind, and in falling struck his wounded temple on a stone, and so died.
 
-94,12. μαχόμενοι: limits the three following nominatives, which should be the subject of some verb, but there is no verb for them. The thought through ἑκατέρου 15 as independent of ὁπόσοι. .. λέγει as if it had been in the genitive absolute μαχομένων καὶ βασιλέως, etc.
-(while the king .. . were fighting), and may be so translated.
+94,12. μαχόμενοι: limits the three following nominatives, which should be the subject of some verb, but there is no verb for them. The thought through ἑκατέρου 15 as independent of ὁπόσοι. .. λέγει as if it had been in the genitive absolute μαχομένων καὶ βασιλέως, etc. (while the king .. . were fighting), and may be so translated.
 
 94,14. ἀπέθνῃσκον: cp. the tense used of the death of one person,
 1. 15.
@@ -3084,8 +3116,7 @@ HA. B. σ. Gl.
 
 94,19. περιπεσεῖν : observe the force of the preposition, wth his arms about him. 
 
-94,20. ἐπισφάξασθαι: middle, with the reflexive added to intensify it, that he slew himself upon him with his own hand; cp. γυμνάσαι
-(active) . . . ἑαυτόν, 56,20. This word is regularly used of sacrificing animals at the tombs of the dead.
+94,20. ἐπισφάξασθαι: middle, with the reflexive added to intensify it, that he slew himself upon him with his own hand; cp. γυμνάσαι (active) . . . ἑαυτόν, 56,20. This word is regularly used of sacrificing animals at the tombs of the dead.
 
 94,21. χρυσοῦν: 45 in 63,27. 
 
@@ -3435,8 +3466,7 @@ HA. B. G. Gl.
 
 οἱ: see on οἷ, 53,4.
 
-100, 4. αὐτόν: repeats ὅν; omit it in translating, and render ὅν
-(whose antecedent, being indefinite, is omitted), one whom, meaning the faithless messenger of 81,7 f.
+100, 4. αὐτόν: repeats ὅν; omit it in translating, and render ὅν (whose antecedent, being indefinite, is omitted), one whom, meaning the faithless messenger of 81,7 f.
 
 100, 6. οὗτοι: repeats πολλοί with emphasis, these moreover the men most highly esteemed by him; cp. καὶ ταῦτα, 73,8, and see note.
 
@@ -3511,8 +3541,7 @@ HA. B. G. Gl.
 
 Ἕλληνες: here the main body.
 
-101, 8. οἱ μὲν. .. οἱ δέ: the latter... the king and his followers
-(implied by the plural). More commonly of μέν refers to those first mentioned, of δέ to the latter. — 
+101, 8. οἱ μὲν. .. οἱ δέ: the latter... the king and his followers (implied by the plural). More commonly of μέν refers to those first mentioned, of δέ to the latter. — 
 
 τοὺς καθ᾽ αὑτούς: their immediate opponents ; cp. τὸ καθ᾽ αὑτούς, 93,8. --- 
 
@@ -3609,8 +3638,7 @@ HA. B. G. Gl.
 τὸ
 ποιούμενον: equivalent to the more usual τὸ γιγνόμενον. The Persians, being on the hill, could be easily seen by the Greeks on the plain.
 
-103, 18. αἰετόν τινα... ἀνατεταμένον: a sort of golden eagle ona shield
-(as a background) raised aloft upon a pole. Possibly the object thus vaguely described by the Greeks, who saw the standard only from a distance, was not an eagle at all, but the upper half of a human figure partly inclosed by wings, symbolizing the chief deity of the Persians. See the top of Fig. 2, p. 18 (cp. Fig. 34, p. 95).
+103, 18. αἰετόν τινα... ἀνατεταμένον: a sort of golden eagle ona shield (as a background) raised aloft upon a pole. Possibly the object thus vaguely described by the Greeks, who saw the standard only from a distance, was not an eagle at all, but the upper half of a human figure partly inclosed by wings, symbolizing the chief deity of the Persians. See the top of Fig. 2, p. 18 (cp. Fig. 34, p. 95).
 
 103; 22. ἐνταῦθ᾽ : used as in 54,22. 
 
@@ -3682,7 +3710,7 @@ HA. B. G. Gl.
 
 105, 2. CHAPTER I.
 
-πέμπει, φαίνοιτο: 566 Οἡ αὐτῷ μέλει, 91, .13. See Introd. § 16.— onpavotvra: purpose.
+πέμπει, φαίνοιτο: see on αὐτῷ μέλει, 91, .13. See Introd. § 16.— onpavotvra: purpose.
 
 105, 5. tus... cuppelfecav: implied indirect discourse for ἕως ἂν
 συμμείξωμεν.: There is also an idea of purpose.”
@@ -3706,5 +3734,3 @@ HA. B. G. Gl.
 HA. B. G. Gl. X 921 626 1465 631, p. 267 end
 2 g2t, remark 626 1467
 3 159, 1626 92 196, 198 92,93 ¢
- Google
-
