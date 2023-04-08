@@ -1,0 +1,498 @@
+ἐκθλίβω mOAtBe True pp
+[θλίβω, [OA\LS8w, True pp
+θλίψω, OrYw, True pp
+ἔθλίψα, False na
+ἐθλί- False na
+# 2 35 33 Pony,  squeeze; bor,  Eng. ecthlip- θην,  τφμέσξς,  Ὅτ,  ἕηρ. ΘΟ ἢΠΡ-
+θην, Pony, True pp
+squeeze; τφμέσξς, False eng
+bor, Ὅτ, False eng
+Eng. ἕηρ. False na
+ecthlip- ΘΟ False na
+# 3 37 33 Sis],  syucese out,  crowd out of the 815},  φησ: οἰ,  Ἄγοτυώ ομ οἵ τῇς
+sis], 815}, False na
+squeeze φησ: False na
+out, οἰ, False eng
+crowd Ἄγοτυώ False eng
+out ομ False eng
+of οἵ False eng
+the τῇς False eng
+# 4 6 6 ranks, ταῦ 5.
+ranks, ταῦ False eng
+# 5 38 34 dxxadktwrrw [xatuwrw,  Kadrttyw,  éxd- ἐκκαλύπτω [καλύπτω,  καλύψω,  ἐκά-
+ἐκκαλύπτω dxxadktwrrw True pp
+[καλύπτω, [xatuwrw, True pp
+καλύψω, Kadrttyw, True pp
+ἐκά- False na
+# 6 37 40 vya,  Kexa\uppar,  Exahlpdny,  cover, υὑψα,  κεκάλυμμαι,  ἐκαλύφθην,  ἐστ'εγ ν
+λυψα, False na
+κεκάλυμμαι, Kexa\uppar, True pp
+ἐκαλύφθην, Exahlpdny, True pp
+cover, ἐστ'εγ False eng
+# 7 38 38 bor,  Eng. apocalypse ],  zacover,  of βθώγι,  ἔημ. ΡΟΟΑΙΥΡΒ6],  κηεοτεν,  οὗ
+bor, βθώγι, False eng
+Eng. ἔημ. False na
+apocalypse ΡΟΟΑΙΥΡΒ6], False eng
+], κηεοτεν, False na
+uncover, True lex
+of NA False eng
+# 8 36 32 a shicld taken from the leather case ἃ 51} τακτη ἴσοι (ἢ Ἰοαι ογ σᾶ5ὲ
+a ἃ False eng
+shicld 51} False na
+taken τακτη False eng
+from ἴσοι False eng
+the (ἢ False eng
+leather Ἰοαι False eng
+case ογ False eng
+# 9 32 29 in which it was kept when not in ἴθ ΜΙ ἢ τ νᾶ8 Κορὶ ἤθη ποΐ ἴῃ
+in ἴθ False eng
+which ΜΙ False eng
+it ἢ False eng
+was τ False eng
+kept νᾶ8 False eng
+when Κορὶ False eng
+not ἤθη False eng
+in ποΐ False eng
+# 10 4 4 use. απο.
+use. απο. False eng
+# 11 42 42 dxnArnola,  -as [xadéw,  call; bor.,  Eng. ἐκκλησίᾶ,  -ἃς [καλέω,  εαὐῤ,  Ὀοτ.,  Επρ.
+ἐκκλησία, False na
+-ας False na
+[καλέω, [xadéw, True pp
+call; εαὐῤ, False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+# 12 38 38 ecclesiastic],  @ calling out of citi- ΘΟοΟΙ 6 5ἰ85[10}],  ἡ αὐ οὐδ’ οὗ οἰιὶ-
+ecclesiastic], ΘΟοΟΙ False eng
+calling 5ἰ85[10}], False eng
+out ἡ False eng
+of αὐ False eng
+citi- True form
+# 13 31 33 zens tu an assembly,  assembly. ΖΘ 5 ἴω ΔῊ Δοϑεπλ ἷν,  ἀσοφηε έν.
+zens ΖΘ False na
+to 5 False eng
+an ἴω False eng
+assembly, ΔῊ False eng
+assembly. Δοϑεπλ False eng
+# 14 44 43 dxwAtva («Aivw,  KAcva,  ExAiva,  KéexAcmas, ἐκκλίνω [κλίνω,  κλινῶ,  ἔκλινα,  κέκλιμαι,
+ἐκκλίνω dxwAtva True pp
+[κλίνω, («Aivw, True pp
+κλινῶ, False na
+ἔκλινα, False na
+κέκλιμαι, KéexAcmas, True pp
+# 15 41 41 éxAldny and -exrAlyny,  bend ],  bend out ἐκλίθην αὶ -εκλένην,  ὀεγη.}],  ὀφρα οτδζ
+ἐκλίθην éxAldny True pp
+and αὶ False eng
+-εκλένην, False na
+bend ὀεγη.}], False eng
+], ὀφρα False na
+bend οτδζ False eng
+out NA False eng
+# 16 33 33 of line,  give ground,  give way. οὗ ᾿τπὸ,  ρητ' σγοιερα,  γιέ ταν.
+of οὗ False eng
+line, ᾿τπὸ, False eng
+give ρητ' False eng
+ground, σγοιερα, False eng
+give γιέ False eng
+way. ταν. False eng
+# 17 38 37 ixxopifw [xouicw,  bring),  bring out, ἐκκομίζω [κομέζω,  ὁγ1)0},  ὀγὴηρ οἱ,
+ἐκκομίζω ixxopifw True pp
+[κομίζω, [xouicw, True pp
+bring), ὁγ1)0}, False eng
+bring ὀγὴηρ False eng
+out, οἱ, False eng
+# 18 10 6 carry oul. 7} ον.
+carry 7} False eng
+out. oul. True pp
+# 19 37 34 dxxértw [xdrtw,  cul],  cut the trees ἐκκόπτω [κόπτω,  ἐπ],  “ὦ {Δ Ἴγεος
+ἐκκόπτω dxxértw True pp
+[κόπτω, [xdrtw, True pp
+cut], ἐπ], False eng
+cut “ὦ False eng
+the {Δ False eng
+trees Ἴγεος False eng
+# 20 40 42 out of,  clear of trees,  cut down,  cp. οἵ οὐ,  εἰεα» οὗ ἐγέες, ,  στα ἄοτον,  ΟΡ.
+out οἵ False eng
+of, οὐ, False eng
+clear εἰεα» False eng
+of οὗ False eng
+trees, ἐγέες, False eng
+cut , False eng
+down, στα False eng
+cp. ἄοτον, False eng
+# 21 8 8 éxrintw. ἐκπίπτω.
+ἐκπίπτω. éxrintw. True pp
+# 22 40 41 éxxtpalvw [xipalyw,  kuuava,  swell like ἐκκυμαίνω [κὐμαίνω,  κυμανῶ,  Ξετυεί Ζϊ3ὲ
+ἐκκυμαίνω éxxtpalvw True pp
+[κυμαίνω, [xipalyw, True pp
+κυμανῶ, False na
+swell Ξετυεί False eng
+like Ζϊ3ὲ False eng
+# 23 37 39 a wave],  of a line of battle,  surge α τυαῦε]. οἵ ἃ Ἰ᾿ΐπε οὗ Ὀδί[16,  σδέγρε
+a α False eng
+wave], τυαῦε]. False eng
+of οἵ False eng
+a ἃ False eng
+line Ἰ᾿ΐπε False eng
+of οὗ False eng
+battle, Ὀδί[16, False eng
+surge σδέγρε False eng
+# 24 6 6 ahead, σλεαω,
+ahead, σλεαω, False eng
+# 25 42 41 éxAréyw [-Adyu,  -AdEw,  -éAcka,  -elAoxa, ἐκλέγω [-λέγω,  -λέξω,  -έλεξα,  -είλοχα,
+ἐκλέγω éxAréyw True pp
+[-λέγω, [-Adyu, True pp
+-λέξω, -AdEw, True pp
+-έλεξα, -éAcka, True pp
+-είλοχα, False na
+# 26 40 40 -elheyuat,  rarely -AéAeyuar,  -eAéyyny, -«εἰλεγμαι,  τάτοὶγ -λέλεγμαι,  -ελέγην,
+-εἰλεγμαι, -elheyuat, True pp
+rarely τάτοὶγ False eng
+-λέλεγμαι, -AéAeyuar, True pp
+-ελέγην, False na
+# 27 38 39 rarely -ekéxOnv,  gather,  bor.,  Eng. γαγεὶν -ελέχθην,  ρσαΐλογ,  ὮοΥ.,  Επρ.
+rarely γαγεὶν False eng
+-ελέχθην, -ekéxOnv, True pp
+gather, ρσαΐλογ, False eng
+bor., ὮοΥ., False eng
+Eng. Επρ. False na
+# 28 31 33 eclogue,  eclectic],  pzck out, ΘοΙοραθ,  ΘΟ] οῖϊο],  2: εξ οτεζ.
+eclogue, ΘοΙοραθ, False eng
+eclectic], ΘΟ] False eng
+pick οῖϊο], False na
+out, 2: False eng
+# 29 37 37 éxAXelrrw =[elrw,  eave,  bor.,  Eng. ἐκλείπω [λείπω,  ἐρανε,  Ὅοτ, ,  Επρ.
+ἐκλείπω éxAXelrrw True pp
+[λείπω, =[elrw, True pp
+eave, ἐρανε, False eng
+bor., Ὅοτ, False eng
+Eng. , False na
+# 30 42 39 eclipse ],  eave,  abandon ,; intr.,  dis- 6011086,  ατε,  αὐαρμ αν,  τυῖτ,  οἷΐδ-
+eclipse 6011086, False eng
+], ατε, False na
+leave, αὐαρμ False eng
+abandon αν, False eng
+; τυῖτ, False na
+intr., οἷΐδ- False eng
+dis- NA False na
+# 31 7 6 appear. Ωῥέα7.
+appear. Ωῥέα7. False eng
+# 32 38 37 éxtrépmrw [réurw,  send],  send out or ἐκπέμπω [πέμπω,  ςεγ41,  “167 οτζ ΟΥ̓
+ἐκπέμπω éxtrépmrw True pp
+[πέμπω, [réurw, True pp
+send], ςεγ41, False eng
+send “167 False eng
+out οτζ False eng
+or ΟΥ̓ False eng
+# 33 15 18 away,  dismiss. στυᾶν,  εἷ15)»155.
+away, στυᾶν, False eng
+dismiss. εἷ15)»155. False eng
+# 36 40 37 exriprAnus [rlurdrym,  fill],  fill out, ἐκπίμπλημι [πίμπλημι,  Αι 7,  Αἰ ομί,
+ἐκπίμπλημι exriprAnus True lex
+[πίμπλημι, [rlurdrym, True lex
+fill], Αι False eng
+fill 7, False eng
+out, Αἰ False eng
+# 37 8 5 fill up. Μά τ.
+fill Μά False eng
+up. τ. False eng
+# 38 42 40 éxartvw [rivw,  drink],  drink out,  drink ἐκπίνω [πίνω,  ἐἶγ1»],  αὐγήν οἵ,  ἀγίρς
+ἐκπίνω éxartvw True pp
+[πίνω, [rivw, True pp
+drink], ἐἶγ1»], False eng
+drink αὐγήν False eng
+out, οἵ, False eng
+drink ἀγίρς False eng
+# 39 3 3 up. 2).
+up. 2). False eng
+# 40 36 38 exter [rirrw,  fall),  fall out,  be ἐκπίπτω [πίπτω,  γι 1],  γαλ οἱεί,  δὲ
+ἐκπίπτω False eng
+[πίπτω, [rirrw, True pp
+fall], γι False eng
+fall 1], False eng
+out, γαλ False eng
+be οἱεί, False eng
+# 41 39 38 cast out,  be extled or banished,  used εαδέ οτ,  ἠδ οχτίσα οὐ δα»1ςλεώ,  ἀϑϑα
+cast εαδέ False eng
+out, οτ, False eng
+be ἠδ False eng
+exiled True pp
+or οὐ False eng
+banished, δα»1ςλεώ, False eng
+used ἀϑϑα False eng
+# 42 38 35 as pass. of éxBd\d\w; of a tree,  fall ἃ5 Ρ855. οἱ ἐκβάλλω; οὗ ἃ ἴτεα,  μα
+as ἃ5 False eng
+pass. Ρ855. False eng
+of οἱ False eng
+ἐκβάλλω; éxBd\d\w; True pp
+of οὗ False eng
+a ἃ False eng
+tree, ἴτεα, False eng
+fall μα False eng
+# 43 19 21 down,  cp. éxxdrrw. εἶοτυ»,  ΠΡ. ἐκκόπτω.
+down, εἶοτυ», False eng
+cp. ΠΡ. False eng
+ἐκκόπτω. éxxdrrw. True pp
+# 47 40 38 durée [rhéw,  sail],  satl away,  put to ἐκπλέω [πλέω,  «αἱ,  «αἱ στυαν,  πὶ ἰο
+ἐκπλέω durée True pp
+[πλέω, [rhéw, True pp
+sail], «αἱ, False eng
+sail «αἱ False na
+away, στυαν, False eng
+put πὶ False eng
+to ἰο False eng
+# 48 4 4 Sea. σεα.
+sea. σεα. False na
+# 49 38 37 éxmhews,  -wy [wréws,  full,  cp. miu- ἔκπλεως,  -ων [πλέως,  “εδ,  ορ. πίμ-
+ἔκπλεως, False na
+-ων False na
+[πλέως, [wréws, True lex
+full, “εδ, False eng
+cp. ορ. False eng
+πίμ- False na
+# 50 40 39 wAnum,  fll,  cogn.,  Lat. plénus,  fu/, πλημι,  Μ,  σορῃ.,  [, Αἴ. ΡΙδηπ8,  μος
+πλημι, False na
+fll, Μ, False eng
+cogn., σορῃ., False na
+Lat. [, False na
+plénus, Αἴ. False na
+full, ΡΙδηπ8, False na
+# 51 34 30 Eng. full],  fidled out or up. Cp. Επρ. 111],  ἡ μεα ομ οὐ τῷ. Ὁ.
+Eng. Επρ. False na
+full], 111], False eng
+filled True case
+out μεα False eng
+or ομ False eng
+up. οὐ False eng
+Cp. True lex
+# 52 9 9 ovum ews. σύμπλεως.
+σύμπλεως. False eng
+# 53 38 37 ixyhqrre [-wAjTTwW,  -wAHEW,  -éxAnka, ἐκελήττω [-πλήττω,  -πλήξω,  -ἐπληξα,
+ἐκπλήττω ixyhqrre True pp
+[-πλήττω, [-wAjTTwW, True pp
+-πλήξω, -wAHEW, True pp
+-ἐπληξα, -éxAnka, True pp
+# 54 34 33 éxdyya,  wéewArnyua,  érdtyyny and έἔπληγα,  πέπληγμαι,  ἐπλήγην διά
+πέπληγα, False na
+πέπληγμαι, wéewArnyua, True pp
+ἐπλήγην False na
+and διά False eng
+# 55 30 32 (regularly in cpds.) -erddy7», (τορυ αῦνγ ἰῃ οράς5.) -τεπλάγην,
+(regularly (τορυ False eng
+in αῦνγ False eng
+cpds.) ἰῃ False na
+-επλάγην, οράς5.) False na
+# 56 40 39 strike,  bor.,  Eng. apoplexy ],  strike σέγίζο,  Ὀοτ.,  Επρ. ΔΡΟΡΙΟΧΥΊ],  τσ ξε
+strike, σέγίζο, False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+apoplexy ΔΡΟΡΙΟΧΥΊ], False eng
+], τσ False na
+strike ξε False eng
+# 57 31 32 out of one’s senses; pass.,  é¢ οί 07 Οὔε᾽Θ 56η565; Ρρᾶϑ85.,  ὁξ
+out οί False eng
+of 07 False eng
+one’s Οὔε᾽Θ False na
+senses; 56η565; False eng
+pass., Ρρᾶϑ85., False eng
+be ὁξ False na
+# 58 39 35 astounded,  terrified,  panic-stricken, σείο ρα,  ἐεγγίβεα,  α»ὴε-εἔγίεξοη,
+astounded, σείο False eng
+terrified, ρα, False eng
+panic-stricken, ἐεγγίβεα, False na
+# 59 29 31 Jrightened out of one’s wits. , 2ιράζηεα οτζ ο7 ογεε᾽: τοῖΐς.
+frightened , False na
+out 2ιράζηεα False eng
+of οτζ False eng
+one’s ο7 False na
+wits. ογεε᾽: False eng
+# 60 34 36 txwodev [éx roday,  out from under ἐκποδών [ἐκ ποδῶν,  ομέ 7Ο»»Σ φρριοῦ
+ἐκποδών txwodev True lex
+[ἐκ [éx True lex
+ποδῶν, roday, True form
+out ομέ False eng
+from 7Ο»»Σ False eng
+under φρριοῦ False eng
+# 61 39 42 foot),  adv.,  out of the way,  éxrodur , ) οί),  δάν.,  οτΖ οὔ ἐλε τυαν,  ἐκποδὼν
+foot], , False eng
+adv., ) False eng
+out οί), False eng
+of δάν., False eng
+the οτΖ False eng
+way, οὔ False eng
+ἐκποδὼν ἐλε False na
+# 62 40 38 woveta Bat,  put out of the way,  euphe- ποιεῖσθαι,  δ ομξ ο7 1ἀε τυᾶγ,  ἐᾺΡἢ6-
+ποιεῖσθαι, woveta True form
+put ομξ False eng
+out ο7 False eng
+of 1ἀε False eng
+the τυᾶγ, False eng
+way, ἐᾺΡἢ6- False eng
+euphe- NA False na
+# 63 22 24 mism for dmroxrelvecy. τηΐβσῃ ἔοσῦ ἀποκτείνειν.
+mism τηΐβσῃ False na
+for ἔοσῦ False eng
+ἀποκτείνειν. dmroxrelvecy. True form
+# 64 39 40 ixwwpa,  -aros,  7b [éxxtvw],  drinking ἔκπωμα,  -ατος,  τό [ἐκπίνω],  ἐἰγτηξίηρ
+ἔκπωμα, ixwwpa, True lex
+-ατος, False na
+τό 7b True form
+[ἐκπίνω], [éxxtvw], True pp
+drinking ἐἰγτηξίηρ False eng
+# 65 26 27 cup. See Fig. 61,  p. 195. ἐφ. 8566 ΕἸρ. 61,  Ρ. 19ξς.
+cup. ἐφ. False eng
+See 8566 False na
+Fig. ΕἸρ. False na
+61, 61, False na
+p. Ρ. False eng
+195. 19ξς. False na
+# 66 41 43 duds [éx],  adv.,  outside of,  with gen. ἐκτός [ἐκ],  δὶν.,  οφείςἐαἷ οὐ,  νυ ἢ ρεῃ.
+ἐκτός False eng
+[ἐκ], [éx], True lex
+adv., δὶν., False eng
+outside οφείςἐαἷ False eng
+of, οὐ, False eng
+with νυ False eng
+gen. ἢ False eng
+# 67 35 35 dxtrpérw [Teérw,  turn],  turn out; ἐκτρέτω [τρέπω,  2471],  Ζπ|722 Ομ;
+ἐκτρέτω dxtrpérw True pp
+[τρέπω, [Teérw, True pp
+turn], 2471], False eng
+turn Ζπ|722 False eng
+out; Ομ; False eng
+# 68 35 36 pass. and 2 aor. mid.,  turn aside. Ρᾶ58. 8Πα 2 δΟΥ. τη]4.,  2247: 5162.
+pass. Ρᾶ58. False eng
+and 8Πα False eng
+2 2 False na
+aor. δΟΥ. False eng
+mid., τη]4., False eng
+turn 2247: False eng
+aside. 5162. False eng
+# 69 22 23 éxravro,  see xrdopat. ἐκτῶντο,  3866 κτάομαι.
+ἐκτῶντο, éxravro, True form
+see 3866 False eng
+κτάομαι. xrdopat. True pp
+# 70 35 39 edalve [dalww,  show],  show forth; ἐκφαίνω [φαίνω,  «ἀοτυ],  σάοτυ γογίά;͵
+ἐκφαίνω edalve True pp
+[φαίνω, [dalww, True pp
+show], «ἀοτυ], False eng
+show σάοτυ False eng
+forth; γογίά;͵ False eng
+# 71 34 39 wérenov éxpalvey,  begin open war. πόλεμον ἐκφαίνειν,  ὀφρὴν» οὐδ᾽: τῦὰν΄.
+πόλεμον wérenov True pp
+ἐκφαίνειν, False na
+begin ὀφρὴν» False eng
+open οὐδ᾽: False eng
+war. τῦὰν΄. False eng
+# 72 38 41 éxdépw [pépw,  bear],  carry out; dis. ἐκφέρω [φέρω,  ὀεα»,  “α7Ώ, }» οτ,; εἦἿδ.
+ἐκφέρω éxdépw True pp
+[φέρω, [pépw, True pp
+bear], ὀεα», False eng
+carry “α7Ώ, False eng
+out; }» False eng
+dis- οτ,; False eng
+# 73 39 36 close,  tell of,  relate; wédepov éxgé- κἰοδο,  ἐφ οὐς γοίαε,  πόλεμον ἐκφέ-
+close, κἰοδο, False eng
+tell ἐφ False eng
+of, οὐς False eng
+relate; γοίαε, False eng
+πόλεμον wédepov True pp
+ἐκφέ- False na
+# 74 24 25 pecv,  open hostilities. ρειν,  οῥεγι ἀοοί ἐϊέϊές.
+ρειν, False na
+open οῥεγι False eng
+hostilities. ἀοοί False eng
+# 75 40 38 exedyw [pev-yw,  fice],  flee from,  es- ἐκφεύγω [φεύγω,  Μεε1,  εε γγονι,  ἐ:-
+ἐκφεύγω exedyw True pp
+[φεύγω, [pev-yw, True pp
+flee], Μεε1, False eng
+flee εε False eng
+from, γγονι, False eng
+es- ἐ:- False na
+# 76 33 34 cape,  paxpov éxpevyey uh xatame- εαξε,; μικρὸν ἐκφεύγειν μὴ καταπε-
+cape, εαξε,; False eng
+μικρὸν paxpov True form
+ἐκφεύγειν False na
+μὴ False eng
+καταπε- False na
+# 77 33 33 Tpwhijvar,  narrowly escape being τρωθῆναι,  μπαγγοτυΐν Ἔεεαβέ ὀεϊη
+τρωθῆναι, False na
+narrowly μπαγγοτυΐν False eng
+escape Ἔεεαβέ False eng
+being ὀεϊη False eng
+# 78 16 17 stoned to death. σίογφαὶ 10 ὦφαζά.
+stoned σίογφαὶ False eng
+to 10 False eng
+death. ὦφαζά. False eng
+# 79 42 44 éxdv,  -oica,  -b»,  willing; generally to ἑκών,  -οὔσα,  -όν τού ἡ ήγερ,  σθηεγαὶὶν ἴὸ
+ἑκών, éxdv, True lex
+-οῦσα, -oica, True pp
+-όν -b», True pp
+willing; τού False eng
+generally ἡ False eng
+to ήγερ, False eng
+# 80 36 39 be translated as an adv.,  zwdingly, Ὀὲ ἰταηϑίαϊεαά 85 δῃ δᾶάν.,  τυϊἠχρσίν,
+be Ὀὲ False eng
+translated ἰταηϑίαϊεαά False eng
+as 85 False eng
+an δῃ False eng
+adv., δᾶάν., False eng
+willingly, τυϊἠχρσίν, False na
+# 81 12 12 voluntarily. νοξεμέαγ εν.
+voluntarily. νοξεμέαγ False eng
+# 82 38 43 Qavov,  -ov [cogn.,  Lat. oleum,  o7/, ἔλαιον,  -οὐ [σορῃ, ,  [, 81. οἴθαπι,  οἱΐ,
+ἔλαιον, Qavov, True pp
+-ov -οὐ False na
+[cogn., [σορῃ, False na
+Lat. , False na
+oleum, [, False eng
+oil, 81. False na
+# 83 39 38 Eng. oil],  o/tve ot/,  used esp. after Ἑηρ. 011],  οὐΐυε οἱ,  ἀϑεα 6βρ. δἴϊευ
+Eng. Ἑηρ. False na
+oil], 011], False eng
+olive οὐΐυε False na
+oil, ot/, True form
+used ἀϑεα False eng
+esp. 6βρ. False eng
+after δἴϊευ False eng
+# 84 33 32 bathing to make the skin soft and Ῥαιϊδίηρ ἴο πᾶκα ἴ6 5κίῃ βοῇ δηὰ
+bathing Ῥαιϊδίηρ False eng
+to ἴο False eng
+make πᾶκα False eng
+the ἴ6 False eng
+skin 5κίῃ False eng
+soft βοῇ False eng
+and δηὰ False eng
+# 85 18 14 the joints limber. [8 Ἰοἱπίβ πον.
+the [8 False eng
+joints Ἰοἱπίβ False eng
+limber. πον. False eng
+# 86 41 43 Wdrrwv,  -ov,  gen. -ovos,  used as comp. ἐλάττων,  -ον,  σΈΠ. -ονος,  56 ἃ 85 ζοΙΏρ.
+ἐλάττων, Wdrrwv, True form
+-ον, -ov, True pp
+gen. σΈΠ. False eng
+-ονος, False na
+used 56 False eng
+as ἃ False eng
+comp. 85 False eng
+# 87 36 36 of pixpds,  smaller; sup. éddxioros, οὗ μικρός,  ἐνιαίέογ,  5. ἐλάχιστος,
+of οὗ False eng
+μικρός, pixpds, True lex
+smaller; ἐνιαίέογ, False eng
+sup. 5. False eng
+ἐλάχιστος, éddxioros, True lex
+# 88 15 17 least,  fewest. ἐεαςΐ,  γ)ετυεεί.
+least, ἐεαςΐ, False eng
+fewest. γ)ετυεεί. False eng
+# 89 38 39 Xatve,  €\d,  Fraca,  éApAaxa,  €d7Aa- ἐλαύνω,  ἐλῶ,  ἤλασα,  ἐλήλακα,  ἐλήλα-
+ἐλαύνω, Xatve, True pp
+ἐλῶ, €\d, True form
+ἤλασα, Fraca, True pp
+ἐλήλακα, éApAaxa, True pp
+ἐλήλα- False na
+# 90 35 34 pat,  #AdOnv [bor.,  Eng. elastic], μαι,  ἠλάθην [Ὅοτ.,  Επρ. 6[4510],
+μαι, False eng
+ἠλάθην #AdOnv True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False na
+elastic], 6[4510], False eng

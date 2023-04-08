@@ -1,0 +1,522 @@
+# 0 3 3 442 442
+442 442 False na
+# 1 36 40 axdorvor,  -ας -a [2],  six hundred. ἑξακόσιοι,  -αι,  -α [ἕξ],  εἱχ Διο» ἐα,
+ἑξακόσιοι, axdorvor, True lex
+-αι, -ας True pp
+-α -a True pp
+[ἕξ], [2], True lex
+six εἱχ False eng
+hundred. Διο» False eng
+# 2 35 41 daviornps [aviornu,  cause to sland ἐξανίστημι [ἀνίστημι,  ἐα π5 9 10 σία »πα
+ἐξανίστημι daviornps True lex
+[ἀνίστημι, [aviornu, True lex
+cause ἐα False eng
+to π5 False eng
+sland 9 False na
+# 3 30 31 up],  make stand up from one’s “Δ,  "πμωξεέ παν Ὁ ἡγονλ ΟἿ ς 8
+up], “Δ, False eng
+make "πμωξεέ False eng
+stand παν False eng
+up Ὁ False eng
+from ἡγονλ False eng
+one’s ΟἿ False na
+# 4 38 35 seat; intr.,  in mid. and 2 aor. act., “σἀἴ; ἰηΐτι,  ἢ πε. δ 2 δοῦ. δοῖ, ,
+seat; “σἀἴ; False eng
+intr., ἰηΐτι, False eng
+in ἢ False eng
+mid. πε. False eng
+and δ False eng
+2 2 False na
+aor. δοῦ. False eng
+act., δοῖ, False eng
+# 5 8 6 rise up. 16 πῇ.
+rise 16 False eng
+up. πῇ. False eng
+# 6 8 8 dfarardw ἐξαπατάω
+ἐξαπατάω dfarardw True pp
+# 7 10 9 decetve ], ἀδεοιτε],
+deceive ἀδεοιτε], False na
+# 8 10 11 Leceplion, εἰρέσλέίοης
+deception, εἰρέσλέίοης False na
+# 9 43 42 dfanlvns,  adv.,  rare in Attic,  suddenly, ἐξαπίνης,  αἦἷν.,  τάγε ἴη Αἴις,  σφ εηῖν,
+ἐξαπίνης, dfanlvns, True lem
+adv., αἦἷν., False eng
+rare τάγε False eng
+in ἴη False eng
+Attic, Αἴις, False na
+suddenly, σφ False eng
+# 10 15 10 all ofa sudden, αὐ ο) ὦ ΟΝ
+all αὐ False eng
+of a ο) False na
+sudden, ὦ False eng
+# 11 40 42 €fecpe [ecul,  de],  only impers. &eors, ἔξειμι [εἰμί,  δὲ),  ΟἾΪΥ ἱπιρετβ. ἔξεστι,
+ἔξειμι €fecpe True lex
+[εἰμί, [ecul, True lex
+δὲ], False eng
+only ΟἾΪΥ False eng
+impers. ἱπιρετβ. False eng
+ἔξεστι, &eors, True lex
+# 12 41 45 étein,  ctc.,  af is allowed,  tt is pos- ἐξείη,  εἴς, ,  22. 1: αὐδοτουσα,  19 15 209-
+ἐξείη, étein, True form
+etc, ctc., True form
+it , False eng
+is 22. False eng
+allowed, 1: False eng
+it True pp
+is 19 False eng
+pos- 15 False na
+# 13 38 32 sthle,  one may,  with inf.,  dat. and σἰὐε,  ομ αν,  ἢ ἰηΐ, ,  ἀΑἴ. πὰ
+sible, σἰὐε, False na
+one ομ False eng
+may, αν, False eng
+with ἢ False eng
+inf., ἰηΐ, False eng
+dat. , False eng
+and ἀΑἴ. False eng
+# 14 37 36 inf.,  or acc. and inf.; ptc. in acc. ἰηζς,  οὐ δὺςς δὶ ᾿ηΐ.; ρῖς. 1ῇ ἃςς,
+inf., ἰηζς, False eng
+or οὐ False eng
+acc. δὺςς False eng
+and δὶ False eng
+inf.; ᾿ηΐ.; False eng
+ptc. ρῖς. False na
+in 1ῇ False eng
+acc. ἃςς, False eng
+# 15 35 37 abs.,  éfdv,  stmce it ts possible. αὔ5.,  ἐξόν,  εὔριτς 19. 1ς ῥοςειὀέο,
+abs., αὔ5., False eng
+ἐξόν, éfdv, True form
+since εὔριτς False na
+it 19. False eng
+is 1ς False eng
+possible. ῥοςειὀέο, False eng
+# 16 28 28 ferpe [elur,  vo],  gro oul. ἔξειμι [εἶμι,  ρου],  ὁ οτί.
+ἔξειμι ferpe True lex
+[εἶμι, [elur, True lex
+go], ρου], False eng
+to ὁ False eng
+out. οτί. False na
+# 17 16 16 tferv,  see Exw. ἕξειν,  Ξε. ἔχω.
+ἕξειν, tferv, True form
+see Ξε. False eng
+ἔχω. Exw. True pp
+# 18 38 40 €eAavvw [éd\avvw,  wrive],  drive out, ἐξελαύνω [ἐλαύνω,  ἐἦγ1τ6},  αὐγίτέ ομΐ,
+ἐξελαύνω €eAavvw True pp
+[ἐλαύνω, [éd\avvw, True pp
+drive], ἐἦγ1τ6}, False eng
+drive αὐγίτέ False eng
+out, ομΐ, False eng
+# 19 28 28 expel; intr. march out (from ἐχροΐ; ἴσῳ »μαγεά ομέ ([τοπὶ
+expel; ἐχροΐ; False eng
+intr. ἴσῳ False eng
+march »μαγεά False eng
+out ομέ False eng
+(from ([τοπὶ False eng
+# 20 24 25 camp),  march,  advance. σδι}}},  γμαγελ,  αὐναηε.
+camp), σδι}}}, False eng
+march, γμαγελ, False eng
+advance. αὐναηε. False eng
+# 21 25 23 é€éXurrov,  see éxdelrw., ἐξέλιπον,  5ε6 ἐκλείπω.
+ἐξέλιπον, é€éXurrov, True pp
+see 5ε6 False eng
+ἐκλείπω. éxdelrw., True pp
+# 22 23 24 €€Xoupev,  see eLaipéw. ἐξέλοιμεν,  5εε ἐξαιρέω.
+ἐξέλοιμεν, €€Xoupev, True form
+see 5εε False eng
+ἐξαιρέω. eLaipéw. True pp
+# 23 24 24 éfeveyxeiv,  see éxpépw. ἐξενεγκεῖν,  Ξεε ἐκφέρω.
+ἐξενεγκεῖν, éfeveyxeiv, True form
+see Ξεε False eng
+ἐκφέρω. éxpépw. True pp
+# 24 24 25 eferAayn,  see éxrA7TTW. ἐξεπλάγη,  5εἜε ἐκπλήττω.
+ἐξεπλάγη, eferAayn, True form
+see 5εἜε False eng
+ἐκπλήττω. éxrA7TTW. True pp
+# 25 20 21 éferAa,  see éxmdéw. ἐξέπλει,  Ξεε ἐκπλέω.
+ἐξέπλει, éferAa, True form
+see Ξεε False eng
+ἐκπλέω. éxmdéw. True pp
+# 26 37 42 éEépxopar [Zpxoua,  come,  go],  come ἐξέρχομαι [ἔρχομαι,  «07, 6,  9Ὸ7,  407)16
+ἐξέρχομαι éEépxopar True pp
+[ἔρχομαι, [Zpxoua, True pp
+come, «07, False eng
+go], 6, False eng
+come 9Ὸ7, False eng
+# 27 22 20 oul,  go oul,  escape. Οτε,  Ὁ ομΐ,  ὁδεαέ.
+out, Οτε, False na
+go Ὁ False eng
+out, ομΐ, False na
+escape. ὁδεαέ. False eng
+# 28 38 41 &éorrat,  see €fecut,  22 75s allowed. ἐξέσται,  8566 ἔξειμι,  ἐξ ἰς αὐἰέοτο κί.
+ἐξέσται, &éorrat, True form
+see 8566 False eng
+ἔξειμι, €fecut, True lex
+ἐξ 22 True form
+75s ἰς False na
+allowed. αὐἰέοτο False eng
+# 29 39 43 eéracis,  -ews,  7 [éferdyw,  examine], ἐξέτασις,  -εως,  ἡ [ἐξετάζψω,  ἐχα»11716],
+ἐξέτασις, eéracis, True lex
+-εως, False na
+ἡ 7 True case
+[ἐξετάζψω, [éferdyw, True pp
+examine], ἐχα»11716], False eng
+# 30 29 34 military inspection,  review. »ε  ὲα7, }») ἐμιερόσίϊον,  γούϊστ.
+military »ε False eng
+inspection, ὲα7, False eng
+review. }») False eng
+# 31 23 24 éEépyvav,  see exdalvw. ἐξέφηναν,  5Ξες ἐκώαίνω.
+ἐξέφηναν, éEépyvav, True form
+see 5Ξες False eng
+ἐκώαίνω. exdalvw. True pp
+# 32 39 40 e€nyéopat [nyéouar,  /ead,  bor.,  Eng. ἐξηγέομαι [ἡγέομαι,  ἡεαα᾽,  Ὀοτ.,  Επρ.
+ἐξηγέομαι e€nyéopat True pp
+[ἡγέομαι, [nyéouar, True pp
+lead, ἡεαα᾽, False na
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+# 33 39 38 exegesis ],  /ead out,  serve as guide; ΘΧΘΡΘΒ18],  ἐέαα οήἴ,  δόγθδ ας ρ"Ἰἶδν
+exegesis ΘΧΘΡΘΒ18], False eng
+lead οήἴ, False na
+out, δόγθδ False eng
+serve ας False eng
+as ρ"Ἰἶδν False eng
+guide; NA False eng
+# 34 32 32 dyabov re TH orparevuart éinyel- ἀγαθόν τι τῷ στρατεύματι ἐξηγεῖ-
+ἀγαθόν dyabov True form
+τι False eng
+τῷ TH True lex
+στρατεύματι orparevuart True form
+ἐξηγεῖ- False na
+# 35 34 40 Oat,  to do the army any good ser- σθαι,  9 οἷο {ώἦ6 4᾽1»}7 αἈ}) ροοαὶ 567-
+σθαι, False na
+to 9 False eng
+do οἷο False eng
+the {ώἦ6 False eng
+army 4᾽1»}7 False eng
+any αἈ}) False eng
+good ροοαὶ False eng
+ser- 567- False na
+# 36 14 13 vice as guide, ὕες 5 ρ:“1ωδ.
+vice ὕες False eng
+as 5 False eng
+guide, ρ:“1ωδ. False eng
+# 37 37 39 é&hxovra [¢&; cogn.,  Lat. sexaginta, ἑξήκοντα [ἕξ; οορῃ.,  1, Αἱ. βεχᾶρίηςᾷ,
+ἑξήκοντα é&hxovra True lex
+[ἕξ; [¢&; True lex
+cogn., οορῃ., False na
+Lat. 1, False na
+sexaginta, Αἱ. False na
+# 38 25 22 sixty],  indecl.,  sexty. σἰχίν,  ἴπά60].,  οὐχ.
+sixty], σἰχίν, False eng
+indecl., ἴπά60]., False eng
+sixty. sexty. True form
+# 39 26 29 eéqoav,  see fem,  go out. ἐξῇσαν,  5εε ἔξειμι,  ροὸ ΟἹ.
+ἐξῇσαν, eéqoav, True form
+see 5εε False eng
+ἔξειμι, ἔξειμι, False eng
+go ροὸ False eng
+out. ΟἹ. False eng
+# 40 20 21 €&fx On,  see dEayw. ἐξήχθη,  5Ξεἐε ἐξάγω.
+ἐξήχθη, €&fx True form
+On, 5Ξεἐε False na
+see ἐξάγω. False eng
+dEayw. NA False na
+# 41 39 39 e€rxvéopar [ixvéouar,  ttouat,  txduny, ἐξικνέομαι [ἱκνέομαι,  ἵξομαι,  ἱκόμην,
+ἐξικνέομαι e€rxvéopar True pp
+[ἱκνέομαι, [ixvéouar, True pp
+ἵξομαι, ttouat, True pp
+ἱκόμην, False na
+# 42 36 36 lypuat,  come,  in prose common only ἴγμαι,  “ον,  ἴῃ ῥΎοβ6 σοϊῃηοῃ ΟΠΪΥ͂
+ἷγμαι, lypuat, True pp
+come, “ον, False eng
+in ἴῃ False eng
+prose ῥΎοβ6 False eng
+common σοϊῃηοῃ False eng
+only ΟΠΪΥ͂ False eng
+# 43 36 34 in cpds.],  arrive at,  reach,  with ἴῃ ορα5.},  σγγῖθο αἰ,  γεαοὰ,  νὴ
+in ἴῃ False eng
+cpds.], ορα5.}, False na
+arrive σγγῖθο False eng
+at, αἰ, False eng
+reach, γεαοὰ, False eng
+with νὴ False eng
+# 44 36 34 gen.; of a missile,  reach the mark, Βεη.; οἱ 8 πΉ155116,  γεαε δε »αγ,
+gen.; Βεη.; False eng
+of οἱ False eng
+a 8 False eng
+missile, πΉ155116, False eng
+reach γεαε False eng
+the δε False eng
+mark, »αγ, False eng
+# 45 15 17 awarhow,  etc., ἀπατήσω,  εἰἴς, ,
+ἀπατήσω, awarhow, True pp
+etc., εἰἴς, False eng
+# 46 18 15 utterly,  practice ““εγν,  ᾽γαςσεέ
+utterly, ““εγν, False eng
+practice ᾽γαςσεέ False eng
+# 47 8 7 adraraw, ἀπατάω,
+ἀπατάω, adraraw, True pp
+# 48 7 8 deceive εἰτεσιυς
+deceive εἰτεσιυς False eng
+# 49 6 6 Google (οοοίς
+# 50 1 1 i "
+# 52 37 38 do execution,  éxi Bpaxd é&cxveia ba, αὖ εχεαιφίίος,  ἐπὶ βραχὺ ἐξικνεῖσθαι,
+do αὖ False eng
+execution, εχεαιφίίος, False eng
+ἐπὶ éxi True form
+βραχὺ Bpaxd True form
+ἐξικνεῖσθαι, é&cxveia True form
+# 53 19 19 have a short range. λατε ἃ σἀογέ γαηρε.
+have λατε False eng
+a ἃ False eng
+short σἀογέ False eng
+range. γαηρε. False eng
+# 54 39 45 Eloryps [iornu,  cause to stand,  set), ἐξίστημι [}ἴστημι,  ἐατέ56 10 σέαριαῖ,  βοἱ],
+ἐξίστημι Eloryps True lex
+[ἴστημι, False na
+cause ἐατέ56 False eng
+to 10 False eng
+stand, σέαριαῖ, False eng
+set], βοἱ], False eng
+# 55 41 44 set aside,  mid.,  stand aside,  get out. σε΄ αεῖώΐδ,  τοὶὰ.,  δία πα αϑῖαΐδ,  σοί οὐ.
+set σε΄ False eng
+aside, αεῖώΐδ, False eng
+mid., τοὶὰ., False eng
+stand δία False eng
+aside, πα False eng
+get αϑῖαΐδ, False eng
+out. σοί False eng
+# 56 17 17 ifopev,  see Exw. ἕξομεν,  Ξεε ἔχω.
+ἕξομεν, ifopev, True form
+see Ξεε False eng
+ἔχω. Exw. True pp
+# 57 34 37 t&dv,  see Efeiui,  12 ts allowed. ἐξόν,  5Ξε6 ἔξειμι,  12 ἐς αἰὐῤοτυεί,
+ἐξόν, t&dv, True form
+see 5Ξε6 False eng
+ἔξειμι, Efeiui, True lex
+it 12 False na
+is ἐς False eng
+allowed. αἰὐῤοτυεί, False eng
+# 58 35 36 €owrl{e [orAlfw,  arm],  arm fully; ἐξοπλίζω [ὁπλίζω,  αγ».},  αγνὴ μεν;
+ἐξοπλίζω €owrl{e True pp
+[ὁπλίζω, [orAlfw, True pp
+arm], αγ».}, False eng
+arm αγνὴ False eng
+fully; μεν; False eng
+# 59 35 33 mid.,  arm oneself fully,  pf. mid, μλ14.,  αγγε μέσο μέν,  φῆ. ταὶ].
+mid., μλ14., False eng
+arm αγγε False eng
+oneself μέσο False eng
+fully, μέν, False eng
+pf. φῆ. False eng
+mid, ταὶ]. False eng
+# 60 17 19 be tn full armor. δὲ τι) “εἰ αν ϑιογ.
+be δὲ False eng
+in τι) False eng
+full “εἰ False eng
+armor. αν False eng
+# 61 34 39 owktola,  -ας state of being fully ἐξοπλισίᾷ,  -ἄἂς,  σέαίε οΥὙ δεΐηιρ μεν
+ἐξοπλισία, False na
+-ας -ἄἂς, False na
+state σέαίε False eng
+of οΥὙ False eng
+being δεΐηιρ False eng
+fully μεν False eng
+# 62 29 32 armed; év ry ébowNole,  under αγριξαῖ; ἐν τῇ ἐξοπλισίᾳ,  τ)012
+armed; αγριξαῖ; False eng
+ἐν év True lex
+τῇ ry True lex
+ἐξοπλισίᾳ, ébowNole, True form
+under τ)012 False eng
+# 63 5 9 arms. ανγ»ρῃ:5.
+arms. ανγ»ρῃ:5. False eng
+# 64 37 40 Eeppdw [dpudw,  set in motion],  urge ἑξσρμάω Γὁρμάω,  τε τ»: »:ο71071},  μῦρέ
+ἑξσρμάω Eeppdw True pp
+[ὁρμάω, [dpudw, True pp
+set τε False eng
+in τ»: False eng
+motion], »:ο71071}, False eng
+urge μῦρέ False eng
+# 65 38 39 on,  incite,  intr.,  start,  set out. Οὔ,  ἔγιεῖίο ἱπῖτ.,  σίαγ  ,  592 οτεζ,
+on, Οὔ, False eng
+incite, ἔγιεῖίο False eng
+intr., ἱπῖτ., False eng
+start, σίαγ False eng
+set , False eng
+out. 592 False eng
+# 66 32 37 €w [¢t; bor. Eng. exotic],  adv. ἔξω [ἐξ; Ὀοτ.,  Επρ. δχοίϊο],  δάᾶν.,
+ἔξω €w True pp
+[ἐξ; [¢t; True form
+bor. Ὀοτ., False eng
+Eng. Επρ. False na
+exotic], δχοίϊο], False eng
+adv. δάᾶν., False eng
+# 67 38 39 without,  outside,  ro kw retxos,  the τυϊλοιφ,  οἱἐδίἶδ,  τὸ ἔξω τεῖχος,  4{ε
+without, τυϊλοιφ, False eng
+outside, οἱἐδίἶδ, False eng
+τὸ False eng
+ἔξω False eng
+τεῖχος, retxos, True lex
+the 4{ε False eng
+# 68 36 38 outer wall,  with gen.,  which some- οεζ67,  τυαδ,  ψ|ἢ ρεη.,  Ψ ΒΙΟ δοιμέ-
+outer οεζ67, False eng
+wall, τυαδ, False eng
+with ψ|ἢ False eng
+gen., ρεη., False eng
+which Ψ False eng
+some- ΒΙΟ False na
+# 69 40 39 times precedes it,  outside of,  out of, {Ἰπ|65 Ῥγθοθῆδϑ ἱΐ,  οτσταἷς οὐ» οπ οὐ,
+times {Ἰπ|65 False eng
+precedes Ῥγθοθῆδϑ False eng
+it, ἱΐ, False eng
+outside οτσταἷς False eng
+of, οὐ» False eng
+out οπ False eng
+of, οὐ, False eng
+# 70 21 22 beyond,  outflanking. ὀεγογιαΐ,  οεὐδάαρξηρ.
+beyond, ὀεγογιαΐ, False eng
+outflanking. οεὐδάαρξηρ. False eng
+# 71 34 40 €wOev [éiw],  adv.,  from without; ἔξωθεν [ἔξω],  δάν.,  , “΄ονι τοΐϊζλοιε,
+ἔξωθεν €wOev True lex
+[ἔξω], [éiw], True pp
+adv., δάν., False eng
+from , False eng
+without; “΄ονι False eng
+# 72 36 37 with gen.,  outside of,  apart from. Ψ ἢ ρδη.,  οτσἑαἷφ οὐ,  αῤαγί 7) ο»ι.
+with Ψ False eng
+gen., ἢ False eng
+outside ρδη., False eng
+of, οτσἑαἷφ False eng
+apart οὐ, False eng
+from. αῤαγί False eng
+# 73 29 29 pf with pres. sense,  2 plupf ΡΓ ν ἢ Ρῥύεβ. 5686,  2 ρἱυρί,
+ἔοικα
+pf. ΡΓ False eng
+with ν False eng
+pres. ἢ False eng
+sense, Ρῥύεβ. False eng
+2 5686, False na
+plupf 2 False eng
+# 74 12 10 Sait 2 i ‘ . ἐῶσι 2 Ϊ .
+ἐῷκη Sait True form
+2 2 False na
+as Ϊ False eng
+impf., πηρί., False eng
+rare τάγτε False eng
+fut. ἔαϊ. False eng
+εἴξω False eng
+from ίτοηὶ False eng
+# 76 40 41 assumed pres. elxw,  be like,  resemble, 55 πη Ἔα Ργ65. εἴκω,  δέ ἐξέ,  γεσερε ἐς,
+assumed 55 False eng
+pres. πη False eng
+εἴκω, Ἔα False na
+be Ργ65. False eng
+like, εἴκω, False eng
+resemble, δέ False eng
+# 77 39 42 with dat.; ws Zouxe,  as it seems,  ap- ΜΙ ἢ ἀδι.; ὡς ἔοικε,  ας 12 562;»915,  αῤ-
+with ΜΙ False eng
+dat.; ἢ False eng
+ὡς Zouxe, True lex
+ἔοικε,
+as ἔοικε, False eng
+it ας False eng
+seems, 12 False eng
+ap- 562;»915, False na
+# 78 9 8 parently. 2αγερέν.
+parently. 2αγερέν. False na
+# 79 37 40 drayy&\dw [ayyéAd\w,  announce),  no- ἐπαγγέλλω [ἀγγέλλω,  ανι»οτεγ1427,  η10-
+ἐπαγγέλλω drayy&\dw True pp
+[ἀγγέλλω, [ayyéAd\w, True pp
+announce], ανι»οτεγ1427, False eng
+no- η10- False na
+# 80 41 40 tify,  proclaim,  mid.,  promise,  offer. “ἔν,  2γοσίαῖηε,  ταϊά.,  2γο»εῖξε,  οὔ.
+tify, “ἔν, False na
+proclaim, 2γοσίαῖηε, False eng
+mid., ταϊά., False eng
+promise, 2γο»εῖξε, False eng
+offer. οὔ. False eng
+# 81 20 19 érabov,  see rao xu. ἔπαθον,  Ξεε πάσχω.
+ἔπαθον, érabov, True pp
+see Ξεε False eng
+πάσχω. rao True pp
+xu. NA False eng
+# 82 38 40 érawgéw,  éraivéow,  but in Attic more ἐπαιθβέω,  ἐπαινέσω,  Ὀὰϊ ἴῃ Αἰιὶς πιοῖς
+ἐπαινέω, érawgéw, True pp
+ἐπαινέσω, éraivéow, True pp
+but Ὀὰϊ False eng
+in ἴῃ False eng
+Attic Αἰιὶς False na
+more πιοῖς False eng
+# 83 30 33 commonly éracvécoua,  émyvecu, ΠΟΣΔΙΏΟΠΪΝ ἐπαινέσομαι,  ἐπήνεσω,
+commonly ΠΟΣΔΙΏΟΠΪΝ False eng
+ἐπαινέσομαι, éracvécoua, True pp
+ἐπήνεσω, émyvecu, True pp
+# 84 37 37 éxyvexa,  Exyunuat,  éryvédny [aivéw, ἐπήνεκα,  ἐπήνημαι,  ἐπῃνέθην [αἰνέω,
+ἐπήνεκα, éxyvexa, True pp
+ἐπήνημαι, Exyunuat, True pp
+ἐπῃνέθην éryvédny True pp
+[αἰνέω, [aivéw, True pp
+# 85 34 35 pratse],  approve,  appluud,  com- 2γαϊ:6],  αῥγουε,  αῤῥέωτεα,  εονὶ-
+praise], 2γαϊ:6], False na
+approve, αῥγουε, False eng
+applaud, αῤῥέωτεα, False na
+com- εονὶ- False na
+# 86 5 2 mend. ΤΑ
+mend. ΤΑ False eng
+# 87 35 35 éxanodov0le [dxorovbw,  -how,  fol- ἐπακολουθέω [ἀκολουθέω,  -ήσω , ο]-
+ἐπακολουθέω éxanodov0le True pp
+[ἀκολουθέω, [dxorovbw, True pp
+-ήσω -how, True pp
+fol- , False na
+# 88 29 27 low),  follow after,  pursue. ἐοτυ],  γοίοτυ αἴξ,  2: 56.
+low], ἐοτυ], False eng
+follow γοίοτυ False eng
+after, αἴξ, False eng
+pursue. 2: False eng
+# 89 39 40 évdv or drrfv [eel + dv],  conj.,  with ἐπάν οἵἦ ἐπήν [ἐπεί -- ἄν],  σοη].,  ΜῈΝ
+ἐπάν évdv True lem
+or οἵἦ False eng
+ἐπήν drrfv True lem
+[ἐπεί False eng
++ -- False na
+ἄν], dv], True lex
+conj., σοη]., False eng
+with ΜῈΝ False eng
+# 90 33 36 subj.,  when,  whenever; éwav Ta- 5.].,  τοΐτρι,  τυλερευεῦ,  ἐπὰν τά-
+subj., 5.]., False eng
+when, τοΐτρι, False eng
+whenever; τυλερευεῦ, False eng
+ἐπὰν éwav True form
+τά- False na
+# 91 38 39 xXioTa,  as soon as,  Lat. cum primum. χιστα,  α- 5002: 5, 1 Δἴ. κιε»Ὲ 27 ΣΦΙ.
+χιστα, False na
+as α- False eng
+soon 5002: False eng
+as, 5, False eng
+Lat. 1 False na
+cum Δἴ. False eng
+primum. κιε»Ὲ False na
+# 92 41 38 érravayx wpéw -[dvaxwpéw,  go back],  re- ἐπαναχωρέω -[ἀναχωρέω,  ρο ὀαεξ],  γέ-
+ἐπαναχωρέω érravayx True pp
+[ἀναχωρέω, wpéw True pp
+go ὀαεξ], False eng
+back], γέ- False eng
+re- NA False na
+# 93 15 15 tire,  retreat. Ζ1γ6,  γοζγφαζ,
+tire, Ζ1γ6, False eng
+retreat. γοζγφαζ, False eng
+# 94 37 36 dreyyeXdw [yeddw,  laugh),  laugh at, ἐπεγγελάω [γελάω,  ἐστ ρὰ},  απσὰ αὐ
+ἐπεγγελάω dreyyeXdw True pp
+[γελάω, [yeddw, True pp
+laugh], ἐστ False eng
+laugh ρὰ}, False eng
+at, απσὰ False eng
+# 95 18 11 insult,  with dat. πε,  ἢ ἀδῖ.
+insult, πε, False eng
+with ἢ False eng
+dat. ἀδῖ. False eng
+# 96 35 39 ereyelpw [éyelp»,  wake],  wake up. ἐπεγείρω [ἐγείρ:ν,  τυα ζε7,  τυαξε πῤ.
+ἐπεγείρω ereyelpw True pp
+[éyelp», [ἐγείρ:ν, False na
+wake], τυα False eng
+wake ζε7, False eng
+up. τυαξε False eng
