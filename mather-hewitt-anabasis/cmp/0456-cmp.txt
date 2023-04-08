@@ -1,0 +1,467 @@
+# 0 3 3 444 444
+444 444 False na
+# 1 36 39 epicure,  epidermis,  epithet,  also δρίουσθ,  δορί ἄθυπλ18,  δορὶ ποῖ,  150
+epicure, δρίουσθ, False eng
+epidermis, δορί False eng
+epithet, ἄθυπλ18, False eng
+also δορὶ False eng
+# 2 10 11 see above. 56:6 Δῦονα.
+see 56:6 False eng
+above. Δῦονα. False eng
+# 3 30 33 driaon,  see Zreiui,  come on. ἐπίᾶσι,  566 ἔπειμι,  407726 Ο72.
+ἐπίᾶσι, False na
+see 566 False eng
+ἔπειμι, Zreiui, True lex
+come 407726 False eng
+on. Ο72. False eng
+# 4 37 38 émBédrAw [BdrX\w,  throw],  throw on; ἔπιβάλλω [βάλλω,  ζάγοιυ),  ζάγοτυ ὁ»,
+ἔπιβάλλω émBédrAw True pp
+[βάλλω, [BdrX\w, True pp
+throw], ζάγοιυ), False eng
+throw ζάγοτυ False eng
+on; ὁ», False eng
+# 5 35 37 mid.,  of archers,  put an arrow on τοϊά, ,  οὗ δύσβεῖβ,  2η αϑ αγγοῖῦυ Ο
+mid., τοϊά, False eng
+of , False eng
+archers, οὗ False eng
+put δύσβεῖβ, False eng
+an 2η False eng
+arrow αϑ False eng
+on αγγοῖῦυ False eng
+# 6 11 10 the string. ζλο οἱγῖρ.
+the ζλο False eng
+string. οἱγῖρ. False eng
+# 7 36 38 émBovredw [Bovrciw,  plan],  plan or ἐπιβουλεύω [βουλεύω,  2ἠα᾽1],  2ίαἩ οΥ
+ἐπιβουλεύω émBovredw True pp
+[βουλεύω, [Bovrciw, True pp
+plan], 2ἠα᾽1], False eng
+plan 2ίαἩ False eng
+or οΥ False eng
+# 8 39 45 plot against,  form designs upon,  with 2ἰο᾽ αραϊγιδέ,  , ογῆ2 αἰδεῖργι5 τιῤο7:,  ΝἸἢ
+plot 2ἰο᾽ False eng
+against, αραϊγιδέ, False eng
+form , False eng
+designs ογῆ2 False eng
+upon, αἰδεῖργι5 False eng
+with τιῤο7:, False eng
+# 9 4 4 dat. ἀδῖ.
+dat. ἀδῖ. False eng
+# 10 38 39 érBovdt,  -7s [cp. ériBovredw],  plot, ἐπιβουλή,  -ἧς [οΡ. ἐπιβονλεύω],  2ἐοΐ,
+ἐπιβουλή, érBovdt, True lex
+-ῆς False na
+[cp. [οΡ. False eng
+ἐπιβουλεύω], ériBovredw], True pp
+plot, 2ἐοΐ, False eng
+# 11 11 10 conspiracy. εορδῥίγας.
+conspiracy. εορδῥίγας. False eng
+# 12 37 40 dmylyvopar [ylyvouat,  become),  come ἔπιγίγνομαι [γίγνομαι,  ὀφεον»:61,  4016
+ἔπιγίγνομαι dmylyvopar True pp
+[γίγνομαι, [ylyvouat, True pp
+become], ὀφεον»:61, False eng
+come 4016 False eng
+# 13 14 14 upon,  attack. τῤο»ι,  σίαεξ.
+upon, τῤο»ι, False eng
+attack. σίαεξ. False eng
+# 14 43 46 eridelxviue [Selxvipu,  show],  show,  ais- ἐπιδείκνῦμι [δείκνῦμι,  «λοτυ],  δίοτυ,  αἸ15-
+ἐπιδείκνῦμι False na
+δείκνῦμι, False na
+show], «λοτυ], False eng
+show, δίοτυ, False eng
+dis- αἸ15- False na
+# 15 40 42 play,  exhibit,  point out,  mid.,  show 2ἰαγ,  ἐχλήῤλ,  2οῖγέ ομέ,  ταὶϊὰ.,  σἦστο
+play, 2ἰαγ, False eng
+exhibit, ἐχλήῤλ, False eng
+point 2οῖγέ False eng
+out, ομέ, False eng
+mid., ταὶϊὰ., False eng
+show σἦστο False eng
+# 16 37 40 what is one’s own or for one’s inter- ψ δι 15 Ομ οἶβ ΟὟ ΟΥ̓ ΓΟΥ ΟΠ Θ᾽ 5 ἰῃΐου-
+what ψ False eng
+is δι False eng
+one’s 15 False na
+own Ομ False eng
+or οἶβ False eng
+for ΟὟ False eng
+one’s ΟΥ̓ False na
+inter- ΓΟΥ False na
+# 17 26 24 est,  distinguish oneself. 65,  οἰ εζίγριῖσλ ογσεε,
+est, 65, False eng
+distinguish οἰ False eng
+oneself. εζίγριῖσλ False eng
+# 18 40 44 Srdtdke [Siwxw,  pursue),  pursue,  give “ἐπιδιώκω [ διώκω,  2ηγεμ6],  φ1ε᾽ 56,  ρῖνε
+ἐπιδιώκω Srdtdke True pp
+[διώκω, [ False na
+pursue], διώκω, False eng
+pursue, 2ηγεμ6], False eng
+give φ1ε᾽ False eng
+# 19 6 7 chase. εἦαϑδε.
+chase. εἦαϑδε. False eng
+# 20 22 23 émBdvras,  see epopdw. ἐπιδόντας,  Ξεε ἐφοράω.
+ἐπιδόντας, émBdvras, True form
+see Ξεε False eng
+ἐφοράω. epopdw. True pp
+# 21 25 26 émdpapetv,  see émirpéxu. ἐπιδραμεῖν,  Ξες ἐπιτρέχω.
+ἐπιδραμεῖν, émdpapetv, True form
+see Ξες False eng
+ἐπιτρέχω. émirpéxu. True pp
+# 22 21 21 émcéfero,  see miétw. ἐπιέζετο,  566 πιέζω.
+ἐπιέζετο, émcéfero, True form
+see 566 False eng
+πιέζω. miétw. True pp
+# 23 42 46 érBeois,  -ews,  7 [érirlOnut,  put upon), ἐπίθεσις,  -εὡς,  ἡ [ἐπιτίθημι,  ῥτιεξ μῤο»:],
+ἐπίθεσις, érBeois, True lex
+-εως, -εὡς, False na
+ἡ 7 True case
+[ἐπιτίθημι, [érirlOnut, True lex
+put ῥτιεξ False eng
+upon], μῤο»:], False eng
+# 24 24 23 a setting upon,  attack. Ω τοἴέρρ' 20»,  αἰϊαεξ.
+a Ω False eng
+setting τοἴέρρ' False eng
+upon, 20», False eng
+attack. αἰϊαεξ. False eng
+# 25 40 40 driOhoer Gar,  érBoivro,  see emer lOnu. ἐπιθήσεσθαι,  ἐπιθοῖντο,  Ξεε ἐπιτίθημι.
+ἐπιθήσεσθαι, driOhoer True form
+ἐπιθοῖντο, Gar, True form
+érBoivro, Ξεε False na
+see ἐπιτίθημι. False eng
+emer NA False eng
+lOnu. NA False na
+# 26 35 37 erOtplw,  eridimijow,  etc. [Ovpds, ἐπιθυμέωο,  ἐπιθυμήσω,  εἴο. [θὺῦμός,
+ἐπιθυμέω, False na
+ἐπιθυμήσω, eridimijow, True pp
+etc. εἴο. False eng
+[θυμός, False na
+# 27 42 40 spirit],  set one’s heart upon,  be eager, σῤίγτΠ,  ςε7 ορδς ἀδαγέ τῤογῖ,  δ ἐαρεν,
+spirit], σῤίγτΠ, False eng
+set ςε7 False eng
+one’s ορδς False na
+heart ἀδαγέ False eng
+upon, τῤογῖ, False eng
+be δ False eng
+eager, ἐαρεν, False eng
+# 28 39 40 desire,  with gen.,  inf.,  or inf. and ᾿ ἥἶρεῖγε,  τ ρεη.,  ἰπξν,  οὐ 1ηΐ,  δῃά
+desire, ᾿ False eng
+with ἥἶρεῖγε, False eng
+gen., τ False eng
+inf., ρεη., False eng
+or ἰπξν, False eng
+inf. οὐ False eng
+and 1ηΐ, False eng
+# 29 12 12 subject acc. δ ]εοῖ δοο.᾿
+subject δ False eng
+acc. ]εοῖ False eng
+# 30 39 40 émrOtpla,  -as [cp. éribiudw],  aesire, ἐπιθυμία,  -ἂς [ςρΡ. ἐπιθυμέω],  ωε5176,
+ἐπιθυμία, émrOtpla, True lex
+-ας -ἂς False na
+[cp. [ςρΡ. False eng
+ἐπιθυμέω], éribiudw], True pp
+desire, ωε5176, False na
+# 31 8 11 longing. ἐογιρί7γιρ.
+longing. ἐογιρί7γιρ. False eng
+# 32 24 28 eriGvras,  see éxir Ont. ἐπιθῶνται,  566 ἐπιτίθημι. ᾿
+ἐπιθῶνται, eriGvras, True form
+see 566 False eng
+ἐπιτίθημι. éxir True lex
+Ont. ᾿ False na
+# 33 35 35 émixdprre [kdurro,  cdupw,  trappa, ἐπικάμπτω [κάμπτω,  κάμψω,  ἔκαμψα,
+ἐπικάμπτω émixdprre True pp
+[κάμπτω, [kdurro, True pp
+κάμψω, cdupw, True pp
+ἔκαμψα, False na
+# 34 35 39 kéxappat,  éxdupOnv,  bend],  bend, κέκαμμαι,  ἐκάμφθην,  ὀεγ:.1],  ὀεραεΐ,
+κέκαμμαι, kéxappat, True pp
+ἐκάμφθην, éxdupOnv, True pp
+bend], ὀεγ:.1], False eng
+bend, ὀεραεΐ, False eng
+# 35 33 40 bend towards; of an army,  wheel. δεοριαἰ ἱοτυαγας,  οἵ δὴ δττηυ,  τυλεεί,
+bend δεοριαἰ False eng
+towards; ἱοτυαγας, False eng
+of οἵ False eng
+an δὴ False eng
+army, δττηυ, False eng
+wheel. τυλεεί, False eng
+# 36 33 34 érixarappimrée [pirréw (= pirrw), ἐπικαταρρϊπτέω [ῥίπτέω (-Ξ ῥίπτω),
+ἐπικαταρριπτέω érixarappimrée True pp
+[ῥίπτέω [pirréw True pp
+(= (-Ξ False na
+ῥίπτω), pirrw), True pp
+# 37 25 30 throw),  throw down upon. Ζάγοτυ],  ζἄάγοτν αἰρτυι 1222.
+throw], Ζάγοτυ], False eng
+throw ζἄάγοτν False eng
+down αἰρτυι False eng
+upon. 1222. False eng
+# 38 44 38 Emlxerpart [Ketuat,  lic],  lie upon,  press ἐπίκειμαι [κεῖμαι,  161,  6 τον,  2755
+ἐπίκειμαι Emlxerpart True pp
+[κεῖμαι, [Ketuat, True pp
+lie], 161, False na
+lie 6 False eng
+upon, τον, False eng
+press 2755 False eng
+# 39 14 13 upon,  attack, το»,  αἰέαεξ.
+upon, το», False eng
+attack, αἰέαεξ. False eng
+# 40 38 37 dmuxlvStvos,  -ov [xlvdvvos,  danger], ἐπικίνδυνος,  -ον [κίνδῦνος,  α21067,
+ἐπικίνδυνος, dmuxlvStvos, True lex
+-ον -ov True pp
+κίνδυνος, False na
+danger], α21067, False eng
+# 41 21 23 dangerous,  perilous. “πη ρογονδ,  φεγίέοτες,
+dangerous, “πη False eng
+perilous. ρογονδ, False eng
+# 42 43 42 émixovpypa,  -a7os,  76 [ érixoupéw,  aid], ἐπικούρημα,  -ατος,  τό ἐπικουρέω,  α͵47],
+ἐπικούρημα, émixovpypa, True lex
+-ατος, -a7os, True pp
+τό 76 True form
+[ἐπικουρέω, [ True pp
+aid], NA False eng
+# 43 20 18 aid,  protection,  — αἱ,  27 οἱδείο, .Ὁ
+aid, αἱ, False eng
+protection, 27 False eng
+# 44 35 36 émxpitra [xpirrw,  hide),  conceal; ἐπικρύπτω [κρύπτω,  ἀϊαφ7,  εοπεεαῖ;
+ἐπικρύπτω émxpitra True pp
+[κρύπτω, [xpirrw, True pp
+hide], ἀϊαφ7, False eng
+conceal; εοπεεαῖ; False eng
+
+# 47 37 42 mid.,  conceal oneself or one’s acts, τηἱά, ,  εορεέαὶ ογιδδοῖγ οὐ ογιεῖςΣ σεῖς,
+mid., τηἱά, False eng
+conceal , False eng
+oneself εορεέαὶ False eng
+or ογιδδοῖγ False eng
+one’s True lex
+acts, ογιεῖςΣ False eng
+# 48 13 13 act secretly. αεΐ δέε7 εἴν.
+act αεΐ False eng
+secretly. δέε7 False eng
+# 49 41 40 émiuktrre [xirrw,  chpw,  Exipa,  xéxipa, ἐπικύπτω [κύπτω,  κύψω,  ἔκῦψα,  κέκῦφα,
+ἐπικύπτω émiuktrre True pp
+[κύπτω, [xirrw, True pp
+κύψω, chpw, True pp
+ἔκυψα, ἔκῦψα, False na
+κέκυφα, κέκῦφα, False na
+# 50 21 19 stoop ],  stoop over. “002,  δίοοΐῤ οὐδ7.
+stoop “002, False eng
+], δίοοΐῤ False na
+stoop οὐδ7. False eng
+over. NA False eng
+# 51 44 43 émixtipdw [xiipdw,  xipdow,  etc.,  ratify], ἐπικυρόω [κῦὐρόω,  κῦρώσω,  εἰς.,  γαΖ1 7},
+ἐπικυρόω émixtipdw True pp
+[κυρόω, [xiipdw, True pp
+κυρώσω, xipdow, True pp
+etc., εἰς., False eng
+ratify], γαΖ1 False eng
+# 52 17 18 ratify,  confirm. γαζν,  4072}17772.
+ratify, γαζν, False eng
+confirm. 4072}17772. False eng
+# 53 33 35 érvAapBave [AauBdrw,  fake; bor., ἐπιλαμβάνω [λαμβάνω,  ἑαξε,  δὍοτ.,
+ἐπιλαμβάνω érvAapBave True pp
+[λαμβάνω, [AauBdrw, True pp
+take; ἑαξε, False eng
+bor., δὍοτ., False eng
+# 54 35 38 Eng. epilepsy],  seize upon,  mid., Επρ. ΘΡΙΙΘΡΒΥ],  τεῖσε τῤογὲ,  ταὶά, ,
+Eng. Επρ. False na
+epilepsy], ΘΡΙΙΘΡΒΥ], False eng
+seize τεῖσε False eng
+upon, τῤογὲ, False eng
+mid., ταὶά, False eng
+# 55 20 20 lay hold of,  catch. ἐὰν λοέω οἵ,  εαέεῖ.
+lay ἐὰν False eng
+hold λοέω False eng
+of, οἵ, False eng
+catch. εαέεῖ. False eng
+# 56 41 39 éerAavOdvopat [ AavOd vw,  escape notice] ἐπιλανθάνομαι [λανθάνω,  ἐξεα2ε »οΖἼεε}
+ἐπιλανθάνομαι éerAavOdvopat True pp
+[λανθάνω, [ True pp
+escape NA False eng
+notice] NA False eng
+# 57 39 39 (let escape one’s own notice),  forget, (ἐεέ ἐδεαξέ θ»ε᾽Σ οτυγε μοε6),  70γξεΐ,
+(let (ἐεέ False eng
+escape ἐδεαξέ False eng
+one’s θ»ε᾽Σ False na
+own οτυγε False eng
+notice), μοε6), False eng
+forget, 70γξεΐ, False eng
+# 58 9 8 with gen. ψ ἢ ρθη.
+with ψ False eng
+gen. ἢ False eng
+# 59 36 39 émAéyo [Aéyw,  say; bor.,  Eng. epi- ἐπιλέγω [λέγω,  “αγ»,  ὕοτ.,  Επρ. οΡὶ-
+ἐπιλέγω émAéyo True pp
+[λέγω, [Aéyw, True pp
+say; “αγ», False eng
+bor., ὕοτ., False eng
+Eng. Επρ. False na
+epi- οΡὶ- False na
+# 60 32 27 logue ],  say in addition,  add. Ἰοφθ]1,  σα» δ» σα ον,  σα.
+logue Ἰοφθ]1, False na
+], σα» False na
+say δ» False eng
+in σα False eng
+addition, ον, False eng
+add. σα. False eng
+# 61 40 42 émdeltrw [Aelaw,  Leave),  leave behind; ἐπιλείπω [λείπω,  δΖεανε],  ἦεαυε ὀελὶ»πα;
+ἐπιλείπω émdeltrw True pp
+[λείπω, [Aelaw, True pp
+Leave], δΖεανε], False na
+leave ἦεαυε False eng
+behind; ὀελὶ»πα; False eng
+# 62 39 41 of things,  give out,  fatl,  sometimes οὗ (δίηρβ,  ρῆσνε ομεΐφ γαὶ},  βοτωθίμλθβ
+of οὗ False eng
+things, (δίηρβ, False eng
+give ρῆσνε False eng
+out, ομεΐφ False eng
+fail, γαὶ}, False na
+sometimes βοτωθίμλθβ False eng
+# 63 20 18 with acc. of person. ψΊ ἃςο. οὗ ρείβοῃ.
+with ψΊ False eng
+acc. ἃςο. False eng
+of οὗ False eng
+person. ρείβοῃ. False eng
+# 64 36 36 érldexros,  -ov [ériéyw,  pick out), ἐπίλεκτος,  -ον [ἐπιλέγω,  2ὲεξ οί],
+ἐπίλεκτος, érldexros, True pp
+-ον -ov True pp
+[ἐπιλέγω, [ériéyw, True pp
+pick 2ὲεξ False eng
+out], οί], False eng
+# 65 18 18 picked,  selected. 21εξεα,  φοἰφεζεα,
+picked, 21εξεα, False eng
+selected. φοἰφεζεα, False eng
+# 66 37 37 bripapripopas [uapripouat,  éuapripd- ἐπιμαρτύρομαι [μαρτύρομαι,  ἐμαρτῦρά-
+ἐπιμαρτύρομαι bripapripopas True pp
+[μαρτύρομαι, [uapripouat, True pp
+ἐμαρτυρά- False na
+# 67 42 43 uny,  call to witness ],  call to witness, μην,  εαἰξ το τυῖζγι655},  κα ἐο τοΐζγέ5ς5,
+μην, uny, True pp
+call εαἰξ False eng
+to το False eng
+witness τυῖζγι655}, False eng
+], True pp
+call ἐο False eng
+to τοΐζγέ5ς5, False eng
+witness, NA False eng
+# 68 7 7 invoke. ἑηυοῖε.
+invoke. ἑηυοῖε. False eng
+# 69 39 39 drupelyvipe [pelyript,  peltw,  Euecta, ἐπιμείγνῦμι [μείγνῦμι,  μείξω,  ἔμειξα,
+ἐπιμείγνυμι False na
+[μείγνυμι, False na
+μείξω, peltw, True pp
+ἔμειξα, Euecta, True pp
+# 70 32 31 péueryuar,  euelxOnv and éulynp, μέμειγμαι,  ἐμείχθην πὰ ἐμίγην,
+μέμειγμαι, péueryuar, True pp
+ἐμείχθην euelxOnv True pp
+and πὰ False eng
+ἐμίγην, False na
+# 71 37 45 mix,  cogn.,  Lat. misced,  2x,  Eng. »εῖχ,  οορῃ, ,  [, Δἴ,  πιϊϑοσῦ,  »εῖχ,  ΕὩΡ.
+mix, »εῖχ, False eng
+cogn., οορῃ, False na
+Lat. , False na
+misceo, [, False na
+mix, Δἴ, False na
+Eng. πιϊϑοσῦ, False na
+# 72 28 32 mix,  mash],  mix wih; intr, ΤῊΪΧ,  1148},  γπηὴχ τοῦ,  ἱπῖτ,
+mix, ΤῊΪΧ, False eng
+mash], 1148}, False eng
+mix γπηὴχ False eng
+with; True form
+intr, ἱπῖτ, False eng
+# 73 33 36 mingle with,  have dealings with. »εἰρρἷο τοῖζά,  ἦαυς αἰδαζέγερς τοι.
+mingle »εἰρρἷο False eng
+with, τοῖζά, False eng
+have ἦαυς False eng
+dealings αἰδαζέγερς False eng
+with. τοι. False eng
+# 74 36 33 dripédrtcra,  -as [émiuedjs],  care, ἐπιμέλεια,  -ἃς [ἐπιμελής),  ἐ47,
+ἐπιμέλεια, dripédrtcra, True lex
+-ας False na
+[ἐπιμελής], [émiuedjs], True lex
+care, ἐ47, False eng
+# 75 15 16 thoughtfulness. ἐλοτερλ πεένό55.
+thoughtfulness. ἐλοτερλ False eng
+# 76 38 38 érpeXéopar and émupédXomat,  értuedr)- ἐπιμελέομαι δΔηὰ ἐπιμέλομαι,  ἐπιμελή-
+ἐπιμελέομαι érpeXéopar True pp
+and δΔηὰ False eng
+ἐπιμέλομαι, émupédXomat, True pp
+ἐπιμελή- False na
+# 77 37 39 copa,  rimenernuat,  éwepenHOny [ ué- σομαι,  ἐπιμεμέλημαι,  ἐπεμελήθην [ μέ-
+σομαι, False eng
+ἐπιμεμέλημαι, rimenernuat, True pp
+ἐπεμελήθην éwepenHOny True pp
+[ [ False na
+μέ- False na
+# 78 44 46 det,  t¢ 25 @ care,  take care of,  look out λει,  ἐξ ἐδ ὦ “476ε],  ἑαζέ ἐαγε οὔ,  ἰοοξ οτε
+λει, False eng
+it
+is t¢ True form
+a @ True lex
+care, “476ε], False eng
+take ἑαζέ False eng
+care ἐαγε False eng
+of, οὔ, False eng
+look ἰοοξ False eng
+out οτε False eng
+# 79 42 41 ' for,  take charge of,  be superintendent “7,  ἕαξε ελαγρε οὔ,  δὲ σεῤενγ ἐγεραϊφρΖ
+for, ἕαξε False eng
+take ελαγρε False eng
+charge οὔ, False eng
+of, δὲ False eng
+be σεῤενγ False eng
+superintendent ἐγεραϊφρΖ False eng
+# 80 40 40 of,  with gen; watch to see,  give heed. οἵ,  ψιὶτα σαῃ; τυαέο ἐο 566,  ρῖνε Ζεῦ,
+of, οἵ, False eng
+with ψιὶτα False eng
+gen; σαῃ; False eng
+watch τυαέο False eng
+to ἐο False eng
+see, 566, False eng
+give ρῖνε False eng
+heed. Ζεῦ, False eng
+# 81 41 40 drupedtis,  -és [cp. émimedéopar],  care- ἐπιμελής,  -ἐς [ὁΡ. ἐπιμελέομαι],  εα7ε-
+ἐπιμελής, drupedtis, True lex
+-ές False na
+[cp. [ὁΡ. False eng
+ἐπιμελέομαι], émimedéopar], True pp
+care- εα7ε- False na
+# 82 15 16 Jul,  watchful. "Με,  τυαζελγμί.
+ful, "Με, False na
+watchful. τυαζελγμί. False eng
+# 83 40 41 émivodw [vodw,  percetve,  think],  have ἐπινοέω [»νοέω,  2εγεεῖνε,  Ζλῖη},  λαῦυε
+ἐπινοέω émivodw True pp
+[νοέω, [vodw, True pp
+perceive, 2εγεεῖνε, False na
+think], Ζλῖη}, False eng
+have λαῦυε False eng
+# 84 37 37 in mind,  intend,  purpose,  with acc ἢ» τεῖος,  ἐμέερα,  δε ῤοςο,  ἸΏ δος,
+in ἢ» False eng
+mind, τεῖος, False eng
+intend, ἐμέερα, False eng
+purpose, δε False eng
+with ῤοςο, False eng
+acc ἸΏ False eng
+# 85 7 7 or inf, οὐ 1ηΐ.
+or οὐ False eng
+inf. 1ηΐ. False eng
+# 86 32 32 drrlovev,  see Zretui,  come on. ἐπίοιεν,  566 ἔπειμι,  4071 051.
+ἐπίοιεν, drrlovev, True form
+see 566 False eng
+ἔπειμι, Zretui, True lex
+come 4071 False eng
+on. 051. False eng
+# 87 38 39 émvopxéw,  ériopxjow,  ériwpxnoa,  ém- ἐπιορκέω,  ἐπιορκήσω,  ἐπιώρκησα,  ἐπι-
+ἐπιορκέω, émvopxéw, True pp
+ἐπιορκήσω, ériopxjow, True pp
+ἐπιώρκησα, ériwpxnoa, True pp
+ἐπι- False na
+# 88 34 35 wpxnxa [érlopxos],  swear falsely, ὦρκηκα [ἐπίορκος,  φτυέα»γ γαΐξείν,
+ώρκηκα wpxnxa True pp
+[ἐπίορκος, [érlopxos], True lex
+swear φτυέα»γ False eng
+falsely, γαΐξείν, False eng
+# 89 34 36 perjure oneself; swear falsely by, 26»γ7ιγε ογεεοῦζ,  συέαγ γαῤδείν ὃν,
+perjure 26»γ7ιγε False eng
+oneself; ογεεοῦζ, False eng
+swear συέαγ False eng
+falsely γαῤδείν False eng
+by, ὃν, False eng
+# 90 9 7 with acc. ὙΠ δος,
+with ὙΠ False eng
+acc. δος, False eng

@@ -1,0 +1,473 @@
+# 1 40 41 érvopxla,  -as [éwlopxos],  false swear- ἐπιορκίδ,  -ἄς [ἐπίορκος},  Κεΐδε στυεα᾽-
+ἐπιορκία, False na
+-ας False na
+[ἐπίορκος], False na
+false Κεΐδε False eng
+swear- στυεα᾽- False na
+# 2 14 13 tng,  perjury. 2»,  2277.7}.
+ing, 2», False eng
+perjury. 2277.7}. False eng
+# 3 40 39 émlopKos,  -ov [Spxos,  oath],  swearing ἔπίορκος,  -ον [ὅρκος,  οαί],  “τυφα γι
+ἐπίορκος, False na
+-ον -ov True pp
+[ὅρκος, [Spxos, True lex
+oath], οαί], False eng
+swearing “τυφα False eng
+# 4 19 16 falsely,  perjured, 7)αἐδείν,  λεγε,
+falsely, 7)αἐδείν, False eng
+perjured, λεγε, False eng
+# 5 31 32 émiotora,  see éretu,  come on. ἐπιοῦσα,  566 ἔπειμι,  0516 071.
+ἐπιοῦσα, émiotora, True pp
+see 566 False eng
+ἔπειμι, éretu, True pp
+come 0516 False eng
+on. 071. False eng
+# 6 37 39 émumdperpe [wdpeu,  go fo],  go along ἐπιπάρειμι [πάρειμι,  ρὉ 10],  ρο αὐογρ
+ἐπιπάρειμι émumdperpe True pp
+[πάρειμι, [wdpeu, True pp
+go ρὉ False eng
+to], 10], False eng
+go ρο False eng
+along αὐογρ False eng
+# 7 31 36 lo,  come up,  go along beside. ἔο,  ἐο) 16 Μ᾽,  9ὸ αἰογερ' ὀδεῖ 16.
+to, ἔο, False eng
+come ἐο) False eng
+up, 16 False eng
+go Μ᾽, False eng
+along 9ὸ False eng
+beside. αἰογερ' False eng
+# 8 41 39 émuntare [rinrw,  fall),  fall upon,  at- ἐπιπίπτω [πίπτω,  χω},  κε έ τῤο»,  αἱ-
+ἐπιπίπτω émuntare True pp
+[πίπτω, [rinrw, True pp
+fall], χω}, False eng
+fall κε False eng
+upon, έ False eng
+at- τῤο», False na
+# 9 16 15 tack,  with dat. ζαεξ,  ννἢ ἀδῖ.
+tack, ζαεξ, False eng
+with ννἢ False eng
+dat. ἀδῖ. False eng
+# 10 43 41 émitrovos,  -ov [wébvos,  foil],  loilsome, ἐπίπονος,  -ον [πόνος,  2011],  οἱ δο» δ,
+ἐπίπονος, émitrovos, True lex
+-ον -ov True pp
+[πόνος, [wébvos, True lex
+toil], 2011], False eng
+toilsome, True form
+# 11 10 9 laborious. ἐαδογῖος.
+laborious. ἐαδογῖος. False eng
+# 12 43 41 émipputos,  -ov [péw,  flow],  flowed over, ἐπίρρντος,  -ον [ῥέω,  Μοτυ],  Ποτυεω οὐ,
+ἐπίρρυτος, émipputos, True pp
+-ον -ov True pp
+[ῥέω, [péw, True pp
+flow], Μοτυ], False eng
+flowed Ποτυεω False eng
+over, οὐ, False eng
+# 13 13 15 well watered. τυεί τυαίεγ εὐ,
+well τυεί False eng
+watered. τυαίεγ False eng
+# 14 34 35 émoarra [carrw,  trata,  sécaypat, ἐπισάττω [σάττω,  ἔσαξα,  σέσαγμαι,
+ἐπισάττω émoarra True pp
+[σάττω, [carrw, True pp
+ἔσαξα, trata, True pp
+σέσαγμαι, sécaypat, True pp
+# 15 39 39 load),  put the saddlecloth on a horse; ἠοααἴ],  τε 1.6 τασαϊεεέοίά οι ἃ ἈοΥβ6;
+load], ἠοααἴ], False eng
+put τε False eng
+the 1.6 False eng
+saddlecloth τασαϊεεέοίά False eng
+on οι False eng
+a ἃ False eng
+horse; ἈοΥβ6; False eng
+# 16 36 37 saddles were not used by the Greeks. 58 46]65 ννεύε ποῖ υ5εὰ Ὀγ ἴῃ ατεοκβ.
+saddles 58 False eng
+were 46]65 False eng
+not ννεύε False eng
+used ποῖ False eng
+by υ5εὰ False eng
+the Ὀγ False eng
+Greeks. True form
+# 17 40 38 "Eric bévns,  -ous,  Episthénes,  of Am- Ἐπισθένης,  -ους,  ΦΖ21εδηες,  οὗ Απὶ-
+Ἐπισθένης, "Eric True lem
+-ους, False na
+Episthénes, True lex
+of Απὶ- False eng
+Am- NA False na
+# 18 33 35 phipolis,  commander of the Greek ΡὨΙρΟ 15,  οοπητηδηάεν οὗ ἴῃ6 ατεεκ
+phipolis, ΡὨΙρΟ False na
+commander 15, False eng
+of οοπητηδηάεν False eng
+the οὗ False eng
+Greek ἴῃ6 False na
+# 19 19 17 peltasts at Cunaxa. Ρα]αϑῖβ δ (υπᾶχᾶ.
+peltasts Ρα]αϑῖβ False eng
+at δ False eng
+Cunaxa. (υπᾶχᾶ. False na
+# 20 36 36 émocitifopa: [cirltoua,   ctrioduat, ἐπισϊτίζομαι [σϊτίζομαι,  σϊτιοῦμαι,
+ἐπισιτίζομαι émocitifopa: True pp
+[σιτίζομαι, [cirltoua, True pp
+σιτιοῦμαι, ctrioduat, True pp
+# 21 39 39 -eciricduny,  eat],  provision oneself, -εσϊτισάμην,  ἐαἰ],  2γουΐξῖο»ε ογεεεζ,
+-εσιτισάμην, -eciricduny, True pp
+eat], ἐαἰ], False eng
+provision 2γουΐξῖο»ε False eng
+oneself, ογεεεζ, False eng
+# 22 18 19 lay in provisions, ἔα» ἴγ:. 2γου510.5.
+lay ἔα» False eng
+in ἴγ:. False eng
+provisions, 2γου510.5. False eng
+# 23 42 41 émuoirio pds,  -of [érioirltouac],  laying ἐπισϊτισμός,  -οῦ [ἐπισττίζομαι],  Τα γέ)
+ἐπισιτισμός, False na
+pds, -οῦ False na
+[ἐπισιτίζομαι], -of True pp
+laying γέ) False eng
+# 24 27 26 in provisions,  foraging. | »ι ῥγουϊδίορς,  ᾿ογαρίγιρ.
+in »ι False eng
+provisions, ῥγουϊδίορς, False eng
+foraging. ᾿ογαρίγιρ. False eng
+# 25 38 39 émorkérropat [oxémrrouat,  view],  ob- ἐπισκέπτομαι [σκέπτομαι,  υἱειυ],  οὐὖ-
+ἐπισκέπτομαι émorkérropat True pp
+[σκέπτομαι, [oxémrrouat, True pp
+view], υἱειυ], False eng
+ob- οὐὖ- False na
+# 26 18 19 serve,  ascertain, σέγυέ,  αεεογίαϊ7:.
+serve, σέγυέ, False eng
+ascertain, αεεογίαϊ7:. False eng
+# 27 33 35 émoxotéw [oxoréw,  observe; bor., ἐπισκοπέω [σκοπέω,  οὐτεγυε; ὍοΥ, ,
+ἐπισκοπέω émoxotéw True pp
+[σκοπέω, [oxoréw, True pp
+observe; οὐτεγυε; False eng
+bor., ὍοΥ, False eng
+# 28 38 37 Eng. episcopal],  Jook upon,  inspect. Επρ. ΘΡί80Ο0Ρ411,  σοῦ τέῤογι,  7156.
+Eng. Επρ. False na
+episcopal], ΘΡί80Ο0Ρ411, False eng
+λlook True lex
+upon, τέῤογι, False eng
+inspect. 7156. False eng
+# 29 34 36 émusmdw [ordw,  draw),  draw to or ἐπισπάω [σπάω,  ἐγατυ,  ἐἄγατὺ 10 οτ
+ἐπισπάω émusmdw True pp
+[σπάω, [ordw, True pp
+draw], ἐγατυ, False eng
+draw ἐἄγατὺ False eng
+to 10 False eng
+or οτ False eng
+# 30 33 36 after; mid.,  drag after oneself. αὔον,  ταϊά.,  ἄγαρ α7167,  ογιοσοῦς
+after; αὔον, False eng
+mid., ταϊά., False eng
+drag ἄγαρ False eng
+after α7167, False eng
+oneself. ογιοσοῦς False eng
+# 31 26 25 érlomowro,  see édérropat. ἐπίσποιτο,  5ες ἐφέπομαι.
+ἐπίσποιτο, érlomowro, True form
+see 5ες False eng
+ἐφέπομαι. édérropat. True pp
+# 32 37 36 érlorapar,  érisrhocouat,  AristHOny, ἐπίσταμαι,  ἐπιστήσομαι,  ἠπιστήθην,
+ἐπίσταμαι, érlorapar, True pp
+ἐπιστήσομαι, érisrhocouat, True pp
+ἠπιστήθην, AristHOny, True pp
+# 33 34 32 impf.,  qmriuordunvy,  understand, Ἰπηρί,  ἠπιστάμην,  τεγωἰργείαγ,
+impf., Ἰπηρί, False eng
+ἠπιστάμην, qmriuordunvy, True pp
+understand, τεγωἰργείαγ, False eng
+# 34 28 31 know; know how; abs. or with ἄμοιυ,  ἔἔρμοιυ ἦἄοτυ,  8. οὐ ἢ
+know; ἄμοιυ, False eng
+know ἔἔρμοιυ False eng
+how; ἦἄοτυ, False eng
+abs. 8. False eng
+or οὐ False eng
+with ἢ False eng
+# 35 4 3 inf. τη,
+inf. τη, False eng
+# 36 38 39 érloracis,  -ews,  7 [eplornu,  stop], ἐπίστασις,  -εως,  ἡ [ἐφίστημι,  «ἴοΡΊ,
+ἐπίστασις, érloracis, True lex
+-εως, -ews, True pp
+ἡ 7 True case
+[ἐφίστημι, [eplornu, True pp
+stop], «ἴοΡΊ, False eng
+# 37 18 15 stopping,  halt. . εξ ῥίηρ,  λαΐζ.
+stopping, εξ False eng
+halt. ῥίηρ, False eng
+# 38 38 38 érvoraréw [émiordrys,  overseer],  act ἐπιστατέω [ἐπιστάτης,  οτ'675667,  αεΐ
+ἐπιστατέω érvoraréw True pp
+[ἐπιστάτης, [émiordrys, True lex
+overseer], οτ'675667, False eng
+act αεΐ False eng
+# 39 36 39 as overseer,  superintend,  exercise ὧ- οὐδγϑέθγ,  51:67 1γ116γ14,  Φχὸγεῖδ6
+as ὧ- False eng
+overseer, οὐδγϑέθγ, False eng
+superintend, 51:67 False eng
+exercise 1γ116γ14, False eng
+# 40 9 12 conimand. ἐορεη αημ(ἷ,
+command. ἐορεη False na
+# 41 32 33 érurrhpev,  -ov [érlorapa],  ae- ἐπιστήμων,  -ον [ἐπίσταμαι],  α--
+ἐπιστήμων, érurrhpev, True lex
+-ον -ov True pp
+[ἐπίσταμαι], [érlorapa], True pp
+ac- α-- False na
+# 42 38 36 guainted with,  skitled in,  with gen. φιαϊγίεαὶ τοί,  τἀ ρα ἐπ,  ΤῊ ρ 6 ῃ,
+quainted φιαϊγίεαὶ False na
+with, τοί, False eng
+skilled τἀ False na
+in, ρα False eng
+with ἐπ, False eng
+gen. ΤῊ False eng
+# 43 24 25 émurrioas,  see éplornu. ἐπιστήσᾶς,  5εε ἐφίστημι.
+ἐπιστήσας, False na
+see 5εε False eng
+ἐφίστημι. éplornu. True pp
+# 44 36 35 émoroAh,  -7s [émisré\d\w,  send to; ἐπιστολή,  -ς [ἐπιστέλλω,  “εγ1] 0,
+ἐπιστολή, émoroAh, True lex
+-ῆς False na
+[ἐπιστέλλω, [émisré\d\w, True pp
+send “εγ1] False eng
+to; 0, False eng
+# 47 36 38 bor.,  Lat. epistula,  /etter,  Eng. Ὀογ.,  [, Δ1ἴ. οΟρίϑίι]α,  ἐεεγ,  Ἑπρ.
+bor., Ὀογ., False eng
+Lat. [, False na
+epistula, Δ1ἴ. False na
+letter, οΟρίϑίι]α, False na
+Eng. ἐεεγ, False na
+# 48 28 29 epistle],  letter,  epistle. ΘΡΙ8.161,  ἐσώΐον,  οῤίξςέζε.
+epistle], ΘΡΙ8.161, False eng
+letter, ἐσώΐον, False eng
+epistle. οῤίξςέζε. False eng
+# 49 37 36 dmorparela,  -as [émiorparetw], . ex- ἐπιστρατεία,  -ἂς [ἐπιστρατεύω,  ἐχ-
+ἐπιστρατεία, dmorparela, True lex
+-ας False na
+[ἐπιστρατεύω, [émiorparetw], True pp
+ex- NA False na
+# 50 28 32 pedition against,  campaign. 24ΩἿἾ1107γ1 ἄρα 7151,  κα α1ρ7:.
+pedition 24ΩἿἾ1107γ1 False na
+against, ἄρα False eng
+campaign. 7151, False eng
+# 51 34 37 émorparetw [orparetw,  make an ex- ἐπιστρατεύω [στρατεύω,  »ιαξέ “7: 6χ-
+ἐπιστρατεύω émorparetw True pp
+[στρατεύω, [orparetw, True pp
+make »ιαξέ False eng
+an “7: False eng
+ex- 6χ- False na
+# 52 37 36 pedition ],  march against,  make war 2εα)1105],  Ἡαγολ ἀραϊγι5,  για τυαν
+pedition 2εα)1105], False na
+], Ἡαγολ False na
+march ἀραϊγι5, False eng
+against, για False eng
+make τυαν False eng
+war NA False eng
+# 53 14 13 on,  with dat. ο»:,  Μ᾿ ἀδῖ.
+on, ο»:, False eng
+with Μ᾿ False eng
+dat. ἀδῖ. False eng
+# 54 31 34 émodatrwa [oddrrw,  slay],  sla ἐπισφάττω [σφάττω,  τ:ἰαγ}γ},  σία
+ἐπισφάττω émodatrwa True pp
+[σφάττω, [oddrrw, True pp
+slay], τ:ἰαγ}γ}, False eng
+slay,
+# 55 27 30 pon enid.,  slay anes upon: ΚΞ υπ-- ΞΞρϊα.,  σἷαν  Ὰ μόνε,
+upon ΚΞ False eng
+mid., υπ-- False eng
+slay ΞΞρϊα., False eng
+onself σἷαν False eng
+upon: Ὰ False eng
+# 56 18 18 with acc. and dat. ΜΠ ἢ δος. δια ἀδῖ.
+with ΜΠ False eng
+acc. ἢ False eng
+and δος. False eng
+dat. δια False eng
+# 57 33 37 émratre [ratrw,  assign],  enjoin ἐπιτάττω [τάττω,  ἀ551071],  4᾽170172
+ἐπιτάττω émratre True pp
+[τάττω, [ratrw, True pp
+assign], ἀ551071], False eng
+enjoin 4᾽170172 False eng
+# 58 34 40 upon,  order,  pass. @ éweréraxro, 2 ογ71,  Ογαἴ7, ,  Ῥᾶ55.,  ᾧ ἐπετέτακτο,
+upon, 2 False eng
+order, ογ71, False eng
+pass. Ογαἴ7, False eng
+ᾧ 
+ἐπετέτακτο, Ῥᾶ55., False na
+# 59 26 32 who had been commissioned, τυλο ἀαα δέθ, 4 κογρεϑεῖδδιομσα,
+who τυλο False eng
+had ἀαα False eng
+been δέθ, False eng
+commissioned, 4 False eng
+# 60 39 40 emiredéw [reddw,  complete],  complete, ἐπιτελέω [τελέω,  εο»ιῤίείε],  εον ἰδία,
+ἐπιτελέω emiredéw True pp
+[τελέω, [reddw, True pp
+complete], εο»ιῤίείε], False eng
+complete, εον False eng
+# 61 21 17 bring to fulfillment. ὀγίριρ' ο γε ρθη.
+bring ὀγίριρ' False eng
+to ο False eng
+fulfillment. γε False eng
+# 62 47 46 émurtSeios,  -d,  -ov,  suitable,  fit,  neces- ἐπιτήδειος,  -ἃ,  -ον,  «πἼζαῤές,  κέ,  μεεές-
+ἐπιτήδειος, émurtSeios, True lex
+-α, -ἃ, False na
+-ον, -ov, True pp
+suitable, «πἼζαῤές, False eng
+fit, κέ, False eng
+neces- μεεές- False na
+# 63 36 36 sary,  proper,  Tov émirhdecov Erac- 547},  2γοῤεγ,; τὸν ἐπιτήδειον ἔπαι-
+sary, 547}, False na
+proper, 2γοῤεγ,; False eng
+τὸν Tov True form
+ἐπιτήδειον émirhdecov True pp
+ἔπαι- False na
+# 64 35 37 gev dv,  he would strike the proper σεν ἄν,  ἦε τυοπέα εἔγίζε 7ζἦ6 2γοῤέῦ
+σεν False na
+ἄν, dv, True lex
+he ἦε False eng
+would τυοπέα False eng
+strike εἔγίζε False eng
+the 7ζἦ6 False eng
+proper 2γοῤέῦ False eng
+# 65 40 40 person,  i.e. the delinquent,  116,  15. 24γ50γ1,  1.6. [6 ἀδ]παυεπηῖ,  σεῦ,  15.
+person, 24γ50γ1, False eng
+i.e. 1.6. False eng
+the [6 False eng
+delinquent, ἀδ]παυεπηῖ, False eng
+116, σεῦ, False na
+15. 15. False na
+# 66 40 41 Neut. pl. as subst.,  secessaries,  pro- Νευΐ,  Ρ]. ἃ5 βιι 5ῖ.,  6.5 οαγῖές,  270-
+Neut. Νευΐ, False na
+pl. Ρ]. False eng
+as ἃ5 False eng
+subst., βιι False eng
+secessaries, 5ῖ., False na
+pro- 6.5 False na
+# 67 8 9 VISIONS. Ψ1510715.
+visions. Ψ1510715. False na
+# 68 45 44 error l(Onpe [7 (Onin,  Put; bor.,  Eng. epi- ἐπιτίθημι [τίθημι,  2: ,  ὍὈοτ, ,  Επρ. 6 ]-
+ἐπιτίθημι False eng
+[τίθημι, l(Onpe True pp
+[7 2: False na
+put; ὍὈοτ, False na
+bor., , False eng
+Eng. Επρ. False na
+epi- 6 False na
+# 69 35 37 thet],  put upon,  Slxnv émiribéva, 1861],  2 "ὦ τονε,  δίκην ἐπιτιθέναι,
+thet], 1861], False na
+put 2 False eng
+upon, "ὦ False eng
+δίκην
+ἐπιτιθέναι émiribéva, True form
+# 70 35 39 inflict punishment upon,  with dat. ἐγ ηἔλιεῖ ιερῖράνιεμΐ τῤογῖ,  ΜῊ ἀαῖ, "
+inflict ἐγ False eng
+punishment ηἔλιεῖ False eng
+upon, ιερῖράνιεμΐ False eng
+with τῤογῖ, False eng
+dat. ΜῊ False eng
+# 71 34 37 of person and gen. of crime; mid., οὗ ρδύβοῃ δηά σβῆῃ. οἱ οὐῖτηδ; σηϊά.,
+of οὗ False eng
+person ρδύβοῃ False eng
+and δηά False eng
+gen. σβῆῃ. False eng
+of οἱ False eng
+crime; οὐῖτηδ; False eng
+mid., σηϊά., False eng
+# 72 29 29 attack,  set upon,  with dat. σίαεξ,  σοί τέῥολ,  νυ ἢ ἠδῖ,
+attack, σίαεξ, False eng
+set σοί False eng
+upon, τέῥολ, False eng
+with νυ False eng
+dat. ἢ False eng
+# 73 40 42 émuirpérw [tpérw,  turn],  turn over to, ἐπιτρέπω [τρέπω,  {ι|7, 211,  “74 οὐδ᾽ ἔο,
+ἐπιτρέπω émuirpérw True pp
+[τρέπω, tpérw, True pp
+turn], {ι|7, False eng
+turn 211, False eng
+over “74 False eng
+to, οὐδ᾽ False eng
+# 74 40 34 give up,  allow,  suffer,  with dat. and φίυε τ,  αὐέοτο,  0727,  ἢ αἴ. ἀπά
+give φίυε False eng
+up, τ, False eng
+allow, αὐέοτο, False eng
+suffer, 0727, False eng
+with ἢ False eng
+dat. αἴ. False eng
+and ἀπά False eng
+# 75 32 32 inf.; mid. give oneself up,  put Ἰηΐ,; τηϊά.,  ρέθθ ογιεδο τ,  μέ
+inf.; Ἰηΐ,; False eng
+mid. τηϊά., False eng
+give ρέθθ False eng
+oneself ογιεδο False eng
+up, τ, False eng
+put μέ False eng
+# 76 35 35 oneself under another’s protection. ογϑδοῖ τργ1α6 7 ΟΠ 6τ᾽ 5 2) δε2072.
+oneself ογϑδοῖ False eng
+under τργ1α6 False eng
+another’s 7 False na
+protection. ΟΠ False eng
+# 77 39 37 émirpéxw [Tpeexw,  run],  run up,  rush ἐπιτρέχω [τρέχω,  71.},  γηγ π,  γι ἢ
+ἐπιτρέχω émirpéxw True pp
+[τρέχω, [Tpeexw, True pp
+run], 71.}, False eng
+run γηγ False eng
+up, π, False eng
+rush γι False eng
+# 78 15 14 upon,  assault, 1401,  ἀ55α τ.
+upon, 1401, False eng
+assault, ἀ55α False eng
+# 79 40 40 émurvyy ave [Truyxdvw,  happen),  chance ἐπιτνγχάνω [τυγχάνω,  λα ε᾽11,  εὐ αγ1εδ
+ἐπιτνγχάνω émurvyy True pp
+[τυγχάνω, False eng
+happen], ε᾽11, False eng
+chance εὐ False eng
+# 80 36 37 upon,  light upon,  find,  with dat. πῤογι,  ἐζρἠέ προ»,  Ληιαῖ,  νι ἢ ἀί.
+upon, πῤογι, False eng
+light ἐζρἠέ False eng
+upon, προ», False eng
+find, Ληιαῖ, False eng
+with νι False eng
+dat. ἢ False eng
+# 81 40 39 émipalvopat [palvw,  show ,; bor.,  Eng. ἐπιφαίνομαι [φαίνω,  σἦοτὸ; Ὀοτ.,  Επρ.
+ἐπιφαίνομαι émipalvopat True pp
+[φαίνω, [palvw, True pp
+show σἦοτὸ; False eng
+bor., Επρ. False eng
+Eng. NA False na
+# 82 34 36 epiphany],  show oneself,  come in ΘΡΙΡΒΔΗΥ7,  φἀοτυ ογιόδοῖς κοῦ 6 172
+epiphany], ΘΡΙΡΒΔΗΥ7, False eng
+show φἀοτυ False eng
+oneself, ογιόδοῖς False eng
+come κοῦ False eng
+in 6 False eng
+# 83 15 15 Sight,  appear. σἵρἠΐ,  αῤῥέαγ.
+Sight, σἵρἠΐ, False na
+appear. αῤῥέαγ. False eng
+# 84 35 37 éridépw [dépw,  dear],  bring upon; ἐπιφέρω [φέρω,  ὀδωγ},  ὀγίτιρ το71:,
+ἐπιφέρω éridépw True pp
+[φέρω, [dépw, True pp
+bear], ὀδωγ}, False eng
+bring ὀγίτιρ False eng
+upon; το71:, False eng
+# 85 26 25 mid.,  rush upon,  attack, τη14.,  χὰ τῤο»,  αὐΐαεξ.
+mid., τη14., False eng
+rush χὰ False eng
+upon, τῤο», False eng
+attack, αὐΐαεξ. False eng
+# 86 33 35 eripopéw [popdw,  keep carrving), ἐπιφορέω [φορέω,  ἐέεο ε«αγγνῖηιρ],
+ἐπιφορέω eripopéw True pp
+[φορέω, [popdw, True pp
+keep ἐέεο False eng
+carrying], ε«αγγνῖηιρ], False na
+# 87 31 33 carry upon (by repeated trips). “α77.) τῤον (ὌΥ τερεαϊοη {{105).ὅ
+carry “α77.) False eng
+upon τῤον False eng
+(by (ὌΥ False eng
+repeated τερεαϊοη False eng
+trips). {{105).ὅ False eng
+# 88 43 44 ém(xapts,  -«,  gen. -tros [yapis,  grace], ἐπίχαρις,  -ἰ,  βοη,  -ἰτὸς [χάρις,  ρ»γας),
+ἐπίχαρις, ém(xapts, True lex
+-ι, -ἰ, False na
+gen. βοη, False eng
+-ιτος False na
+[χάρις, [yapis, True lex
+grace], ρ»γας), False eng
+# 89 37 35 graceful,  pleasing. Neut. as subst., φγασοζεί,  δέρας. Νοαῖ,  5. δα 5ῖ.,
+graceful, φγασοζεί, False eng
+pleasing. δέρας. False eng
+Neut. Νοαῖ, False na
+as 5. False eng
+subst., δα False eng
+# 90 16 21 charm of manner. εὐπΡ 7)» ΟΥ̓ νι πὸ 7,
+charm εὐπΡ False eng
+of 7)» False eng
+manner. ΟΥ̓ False eng

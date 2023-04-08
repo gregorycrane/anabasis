@@ -1,0 +1,528 @@
+# 0 3 3 448 448
+448 448 False na
+# 1 45 44 evepyer (a,  -as [evepyérns ],  good service, εὐεργεσ (ᾶ,  -ἂς [εὐεργέτης],  ροοά Ξεγυξεε,
+evepyer εὐεργεσ False na
+(a, (ᾶ, False eng
+-as -ἂς False na
+[εὐεργέτης], [evepyérns True lex
+], ροοά False na
+good Ξεγυξεε, False eng
+service, NA False eng
+# 2 17 18 kindness,  favor. διηαίρε55,  γενοῦ.
+kindness, διηαίρε55, False eng
+favor. γενοῦ. False eng
+# 3 36 37 evepyeréw,  evepyerjow,  evepyérnoa, εὐεργετέωο,  εὐεργετήσω,  εὐεργέτησα,
+evepyeréw, εὐεργετέωο, False na
+εὐεργετήσω, evepyerjow, True pp
+εὐεργέτησα, evepyérnoa, True pp
+# 4 38 36 evepyérynka,  evepyérnuat,  evepyeT i- εὐεργέτηκα,  εὐεργέτημαι,  εὐεργετή-
+εὐεργέτηκα, evepyérynka, True pp
+εὐεργέτημαι, evepyérnuat, True pp
+evepyeT εὐεργετή- False na
+i- NA False na
+# 5 42 44 ~  Onv [Epyov,  deed],  do a good service, πιο θὴν [ ἔργον,  ἐἶ664,  (ο ἃ φορά 5εγνῖεε,
+~ πιο False na
+Onv θὴν False na
+[Epyov, [ False na
+deed], ἔργον, False eng
+do ἐἶ664, False eng
+a (ο False eng
+good ἃ False eng
+service, φορά False eng
+# 6 17 19 confer a benefit. 40:27 ὦ δεγι:6 712.
+confer 40:27 False eng
+a ὦ False eng
+benefit. δεγι:6 False eng
+# 7 41 42 edepyérns,  -ov [evepyeréw],  benefactor. εὐεργέτης,  -ου [εὐεργετέω],  ὀφηεγα κίον,
+εὐεργέτης, edepyérns, True lex
+-ov -ου False na
+[εὐεργετέω], [evepyeréw], True pp
+benefactor. ὀφηεγα False eng
+# 8 44 45 eiLwvos,  -ov [fdvn,  girdle],  well girded, εὔζωνος,  -ον [ζώνη,  φ» 16],  τοοἱ σίγαὐδωώ,
+εὔζωνος, eiLwvos, True lex
+-ον -ov True pp
+[ζώνη, [fdvn, True lex
+girdle], φ» False eng
+well 16], False eng
+girded, τοοἱ False eng
+# 9 34 34 having the lower part of the tunic μανίηρ [6 Ἰονγεῦ ραγί οἵ [86 ἰυπὶς
+having μανίηρ False eng
+the [6 False eng
+lower Ἰονγεῦ False eng
+part ραγί False eng
+of οἵ False eng
+the [86 False eng
+tunic ἰυπὶς False eng
+# 10 33 34 drawn up and secured by the belt, ἀγάνῃ ὉΡ δπὰ βεουγεά Ἀγ ἴΠ6 βΡεϊϊ,
+drawn ἀγάνῃ False eng
+up ὉΡ False eng
+and δπὰ False eng
+secured βεουγεά False eng
+by Ἀγ False eng
+the ἴΠ6 False eng
+belt, βΡεϊϊ, False eng
+# 11 31 31 so that the wearer might not be 80 ἰμαῖϊ ἴμ6 ψϑᾶγοῦ τϊρῃϊ ποῖ ὲ
+so 80 False eng
+that ἰμαῖϊ False eng
+the ἴμ6 False eng
+wearer ψϑᾶγοῦ False eng
+might τϊρῃϊ False eng
+not ποῖ False eng
+be ὲ False eng
+# 12 36 38 hampered in running or in any active Βαιηρεγαά ἴῃ συπηΐῃρ οΥ ἴῃ ΔΗΥ͂ δοίϊνα
+hampered Βαιηρεγαά False eng
+in ἴῃ False eng
+running συπηΐῃρ False eng
+or οΥ False eng
+in ἴῃ False eng
+any ΔΗΥ͂ False eng
+active δοίϊνα False eng
+# 13 35 36 work; hence agile,  nimble; applied Μοὶ; ἤδηοα ἀρίζο,  γ1ηεῤ 6,  ΔΡΡ]1εα
+work; Μοὶ; False eng
+hence ἤδηοα False eng
+agile, ἀρίζο, False eng
+nimble; γ1ηεῤ False eng
+applied 6, False eng
+# 14 35 37 to heavy-armed as well as to light- ἴο Ποδνυ-δυπιεα 85 νγῈ}} ἂ5 ἴο Ἰρῃϊι-
+to ἴο False eng
+heavy-armed Ποδνυ-δυπιεα False na
+as 85 False eng
+well νγῈ}} False eng
+as ἂ5 False eng
+to ἴο False eng
+light- Ἰρῃϊι- False na
+# 15 35 36 armed troops. See Fig. 59,  p. 185. δυιηθὰ ἴσοορβ. ὅες ΕἸρ. 59,  Ρ. 185.
+armed δυιηθὰ False eng
+troops. ἴσοορβ. False eng
+ὅες See True pp
+Fig. ΕἸρ. False na
+59, 59, False na
+p. Ρ. False eng
+185. 185. False na
+# 16 43 44 ebfOera,  -as [ednOns],  semplicity,  fool- εὐήθεια,  -ἂς [εὐήθης],  εἰ» Ρίϊεῖν,  700 ἐ-
+εὐήθεια, ebfOera, True lex
+-as -ἂς False na
+[εὐήθης], [ednOns], True lex
+semplicity, εἰ» False na
+fool- Ρίϊεῖν, False na
+# 17 8 10 wshness. ἐς ἦγι655.
+ἐς wshness. True form
+# 18 42 42 edt Ons,  -es [F00s,  disposition],  good- εὐήθης,  -ες [ἦθος,  οΐεῥοοίίο)11,  ροοαί.
+εὐήθης, edt True lex
+-ες Ons, True pp
+[ἦθος, -es True lex
+[F00s, οΐεῥοοίίο)11, False na
+disposition], ροοαί. False eng
+good- NA False na
+# 19 33 37 * natured,  simple-minded; hence, " κπαίμγεή,  εἰριῤῥεονεϊπαφα,  Ὠδηςα,
+* " False na
+natured, κπαίμγεή, False eng
+simple-minded; εἰριῤῥεονεϊπαφα, False na
+hence, Ὠδηςα, False eng
+# 20 16 16 silly,  foolish. οὐδέν,  γοοἶϊεά.
+silly, οὐδέν, False eng
+foolish. γοοἶϊεά. False eng
+# 21 43 44 ed0tpéopar [etOvuos ],  be tn good spirits, εὐθυμέομαι [εὔθυμος],  δέ ἱ»ι σοοαῖ ςῤ1)115,
+εὐθυμέομαι ed0tpéopar True pp
+[εὔθυμος], [etOvuos True lex
+δέ ], True lex
+be ἱ»ι False eng
+tn σοοαῖ False eng
+good ςῤ1)115, False eng
+spirits, NA False eng
+# 22 14 13 enjoy oneself. 7170» ογρεϑοξ
+enjoy 7170» False eng
+oneself. ογρεϑοξ False eng
+# 23 40 40 eUOtpos,  -ov [Ovuds,  spirit],  tn good εὔθυμος,  -ον [θῦμός,  ςΡὲγὶ],  ἐπ ροοαῖ
+εὔθυμος, eUOtpos, True lex
+-ον -ov True pp
+[Ovuds, [θῦμός, False na
+spirit], ςΡὲγὶ], False eng
+tn ἐπ False eng
+good ροοαῖ False eng
+# 24 19 19 spirits,  cheerful, “21 γ{5,  ἐλεογ πε,
+spirits, “21 False eng
+cheerful, γ{5, False eng
+# 25 42 45 ed0bs,  adv.,  straightway,  at once,  im- εὐθύς,  αἄν.,  «ἐγαϊζράέουαγ,  αὐ ο»εό,  ἦ)ὲ-
+εὐθύς, ed0bs, True lex
+adv., αἄν., False eng
+straightway, «ἐγαϊζράέουαγ, False eng
+at αὐ False eng
+once, ο»εό, False eng
+im- ἦ)ὲ- False na
+# 26 36 37 mediately; ed00s maides bvTes,  even »:δαἰϊαίεῖν; εὐθὺς παῖδες ὄντες,  δυ6
+mediately; »:δαἰϊαίεῖν; False eng
+εὐθὺς ed00s True form
+παῖδες maides True pp
+ὄντες, bvTes, True pp
+even δυ6 False eng
+# 27 36 40 in childhood,  95,  19; evO0s Kal éx ἡ»,  εὐϊῥωδοοαῖ, ,  95,  1; εὐθὺς καὶ ἐκ
+in ἡ», False eng
+childhood, εὐϊῥωδοοαῖ, False eng
+95, , False na
+19; 95, False na
+evO0s 1; False na
+εὐθὺς Kal True form
+καὶ éx True form
+# 28 41 42 wal5wy,  at the outset,  even from child- παίδων,  αὐ {6 οτείδοξ,  ευόγι 700» εὐϊ{α-
+παίδων, wal5wy, True form
+at αὐ False eng
+the {6 False eng
+outset, οτείδοξ, False eng
+even ευόγι False eng
+from 700» False eng
+child- εὐϊ{α- False na
+# 29 43 43 hood,  212,  6 3 evOvs éretd%,  as soon as. λοοαῖ,  212, 6; εὐθὺς ἐπειδή,  ας 5007: ας.
+hood, λοοαῖ, False eng
+212, 212, False na
+6 6; False na
+εὐθὺς 3 True form
+ἐπειδή, evOvs True lem
+éretd%, ας False na
+as 5007: False eng
+soon ας. False eng
+as. NA False eng
+# 30 39 40 eWObmpov [evOvs],  adv.,  2m a straight εὐθύωρον [εὐθύ5},  δᾶν.,  272 α εἰγαϊρλέ
+εὐθύωρον eWObmpov True pp
+[evOvs], [εὐθύ5}, False na
+adv., δᾶν., False eng
+2m 272 False na
+a α False eng
+straight εἰγαϊρλέ False eng
+# 31 19 19 line,  straight on. ἦρε,  εἰγαϊρὴξ ο»:.
+line, ἦρε, False eng
+straight εἰγαϊρὴξ False eng
+on. ο»:. False eng
+# 32 45 45 edpevis,  -és [uévos,  disposition,  poetic], εὐμενής,  -ἐς [μένος,  εἰς ῥοςίἠο»,  ροδιὶς],
+εὐμενής, edpevis, True lex
+-és -ἐς False na
+[μένος, [uévos, True lex
+disposition, εἰς False eng
+poetic], ῥοςίἠο», False eng
+# 33 38 40 well disposed; of roads,  comfortable, τυεἰἑ αϊςῤοδεά,  οἵ τοδάβ,  εο»εγογέαίε,
+well τυεἰἑ False eng
+disposed; αϊςῤοδεά, False eng
+of οἵ False eng
+roads, τοδάβ, False eng
+comfortable, εο»εγογέαίε, False eng
+# 34 7 5 easy. | 4497.
+easy. 4497. False eng
+| NA False na
+# 35 36 35 edperaxelptorros,  -ov [peraxerpltw, εὐμεταχείριστος,  -ον [μεταχειρίζω,
+εὐμεταχείριστος, edperaxelptorros, True pp
+-ον -ov True pp
+[μεταχειρίζω, [peraxerpltw, True pp
+# 36 35 36 handle),  easy to handle or manage. λαμαϊε],  ἐαεν ἰο ἀαηαΐο οὐ ριαραρε.
+handle), λαμαϊε], False eng
+easy ἐαεν False eng
+to ἰο False eng
+handle ἀαηαΐο False eng
+or οὐ False eng
+manage. ριαραρε. False eng
+# 37 43 45 ebvowa,  -ds [etvous],  goodwill,  friendly εὔνοια,  -ἂς [εὔνους],  ροοώτουτ ,  γγἱογιαἱν
+εὔνοια, ebvowa, True lex
+-ds -ἂς False na
+[εὔνους], [etvous], True lem
+goodwill, ροοώτουτ False eng
+friendly , False eng
+# 38 19 24 feeling,  devotion. , , εἰΐγρ,  ἀὐἰφυοίζογι.
+feeling, , False eng
+devotion. , False eng
+# 39 43 43 edvoikds [edvoixds,  well disposed),  adv., εὐνοϊκῶς [εὐνοϊκός,  τυοῖΐ ας ῥοΞ647],  ἄν.
+εὐνοϊκῶς edvoikds True form
+[εὐνοϊκός, [edvoixds, True lex
+well τυοῖΐ False eng
+disposed), ας False eng
+adv., ῥοΞ647], False eng
+# 40 33 34 with kind feelings; ebvotkds Exe, τυϊὰ ρα γεοίγερε,  εὐνοϊκῶς ἔχειν,
+with τυϊὰ False eng
+kind ρα False eng
+feelings; γεοίγερε, False eng
+εὐνοϊκῶς ebvotkds True form
+ἔχειν, Exe, True form
+# 41 30 29 be well or favorably disposed. ὅθ τυ οὐ γυυογαῤέν αἰϊεῥοδοί,
+be ὅθ False eng
+well τυ False eng
+or οὐ False eng
+favorably γυυογαῤέν False eng
+disposed. αἰϊεῥοδοί, False eng
+# 42 38 42 evous,  -ovv [vods,  mind],  well dis- εὔνους,  -ουν [ νοῦς,  »ι1741],  τυοῖ α75-
+εὔνους, evous, True lem
+-ovv -ουν False na
+[vods, [ False na
+mind], νοῦς, False eng
+well »ι1741], False eng
+dis- τυοῖ False na
+# 43 17 18 posed,  friendly. 2οφφα,  2 1φηηώἶν.
+posed, 2οφφα, False eng
+friendly. 2 False eng
+# 44 24 23 etEac Bat,  see ef ouat. εὔξασθαι,  ΞεἜ εὔχομαι.
+εὔξασθαι, etEac True form
+Bat, ΞεἜ False na
+see εὔχομαι. False eng
+ef NA False eng
+ouat. NA False na
+# 45 6 7 Google (οορσίς
+Google (οορσίς False na
+# 46 19 17 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝ False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 47 38 39 Etgeuvos,  -o» [tetvos,  Ionic form of Εἰὔξεινος,  -ον [ξεῖνος,  Ιοπΐς ἰογη οἵ
+Etgeuvos, Εἰὔξεινος, False na
+-ον -o» True pp
+[tetvos, [ξεῖνος, False na
+Ionic Ιοπΐς False na
+form ἰογη False eng
+of οἵ False eng
+# 48 38 47 tévos,  stranger],  good to strangers, ξένος,  51:)47106 7},  ροραΐ 10 567,  41719675,
+ξένος, tévos, True lex
+stranger], 51:)47106 False eng
+good 7}, False eng
+to ροραΐ False eng
+strangers, 10 False eng
+# 49 37 38 hospitable,  applied as a proper name λοςῤτἧίαόέρ,  Δρ Ιϊε ἃ ἃ5 ἃ ὑσόρεῦ πη)
+hospitable, λοςῤτἧίαόέρ, False eng
+applied Δρ False eng
+as Ιϊε False eng
+a ἃ False eng
+proper ἃ5 False eng
+name ἃ False eng
+# 50 36 36 (Euxine) to the Black Sea,  to avoid (Εν αἴπ6) ἴο τε ΒΙδοκ 868,  ἴο ἀνοϊὰ
+(Euxine) (Εν False na
+to αἴπ6) False eng
+the ἴο False eng
+τε Black True lex
+Sea, ΒΙδοκ False na
+to 868, False eng
+avoid ἴο False eng
+# 51 32 35 the bad omen in its earlier name (Π6 δὰ οἴχθβῃ ἴῃ [115 δδυ!εσ Πδιὴης
+the (Π6 False eng
+bad δὰ False eng
+omen οἴχθβῃ False eng
+in ἴῃ False eng
+its [115 False eng
+earlier δδυ!εσ False eng
+name Πδιὴης False eng
+# 52 36 41 "Akewwos,  inhospitable. For similar ἤΑξεινος,  ἐριλοεῤτἠίαὀίέ. ΕῸΥ 5ἰ παῖ ]αγ
+"Akewwos, ἤΑξεινος, False na
+inhospitable. ἐριλοεῤτἠίαὀίέ. False eng
+For ΕῸΥ False na
+similar 5ἰ False eng
+# 53 36 37 euphemisms,  cp. edwrupos,  and Eng. ΘΌΡΒΘτΐβιη5,  ΟΡ. εὐώνυμος,  ἃπα Επρ.
+euphemisms, ΘΌΡΒΘτΐβιη5, False eng
+cp. ΟΡ. False eng
+εὐώνυμος, edwrupos, True lex
+and ἃπα False eng
+Eng. Επρ. False na
+# 54 32 33 Cape of Good Hope for an earlier Οαῤε οΥΓ Οοοα ἴοῤε ἴον ἀμ ἐαυ]ϊεῦ
+Cape Οαῤε False na
+of οΥΓ False eng
+Good Οοοα False na
+Hope ἴοῤε False na
+for ἴον False eng
+an ἀμ False eng
+earlier ἐαυ]ϊεῦ False eng
+# 55 20 25 name Cafe of Storms. Ὡϑῖηθ (226 οΥΓ «11077918,
+name Ὡϑῖηθ False eng
+Cafe (226 False na
+of οΥΓ False eng
+Storms. «11077918, False na
+# 56 44 46 eboSos,  -oy (656s,  road],  easy to travel, εὔοδος,  -ον [ὁδός,  γοαα7],  εα5}7 το ἐγανεί,
+εὔοδος, eboSos, True pp
+-ον -oy True pp
+[ὁδός, (656s, True lex
+road], γοαα7], False eng
+easy εα5}7 False eng
+to το False eng
+travel, ἐγανεί, False eng
+# 57 9 10 passable, 2.αςΞαδέο.
+passable, 2.αςΞαδέο. False eng
+# 58 44 45 eWotrAXos,  -ov [ drda,  arms),  well armed, εὔοπλος,  -ον [ὅπλα,  47, 215],  τὐοΐ αγηεφα,
+εὔοπλος, eWotrAXos, True lex
+-ον -ov True pp
+[ὅπλα, [ True form
+drda, 47, False na
+arms), 215], False eng
+well τὐοΐ False eng
+armed, αγηεφα, False eng
+# 59 14 15 well equipped. «οὐδέ ἐφείφῥεά.
+well «οὐδέ False eng
+equipped. ἐφείφῥεά. False eng
+# 60 42 34 edrreras [evmrerys (wiry,  fall),  falling εὐπετῶς [εὐπετής (πίπτω,  κι),  γα
+εὐπετῶς edrreras True form
+[εὐπετής [evmrerys True lex
+(wiry, (πίπτω, False eng
+fall), κι), False eng
+falling γα False eng
+# 61 32 35 well,  of dice],  adv.,  easzly. «τυοἰΐ,  οὗ ἀϊςε 7,  δᾶν.,  ἐεαςῖν.
+well, «τυοἰΐ, False eng
+of οὗ False eng
+dice], ἀϊςε False eng
+adv., 7, False eng
+easzly. δᾶν., False na
+# 62 47 45 etaropos,  -ov [ répos,  way ],  easy to travel εὔπορος,  -ον [πόρος,  τυ4}],  ἐα5} 0 ἐγατ'εἰ
+εὔπορος, etaropos, True lex
+-ον -ov True pp
+[πόρος, [ True lex
+répos, τυ4}], False na
+way ἐα5} False eng
+], 0 False na
+easy ἐγατ'εἰ False eng
+to NA False eng
+travel NA False eng
+# 63 6 6 or go. οὐ 90.
+or οὐ False eng
+go. 90. False eng
+# 64 39 39 etrpaxros,  -oy [rpdrrw,  do],  easy to εὔπρᾶκτος,  -ον [πράττω,  “0],  ἐα5} 10
+εὔπρᾶκτος, etrpaxros, True pp
+-ον -oy True pp
+[πράττω, [rpdrrw, True pp
+do], “0], False eng
+easy ἐα5} False eng
+to 10 False eng
+# 65 10 10 do,  easy. εἶ,  ἐα57.
+do, εἶ, False eng
+easy. ἐα57. False eng
+# 66 42 40 edarperrts,  -és [rpérw,  be conspicuous), εὐπρεπής,  -ἐς [πρέπω,  έ εογι5ῤέσμοῃ:],
+εὐπρεπής, edarperrts, True lex
+-és -ἐς False na
+[πρέπω, [rpérw, True pp
+be έ False eng
+conspicuous), εογι5ῤέσμοῃ:], False eng
+# 67 18 19 comely,  handsome. εογϑίν,  δαπαξορηε.
+comely, εογϑίν, False eng
+handsome. δαπαξορηε. False eng
+# 68 44 45 evpnpa,  -aros,  76 [edploxw],  find,  wind- εὕρημα,  -ατος,  τό [εὑρίσκω],  “εἴ,  τυϊ»α]-
+εὕρημα, evpnpa, True lex
+-ατος, -aros, True pp
+τό 76 True form
+[εὑρίσκω], [edploxw], True pp
+find, “εἴ, False eng
+wind- τυϊ»α]- False na
+# 69 26 22 fall,  piece of good luck. 7,  2͵δεο οὗ φορά ἐεξ.
+fall, 7, False eng
+piece 2͵δεο False eng
+of οὗ False eng
+good φορά False eng
+luck. ἐεξ. False eng
+# 70 41 41 ciplokw,  elpiow,  nipov,  nupnka,  nupy- εὑρίσκω,  εὑρήσω,  ηὗρον,  ηὕρηκα,  ηὕρη-
+εὑρίσκω, ciplokw, True pp
+εὑρήσω, elpiow, True pp
+ηὗρον, nipov, True pp
+ηὕρηκα, nupnka, True pp
+nupy- ηὕρη- False na
+# 71 35 37 pat,  nvpébnv [bor.,  Eng. Eureka}, μαι,  ηὑρέθην [Ὅοτ.,  Επρ. ἘΌ, ΟΚΔΑΊ,
+pat, μαι, False eng
+ηὑρέθην nvpébnv True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False na
+Eureka}, ἘΌ, False na
+# 72 39 40 find,  invent,  devise; mid.,  find for ρα,  ἱρυορ,  ἀφυΐδε,  ταὶϊά.,  βηϑπαῖ γ᾽
+find, ρα, False eng
+invent, ἱρυορ, False eng
+devise; ἀφυΐδε, False eng
+mid., ταὶϊά., False eng
+find βηϑπαῖ False eng
+for γ᾽ False eng
+# 73 26 27 oneself,  obtain,  secure. ογιϑδογς οὐϊαϊ7, ,  56.476.
+oneself, ογιϑδογς False eng
+obtain, οὐϊαϊ7, False eng
+secure. , False eng
+# 74 44 46 edpos,  -ous,  76 [evpts],  width,  breadth; εὖρος,  -ους,  τό [εὐρύς],  τυταϊᾷ,  ὀγεααἶλ,;
+εὖρος, edpos, True lex
+-ous, -ους, False na
+τό 76 True form
+[εὐρύς], [evpts], True lex
+width, τυταϊᾷ, False eng
+breadth; ὀγεααἶλ,; False eng
+# 75 36 38 as acc. of specification,  #2 wzdth. 8.3 ἅς(. οὗ Ξρεοϊβοδίίοῃ,  27: τυξαϊα.
+as 8.3 False eng
+acc. ἅς(. False eng
+of οὗ False eng
+specification, Ξρεοϊβοδίίοῃ, False eng
+#2 27: False na
+wzdth. τυξαϊα. False na
+# 76 38 39 Eiptdoxos,  -ov,  Eurylochus,  a brave ἘΠ ῥρύλοχος,  -ου,  Φηγγίδελτδ,  ἃ Ὅταν
+Eiptdoxos, ἘΠ False na
+-ov, ῥρύλοχος, False na
+Eurylochus, -ου, False na
+a Φηγγίδελτδ, False eng
+brave ἃ False eng
+# 77 27 29 Arcadian in the Greek army. Ατοδάϊδῃ ἰπ ἴῃς Οτθεκ ΔγΓτΏΥ.
+Arcadian Ατοδάϊδῃ False na
+in ἰπ False eng
+the ἴῃς False eng
+Greek Οτθεκ False na
+army. ΔγΓτΏΥ. False eng
+# 78 34 38 edpts,  -ela,  -v,  wide,  roonty. εὐρύς,  -εἶα,  -ύ,  τυϊαἷδ,  γ00521}7.
+εὐρύς, edpts, True lex
+-ela, -εἶα, False na
+-v, -ύ, False na
+wide, τυϊαἷδ, False eng
+roonty. γ00521}7. False na
+# 79 40 40 edraxros,  -ov [Tdrtrw,  draw up],  well εὔτακτος,  -ον [τάττω,  ἄγατυ 22],  τοεὶ
+εὔτακτος, edraxros, True pp
+-ον -ov True pp
+[τάττω, [Tdrtrw, True pp
+draw ἄγατυ False eng
+up], 22], False eng
+well τοεὶ False eng
+# 80 22 22 disciplined,  orderly. εἰϊδείῤἑ᾽ηεφα,  ογαγν.
+disciplined, εἰϊδείῤἑ᾽ηεφα, False eng
+orderly. ογαγν. False eng
+# 81 38 39 ebrafla,  -as [rdrrw,  draw up],  good εὐταξία,  -ἃς [τάττω,  ἄγατυ 22],  φοοά
+εὐταξία, ebrafla, True lex
+-as -ἃς False na
+[τάττω, [rdrrw, True pp
+draw ἄγατυ False eng
+up], 22], False eng
+good φοοά False eng
+# 82 19 19 order,  discipline. ογαΐεν,  αϊδεΐῤῥηἧ.
+order, ογαΐεν, False eng
+discipline. αϊδεΐῤῥηἧ. False eng
+# 83 37 37 edruyéo,  edruxiow,  nirixnoa,  nurv- εὐτυχέω,  εὐτυχήσω,  ηὐτύχησα,  ηὐτύ-
+εὐτυχέω, edruyéo, True pp
+εὐτυχήσω, edruxiow, True pp
+ηὐτύχησα, nirixnoa, True pp
+nurv- ηὐτύ- False na
+# 84 32 32 xnka,  nordynuar [edrux}s (roxn, χηκα,  ηὐτύχημαι [εὐτυχής (τύχη,
+χηκα, xnka, True pp
+ηὐτύχημαι nordynuar True pp
+[εὐτυχής [edrux}s True lex
+(τύχη, (roxn, True lex
+# 85 32 33 chance),  successful],  succeed. ἐλαρεεΚ),  σιεεεθοογε],  τεεεεοα.
+chance), ἐλαρεεΚ), False eng
+successful], σιεεεθοογε], False eng
+succeed. τεεεεοα. False eng
+# 86 42 42 Evdpatys,  -ov,  Euphrates,  a large river Εὐφράτης,  -ου,  Ξ ῤάγαϊες,  ἃ ἴατρε τῖνες
+Εὐφράτης, Evdpatys, True lex
+-ov, -ου, False na
+Euphrates, Ξ False na
+a ῤάγαϊες, False eng
+large ἃ False eng
+river ἴατρε False eng
+# 87 16 19 of Western Asia. οἵ Νν»εβίεγῃ Αϑῖὶδ.
+of οἵ False eng
+Western Νν»εβίεγῃ False na
+Asia. Αϑῖὶδ. False na
+# 88 32 30 ebdx f,  -7s [etxouac],  prayer. εὐχή,  -ἣς [εὔχομαι],  2γαγεν.
+εὐχή, ebdx True lex
+f, -ἣς False eng
+[εὔχομαι], -7s True pp
+[etxouac], 2γαγεν. False na
+prayer. NA False eng
+# 89 37 37 eUxopat,  ettouar,  nitdunr,  ndyuat, εὔχομαι,  εὔξομαι,  ηὐξάμην,  ηὖγμαι,
+εὔχομαι, eUxopat, True pp
+εὔξομαι, ettouar, True pp
+ηὐξάμην, nitdunr, True pp
+ηὖγμαι, ndyuat, True pp
+# 90 30 33 pray; vow,  promise in prayer. 27αν,  του,  2γο» εἶδ ἴῃ Ὀγδγετσ.
+pray; 27αν, False eng
+vow, του, False eng
+promise 2γο» False eng
+in εἶδ False eng
+prayer. ἴῃ False eng
+# 91 6 12 — — —y ---- “π΄ τὖῷ
+— ---- False na
+— “π΄ False na
+—y τὖῷ False na

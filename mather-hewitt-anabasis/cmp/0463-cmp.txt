@@ -1,0 +1,537 @@
+# 0 10 11 VOCABULARY ΝΟΓΑΒΌΙΑΚΝΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΚΝΥ False na
+# 1 36 36 Hdopar,  Fob4oouar,  foOnv [root 4d, ἥδομαι,  ἡσθήσομαι,  ἤσθην [τοοὶ ἁδ,
+ἥδομαι, Hdopar, True pp
+ἡσθήσομαι, Fob4oouar, True pp
+ἤσθην foOnv True pp
+[root [τοοὶ False eng
+4d, ἁδ, False na
+# 2 36 39 originally fad; cogn.,  Lat. suavis, ΟΥ̓ΡΊΠΔΙΥ σραδ; σορῃ.,  [, Ἃϊ. ϑυᾶν 18,
+originally ΟΥ̓ΡΊΠΔΙΥ False eng
+fad; σραδ; False eng
+cogn., σορῃ., False na
+Lat. [, False na
+suavis, Ἃϊ. False na
+# 3 39 43 sweet,  Eng. sweet],  be pleased,  take δευεεῖ,  Επιρ. ΒΥ 661],  δὲ 2έραςεα,  ἴα ξε
+sweet, δευεεῖ, False eng
+Eng. Επιρ. False na
+sweet], ΒΥ False eng
+be 661], False eng
+pleased, δὲ False eng
+take 2έραςεα, False eng
+# 4 38 37 pleasure,  with ptc. or dat. of cause. 2ἐδαξεγε,  ΜΙ Ρῖς. οὐ ἀδῖ. οἱ οδυϑβ6.
+pleasure, 2ἐδαξεγε, False eng
+with ΜΙ False eng
+ptc. Ρῖς. False na
+or οὐ False eng
+dat. ἀδῖ. False eng
+of οἱ False eng
+cause. οδυϑβ6. False eng
+# 5 15 15 qoov,  see gow. ἦδον,  566 ᾷδω.
+ἦδον, qoov, True pp
+see 566 False eng
+ᾷδω. gow. True pp
+# 6 39 38 ndovh,  -7s [#5oua:; bor.,  Eng. hedon- ἡδονή,  -ς [ἤδομαι; Ὀοτ.,  Επρ. Βοάοῃ-
+ἡδονή, ndovh, True lex
+-7s -ς False na
+[ἤδομαι; [#5oua:; True pp
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+hedon- Βοάοῃ- False na
+# 7 37 40 ism],  pleasure,  enjoyment,  flavor. 18π1],  2ίσαξ, 7 6,  6»7ογρεοηξ,  βανογ.
+ism], 18π1], False eng
+pleasure, 2ίσαξ, False eng
+enjoyment, 7 False eng
+flavor. 6, False eng
+# 8 46 46 HDdvs,  -eta,  -v,  comp. 7diwy,  sup. HourTos ἢδύς,  -εἴα,  -ύ,  σοπηρ. ἡδίων,  500. ἥδιστος
+HDdvs, ἢδύς, False na
+-eta, -εἴα, False na
+-v, -ύ, False na
+comp. σοπηρ. False eng
+ἡδίων, 7diwy, True form
+sup. 500. False eng
+ἥδιστος HourTos True pp
+# 9 30 32 [Hdouac],  seveet,  delicious. [ἥδομαι],  Ξτυεεί,  ἐἰεἰλεῖοτεδ.
+[ἥδομαι], [Hdouac], True pp
+seveet, Ξτυεεί, False na
+delicious. ἐἰεἰλεῖοτεδ. False eng
+# 10 20 20 TkaLov,  see elkdtw. ἤκαζον,  5εε εἰκάζω,
+ἤκαζον, TkaLov, True pp
+see 5εε False eng
+εἰκάζω, elkdtw. True pp
+# 11 16 16 TIKav,  see Inu. ἧκαν,  866 Ὦημι.
+ἧκαν, TIKav, True form
+see 866 False eng
+Ὦημι. Inu. True pp
+# 12 19 19 Hkurra,  see Frrov. ἥκιστα,  566 ἧττον.
+ἥκιστα, Hkurra, True form
+see 566 False eng
+ἧττον. Frrov. True pp
+# 13 35 37 Hxw,  Héw (the pres. indic. has pf. ἥκω,  ἤξω (1ἴῃε ρταβ.. ἱπάϊς. δὰ5. ρὲ
+ἥκω, Hxw, True pp
+ἤξω Héw True pp
+(the (1ἴῃε False eng
+pres. ρταβ.. False eng
+indic. ἱπάϊς. False eng
+has δὰ5. False eng
+pf. ρὲ False eng
+# 14 34 36 meaning,  while the other moods of τηδδηϊηρ,  8116 τῆς οἴμοῦ πιοοάϑβ οὗ
+meaning, τηδδηϊηρ, False eng
+while 8116 False eng
+the τῆς False eng
+other οἴμοῦ False eng
+moods πιοοάϑβ False eng
+of οὗ False eng
+# 15 32 36 the pres. and the impf. commonly [(Π6 ῥτγθβ. δῃὰ [ες ἱπηρέ. σοσηιη ον
+the [(Π6 False eng
+pres. ῥτγθβ. False eng
+and δῃὰ False eng
+the [ες False eng
+impf. ἱπηρέ. False eng
+commonly σοσηιη False eng
+# 16 34 38 have an aoristic force; the impf., Ὦδανα δὴ δογίβιίος ἔίοτοα ἴῃς ᾿τηρί, ,
+have Ὦδανα False eng
+an δὴ False eng
+aoristic δογίβιίος False eng
+force; ἔίοτοα False eng
+the ἴῃς False eng
+impf., ᾿τηρί, False eng
+# 17 34 38 however,  sometimes has plupf. and Βονγενοῦ,  βοιῃθίϊηιθϑ. ἢ85 Ῥ]υρί. δηὰ
+however, Βονγενοῦ, False eng
+sometimes βοιῃθίϊηιθϑ. False eng
+has ἢ85 False eng
+plupf. Ῥ]υρί. False eng
+and δηὰ False eng
+# 18 33 35 the fut. a fut. pf. meaning),  de [868 {πἰ. ἃ ἔπϊ. ρ΄. τηϑδηΐηρ),  ὁέ
+the [868 False eng
+fut. {πἰ. False eng
+a ἃ False eng
+fut. ἔπϊ. False eng
+pf. ρ΄. False eng
+meaning), τηϑδηΐηρ), False eng
+de ὁέ False eng
+# 19 32 34 come,  have come; come,  arrive; κοό,  ἄαυε «0725,  «γιό,  αγγῖίνε,
+come, κοό, False eng
+have ἄαυε False eng
+come; «0725, False eng
+come, «γιό, False eng
+arrive; αγγῖίνε, False eng
+# 20 10 10 come back. κοῦ! ὀαεξ.
+come κοῦ! False eng
+back. ὀαεξ. False eng
+# 21 19 19 NAace,  see éAavvw. ἤλασε,  5εε ἐλαύνω.
+ἤλασε, NAace, True form
+see 5εε False eng
+ἐλαύνω. éAavvw. True pp
+# 22 38 43 "Helos,  -ov ["Hds,  Zkis],  Eléan,  a ᾿Ηλεῖος,  -οὐ [Ἦλις,  ΖΦ 12],  ΤΕ Ἴξα»:,  ἃ
+"Helos, ᾿Ηλεῖος, False na
+-ov -οὐ False na
+[Ἦλις, ["Hds, True lex
+Zkis], ΖΦ False na
+Eléan, 12], False na
+a ΤΕ False eng
+# 23 37 38 native of Elis,  a state in the west- ηδίϊνε οὗ ΕἸ15,  ἃ βίαϊες ἰὴ [6 ννοϑῖ-
+native ηδίϊνε False eng
+of οὗ False eng
+Elis, ΕἸ15, False na
+a ἃ False eng
+state βίαϊες False eng
+in ἰὴ False eng
+the [6 False eng
+west- ννοϑῖ- False na
+# 24 29 29 ern part of the Peloponnésus. δγῃ ρατί οἵ [ἢ Ῥεϊοροπηξβιι8.
+ern δγῃ False eng
+part ρατί False eng
+of οἵ False eng
+the [ἢ False eng
+Peloponnésus. Ῥεϊοροπηξβιι8. False na
+# 25 41 41 HAektpov,  -ov [bor.,  Eng. electricity], ἤλεκτρον,  -ουὅ [Ὀοτ΄.,  Επρ. ΘΙΘΟΠΟΙΓΥ],
+ἤλεκτρον, HAektpov, True pp
+-ov -ουὅ False na
+[bor., [Ὀοτ΄., False eng
+Eng. Επρ. False na
+electricity], ΘΙΘΟΠΟΙΓΥ], False eng
+# 26 30 33 luster; adopted as the name of ἔπδίογ, ,  δαορίεα δ5 ἴῃῆ6 πῆς οἵ
+luster; ἔπδίογ, False eng
+adopted , False eng
+as δαορίεα False eng
+the δ5 False eng
+name ἴῃῆ6 False eng
+of πῆς False eng
+# 27 32 30 amber,  and of electrum,  a com- ἀρ,  διὰ οὗ δέφοΐγζι,  ἃ οοτὴ-
+amber, ἀρ, False eng
+and διὰ False eng
+of οὗ False eng
+electrum, δέφοΐγζι, False eng
+a ἃ False eng
+com- οοτὴ- False na
+# 28 34 33 pound of gold and silver,  used in Ῥουηά οὗ ροϊὰ δηὰ ἰϊνεσ,  υβεὰ ἴῃ
+pound Ῥουηά False eng
+of οὗ False eng
+gold ροϊὰ False eng
+and δηὰ False eng
+silver, ἰϊνεσ, False eng
+used υβεὰ False eng
+in ἴῃ False eng
+# 29 37 36 coining; it is probably to the latter σοἰπίηρ; ἰξ 15 ῬγοΔΌΪΥ ἴο (δε Ἰαιίου
+coining; σοἰπίηρ; False eng
+it ἰξ False eng
+is 15 False eng
+probably ῬγοΔΌΪΥ False eng
+to ἴο False eng
+the (δε False eng
+latter Ἰαιίου False eng
+# 30 32 33 that the color of the dates men- [μαῖ τῃς οοἱοῦ οὗ {ῃε ἄδίεβ πηθη-
+that [μαῖ False eng
+the τῃς False eng
+color οοἱοῦ False eng
+of οὗ False eng
+the {ῃε False eng
+dates ἄδίεβ False eng
+men- πηθη- False na
+# 31 32 34 tioned in 117,  9,  is compared. [ἰοπεἀ ἴῃ 117,  9,  158 σοπηρᾶτεά,
+tioned [ἰοπεἀ False na
+in ἴῃ False eng
+117, 117, False na
+9, 9, False na
+is 158 False eng
+compared. σοπηρᾶτεά, False eng
+# 32 19 20 HAGov,  see Zpxoua. ἦλθον,  566 ἔρχομαι.
+ἦλθον, HAGov, True pp
+see 566 False eng
+ἔρχομαι. Zpxoua. True pp
+# 33 39 37 NAlBaros,  -ov,  poetic,  high,  steep. ἡλίβατος,  -ον,  ροεῖϊς,  ἀζρά,  «δε.
+ἡλίβατος, NAlBaros, True pp
+-ον, -ov, True pp
+poetic, ροεῖϊς, False eng
+high, ἀζρά, False eng
+steep. «δε. False eng
+# 34 41 43 MAWos,  -a,  -ov,  silly,  foolish. Neut. ἠλίθιος,  -α,  -ον,  οὐδέν,  γροίίελ. Νεαῖ.
+ἠλίθιος, MAWos, True lex
+-α, -a, True pp
+-ον, -ov, True pp
+silly, οὐδέν, False eng
+foolish. γροίίελ. False eng
+Neut. Νεαῖ. False na
+# 35 18 16 as subst.,  folly. 85 βιρϑῖ.,  ρῶν.
+as 85 False eng
+subst., βιρϑῖ., False eng
+folly. ρῶν. False eng
+# 36 37 40 Ack,  -as [AAlxos,  as old as],  time ἡλικία,  -ἂς [ἡλίκος,  ας οἱ 45},  “ἐρ1ὸ
+ἡλικία, Ack, True lex
+-as -ἂς False na
+[ἡλίκος, [AAlxos, True lex
+as ας False eng
+old οἱ False eng
+as], 45}, False eng
+time “ἐρ1ὸ False eng
+# 37 39 40 of life,  age,  esp. the period from 18 ΟΠ 4172,  αρέ,  650. (ῃς ρεγῖοα ἔτοπι 18
+of ΟΠ False eng
+life, 4172, False eng
+age, αρέ, False eng
+esp. 650. False eng
+the (ῃς False eng
+period ρεγῖοα False eng
+from ἔτοπι False eng
+18 18 False na
+# 38 28 27 to 45 years,  prime of life. ἴο 45 γεδῖβ,  2γρι οΥ ἐϊ76.
+to ἴο False eng
+45 45 False na
+years, γεδῖβ, False eng
+prime 2γρι False eng
+of οΥ False eng
+life. ἐϊ76. False eng
+# 39 38 39 MAckrorys,  -ov [cp. HrKla],  an egual ἡλικιώτης,  -ου [ςρ. ἡλικία],  α» ἐφπαΐ
+ἡλικιώτης, MAckrorys, True lex
+-ov -ου False na
+[cp. [ςρ. False eng
+ἡλικία], HrKla], True lex
+an α» False eng
+egual ἐφπαΐ False na
+# 40 17 22 tn age,  comrade, 29,  ἄρέ,  “0797 Ὑεἶξ.
+tn 29, False eng
+age, ἄρέ, False eng
+comrade, “0797 False eng
+# 41 36 37 jAvos,  -ov [bor.,  Eng. heliotrope, ἥλιος,  -οὐ [Ῥοτ.,  Επρ,  Βεο]οίτορο,
+ἥλιος, jAvos, True lex
+-ov -οὐ False na
+[bor., [Ῥοτ., False eng
+Eng. Επρ, False na
+heliotrope, Βεο]οίτορο, False eng
+# 42 32 35 heliograph],  she sun,  commonly ΠΟΙΙΟΤΑΡὮ],  206 σϑθ71,  σΟΙΏΤΊΟΗΪΥ
+heliograph], ΠΟΙΙΟΤΑΡὮ], False eng
+she 206 False eng
+sun, σϑθ71, False eng
+commonly σΟΙΏΤΊΟΗΪΥ False eng
+# 43 32 29 without the article. As a proper που [ῃς6 ἀγῖῖο]θ. Α5 ἃ ῥΊΌρεΥ
+without που False eng
+the [ῃς6 False eng
+article. ἀγῖῖο]θ. False eng
+As Α5 False na
+a ἃ False eng
+proper ῥΊΌρεΥ False eng
+# 44 35 37 name,  ffeltos,  the sun god,  wor- πᾶτηθ,  47|εἴΐος,  466 τε σού,  νγου-
+name, πᾶτηθ, False eng
+ffeltos, 47|εἴΐος, False na
+the 466 False eng
+sun τε False eng
+god, σού, False eng
+wor- νγου- False na
+# 45 6 8 Google (πΘοορίς
+Google (πΘοορίς False na
+# 46 3 3 451 451
+451 451 False na
+# 47 35 37 shiped by Greeks,  Persians,  Arme- Βῃ!ρεά Ὀγ Οτεεῖϑ,  Ῥεγβίδιιβ,  Αὐπγθ-
+shiped Βῃ!ρεά False na
+by Ὀγ False eng
+Greeks, Οτεεῖϑ, False na
+Persians, Ῥεγβίδιιβ, False na
+Arme- Αὐπγθ- False na
+# 48 26 28 nians,  and other peoples, ΠΙδΔη5,  Δπηα Οἵ εῖ ρβορ]εβ.
+nians, ΠΙδΔη5, False na
+and Δπηα False eng
+other Οἵ False eng
+peoples, εῖ False eng
+# 49 30 30 NAw,  hAwKéra,  see dNloxouat, ἥλω,  ἡλωκότα,  566 ἁλίσκομαι,
+ἥλω, NAw, True pp
+ἡλωκότα, hAwKéra, True form
+see 566 False eng
+ἁλίσκομαι, dNloxouat, True pp
+# 50 16 16 Tpeis,  see eyw. ἡμεῖς,  Ξες ἐγώ.
+ἡμεῖς, Tpeis, True form
+see Ξες False eng
+ἐγώ. eyw. True lex
+# 51 37 38 nHeANpevws [formed from the pf. pass. ἡμελημένως [[οτπιεὰ ἔτοιη {8 ΡΖ. Ρ458.
+nHeANpevws ἡμελημένως False na
+[formed [[οτπιεὰ False eng
+from ἔτοιη False eng
+the {8 False eng
+pf. ΡΖ. False eng
+pass. Ρ458. False eng
+# 52 39 38 ptc. of adpuerdw,  be careless),  adv., Ρίς. οὗ ἀμελέω,  ὀξ (47 εἶσ::],  δᾶν.,
+ptc. Ρίς. False na
+of οὗ False eng
+ἀμελέω, adpuerdw, True pp
+be ὀξ False eng
+careless), (47 False eng
+adv., εἶσ::], False eng
+# 53 11 11 carelessly, «αγεέρεςίν.
+carelessly, «αγεέρεςίν. False eng
+# 54 36 37 npépa,  -as (bor.,  Eng. ephemeral], ἡμέρα,  -ἂς [Ῥοτ.,  Επρ. ΘΡΒΘΠΊΘΙΔΙ],
+ἡμέρα, npépa, True lex
+-as -ἂς False na
+(bor., [Ῥοτ., False eng
+Eng. Επρ. False na
+ephemeral], ΘΡΒΘΠΊΘΙΔΙ], False eng
+# 55 32 34 day; nuépas,  gen.,  by day; ped (αν,  ἡμέρας,  σεη.,  ὃν «αν; μεθ᾽
+day; (αν, False eng
+ἡμέρας, nuépas, True form
+gen., σεη., False eng
+by ὃν False eng
+day; «αν; False eng
+ped μεθ᾽ False eng
+# 56 33 35 nuépar,  after daybreak; mpos hue ἡμέραν,  76»,  ἀαγόγεαξ,; πρὸς ἡμέ-
+ἡμέραν, nuépar, True form
+after 76», False eng
+daybreak; ἀαγόγεαξ,; False eng
+πρὸς mpos True form
+hue ἡμέ- False eng
+# 57 23 23 par,  towards daylight, ραν,  ἐοτυαγώς “αγέράξ,
+par, ραν, False eng
+towards ἐοτυαγώς False eng
+daylight, “αγέράξ, False eng
+# 58 45 44 Hpérepos,  -a,  -ov [ ypue‘s,  we),  our,  Ta ἡμέτερος,  -α,  -ον [ ἡμεῖς,  τυ},  ο47,  τὰ
+ἡμέτερος, Hpérepos, True lex
+-α, -a, True pp
+-ον -ov True pp
+[ [ False na
+ἡμεῖς, ypue‘s, True form
+we), τυ}, False eng
+our, ο47, False eng
+τὰ Ta True form
+# 59 38 41 nuerepa,  our affairs,  our relations. ἡμέτερα,  0147 αὔαϊγ5,  0147. γοίαΐέονις.
+ἡμέτερα, nuerepa, True form
+our 0147 False eng
+affairs, αὔαϊγ5, False eng
+our 0147. False eng
+relations. γοίαΐέονις. False eng
+# 60 38 37 mpt- [cogn.,  Lat. sémi-,  4a/f,  Eng. ἡμι- [οορη.,  [41. 8βδπιὶ-,  ἀας Ἑπρ.
+mpt- ἡμι- False na
+[cogn., [οορη., False na
+Lat. [41. False na
+sémi-, 8βδπιὶ-, False na
+4a/f, ἀας False na
+Eng. Ἑπρ. False na
+# 61 37 38 hemi-,  as in hemisphere],  only in * Βοπιϊ-,  85 ἴῃ ΒΘΙΙΒΡΙΘΙΘΊ,  ΟἿΪγ ἴῃ ἢ
+hemi-, Βοπιϊ-, False na
+as 85 False eng
+in ἴῃ False eng
+hemisphere], ΒΘΙΙΒΡΙΘΙΘΊ, False eng
+only ΟἿΪγ False eng
+in ἴῃ False eng
+ἢ * True lem
+# 62 19 19 composition,  Aadf, ςοΙῃροβίτοη,  ἀσζῇᾳ
+composition, ςοΙῃροβίτοη, False eng
+Aadf, ἀσζῇᾳ False na
+# 63 39 37 nelBpwros,  -ov [BiSpwoxw,  eat],  half ἡμίβρωτος,  -ον [βιβρώσκω,  εα:],  λα
+ἡμίβρωτος, nelBpwros, True pp
+-ον -ov True pp
+[βιβρώσκω, [BiSpwoxw, True pp
+eat], εα:], False eng
+half λα False eng
+# 64 6 9 eaten, 6 ΩΤ 671.
+eaten, 6 False eng
+# 65 12 12 Tprdapercdy, ἡμιδᾶρεικόν,
+Tprdapercdy, ἡμιδᾶρεικόν, False na
+# 66 11 11 half daric, ἀαζ' ἐαγῖε.
+half ἀαζ' False eng
+daric, ἐαγῖε. False eng
+# 67 42 41 Hprdefs,  -és [déw,  lack],  lacking half, ἡμιδεής,  -ἐς [δέω,  ἰαεξ],  ἐπεξίντιρ λα
+ἡμιδεής, Hprdefs, True lex
+-és -ἐς False na
+[δέω, [déw, True pp
+lack], ἰαεξ], False eng
+lacking ἐπεξίντιρ False eng
+half, λα False eng
+# 68 30 23 half empty (and so half full), λα ἐμέν (πὰ 50 ἀκα με).
+half λα False eng
+empty ἐμέν False eng
+(and (πὰ False eng
+so 50 False eng
+half ἀκα False eng
+full), με). False eng
+# 69 42 43 TproAros,  -G,  -ov [8dros,  whole],  con- ἡμιόλιος,  -ἅ,  -ον [ὅλος,  τοἀοίφ],  ε0᾽:-
+ἡμιόλιος, TproAros, True lex
+-G, -ἅ, False na
+-ον -ov True pp
+[ὅλος, [8dros, True lex
+whole], τοἀοίφ], False eng
+con- ε0᾽:- False na
+# 70 35 35 taining the whole and a half,  half ἐα1ηηηρ᾽ τάδ τυλοίε ἀγα α ἀαζς ἀσζ'
+taining ἐα1ηηηρ᾽ False na
+the τάδ False eng
+whole τυλοίε False eng
+and ἀγα False eng
+a α False eng
+half, ἀαζς False eng
+half ἀσζ' False eng
+# 71 34 35 as much again,  a half more,  with ας τιμοῦ ἀραΐρ,  α ἀκα πιογε,  ψὶτὴ
+as ας False eng
+much τιμοῦ False eng
+again, ἀραΐρ, False eng
+a α False eng
+half ἀκα False eng
+more, πιογε, False eng
+with ψὶτὴ False eng
+# 72 19 21 gen. of comparison. 86ῃ. οὗ σοτῃρδτιίϑοῃ.
+gen. 86ῃ. False eng
+of οὗ False eng
+comparison. σοτῃρδτιίϑοῃ. False eng
+# 73 37 37 nplaArcOpov,  -ov [wrOpov,  plethron, ἡμίπλεθρον,  -ον [πλέθρον,  2έείλγο:,
+ἡμίπλεθρον, nplaArcOpov, True pp
+-ον -ov True pp
+[πλέθρον, [wrOpov, True pp
+plethron, 2έείλγο:, False eng
+# 74 37 35 100 Greek feet,  97 Eng. feet],  half 100 Οτεεκ ἐεεῖ,  97 Επρ. ἔεει],  δα
+100 100 False na
+Greek Οτεεκ False na
+feet, ἐεεῖ, False eng
+97 97 False na
+Eng. Επρ. False na
+feet], ἔεει], False eng
+half δα False eng
+# 75 9 9 plethron. 2ἐολγορι.
+plethron. 2ἐολγορι. False eng
+# 76 41 40 pious,  -eva,  -v,  Aalf Neut. as subst., ἥμισυς,  -εἰα,  -υ,  λα Νεαΐ. 85 βυθβῖ.,
+pious, ἥμισυς, False eng
+-eva, -εἰα, False na
+-v, -υ, False na
+λα Aalf True lex
+Neut. Νεαΐ. False na
+as 85 False eng
+subst., βυθβῖ., False eng
+# 77 36 37 half,  assimilated to the gender and ἀαΐζ,  δϑϑιταϊ]δϊεὰ ἴο [Π6 σεπάογ δῃὰ
+half, ἀαΐζ, False eng
+assimilated δϑϑιταϊ]δϊεὰ False eng
+to ἴο False eng
+the [Π6 False eng
+gender σεπάογ False eng
+and δῃὰ False eng
+# 78 33 35 number of a dependent gen.,  186, ὨσΏΡΕΓ οὗ ἃ ἀερεπάσδηϊς ρϑη.,  τ86,
+number ὨσΏΡΕΓ False eng
+of οὗ False eng
+a ἃ False eng
+dependent ἀερεπάσδηϊς False eng
+gen., ρϑη., False eng
+186, τ86, False na
+# 79 10 10 16,  18. . 16,  18. .
+16, 16, False na
+18. 18. False na
+. . False na
+# 80 45 47 nproBércoy,  -ov [680Nbs,  o60/],  half obol, ἡμιωβέλιον,  -ουὅ [ὀβολός,  οὐοἠ 7,  ἀα(ῦ οὐοί,
+ἡμιωβέλιον, nproBércoy, True pp
+-ov -ουὅ False na
+[ὀβολός, [680Nbs, True lex
+o60/], οὐοἠ False na
+half 7, False eng
+obol, ἀα(ῦ False eng
+# 81 16 17 pov,  see éu.'w. ἤμουν,  5εε ἐμίω.
+ἤμουν, pov, True form
+see 5εε False eng
+ἐμίω. éu.'w. True pp
+# 82 27 27 NPpeyvdouv,  see dudiyvodw. ἠμφεγνόουν,  5εε ἀμφιγνοέω.
+ἠμφεγνόουν, NPpeyvdouv, True form
+see 5εε False eng
+ἀμφιγνοέω. dudiyvodw. True pp
+# 83 13 13 jy,  see édv. ἦν,  5εε ἐάν.
+ἦν, jy, True form
+see 5εε False eng
+ἐάν. édv. True lex
+# 84 21 21 nvéoxero,  see dvéxw. ἠνέσχετο,  5εε ἀνέχω.
+ἠνέσχετο, nvéoxero, True form
+see 5εε False eng
+ἀνέχω. dvéxw. True pp
+# 85 20 20 nvéxOn,  see dépw. . ἠνέχθη,  5ε6 φέρω. «
+ἠνέχθη, nvéxOn, True form
+see 5ε6 False eng
+φέρω. dépw. True pp
+. « False na
+# 86 41 44 Hvika,  conj.,  when,  with indic.; when- ἡνίκα,  σοη].,  τυζο7:,  ΊΓΠ Ἰπαῖο,; το]ε71-
+ἡνίκα, Hvika, True pp
+conj., σοη]., False eng
+when, τυζο7:, False eng
+with ΊΓΠ False eng
+indic.; Ἰπαῖο,; False eng
+when- το]ε71- False na
+# 87 35 33 ever,  with &y and subj.,  or opt.; ὅτ 7,  ΜΠ ἄν δηα 500].,  οὐ ορί.;
+ever, ὅτ False eng
+with 7, False eng
+&y ΜΠ False na
+and ἄν False eng
+subj., δηα False eng
+or 500]., False eng
+opt.; οὐ False eng
+# 88 34 38 nulka THs @pas,  at whatever time. ἡνίκα τῆς ὥρας,  αὐ τολαΐετο7,  ζ77»6.
+ἡνίκα nulka True pp
+τῆς THs True form
+ὥρας, @pas, True form
+at αὐ False eng
+whatever τολαΐετο7, False eng
+time. ζ77»6. False eng
+# 89 36 37 nvloxes [arla,  reins,  %xw,  hold). ἡνίοχος [ἡνία,  γεῖγι5,  ἔχω,  ἤομα].
+ἡνίοχος nvloxes True lex
+[ἡνία, [arla, True lex
+reins, γεῖγι5, False eng
+ἔχω, %xw, True pp
+hold). ἤομα]. False eng
+# 90 33 33 chartoteer,  See Fig. 33,  p. 92. εὐαγίοίεέγ,  δὲς ΕἸρ. 33,  Ρ. 92.
+chartoteer, εὐαγίοίεέγ, False na
+See δὲς False na
+Fig. ΕἸρ. False na
+33, 33, False na
+p. Ρ. False eng
+92. 92. False na
+# 91 23 23 -08 =[Sapexés,  daric], -οὐ [δᾶρεικός,  «αγἹεῖ,
+-08 -οὐ False na
+=[Sapexés, [δᾶρεικός, False na
+daric], «αγἹεῖ, False eng

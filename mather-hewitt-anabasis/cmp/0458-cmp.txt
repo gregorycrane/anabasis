@@ -1,0 +1,501 @@
+# 0 3 3 446 446
+446 446 False na
+# 1 35 35 émyeipéw,  érixeippow,  etc. [xelp, ἐπιχειρέω,  ἐπιχειρήσω,  εἴς. χείρ,
+ἐπιχειρέω, émyeipéw, True pp
+ἐπιχειρήσω, érixeippow, True pp
+etc. εἴς. False eng
+[χείρ, [xelp, True lex
+# 2 37 35 hand ],  put one’s hand to,  attempt, ἀαπα],  διέ ομος λαμαΐ ἐο,  αἰξενέ,
+hand ἀαπα], False eng
+], διέ False na
+put ομος False eng
+one’s λαμαΐ False na
+hand ἐο, False eng
+to, αἰξενέ, False eng
+attempt, NA False eng
+# 3 23 22 try,  abs. or with inf. ἤν},  805. οὐ ψ ἢ ἱπξ,
+try, ἤν}, False eng
+abs. 805. False eng
+or οὐ False eng
+with ψ False eng
+inf. ἢ False eng
+# 4 41 41 dmiydw [xéw,  xéw,  Exea,  néxuxa,  Kéxu- ἐπιχέω [χέω,  χέω,  ἔχεα,  κέχυκα,  κέχυ-
+ἐπιχέω dmiydw True pp
+[χέω, [xéw, True pp
+χέω, xéw, True pp
+ἔχεα, False na
+κέχυκα, néxuxa, True pp
+κέχυ- False na
+# 5 39 41 pat,  €xvOnv,  pour),  pour on or in. - μαι,  ἐχύθην,  2047},  20:47 ΟΣ ΟΥ 17:. .
+μαι, False eng
+ἐχύθην, €xvOnv, True pp
+pour], 2047}, False eng
+pour 20:47 False eng
+on ΟΣ False eng
+or ΟΥ False eng
+in. 17:. False eng
+- . False na
+# 6 29 33 tmywpéo [xwpéw,  move],  move ἐπιχωρῳω [χωρέωυ, ρ »ιοῦε),  ποῦξ
+ἐπιχωρέω tmywpéo True pp
+χωρέω, False na
+move], ρ False eng
+move »ιοῦε), False eng
+# 7 18 18 against,  advance. αραΐρεί,  αάσαρεέ.
+against, αραΐρεί, False eng
+advance. αάσαρεέ. False eng
+# 8 20 20 érXevorav,  see rdw, ἔπλευσαν,  5.6 πλέω.
+ἔπλευσαν, érXevorav, True form
+see 5.6 False eng
+πλέω. rdw, True pp
+# 9 42 41 drrorxoSopée [ olxodouew,  build a house), ἐποικοδομέω [οἰκοδομέω,  διεῖϊα α λοιδε],
+ἐποικοδομέω drrorxoSopée True pp
+[οἰκοδομέω, [ True pp
+build α False eng
+a λοιδε], False eng
+house], NA False eng
+# 10 27 25 build on,  with él and dat. ὀπῖϊα ορ,  ἢ ἐπί δπὰ ἀδί.
+build ὀπῖϊα False eng
+on, ορ, False eng
+with ἢ False eng
+ἐπί él True lex
+and δπὰ False eng
+dat. ἀδί. False eng
+# 11 41 42 txopar,  Eyouat,  dowduny,  impf. elrdunv ἕπομαι,  ἕψομαι,  ἑσπόμην,  ἱτηρί. εἱπόμην
+ἕπομαι, txopar, True pp
+ἕψομαι, Eyouat, True pp
+ἑσπόμην, dowduny, True pp
+impf. ἱτηρί. False eng
+εἱπόμην elrdunv True pp
+# 12 37 39 [root cer; cogn.,  Lat. sequor,  /o/- [τοοῖ σεπ; οορῃ.,  [.Δῖ. ΒΘΑΌΟΙ,  20 ἐ-
+[root [τοοῖ False eng
+σεπ; False na
+cogn., οορῃ., False na
+Lat. [.Δῖ. False na
+sequor, ΒΘΑΌΟΙ, False na
+fol- 20 False na
+# 13 34 34 low],  follow,  abs. or with dat.; ἦοτυ],  γοίζοτυ,  405. οὐ ψὶ ἀαῖ.;
+low], ἦοτυ], False eng
+follow, γοίζοτυ, False eng
+abs. 405. False eng
+or οὐ False eng
+with ψὶ False eng
+dat.; ἀαῖ.; False eng
+# 14 30 28 accompany,  with ovv and dat.; ἀεοοριῥα"γ,  ψι σύν ρα ἀδί.;
+accompany, ἀεοοριῥα"γ, False eng
+with ψι False eng
+σύν ovv True lex
+and ρα False eng
+dat.; ἀδί.; False eng
+# 15 20 21 pursue,  give chase. 2: γϑές,  σίνε ἐλαξέ.
+pursue, 2: False eng
+give γϑές, False eng
+chase. σίνε False eng
+# 16 40 44 érré [cogn.,  Lat. septem,  seven,  Eng. ἕπτά [οορη.,  [, 3ἱ. δορίθπι,  σευε»,  Ἐπ ρ.
+ἑπτά ἕπτά False na
+[cogn., [οορη., False na
+Lat. [, False na
+septem, 3ἱ. False na
+seven, δορίθπι, False eng
+Eng. σευε», False na
+# 17 35 39 seven; bor.,  Eng. heptarchy,  hep- ΒΘ6Υ͂ΘΩ; Ὀοτ.,  Επρ. ΒοΟρΡίΔΣΟΒΥ,  Β6Ρ-
+seven; ΒΘ6Υ͂ΘΩ; False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+heptarchy, ΒοΟρΡίΔΣΟΒΥ, False eng
+hep- Β6Ρ- False na
+# 18 25 27 tagon],  indecl.,  seven. [Δ 50}1],  ἱπάεε].,  σενέρ.
+tagon], [Δ False na
+indecl., 50}1], False eng
+seven. ἱπάεε]., False eng
+# 19 35 35 érranaiSexa [ér7da Kal Séxa,  seven ἑπτακαίδεκα [ἑπτὰ καὶ δέκα,  Ξἐυέ7:
+ἑπτακαίδεκα érranaiSexa True pp
+[ἑπτὰ [ér7da True form
+καὶ Kal True form
+δέκα, Séxa, True pp
+seven Ξἐυέ7: False eng
+# 20 31 34 and ten],  indecl.,  seventeen. αρα {2211,  ᾿Ἰπ460].,  σευερεζδ7:.
+and αρα False eng
+ten], {2211, False eng
+indecl., ᾿Ἰπ460]., False eng
+seventeen. σευερεζδ7:. False eng
+# 21 42 44 érraxdéovot,  -ai,  -a [érrd],  seven hun- ἑπτακόσιοι,  -αι,  -α [ἑπτά],  τεὐένε ζ167:-
+ἑπτακόσιοι, érraxdéovot, True lex
+-αι, -ai, True pp
+-α -a True pp
+[ἑπτά], [érrd], True lex
+seven τεὐένε False eng
+hun- ζ167:- False na
+# 22 5 5 dred, εἴγε,
+dred, True lex
+# 23 40 38 *Ertafa,  -ns,  Epyaxa,  wife of Syenné- Ἐπύαξα,  -ης,  ἔγαχα,  νἱΐε οἵ ϑγεπηᾶ-
+Ἐπύαξα, *Ertafa, True pp
+-ης, False na
+Epyaxa, ἔγαχα, False na
+wife νἱΐε False eng
+of οἵ False eng
+Syenné- ϑγεπηᾶ- False na
+# 24 22 18 sis,  King of Cilicia, 515,  Κηρ οὗ (Ποῖ.
+sis, 515, False eng
+King Κηρ False na
+of οὗ False eng
+Cilicia, (Ποῖ. False na
+# 26 36 34 Epapar,  epacdijcouat,  hpdoOny [cp. ἔραμαι,  ἐρασθήσομαι,  ἠράσθην τς.
+ἔραμαι, Epapar, True pp
+ἐρασθήσομαι, epacdijcouat, True pp
+ἠράσθην hpdoOny True pp
+[cp. τς. False eng
+# 27 37 38 épdw],  poetic except in aor.,  dove, ἐράω],  φοεῖϊς ἐχοερί ἴῃ δ8ού.,  ἦσυε,
+ἐράω], épdw], True pp
+poetic φοεῖϊς False eng
+except ἐχοερί False eng
+in ἴῃ False eng
+aor., δ8ού., False eng
+love, ἦσυε, False eng
+# 28 29 30 fall in love with,  with gen. γπὶ ἐρπὶ ἔουε τὐὐ τὰ,  ΝΒ ρθη.
+fall γπὶ False eng
+in ἐρπὶ False eng
+love ἔουε False eng
+with, τὐὐ False eng
+with τὰ, False eng
+gen. ΝΒ False eng
+# 29 37 40 &pdw [cp. gpaua],  love,  desire ear- ἐράω [ορ. ἔραμαι},  ἦουε,  ἐεἶεεῖγ6 4α7-
+ἐράω &pdw True pp
+[cp. [ορ. False eng
+ἔραμαι], False na
+love, ἦουε, False eng
+desire ἐεἶεεῖγ6 False eng
+ear- 4α7- False na
+# 30 18 18 nestly,  with gen. ροείζν,  Μιτἢ ρβῃ.
+nestly, ροείζν, False na
+with Μιτἢ False eng
+gen. ρβῃ. False eng
+# 31 41 41 epydfopat,  épydoouat,  elpyacduny,  elp- ἐργάζομαι,  ἐργάσομαι,  εἰργασάμην,  εἴρ-
+ἐργάζομαι, epydfopat, True pp
+ἐργάσομαι, épydoouat, True pp
+εἰργασάμην, elpyacduny, True pp
+εἴρ- False na
+# 32 34 36 yaouat,  elpydoOnv [épyov],  work, γασμαι,  εἰργάσθην [ἔργον],  τυογξ;,
+γασμαι, yaouat, True pp
+εἰργάσθην elpydoOnv True pp
+[ἔργον], [épyov], True pp
+work, τυογξ;, False eng
+# 33 27 28 work or cultivate the soil. «υογᾷ οἵ ἐπ ζναίζε τ 6 501}.
+work «υογᾷ False eng
+or οἵ False eng
+cultivate ἐπ False eng
+the ζναίζε False eng
+soil. τ False eng
+# 34 36 36 épyov,  -ov [root fepy; cogn.,  Eng. ἔργον,  -οὐ [τοοῦ ξεργ; οορῃ.,  Επρ.
+ἔργον, épyov, True pp
+-ου False na
+[root [τοοῦ False eng
+ٌϝεργ; False na
+cogn., οορῃ., False na
+Eng. Επρ. False na
+# 35 37 40 work],  work,  deed,  act,  undertak- ΨΟΙΚΊ,  τοογξ,  αἰεεα,  ἀεί,  τρπαεγίας-
+work], ΨΟΙΚΊ, False eng
+work, τοογξ, False eng
+deed, αἰεεα, False eng
+act, ἀεί, False eng
+undertak- τρπαεγίας- False na
+# 36 38 39 ing; result,  accomplishment,  74a els ζγλσ,  γερηί,  αεεονεέϊδλγεοηξ,  τὰ εἰς
+ing; ζγλσ, False eng
+result, γερηί, False eng
+accomplishment, αεεονεέϊδλγεοηξ, False eng
+τὰ 74a True form
+εἰς False eng
+# 37 37 37 Tov wbdenov Epya,  the military exer- τὸν πόλεμον ἔργα,  114 »ιῖ 147} 6χε7-
+τὸν Tov True form
+πόλεμον wbdenov True pp
+ἔργα, Epya, True form
+the 114 False eng
+military »ιῖ False eng
+exer- 147} False na
+# 38 35 45 cises; py,  by deed,  as opposed to εὖἦδες, ,  ἔργῳ,  ὃν ἐἀξεα, ,  ἃ53 Ορροββά ἴο
+cises; True pp
+ἔργῳ
+by ἔργῳ, False eng
+deed, ὃν False eng
+as ἐἀξεα, False eng
+opposed , False eng
+to ἃ53 False eng
+# 39 5 5 word. ψοτά.
+word. ψοτά. False eng
+# 40 16 16 epet,  see elpw. ἐρεῖ,  5ε6 εἴρω.
+ἐρεῖ, epet, True form
+see 5ε6 False eng
+εἴρω. elpw. True pp
+# 42 42 44 épypla,  -as [Zpnuos],  loneliness,  soli- ἐρημία,  -ἂς [ἔρημος],  ἐρριδέϊγι655,  σοὐῖ-
+ἐρημία, épypla, True lex
+-ας False na
+[ἔρημος], [Zpnuos], True form
+loneliness, ἐρριδέϊγι655, False eng
+soli- σοὐῖ- False na
+# 43 5 5 tude. “616.
+tude. “616. False na
+# 44 45 45 éprnpos,  -7,  -ov and -os,  -ov [bor.,  Eng. ἔρημος,  -ή,  τον Δη( -ος,  τον [Ὀοτ, ,  ΕὩΡ.
+ἔρημος, éprnpos, True form
+-ή, -7, True pp
+-ον True pp
+and Δη( False eng
+-os, -ος, False na
+-ον -ov True pp
+[bor., [Ὀοτ, False eng
+Eng. , False na
+
+# 47 38 38 eremite,  hermit],  lonely,  deserted, ογοιϊίθ,  Βουγη7,  “ργισῖν,  αἰεεογίξα
+eremite, ογοιϊίθ, False eng
+hermit], Βουγη7, False eng
+lonely, “ργισῖν, False eng
+deserted, αἰεεογίξα False eng
+# 48 32 34 uninhabited; in the desert,  76, μρηῃληλαῤἧ δα,  ἐπ ἐῶ ἀἶεεγί,  76,
+uninhabited; μρηῃληλαῤἧ False eng
+in δα, False eng
+the ἐπ False eng
+desert, ἐῶ False eng
+76, ἀἶεεγί, False na
+# 49 35 43 16; abandoned,  unprotected,  unde- Ι6; σαὀαμαρρφαϊ, ,  τ7:2 οἰέείεω,  τερειΐέ-
+16; Ι6; False na
+abandoned, σαὀαμαρρφαϊ, False eng
+unprotected, , False eng
+unde- τ7:2 False na
+# 50 37 41 fended,  deprived of,  without,  with Μηπαάεα,  εἰ» υεα οὐ,  τουΐζέλοτε,  νυῖτἢ
+fended, Μηπαάεα, False eng
+deprived εἰ» False eng
+of, υεα False eng
+without, οὐ, False eng
+with τουΐζέλοτε, False eng
+# 51 34 34 gen.; oraduds Epnyos,  day’s march ὅθ.; σταθμὸς ἔρημος,  ἐαγ᾽» ᾽παγεῖ
+gen.; ὅθ.; False eng
+σταθμὸς oraduds True form
+ἔρημος, Epnyos, True form
+day’s ἐαγ᾽» False na
+march ᾽παγεῖ False eng
+# 52 17 17 through a desert, ζἀγοτερά ὦ (2567.
+through ζἀγοτερά False eng
+a ὦ False eng
+desert, (2567. False eng
+# 53 42 41 épl{w,  fipioa [epis,  strife; bor.,  Eng. ἐρίζω,  ἤρισα [ἔρις,  :ἐγίγξ; Ὅοτ.,  Εηρ.
+ἐρίζω, épl{w, True pp
+ἤρισα fipioa True pp
+[ἔρις, [epis, True lex
+strife; :ἐγίγξ; False eng
+bor., Ὅοτ., False eng
+Eng. Εηρ. False na
+# 54 40 39 eristic],  strive,  vie with,  with dat. ΟΣ 8110],  52γσε,  νἱό τοῖζλ,  ψ ἢ ἀαι.
+eristic], ΟΣ False eng
+strive, 8110], False eng
+vie 52γσε, False eng
+with, νἱό False eng
+with τοῖζλ, False eng
+dat. ψ False eng
+# 55 40 42 éplderos,  -ov [pipos,  kid],  of a kid, ἐρίφειος,  -ον [ἔριφος,  Ζέα ,  οΥ α ἐϊτω,
+ἐρίφειος, éplderos, True lex
+-ον -ov True pp
+[ἔριφος, pipos, True lex
+kid], Ζέα False eng
+of , False eng
+a οΥ False eng
+kid, α False eng
+# 56 6 4 kid's. ξις.
+kid's. ξις. False na
+# 57 40 40 éppynvets,  -éws,  5 [bor.,  Eng. herme- ἑρμηνεύς,  -ἔως,  ὁ [Ὅοτ.,  ΕἸρ. ΒΟΙΠΙΘ-
+ἑρμηνεύς, éppynvets, True lex
+-éws, -ἔως, False na
+ὁ 5 True lex
+[bor., [Ὅοτ., False eng
+Eng. ΕἸρ. False na
+herme- ΒΟΙΠΙΘ- False na
+# 58 23 27 neutics],  zz¢erpreter. ΠΘΌΓ1057,  2, .207227 6267.
+neutics], ΠΘΌΓ1057, False na
+interpreter. 2, False na
+# 59 34 34 é t (pres. not Attic),  épyjoopat, ἔ . (ρτεβ8. ποῖ Ατίῖς),  ἐρήσομαι,
+ἔρομαι False na
+(pres. (ρτεβ8. False eng
+not ποῖ False eng
+Attic), Ατίῖς), False na
+ἐρήσομαι, épyjoopat, True pp
+# 60 37 37 Hnpbunyv [root fep; cogn.,  Lat. ver- ἠρόμην [τοοῖ εξερ; οορῃ.,  [.Δἴ. ν6Γ-
+ἠρόμην Hnpbunyv True pp
+[root [τοοῖ False eng
+ϝερ; εξερ; False na
+cogn., οορῃ., False na
+Lat. [.Δἴ. False na
+ver- ν6Γ- False na
+# 61 37 40 bum,  word,  Eng. word,  verb],  asf, Ὅπυπι,  τυογα,  ΠΡ. ΜψΟΙᾶ,  γΘΓΌ],  ατΆ,
+bum, Ὅπυπι, False eng
+word, τυογα, False eng
+Eng. ΠΡ. False na
+word, ΜψΟΙᾶ, False eng
+verb], γΘΓΌ], False eng
+ask, ατΆ, False na
+# 62 37 39 inquire,  as. or with acc. of person, ἐριφιεῖνέ,  8.05. οὐ ΜῈ δοο. οὗ ρείβοη.
+inquire, ἐριφιεῖνέ, False eng
+abs. 8.05. False eng
+or οὐ False eng
+with ΜῈ False eng
+acc. δοο. False eng
+of οὗ False eng
+person, ρείβοη. False eng
+# 63 20 19 épotivra,  see elpw. ἐροῦντα,  5ες εἴρω.
+ἐροῦντα, épotivra, True form
+see 5ες False eng
+εἴρω. elpw. True pp
+# 64 23 22 épptrrrovy,  see pirrw. ἐρρίπτουν,  8εε ῥίπτω.
+ἐρρίπτουν, épptrrrovy, True form
+see 8εε False eng
+ῥίπτω. pirrw. True pp
+# 65 38 38 éppwpévos,  -7,  -ov,  comp. éppwueré- ἐρρωμένος,  -,  “ον,  ΠΟΙΏΡ. ἐρρωμενέ-
+ἐρρωμένος, éppwpévos, True lex
+-η, -, False na
+-ον, -ov, True pp
+comp. ΠΟΙΏΡ. False eng
+ἐρρωμενέ- False na
+# 66 33 34 orepos [pf. pass. ptc. of pwyriu, στερος [Ῥΐ. Ρ488. Ρίο. οὗ ῥώννῦμι,
+orepos στερος False na
+[pf. [Ῥΐ. False eng
+pass. Ρ488. False eng
+ptc. Ρίο. False na
+of οὗ False eng
+ῥώννυμι, pwyriu, True pp
+# 67 38 40 strengthen],  strong,  resolute. Neut. σίγεγρίλε)11,  δγογιρ,  γεδοίιμέό. Νεαῖ,
+strengthen], σίγεγρίλε)11, False eng
+strong, δγογιρ, False eng
+resolute. γεδοίιμέό. False eng
+Neut. Νεαῖ, False na
+# 68 37 43 as subst.,  vesoluteness,  determina- 85 ϑ8ι:08ῖ.,  γέεοὐτείφ, έ55,  αἷείεγγεῖ:α-
+as 85 False eng
+subst., ϑ8ι:08ῖ., False eng
+resoluteness, γέεοὐτείφ, False na
+determina- έ55, False na
+# 69 5 6 tion. Ζ1072.
+tion. Ζ1072. False na
+# 70 34 35 tpuxw,  Fpita,  poetic,  ward off. ἐρύκω,  ἤρῦξα,  ρΡοείίς,  τυαγα οἵ.
+ἐρύκω, tpuxw, True pp
+ἤρυξα, Fpita, True pp
+poetic, ρΡοείίς, False eng
+ward τυαγα False eng
+off. οἵ. False eng
+# 71 40 41 épupa,  -aros,  76 [cp. épdxw],  protec- ἔρυμα,  -«ατος,  τό [ςρ. ἐρύκω],  2»γἼξέ-
+ἔρυμα, épupa, True lex
+-ατος, -aros, True pp
+τό 76 True form
+[cp. [ςρ. False eng
+ἐρύκω], épdxw], True pp
+protec- 2»γἼξέ- False na
+# 72 22 24 tion,  defense,  wall, Ζογ:,  αἰεγέη56,  τυαδέ,
+tion, Ζογ:, False na
+defense, αἰεγέη56, False eng
+wall, τυαδέ, False eng
+# 73 39 41 épupvés,  -7,  -dy [cp. epuna],  fordi- ἐρυμνός,  -ἥ,  -όν [(ρΡ. ἔρυμα],  , 0γ11-
+ἐρυμνός, épupvés, True lex
+-η, -ἥ, False na
+-όν -dy True pp
+[cp. [(ρΡ. False eng
+ἔρυμα], epuna], True lex
+forti- , False na
+# 74 35 40 fred,  strong. Neut. pl. as subst., , )εά,  εἰγοηῆσ. Νραῖΐ. ΡὈ]. ἃ5 ϑβυβϑῖ.,
+fred, , False eng
+strong. )εά, False eng
+Neut. εἰγοηῆσ. False na
+pl. Νραῖΐ. False eng
+as ΡὈ]. False eng
+subst., ἃ5 False eng
+# 75 12 12 strongholds. σζγοησλοδας.
+strongholds. σζγοησλοδας. False eng
+# 76 38 37 Epxopar,  édevcouat,  HAPov,  €d7jAvOa ἔρχομαι,  ἐλεύσομαι,  ἦλθον,  ἐλήλυθα
+ἔρχομαι, Epxopar, True pp
+ἐλεύσομαι, édevcouat, True pp
+ἦλθον, HAPov, True pp
+ἐλήλυθα €d7jAvOa True form
+# 77 37 36 (the fut. indic. is not Attic; of the (δες ἔαϊ. ᾿Ἰπάϊς,  15 οί Αἰς; οὗ τῃς
+(the (δες False eng
+fut. ἔαϊ. False eng
+indic. ᾿Ἰπάϊς, False eng
+is 15 False eng
+not οί False eng
+Attic; Αἰς; False na
+of οὗ False eng
+the τῃς False eng
+# 78 35 37 pres. stem only the pres. indic. is Ρ͵ΓΕ5. βἴειω ΟἿΪΥ (ἢ6 ῥγθβ. ἱπάϊς. 15
+pres. Ρ͵ΓΕ5. False eng
+stem βἴειω False eng
+only ΟἿΪΥ False eng
+the (ἢ6 False eng
+pres. ῥγθβ. False eng
+indic. ἱπάϊς. False eng
+is 15 False eng
+# 79 35 36 used in Attic prose,  the remaining υϑεά ἴῃ Αἰς ῥσγοόβε,  [πε τεπιδιπλην
+used υϑεά False eng
+in ἴῃ False eng
+Attic Αἰς False na
+prose, ῥσγοόβε, False eng
+the [πε False eng
+remaining τεπιδιπλην False eng
+# 80 36 39 forms of the pres.,  the impf.,  and ἔοτιῃβ οἵ ἴῃς ρῦεβ.,  ἴῃ 8 ἱπηρί.,  δηὰ
+forms ἔοτιῃβ False eng
+of οἵ False eng
+the ἴῃς False eng
+pres., ρῦεβ., False eng
+the ἴῃ False eng
+impf., 8 False eng
+and ἱπηρί., False eng
+# 81 37 38 also the fut. indic.,  being supplied αἶβδο [πε ἔαϊ. ἱπάϊς.,  Ὀεῖηρ βυρρ)ϊεὰ
+also αἶβδο False eng
+the [πε False eng
+fut. ἔαϊ. False eng
+indic., ἱπάϊς., False eng
+being Ὀεῖηρ False eng
+supplied βυρρ)ϊεὰ False eng
+# 82 34 39 by elu,  go),  come,  go; have re- ὉΥ εἶμι,  φ9Ὁ),  «οῖ6,  φρο; ἄασαυε γε-
+by ὉΥ False eng
+εἶμι, elu, True pp
+go), φ9Ὁ), False eng
+come, «οῖ6, False eng
+go; φρο; False eng
+have ἄασαυε False eng
+re- γε- False na
+# 83 10 12 course to, Ζ0147.56 20.
+course Ζ0147.56 False eng
+to, 20. False eng
+# 84 15 15 ép&,  see elpw. ἐρῶ,  5εε εἴρω.
+ἐρῶ, ép&, True lex
+see 5εε False eng
+εἴρω. elpw. True pp
+# 85 19 19 épdvres,  see épdw. ἐρῶντες,  5εε ἐράω.
+ἐρῶντες, épdvres, True pp
+see 5εε False eng
+ἐράω. épdw. True pp
+# 86 38 38 épws,  Epwros,  6 [€payar; bor.,  Eng. ἔρως,  ἔρωτος,  ὁ [ἔραμαι; Ὅοτ.,  Ἑπρ.
+ἔρως, épws, True lex
+ἔρωτος, Epwros, True pp
+ὁ 6 True lex
+[ἔραμαι; [€payar; True pp
+bor., Ὅοτ., False eng
+Eng. Ἑπρ. False na
+# 87 43 44 Eros,  erotic],  /ove,  desire,  eagerness. ΕΤΟΒ,  ΘΥΟἕ]Ο7,  ἦσυε,  οἶἐ5176,  ἐαρ6 7165,
+Eros, ΕΤΟΒ, False na
+erotic], ΘΥΟἕ]Ο7, False eng
+love, ἦσυε, False na
+desire, οἶἐ5176, False eng
+eagerness. ἐαρ6 False eng
+# 88 41 42 épwrdw,  dpwricw,  etc.,  ask,  ingiuire, ἐρωτάω,  ἐρωτήσω,  εἴς.,  αἀτῷ,  ἐγεφιῖνο,
+ἐρωτάω, épwrdw, True pp
+ἐρωτήσω, dpwricw, True pp
+etc., εἴς., False eng
+ask, αἀτῷ, False eng
+inquire, ἐγεφιῖνο, False na
+# 89 34 32 with acc. and dir. or indir. ques- ἢ δος. διὰ αἶτ. οὐ ᾿παἶγ,  αι 5-
+with ἢ False eng
+acc. δος. False eng
+and διὰ False eng
+dir. αἶτ. False eng
+or οὐ False eng
+indir. ᾿παἶγ, False na
+ques- αι False na
+# 90 24 23 tion,  or with two accs, [ἴοπ4,  οὐ ΣΓ ἵνῸ ἃοο5,
+tion, [ἴοπ4, False na
+or οὐ False eng
+with ΣΓ False eng
+two ἵνῸ False eng
+accs, ἃοο5, False na
