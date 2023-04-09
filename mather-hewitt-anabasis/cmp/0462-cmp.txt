@@ -1,11 +1,7 @@
-# 0 3 3 450 450
-450 450 False na
-# 1 2 2 Z. Ζ.
-Z. Ζ. False na
 # 2 40 41 Zararas,  -ov,  Zapacas,  a tributary of Ζαπάτᾶς,  -ου,  Ζαῤάίμας,  ἃ ἰτἱ αΐατγ οὗ
-Zararas, Ζαπάτᾶς, False na
--ov, -ου, False na
-Zapacas, Ζαῤάίμας, False na
+Ζαπάτας, False na
+-ου, False na
+Zapatas, Ζαῤάίμας, False na
 a ἃ False eng
 tributary ἰτἱ False eng
 of αΐατγ False eng
@@ -17,7 +13,7 @@ the ἴῃς False eng
 Great Οτεαὶ False na
 Zab. Ζαῦ. False na
 # 4 43 42 dw,  Show,  live,  be alive,  get a liveli- άω,  ζήσω,  ἐἶνε,  ἐξ αὐΐυέ,  ρεΐ α ὲνεἰὲ-
-άω, dw, True pp
+ζάω, dw, True pp
 ζήσω, Show, True pp
 live, ἐἶνε, False eng
 be ἐξ False eng
@@ -30,17 +26,16 @@ hood, ἀοοα, False eng
 make , False eng
 a »αξζό False eng
 living. α False eng
-- ἐϊνίηρ. False na
 # 6 43 45 Ledyvip,  Cevéw,  Efevéa,  Zfevypai,  efev- ζεύγνυῦμι,  ζεύξω,  ἔζενξα,  ἔζενγμαι,  ἐζεύ-
-ζεύγνυῦμι, Ledyvip, True pp
+ζεύγνυμι, Ledyvip, True pp
 ζεύξω, Cevéw, True pp
-ἔζενξα, Efevéa, True pp
-ἔζενγμαι, Zfevypai, True pp
-efev- ἐζεύ- False na
+ἔζευξα, Efevéa, True pp
+ἔζευγμαι, Zfevypai, True pp
+ἐζεύ- False na
 # 7 34 33 xXOnv and éfvynv [cp. feiyos,  and χθὴν δὰ ἐζύγην [ςΡ. ζεῦγος,  δῃηά
-xXOnv χθὴν False na
+χθην False na
 and δὰ False eng
-éfvynv ἐζύγην False na
+ἐζύγην False na
 [cp. [ςΡ. False eng
 ζεῦγος, feiyos, True lex
 and δῃηά False eng
@@ -53,7 +48,7 @@ iugum, ἰυρππι, False na
 # 9 38 41 yoke,  iungo,  joim,  Eng. yoke; bor., γοξε,  ἰἱαπιρῦ,  7017,  Ἐπιρ. γΟΚΘ; ὈοΥ.,
 yoke, γοξε, False eng
 iungo, ἰἱαπιρῦ, False na
-joim, 7017, False na
+joiν, 7017, False na
 Eng. Ἐπιρ. False na
 yoke; γΟΚΘ; False eng
 bor., ὈοΥ., False eng
@@ -62,14 +57,13 @@ Eng. Επρ. False na
 zeugma Ζθυρπ4], False eng
 ], γοΐξε False na
 yoke ἐορείλ False eng
-dogether, 67, False na
+together, 67, False na
 fasten, 5, False eng
 # 11 30 32 join; butld a bridge; éridge a 7οἦπ,  ὀμῖίαί ἃ Ὀτιάρε; ὀγίαρε ἃ
 join; 7οἦπ, False eng
-butld ὀμῖίαί False na
+build ὀμῖίαί False na
 a ἃ False eng
 bridge; Ὀτιάρε; False eng
-éridge ὀγίαρε False na
 a ἃ False eng
 # 12 25 27 stream,  see on 122,  19. βίγεδῃ),  5686 οἡ 122,  19.
 stream, βίγεδῃ), False eng
@@ -79,7 +73,7 @@ on οἡ False eng
 19. 19. False na
 # 13 39 39 Ledyos,  -ous,  7d [fevyrinc],  yoke of ζεῦγος,  -ους,  τό [ζεύγνυμι],  γοξε οὗ
 ζεῦγος, Ledyos, True lex
--ous, -ους, False na
+-ους, False na
 τό 7d True form
 [ζεύγνυμι], [fevyrinc], True pp
 yoke γοξε False eng
@@ -118,10 +112,10 @@ later Ἰαΐεσ False eng
 identified ἰάἀεηιθο False eng
 with, ἃ False eng
 the ψ False eng
-ἢ, Roman True lem
+Roman True lem
 # 19 31 33 Jupiter. He was worshiped under Τυριίεγ. Ηες ννὰβ νογβῃϊρεά ὑηάεῦ
 Jupiter. Τυριίεγ. False na
-Ηες He True pp
+He True pp
 was ννὰβ False eng
 worshiped νογβῃϊρεά False eng
 under ὑηάεῦ False eng
@@ -138,10 +132,10 @@ from ἔγομι False eng
 danger ἀδῆροῦ False eng
 and δηα False eng
 disaster, αἰϑαβίοσ, False eng
-Bact- βασι- False na
+βασι- False na
 # 22 36 40 devs,  kimg of gods and men,  éénos, λεύς,  δίγερ οἵ σο(β δηά τηθδῃ,  ξένιος,
-devs, λεύς, False eng
-kimg δίγερ False na
+λεύς, False eng
+king δίγερ False na
 of οἵ False eng
 gods σο(β False eng
 and δηά False eng
@@ -161,9 +155,9 @@ Fig. ΕἸρ. False na
 46, 46, False na
 p. Ρ. False eng
 143. 1423. False na
-# 25 40 40 {nrords,  -7,  -dv [fyrbw,  envy,  bor., ζηλωτός,  -ή,  -όν [ζηλόω,  φγῦγ,  Ὅογ.,
+# 25 40 40 {nrords,  -η,  -dv [fyrbw,  envy,  bor., ζηλωτός,  -ή,  -όν [ζηλόω,  φγῦγ,  Ὅογ.,
 ζηλωτός, {nrords, True lex
--ή, -7, True pp
+-ή, -η, True pp
 -όν -dv True pp
 [ζηλόω, [fyrbw, True pp
 envy, φγῦγ, False eng
@@ -171,196 +165,15 @@ bor., Ὅογ., False eng
 # 26 39 41 Eng. zealot],  fo be envied,  object of Εηρ. Ζ6 4101],  “0 δε ἐμυϊεαϊ,  οὐγεεΐ οὗ
 Eng. Εηρ. False na
 zealot], Ζ6 False eng
-fo 4101], False eng
+to 4101], False eng
 be “0 False eng
 envied, δε False eng
 object ἐμυϊεαϊ, False eng
 of οὐγεεΐ False eng
 # 27 5 4 envy. ἔην.
 envy. ἔην. False eng
-# 28 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
-XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΑΝΑΒΑΘΙ5 False na
-# 29 31 35 -.- ,  el... H,  whether... or, ..«.«ἥ,  εἰ... ἤ,  τυλείλεγ. .. ὁ»,
--.- ..«.«ἥ, False na
-εἰ... , True lex
-el... ἤ, False eng
-H, τυλείλεγ. False na
-whether... .. False eng
-or, ὁ», False eng
-# 30 33 41 Lat. uwtrum ...an; in double dir. Τ1, Αῖ. 227} 1272...... ἄρ,  ἴῃ ἀου]6 ἀγ.
-Lat. Τ1, False na
-uwtrum Αῖ. False na
-...an; 227} False eng
-in 1272...... False eng
-double ἄρ, False eng
-dir. ἴῃ False eng
-# 31 36 36 questions wérepoy is not translated; 4υσϑίίοῃβ πότερον 15 ἢοΐ ἰγδῃβίδιεα;
-questions 4υσϑίίοῃβ False eng
-πότερον wérepoy True pp
-is 15 False eng
-not ἢοΐ False eng
-translated; ἰγδῃβίδιεα; False eng
-# 32 35 36 # sometimes introduces a dir. ques- ἤ ϑοτῃβίτηθ5 ἰηἰγοάποαβ ἃ αἶτ. 4865-
-ἤ # True lex
-sometimes ϑοτῃβίτηθ5 False eng
-introduces ἰηἰγοάποαβ False eng
-a ἃ False eng
-dir. αἶτ. False eng
-ques- 4865- False na
-# 33 34 35 tion and is not translated (a hrst (ἰοὴ δηὰ 15 ποῖ ἰγδῃϑίδίε ἃ (4 ἢγβί
-tion (ἰοὴ False na
-and δηὰ False eng
-is 15 False eng
-not ποῖ False eng
-translated ἰγδῃϑίδίε False eng
-(a ἃ False eng
-hrst (4 False na
-# 34 29 33 member of the question may be ἸΩΘΙΏΡοΓ οὗ [ἢε6 αιεδίίοῃ τηδὺ ὃὲ
-member ἸΩΘΙΏΡοΓ False eng
-of οὗ False eng
-the [ἢε6 False eng
-question αιεδίίοῃ False eng
-may τηδὺ False eng
-be ὃὲ False eng
-# 35 33 36 supplied in thought); (2) after a ΒΌΡΡΙ]Π ΕΑ ἴῃ (Πουρσῃῖ); (2) δἴϊεσ ἃ
-supplied ΒΌΡΡΙ]Π False eng
-in ΕΑ False eng
-thought); ἴῃ False eng
-(2) (Πουρσῃῖ); False na
-after (2) False eng
-a δἴϊεσ False eng
-# 36 33 35 comp.,  than,  Lat. guam,  adn 4, σΟΠΡ.,  ἔζαπ,  1δῖ. φηαρε,  ἀλλ᾽ ἤ,
-comp., σΟΠΡ., False eng
-than, ἔζαπ, False eng
-Lat. 1δῖ. False na
-guam, φηαρε, False eng
-adn ἀλλ᾽ False na
-ἤ, 4, True lex
-# 37 7 7 except. ἐχεοΖέ.
-except. ἐχεοΖέ. False eng
-# 38 39 39 7,  intensive adv.,  ¢ruly,  certainly, ἢ,  ἰπιθηβῖνα δᾶν.,  φγμῖν,  εογίαϊηεν,
-ἢ, 7, True lem
-intensive ἰπιθηβῖνα False eng
-adv., δᾶν., False eng
-¢ruly, φγμῖν, False na
-certainly, εογίαϊηεν, False eng
-# 39 32 35 surely; % phy,  on one’s word of σμγεν,  ἢ μήν,  ΟἹ ΟἿ Θ᾽5. τυογα οὗ
-surely; σμγεν, False eng
-ἢ % True lem
-μήν, phy, True lex
-on ΟἹ False eng
-one’s ΟἿ False na
-word Θ᾽5. False eng
-of τυογα False eng
-# 40 6 6 honor. ἄοπογ.
-honor. ἄοπογ. False eng
-# 41 11 13 1 see elul, ἦ,  566 εἰμί.
-ἦ, 1 True lex
-see 566 False eng
-elul, εἰμί. False eng
-# 42 42 45 1 (dat. fem. of 8s,  who],  adv. (sc. 65@, ἢ [ἀαῖ. ἔδπι,  οἵ ὅς,  τυζο],  δᾶν. (86. ὁδῷ,
-ἢ 1 True lem
-(dat. [ἀαῖ. False eng
-fem. ἔδπι, False eng
-of οἵ False eng
-ὅς, 8s, True lex
-who], τυζο], False eng
-adv. δᾶν. False eng
-(sc. (86. False eng
-ὁδῷ, 65@, True form
-# 43 32 36 way),  in what way,  of place or τὐ4}}),  15 τυλαΐ ταν,  οἵ Ῥῖίδος οΥ
-way), τὐ4}}), False eng
-in 15 False eng
-what τυλαΐ False eng
-way, ταν, False eng
-of οἵ False eng
-place Ῥῖίδος False eng
-or οΥ False eng
-# 44 33 36 manner,  Lat. gud (sc. vid,  way, τηϑδῆπετ,  1δῖ. φμᾶ (56. σἱᾶ,  τυαν,
-manner, τηϑδῆπετ, False eng
-Lat. 1δῖ. False na
-gud φμᾶ False eng
-(sc. (56. False eng
-vid, σἱᾶ, False na
-way, τυαν, False eng
-# 45 36 41 manner); where,  how,  as; 3 é5bvaro »ῃα»7267); τυλέγε,  ἄοτυ,  ας,  ἡ ἐδύνατο
-manner); »ῃα»7267); False eng
-where, τυλέγε, False eng
-how, ἄοτυ, False eng
-as; ας, False eng
-ἡ 3 True case
-ἐδύνατο é5bvaro True form
-# 46 38 39 TaxtoTa,  as quickly as he could,  56, τάχιστα,  ας φηῖΐεξέν ας ἦέ εομἠα,  56,
-τάχιστα, TaxtoTa, True form
-as ας False eng
-quickly φηῖΐεξέν False eng
-as ας False eng
-he ἦέ False eng
-could, εομἠα, False eng
-56, 56, False na
-# 47 36 37 33 0 Suvardy wddora,  zo the best of 3; ἡ δυνατὸν μάλιστα,  ἐο 1ἀε ὀεξέ οὗ
-33 3; False na
-ἡ 0 True case
-δυνατὸν Suvardy True form
-μάλιστα, wddora, True lex
-zo ἐο False eng
-the 1ἀε False eng
-best ὀεξέ False eng
-of οὗ False eng
-# 48 21 21 my ability,  67,  14. »» αὐϊέϊέν,  67,  14.
-my »» False eng
-ability, αὐϊέϊέν, False eng
-67, 67, False na
-14. 14. False na
-# 49 38 41 NBaokw [48n,  youth],  be in the prime ἡβάσκω [ἥβη,  γοιωλ],  δε ἦγε ἐᾷε 2» ἐη1ε
-ἡβάσκω NBaokw True pp
-[ἥβη, [48n, True lex
-youth], γοιωλ], False eng
-be δε False eng
-in ἦγε False eng
-the ἐᾷε False eng
-prime 2» False eng
-# 50 36 36 of youth,  reach the age of manhood. οὔ γομζ,  γεαεὰ ἐδε ἀρ οΥ »εαγιλοοί,
-of οὔ False eng
-youth, γομζ, False eng
-reach γεαεὰ False eng
-the ἐδε False eng
-age ἀρ False eng
-of οΥ False eng
-manhood. »εαγιλοοί, False eng
-# 51 16 17 Hyaye,  see Ayu. ἤγαγε,  53εε ἄγω.
-ἤγαγε, Hyaye, True form
-see 53εε False eng
-ἄγω. Ayu. True pp
-# 52 21 20 nyaoGn,  see dyapuat. ἠγάσθη,  56. ἄγαμαι.
-ἠγάσθη, nyaoGn, True form
-see 56. False eng
-ἄγαμαι. dyapuat. True pp
-# 53 35 35 Nyepovla,  -as [ayeuwy; bor.,  Eng. ἡγεμονίᾶ,  -ἂς [ἡγεμών; Ὅοτ.,  ΕὩρ.
-Nyepovla, ἡγεμονίᾶ, False na
--as -ἂς False na
-[ἡγεμών; [ayeuwy; True lex
-bor., Ὅοτ., False eng
-Eng. ΕὩρ. False na
-# 54 34 38 hegemony ],  leadership,  command. ΒΟΦΘΙΠΟΩΥ 1,  ἐξααΐεγεἀΐ,  εογερεαγεα.
-hegemony ΒΟΦΘΙΠΟΩΥ False eng
-], 1, False na
-leadership, ἐξααΐεγεἀΐ, False eng
-command. εογερεαγεα. False eng
-# 55 40 39 Hyepooruva,  -wy,  rd [pyeuwy; sc. lepd, ἡγεμόσυνα,  -ων,  τά [ἡγεμών; 8ς. ἱερά,
-ἡγεμόσυνα, Hyepooruva, True lex
--wy, -ων, False na
-rd τά False eng
-[ἡγεμών; [pyeuwy; True lex
-sc. 8ς. False eng
-ἱερά, lepd, True lex
-# 56 39 37 sacrifices],  thank offerings for guid- σαογίεε5),  λαμᾷ οδεγίρρε 70» ρεεῖαά-
-sacrifices], σαογίεε5), False eng
-thank λαμᾷ False eng
-offerings οδεγίρρε False eng
-for 70» False eng
-guid- ρεεῖαά- False na
+
+
 # 57 14 14 Lav,  see Cdw. ζῆν,  566 ζάω.
 ζῆν, Lav, True form
 see 566 False eng
@@ -453,15 +266,192 @@ questions, φαεβιοηδ, False eng
 πότερον 7é7repov True pp
 (or (οἵ False eng
 πότερα) wérepa) True form
-# 72 8 8 Google | (Θοορσίς
-Google (Θοορσίς False na
-| NA False na
+
+# 29 31 35 -.- ,  el... H,  whether... or, ..«.«ἥ,  εἰ... ἤ,  τυλείλεγ. .. ὁ»,
+... «.«ἥ, False na
+εἰ... , True lex
+ἤ, False eng
+whether... .. False eng
+or, ὁ», False eng
+# 30 33 41 Lat. uwtrum ...an; in double dir. Τ1, Αῖ. 227} 1272...... ἄρ,  ἴῃ ἀου]6 ἀγ.
+Lat. Τ1, False na
+utrum Αῖ. False na
+...an; 227} False eng
+in 1272...... False eng
+double ἄρ, False eng
+dir. ἴῃ False eng
+# 31 36 36 questions wérepoy is not translated; 4υσϑίίοῃβ πότερον 15 ἢοΐ ἰγδῃβίδιεα;
+questions 4υσϑίίοῃβ False eng
+πότερον wérepoy True pp
+is 15 False eng
+not ἢοΐ False eng
+translated; ἰγδῃβίδιεα; False eng
+# 32 35 36 # sometimes introduces a dir. ques- ἤ ϑοτῃβίτηθ5 ἰηἰγοάποαβ ἃ αἶτ. 4865-
+ἤ # True lex
+sometimes ϑοτῃβίτηθ5 False eng
+introduces ἰηἰγοάποαβ False eng
+a ἃ False eng
+dir. αἶτ. False eng
+ques- 4865- False na
+# 33 34 35 tion and is not translated (a hrst (ἰοὴ δηὰ 15 ποῖ ἰγδῃϑίδίε ἃ (4 ἢγβί
+tion (ἰοὴ False na
+and δηὰ False eng
+is 15 False eng
+not ποῖ False eng
+translated ἰγδῃϑίδίε False eng
+(a ἃ False eng
+first (4 False na
+# 34 29 33 member of the question may be ἸΩΘΙΏΡοΓ οὗ [ἢε6 αιεδίίοῃ τηδὺ ὃὲ
+member ἸΩΘΙΏΡοΓ False eng
+of οὗ False eng
+the [ἢε6 False eng
+question αιεδίίοῃ False eng
+may τηδὺ False eng
+be ὃὲ False eng
+# 35 33 36 supplied in thought); (2) after a ΒΌΡΡΙ]Π ΕΑ ἴῃ (Πουρσῃῖ); (2) δἴϊεσ ἃ
+supplied ΒΌΡΡΙ]Π False eng
+in ΕΑ False eng
+thought); ἴῃ False eng
+(2) (Πουρσῃῖ); False na
+after (2) False eng
+a δἴϊεσ False eng
+# 36 33 35 comp.,  than,  Lat. guam,  adn 4, σΟΠΡ.,  ἔζαπ,  1δῖ. φηαρε,  ἀλλ᾽ ἤ,
+comp., σΟΠΡ., False eng
+than, ἔζαπ, False eng
+Lat. 1δῖ. False na
+quam, φηαρε, False eng
+ἀλλ᾽ False na
+ἤ, 4, True lex
+# 37 7 7 except. ἐχεοΖέ.
+except. ἐχεοΖέ. False eng
+# 38 39 39 7,  intensive adv.,  ¢ruly,  certainly, ἢ,  ἰπιθηβῖνα δᾶν.,  φγμῖν,  εογίαϊηεν,
+ἦ, 7, True lem
+intensive ἰπιθηβῖνα False eng
+adv., δᾶν., False eng
+truly, φγμῖν, False na
+certainly, εογίαϊηεν, False eng
+# 39 32 35 surely; % phy,  on one’s word of σμγεν,  ἢ μήν,  ΟἹ ΟἿ Θ᾽5. τυογα οὗ
+surely; σμγεν, False eng
+ἦ % True lem
+μήν, phy, True lex
+on ΟἹ False eng
+one’s ΟἿ False na
+word Θ᾽5. False eng
+of τυογα False eng
+# 40 6 6 honor. ἄοπογ.
+honor. ἄοπογ. False eng
+# 42 42 45 1 (dat. fem. of 8s,  who],  adv. (sc. 65@, ἢ [ἀαῖ. ἔδπι,  οἵ ὅς,  τυζο],  δᾶν. (86. ὁδῷ,
+ᾗ 1 True lem
+(dat. [ἀαῖ. False eng
+fem. ἔδπι, False eng
+of οἵ False eng
+ὅς, 8s, True lex
+who], τυζο], False eng
+adv. δᾶν. False eng
+(sc. (86. False eng
+ὁδῷ, 65@, True form
+# 43 32 36 way),  in what way,  of place or τὐ4}}),  15 τυλαΐ ταν,  οἵ Ῥῖίδος οΥ
+way), τὐ4}}), False eng
+in 15 False eng
+what τυλαΐ False eng
+way, ταν, False eng
+of οἵ False eng
+place Ῥῖίδος False eng
+or οΥ False eng
+# 44 33 36 manner,  Lat. gud (sc. vid,  way, τηϑδῆπετ,  1δῖ. φμᾶ (56. σἱᾶ,  τυαν,
+manner, τηϑδῆπετ, False eng
+Lat. 1δῖ. False na
+quâ φμᾶ False eng
+(sc. (56. False eng
+viâ, σἱᾶ, False na
+way, τυαν, False eng
+# 45 36 41 manner); where,  how,  as; 3 é5bvaro »ῃα»7267); τυλέγε,  ἄοτυ,  ας,  ἡ ἐδύνατο
+manner); »ῃα»7267); False eng
+where, τυλέγε, False eng
+how, ἄοτυ, False eng
+as; ας, False eng
+ᾗ 3 True case
+ἐδύνατο é5bvaro True form
+# 46 38 39 TaxtoTa,  as quickly as he could,  56, τάχιστα,  ας φηῖΐεξέν ας ἦέ εομἠα,  56,
+τάχιστα, TaxtoTa, True form
+as ας False eng
+quickly φηῖΐεξέν False eng
+as ας False eng
+he ἦέ False eng
+could, εομἠα, False eng
+56, 56, False na
+# 47 36 37 33 0 Suvardy wddora,  zo the best of 3; ἡ δυνατὸν μάλιστα,  ἐο 1ἀε ὀεξέ οὗ
+3; False na
+ᾗ 0 True case
+δυνατὸν Suvardy True form
+μάλιστα, wddora, True lex
+to ἐο False eng
+the 1ἀε False eng
+best ὀεξέ False eng
+of οὗ False eng
+# 48 21 21 my ability,  67,  14. »» αὐϊέϊέν,  67,  14.
+my »» False eng
+ability, αὐϊέϊέν, False eng
+67, 67, False na
+14. 14. False na
+# 49 38 41 NBaokw [48n,  youth],  be in the prime ἡβάσκω [ἥβη,  γοιωλ],  δε ἦγε ἐᾷε 2» ἐη1ε
+ἡβάσκω NBaokw True pp
+[ἥβη, [48n, True lex
+youth], γοιωλ], False eng
+be δε False eng
+in ἦγε False eng
+the ἐᾷε False eng
+prime 2» False eng
+# 50 36 36 of youth,  reach the age of manhood. οὔ γομζ,  γεαεὰ ἐδε ἀρ οΥ »εαγιλοοί,
+of οὔ False eng
+youth, γομζ, False eng
+reach γεαεὰ False eng
+the ἐδε False eng
+age ἀρ False eng
+of οΥ False eng
+manhood. »εαγιλοοί, False eng
+
+# 53 35 35 Nyepovla,  -ας [ayeuwy; bor.,  Eng. ἡγεμονίᾶ,  -ας [ἡγεμών; Ὅοτ.,  ΕὩρ.
+ἡγεμονία, False na
+-ας -ας False na
+[ἡγεμών; [ayeuwy; True lex
+bor., Ὅοτ., False eng
+Eng. ΕὩρ. False na
+# 54 34 38 hegemony ],  leadership,  command. ΒΟΦΘΙΠΟΩΥ 1,  ἐξααΐεγεἀΐ,  εογερεαγεα.
+hegemony ΒΟΦΘΙΠΟΩΥ False eng
+], 1, False na
+leadership, ἐξααΐεγεἀΐ, False eng
+command. εογερεαγεα. False eng
+# 55 40 39 Hyepooruva,  -wy,  rd [pyeuwy; sc. lepd, ἡγεμόσυνα,  -ων,  τά [ἡγεμών; 8ς. ἱερά,
+ἡγεμόσυνα, Hyepooruva, True lex
+-ων, False na
+τά False eng
+[ἡγεμών; [pyeuwy; True lex
+sc. 8ς. False eng
+ἱερά, lepd, True lex
+# 56 39 37 sacrifices],  thank offerings for guid- σαογίεε5),  λαμᾷ οδεγίρρε 70» ρεεῖαά-
+sacrifices], σαογίεε5), False eng
+thank λαμᾷ False eng
+offerings οδεγίρρε False eng
+for 70» False eng
+guid- ρεεῖαά- False na
+
+
+
+
+
+
+
+
+
+
+
 # 73 7 11 ance. . Ωἤ :-ς Έ. “
 ance. Ωἤ False na
 . :-ς False na
 # 74 37 38 nyepov,  -dvos,  6 [Hyéoua],  leader, ἡγεμών,  -όνος,  ὁ [ἡγέομαι,  Ζεααἴ6᾽,
 ἡγεμών, nyepov, True lex
--dvos, -όνος, False na
+-όνος, False na
 ὁ 6 True lex
 [ἡγέομαι, [Hyéoua], True pp
 leader, Ζεααἴ6᾽, False eng
@@ -475,7 +465,7 @@ commander, τορι False eng
 ἥγημαι, Hynuat, True pp
 # 77 38 39 -nyhOnv,  dead,  guide,  lead the way, -ηγήθην,  ἐξα,  ρμΐας,  ἐεκαα 2ζ4 τυαν,
 -ηγήθην, -nyhOnv, True pp
-dead, ἐξα, False eng
+lead, ἐξα, False eng
 guide, ρμΐας, False eng
 lead ἐεκαα False eng
 the 2ζ4 False eng
@@ -486,7 +476,7 @@ abs. 05. False eng
 or οὐἨὁἠ False eng
 with ΜΙ False eng
 dat.; ἀαΐϊ.; False eng
-ead, δεαά, False eng
+lead, δεαά, False eng
 # 79 31 37 command,  abs. or with gen.; Td εογφρβαγα,  ΔῸ5. οΥὁἨΎΥ̓ ΜΙ ρσεη.; τὸ
 command, εογφρβαγα, False eng
 abs. ΔῸ5. False eng
@@ -510,12 +500,7 @@ acc. δος. False eng
 and δΔηά False eng
 inf. ἱηΐ, False eng
 Lat. [Αἱ. False na
-décé. αἰπεῦ. False na
-# 83 26 26 qodev,  ySeray,  see olda. ἤδειν,  ἤδεσαν,  5εε οἶδα.
-qodev, ἤδειν, False na
-ySeray, ἤδεσαν, False na
-see 5εε False eng
-οἶδα. olda. True lex
+dûcô. αἰπεῦ. False na
 # 84 41 43 ydéws,  comp. Hdtov,  sup. Hoiora [750s], ἡδέως,  σοτμρ. ἥδιον,  ΞΒ00. ἥδιστα [ἡδύς],
 ἡδέως, ydéws, True form
 comp. σοτμρ. False eng
@@ -528,7 +513,7 @@ adv., δᾶν., False eng
 gladly, ρἰααἶΐν, False eng
 contentedly. εογείοημ False eng
 # 86 40 43 oy,  adv.,  already,  by this time,  ere ἤδη,  δάν.,  αὐγεαάν,  ὧν ζλϊξς ζΖῖητθ,  γε
-oy, ἤδη, False eng
+ἤδη, False eng
 adv., δάν., False eng
 already, αὐγεαάν, False eng
 by ὧν False eng
@@ -537,11 +522,11 @@ time, ζΖῖητθ, False eng
 ere γε False eng
 # 87 39 50 now,  yel; now,  at once,  immediately, ροτῦ,  γοζ,  γοτὺ,  αέ ο71(ἐ,  17, 726 9}16. 262».
 now, ροτῦ, False eng
-yel; γοζ, False na
+yet; γοζ, False na
 now, γοτὺ, False eng
 at αέ False eng
 once, ο71(ἐ, False eng
 immediately, 17, False eng
 # 88 9 10 Lat. zam. 1, Αἴ. αι.
 Lat. 1, False na
-zam. Αἴ. False na
+iam. Αἴ. False na

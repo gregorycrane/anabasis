@@ -1,19 +1,16 @@
-# 0 12 11 VOCABULARY . ΝΟΓΑΒΌΙΑΚΥ.
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ. False na
-. NA False na
 # 1 39 43 evadns,  -es [Stw,  smell; cogn.,  Lat. εὐώδης,  -ες [ὄξζω,  σγεεδ,  σορη.,  [, Δ1.
 εὐώδης, evadns, True lex
 -ες -es True pp
-[ὄξζω, [Stw, True pp
+[ὄζω, [Stw, True pp
 smell; σγεεδ, False eng
 cogn., σορη., False na
 Lat. [, False na
 # 2 39 39 odor,  2 smell],  sweet-smelling,  fra- Οὔογ,  ὦ :ριε),  στυεεί- γε ηιρ,  2 ΄α-
 odor, Οὔογ, False eng
-ὦ 2 True lex
+a 2 True lex
 smell], :ριε), False eng
 sweet-smelling, στυεεί- False na
-γε fra- True lex
+fra- True lex
 # 3 6 4 grant, 7 αη
 grant, 7 False eng
 # 4 39 41 evdvupos,  -oy [Sroua,  name],  of good εὐώνυμος,  -ον [ὄνομα,  "α»16],  οΥ φοοαὶ
@@ -60,19 +57,15 @@ or οὐ False eng
 # 10 37 38 without xépas,  weg),  the left wing. νὶτπουΐ κέρας,  τυ1710),  ὲ ἐγ τυΐγιρ.
 without νὶτπουΐ False eng
 κέρας, xépas, True lex
-weg), τυ1710), False na
+wing), τυ1710), False na
 the ὲ False eng
 left ἐγ False eng
 wing. τυΐγιρ. False eng
 # 11 40 39 ebay a,  edwx Arona,  NUWy nual,  NOW ]- εὐωχέω,  εὐωχήσομαι,  ηὐώχημαι,  ηὐωχή-
 εὐωχέω, ebay True pp
-a, εὐωχήσομαι, False eng
+εὐωχήσομαι, False eng
 ηὐώχημαι, edwx True pp
-Arona, ηὐωχή- False na
-NUWy NA False na
-nual, NA False na
-NOW NA False na
-]- NA False na
+ηὐωχή- False na
 # 12 33 34 Onv [cp. éxw,  have],  entertain, θην [ωΡ. ἔχω,  λαυε)],  ἐμίεγίαϊ»;
 θην Onv True pp
 [cp. [ωΡ. False eng
@@ -82,26 +75,10 @@ entertain, ἐμίεγίαϊ»; False eng
 # 13 13 14 mid.,  feast. ταϊά, ,  2 ας.
 mid., ταϊά, False eng
 feast. , False eng
-# 14 14 15 éd’,  see érl, ἐφ᾽,  5Ξεε ἐπί.
-éd’, ἐφ᾽, False na
-see 5Ξεε False eng
-ἐπί. érl, True lex
-# 15 18 19 Edayoy,  see éclw, ἔφαγον,  5εε ἐσθίω.
-ἔφαγον, Edayoy, True pp
-see 5εε False eng
-ἐσθίω. éclw, True pp
-# 16 20 19 éEdadvn,  see palvw. ἐφάνη,  5Ξεε φαίνω,
-ἐφάνη, éEdadvn, True form
-see 5Ξεε False eng
-φαίνω, palvw. True pp
-# 17 18 18 épacay,  see pyul. ἔφασαν,  5εε φημί.
-ἔφασαν, épacay, True form
-see 5εε False eng
-φημί. pyul. True lex
 # 18 42 45 EdeSpos,  -ov [E5pa,  seat],  a fresh con- ἔφεδρος,  -ου [ἕδρᾶ,  τεαΖ),  α 2,  ἐεἦ εο»:-
 ἔφεδρος, EdeSpos, True lex
--ov -ου False na
-[E5pa, [ἕδρᾶ, False na
+-ου False na
+[ἕδρᾶ, False na
 seat], τεαΖ), False eng
 a α False eng
 fresh 2, False eng
@@ -125,8 +102,7 @@ contest, οοπίοϑβί, False eng
 and δηῃά False eng
 # 21 38 40 ‘sits by, ’ ready to take the standing “5115 Ὀγ, ᾽ γεδαγὺ ἴο ἴαϊκαε [ἢ βίαπάϊηρ
 ‘sits “5115 False na
-by, Ὀγ, False eng
-’ ᾽ False na
+by,' Ὀγ, False eng
 ready γεδαγὺ False eng
 to ἴο False eng
 take ἴαϊκαε False eng
@@ -139,9 +115,9 @@ man, ΤΏΔΗ. False eng
 [ἔπομαι, [eropuat, True pp
 follow], γοἠζοτυ], False eng
 follow γολζοτυ False eng
-αἴ af- True lex
+af- True lex
 # 24 13 19 ler,  pursue. 767,  147,  51:“42.
-ler, 767, False eng
+ter, 767, False eng
 pursue. 147, False eng
 # 25 37 36 *Edeoos,  -ov,  7,  Ephesus,  a Greek Ἔφεσος,  -ουὐ,  ἡ,  ΕὝδεμς,  ἃ Οτεεκ
 Ἔφεσος, *Edeoos, True lex
@@ -164,29 +140,27 @@ famous ίᾳταουϑβ False eng
 temple ἴϑπλρὶς False eng
 of οὗ False eng
 Artémis Ατἰδτηϊβ False na
-(Diina; ([)1ᾶπᾶ; False na
+(Diana; ([)1ᾶπᾶ; False na
 # 28 21 21 see Acts 19. 24 ff.). 8566 “εἷς 19. 24 [.).
 see 8566 False eng
 Acts “εἷς False na
 19. 19. False na
 24 24 False na
 ff.). [.). False eng
-# 29 16 15 edn,  see pyyul. ἔφη,  Ξεε φημί.
-ἔφη, edn, True form
-see Ξεε False eng
-φημί. pyyul. True lex
+
 # 30 40 44 Elorype [lornut,  cause to stand,  set), ἐφίστημι [!ἴστημι,  εατέ56 10 Ξἰαγια,  567],
 ἐφίστημι Elorype True pp
-[!ἴστημι, [lornut, True pp
+[ἴστημι, [lornut, True pp
 cause εατέ56 False eng
 to 10 False eng
 stand, Ξἰαγια, False eng
-set), 567], False eng
+set], 567], False eng
 # 31 35 36 cause to halt,  haltanarmy; pull up κατ56 ἕο λαϊί,  λα,  δῇ ἀζτὴν; 21 πῤ
 cause κατ56 False eng
 to ἕο False eng
 halt, λαϊί, False eng
-λα, haltanarmy; True lex
+an
+army; True lex
 pull δῇ False eng
 up ἀζτὴν; False eng
 # 32 35 38 a horse; set over,  put tn command; ἃ Ποῖβ6; 5ε7 οὐδ,  2: 121 κογι7ηαγιεἷ;
@@ -195,7 +169,7 @@ horse; Ποῖβ6; False eng
 set 5ε7 False eng
 over, οὐδ, False eng
 put 2: False eng
-tn 121 False eng
+in 121 False eng
 command; κογι7ηαγιεἷ; False eng
 # 33 43 39 intr.,  in mid. and 2 aor.,  pf.,  plupf, , 1ηΓ.,  ἴῃ τά,  ἀπά 2 δοζ.,  ρί, ,  ρυρ΄
 intr., 1ηΓ., False eng
@@ -214,7 +188,7 @@ and , False eng
 2 ἃπά False na
 plupf. 2 False eng
 act., ρ]υρί. False eng
-δεῖ., Zalt, True lex
+halt, True lex
 take ἀσί, False eng
 a ἑαβέ False eng
 # 35 28 28 position; be set in,  be in. 2οε ἕο»,  δ βοΐ γε,  δέ 171.
@@ -226,7 +200,7 @@ be γε, False eng
 in. δέ False eng
 # 36 40 41 Edodos,  -ov,  } [b56s,  road],  way to, ἔφοδος,  -ου,  ἡ [ὁδός,  γοαα]7,  τα» {ο,
 ἔφοδος, Edodos, True pp
--ov, -ου, False na
+-ου, False na
 ἡ } True case
 [ὁδός, [b56s, True lex
 road], γοαα]7, False eng
@@ -242,9 +216,9 @@ see], 566], False eng
 look ζροξ False eng
 on, ο᾽1, False eng
 witness. τυΐζρ6ς. False eng
-# 39 40 41 éopos,  -ov [dpdw,  see],  overseer,  at ἔφορος,  -οὐ [ὁράω,  566],  οὐεγ56έ;,  αἵ
+# 39 40 41 éopos,  -ov [dpdw,  see],  overseer,  at ἔφορος,  -ου [ὁράω,  566],  οὐεγ56έ;,  αἵ
 ἔφορος, éopos, True lex
--ov -οὐ False na
+-ου False na
 [ὁράω, [dpdw, True pp
 see], 566], False eng
 overseer, οὐεγ56έ;, False eng
@@ -274,21 +248,11 @@ controlling σοπίγο! False eng
 even ἔνθ False eng
 the {πε False eng
 kings. Κίηρϑ. False eng
-# 44 19 19 Edvyov,  see Pevyw. ἔφυγον,  5εε φεύγω.
-ἔφυγον, Edvyov, True pp
-see 5εε False eng
-φεύγω. Pevyw. True pp
-# 45 13 15 ANABASIS — 29 ΑΝΑΒΑΘΙ5 τος 29
-ANABASIS ΑΝΑΒΑΘΙ5 False na
-τος — True pp
-29 29 False na
-# 46 6 7 Google (οορσίς
-Google (οορσίς False na
-# 47 3 3 449 449
-449 449 False na
-# 48 34 34 €x9pa,  -as [fem. of éx6pds,  with ἔχθρᾶ,  -ἂς [(6π|. οὗ ἐχθρός,  νἸῃ
-€x9pa, ἔχθρᾶ, False na
--as -ἂς False na
+
+
+# 48 34 34 €x9pa,  -ας [fem. of éx6pds,  with ἔχθρᾶ,  -ας [(6π|. οὗ ἐχθρός,  νἸῃ
+ἔχθρα, False na
+-ας False na
 [fem. [(6π|. False eng
 of οὗ False eng
 ἐχθρός, éx6pds, True lex
@@ -296,15 +260,14 @@ with νἸῃ False eng
 # 49 35 33 changed accent ],  Aa¢red,  enmity. οῆδηρεά δοοεηῖ],  ἀαδγεω,  δ)» ν.
 changed οῆδηρεά False eng
 accent δοοεηῖ], False eng
-ἀαδγεω, ], True pp
-Aa¢red, δ)» False na
+ἀαδγεω], ], True pp
 enmity. ν. False eng
 # 50 40 40 éxOpés,  -d,  -6» [2x0w,  hale],  hated, ἐχθρός,  -ά,  -ὁν [ἔχθω,  ἀκ!6},  ἠαϊεω,
 ἐχθρός, éxOpés, True lex
--d, -ά, False na
--6» -ὁν False na
+-ά, False na
+-ὁν False na
 [ἔχθω, [2x0w, True pp
-hale], ἀκ!6}, False eng
+hate], ἀκ!6}, False eng
 hated, ἠαϊεω, False eng
 # 51 35 35 hateful,  hostile. Masc. as subst., ἀαϊεεί,  λοοίϊέθ,  αβο. δ5 βυβϑβί.,
 hateful, ἀαϊεεί, False eng
@@ -325,15 +288,14 @@ sup. 50}. False eng
 of οἱ False eng
 ἐκείνου éxelvou True form
 # 54 32 33 Ex Goro,  his bitterest enemies. ἔχθιστοι,  ἀϊς ὀϊηεγεε 616 71165.
-Ex ἔχθιστοι, False na
-Goro, ἀϊς False na
+ἔχθιστοι, False na
 his ὀϊηεγεε False eng
 bitterest 616 False eng
 enemies. 71165. False eng
 # 55 43 43 éxupds,  -4,  -dv [Exw,  hold],  capable of ἐχυρός,  -ά,  -ὁν [ἔχω,  ἀοέα],  «αῤαῤῥε οἵ
 ἐχυρός, éxupds, True lex
--4, -ά, False na
--dv -ὁν False na
+-ά, False na
+-όν False na
 [ἔχω, [Exw, True pp
 hold], ἀοέα], False eng
 capable «αῤαῤῥε False eng
@@ -354,8 +316,7 @@ and ἀῃηή False eng
 ἔσχον, ~rxov, True pp
 ἔσχηκα, Eoxnka, True pp
 # 59 17 17 -Eox nuat,  have. -«ἐσχημαι,  λανε.
--«ἐσχημαι, -Eox True pp
-nuat, λανε. False na
+-έσχημαι, -Eox True pp
 have. NA False eng
 # 60 30 30 Idiomatic uses: hold,  occupy, Ιαϊοτηδίῖς υ865: ἀοῤώ,  οεζμγ,
 Idiomatic Ιαϊοτηδίῖς False na
@@ -396,15 +357,15 @@ is ἰ5 False eng
 often οἴζεη False eng
 best Ὀεβῖ False eng
 rendered τεηογεα False eng
-wth, τοΐδὰ, False na
+wιth, τοΐδὰ, False na
 intr. , False eng
-éxw ᾿μπίτ. False na
+ἔχω ᾿μπίτ. False na
 # 66 35 35 with an adv. means de,  and is com- ψΊ δὴ δάν. τηθδηβ ὧδ,  Δη ἃ 8 σοσὴ-
 with ψΊ False eng
 an δὴ False eng
 adv. δάν. False eng
 means τηθδηβ False eng
-de, ὧδ, False eng
+be, ὧδ, False eng
 and Δη False eng
 is ἃ False eng
 com- 8 False na
@@ -427,8 +388,9 @@ as ἃ5 False eng
 be ὁφ False eng
 well τυοίἑ False eng
 disposed, αἱςῥοςεα, False eng
-kards , False na
-καλῶς Exeav, True form
+towards , False na
+καλῶς
+ἔχειν Exeav, True form
 # 70 37 36 be well,  be well settled or properly ὧε τυοίἑ,  ὧφ τυεέ φτοὐεξαὶ οὐ 2» έν
 be ὧε False eng
 well, τυοίἑ, False eng
@@ -440,7 +402,7 @@ properly 2» False eng
 # 71 37 35 attended to,  ywep elxov,  where they αἰραρα ζο,  ἧπερ εἶχον,  τοὔεγε δεν
 attended αἰραρα False eng
 to, ζο, False eng
-ywep ἧπερ False na
+ᾖπερ False na
 εἶχον, elxov, True pp
 where τοὔεγε False eng
 they δεν False eng
@@ -453,7 +415,7 @@ the {ἦε False eng
 worst τοογεί False eng
 of οὗ False eng
 # 73 39 42 if,  Evdnrov TovTo elxer,  he made this 24,  ἔνδηλον τοῦτο εἶχεν,  ἀξ γ»ιααΐξ {ἀῖς
-if, 24, False eng
+it, 24, False eng
 ἔνδηλον Evdnrov True pp
 τοῦτο TovTo True form
 εἶχεν, elxer, True form
@@ -479,7 +441,7 @@ have λατο False eng
 carried εαγγ]εα False eng
 off οὗ False eng
 and απο False eng
-οἴ sttll True lex
+still True lex
 have. ἤσσεο. False eng
 # 77 33 32 Mid.,  hold on to,  come next to; Μιά.,  ἀοαῖ ογι ο,  κοι μποχέ ο;
 Mid., Μιά., False na
@@ -494,11 +456,10 @@ ptc. Ρΐῖς. False na
 ἐχόμενος, éxduevos, True form
 vext. "6 False eng
 Pass., χί. False na
-év Ῥάα55., False na
-ἐν dvdyxy True lex
+ἐν 
+ἀνάγκῃ True lex
 # 79 33 34 Exec Oar,  be bound by necessity. ἔχεσθαι,  ὧξ ὀοτεγε ὧν γ»εεόσετέν,
 ἔχεσθαι, Exec True form
-Oar, ὧξ False na
 be ὀοτεγε False eng
 bound ὧν False eng
 by γ»εεόσετέν, False eng
@@ -513,15 +474,11 @@ made »ιααΐς False eng
 by ὧν False eng
 # 81 8 8 boiling. ὀοτ  γρ.
 boiling. ὀοτ False eng
-# 82 19 21 tomar,  see Erouac. ἕψομαι,  5Ξεε ἕπομαι.
-ἕψομαι, tomar, True pp
-see 5Ξεε False eng
-ἕπομαι. Erouac. True pp
 # 83 26 27 thw,  eviow,  inoa,  bo2l. ἕψω,  ἐψήσω,  ἥψησα,  ῥοϊ).
 ἕψω, thw, True pp
 ἐψήσω, eviow, True pp
 ἥψησα, inoa, True pp
-bo2l. ῥοϊ). False na
+boil. ῥοϊ). False na
 # 84 38 44 tw0ev [Ews,  dawn],  adv.,  from dawn, ἕωθεν [ἕως,  αἰατο)1},  δὰν.,  2, ὁ»Ἐ αἰστυ,
 ἕωθεν tw0ev True lex
 [ἕως, [Ews, True lex
@@ -533,24 +490,14 @@ dawn, ὁ»Ἐ False eng
 at αἰ False eng
 dawn, αἶατυ. False eng
 # 86 18 20 éwxerav,  see oka. ἐῴκεσαν,  5εε ἔοικα.
-ἐῴκεσαν, éwxerav, True form
-see 5εε False eng
-oka. ἔοικα. False eng
-# 87 34 33 émpa,  édpTika,  édpwv,  see dpdu, ἑώρα,  ἑώρᾶκα,  ἑώρων,  5εε ὁράω.
-ἑώρα, émpa, True form
-ἑώρᾶκα, édpTika, True pp
-ἑώρων, édpwv, True form
-see 5εε False eng
-ὁράω. dpdu, True pp
 # 88 44 44 tws,  fw,  acc. fw,  dawn; mpods tw,  fo the ἕως,  ἕω,  δος. ἕω,  “ατῦ»,  πρὸς ἕω,  Το 1.
 ἕως, tws, True lex
-fw, ἕω, False eng
-acc. δος. False eng
-fw, ἕω, False eng
+ἕω, False eng
+acc. ἕω. False eng
 dawn; “ατῦ», False eng
 πρὸς mpods True form
 ἕω, tw, True pp
-fo Το False eng
+to Το False eng
 the 1. False eng
 # 89 5 3 east, ας,
 east, ας, False eng
@@ -565,7 +512,7 @@ as, ἐογρ' False eng
 with α5, False eng
 # 91 31 34 indic.,  dv and subj.,  or opt. Ἰπάϊς, ,  ἄν ἀπά 50}}}.,  ΟΥ̓ ορῖ.
 indic., Ἰπάϊς, False eng
-dv , False na
+ἄν , False na
 and ἄν False eng
 subj., ἀπά False eng
 or 50}}}., False eng

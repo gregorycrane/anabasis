@@ -168,9 +168,9 @@ gutetly, φιῖείζν, False na
 # 28 11 13 ti silence. 71: οἵ ἐδγεό.
 ti 71: False eng
 silence. οἵ False eng
-# 29 42 42 Hovxla,  -as [Hovxos,  still],  stillness, ἡσυχία,  -ἂς [ ἥσυχος,  “{{77,  οὐ έγι655,
+# 29 42 42 Hovxla,  -ας [Hovxos,  still],  stillness, ἡσυχία,  -ας [ ἥσυχος,  “{{77,  οὐ έγι655,
 ἡσυχία, Hovxla, True lex
--as -ἂς False na
+-ας -ας False na
 [Hovxos, [ False na
 still], ἥσυχος, False eng
 stillness, “{{77, False eng

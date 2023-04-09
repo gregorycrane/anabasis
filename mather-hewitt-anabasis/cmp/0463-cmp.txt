@@ -5,10 +5,10 @@ VOCABULARY ΝΟΓΑΒΌΙΑΚΝΥ False na
 ἡσθήσομαι, Fob4oouar, True pp
 ἤσθην foOnv True pp
 [root [τοοὶ False eng
-4d, ἁδ, False na
+ἁδ, False na
 # 2 36 39 originally fad; cogn.,  Lat. suavis, ΟΥ̓ΡΊΠΔΙΥ σραδ; σορῃ.,  [, Ἃϊ. ϑυᾶν 18,
 originally ΟΥ̓ΡΊΠΔΙΥ False eng
-fad; σραδ; False eng
+σϝαδ; σραδ; False eng
 cogn., σορῃ., False na
 Lat. [, False na
 suavis, Ἃϊ. False na
@@ -33,7 +33,7 @@ see 566 False eng
 ᾷδω. gow. True pp
 # 6 39 38 ndovh,  -7s [#5oua:; bor.,  Eng. hedon- ἡδονή,  -ς [ἤδομαι; Ὀοτ.,  Επρ. Βοάοῃ-
 ἡδονή, ndovh, True lex
--7s -ς False na
+-ῆς False na
 [ἤδομαι; [#5oua:; True pp
 bor., Ὀοτ., False eng
 Eng. Επρ. False na
@@ -44,29 +44,18 @@ pleasure, 2ίσαξ, False eng
 enjoyment, 7 False eng
 flavor. 6, False eng
 # 8 46 46 HDdvs,  -eta,  -v,  comp. 7diwy,  sup. HourTos ἢδύς,  -εἴα,  -ύ,  σοπηρ. ἡδίων,  500. ἥδιστος
-HDdvs, ἢδύς, False na
--eta, -εἴα, False na
--v, -ύ, False na
+ἡδύς, False na
+-εῖα, False na
+-ύ, False na
 comp. σοπηρ. False eng
 ἡδίων, 7diwy, True form
 sup. 500. False eng
 ἥδιστος HourTos True pp
 # 9 30 32 [Hdouac],  seveet,  delicious. [ἥδομαι],  Ξτυεεί,  ἐἰεἰλεῖοτεδ.
 [ἥδομαι], [Hdouac], True pp
-seveet, Ξτυεεί, False na
+sweet, Ξτυεεί, False na
 delicious. ἐἰεἰλεῖοτεδ. False eng
-# 10 20 20 TkaLov,  see elkdtw. ἤκαζον,  5εε εἰκάζω,
-ἤκαζον, TkaLov, True pp
-see 5εε False eng
-εἰκάζω, elkdtw. True pp
-# 11 16 16 TIKav,  see Inu. ἧκαν,  866 Ὦημι.
-ἧκαν, TIKav, True form
-see 866 False eng
-Ὦημι. Inu. True pp
-# 12 19 19 Hkurra,  see Frrov. ἥκιστα,  566 ἧττον.
-ἥκιστα, Hkurra, True form
-see 566 False eng
-ἧττον. Frrov. True pp
+
 # 13 35 37 Hxw,  Héw (the pres. indic. has pf. ἥκω,  ἤξω (1ἴῃε ρταβ.. ἱπάϊς. δὰ5. ρὲ
 ἥκω, Hxw, True pp
 ἤξω Héw True pp
@@ -119,15 +108,11 @@ arrive; αγγῖίνε, False eng
 # 20 10 10 come back. κοῦ! ὀαεξ.
 come κοῦ! False eng
 back. ὀαεξ. False eng
-# 21 19 19 NAace,  see éAavvw. ἤλασε,  5εε ἐλαύνω.
-ἤλασε, NAace, True form
-see 5εε False eng
-ἐλαύνω. éAavvw. True pp
-# 22 38 43 "Helos,  -ov ["Hds,  Zkis],  Eléan,  a ᾿Ηλεῖος,  -οὐ [Ἦλις,  ΖΦ 12],  ΤΕ Ἴξα»:,  ἃ
-"Helos, ᾿Ηλεῖος, False na
--ov -οὐ False na
+# 22 38 43 "Helos,  -ov ["Hds,  Zkis],  Eléan,  a ᾿Ηλεῖος,  -ου [Ἦλις,  ΖΦ 12],  ΤΕ Ἴξα»:,  ἃ
+Ἠλεῖος, False na
+-ου False na
 [Ἦλις, ["Hds, True lex
-Zkis], ΖΦ False na
+Elis], ΖΦ False na
 Eléan, 12], False na
 a ΤΕ False eng
 # 23 37 38 native of Elis,  a state in the west- ηδίϊνε οὗ ΕἸ15,  ἃ βίαϊες ἰὴ [6 ννοϑῖ-
@@ -217,9 +202,9 @@ Neut. Νεαῖ. False na
 as 85 False eng
 subst., βιρϑῖ., False eng
 folly. ρῶν. False eng
-# 36 37 40 Ack,  -as [AAlxos,  as old as],  time ἡλικία,  -ἂς [ἡλίκος,  ας οἱ 45},  “ἐρ1ὸ
+# 36 37 40 Ack,  -ας [AAlxos,  as old as],  time ἡλικία,  -ας [ἡλίκος,  ας οἱ 45},  “ἐρ1ὸ
 ἡλικία, Ack, True lex
--as -ἂς False na
+-ας -ας False na
 [ἡλίκος, [AAlxos, True lex
 as ας False eng
 old οἱ False eng
@@ -252,9 +237,9 @@ egual ἐφπαΐ False na
 tn 29, False eng
 age, ἄρέ, False eng
 comrade, “0797 False eng
-# 41 36 37 jAvos,  -ov [bor.,  Eng. heliotrope, ἥλιος,  -οὐ [Ῥοτ.,  Επρ,  Βεο]οίτορο,
+# 41 36 37 jAvos,  -ov [bor.,  Eng. heliotrope, ἥλιος,  -ου [Ῥοτ.,  Επρ,  Βεο]οίτορο,
 ἥλιος, jAvos, True lex
--ov -οὐ False na
+-ov -ου False na
 [bor., [Ῥοτ., False eng
 Eng. Επρ, False na
 heliotrope, Βεο]οίτορο, False eng
@@ -317,9 +302,9 @@ careless), (47 False eng
 adv., εἶσ::], False eng
 # 53 11 11 carelessly, «αγεέρεςίν.
 carelessly, «αγεέρεςίν. False eng
-# 54 36 37 npépa,  -as (bor.,  Eng. ephemeral], ἡμέρα,  -ἂς [Ῥοτ.,  Επρ. ΘΡΒΘΠΊΘΙΔΙ],
+# 54 36 37 npépa,  -ας (bor.,  Eng. ephemeral], ἡμέρα,  -ας [Ῥοτ.,  Επρ. ΘΡΒΘΠΊΘΙΔΙ],
 ἡμέρα, npépa, True lex
--as -ἂς False na
+-ας -ας False na
 (bor., [Ῥοτ., False eng
 Eng. Επρ. False na
 ephemeral], ΘΡΒΘΠΊΘΙΔΙ], False eng
@@ -386,9 +371,9 @@ Tprdapercdy, ἡμιδᾶρεικόν, False na
 # 66 11 11 half daric, ἀαζ' ἐαγῖε.
 half ἀαζ' False eng
 daric, ἐαγῖε. False eng
-# 67 42 41 Hprdefs,  -és [déw,  lack],  lacking half, ἡμιδεής,  -ἐς [δέω,  ἰαεξ],  ἐπεξίντιρ λα
+# 67 42 43 Hprdefs,  -és [déw,  lack],  lacking half, ἡμιδεής,  -ές,  [δέω,  ἰαεξ],  ἐπεξίντιρ λα
 ἡμιδεής, Hprdefs, True lex
--és -ἐς False na
+-ές, -és True pp
 [δέω, [déw, True pp
 lack], ἰαεξ], False eng
 lacking ἐπεξίντιρ False eng
@@ -531,7 +516,7 @@ Fig. ΕἸρ. False na
 33, 33, False na
 p. Ρ. False eng
 92. 92. False na
-# 91 23 23 -08 =[Sapexés,  daric], -οὐ [δᾶρεικός,  «αγἹεῖ,
--08 -οὐ False na
+# 91 23 23 -08 =[Sapexés,  daric], -ου [δᾶρεικός,  «αγἹεῖ,
+-08 -ου False na
 =[Sapexés, [δᾶρεικός, False na
 daric], «αγἹεῖ, False eng
