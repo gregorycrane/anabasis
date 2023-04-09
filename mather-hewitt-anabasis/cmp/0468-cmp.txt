@@ -1,0 +1,562 @@
+# 0 3 3 456 450
+456 450 False na
+# 1 32 34 pny [ffouar sit,  from root aed; μὴν [ἔζομαι,  τ“,  ἰτοπὶ τοοῖ σεδ;
+μὴν pny True form
+[ἔζομαι, [ffouar True pp
+sit, τ“, False eng
+from ἰτοπὶ False eng
+root τοοῖ False eng
+aed; σεδ; False na
+# 2 44 45 cogn, ,  Lat. seded,  sz/,  Eng. sit,  set], εὐρη.,  1, Δἵ,  8βο4θ6,  ::2. Εηρ. 81,  86{],
+cogn, εὐρη., False na
+, 1, False na
+Lat. Δἵ, False na
+seded, 8βο4θ6, False na
+sz/, ::2. False na
+Eng. Εηρ. False na
+sit, 81, False eng
+set], 86{], False eng
+# 3 30 31 sitdown; encamp,  Lat. consid, “ὦ ἄρτομ ,  ἐπε. Ἰκαὶ. εὐπριυῦ,
+sitdown; “ὦ False na
+encamp, ἄρτομ False eng
+Lat. , False na
+consid, ἐπε. False na
+# 4 26 28 xabaorhKa,  sce Kavior nu. καθειστήκει,  5ες καθίστημι.
+καθειστήκει, xabaorhKa, True form
+5ες sce True pp
+καθίστημι. Kavior True pp
+nu. NA False eng
+# 5 36 38 xabevSw,  xatevdnow,  impf. xadnidoy καθεύδω,  καθευδήσω,  ἱπιμρί. καθηῦδον
+καθεύδω, xabevSw, True pp
+καθευδήσω, xatevdnow, True pp
+impf. ἱπιμρί. False eng
+καθηῦδον xadnidoy True pp
+# 6 30 30 éxdtevdoy [evdw,  sleep],  lie ἐκάθευδον [εὔδω,  :{ε.}},  ἤΐέ
+ἐκάθευδον éxdtevdoy True pp
+[εὔδω, [evdw, True pp
+sleep], :{ε.}}, False eng
+lie ἤΐέ False eng
+# 7 36 38 down to sleep,  sleep,  be tnactive. εἰὐτομ 10 «ἰδοῦ,  σἰέορ,  δέ τι οὐ1τ6.
+down εἰὐτομ False eng
+to 10 False eng
+sleep, «ἰδοῦ, False eng
+sleep, σἰέορ, False eng
+be δέ False eng
+τι tnactive. True form
+# 8 35 35 xaOySurallw,  xadndurdbnca [ nduma- καθηδνπαθέω,  καθηδυπάθησα [ ἡδυπα-
+καθηδνπαθέω, xaOySurallw, True pp
+καθηδυπάθησα xadndurdbnca True pp
+[ [ False na
+nduma- ἡδυπα- False na
+# 9 41 42 Oéw (ndus,  stecet,  WaUOS,  experience), θέω ( ἡδύς,  «τοεεί,  πάθος,  κα 6» 1616),
+θέω Oéw True pp
+(ndus, ( False na
+ἡδύς, stecet, True lex
+WaUOS, «τοεεί, False na
+experience), πάθος, False eng
+# 10 37 35 enjoy oneself ],  squander in luxury. ἐ»7ὺ»} ομοοεί },  φαμεν τη ἐπ 147}.
+enjoy ἐ»7ὺ»} False eng
+oneself ομοοεί False eng
+], }, False na
+squander φαμεν False eng
+in τη False eng
+luxury. ἐπ False eng
+# 11 37 41 KabhKw [ijxw,  be come,  come],  come καθήκω [ἥκω,  ὁξ κ0»)186,  φο)16},  ζΟ)1δ
+καθήκω KabhKw True pp
+[ἥκω, [ijxw, True pp
+be ὁξ False eng
+come, κ0»)186, False eng
+come], φο)16}, False eng
+come ζΟ)1δ False eng
+# 12 37 40 down,  reach down s impers. KadynKet, ἄὐτορ,  γοαοἦ ἀὐτον ,  ἐπιροῖβ. καθήκει,
+down, ἄὐτορ, False eng
+reach γοαοἦ False eng
+down ἀὐτον False eng
+s , False eng
+impers. ἐπιροῖβ. False eng
+καθήκει, KadynKet, True form
+# 13 39 36 ts the duty of,  is incumbent on,  with ἐς ἀε μέν οὐ,  ἰς ἐπαιωμόεμ ὁ»,  ΜΊΉ
+ts ἐς False eng
+the ἀε False eng
+duty μέν False eng
+of, οὐ, False eng
+is ἰς False eng
+incumbent ἐπαιωμόεμ False eng
+on, ὁ», False eng
+with ΜΊΉ False eng
+# 14 4 5 dat. (ἰαῖ.
+dat. (ἰαῖ. False eng
+# 15 37 38 Kad0ypar,  impf. éxadjunv and xadjuny κάθημαι,  ἱπιμρί. ἐκαθήμην ἀπά καθήμην
+κάθημαι, Kad0ypar, True pp
+impf. ἱπιμρί. False eng
+ἐκαθήμην éxadjunv True pp
+and ἀπά False eng
+καθήμην xadjuny True pp
+# 16 40 46 [Hua st],  set,  be seated,  Lat. seded; [ἦμαι,  514],  τ,  δέ δεαζειῖ,  1, αῖ. σεωώτδ,
+[ἦμαι, [Hua True pp
+st], 514], False eng
+set, τ, False eng
+be δέ False eng
+seated, δεαζειῖ, False eng
+Lat. 1, False na
+seded; αῖ. False na
+# 17 24 26 sit down ,  be encamped, σἵ ἄστονῦ,  ἐδ ἐμικαν»βεα,
+sit σἵ False eng
+down ἄστονῦ, False eng
+, ἐδ False na
+be ἐμικαν»βεα, False eng
+encamped, NA False eng
+# 18 39 38 xabl{iw,  Kahid,  exafioa [itw,  seat], καθίζω,  καθιῶ,  ἐκάθισα [ἵζω,  Ξεαζ],
+καθίζω, xabl{iw, True pp
+καθιῶ, Kahid, True pp
+ἐκάθισα exafioa True pp
+[ἵζω, [itw, True pp
+seat], Ξεαζ], False eng
+# 19 24 26 make to stt down,  seat. γα δε 10 σἵΐ ἄοτυ»,  5εαΐ.
+make γα False eng
+to δε False eng
+stt 10 False na
+down, σἵΐ False eng
+seat. ἄοτυ», False eng
+# 20 40 44 xalornpe [iornu,  cause fo stand,  set}, καθίστημι [ἴστημι,  ἐα:456 70 “[α1ι],  567],
+καθίστημι xalornpe True pp
+[ἴστημι, [iornu, True pp
+cause ἐα:456 False eng
+fo 70 False eng
+stand, “[α1ι], False eng
+set}, 567], False na
+# 21 37 36 set down,  Station,  arrange,  bring, σε ὠοτο»,  δία ον,  ἀγγαηρέ,  ὀγίηρν
+set σε False eng
+down, ὠοτο», False eng
+Station, δία False na
+arrange, ον, False eng
+bring, ἀγγαηρέ, False eng
+# 22 36 37 establish,  appotnt; intr.,  in mid. ἐπίαὀέϊοά,  αῤῥοῖϊμ,  ὑπῖτ,  ἴῃ τηϊά,
+establish, ἐπίαὀέϊοά, False eng
+appotnt; αῤῥοῖϊμ, False na
+intr., ὑπῖτ, False eng
+in ἴῃ False eng
+mid. τηϊά, False eng
+# 23 41 39 (except I aor.),  also in 2 aor., ,  pf., (ἜχοορΕ 1 δογ.),  αἰϑδο ἴῃ 2 δού. Ρί, ,
+(except (ἜχοορΕ False eng
+I 1 False na
+aor.), δογ.), False eng
+also αἰϑδο False eng
+in ἴῃ False eng
+2 2 False na
+aor., δού. False eng
+, Ρί, False na
+pf., , False eng
+# 24 40 38 and plupf. act.,  set oneself down,  be- δηά ραρῇ. δοῖ, ,  σε ογισϑε στον,  δέ-
+and δηά False eng
+plupf. ραρῇ. False eng
+act., δοῖ, False eng
+set , False eng
+oneself σε False eng
+down, ογισϑε False eng
+στον, be- True pp
+# 25 37 36 come established; take one’s place or εονς σεία ὑῤεἠ τα,  3 οἸδὴς δέαεε οτ
+come εονς False eng
+established; σεία False eng
+take ὑῤεἠ False eng
+one’s τα, False na
+place 3 False eng
+or οἸδὴς False eng
+# 26 37 33 post,  be stationed,  come out,  turn 2094,  ἐξ οἰαϊορμοα,  κοι οί,  {7
+post, 2094, False eng
+be ἐξ False eng
+stationed, οἰαϊορμοα, False eng
+come κοι False eng
+out, οί, False eng
+turn {7 False eng
+# 27 4 3 oul, Ια.
+oul, Ια. False na
+# 28 36 37 xaBopdw [dpdw,  see],  look down at; καθοράω [ὁράω,  524],  ἑοοξ ἐἴτυ» αἕ,
+καθοράω xaBopdw True pp
+[ὁράω, [dpdw, True pp
+see], 524], False eng
+look ἑοοξ False eng
+down ἐἴτυ» False eng
+at; αἕ, False eng
+# 29 42 40 see,  perceive,  observe,  catch sight of. 5έε,  εγεεῖοε,  οὐδέγυε,  εαἰοὶ εἰρἠξ οὗ
+see, 5έε, False eng
+perceive, εγεεῖοε, False eng
+observe, οὐδέγυε, False eng
+catch εαἰοὶ False eng
+sight εἰρἠξ False eng
+of. οὗ False eng
+# 30 48 57 Kal,  conj.,  aud,  too,  also,  even,  Lat. et. καί,  οοη].,  α, , αἴ,  ἔοο,  αἰδο,  εὐέ7:,  1,  αἴ. ἐεί.
+καί, Kal, True lex
+conj., οοη]., False eng
+aud, α, False eng
+too, , False eng
+also, αἴ, False eng
+even, ἔοο, False eng
+Lat. αἰδο, False na
+et. εὐέ7:, False eng
+# 31 29 27 Idiomatic uses: with words of ΤἀἸοπιαῖῖς 565: νι νογβ. οὗ
+Idiomatic ΤἀἸοπιαῖῖς False na
+uses: 565: False eng
+with νι False eng
+words νογβ. False eng
+of οὗ False eng
+# 32 35 35 sameness,  @s,  Lat. atgue,; nal... ΒΔΙΏΘΉ655,  75,  1,  αίφπο,  καὶ...
+sameness, ΒΔΙΏΘΉ655, False eng
+@s, 75, False na
+Lat. 1, False na
+atgue,; αίφπο, False na
+καὶ... nal... True form
+# 33 35 37 kal or te... kal,  both...and,  not καί οἵ τε... καί,  δοίά... ανπα᾿ μποΐ
+kal καί False eng
+or οἵ False eng
+te... τε... False eng
+kal, καί, False eng
+both...and, δοίά... False na
+not ανπα᾿ False eng
+# 34 37 38 only... but also,  Lat. e¢... et; Kal ομἶἦν.... μέ αὖδο,  αἴ,  εἰ... ὁ,  καὶ
+only... ομἶἦν.... False eng
+but μέ False eng
+also, αὖδο, False eng
+αἴ, Lat. True lex
+εἰ... e¢... True lex
+et; ὁ, False eng
+καὶ Kal True form
+# 35 35 43 ... 64,  and furthermore,  and too, ... δέ,  αμπαὶ Μεγέλε77, 07, .8,  4116] 00,
+... ... False na
+δέ, 64, True lex
+and αμπαὶ False eng
+furthermore, Μεγέλε77, False eng
+and 07, False eng
+too, .8, False eng
+# 36 36 35 where xal is intensive,  dé the con- ψἤετα καί 5 ἰηζδηβῖνο,  δέ ἴῃς σοη-
+where ψἤετα False eng
+καί xal True lex
+is 5 False eng
+intensive, ἰηζδηβῖνο, False eng
+δέ dé True lex
+the ἴῃς False eng
+con- σοη- False na
+# 37 40 41 nective; kal el,  even if,  for xal yap, πεοῖίϊνα; καὶ εἰ,  ἐυέν 17,  ἴοτ καὶ γάρ,
+nective; πεοῖίϊνα; False na
+kal καὶ False eng
+el, εἰ, False eng
+even ἐυέν False eng
+if, 17, False eng
+for ἴοτ False eng
+καὶ xal True form
+yap, γάρ, False eng
+# 38 37 35 see ydp; with a concessive ptc.,  @/- 866 γάρ; ΜΙ ἃ σομοσδβῖνε ρίς.,  σός
+see 866 False eng
+γάρ; ydp; True lex
+with ΜΙ False eng
+a ἃ False eng
+concessive σομοσδβῖνε False eng
+ptc., ρίς., False na
+σός @/- True lex
+# 39 34 36 though,  even though (cp. xaliep); ἐλοτερ,  ευορε ζλοιισά (ΠΡ. καίπερ);
+though, ἐλοτερ, False eng
+even ευορε False eng
+though ζλοιισά False eng
+(cp. (ΠΡ. False eng
+καίπερ); xaliep); True lex
+# 40 39 38 frequently xal is not to be translated, [το αθπίν καί 15 ποῖ ἴο Ὀ6 ἰταηϑ]δίεά,
+frequently [το False eng
+xal αθπίν False na
+is καί False eng
+not 15 False eng
+to ποῖ False eng
+be ἴο False eng
+translated, Ὀ6 False eng
+# 41 40 38 esp. in rel. or conditional clauses,  as 65Ρ. ἴῃ τε]. οὐ σοῃαϊοη8] οἰ 5685,  ἃ5
+esp. 65Ρ. False eng
+in ἴῃ False eng
+rel. τε]. False eng
+or οὐ False eng
+conditional σοῃαϊοη8] False eng
+clauses, οἰ False eng
+as 5685, False eng
+# 42 33 37 ws Tis Kal Gos,  as anybody else. ὥς τις καὶ ἄλλος,  ας αμιγόοανγ εἶδέ.
+ws ὥς False eng
+τις Tis True lex
+καὶ Kal True form
+ἄλλος, Gos, True lex
+as ας False eng
+anybody αμιγόοανγ False eng
+else. εἶδέ. False eng
+# 43 38 39 Kawval,  -d»,  Caenae,  a Mesopotamian Καιναί,  -ῶν,  (αεγας,  ἃ ΜΜεβοροϊδηίδῃ
+Καιναί, Kawval, True form
+-d», -ῶν, False na
+Caenae, (αεγας, False na
+a ἃ False eng
+Mesopotamian ΜΜεβοροϊδηίδῃ False na
+# 44 19 16 city on the Tigris, ΟἾΥ οὐ 6 ΤΊρΤ 5,
+city ΟἾΥ False eng
+on οὐ False eng
+the 6 False eng
+Tigris, ΤΊρΤ False na
+# 45 6 7 Google (Θοορὶς
+Google (Θοορὶς False na
+# 46 20 18 XENOPHON'’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
+XENOPHON'’S ΧΕΝΟΡΗΟΝΘ False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 47 41 43 xalve,  kava,  txavoy,  kéxova,  poetic = καίνω,  κανῶ,  ἔκανον,  κέκονα,  Ῥοεῖϊο Ξξε
+καίνω, xalve, True pp
+kava, κανῶ, False eng
+ἔκανον, txavoy, True pp
+kéxova, κέκονα, False na
+poetic Ῥοεῖϊο False eng
+= Ξξε False na
+# 48 21 20 “xPttw,  kill,  slay. Ὁ γεδυ,  δεζ,  εἰαν.
+“xPttw, Ὁ False na
+kill, γεδυ, False eng
+slay. δεζ, False eng
+# 49 42 42 xalwep [xai + intensive rép],  conj.,  a/- καίπερ [καί - Ἰηϊεηδῖνε πέρ],  σοπ].,  αἤ-
+καίπερ xalwep True lex
+[καί [xai True lex
++ - False na
+intensive Ἰηϊεηδῖνε False eng
+πέρ], rép], True form
+conj., σοπ]., False eng
+a/- αἤ- False na
+# 50 36 39 though,  with circumstantial ptc. of ζἀοτερή,  νν ἢ οἰτουτηδίδηιϊ4] ρῥῖς. οὗ
+though, ζἀοτερή, False eng
+with νν False eng
+circumstantial ἢ False eng
+ptc. οἰτουτηδίδηιϊ4] False na
+of ρῥῖς. False eng
+# 51 11 11 concession. ΟΟΠΟΕΒΒΊΟΏ.
+concession. ΟΟΠΟΕΒΒΊΟΏ. False eng
+# 52 44 44 Kaipds,  -00,  the right time,  opportunity, καιρός,  -ου,  ἦε γίρ᾽ “ἔηεο,  οὐῥογάμεγῖίν,
+καιρός, Kaipds, True lex
+-ου, -00, True pp
+the ἦε False eng
+right γίρ᾽ False eng
+time, “ἔηεο, False eng
+opportunity, οὐῥογάμεγῖίν, False eng
+# 53 37 47 moment,  juncture,  crisis; év Kaip@, ρ:7, 16γ:7,  714γ1ς112476,  εγδῖς, ,  ἐν καιρῷ,
+moment, ρ:7, False eng
+juncture, 16γ:7, False eng
+crisis; 714γ1ς112476, False eng
+év εγδῖς, False na
+Kaip@, , False na
+# 54 34 35 opportunely; wpoowrépw Tov Katpov, οὐῥογίκπεῖν,  προσωτέρω τοῦ καιροῦ,
+opportunely; οὐῥογίκπεῖν, False eng
+προσωτέρω wpoowrépw True pp
+τοῦ Tov True form
+καιροῦ, Katpov, True form
+# 55 27 30 Jarther than was advisable. , 7αγίάεν “ἤαρ τας σανιτξαύζε.
+Jarther , False na
+than 7αγίάεν False eng
+was “ἤαρ False eng
+advisable. τας False eng
+# 56 36 41 kalrow [xal+ rol,  i truth],  conj., καίτοι [καί - τοί,  ἔγὨ Ζ2γ1:1}1,  ςοη͵.»
+καίτοι kalrow True lex
+[καί [xal+ True lex
+rol, - False na
+i τοί, False eng
+truth], ἔγὨ False eng
+conj., Ζ2γ1:1}1, False eng
+# 57 8 8 and yet. αηα γεΐ.
+and αηα False eng
+yet. γεΐ. False eng
+# 58 38 38 kalo (and xdw),  xavow,  Exavoa,  -xé- καίω (Δηὰ κάω),  καύσω,  ἕκαυσα,  -κέ-
+kalo καίω False eng
+(and (Δηὰ False eng
+κάω), xdw), True pp
+καύσω, xavow, True pp
+ἕκαυσα, Exavoa, True pp
+-xé- -κέ- False na
+# 59 39 40 kavka,  kéxavpat,  €xavOny [bor.,  Eng. καυκα,  κέκαυμαι,  ἐκαύθην [Ὀοτ, .,  ΕἸ.
+καυκα, kavka, True pp
+κέκαυμαι, kéxavpat, True pp
+ἐκαύθην €xavOny True pp
+[bor., [Ὀοτ, False eng
+Eng. ., False na
+# 60 33 33 caustic,  holocaust,  cauterize], οδιιϑίϊο,  ποϊοοδυϑί,  οδυζογΖθ],
+caustic, οδιιϑίϊο, False eng
+holocaust, ποϊοοδυϑί, False eng
+cauterize], οδυζογΖθ], False eng
+# 61 29 32 burn,  kindle,  keep burning. ὀμγη,  ἀἐϊπαΐσ,  ἔεοῤ ὀπέγγεῖρρ.
+burn, ὀμγη, False eng
+kindle, ἀἐϊπαΐσ, False eng
+keep ἔεοῤ False eng
+burning. ὀπέγγεῖρρ. False eng
+# 62 37 37 Kaxetvos,  by crasis for xal éxeivos. κἀκεῖνος,  ὈΥ οταδὶ5 ἔοσ καὶ ἐκεῖνος.
+Kaxetvos, κἀκεῖνος, False na
+by ὈΥ False eng
+crasis οταδὶ5 False eng
+for ἔοσ False eng
+καὶ xal True form
+ἐκεῖνος. éxeivos. True lex
+# 63 39 40 kaxdvous,  -ovv [xaxds,  vois,  mind ], κακόνους,  -ουν [κακός,  νοῦς,  »εἰ»α7],
+κακόνους, kaxdvous, True lem
+-ovv -ουν False na
+[κακός, [xaxds, True lex
+νοῦς, vois, True form
+mind »εἰ»α7], False eng
+], NA False na
+# 64 23 22 ill disposed,  hostile. 1 αἱςροκεα,  λἀοςίϊἶδ.
+ill 1 False eng
+disposed, αἱςροκεα, False eng
+hostile. λἀοςίϊἶδ. False eng
+# 65 44 44 Kaos,  -η,  -6y,  comp. kaxtwy,  sup. KdKxe- κακός,  -ή,  -όν,  σοτῃρ. κακίων,  50. κάκι-
+κακός, Kaos, True lex
+-ή, -η, True pp
+-όν, -6y, True pp
+comp. σοτῃρ. False eng
+κακίων, kaxtwy, True pp
+sup. 50. False eng
+KdKxe- κάκι- False na
+# 66 34 35 oros [bor.,  Eng. cacography,  ca- στος [Ὀοτ.,  Επρ. σΔΟΟΡΤΆΡΒΥ͂,  68-
+στος oros True pp
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False na
+cacography, σΔΟΟΡΤΆΡΒΥ͂, False eng
+ca- 68- False na
+# 67 37 42 cophany },  dad,  injurious,  wicked, ΟΟΡΒΔΙΗΥἽ,  ὀσαϊ,  1γι7εεγ1ο:5,  τοϊεξεαΐ,
+cophany ΟΟΡΒΔΙΗΥἽ, False na
+}, ὀσαϊ, False na
+dad, 1γι7εεγ1ο:5, False eng
+injurious, τοϊεξεαΐ, False eng
+wicked, NA False eng
+# 68 16 17 base,  cowardly. ὀαςε,  εοτυαγαΐν.
+base, ὀαςε, False eng
+cowardly. εοτυαγαΐν. False eng
+# 69 37 39 Neut. as subst.,  2//,  wrong,  harm, Νεαυΐ. 85 βυυβῖ, ,  0,  τυγοριρ,  ἀπ»),
+Neut. Νεαυΐ. False na
+as 85 False eng
+subst., βυυβῖ, False eng
+2//, , False na
+wrong, 0, False eng
+harm, τυγοριρ, False eng
+# 70 37 41 injury; kaxdv TL Wovety TLva,  do one 17, 717); κακόν τι ποιεῖν τινα,  αἷο 0716
+injury; 17, False eng
+kaxdv 717); False na
+κακόν TL True form
+τι Wovety True form
+ποιεῖν TLva, True form
+do τινα, False eng
+one αἷο False eng
+# 71 37 37 an wl turn,  xaxd wolety,  do wrongs, απ τἰῤ “7,  κακὰ ποιεῖν,  ὦ τυγογιρς,
+an απ False eng
+wl τἰῤ False eng
+turn, “7, False eng
+κακὰ xaxd True form
+ποιεῖν, wolety, True form
+do ὦ False eng
+wrongs, τυγογιρς, False eng
+# 72 8 9 do harm, εὖ λα»ΡΞ.
+do εὖ False eng
+harm, λα»ΡΞ. False eng
+# 73 40 42 KaKxotpyos,  -ov [xaxds,  Epyov,  deed}, κακοῦργος,  -ουὅ [κακός,  ἔργον,  αἴξεα1],
+κακοῦργος, KaKxotpyos, True lex
+-ov -ουὅ False na
+[κακός, [xaxds, True lex
+ἔργον, Epyov, True pp
+deed}, αἴξεα1], False na
+# 74 23 25 wrongdoer,  malefactor. τυγογραος7,  τιαίογαείον.
+wrongdoer, τυγογραος7, False eng
+malefactor. τιαίογαείον. False eng
+# 75 38 37 KaKé6w,  Kaxwow,  éxdxwoa,  Kexdxwuat, κακόω,  κακώσω,  ἐκάκωσα,  κεκάκωμαι,
+κακόω, KaKé6w, True pp
+κακώσω, Kaxwow, True pp
+ἐκάκωσα, éxdxwoa, True pp
+κεκάκωμαι, Kexdxwuat, True pp
+# 76 35 37 éxaxwOny [Kxaxds ],  tajure,  hurt. ἐκακώθην [κακός],  ᾿»ι71:7ε,  ἀπε711.
+ἐκακώθην éxaxwOny True pp
+[κακός], [Kxaxds True lex
+], ᾿»ι71:7ε, False na
+tajure, ἀπε711. False na
+hurt. NA False eng
+# 77 44 44 kakes [xaxds],  adv.,  dadly,  2ll,  poorly, κακῶς [κακός],  δᾶν.,  ὀααϊζν,  ἐδ,  2οογίν,
+κακῶς kakes True form
+[κακός], [xaxds], True lex
+adv., δᾶν., False eng
+dadly, ὀααϊζν, False na
+2ll, ἐδ, False na
+poorly, 2οογίν, False eng
+# 78 37 35 wretchedly,; Kax@s wovetv,  do harne, τυγείολεώδν,  κακῶς ποιεῖν,  αν αν,
+wretchedly,; τυγείολεώδν, False eng
+κακῶς Kax@s True form
+ποιεῖν, wovetv, True form
+do αν False eng
+harne, αν, False na
+# 79 39 37 do harm to,  injure,  use wll,  abs. or αο ἀκα» 0,  ἐ, 7ώ76,  56 1{,  ΔῸ5. οὐ
+do αο False eng
+harm ἀκα» False eng
+to, 0, False eng
+injure, ἐ, False eng
+use 7ώ76, False eng
+wll, 56 False na
+abs. 1{, False eng
+or ΔῸ5. False eng
+# 80 33 31 with acc.; Kxaxds mdoxev,  suffer ἢ δου.; κακῶς πάσχειν,  57, 2’;
+with ἢ False eng
+acc.; δου.; False eng
+κακῶς Kxaxds True form
+πάσχειν, mdoxev, True form
+suffer 57, False eng
+# 81 34 37 loss,  be ill used; Kdxwv wpdrrev, ἔρος,  ὧφ τὐξ τρεα,  κάκιον πράττειν,
+loss, ἔρος, False eng
+be ὧφ False eng
+ill τὐξ False eng
+used; τρεα, False eng
+κάκιον Kdxwv True pp
+πράττειν, wpdrrev, True form
+# 82 36 38 fare worse; xaxds Exec,  be in a bad γε τυογξὲ,; κακῶς ἔχειν,  ὁέ 1» α ὀααἱ
+fare γε False eng
+worse; τυογξὲ,; False eng
+κακῶς xaxds True form
+ἔχειν, Exec, True form
+be ὁέ False eng
+in 1» False eng
+a α False eng
+bad ὀααἱ False eng
+# 83 15 18 WAY,  £0 Wrong. τυαγ,  φῸ τυγοϑῖρ.
+WAY, τυαγ, False na
+£0 φῸ False na
+Wrong. τυγοϑῖρ. False na
+# 84 41 40 Kkdxwots,  -ews,  9 [xaxdw],  abuse,  221 κάκωσις,  -εωὡς,  ἡ [κακόω],  αδῆδε,  ἐδ
+κάκωσις, Kkdxwots, True lex
+-ews, -εωὡς, False na
+ἡ 9 True case
+[κακόω], [xaxdw], True pp
+abuse, αδῆδε, False eng
+221 ἐδ False na
+# 85 10 3 treatment, σα,
+treatment, σα, False eng
+# 86 36 38 kéXapos,  -ov [bor.,  Eng. calumet], κάλαμος,  -ου [ὍὈοτ.,  Επρ. οΔΙυπΙοί],
+κάλαμος, kéXapos, True lex
+-ου -ov True pp
+[bor., [ὍὈοτ., False eng
+Eng. Επρ. False na
+calumet], οΔΙυπΙοί], False eng
+# 87 28 27 reed,  straw,  plant,  herb, γεφά,  φγατυ,  φέα»,  ἀεγό.
+reed, γεφά, False eng
+straw, φγατυ, False eng
+plant, φέα», False eng
+herb, ἀεγό. False eng
+# 88 43 41 Kkadéw,  card,  éxddreoa,  xéxAnxa,  KéxAn- καλέω,  καλῶ,  ἐκάλεσα,  κέκληκα,  κέκλη-
+καλέω, Kkadéw, True pp
+card, καλῶ, False eng
+ἐκάλεσα, éxddreoa, True pp
+κέκληκα, xéxAnxa, True pp
+KéxAn- κέκλη- False na
+# 89 33 34 pat,  éx\HOnv [cogn.,  Eng. hale, μαι,  ἐκλήθην [σορῃ.,  Ἐπρ. δι416,
+pat, μαι, False eng
+ἐκλήθην éx\HOnv True pp
+[cogn., [σορῃ., False na
+Eng. Ἐπρ. False na
+hale, δι416, False eng
+# 90 37 41 haul],  call,  summon; mid.,  call to 8.41],  εαὐέ,  5107271072,  ταϊὰ.,  αὐ “ο
+haul], 8.41], False eng
+call, εαὐέ, False eng
+summon; 5107271072, False eng
+mid., ταϊὰ., False eng
+call αὐ False eng
+to “ο False eng
+# 91 8 20 Go i — a ΕΚ ον -“»»----ΦΨ....
+Go ΕΚ False na
+i ον False eng
+— -“»»----ΦΨ.... False na
+a NA False eng

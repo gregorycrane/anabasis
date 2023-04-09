@@ -1,26 +1,18 @@
 # 0 3 3 452 452
 452 452 False na
-# 1 15 16 Hgav,  see Hew. ἥξειν,  Ξες ἥκω.
-ἥξειν, Hgav, True form
-see Ξες False eng
-ἥκω. Hew. True pp
-# 2 19 18 ngiov,  see adicdw. ἠξίον,  5ἐς ἀξιόω,
-ἠξίον, ngiov, True pp
-see 5ἐς False eng
-ἀξιόω, adicdw. True pp
 # 3 37 38 nmep [fem. dat. of b0mep,  just who), ἧπερ [{ετὰ. Αἱ,  οἵ ὅσπερ,  γι’ τυλοΊ,
-nmep ἧπερ False na
+ἧπερ False na
 [fem. [{ετὰ. False eng
 dat. Αἱ, False eng
 of οἵ False eng
 ὅσπερ, b0mep, True lex
 just γι’ False eng
-who), τυλοΊ, False eng
+who], τυλοΊ, False eng
 # 4 35 33 adv. (cp. 9),  ¢ just the manner in αἰἷἶν. (ορ. ἦ),  δὲ “ιε! τ ΜΟΥ ἰμ
 adv. αἰἷἶν. False eng
 (cp. (ορ. False eng
-ἦ), 9), True lex
-δὲ ¢ True form
+ᾗ), 9), True lex
+in ¢ True form
 just “ιε! False eng
 the τ False eng
 manner ΜΟΥ False eng
@@ -40,7 +32,7 @@ very τὸῦν False eng
 way τὰ False eng
 by ὧν False eng
 which; τολιελ; False eng
-nTep ἧπερ False na
+ᾗπερ False na
 # 7 29 27 elxov,  exactly as they were. εἶχον,  ἐχαομ ας δὲν τοῦνε,
 εἶχον, elxov, True pp
 exactly ἐχαομ False eng
@@ -49,18 +41,18 @@ they δὲν False eng
 were. τοῦνε, False eng
 # 8 45 46 *“Hpaxdis,  -dous,  6,  //eracles,  Lat. /er- Ἡρακλῆς,  -έους,  ὁ,  “]εγάείές,  Τιαῖ,  7767-
 Ἡρακλῆς, *“Hpaxdis, True lex
--dous, -έους, False na
+-έους, False na
 ὁ, 6, True lex
-“]εγάείές, //eracles, True pp
+Heracles, True pp
 Lat. Τιαῖ, False na
-/er- 7767- False na
+Her- 7767- False na
 # 9 34 35 cules,  the greatest hero of Greek εἴ ες,  ἴθ μτοδίοδε ἤότοὸ οὗ Οατοοκ
-εἴ cules, True form
+cules, True form
 the ες, False eng
 greatest ἴθ False eng
 hero μτοδίοδε False eng
 of ἤότοὸ False eng
-οὗ Greek True lex
+Greek True lex
 # 10 33 33 mythology,  famous for the twelve ταν τ οϊορσν,  απο ίογ (6 ἴννεῖνα
 mythology, ταν False eng
 famous τ False eng
@@ -98,7 +90,7 @@ the ἴῃς False eng
 world ννογὶ False eng
 below. ἃ False eng
 # 15 30 31 Ife was worshiped as the guide Η1ὲ ννὰθ νογβῃϊρο 45 ἴπ6 ρσυϊάς
-Ife Η1ὲ False na
+He Η1ὲ False na
 was ννὰθ False eng
 worshiped νογβῃϊρο False eng
 as 45 False eng
@@ -122,62 +114,29 @@ celebrated σεἸεγαϊ False eng
 in οι False eng
 his Ἰῃ False eng
 honor. Ὠ15 False eng
-# 19 20 20 pac On,  see gpayat. ἠράσθη,  5εε ἔραμαι.
-pac ἠράσθη, False eng
-On, 5εε False na
-see ἔραμαι. False eng
-gpayat. NA False na
-# 20 29 30 Up&ncav,  Wpyvro,  see alpéw, ἡρέθησαν,  ἥρηντο,  566 αἱρέω.
-Up&ncav, ἡρέθησαν, False na
-Wpyvro, ἥρηντο, False na
-see 566 False eng
-αἱρέω. alpéw, True pp
-# 21 19 19 NpeTo,  see epopat. ἤρετο,  5ε6 ἔρομαι,
-ἤρετο, NpeTo, True form
-see 5ε6 False eng
-ἔρομαι, epopat. True pp
-# 22 20 20 Tpotvro,  see alpéw, ἡροῦντο,  566 αἱρέω.
-Tpotvro, ἡροῦντο, False na
-see 566 False eng
-αἱρέω. alpéw, True pp
-# 23 15 16 fica,  see elu. ἦσαν,  566 εἶμι.
-fica, ἦσαν, False eng
-see 566 False eng
-εἶμι. elu. True pp
-# 24 26 24 yorero,  see alc Od vopuat ἥσθετο,  5εε αἰσθάνομαι.
-yorero, ἥσθετο, False na
-see 5εε False eng
-alc αἰσθάνομαι. False eng
-Od NA False na
-vopuat NA False na
-# 25 19 18 Ho On,  see Hdopat. ἥσθη,  566 ἥδομαι.
-ἥσθη, Ho True form
-On, 566 False na
-see ἥδομαι. False eng
-Hdopat. NA False na
-# 26 17 17 horny,  see elul. ἤστην,  566 εἰμί,
-horny, ἤστην, False eng
-see 566 False eng
-elul. εἰμί, False eng
+
+
+
+
 # 27 41 41 Hnovxq [Hovxos,  still],  adv.,  gutetly, ἡσυχῇ [ἥσυχος,  “11|47,  δ΄ὰν.,  φιῖείζν,
 ἡσυχῇ Hnovxq True lex
-[ἥσυχος, [Hovxos, True lex
+[ἥσυχος, Hovxos, True lex
 still], “11|47, False eng
 adv., δ΄ὰν., False eng
-gutetly, φιῖείζν, False na
+quietly, φιῖείζν, False na
 # 28 11 13 ti silence. 71: οἵ ἐδγεό.
-ti 71: False eng
+in 71: False eng
 silence. οἵ False eng
 # 29 42 42 Hovxla,  -ας [Hovxos,  still],  stillness, ἡσυχία,  -ας [ ἥσυχος,  “{{77,  οὐ έγι655,
 ἡσυχία, Hovxla, True lex
 -ας -ας False na
-[Hovxos, [ False na
+[ἥσυχος, [ False na
 still], ἥσυχος, False eng
 stillness, “{{77, False eng
 # 30 35 39 quiet,  eases xa novxlav,  at their φιεῖεί,  φαδο,  καθ᾽ ἡσυχίαν,  αἕ {ἀεῖγ
 quiet, φιεῖεί, False eng
-eases φαδο, False eng
-xa καθ᾽ False na
+ease; φαδο, False eng
+καθ᾽ False na
 ἡσυχίαν, novxlav, True form
 at αἕ False eng
 their {ἀεῖγ False eng
@@ -186,33 +145,29 @@ ease, ἐας6, False eng
 secure δές17γ False eng
 from 6 False eng
 molestation; γγον False eng
-nov- τιοῤῥεέαξίονε, False na
+ἡσυ- τιοῤῥεέαξίονε, False na
 # 32 32 35 xlav dye,  dive at eases novxlav χίαν ἄγειν,  ἐΐῦε αἰ ξαξέ,  ἡσυχίαν
-xlav χίαν False na
-dye, ἄγειν, False eng
-dive ἐΐῦε False eng
+χίαν False na
+ἄγειν, False eng
+live ἐΐῦε False eng
 at αἰ False eng
-eases ξαξέ, False eng
+ease; ξαξέ, False eng
 ἡσυχίαν novxlav True form
 # 33 18 16 exer,  keep still. ἔχειν,  ξεεῤ οἰ,
 ἔχειν, exer, True form
 keep ξεεῤ False eng
 still. οἰ, False eng
-# 34 15 15 ATE,  see elul, ἦτε,  5εε εἰμί,
-ἦτε, ATE, True lex
-see 5εε False eng
-elul, εἰμί, False eng
+
 # 35 30 33 HTpov,  -ov,  abdomen,  belly. ἦτρον,  -ουὅ,  αὐαΐο»672,  ὀεζδν.
 ἦτρον, HTpov, True pp
--ov, -ουὅ, False na
+-ου, False na
 abdomen, αὐαΐο»672, False eng
 belly. ὀεζδν. False eng
 # 36 39 38 HTTAopar,  NrTHToMal,  HrTywat,  HTT H- ἡττάομαι,  ἡττήσομαι,  ἥττημαι,  ἡττή-
 ἡττάομαι, HTTAopar, True pp
 ἡττήσομαι, NrTHToMal, True pp
 ἥττημαι, HrTywat, True pp
-HTT ἡττή- False na
-H- NA False na
+ἡττή- False na
 # 37 38 41 Onv [cp. Arrov],  be less or inferior, θην [“Ρ. ἧττον],  ἐξ ἐξδ5 οΥ 171747107, ,
 θην Onv True pp
 [cp. [“Ρ. False eng
@@ -242,7 +197,7 @@ of οἵ False eng
 manner. ΔΉΠΟΥ. False eng
 # 41 38 39 {ittov [Hrrwy,  -ov,  used as comp. of ἧττον [ἤττων,  -ον,  υϑεα ἃ5. σοΙηρ. οὗ
 ἧττον {ittov True pp
-[Hrrwy, [ἤττων, False na
+[ἤττων, [Hrrwy, True pp
 -ον, -ov, True pp
 used υϑεα False eng
 as ἃ5. False eng
@@ -251,10 +206,11 @@ of οὗ False eng
 # 42 42 39 kakés,  bad },  adv.,  fess,  sup. #Kiora, κακός,  ῥα],  δᾶν.,  655,  500. ἥκιστα,
 κακός, kakés, True lex
 bad ῥα], False eng
-}, δᾶν., False na
+], δᾶν., False na
 adv., 655, False eng
-fess, 500. False eng
+less, 500. False eng
 sup. ἥκιστα, False eng
+ἥκιστα
 #Kiora, NA False na
 # 43 27 31 least of all,  by no means. ἐεαςδέ οὗ αὐέ,  ὧν 50 »ιδα7γῖ5.
 least ἐεαςδέ False eng
@@ -263,29 +219,20 @@ all, αὐέ, False eng
 by ὧν False eng
 no 50 False eng
 means. »ιδα7γῖ5. False eng
-# 44 14 15 NU-,  sce Ev-, εηὐ-,  866 εὖ-,
-NU-, εηὐ-, False na
-sce 866 False na
-Ev-, εὖ-, False na
-# 45 6 8 Google (πΘοορίς
-Google (πΘοορίς False na
-# 46 20 17 AENOPHON'’S ANABASIS ΧΕΝΟΡΗΟΝ ΑΝΔΒΔΘΙΘ
-AENOPHON'’S ΧΕΝΟΡΗΟΝ False na
-ANABASIS ΑΝΔΒΔΘΙΘ False na
-# 47 1 1 e Θ
-e Θ False eng
+
+
 # 48 40 40 OdAarra,  -7s,  sea; xara Oddarray»,  dy θάλαττα,  -ης,  “εἐα; κατὰ θάλατταν,  ὁ»
 θάλαττα, OdAarra, True form
--7s, -ης, False na
+-ης, False na
 sea; “εἐα; False eng
 κατὰ xara True form
 θάλατταν, Oddarray», True form
-dy ὁ» False eng
+by ὁ» False eng
 # 49 4 4 Sea. δέα.
-Sea. δέα. False na
+sea. δέα. False na
 # 50 43 44 OdAmos,  -ous,  74,  heat; pl.,  seasons of θάλπος,  -ους,  τό,  ἀεαί,  Ρ].,  ξεαο»ις οὔ
 θάλπος, OdAmos, True lex
--ous, -ους, False na
+-ους, False na
 τό, 74, True form
 heat; ἀεαί, False eng
 pl., Ρ]., False eng
@@ -305,28 +252,28 @@ quently. φιεν False na
 # 54 35 35 Odvaros [root day of Ovifcxw,  aie; θάνατος [τοοῖὶ θαν οὗ θνήσκω,  αἵε,
 θάνατος Odvaros True pp
 [root [τοοῖὶ False eng
-day θαν False eng
+θαν θαν False eng
 of οὗ False eng
-θνήσκω, Ovifcxw, True pp
-aie; αἵε, False na
+θνῄσκω, Ovifcxw, True pp
+die; αἵε, False na
 # 55 34 34 bor.,  Eng. thanatopsis,  euthana- Ῥοτ.,  Επρ. δδηδίορϑὶϑ,  δου μδηδ-
 bor., Ῥοτ., False eng
 Eng. Επρ. False na
 thanatopsis, δδηδίορϑὶϑ, False eng
-euthana- δου False na
+euthana- True pp
 # 56 37 35 Sila],  death,  manner of death,  émi 814,  αεαζά,  για }7 οὕ ἀεαζά,  ἐπὶ
-Sila], 814, False na
+ia], 814, False na
 death, αεαζά, False eng
 manner για False eng
 of }7 False eng
 death, οὕ False eng
-émi ἀεαζά, False na
+ἐπὶ ἀεαζά, False na
 # 57 38 37 Gavadryw,  thus voting for deuth,  82, θανάτῳ,  {ἀπ νοΐΐηρ 707,  ἀφωζά,  82,
 θανάτῳ, Gavadryw, True form
 thus {ἀπ False eng
 voting νοΐΐηρ False eng
 for 707, False eng
-deuth, ἀφωζά, False na
+death, ἀφωζά, False na
 82, 82, False na
 # 58 31 34 27; éwl Odvaroy,  to execution, 27; ἐπὶ θάνατον,  20 ἐχεσιε10722:.
 27; 27; False na
@@ -338,7 +285,7 @@ execution, ἐχεσιε10722:. False eng
 θανατόω, Cavaréw, True pp
 θανατώσω, Gavarwow, True pp
 ἐθανάτωσα, ePavdrwoa, True pp
-é6a- ἐθα- False na
+ἐθα- False na
 # 60 31 34 vaTrwOnv [Odvaros],  condemn to νατώθην [θάνατος],  φΟ»016 7172 Ζ0
 νατώθην vaTrwOnv True pp
 [θάνατος], [Odvaros], True pp
@@ -351,7 +298,7 @@ death. ἐἶδαζῆ. False eng
 θάψω, Odyw, True pp
 ἔθαψα, ZOaya, True pp
 τέθαμμαι, réOaupat, True pp
-erddyy ἐτάφην False na
+ἐτάφην False na
 # 63 33 33 [bor.,  Eng. epitaph,  cenotaph], [Ὀογτ.,  Επρ. ΘΡΙΔΡἢ,  οσῃοίδρὮ];
 [bor., [Ὀογτ., False eng
 Eng. Επρ. False na
@@ -360,19 +307,17 @@ cenotaph], οσῃοίδρὮ]; False eng
 # 64 5 5 bury. ὦ.7}.
 bury. ὦ.7}. False eng
 # 65 41 41 Oappardos,  -a,  -ov [cp. Oappéw],  cour- θαρραλέος,  -α,  -ον [ςΡ. θαρρέω],  εο47-
-Oappardos, θαρραλέος, False na
+θαρραλέος, False na
 -α, -a, True pp
 -ον -ov True pp
 [cp. [ςΡ. False eng
 θαρρέω], Oappéw], True pp
 cour- εο47- False na
 # 66 14 15 ageous,  bold. αρέοζές,  ὀοία,
-αρέοζές, ageous, True pp
+ageous, True pp
 bold. ὀοία, False eng
 # 67 42 41 Oapparéuws [ Papparéos ], adv.,  with good θαρραλέως [θαρραλέοςἾ,  αάν.,  τοΐζὰ ροοα
-θαρραλέως Oapparéuws True form
-[ [θαρραλέοςἾ, False na
-Papparéos αάν., False na
+[θαρραλέως Oapparéuws True form
 ], τοΐζὰ False na
 adv., ροοα False eng
 with NA False eng
@@ -380,8 +325,8 @@ good NA False eng
 # 68 37 40 courage,  courageously,  TO Oappadéws κο 7γαῶρέ,  κοι γαρεομεέν,  τὸ θαρραλέως
 courage, κο False eng
 courageously, 7γαῶρέ, False eng
-TO κοι False na
-Oappadéws γαρεομεέν, False na
+τὸ 
+θαρραλέως κοι False na
 # 69 27 29 Exev,  boldness,  136,  21. ἔχειν,  ὀοζιίγεες,  136,  21.
 ἔχειν, Exev, True form
 boldness, ὀοζιίγεες, False eng
@@ -414,9 +359,9 @@ fear γα» False eng
 of, οὐ, False eng
 with Μ᾽ False eng
 acc.; ἂςς.; False eng
-@ap- θαρ- False na
+θαρ- θαρ- False na
 # 74 35 37 povot,  with good courage,  without ῥοῦσι,  εὐἱζὰ ροοα κομγαρε,  τυτέλομέ
-povot, ῥοῦσι, False na
+ροῦσι, False na
 with εὐἱζὰ False eng
 good ροοα False eng
 courage, κομγαρε, False eng
@@ -426,37 +371,34 @@ fear, , False eng
 164, α», False na
 7. τ64, False na
 # 76 37 38 Bappive,  Oappuvd,  €dppuva [cp. bap- θαρρὕνω,  θαρρυνῶ,  ἐθάρρῦνα [ςΡ. θαρ-
-θαρρὕνω, Bappive, True pp
-Oappuvd, θαρρυνῶ, False na
-€dppuva ἐθάρρῦνα False na
+θαρρύνω, Bappive, True pp
+θαρρυνῶ, Oappuvd, True pp
+ἐθάρρυνα False na
 [cp. [ςΡ. False eng
-bap- θαρ- False na
+θαρ- False na
 # 77 25 24 péw],  encourage,  cheer. ρέω],  ἐμεογαρέ,  εὐδέ7.
 ρέω], péw], True pp
 encourage, ἐμεογαρέ, False eng
 cheer. εὐδέ7. False eng
 # 78 39 40 Oaptriis,  -ov,  Zharypas,  Menon’s fa- Θαρύπᾶς,  -ουὔ,  7Ζλαγγῥας,  Μεποηδβ ία-
-Oaptriis, Θαρύπᾶς, False na
--ov, -ουὔ, False na
-Zharypas, 7Ζλαγγῥας, False na
+Θαρύπας, False na
+-ου, False na
+Tharypas, 7Ζλαγγῥας, False na
 Menon’s Μεποηδβ False na
 fa- ία- False na
 # 79 7 7 vorite. νογῖία.
 vorite. νογῖία. False na
-# 80 19 19 Oarrov,  see TaxUs. θᾶττον,  5:6 ταχύς.
-θᾶττον, Oarrov, True pp
-see 5:6 False eng
-ταχύς. TaxUs. True lex
+
 # 81 37 37 Baupdtw,  Javudcoua,  eVavpuaca,  Te- θαυμάζω,  θαυμάσομαι,  ἐθαύμασα,  τε-
 θαυμάζω, Baupdtw, True pp
 θαυμάσομαι, Javudcoua, True pp
 ἐθαύμασα, eVavpuaca, True pp
-Te- τε- False na
+τε- False na
 # 82 34 35 Oavuaxa,  €OavydoOny [Oadpa,  wor- θαύμακα,  ἐθαυμάσθην [θαῦμα,  τιο»-
 θαύμακα, Oavuaxa, True pp
 ἐθαυμάσθην €OavydoOny True pp
 [θαῦμα, [Oadpa, True lex
-wor- τιο»- False na
+won- τιο»- False na
 # 83 39 42 der],  wonder,  be astonished,  admire, «67,  τυογιαἶρ, ,  δέ αείογϑλφαῖ,  (ἶ17 ἐν
 der], «67, False eng
 wonder, τυογιαἶρ, False eng
@@ -467,12 +409,12 @@ admire, αείογϑλφαῖ, False eng
 wonder «υομαΐον False eng
 at. αἱ. False eng
 # 85 42 43 Oaupdorros,  -d,  -ov [cp. Pavudsw],  won- θανμάσιος,  -α,  -ον [ςΡ. θαυμά ζω],  τυο»-
-Oaupdorros, θανμάσιος, False na
+θαυμάσιος, False na
 -α, -d, True pp
 -ον -ov True pp
 [cp. [ςΡ. False eng
-Pavudsw], θαυμά False na
-ζω], won- True pp
+θαυμάζω], False na
+won-
 # 86 21 22 der ful,  remarkable. εὐἰργγί,  γοριαγξαῤέρ.
 der εὐἰργγί, False eng
 ful, γοριαγξαῤέρ. False na
@@ -490,6 +432,6 @@ be δε False eng
 wondered τυομοδγεαΐ False eng
 at, αἵ, False eng
 wonderful, τυογαφγ False eng
-εἰ, ex- True lex
+ex- True lex
 # 89 12 12 traordinary. 2707 17:47}.
 traordinary. 2707 False na
