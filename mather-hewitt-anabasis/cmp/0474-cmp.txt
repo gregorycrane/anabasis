@@ -16,30 +16,28 @@ day, 5 False eng
 [cogn., [ὁοὐγμη., False na
 Lat. 1, False na
 collis, 4ἴ. False eng
-47//, 001118, False na
 # 4 37 38 ng. hill),  42//,  mound (of stones), ἔαρ. 8111},  ἡ,  νιοιο αὶ (οὗ 510Π65),
-ng. ἔαρ. False eng
+Eng. ἔαρ. False eng
 hill), 8111}, False eng
-ἡ, 42//, True case
 mound νιοιο False eng
 (of αὶ False eng
 stones), (οὗ False eng
 # 5 7 3 CaQUrn. αν.
-CaQUrn. αν. False na
+cairn. αν. False na
 # 6 43 43 wopl{w,  xoucw,  dxduioa,  xexduixa,  Kexd- κομίζω,  κομιῶ,  ἐκόμισα,  κεκόμικα,  κεκό-
 κομίζω, wopl{w, True pp
 κομιῶ, xoucw, True pp
 ἐκόμισα, dxduioa, True pp
 κεκόμικα, xexduixa, True pp
-Kexd- κεκό- False na
+κεκό- False na
 # 7 36 41 puopat,  érouiadny,  cae for,  carry μισμαι,  ἐκομίσθην,  «αι,  ὁ , ο»,  (αΥῪ»
 μισμαι, puopat, True pp
 ἐκομίσθην, érouiadny, True pp
-cae «αι, False na
+care «αι, False na
 for, ὁ False eng
 carry , False eng
 # 8 40 43 aivay so as to care for,  carry,  bring; τοι 50 ὯΝ ἴο σᾶτς [οτ,  47...72.}., ψ ὀγῖηρ
-τοι aivay True lex
+away True lex
 so 50 False eng
 as ὯΝ False eng
 to ἴο False eng
@@ -49,7 +47,6 @@ carry, 47...72.}., False eng
 bring; ψ False eng
 # 9 34 32 mid.,  éviag one’s own possessions αλλ,  ὀγ τρισὶ ΠΟ ΟΠ ΡΟΒΒ 55.005
 mid., αλλ, False eng
-éviag ὀγ False na
 τρισὶ one’s True form
 own ΠΟ False eng
 possessions ΟΠ False eng
@@ -64,12 +61,12 @@ inter- ἰπῖοτ- False na
 # 11 6 6 ested. ὀδίοη,
 ested. ὀδίοη, False na
 # 12 37 39 Kovuaros,  -η,  -dy (verbal of Komdw, κονιᾶτός,  -ή,  -όν (νοτῦ αὶ οἵ κονιάω,
-Kovuaros, κονιᾶτός, False na
+κονιᾶτός, False na
 -ή, -η, True pp
 -όν -dy True pp
 (verbal (νοτῦ False eng
 of αὶ False eng
-οἵ Komdw, True form
+κονιάω,, True form
 # 13 32 33 plaster),  plastered,  cemented, 2. ατέ6γ7),  ῥέα ἐγοώ,  ἐφρεοησώ,
 plaster), 2. False eng
 plastered, ατέ6γ7), False eng
@@ -78,9 +75,9 @@ cemented, ῥέα False eng
 κονιορτός, Kovopros, True lex
 -ου -o0 True pp
 [κόνις, [Kdms, True lex
-ust, οὐδέ, False eng
-ὄρνῦμι, Bpvium, True pp
-ster 5117 False eng
+dust, οὐδέ, False eng
+ὄρνυμι, Bpvium, True pp
+stir 5117 False eng
 # 15 20 20 up],  cloud of dust. “],  «ἐο τε ὁ} ὐμδέ,
 up], “], False eng
 cloud «ἐο False eng
@@ -89,16 +86,16 @@ dust. ὁ} False eng
 # 16 24 25 KOmMpOS,  ov,  7,  dung. κόπρος,  ου,  ἢ,  αἰτεην.
 κόπρος, KOmMpOS, True lex
 ου, ov, True pp
-ἢ, 7, True lem
+ἡ, 7, True lem
 dung. αἰτεην. False eng
 # 17 42 42 xéwrw,  kdpu,  éxowa,  -xéxopa,  kéxoupat, κόπτω,  κόψω,  ἔκοψα,  -κέκοφα,  κέκομμαι,
 κόπτω, xéwrw, True pp
 κόψω, kdpu, True pp
 ἔκοψα, éxowa, True pp
--xéxopa, -κέκοφα, False na
+-κέκοφα, False na
 κέκομμαι, kéxoupat, True pp
 # 18 34 38 éxémnv [bor.,  Eng. comma,  synco- ἐκόπην [Ὁ οτ.,  ἕηρσ. σΟΠ ΠΙΆ,  ΒΥΠ00-
-éxémnv ἐκόπην False na
+ἐκόπην False na
 [bor., [Ὁ False eng
 Eng. οτ., False na
 comma, ἕηρσ. False eng
@@ -106,27 +103,27 @@ synco- σΟΠ False na
 # 19 40 40 pate,  apocope ],  cut,  slash; cut down Ῥδῖδ,  ΔΡΟΟΟΡΘ],  ἐμῷ,  σέατά,  ἐφ ἀοτῦν
 pate, Ῥδῖδ, False eng
 apocope ΔΡΟΟΟΡΘ], False eng
-ἐμῷ, ], True form
+], True form
 cut, σέατά, False eng
 slash; ἐφ False eng
 cut ἀοτῦν False eng
 down NA False eng
 # 20 12 12 trees; A7//, ἴγοθ5.,  Αδ,
 trees; ἴγοθ5., False eng
-A7//, Αδ, False na
-# 21 42 44 képn,  -ns [bor.,  Eng. Cora],  gid,  Lat. κόρη,  -ἡς [ὕοτ.,  Επρ. ΟοτγΔ],  σίγώ,  1Αϊ.
+kill, Αδ, False na
+# 21 42 44 képn,  -ns [bor.,  Eng. Cora],  gid,  Lat. κόρη,  -ῆς [ὕοτ.,  Επρ. ΟοτγΔ],  σίγώ,  1Αϊ.
 κόρη, képn, True lex
--ns -ἡς False na
+-ῆς False na
 [bor., [ὕοτ., False eng
 Eng. Επρ. False na
 Cora], ΟοτγΔ], False na
-gid, σίγώ, False eng
+girl, σίγώ, False eng
 Lat. 1Αϊ. False na
 # 22 7 6 puella. 2ποία.
 puella. 2ποία. False na
 # 23 38 39 Kopewrh,  -is,  Corsoté,  a large city Κορσωτή,  -ῆς, ,  Οογεῦίξ,  ἃ ἴατρε ΟΥ̓
 Κορσωτή, Kopewrh, True lem
--is, -ῆς, False na
+-ῆς, False na
 Corsoté, , False na
 a Οογεῦίξ, False eng
 large ἃ False eng
@@ -157,8 +154,8 @@ a ἃ False eng
 river. τίνϑυ. False eng
 # 28 28 32 Kopudh,  -7s,  Lop,  summit. κορυφή,  -ῆς,  202,  5147»7;417,
 κορυφή, Kopudh, True lex
--7s, -ῆς, False na
-Lop, 202, False na
+-ῆς, False na
+top, 202, False na
 summit. 5147»7;417, False eng
 # 29 39 38 koopéw,  Koounow,  etc. [xdopuos; bor., κοσμέω,  κοσμήσω,  εἴς. [κόσμος; Ὅογ.,
 κοσμέω, koopéw, True pp
@@ -185,10 +182,10 @@ microcosm], ΠΪΟΓΟΟΟΒ8Π1], False eng
 good ρυοα False eng
 order; ο7 False eng
 # 34 11 15 ‘adornment. ᾿σαΐογ21716737.
-‘adornment. ᾿σαΐογ21716737. False na
+adornment. ᾿σαΐογ21716737. False na
 # 35 42 41 kovdos,  -η,  -ov,  light; xédpros Koddos, κοῦφος,  -ή,  -ον,  ἐζράξ; χόρτος κοῦφος,
 κοῦφος, kovdos, True lex
--ή, -η, True pp
+-η, True pp
 -ον, -ov, True pp
 light; ἐζράξ; False eng
 χόρτος xédpros True pp
@@ -228,13 +225,13 @@ a ἃ False eng
 crest οτγαϑί False eng
 of οἵ False eng
 horsehair. πουβομαῖγ, False eng
-ὅ6ες See True pp
+See True pp
 Figs. ΕἾρϑ. False na
 # 42 34 34 6,  7,  8,  II,  pp. 40,  41,  55. 6,  7,  8,  11,  ΡΡ. 40,  41,  55.
 6, 6, False na
 7, 7, False na
 8, 8, False na
-II, 11, False na
+11, False na
 pp. ΡΡ. False eng
 40, 40, False na
 41, 41, False na
@@ -249,12 +246,8 @@ bor., ὈοΥ., False eng
 Eng. Ἐπρ. False na
 autocracy, διυίζοούδου, False eng
 democracy], ἀθηηοοῦδ False eng
-de ον, False eng
-# 45 6 8 Google (πΘοορῖς
-Google (πΘοορῖς False na
-# 46 19 19 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ ὃ ΑΝΑΒΑΘΙ5
-XENOPHON’S ΧΕΝΟΡΗΟΝ False na
-ὃ ANABASIS True form
+be ον, False eng
+
 # 47 38 40 strong,  rule,  have sway over,  be v- σίγονρ,  γιϑέε,  ἄαυε στυαγ οὐξγ,  ὁέ τς
 strong, σίγονρ, False eng
 rule, γιϑέε, False eng
@@ -262,9 +255,9 @@ have ἄαυε False eng
 sway στυαγ False eng
 over, οὐξγ, False eng
 be ὁέ False eng
-v- τς False na
+vic- τς False na
 # 48 37 38 lorious,  conquer,  abs. or with gen. ἰογἼο145,  ἐογ φεῦ,  ΔῸ5. οὐ νν τ βεη.
-lorious, ἰογἼο145, False na
+torious, ἰογἼο145, False na
 conquer, ἐογ False eng
 abs. φεῦ, False eng
 or ΔῸ5. False eng
@@ -272,15 +265,15 @@ with οὐ False eng
 gen. νν False eng
 # 49 45 44 Kpartp,  -7jpos,  6 [xepdvvvyut,  mzzx; bor., κρατήρ,  -ῆρος,  ὁ [κεράννῦμι,  »εχ ,  Ὀοτ.,
 κρατήρ, Kpartp, True lex
--7jpos, -ῆρος, False na
+-ῆρος, False na
 ὁ 6 True lex
-[κεράννῦμι, [xepdvvvyut, True pp
-mzzx; »εχ False na
+[κεράννυμι, [xepdvvvyut, True pp
+mix; »εχ False na
 bor., , False eng
 # 50 35 37 Eng. crater],  /arge bowl,  used by Επρ. ογδῖθγ],  ἐαγρὲ ὀοτυΐ,  ἀϑεὰ ὈΥ͂
 Eng. Επρ. False na
 crater], ογδῖθγ], False eng
-/arge ἐαγρὲ False na
+large ἐαγρὲ False na
 bowl, ὀοτυΐ, False eng
 used ἀϑεὰ False eng
 by ὈΥ͂ False eng
@@ -306,7 +299,7 @@ p. Ρ. False eng
 207. 207. False na
 # 54 39 38 xparirros,  -1,  -ov [xpdros}] (used as κράτιστος,  -ή,  -ον [κράτος] (υδεά 85
 κράτιστος, xparirros, True pp
--ή, -1, True pp
+-η, -1, True pp
 -ον -ov True pp
 [κράτος] [xpdros}] True pp
 (used (υδεά False eng
@@ -326,7 +319,7 @@ strong), 5(707:0), False eng
 best, ὀέδί, False eng
 strongest, “170 False eng
 # 57 36 38 bxavest,  noblest. Neut. acc. pl. as ὀκαυεεί,  ποόέεεί, . Νααῖ. δος. Ρ]. 85
-bxavest, ὀκαυεεί, False na
+bravest, ὀκαυεεί, False na
 noblest. ποόέεεί, False eng
 Neut. . False na
 acc. Νααῖ. False eng
@@ -369,7 +362,7 @@ reserve τέβεῦνε False eng
 power). ροόψετῖ). False eng
 # 64 37 35 kpavyf,  -js [cp. xpdfw,  cry],  cry, κραυγή,  -ἣς [ρ. κράζω,  477},  Φ»,
 κραυγή, kpavyf, True lex
--js -ἣς False na
+-ῆς False na
 [cp. [ρ. False eng
 κράζω, xpdfw, True pp
 cry], 477}, False eng
@@ -379,7 +372,7 @@ shouting; λοι, False eng
 uproar. τ False eng
 # 66 42 43 kpéas,  xpéws,  76 [bor.,  Eng. creosote], κρέας,  κρέως,  τό [ὈὈοτ.,  Επρ. ΟΥΘΟΒΟ[θ],
 κρέας, kpéas, True lex
-xpéws, κρέως, False na
+κρέως, False na
 τό 76 True form
 [bor., [ὈὈοτ., False eng
 Eng. Επρ. False na
@@ -392,7 +385,7 @@ meat, γεϑαΐ. False eng
 κρείττων, kpelrrwv, True pp
 -ον, -ov, True pp
 gen. σ6η. False eng
--ovos -ονος False na
+-ονος False na
 [κράτος] [xparos] True pp
 (used (υ5εἀ False eng
 # 69 36 38 as comp. of dya0és,  really comp. of 85 σοηρ. οὗ ἀγαθός,  τε 4 }}7 σοῃρ. οὗ
@@ -421,40 +414,38 @@ valuable. ναἐμαῤέο. False eng
 κρεμήσομαι kpeutoroua: True pp
 [cp. [ςΡ. False eng
 κρεμάννυμι], xpeudrriue True pp
-}, NA False na
 # 74 28 27 intr.,  be suspended,  hang. ἰπίγ, ,  ἐφ σιϑῤεγεεω,  ἀκ.
 intr., ἰπίγ, False eng
 be , False eng
 suspended, ἐφ False eng
 hang. σιϑῤεγεεω, False eng
 # 75 39 39 Kpepdvvtp.,  Kpeud,  éxpéuaca,  éxpeud- κρεμάννῦμι,  κρεμῶ,  ἐκρέμασα,  ἐκρεμά-
-κρεμάννῦμι, Kpepdvvtp., True pp
+κρεμάννυμι, Kpepdvvtp., True pp
 κρεμῶ, Kpeud, True pp
 ἐκρέμασα, éxpéuaca, True pp
-éxpeud- ἐκρεμά- False na
+ἐκρεμά- False na
 # 76 41 39 oOnv (cp. kpévapac },  transitive,  hang, σθην [ςΡ. κρέμαμαι}],  ἰτϑῃ51να,  ἀαλδ,
 σθην oOnv True pp
-(cp. [ςΡ. False eng
-kpévapac κρέμαμαι}], False na
-}, ἰτϑῃ51να, False na
+[cp. [ςΡ. False eng
+κρέμαμαι], False na
 transitive, ἀαλδ, False eng
 hang, NA False eng
 # 77 8 7 hang up. ἤαηρ τ.
 hang ἤαηρ False eng
 up. τ. False eng
-# 78 32 35 Kphvn,  -ns,  spring,  fountain. κρήνη,  -ἡς,  “2γ1ιο,  7οτερεα 172.
+# 78 32 35 Kphvn,  -ns,  spring,  fountain. κρήνη,  -ῆς,  “2γ1ιο,  7οτερεα 172.
 κρήνη, Kphvn, True lex
--ns, -ἡς, False na
+-ῆς, False na
 spring, “2γ1ιο, False eng
 fountain. 7οτερεα False eng
 # 79 32 33 Kpymts,  -idos,  7,  foundation. κρηπίς,  -ἶδος,  ἡ,  , οτηηαα ον.
 κρηπίς, Kpymts, True lex
--ἶδος, -idos, True pp
+-ῖδος, -idos, True pp
 ἡ, 7, True case
 foundation. , False eng
 # 80 40 41 Kpfs,  Kpyrés,  6,  Cretan,  a native of Κρής,  Κρητός,  ὁ,  (γείαγι,  ἃ παϊϊνε οἵ
 Κρής, Kpfs, True lex
-Kpyrés, Κρητός, False na
+Κρητός, False na
 ὁ, 6, True lex
 Cretan, (γείαγι, False na
 a ἃ False eng
@@ -485,12 +476,12 @@ its 115 False eng
 archers. ἀγοῃοῖβ. False eng
 # 85 41 45 Kpt0n,  -7s,  always pl. in the Anadasis, κριθή,  -ῆς, ,  ΑΙ'νναγβ Ρ]. ἴῃ (8ς “Ἵπαδας1,
 κριθή, Kpt0n, True lex
--7s, -ῆς, False na
+-ῆς, False na
 always , False eng
 pl. ΑΙ'νναγβ False eng
 in Ρ]. False eng
 the ἴῃ False eng
-Anadasis, (8ς False na
+Anabasis, (8ς False na
 # 86 21 21 barleycorns,  barley. ὀαγέφγεο»ρς,  δαγέεγ.
 barleycorns, ὀαγέφγεο»ρς, False na
 barley. δαγέεγ. False eng
@@ -516,6 +507,6 @@ barley. ἢ False eng
 # 90 44 44 Kptvo,  Kpiv®,  Expiva,  Kéxpixa,  Kéxptual, κρίνω,  κρινῶ,  ἔκρινα,  κέκρικα,  κέκριμαι,
 κρίνω, Kptvo, True pp
 κρινῶ, Kpiv®, True pp
-Expiva, ἔκρινα, False na
+ἔκρινα, False na
 κέκρικα, Kéxpixa, True pp
 κέκριμαι, Kéxptual, True pp

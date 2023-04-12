@@ -460,9 +460,9 @@ rule], γε], False eng
 # 77 14 11 village chief. νἱίαρε εἶτ.
 village νἱίαρε False eng
 chief. εἶτ. False eng
-# 78 36 38 kopn,  -ys [cogn.,  Eng. home],  un- κώμη,  -ἡς [Τορῃ.,  Επρ. ΒΟΙΏ67],  υἡ-
+# 78 36 38 kopn,  -ys [cogn.,  Eng. home],  un- κώμη,  -ῆς [Τορῃ.,  Επρ. ΒΟΙΏ67],  υἡ-
 κώμη, kopn, True lex
--ys -ἡς False na
+-ys -ῆς False na
 [cogn., [Τορῃ., False na
 Eng. Επρ. False na
 home], ΒΟΙΏ67], False eng
