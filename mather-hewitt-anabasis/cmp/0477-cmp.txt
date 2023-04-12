@@ -1,0 +1,556 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΓΑΚΥ
+VOCABULARY ΝΟΓΑΒΌΓΑΚΥ False na
+# 1 44 45 Awvods,  -η,  -odv,  contracted from Alveos, λινοῦς,  -ἢ,  -οῦν,  ςοηἰγαοϊεά ἔτοπι λίνεος,
+λινοῦς, Awvods, True form
+-η, -ἢ, False na
+-odv, -οῦν, False na
+contracted ςοηἰγαοϊεά False eng
+from ἔτοπι False eng
+λίνεος, Alveos, True lex
+# 2 38 42 -a,  -ov [Alvov,  linen,  cogn.,  Lat. «ἃ,  τον [λένον,  Ζζγιθ2,  σορῃ.,  [1, δϊ.
+-a, «ἃ, False na
+τον -ov True pp
+[λένον, [Alvov, True pp
+linen, Ζζγιθ2, False eng
+cogn., σορῃ., False na
+Lat. [1, False na
+# 3 24 28 linum,  fax],  of linen. Ἰτηυπι,  ἤαχ],  ο7) ἐϊγεό᾽:.
+linum, Ἰτηυπι, False eng
+fax], ἤαχ], False eng
+of ο7) False eng
+linen. ἐϊγεό᾽:. False eng
+# 4 41 40 AoylLopar,  Aoyiodpuar,  éAoyioduny,  Ae- λογίζομαι,  λογιοῦμαι,  ἐλογισάμην,  λε-
+λογίζομαι, AoylLopar, True pp
+λογιοῦμαι, Aoyiodpuar, True pp
+ἐλογισάμην, éAoyioduny, True pp
+Ae- λε- False na
+# 5 32 33 A6yiopat,  EdoylcOnv [cp. réyw], λόγισμαι,  ἐλογίσθην [“ρΡ. λέγω],
+λόγισμαι, A6yiopat, True pp
+ἐλογίσθην EdoylcOnv True pp
+[cp. [“ρΡ. False eng
+λέγω], réyw], True pp
+# 6 36 41 count,  reckon,  consider,  suppose. εο14712,  γοσξογι,  εογ1516127,  σῤῥοΞῥέ.
+count, εο14712, False eng
+reckon, γοσξογι, False eng
+consider, εογ1516127, False eng
+suppose. σῤῥοΞῥέ. False eng
+# 7 34 37 Asyos,  -ov [Aéyw; bor. Eng. loga- λόγος,  .ου [λέγω; Ὀοτ.,  Επηρ. Ἰογᾶ-
+λόγος, Asyos, True lex
+.ου -ov True pp
+[λέγω; [Aéyw; True pp
+bor. Ὀοτ., False eng
+Eng. Επηρ. False na
+loga- Ἰογᾶ- False na
+# 8 36 36 rithm,  logomachy,  theology,  cata- τἰ πὰ,  ΙΟ οι Δ ΏΥ,  {ποοΪοσΥ,  οδδ-
+rithm, τἰ False na
+logomachy, πὰ, False eng
+theology, ΙΟ False eng
+cata- οι False na
+# 9 34 36 logue,  dialogue],  word,  speech; Ιοσιιθ,  ἄϊδίοσιθ)],  τυογ,  ςῥέεελ,
+logue, Ιοσιιθ, False na
+dialogue], ἄϊδίοσιθ)], False eng
+word, τυογ, False eng
+speech; ςῥέεελ, False eng
+# 10 37 42 debate,  discussion,  report,  rumor; εἰρόαίο,  αἰϊδειδεῖορ,  γ7έῤογί,  γ17ΙΟ7 ,
+debate, εἰρόαίο, False eng
+discussion, αἰϊδειδεῖορ, False eng
+report, γ7έῤογί, False eng
+rumor; γ17ΙΟ7 False eng
+# 11 41 45 book,  narrative,  pl\.,  words,  conver- δοοῦ,  παγγαζῖνε; ΡὈΪ].,  τυογ αἷς,  εογεῦε7-
+book, δοοῦ, False eng
+narrative, παγγαζῖνε; False eng
+pl\., ΡὈΪ]., False na
+words, τυογ False eng
+αἷς, conver- True form
+# 12 37 41 sation; els Nbyous EpyerOat,  come to σαζογι,; εἰς λόγους ἔρχεσθαι,  κο0)γ16 20
+sation; σαζογι,; False eng
+els εἰς False eng
+λόγους Nbyous True pp
+EpyerOat, ἔρχεσθαι, False na
+come κο0)γ16 False eng
+to 20 False eng
+# 13 35 36 a conference,  with dat. of person. αὶ εογιγέγερες,  ΜΙ] ἀαΐ. οἵ ρεΐϑοῃ.
+a αὶ False eng
+conference, εογιγέγερες, False eng
+with ΜΙ] False eng
+dat. ἀαΐ. False eng
+of οἵ False eng
+person. ρεΐϑοῃ. False eng
+# 14 37 38 Asyxn,  -7s,  spear head,  spear. See λόγχη,  -ἡ5,  “2467 ἀεαα,  ς2εα7γ. ὅεε
+λόγχη, Asyxn, True lex
+-7s, -ἡ5, False na
+spear “2467 False eng
+head, ἀεαα, False eng
+spear. ς2εα7γ. False eng
+See ὅεε False na
+# 15 36 37 Introd. § 58,  and Fig. 72,  p. 218. Ιηϊτοά,  ὃ 58,  ἀηὰ ΕἸΡ. 72,  Ρ. 218.
+Introd. Ιηϊτοά, False na
+§ ὃ False eng
+58, 58, False na
+and ἀηὰ False eng
+Fig. ΕἸΡ. False na
+72, 72, False na
+p. Ρ. False eng
+218. 218. False na
+# 16 38 38 Aordopéw,  Aocdopjow,  etc. [Aoldopos, λοιδορέω,  λοιδορήσω,  εἰς. [λοίδορος,
+λοιδορέω, Aordopéw, True pp
+λοιδορήσω, Aocdopjow, True pp
+etc. εἰς. False eng
+[λοίδορος, [Aoldopos, True lex
+# 17 26 26 abusive],  abuse,  revile. αὐμεῖνε],  αὐτέδε,  γευϊζ.
+abusive], αὐμεῖνε], False eng
+abuse, αὐτέδε, False eng
+revile. γευϊζ. False eng
+# 18 44 42 Aoutrds,  -7),  -6v [Aelrw],  left,  remain- λοιπός,  -ή,  -ὁν [λείπω],  27,  γερεαῖγ:-
+λοιπός, Aoutrds, True lex
+-ή, -7), True pp
+-6v -ὁν False na
+[λείπω], [Aelrw], True pp
+left, 27, False eng
+remain- γερεαῖγ:- False na
+# 19 35 37 ing,  Dowdy por elretv,  if remains 170,  λοιπόν μοι εἰπεῖν,  1 γ6)141715
+ing, 170, False eng
+λοιπόν Dowdy True form
+por μοι False eng
+εἰπεῖν, elretv, True form
+if 1 False eng
+remains γ6)141715 False eng
+# 20 35 38 Sor me to say; 6 dowds,  the other; 7Ὁ7 ρἘι6 10 5»,  ὁ λοιπός,  {Δὲ οἵἠεγ;
+Sor 7Ὁ7 False na
+me ρἘι6 False eng
+to 10 False eng
+say; 5», False eng
+ὁ 6 True lex
+λοιπός, dowds, True lex
+the {Δὲ False eng
+other; οἵἠεγ; False eng
+# 21 37 40 ol dowrol,  the rest,  those who were οἱ λοιποί,  ζζ6 γεεί,  ζάοδο τοὴο τῦό7γέ
+ol οἱ False eng
+dowrol, λοιποί, False na
+the ζζ6 False eng
+rest, γεεί, False eng
+those ζάοδο False eng
+who τοὴο False eng
+were τῦό7γέ False eng
+# 22 39 37 left; Thv rNouwhy (sc. 666v),  the rest ἰο,  τὴν λοιπὴν (8ς. ὁδόν),  206 γεεΐ
+left; ἰο, False eng
+τὴν Thv True form
+λοιπὴν rNouwhy True form
+(sc. (8ς. False eng
+ὁδόν), 666v), True form
+the 206 False eng
+rest γεεΐ False eng
+# 23 40 41 of the way; Td drorrdy,  as subst.,  che ΟΥ̓ τε τυαγ,  τὸ λοιπόν,  ἃ5 5} 5ῖ.,  2λε
+of ΟΥ̓ False eng
+the τε False eng
+way; τυαγ, False eng
+τὸ Td True form
+λοιπόν, drorrdy, True form
+as ἃ5 False eng
+subst., 5} False eng
+che 5ῖ., False eng
+# 24 43 43 rest,  as adv.,  the rest of the time,  for γεεί,  ἃ5 δᾶν, ,  216 γεερέ οὐ 1 ἐἶνεθ,  07
+rest, γεεί, False eng
+as ἃ5 False eng
+adv., δᾶν, False eng
+the , False eng
+rest 216 False eng
+of γεερέ False eng
+the οὐ False eng
+time, 1 False eng
+for ἐἶνεθ, False eng
+# 25 11 9 the future. ζλε Μώπε.
+the ζλε False eng
+future. Μώπε. False eng
+# 26 42 45 Aovorets,  -éws,  6,  Lustan,  a native of «Δουσιεύς,  -έως,  ὁ,  τ 51 61,  8. παϊϊνα οὗ
+Aovorets, «Δουσιεύς, False na
+-éws, -έως, False na
+ὁ, 6, True lex
+Lustan, τ False na
+a 51 False eng
+native 61, False eng
+of 8. False eng
+# 27 34 37 Lusi,  a town in northern Arcadia. Γ, 05],  4 ἴον ἴῃ πουίῆοσγηῃ Ατοδάϊδ,
+Lusi, Γ, False na
+a 05], False eng
+town 4 False eng
+in ἴον False eng
+northern ἴῃ False eng
+Arcadia. πουίῆοσγηῃ False na
+# 28 35 35 Addos,  -ov,  crest,  ridge,  hill. λόφος,  -ου,  ἐεγε::,  γίώρε,  ἀϊέ.
+λόφος, Addos, True lex
+-ου, -ov, True pp
+crest, ἐεγε::, False eng
+ridge, γίώρε, False eng
+hill. ἀϊέ. False eng
+# 29 41 40 AoxaGyla,  -ας [Noxayds],  office of cap- λοχᾶγία,  -ἂἃς [λοχᾶγός],  οὔῆεε ο7) εα-
+AoxaGyla, λοχᾶγία, False na
+-ας -ἂἃς False na
+[Noxayds], [λοχᾶγός], False na
+office οὔῆεε False eng
+of ο7) False eng
+cap- εα- False na
+# 30 17 16 tain,  captaincy. ζαΐγ,  εαξέατγο.
+tain, ζαΐγ, False eng
+captaincy. εαξέατγο. False eng
+# 31 35 35 AoxGyds,  -0F [Adxos,  Ayw,  lead], λοχᾶγός,  -ου [λόχος,  ἄγω,  Ζεα47,
+AoxGyds, λοχᾶγός, False na
+-ου -0F True pp
+[λόχος, [Adxos, True lex
+ἄγω, Ayw, True pp
+lead], Ζεα47, False eng
+# 32 32 35 leader of a dbxos,  captain. See ἠδας7,  ΟΥ̓ α λόχος,  ἐαῤίαΐϊῃ. 866
+leader ἠδας7, False eng
+of ΟΥ̓ False eng
+a α False eng
+λόχος, dbxos, True lex
+captain. ἐαῤίαΐϊῃ. False eng
+See 866 False na
+# 33 13 13 Introd. § 56. Τηἰτοά. ὃ ς6.
+Introd. Τηἰτοά. False na
+§ ὃ False eng
+56. ς6. False na
+# 34 38 41 Adxos,  -ov [cp. Adyw,  in old meaning λόχος,  -οὅυὅ [ορ. λέγω,  ἴπ οἷά πηεαηϊηρ
+λόχος, Adxos, True lex
+-ov -οὅυὅ False na
+[cp. [ορ. False eng
+λέγω, Adyw, True pp
+in ἴπ False eng
+old οἷά False eng
+meaning πηεαηϊηρ False eng
+# 35 41 51 lay,  mid.,  lie],  ambush,  men lying in ἔαν,  ταῖά, ,  4ϊ67,  αγιεῤιφοἦ,  γι67: ἐντγιρ' 172
+lay, ἔαν, False eng
+mid., ταῖά, False eng
+lie], , False eng
+ambush, 4ϊ67, False eng
+men αγιεῤιφοἦ, False eng
+lying γι67: False eng
+in ἐντγιρ' False eng
+# 36 32 35 ambush; company,  normally,  but α»ιόμοά,  εορραγ,  ἨοττλδΙ]γν,  αΐϊ
+ambush; α»ιόμοά, False eng
+company, εορραγ, False eng
+normally, ἨοττλδΙ]γν, False eng
+but αΐϊ False eng
+# 37 35 37 not always,  of loomen. See Introd. ποῖ αἰννδύϑ,  οὗ [00 θη. ὅ566 [πίτοα.
+not ποῖ False eng
+always, αἰννδύϑ, False eng
+of οὗ False eng
+loomen. [00 False na
+See θη. False na
+Introd. ὅ566 False na
+# 38 5 5 § 56. δ 56.
+§ δ False eng
+56. 56. False na
+# 39 42 44 Awb&(G,  -ας,  Lydia,  a district in west- Λυδία,  -ας,  2γαϊα,  ἃ ἀἰϊκιτὶοες ἴῃ ψψοϑί-
+Λυδία, Awb&(G, True lex
+-ας, -ας, False na
+Lydia, 2γαϊα, False na
+a ἃ False eng
+district ἀἰϊκιτὶοες False eng
+in ἴῃ False eng
+west- ψψοϑί- False na
+# 40 33 33 ern Asia Minor,  bordering on the ογη Αϑὶὰ Μίηοσ,  Ὀογάήογηρ οὐ ἴδα
+ern ογη False eng
+Asia Αϑὶὰ False na
+Minor, Μίηοσ, False na
+bordering Ὀογάήογηρ False eng
+on οὐ False eng
+the ἴδα False eng
+# 41 38 38 Aegéan,  part of the satrapy of Cyrus. Αδρξδῃ,  ρᾶτῖ οὔ [πε βδίγαρυ οἵ Ουγυβ.
+Aegéan, Αδρξδῃ, False na
+part ρᾶτῖ False eng
+of οὔ False eng
+the [πε False eng
+satrapy βδίγαρυ False eng
+of οἵ False eng
+Cyrus. Ουγυβ. False na
+# 42 37 39 AS8.0s,  -4,  -ov [Avdés],  of Lydia, Λύδιος,  -α,  -ον [Λῦδός],  οΓ δΔργαΐα,
+Λύδιος, AS8.0s, True lex
+-α, -4, True pp
+-ον -ov True pp
+[Avdés], [Λῦδός], False na
+of οΓ False eng
+Lydia, δΔργαΐα, False na
+# 43 7 10 Lydian. 2, γαϊα»:.
+Lydian. 2, False na
+# 44 41 45 Av8és,  -00,  Lydian,  a native of Lydia. “ΔΛῦυδός,  -ου,  2 γἴανι,  ἃ παῖϊνε οὗ λγαϊα.
+Av8és, “ΔΛῦυδός, False na
+-ου, -00, True pp
+Lydian, 2 False na
+a γἴανι, False eng
+native ἃ False eng
+of παῖϊνε False eng
+οὗ Lydia. True lex
+# 45 13 15 ANABASIS — 30 ΑΝΑΒΑΘΙ5 --- 30
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+— --- False na
+30 30 False na
+# 46 6 7 Google (ποοσίο
+Google (ποοσίο False na
+# 47 3 4 465 4605
+465 4605 False na
+# 48 40 40 Avnata,  -w,  rd,  the Lycaea,  the fes- Δύκαια,  -ων,  τά,  24 Ἴγεαεα,  τὴς [ς5-
+Avnata, Δύκαια, False na
+-ων, -w, True pp
+rd, τά, False eng
+the 24 False eng
+Lycaea, Ἴγεαεα, False na
+the τὴς False eng
+fes- [ς5- False na
+# 49 36 39 tival of Lycaean Zeus,  who was wor- ἔνα] οὗ [γοδεδη Ζευβ,  ν ἢοῸ ννὰβ νγου-
+tival ἔνα] False na
+of οὗ False eng
+Lycaean [γοδεδη False na
+Zeus, Ζευβ, False na
+who ν False eng
+was ἢοῸ False eng
+wor- ννὰβ False na
+# 50 30 32 shiped on Mt. Lycaeus,  in the Βῃ!ρεά οὐ Μι. ]1γοδευβ,  ἰῃ [(δς
+shiped Βῃ!ρεά False na
+on οὐ False eng
+Mt. Μι. False na
+Lycaeus, ]1γοδευβ, False na
+in ἰῃ False eng
+the [(δς False eng
+# 51 34 35 southwestern part of Arcadia. Ath- βΒουτννεϑίθγῃ ρατί οὗ Ατοδάϊα. Αἰἢ-
+southwestern βΒουτννεϑίθγῃ False eng
+part ρατί False eng
+of οὗ False eng
+Arcadia. Ατοδάϊα. False na
+Ath- Αἰἢ- False na
+# 52 33 32 letic games were a feature of the Ἰεῖῖς ρᾶιῆεβ εῦα ἃ ἰδαΐυγε οὗ τς
+letic Ἰεῖῖς False na
+games ρᾶιῆεβ False eng
+were εῦα False eng
+a ἃ False eng
+feature ἰδαΐυγε False eng
+of οὗ False eng
+the τς False eng
+# 53 9 9 festival. [ἐϑεϊνα].
+festival. [ἐϑεϊνα]. False eng
+# 54 40 42 Avxdoves,  -w,  ol,  Lycainians,  people Δυκᾶονες,  -ων,  οἱ,  Ζγεαδρἴαγι5,  ῬΘΟρΙῈ
+Δυκᾶονες, Avxdoves, True pp
+-ων, -w, True pp
+ol, οἱ, False eng
+Lycainians, Ζγεαδρἴαγι5, False na
+people ῬΘΟρΙῈ False eng
+# 55 34 36 of Lycadnia; they did not acknowl- οὗ Γυγοδδηϊα; ἴΠῈῪ αἴ] ηοΐϊ δοκπον]-
+of οὗ False eng
+Lycadnia; Γυγοδδηϊα; False na
+they ἴΠῈῪ False eng
+did αἴ] False eng
+not ηοΐϊ False eng
+acknowl- δοκπον]- False na
+# 56 31 33 edge the Persian sway and often οἄρα [ῃ6 Ῥευβίδῃ 5 ᾺῪ δηῃά οἔϊεξῃ
+edge οἄρα False eng
+the [ῃ6 False eng
+Persian Ῥευβίδῃ False na
+sway 5 False eng
+and ᾺῪ False eng
+often δηῃά False eng
+# 57 35 37 raided the neighboring districts of ταϊ]εα (ῃε πεὶρῃθοσγίηρ αἰπιτιοῖβ. οὗ
+raided ταϊ]εα False eng
+the (ῃε False eng
+neighboring πεὶρῃθοσγίηρ False eng
+districts αἰπιτιοῖβ. False eng
+of οὗ False eng
+# 58 11 12 the empire. {π6 ετορῖγε.
+the {π6 False eng
+empire. ετορῖγε. False eng
+# 59 41 44 Avxiovia,  -ας,  Lycadnta,  a district of ΔΛυκδονίᾷ,  -ας,  ἡ γεαδηιέα,  ἃ ἀἰκιτίοι οὗ
+Avxiovia, ΔΛυκδονίᾷ, False na
+-ας, -ας, False na
+ἡ Lycadnta, True case
+a γεαδηιέα, False eng
+district ἃ False eng
+of ἀἰκιτίοι False eng
+# 60 34 37 Asia Minor,  lying between Phrygia Αϑ5:ὰ Μίμοσ,  ᾿γίηρ Ὀεΐννεεη ῬἈτγυρία
+Asia Αϑ5:ὰ False na
+Minor, Μίμοσ, False na
+lying ᾿γίηρ False eng
+between Ὀεΐννεεη False eng
+Phrygia ῬἈτγυρία False na
+# 61 12 12 and Cilicia. δῃηα ΟἸΙοἰδ.
+and δῃηα False eng
+Cilicia. ΟἸΙοἰδ. False na
+# 62 41 40 Adnvos,  -ov,  Lycius,  (1) a Syraciisan; Δύκιος,  -ου,  2γατς,  (1) ἃ ϑγτγαοῦβδῃ;
+Adnvos, Δύκιος, False na
+-ου, -ov, True pp
+Lycius, 2γατς, False na
+(1) (1) False na
+a ἃ False eng
+Syraciisan; ϑγτγαοῦβδῃ; False na
+# 63 32 35 (2) an Athenian,  chosen to com- (2) δι Αἰ μβεηΐδῃ,  σἤοβθῃ ἴο οοτη-
+(2) (2) False na
+an δι False eng
+Athenian, Αἰ False na
+chosen μβεηΐδῃ, False eng
+to σἤοβθῃ False eng
+com- ἴο False na
+# 64 33 35 mand the cavalry of the Greeks on τηδηά [ἢ σἄνδίσυΥ οὗ [ες ασεεῖκ οἡὴ
+mand τηδηά False eng
+the [ἢ False eng
+cavalry σἄνδίσυΥ False eng
+of οὗ False eng
+the [ες False eng
+Greeks ασεεῖκ False na
+on οἡὴ False eng
+# 65 12 12 the retreat. [ῃς τεῖγεδί.
+the [ῃς False eng
+retreat. τεῖγεδί. False eng
+# 66 37 38 ATpalvopar,  Avuavotua,  édvounvdunp, λυμαίνομαι,  λῦυμανοῦμαι,  ἐλυμηνάμην,
+λυμαίνομαι, ATpalvopar, True pp
+λῦυμανοῦμαι, Avuavotua, True pp
+ἐλυμηνάμην, édvounvdunp, True pp
+# 67 37 37 AerdSuacuat,  éAXuudvOnY [Adun,  oul- λελύόμασμαι,  ἐλυμάνθην [λύμη,  οτεζ-
+λελύόμασμαι, AerdSuacuat, True pp
+ἐλυμάνθην éAXuudvOnY True pp
+[λύμη, [Adun, True lex
+oul- οτεζ- False na
+# 68 31 32 rage),  outrage,  ruin,  spoil. γαρε],  οτγαρέ,  γ1ε171,  5ῤοτέ.
+rage), γαρε], False eng
+outrage, οτγαρέ, False eng
+ruin, γ1ε171, False eng
+spoil. 5ῤοτέ. False eng
+# 69 40 40 Adréw,  Avrjow,  etc. [Abwy],  give pain λυπέω,  λυπήσω,  εἴς. [λύπη],  γίνε ῥαῖρ
+λυπέω, Adréw, True pp
+λυπήσω, Avrjow, True pp
+etc. εἴς. False eng
+[λύπη], [Abwy], True lex
+give γίνε False eng
+pain ῥαῖρ False eng
+# 70 29 30 to,  grieve,  annoy,  harass. ἴο,  σγίευε,  ἀμ πο»,  ἤαγα5:.
+to, ἴο, False eng
+grieve, σγίευε, False eng
+annoy, ἀμ False eng
+harass. πο», False eng
+# 71 26 25 AGan,  -n5,  Pain,  grief. λύπη,  -ης,  ξαΐ»,  ργίεξ
+λύπη, AGan, True lex
+-n5, -ης, False na
+Pain, ξαΐ», False na
+grief. ργίεξ False eng
+# 72 36 38 Avrnpdés,  -d,  -dy [brn],  painful, λυπηρός,  -ά,  -ὁν [λύπη],  4.αἱγι γε,
+λυπηρός, Avrnpdés, True lex
+-d, -ά, False na
+-dy -ὁν False na
+[λύπη], [brn], True lex
+painful, 4.αἱγι False eng
+# 73 23 26 troublesome,  annoying. ἐγοιεὀέφεογεῦ,  αΉ ογ γιρ,
+troublesome, ἐγοιεὀέφεογεῦ, False eng
+annoying. αΉ False eng
+# 74 37 38 A¥w,  Adow,  Zd\doa,  NAUKA,  AdAUAL, λύω,  λύσω,  ἔλῦσα,  λέλυκα,  λέλυμαι,
+λύω, A¥w, True pp
+λύσω, Adow, True pp
+ἔλῦσα, Zd\doa, True pp
+λέλυκα, NAUKA, True pp
+λέλυμαι, AdAUAL, True pp
+# 75 39 42 é\vOnv [cogn.,  Lat. /ud,  loose,  Eng. ἐλύθην [΄σορπ.,  1, 81. ἠμῦ,  ἦροδε,  Ἐπρ.
+ἐλύθην é\vOnv True pp
+[cogn., [΄σορπ., False na
+Lat. 1, False na
+/ud, 81. False na
+loose, ἠμῦ, False eng
+Eng. ἦροδε, False na
+# 76 36 37 loose,  lose; bor.,  Eng. analysis], Ἰοοβ6,  1086; Ὀοτ.,  Επρ. 8Δ}4]γ818],
+loose, Ἰοοβ6, False eng
+lose; 1086; False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+analysis], 8Δ}4]γ818], False eng
+# 77 40 37 loose,  release,  unbind,  untie,  break ἔοοδε,  γείσαςε,  μόρα,  φΉ16,  ὀγεαξ
+loose, ἔοοδε, False eng
+release, γείσαςε, False eng
+unbind, μόρα, False eng
+untie, φΉ16, False eng
+break ὀγεαξ False eng
+# 78 37 42 down,  destroy,  remove; break,  vio- ἀοτυ»ι,  αἰδείγον,  γώρμους,  ὀγέαξ,  σἱο-
+down, ἀοτυ»ι, False eng
+destroy, αἰδείγον, False eng
+remove; γώρμους, False eng
+break, ὀγέαξ, False eng
+vio- σἱο- False na
+# 79 39 39 late; pay,  be profitable (poetic use = ἐαΐε; 2αγ,  ὁε »γοϊίαδέε (ροείϊς ὰ86 Ξξ
+late; ἐαΐε; False eng
+pay, 2αγ, False eng
+be ὁε False eng
+profitable »γοϊίαδέε False eng
+(poetic (ροείϊς False eng
+use ὰ86 False eng
+= Ξξ False na
+# 80 23 23 Auocredetv),  172,  25. λυσιτελεῖν),  172,  25.
+λυσιτελεῖν), Auocredetv), True form
+172, 172, False na
+25. 25. False na
+# 81 42 42 Awroddyot,  -wy,  of [Awrds,  lotus,  Epa- λωτοφάγοι,  «ων,  οἱ [λωτός,  ἠοίπ5,  ἔφα-
+λωτοφάγοι, Awroddyot, True lex
+«ων, -wy, True pp
+of οἱ False eng
+[λωτός, [Awrds, True lex
+lotus, ἠοίπ5, False eng
+Epa- ἔφα- False na
+# 82 38 37 yor,  see écblw,  eat],  lotus eaters. ὝοΟν,  566 ἐσθίω,  τα},  ἠοί5 φαϊέ7ς.
+yor, ὝοΟν, False eng
+see 566 False eng
+ἐσθίω, écblw, True pp
+eat], τα}, False eng
+lotus ἠοί5 False eng
+eaters. φαϊέ7ς. False eng
+# 83 35 35 The lotus,  which may have been one ΤΠἼε Ἰοΐα5,  ΜΠ] ἢ τᾶν αν θΘΘ ἢ ομα
+The ΤΠἼε False na
+lotus, Ἰοΐα5, False eng
+which ΜΠ] False eng
+may ἢ False eng
+have τᾶν False eng
+been αν False eng
+one θΘΘ False eng
+# 84 34 29 of the jujube fruits still used in οὗ {86 6 ἔγα!8. 51}}} υϑεὰ ἴῃ
+of οὗ False eng
+the {86 False eng
+jujube 6 False eng
+fruits ἔγα!8. False eng
+still 51}}} False eng
+used υϑεὰ False eng
+in ἴῃ False eng
+# 85 35 34 northern Africa,  was said to be so πουίδογη Αἴτοα,  ννὰ8 ϑαϊά ἴο 6 80
+northern πουίδογη False eng
+Africa, Αἴτοα, False na
+was ννὰ8 False eng
+said ϑαϊά False eng
+to ἴο False eng
+be 6 False eng
+so 80 False eng
+# 86 36 37 delicious that all who ate it forgot ἀε]ϊοϊουβ ἴμδὶ 41} ννῆο δἵε ἰΐ ἐοτροῖ
+delicious ἀε]ϊοϊουβ False eng
+that ἴμδὶ False eng
+all 41} False eng
+who ννῆο False eng
+ate δἵε False eng
+it ἰΐ False eng
+forgot ἐοτροῖ False eng
+# 87 17 19 home and friends. ἢοτης δηὰ {τε η698.
+home ἢοτης False eng
+and δηὰ False eng
+friends. {τε False eng
+# 88 39 39 Awhda,  AwWdijow,  EAWHnea,  AeAwpyKay; λωφάω,  λωφήσω,  ἐλώφησα,  λελώφηκα,  .
+λωφάω, Awhda, True pp
+λωφήσω, AwWdijow, True pp
+ἐλώφησα, EAWHnea, True pp
+λελώφηκα, AeAwpyKay; True pp
+# 89 14 15 abate,  cease. αὐαΐεο,  τδαξε.
+abate, αὐαΐεο, False eng
+cease. τδαξε. False eng
+# 90 38 41 AWwv,  Ago,  gen. -ovos (used as comp. λῴων,  λῷον,  ρεη. -ονος (υϑε4 8ἃ5 σοΙΏΡ.
+λῴων, AWwv, True pp
+λῷον, Ago, True pp
+gen. ρεη. False eng
+-ovos -ονος False na
+(used (υϑε4 False eng
+as 8ἃ5 False eng
+comp. σοΙΏΡ. False eng
+# 91 31 34 of dyads),  efter,  preferable. οὗ ἀγαθός),  ῥε ίε»",  2γεγεγαῤέε.
+of οὗ False eng
+dyads), ἀγαθός), False eng
+efter, ῥε False na
+preferable. ίε»", False eng
+# 92 3 2 oa’ »π
+oa’ »π False na

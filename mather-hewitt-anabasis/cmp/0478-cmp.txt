@@ -1,0 +1,528 @@
+# 0 3 3 466 406
+466 406 False na
+# 1 1 1 M Μ
+M Μ False na
+# 2 37 39 pa (cp. uéy and uy],  intensive adv., μά [ορν. μέν δεῖ μήν],  ἱπιοηβῖνε δεῖν.
+pa μά False eng
+(cp. [ορν. False eng
+μέν uéy True lex
+and δεῖ False eng
+μήν], uy], True lex
+intensive ἱπιοηβῖνε False eng
+adv., δεῖν. False eng
+# 3 40 37 surc/y,  used in neg. oaths,  with acc., “φγείν,  δ οι1ἢ πὸρ. αἴ ἢ5,  Ψ ἢ δος,
+surc/y, “φγείν, False na
+used δ False eng
+in οι1ἢ False eng
+neg. πὸρ. False eng
+oaths, αἴ False eng
+with ἢ5, False eng
+acc., Ψ False eng
+# 4 33 35 ua Tous Weous,  no,  by the gods} μὰ τοὺς θεούς,  κ"ο,  ὁ» ἐἐέ φοιΐ }
+μὰ ua True form
+τοὺς Tous True form
+θεούς, Weous, True form
+no, κ"ο, False eng
+by ὁ» False eng
+the ἐἐέ False eng
+gods} φοιΐ False na
+# 5 21 20 pabys,  sce uavid vw. μάθῃς,  5.ἐ μανθάνω.
+μάθῃς, pabys, True form
+sce 5.ἐ False na
+μανθάνω. uavid True pp
+vw. NA False na
+# 6 39 40 Malav&pos,  -ov [ bor.,  Eng. meander], Μαίανδρος,  -ου [ὑὕώτ.,  Επρ. πιοδηδοΓ],
+Μαίανδρος, Malav&pos, True lex
+-ου -ov True pp
+[ [ὑὕώτ., False na
+bor., Επρ. False eng
+Eng. πιοδηδοΓ], False na
+meander], NA False eng
+# 7 33 33 Macanuer,  a river of Asia Minor, Παεα μιν,  ἃ τῖνοτ οὗ Αϑι4 Μίποσ,
+Macanuer, Παεα False na
+a μιν, False eng
+river ἃ False eng
+of τῖνοτ False eng
+οὗ Asia True lex
+Minor, Αϑι4 False na
+# 8 33 36 entering the Acyean near Milétus; ὀπίοτιηρ τῆς Δλομόδη πρᾶῦ ΔΜΠΠξδίυ5;
+entering ὀπίοτιηρ False eng
+the τῆς False eng
+Acyean Δλομόδη False na
+near πρᾶῦ False eng
+Milétus; ΔΜΠΠξδίυ5; False na
+# 9 30 27 famous for its winding course. [τ 5 ἔοτ 5. ΜΠ ΠΠΡ’ σΟΌΓ56.
+famous [τ False eng
+for 5 False eng
+its ἔοτ False eng
+winding 5. False eng
+course. ΜΠ False eng
+# 10 36 37 palvonar,  pavotua,  péunva,  éudvny μαίνομαι,  μανοῦμαι,  μέμηνα,  ἐμάνην
+μαίνομαι, palvonar, True pp
+μανοῦμαι, pavotua, True pp
+péunva, μέμηνα, False na
+éudvny ἐμάνην False na
+# 11 37 36 [cp. mavia,  madness,  whence is bor- [ρ. μανία,  »ιαὐμέ55,  ΜΘ ΏΟΘ 5 Ποτ-
+[cp. [ρ. False eng
+μανία, mavia, True lex
+madness, »ιαὐμέ55, False eng
+whence ΜΘ False eng
+is ΏΟΘ False eng
+bor- 5 False na
+# 12 33 36 rowed Eng. mania],  de mad or tn- τοννοἱ πηρ. πι814],  ἐξ »ιαα' οὐ Ἴγ-
+rowed τοννοἱ False eng
+Eng. πηρ. False na
+mania], πι814], False eng
+de ἐξ False eng
+mad »ιαα' False eng
+or οὐ False eng
+tn- Ἴγ- False na
+# 13 20 21 sane,  aor,  go mad, “αηδ,  δόῖ,  ρὸ »ιαε,
+sane, “αηδ, False eng
+aor, δόῖ, False eng
+go ρὸ False eng
+mad, »ιαε, False eng
+# 14 40 39 paxapilw,  éuaxdpioa,  éuaxaplo On [ ud- μακαρίζω,  ἐμακάρισα,  ἐμακαρίσθην [μά-
+μακαρίζω, paxapilw, True pp
+ἐμακάρισα, éuaxdpioa, True pp
+ἐμακαρίσθην éuaxaplo True pp
+On [μά- False na
+[ NA False na
+ud- NA False na
+# 15 37 40 kap,  happy],  count happy,  consider καρ,  ἀαὴ}},  εοτε λα. .)}, ,  εοηδὴα δ᾽
+kap, καρ, False na
+happy], ἀαὴ}}, False eng
+count εοτε False eng
+happy, λα. False eng
+consider .)}, False eng
+# 16 10 10 Sortunate, "ογηεπαίξ.
+Sortunate, "ογηεπαίξ. False na
+# 17 34 33 pakapirrés,  -7},  -dy [uaxapltw], μακαριστός,  -ή,  -ὄν [μακαρίζω],
+μακαριστός, pakapirrés, True lex
+-ή, -7}, True pp
+-dy -ὄν False na
+[μακαρίζω], [uaxapltw], True pp
+# 18 35 34 deemed happy,  enviable,  an object ἀδομσα ἀαλδν,  ἐμυταῤέε,  απ οὐγεε
+deemed ἀδομσα False eng
+happy, ἀαλδν, False eng
+enviable, ἐμυταῤέε, False eng
+an απ False eng
+object οὐγεε False eng
+# 19 8 9 of envy. οἥ ἐγιυγ.
+of οἥ False eng
+envy. ἐγιυγ. False eng
+# 20 38 38 paxpds,  -d,  -dy [bor.,  Eng. macron, μακρός,  -ά,  -ὁν [ὕογ.,  Εηρ. πιϑΟΓΟ,
+μακρός, paxpds, True lex
+-d, -ά, False na
+-dy -ὁν False na
+[bor., [ὕογ., False eng
+Eng. Εηρ. False na
+macron, πιϑΟΓΟ, False eng
+# 21 30 34 macrocosm],  /oug; paxpdv (sc. ΤΠ ΔΟΙΟΟΟΒΠῚ},  ἀρ),  μακράν (ϑ8ς.
+macrocosm], ΤΠ False eng
+/oug; ΔΟΙΟΟΟΒΠῚ}, False na
+paxpdv ἀρ), False na
+(sc. μακράν False eng
+# 22 34 35 666y),  @ long distance; similarly ὁδόν),  ὦ ἐρμρ οἸξίαες,  βιται ϊδυν
+ὁδόν), 666y), True form
+ὦ @ True lex
+long ἐρμρ False eng
+distance; οἸξίαες, False eng
+similarly βιται False eng
+# 23 36 35 paxpotépay,  by a longer route,  pa- μακροτέραν,  ὃν α ἐρη!ρε» γος,  μα-
+μακροτέραν, paxpotépay, True form
+by ὃν False eng
+a α False eng
+longer ἐρη!ρε» False eng
+route, γος, False eng
+pa- μα- False na
+# 24 37 35 kpdv Hv,  tf was too far,  with inf.; κρὸν ἦν,  1: τας ἴοο γα7,  ΜᾺ ἱπί,;
+kpdv κρὸν False na
+ἦν, Hv, True form
+tf 1: False na
+was τας False eng
+too ἴοο False eng
+far, γα7, False eng
+with ΜᾺ False eng
+inf.; ἱπί,; False eng
+# 25 28 29 paxpotepor,  adv.,  farther. μακρότερον,  αἄν.,  ζω γέῤέ).
+μακρότερον, paxpotepor, True pp
+adv., αἄν., False eng
+farther. ζω False eng
+# 26 41 42 Maxpoves,  -wv,  ol,  AZacrénes,  a tribe ἹΜΜάκρωνες,  -ων,  οἱ,  ἤ7αςγὄηδς,  ἃ {τ 6
+ἹΜΜάκρωνες, Maxpoves, True pp
+-ων, -wv, True pp
+ol, οἱ, False eng
+AZacrénes, ἤ7αςγὄηδς, False na
+a ἃ False eng
+tribe {τ False eng
+# 27 38 37 south of Trapézus,  the exact location Βοι1ἢ Οἵ ταρδζαβ,  [ΠῸ ὄχϑοῖ Ἰοσδίϊοη
+south Βοι1ἢ False eng
+of Οἵ False eng
+Trapézus, ταρδζαβ, False na
+the [ΠῸ False eng
+exact ὄχϑοῖ False eng
+location Ἰοσδίϊοη False eng
+# 28 22 18 of which is uncertain. οἵ ἢ 15 ἀποοτίδιῃ.
+of οἵ False eng
+which ἢ False eng
+is 15 False eng
+uncertain. ἀποοτίδιῃ. False eng
+# 29 43 46 pada,  by clision wad’,  adv.,  very,  very μάλα,  ὕγ εἸ!πίοῃ μάλ᾽,  ἀἄν.,  ψεζγ»,  τ'67 }
+μάλα, pada, True lex
+by ὕγ False eng
+clision εἸ!πίοῃ False na
+wad’, μάλ᾽, False na
+adv., ἀἄν., False eng
+very, ψεζγ», False eng
+very τ'67 False eng
+# 30 36 39 much,  comp. uadXov,  more,  rather, »ε εὐ,  σοηρ. μᾶλλον,  »ι0γ6,  γαΐζλέν,
+much, »ε False eng
+comp. εὐ, False eng
+uadXov, σοηρ. False na
+more, μᾶλλον, False eng
+rather, »ι0γ6, False eng
+# 31 38 38 betters sup. padduota,  most,  preémi- ὀοίῦ,  5ΒᾺΡ. μάλιστα,  »ιοσί,  ῥ»εώ»ε-
+betters ὀοίῦ, False eng
+sup. 5ΒᾺΡ. False eng
+μάλιστα, padduota, True lex
+most, »ιοσί, False eng
+preémi- ῥ»εώ»ε- False na
+# 32 40 40 nently,  specially,  best,  for the most γογγ,  ςῤεεϊαίίν, " ὁδοί,  707 116 »ιοϑέ
+nently, γογγ, False na
+specially, ςῤεεϊαίίν, False eng
+best, " False eng
+for ὁδοί, False eng
+the 707 False eng
+most 116 False eng
+# 33 34 34 part; ws pddtora,  ws padiora ébv- 2αγί; ὡς μάλιστα,  ὡς μάλιστα ἐδύ-
+part; 2αγί; False eng
+ws ὡς False eng
+μάλιστα, pddtora, True lex
+ws ὡς False eng
+μάλιστα padiora True lex
+ébv- ἐδύ- False na
+# 34 38 37 vato,  7 duvarov puddtora,  ws olév re νατο,  ἡ δυνατὸν μάλιστα,  ὡς οἷόν τε
+vato, νατο, False na
+ἡ 7 True case
+δυνατὸν duvarov True form
+μάλιστα, puddtora, True lex
+ws ὡς False eng
+οἷόν olév True form
+re τε False eng
+# 35 37 40 HadtaTa,  as much (as well) as posst- μάλιστα,  ας γεκεἦ (ας τοοῖϊ) ας 2ος551-
+μάλιστα, HadtaTa, True lex
+as ας False eng
+much γεκεἦ False eng
+(as (ας False eng
+well) τοοῖϊ) False eng
+as ας False eng
+posst- 2ος551- False na
+# 36 37 37 ble; ws Tis Kai ANXos wdrdcora avOpw- ὁέρ,  ὥς τις καὶ ἄλλος μάλιστα ἀνθρώ-
+ble; ὁέρ, False na
+ws ὥς False eng
+τις Tis True lex
+καὶ Kai True form
+ἄλλος ANXos True lex
+μάλιστα wdrdcora True lex
+avOpw- ἀνθρώ- False na
+# 37 36 41 muy,  as well as anybody else in the πων,  ας τουείἑ ας ἀαἀγιγώοων φἔδο 171 δέ
+πων, muy, True pp
+as ας False eng
+well τουείἑ False eng
+as ας False eng
+anybody ἀαἀγιγώοων False eng
+else φἔδο False eng
+in 171 False eng
+the δέ False eng
+# 38 6 7 world, «υογέη,
+world, «υογέη, False eng
+# 39 24 24 pavévres,  see uaivouac. μανέντες,  5ε6 μαίνομαι.
+μανέντες, pavévres, True pp
+see 5ε6 False eng
+μαίνομαι. uaivouac. True pp
+# 40 37 38 avOdva,  uadjcoua,  Euabov,  peuddnka ανθάνω,  μαθήσομαι,  ἔμαθον,  μεμάθηκα
+ανθάνω, avOdva, True pp
+μαθήσομαι, uadjcoua, True pp
+ἔμαθον, Euabov, True pp
+μεμάθηκα peuddnka True pp
+# 41 33 34 6 “bor. Eng. mathematics,  philo- “ ἘΡοῖς Επρ. τηδίμοηδίϊοβ,  Ὁ8110-
+6 “ False na
+“bor. ἘΡοῖς False na
+Eng. Επρ. False na
+mathematics, τηδίμοηδίϊοβ, False eng
+philo- Ὁ8110- False na
+# 42 24 27 math],  earn,  find out. τηδίἢ],  ἐδαγγι,  Μηιαἱ ον,
+math], τηδίἢ], False eng
+earn, ἐδαγγι, False eng
+find Μηιαἱ False eng
+out. ον, False eng
+# 43 38 38 pavrela,  -ας [cp. udvris; bor.,  Eng. μαντεία,  -ας [ὁρ. μάντις; Ἀοτ.,  Εηρ.
+μαντεία, pavrela, True lex
+-ας -ας False na
+[cp. [ὁρ. False eng
+μάντις; udvris; True lex
+bor., Ἀοτ., False eng
+Eng. Εηρ. False na
+# 44 6 8 Google (αΘοοοῖς
+Google (αΘοοοῖς False na
+# 45 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ᾽ ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝ᾽ False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 46 33 38 chiromancy,  necromancy],  f7of/- ΟΕΙΓΟΙΠΠΆΠΟΥ͂,  ΠΟΟΓΟΙΙΔΏΟΥ ],  2γορή-
+chiromancy, ΟΕΙΓΟΙΠΠΆΠΟΥ͂, False eng
+necromancy], ΠΟΟΓΟΙΙΔΏΟΥ False eng
+f7of/- ], False na
+# 47 15 16 ecy,  response. ἐς,  γε92ο;, 5έ.
+ἐς, ecy, True form
+response. γε92ο;, False eng
+# 48 45 47 pavres,  -ews,  6 [ualvouac ],  ore possessed μάντις,  -εως,  ὁ [μαίνομαι],  0714 ῤοΞξεςἐ55εἋ
+μάντις, pavres, True lex
+-εως, -ews, True pp
+ὁ 6 True lex
+[μαίνομαι], [ualvouac True pp
+], 0714 False na
+ore ῤοΞξεςἐ55εἋ False eng
+possessed NA False eng
+# 49 38 40 or frenzied by divine power,  prophel, οΥ̓ , ερμεῖεα Ὁ. ἀϊνίπα ρόνου,  2γοῤῥεί,
+or οΥ̓ False eng
+frenzied , False eng
+by ερμεῖεα False eng
+divine Ὁ. False eng
+power, ἀϊνίπα False eng
+ρόνου, prophel, True pp
+# 50 34 35 seer,  soothsayer,  securing omens 5467,  τοοζάδαγεγ,  5εουσίηρ ΟἸΊΘἢβ
+seer, 5467, False eng
+soothsayer, τοοζάδαγεγ, False eng
+securing 5εουσίηρ False eng
+omens ΟἸΊΘἢβ False eng
+# 51 34 33 from the observation of the vitals ἔγουχ με ορϑεγνδίοη οἵ ἴδε υἱίαὶβ
+from ἔγουχ False eng
+the με False eng
+observation ορϑεγνδίοη False eng
+of οἵ False eng
+the ἴδε False eng
+vitals υἱίαὶβ False eng
+# 52 34 34 of sacrificed victims. See Introd. οἱ βδογίβεοεά νἱοϊη8. ὅες [πιτγοά,
+of οἱ False eng
+sacrificed βδογίβεοεά False eng
+victims. νἱοϊη8. False eng
+ὅες See True pp
+Introd. [πιτγοά, False na
+# 53 17 17 p- 45,  footnote. Ῥ. 45,  ἰοοϊποϊα.
+p- Ῥ. False na
+45, 45, False na
+footnote. ἰοοϊποϊα. False eng
+# 54 37 41 Mapda,  -wy,  ol,  Mardi,  a tribe in Μάρδοι,  -ων,  οἱ,  , αγαἶ δ,  ἃ ἰτὶῦς ἴῃ
+Μάρδοι, Mapda, True form
+-ων, -wy, True pp
+ol, οἱ, False eng
+Mardi, , False na
+a αγαἶ False eng
+tribe δ, False eng
+in ἃ False eng
+# 55 8 9 Armenia. Αττηεηΐδ.
+Armenia. Αττηεηΐδ. False na
+# 56 41 42 papoviwros,  -ov [bor.,  Lat. marsiipium, μάρσιπος,  -ου [Ὀοτ.,  [, 41. τ] ΙΒῸΡίππι,
+μάρσιπος, papoviwros, True lem
+-ου -ov True pp
+[bor., [Ὀοτ., False eng
+Lat. [, False na
+marsiipium, 41. False na
+# 57 31 33 pouck,  whence Eng. marsupial], 2ομεά,  νἈεῆθος ΕὩρ. ΤΔΙΒΈΌΡΙΔ1],
+pouck, 2ομεά, False na
+whence νἈεῆθος False eng
+Eng. ΕὩρ. False na
+marsupial], ΤΔΙΒΈΌΡΙΔ1], False eng
+# 58 12 12 pouch,  bag. 2ομελ,  δαρ.
+pouch, 2ομελ, False eng
+bag. δαρ. False eng
+# 59 38 38 Mapovas,  -ov,  “/arsyas,  (1) a Phry- Μαρσύᾶς,  -ου,  “76γεγας,  (1) ἃ ῬΒ17-
+Mapovas, Μαρσύᾶς, False na
+-ου, -ov, True pp
+“/arsyas, “76γεγας, False na
+(1) (1) False na
+a ἃ False eng
+Phry- ῬΒ17- False na
+# 60 34 31 gian deity; according to the Greek δίῃ ἀεὶ; δοοογαϊηρ ἴο (Βς Οτεεκ
+δίῃ gian True form
+deity; ἀεὶ; False eng
+according δοοογαϊηρ False eng
+to ἴο False eng
+the (Βς False eng
+Greek Οτεεκ False na
+# 61 35 34 story he was a Phrygian satyr,  who ΒΊΟΥΥ μὲ νὰϑ ἃ Ῥῃγυρίδη βαῖυσ,  80
+story ΒΊΟΥΥ False eng
+he μὲ False eng
+was νὰϑ False eng
+a ἃ False eng
+Phrygian Ῥῃγυρίδη False na
+satyr, βαῖυσ, False eng
+who 80 False eng
+# 62 33 38 was beaten by Apollo,  the god of ννὰ8 Ὀεοαΐθδη ὈΥ ΑΡροΐὶο,  ἴδε ρμοά οὗ
+was ννὰ8 False eng
+beaten Ὀεοαΐθδη False eng
+by ὈΥ False eng
+Apollo, ΑΡροΐὶο, False na
+the ἴδε False eng
+god ρμοά False eng
+of οὗ False eng
+# 63 38 40 music,  in a contest of musical skill, τηιϑὶο,  ἰη ἃ σοηΐοβί οὗ τηυϑῖοδὶ 5Κ1]},
+music, τηιϑὶο, False eng
+in ἰη False eng
+a ἃ False eng
+contest σοηΐοβί False eng
+of οὗ False eng
+musical τηυϑῖοδὶ False eng
+skill, 5Κ1]}, False eng
+# 64 36 36 and flayed as a penalty for his pre- δηα ἤδλγεά 48 ἃ ρεῃδὶτν ἔοσ ἢΪ5 ῥγθ-
+and δηα False eng
+flayed ἤδλγεά False eng
+as 48 False eng
+a ἃ False eng
+penalty ρεῃδὶτν False eng
+for ἔοσ False eng
+his ἢΪ5 False eng
+pre- ῥγθ- False na
+# 65 33 33 sumption in venturing to vie with ΒΌΓΡΙΙΟΩ ἴῃ νϑηίυτγίηρ ἴο νὶε ψ ἢ
+sumption ΒΌΓΡΙΙΟΩ False eng
+in ἴῃ False eng
+venturing νϑηίυτγίηρ False eng
+to ἴο False eng
+vie νὶε False eng
+with ψ False eng
+# 66 35 35 the god; see Fig. 12,  p. 57; (2) a ἴῃε ροά; 566 ΕἾΡ. 12,  Ρ. 57; (2) ἃ
+the ἴῃε False eng
+god; ροά; False eng
+see 566 False eng
+Fig. ΕἾΡ. False na
+12, 12, False na
+p. Ρ. False eng
+57; 57; False na
+(2) (2) False na
+a ἃ False eng
+# 67 32 32 river emptying into the Maeander τῖνεῦ επιρίγίηρ ἰηΐο [6 Μδβδπάεγ
+river τῖνεῦ False eng
+emptying επιρίγίηρ False eng
+into ἰηΐο False eng
+the [6 False eng
+Maeander Μδβδπάεγ False na
+# 68 14 14 near Celaenae. πεδΥ (εἰδθηδα.
+near πεδΥ False eng
+Celaenae. (εἰδθηδα. False na
+# 69 36 36 papruplw,  paprupjow,  etc. [udprus, μαρτυρέω,  μαρτυρήσω,  εἴς. [μάρτυς,
+μαρτυρέω, papruplw, True pp
+μαρτυρήσω, paprupjow, True pp
+etc. εἴς. False eng
+[μάρτυς, [udprus, True lex
+# 70 35 36 witness; bor.,  Eng. martyr],  de 4 τυϊέρσος, ,  ὈΟΥ.,  ΕΏΡ. ΤΑΙ],  δὲ α
+witness; τυϊέρσος, False eng
+bor., , False eng
+Eng. ὈΟΥ., False na
+martyr], ΕΏΡ. False eng
+de ΤΑΙ], False eng
+δὲ 4 True form
+# 71 18 19 witness,  testify. τυΐέγι665,  {6571}.
+witness, τυΐέγι665, False eng
+testify. {6571}. False eng
+# 72 41 42 papruptov,  -ov [udprus,  witness],  evi- μαρτύριον,  -ου [μάρτυς,  τοῖἐρέ551,  εὐΐ-
+μαρτύριον, papruptov, True pp
+-ου -ov True pp
+[μάρτυς, [udprus, True lex
+witness], τοῖἐρέ551, False eng
+evi- εὐΐ- False na
+# 73 14 13 dence,  proof. ἕδρες,  2γοοβ
+ἕδρες, dence, True pp
+proof. 2γοοβ False eng
+# 74 38 39 Maoxis,  -4 (Doric gen.),  AZascas,  a Μάσκᾶς,  -α (Βοτῖς ρσεη.),  “2αφεας,  ἃ
+Maoxis, Μάσκᾶς, False na
+-α -4 True pp
+(Doric (Βοτῖς False na
+gen.), ρσεη.), False eng
+AZascas, “2αφεας, False na
+a ἃ False eng
+# 75 32 35 canal about Corsdté; it seems to οδηδὶ δρουΐ (οτγβοϊδ - ἰἴ 5θϑπὶ5 ἰὸ
+canal οδηδὶ False eng
+about δρουΐ False eng
+Corsdté; (οτγβοϊδ False na
+it - False eng
+seems ἰἴ False eng
+to 5θϑπὶ5 False eng
+# 76 35 37 have been taken fora river by Xeno- ἢανε Ὀδθδπ ἴδκθῃ ἴον ἃ τῖνεσ ὈΥ Χϑμο-
+have ἢανε False eng
+been Ὀδθδπ False eng
+taken ἴδκθῃ False eng
+fora ἴον False eng
+river ἃ False eng
+by τῖνεσ False eng
+Xeno- ὈΥ False na
+# 77 15 15 phon,  76,  15. ῬΒου,  76,  15.
+phon, ῬΒου, False eng
+76, 76, False na
+15. 15. False na
+# 78 33 34 parredw,  poetic,  seek,  strive. μαστεύω,  ροείϊο,  5έεξ,  “ἴγῖσνε.
+μαστεύω, parredw, True pp
+poetic, ροείϊο, False eng
+seek, 5έεξ, False eng
+strive. “ἴγῖσνε. False eng
+# 79 34 35 pactiyéw,  pacriywow,  euacrtywoa, μαστίγόω,  μαστί γώσω,  ἐμαστἴγωσα,
+μαστίγόω, pactiyéw, True pp
+pacriywow, μαστί False na
+γώσω, euacrtywoa, True pp
+# 80 35 34 éuacriywOnv [udorit],  whip,  flog. ἐμαστιγώθην [μάστιξ],  τολτῥ,  ον.
+ἐμαστιγώθην éuacriywOnv True pp
+[μάστιξ], [udorit], True lex
+whip, τολτῥ, False eng
+flog. ον. False eng
+# 81 41 41 pdorté,  -iyos,  7,  whip,  bro pacrlywp, μάσττξ,  -ἴγος,  ἡ,  τυλίΖ; ὑπὸ μαστίγων,
+pdorté, μάσττξ, False na
+-iyos, -ἴγος, False na
+ἡ, 7, True case
+whip, τυλίΖ; False eng
+bro ὑπὸ False eng
+μαστίγων, pacrlywp, True pp
+# 82 15 18 under the lash. 271:ω.27 ἠὼς ἐαεΆ.
+under 271:ω.27 False eng
+the ἠὼς False eng
+lash. ἐαεΆ. False eng
+# 83 37 39 paordés,  -o0 [bor.,  Eng. mastodon], μαστός,  -ου [ὕοτ.,  Επρ. πηδϑίοδοΠῃ)],
+μαστός, paordés, True lex
+-ου -o0 True pp
+[bor., [ὕοτ., False eng
+Eng. Επρ. False na
+mastodon], πηδϑίοδοΠῃ)], False eng
+# 84 28 28 breast,  nipple; round hill, ὀγεαςί,  πἰῤῥί,  γομραὶ ἀξ),
+breast, ὀγεαςί, False eng
+nipple; πἰῤῥί, False eng
+round γομραὶ False eng
+hill, ἀξ), False eng
+# 85 42 42 paxatpa,  -ας [udyouat],  cutlass,  saber. μάχαιρα,  -ας [μάχομαι],  εὐεἼέαδ5,  ταὐε.
+μάχαιρα, paxatpa, True lex
+-ας -ας False na
+[μάχομαι], [udyouat], True pp
+cutlass, εὐεἼέαδ5, False eng
+saber. ταὐε. False eng
+# 86 37 38 See Introd. § 58,  end,  and Fig. 31, ὅ5εε 1ηϊτοά. ὃ 58,  εηά,  δπὰ ΕἸΡ. 31»
+See ὅ5εε False na
+Introd. 1ηϊτοά. False na
+§ ὃ False eng
+58, 58, False na
+end, εηά, False eng
+and δπὰ False eng
+Fig. ΕἸΡ. False na
+31, 31» False na
+# 87 6 6 p. 89. Ῥ. 89.
+p. Ῥ. False eng
+89. 89. False na
+# 88 34 35 paxalptov,  -ov [diminutive of pd- μαχαίριον,  -ου [αἰπιϊπυϊίνε οὗ μά-
+μαχαίριον, paxalptov, True pp
+-ου -ov True pp
+[diminutive [αἰπιϊπυϊίνε False eng
+of οὗ False eng
+pd- μά- False na
+# 89 22 23 xatpa},  knife,  dirk. χαιρα],  ἐρὲ7ε,  αἰἱγέ.
+xatpa}, χαιρα], False na
+knife, ἐρὲ7ε, False eng
+dirk. αἰἱγέ. False eng
+# 90 1 1 | |
+| | False na

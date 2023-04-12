@@ -1,5 +1,4 @@
-# 0 3 3 458 458
-458 458 False na
+
 # 1 37 38 xard,  by elision and euphony xa7’ or κατά,  ὉΥ οἰἰδίοῃ δπμὰ ΘΌΡΠΟΩΥ κατ’ ΟΥ
 κατά, xard, True pp
 by ὉΥ False eng
@@ -9,7 +8,7 @@ euphony ΘΌΡΠΟΩΥ False eng
 κατ’ xa7’ True form
 or ΟΥ False eng
 # 2 38 38 xa? [bor.,  Eng. cataract,  catarrh ], καθ᾽ [Ὀοτ.,  Επρ. οδίατδοϊΐ,  οδΐδιτ],
-xa? καθ᾽ False na
+καθ᾽ False na
 [bor., [Ὀοτ., False eng
 Eng. Επρ. False na
 cataract, οδίατδοϊΐ, False eng
@@ -80,7 +79,7 @@ ent εηἴ False na
 translation τα False eng
 is ηϑ]αιῖοη False eng
 required; 15 False eng
-durzng, γε]υϊγεά; False na
+during, γε]υϊγεά; False na
 # 13 36 38 on,  against; opposite,  facing; at, Οὔ,  ἀραϊγδί,  οδῥοσίίδ,  γαεῖμσ,  αἱ,
 on, Οὔ, False eng
 against; ἀραϊγδί, False eng
@@ -97,12 +96,12 @@ to; ο, False eng
 by ὃν False eng
 # 15 37 41 land,  xar’ avrimépas,  over against; ἑαμαῖ,  κατ᾽ ἀντιπέρας,  οὐέ᾽" ἀαραϊγιδξ,
 land, ἑαμαῖ, False eng
-xar’ κατ᾽ False na
+κατ᾽ False na
 ἀντιπέρας, avrimépas, True lex
 over οὐέ᾽" False eng
 against; ἀαραϊγιδξ, False eng
 # 16 35 36 Kad’ dprayhy,  for plundering; xara καθ᾽ ἁρπαγήν,  70» ῥέμ»εεγίηρ,  κατὰ
-Kad’ καθ᾽ False na
+καθ᾽ False na
 ἁρπαγήν, dprayhy, True form
 for 70» False eng
 plundering; ῥέμ»εεγίηρ, False eng
@@ -128,9 +127,9 @@ of οὗ False eng
 power; ρονϑῦ; False eng
 cp. ΟΡ. False eng
 ava ἀνὰ False eng
-xpdros), κράτοΞ), False na
+κράτος), False na
 # 20 34 36 Kal’ jovxlay,  at their ease; Kara καθ᾽ ἡσυχίαν,  αὐ {ἀεϊ»γ ἐα:ε,; κατὰ
-Kal’ καθ᾽ False na
+καθ᾽ False na
 ἡσυχίαν, jovxlay, True form
 at αὐ False eng
 their {ἀεϊ»γ False eng
@@ -145,8 +144,8 @@ point; οῖμέ, False eng
 μῆνα, piva, True form
 # 22 33 38 monthly; wad’ va,  one by one; 7d »ογριζλέν,  καϑ᾿ ἕνα,  ογ6 ὃν οπξ,  τὸ
 monthly; »ογριζλέν, False eng
-wad’ καϑ᾿ False na
-va, ἕνα, False eng
+καϑ᾿ False na
+ἕνα, False eng
 one ογ6 False eng
 by ὃν False eng
 one; οπξ, False eng
@@ -162,7 +161,7 @@ this {{ϊς False eng
 fel- 7εἐ- False na
 # 24 17 24 low ts concerned. ἔρτου ἴ5 εογ».67,  Ἐ6{1.
 low ἔρτου False eng
-ts ἴ5 False eng
+is ἴ5 False eng
 concerned. εογ».67, False eng
 # 25 31 36 In cpds.,  down,  against; com- Ιῃ οράξβ.,  ετυμ,  ἀραϊΐηδί,  {0721-
 In Ιῃ False na
@@ -185,7 +184,7 @@ Eng. Επῃρ. False na
 words ψοταβ False eng
 beginning Ὀερηηίησ False eng
 with ΜΠ False eng
-cafa-, εαζᾶ-, False na
+cata-, εαζᾶ-, False na
 as 85 False eng
 # 29 33 34 cataclysm,  catacomb,  catalogue, οδίδοϊγϑηι,  οδίδοοιρ,  οδίδίοσιο,
 cataclysm, οδίδοϊγϑηι, False eng
@@ -194,13 +193,13 @@ catalogue, οδίδίοσιο, False eng
 # 30 38 40 catastrophe,  or ca/e-,  as catechism, οδίΔϑίσορθ,  οὐ εχ2ε-,  ἃ5 σδί ΘΟ Β 81),
 catastrophe, οδίΔϑίσορθ, False eng
 or οὐ False eng
-ca/e-, εχ2ε-, False na
+cate-, εχ2ε-, False na
 as ἃ5 False eng
 catechism, σδί False eng
 # 31 35 37 category,  or ca/h-,  as cathedral, οδίδθσοσυ,  οὐ εαὐλ-,  45 οδί βαᾶσαὶ,
 category, οδίδθσοσυ, False eng
 or οὐ False eng
-ca/h-, εαὐλ-, False na
+cath-, εαὐλ-, False na
 as 45 False eng
 cathedral, οδί False eng
 # 32 26 26 catholic,  see also above. Οδίμ 110,  5ε6 α͵5ο ἀῦονβ.
@@ -232,9 +231,9 @@ con- σοῃ- False na
 # 36 38 44 test,  Lat. 2% harénam déscendé,  225, (6581,  [, Αἱ. 22 ζαγδρηαρε αἰδοεφη 1,  225,
 test, (6581, False eng
 Lat. [, False na
-2% Αἱ. False na
+in Αἱ. False na
 harénam 22 False na
-déscendé, ζαγδρηαρε False na
+déscendo, ζαγδρηαρε False na
 225, αἰδοεφη False na
 # 37 3 2 15. 1.
 15. 1. False na
@@ -255,9 +254,9 @@ descent. υἰδεεεο)ε, False eng
 # 40 33 34 karayy&i\Aw [ayyéA\w,  announce), καταγγέλλω [ἀγγέλλω,  α1)01471.6},
 καταγγέλλω karayy&i\Aw True pp
 [ἀγγέλλω, [ayyéA\w, True pp
-announce), α1)01471.6}, False eng
+announce], α1)01471.6}, False eng
 # 41 26 32 tnform against,  denounce. 770 γΏ2 ἀρα1)5, ,  οἰδγτο147166.
-tnform 770 False na
+inform 770 False na
 against, γΏ2 False eng
 denounce. ἀρα1)5, False eng
 # 42 37 40 KaTdyelos,  -ov [7i,  earth],  under- κατάγειος,  -ον [γῆ,  εαγίλ],  τε»16167-
@@ -269,16 +268,13 @@ under- τε»16167- False na
 # 43 7 9 ground. Φ᾽ οι γε,
 ground. Φ᾽ False eng
 # 44 38 40 Karayeddw [vyehdw,  laugh],  laugh at, καταγελάῳ [γελάω,  μα πρλ 7,  ἐφεερὰ αἱ,
-Karayeddw καταγελάῳ False na
+καταγελάῳ False na
 [γελάω, [vyehdw, True pp
 laugh], μα False eng
 laugh πρλ False eng
 at, 7, False eng
-# 45 6 7 Google (οορσίς
-Google (οορσίς False na
-# 46 20 18 AXENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
-AXENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΑΝΑΒΑΘΙ5 False na
+
+
 # 47 37 36 ridicule,  make sport of,  with gen.; γιαάϊεμέο,  »πκαξε ςΡογέ οὕς ἢ σεη,;
 ridicule, γιαάϊεμέο, False eng
 make »πκαξε False eng
@@ -289,17 +285,17 @@ gen.; σεη,; False eng
 # 48 30 32 laugh in dertsion or defiance. ἐατρά ἐηι αἰδγίδίορ οὐ ἀἰδβαρεε.
 laugh ἐατρά False eng
 in ἐηι False eng
-dertsion αἰδγίδίορ False na
+derision αἰδγίδίορ False na
 or οὐ False eng
 defiance. ἀἰδβαρεε. False eng
 # 49 38 38 karadyvip. [dyviyu,  diw,  gata,  aya, κατάγνῦμι [ἄγνῦμι,  ἄξω,  ἔαξα,  ἔᾶγα,
 κατάγνῦμι karadyvip. True pp
 [ἄγνῦμι, [dyviyu, True pp
 ἄξω, diw, True pp
-gata, ἔαξα, False eng
-aya, ἔᾶγα, False na
+ἔαξα, False eng
+ἔαγα, False na
 # 50 34 35 édynv,  break,  poetic],  break in ἐάγην,  ὀγεαξ,  Ῥοεῖϊς},  ὀγεαξ. ἔρ
-édynv, ἐάγην, False na
+ἐάγην, False na
 break, ὀγεαξ, False eng
 poetic], Ῥοεῖϊς}, False eng
 break ὀγεαξ. False eng
@@ -323,7 +319,7 @@ mid., ταϊα., False eng
 # 54 7 7 arrive. α7γῖνε.
 arrive. α7γῖνε. False eng
 # 55 32 28 karadamavaw  ([Saravdw,  spend), καταδαπανάωω [δαπανάω,  ει»,
-καταδαπανάωω karadamavaw True pp
+καταδαπανάω karadamavaw True pp
 [δαπανάω, ([Saravdw, True pp
 spend), ει», False eng
 # 56 34 38 spend enitrely,  entirely consume. 5“Ρεμαΐ ορζεγεῖν,  φρεζγοῖν κορεδιεη6.
@@ -333,7 +329,7 @@ entirely φρεζγοῖν False eng
 consume. κορεδιεη6. False eng
 # 57 35 39 karabiaxa [diwxw,  pursue],  pursue καταδιώκω [διώκω,  2" 75:46},  21εγ5 εξ
 καταδιώκω karabiaxa True pp
-[διώκω, [diwxw, True pp
+[διώκω, diwxw, True pp
 pursue], 2" False eng
 pursue 75:46}, False eng
 # 58 21 22 closely,  chase away. χδοεεέν,  ἐἦαδε ατυαγ.
@@ -354,11 +350,11 @@ a Σ False eng
 ship; ἃ False eng
 mid., 5Ώ1Ρ; False eng
 intr., ταἱά., False eng
-s7m. ἱπῖγ., False na
+sink. ἱπῖγ., False na
 # 61 39 40 KkataGedopar [Gedopar,  lock on],  look καταθεάομαι [θεάομαι,  ἠοοξ ο».}],  ἐροξ
 καταθεάομαι KkataGedopar True pp
 [θεάομαι, [Gedopar, True pp
-lock ἠοοξ False eng
+look ἠοοξ False eng
 on], ο».}], False eng
 look ἐροξ False eng
 # 62 26 28 down upon,  take a survey. τυ» τῥο»ι,  ἑαζε ὦ σε7ζυεν».
@@ -373,11 +369,9 @@ survey. σε7ζυεν». False eng
 sacrifice], «αεγίδεε), False eng
 sacrifice. δαεγίβεε. False eng
 # 64 38 40 Kara x ive [aloxbvw,  dishonor),  com- καταισχὕνω [αἰσχόνω,  αἰτλογιο»,  εο»»:-
-καταισχὕνω Kara True pp
-x [αἰσχόνω, False eng
-ive αἰτλογιο», False eng
-[aloxbvw, εο»»:- False na
-dishonor), NA False eng
+καταισχύνω Kara True pp
+[αἰσχύνω, False eng
+dishonor], NA False eng
 com- NA False na
 # 65 28 27 pletely dishonor,  disgrace. 2εἰεέν αἰδλορον,  αἱδργ ας.
 pletely 2εἰεέν False na
@@ -404,7 +398,7 @@ up. τ. False eng
 # 70 42 44 kardkepar [xetuat,  lie},  lie down,  lie; κατάκειμαι [κεῖμαι,  “167,  116 ἄστυ»,  ζϊδ;
 κατάκειμαι kardkepar True pp
 [κεῖμαι, [xetuat, True pp
-lie}, “167, False na
+lie], “167, False na
 lie 116 False eng
 down, ἄστυ», False eng
 lie; ζϊδ; False eng
@@ -419,7 +413,7 @@ idle. NA False eng
 # 73 39 39 kéxreuat,  exreloOnv,  shut),  shut up, κέκλειμαι,  ἐκλείσθην,  τἀμ7],  τἀτε τ,
 κέκλειμαι, kéxreuat, True pp
 ἐκλείσθην, exreloOnv, True pp
-shut), τἀμ7], False eng
+shut], τἀμ7], False eng
 shut τἀτε False eng
 up, τ, False eng
 # 74 8 8 shut in. σἀμξ 1».
@@ -447,16 +441,17 @@ der. “27. False eng
 # 79 34 35 karakapBave [AauBdvw,  fake; bor., καταλαμβάνω [λαμβάνω,  Ταξε,  Ὅοτ.»
 καταλαμβάνω karakapBave True pp
 [λαμβάνω, [AauBdvw, True pp
-fake; Ταξε, False eng
+take; Ταξε, False eng
 bor., Ὅοτ.» False eng
 # 80 39 39 Eng. catalepsy],  cap/ure,  seize,  oc- Ἑηρ. οδΔίΔΙΘΡ5Υ1,  εαίμγε,  σεΐ:θ,  οε-
 Eng. Ἑηρ. False na
 catalepsy], οδΔίΔΙΘΡ5Υ1, False eng
-cap/ure, εαίμγε, False na
+capture, εαίμγε, False na
 seize, σεΐ:θ, False eng
 oc- οε- False na
 # 81 36 36 cupya place; overtake,  catch,  hit; ε2) ἃ Ρἷδοε; οσεγίαζε,  εαἰοά,  ἀπέ;
-cupya ε2) False na
+cupy
+a ε2) False na
 place; ἃ False eng
 overtake, Ρἷδοε; False eng
 catch, οσεγίαζε, False eng
@@ -468,19 +463,19 @@ find. βηα, False eng
 # 83 41 40 katadéye [A\¢yw,  fe//; bor.,  Eng. cata- καταλέγω [λέγω,  Ζεἰ,  Ὀοτ.,  Επρ. οδξδ-
 καταλέγω katadéye True pp
 [λέγω, [A\¢yw, True pp
-fe//; Ζεἰ, False na
+tell; Ζεἰ, False na
 bor., Ὀοτ., False eng
 Eng. Επρ. False na
 cata- οδξδ- False na
 # 84 30 34 logue],  exzmerate,  count as. Ἰοσιι67,  ἐγιτεγι6γ ἕξ,  εοτεΐ ας.
 logue], Ἰοσιι67, False na
-exzmerate, ἐγιτεγι6γ False na
+enumerate, ἐγιτεγι6γ False na
 count ἕξ, False eng
 as. εοτεΐ False eng
 # 85 42 40 kataAdelrw [relrw,  leave),  leave,  leave καταλείπω [λείπω,  ἐεανε],  ἐξαῦε,  ρα δ
 καταλείπω kataAdelrw True pp
 [λείπω, [relrw, True pp
-leave), ἐεανε], False eng
+leave], ἐεανε], False eng
 leave, ἐξαῦε, False eng
 leave ρα False eng
 # 86 38 40 behind,  abandon,  pass.,  be left be- ὀελ᾽πα, ,  αὐαηπαρ";,  Ῥᾶ55.ν δέ ἐκ ὁὲέ-
@@ -489,7 +484,7 @@ abandon, , False eng
 pass., αὐαηπαρ";, False eng
 be Ῥᾶ55.ν False eng
 left δέ False eng
-ἐκ be- True lex
+be- True lex
 # 87 19 19 hind,  stay behind. ἀϊρω,  οίαγ ὀοἀῖηα,
 hind, ἀϊρω, False eng
 stay οίαγ False eng
@@ -499,8 +494,7 @@ behind. ὀοἀῖηα, False eng
 [λεύω, [ True pp
 -λεύσω, \evw, True pp
 -έλευσα, -A\evow, True pp
--éXevea, ἐλεύ- False na
-Eev- NA False na
+ἐλεύ- False na
 # 89 36 38 gOnv,  stone,  from Aaas,  a stone], σθην,  σίογιό,  ἴτοτα λᾶας,  ὦ “«ομε],
 σθην, gOnv, True pp
 stone, σίογιό, False eng
@@ -512,5 +506,3 @@ stone], “«ομε], False eng
 stone 510716 False eng
 to 20 False eng
 death, εἰδω False eng
-# 91 3 2 cut σε
-cut σε False eng

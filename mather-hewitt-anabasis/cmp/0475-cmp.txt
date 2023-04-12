@@ -1,0 +1,530 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+# 1 35 36 éxpl@nv [cogn.,  Lat. cern6,  sepa- ἐκρίθην [σορπ.,  [, ἱ. σογηῦ,  “4ῤα-
+ἐκρίθην éxpl@nv True pp
+[cogn., [σορπ., False na
+Lat. [, False na
+cern6, ἱ. False na
+sepa- σογηῦ, False na
+# 2 38 38 rate,  crimen,  judgment,  bor.,  Eng. γαΐε,  οτσλθη,  ἡπρνηεμέ,  Ὀοτ.,  Εηρ.
+rate, γαΐε, False eng
+crimen, οτσλθη, False na
+judgment, ἡπρνηεμέ, False eng
+bor., Ὀοτ., False eng
+Eng. Εηρ. False na
+# 3 37 36 critic,  hypocrite],  separate,  pick ΟΥΕΙο,  Ὠγροοῦθ],  σεῤαγαίΐίε,  21εξ
+critic, ΟΥΕΙο, False eng
+hypocrite], Ὠγροοῦθ], False eng
+separate, σεῤαγαίΐίε, False eng
+pick 21εξ False eng
+# 4 40 42 out,  choose; decide,  judge,  consider. οτεέ,  εὐοοῦο,  ἀξεϊαΐξ,  γέρε,  εογεῖα67.
+out, οτεέ, False eng
+choose; εὐοοῦο, False eng
+decide, ἀξεϊαΐξ, False eng
+judge, γέρε, False eng
+consider. εογεῖα67. False eng
+# 5 20 18 xpids,  -00,  ram. | κρῖός,  -ου,  γα).
+xpids, κρῖός, False na
+-ου, -00, True pp
+ram. γα). False eng
+| NA False na
+# 6 42 44 «plots,  -ews,  7 [xpivw; bor.,  Eng. cri- κρίσις,  -εως,  ἡ [κρίνω : Ὀοτ, ,  Επρ. οὕ΄-
+κρίσις, «plots, True lex
+-εως, -ews, True pp
+ἡ 7 True case
+[κρίνω [xpivw; True pp
+bor., : False eng
+Eng. Ὀοτ, False na
+cri- , False na
+# 7 36 33 Sis ],  decision,  judgment,  trial. 818],  εἶξε»,  ζιεζργρεη,  ἐγταί,
+Sis 818], False na
+], εἶξε», False na
+decision, ζιεζργρεη, False eng
+judgment, ἐγταί, False eng
+trial. NA False eng
+# 8 37 37 Kpovw,  Kpovow,  Expovoa,  -Kéxpouxa, Κρούω,  κρούσω,  ἔκρουσα,  -κέκρουκα,
+Κρούω, Kpovw, True pp
+κρούσω, Kpovow, True pp
+ἔκρουσα, Expovoa, True pp
+-κέκρουκα, -Kéxpouxa, True pp
+# 9 36 37 -xéxpovpat and -xéxpovopat,  -expov- -κέκρουμαι δηῃα -κέκρουσμαι,  -εκρού-
+-κέκρουμαι -xéxpovpat True pp
+and δηῃα False eng
+-κέκρουσμαι, -xéxpovopat, True pp
+-expov- -εκρού- False na
+# 10 30 27 cOny,  strike,  beat,  rattle. σθην,  ἑτἰγίξε,  ῥεαί,  γα.
+σθην, cOny, True pp
+strike, ἑτἰγίξε, False eng
+beat, ῥεαί, False eng
+rattle. γα. False eng
+# 11 37 36 xpttrw,  Kpiyw,  expuya,  Kéxpuupmat, κρύπτω,  κρύψω,  ἔκρυψα,  κέκρυμμαι,
+κρύπτω, xpttrw, True pp
+κρύψω, Kpiyw, True pp
+ἔκρυψα, expuya, True pp
+κέκρυμμαι, Kéxpuupmat, True pp
+# 12 37 37 éxpt@Onv [bor.,  Eng. crypt,  crypto- ἐκρύφθην [Ὅοτ.,  Επρ. οΥγρῖ,  οτγρίο-
+ἐκρύφθην éxpt@Onv True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False na
+crypt, οΥγρῖ, False eng
+crypto- οτγρίο- False na
+# 13 33 34 gam,  grotto (through Italian) ], φαια,  στοῖΐζο (ἰτοῦρῃ 114]14}}}},
+gam, φαια, False eng
+grotto στοῖΐζο False eng
+(through (ἰτοῦρῃ False eng
+Italian) 114]14}}}}, False na
+], NA False na
+# 14 39 38 hide,  conceal,  keep secret,  with two ἀϊαδ,  εομεεαΐ,  ξεο 5έεγεζ,  ΜΙᾺ ἴνγο
+hide, ἀϊαδ, False eng
+conceal, εομεεαΐ, False eng
+keep ξεο False eng
+secret, 5έεγεζ, False eng
+with ΜΙᾺ False eng
+two ἴνγο False eng
+# 15 5 5 accs. δ668.
+accs. δ668. False na
+# 16 42 39 KTrdopat,  KTijcouat,  éxrnocduny,  KéxTn- κτάομαι,  κτήσομαι,  ἐκτησάμην,  κέκτη-
+κτάομαι, KTrdopat, True pp
+κτήσομαι, KTijcouat, True pp
+ἐκτησάμην, éxrnocduny, True pp
+KéxTn- κέκτη- False na
+# 17 38 41 pat,  éxtHOnv,  get,  acquire,  accom- μαι,  ἐκτήθην,  ρεί, ν σεφιεῖγέ,  σεέζοε-
+pat, μαι, False eng
+ἐκτήθην, éxtHOnv, True pp
+get, ρεί, False eng
+acquire, ν False eng
+accom- σεφιεῖγέ, False na
+# 18 35 34 plish; pf.,  have acquired,  hence, 2,  νί.,  λαυε αἀεφιῖγεα,  ἸδηςΒα,
+plish; 2, False na
+pf., νί., False eng
+have λαυε False eng
+acquired, αἀεφιῖγεα, False eng
+hence, ἸδηςΒα, False eng
+# 19 15 15 have,  possess. ἄανε,  2ος566ς.
+have, ἄανε, False eng
+possess. 2ος566ς. False eng
+# 20 41 42 wxrelva,  KTeva,  Exrewa,  -éxrova,  ill, κτείνω,  κτενῶ,  ἕἔκτεινα,  -«έκτονα,  12,
+κτείνω, wxrelva, True pp
+κτενῶ, KTeva, True pp
+Exrewa, ἕἔκτεινα, False na
+-éxrova, -«έκτονα, False na
+ill, 12, False eng
+# 21 5 5 slay. 544}.
+slay. 544}. False eng
+# 22 41 38 axrfipa,  -aros,  7b [xrdopat],  piece of κτῆμα,  -ατος,  τό [κτάομαι],  ΐέεέ οὗ
+κτῆμα, axrfipa, True lex
+-ατος, -aros, True pp
+τό 7b True form
+[κτάομαι], [xrdopat], True pp
+piece ΐέεέ False eng
+of οὗ False eng
+# 23 23 28 property; pl. property. 2᾽γοῤεγίν ,  Ὁ].. 27γοῤεγίν.
+property; 2᾽γοῤεγίν False eng
+pl. , False eng
+property. Ὁ].. False eng
+# 24 40 40 KTfivos,  -ous,  7b [xrdouac],  piece of κτῆνος,  -ους,  τό [κτάομαι]ὔ,  2:έε6 οὗ
+κτῆνος, KTfivos, True lex
+-ους, -ous, True pp
+τό 7b True form
+[xrdouac], [κτάομαι]ὔ, False na
+piece 2:έε6 False eng
+of οὗ False eng
+# 25 36 38 property,  consisting in early times 2᾽γοῤέγέν,  σου βιβίηρ ἴῃ ΕΑΥΪΥ [{η165
+property, 2᾽γοῤέγέν, False eng
+consisting σου False eng
+in βιβίηρ False eng
+early ἴῃ False eng
+times ΕΑΥΪΥ False eng
+# 26 35 34 chjefly of flocks and herds,  hence οἰ] εν οὗ ἤοςοκβ δῃά μεγάβ,  ἤεῆσε
+chjefly οἰ] False na
+of εν False eng
+flocks οὗ False eng
+and ἤοςοκβ False eng
+herds, δῃά False eng
+hence μεγάβ, False eng
+# 27 39 38 domestic animal,  pl.,  cattle,  stock. εἰο»εοες απῖρεαί,  Ὁ].,  εαὐτέφ,  σέο.
+domestic εἰο»εοες False eng
+animal, απῖρεαί, False eng
+pl., Ὁ]., False eng
+cattle, εαὐτέφ, False eng
+stock. σέο. False eng
+# 28 40 43 Kryelas,  -ov,  Cresias,  a famous Greek ἘΚτησίᾶς,  -ου,  Οεείας,  ἃ ἰαταουβ͵ Οτεοῖς
+Kryelas, ἘΚτησίᾶς, False na
+-ου, -ov, True pp
+Cresias, Οεείας, False na
+a ἃ False eng
+famous ἰαταουβ͵ False eng
+Greek Οτεοῖς False na
+# 29 34 35 physician and author,  captured by ῬὨγϑιοΐδη ἀπά δυΐῃοσ,  οἀρίυτεα Ὀγν
+physician ῬὨγϑιοΐδη False eng
+and ἀπά False eng
+author, δυΐῃοσ, False eng
+captured οἀρίυτεα False eng
+by Ὀγν False eng
+# 30 34 35 the Persians in 415 B.c.,  and de- (Π6 Ῥειβίδῃβ ἴῃ 415. Β.0.,  δῃά ἀε-
+the (Π6 False eng
+Persians Ῥειβίδῃβ False na
+in ἴῃ False eng
+415 415. False na
+B.c., Β.0., False na
+and δῃά False eng
+de- ἀε- False na
+# 31 36 33 tained,  though with high honor,  as [αἰηςά,  [πουρἢ ἢ ΒΙΡῺ ΒΟΠΟΥ,  85
+tained, [αἰηςά, False na
+though [πουρἢ False eng
+with ἢ False eng
+high ΒΙΡῺ False eng
+honor, ΒΟΠΟΥ, False eng
+as 85 False eng
+# 32 36 37 court physician to Darius II and his οουτγί Ρῃγϑίοΐδη ἴο Ὠδτίυβ 11 δηα Ὦ15
+court οουτγί False eng
+physician Ρῃγϑίοΐδη False eng
+to ἴο False eng
+Darius Ὠδτίυβ False na
+II 11 False na
+and δηα False eng
+his Ὦ15 False eng
+# 33 35 33 successor,  Artaxerxes IJ. He wrote ΒσσΟϑϑου,  Αὐίδχουχοϑ 1. Ηὸ ντοῖς
+successor, ΒσσΟϑϑου, False eng
+Artaxerxes Αὐίδχουχοϑ False na
+IJ. 1. False na
+He Ηὸ False na
+wrote ντοῖς False eng
+# 34 38 40 a history of Persia,  known to us only ἃ Ὠἰβίοτυ οὗ Ρεγβία,  Κποννη ἴο ἃ5 ΟἿΪ]Υ
+a ἃ False eng
+history Ὠἰβίοτυ False eng
+of οὗ False eng
+Persia, Ρεγβία, False na
+known Κποννη False eng
+to ἴο False eng
+us ἃ5 False eng
+only ΟἿΪ]Υ False eng
+# 35 36 40 through quotations by other writers. τπὨγουρῇ φυοϊαιζίοηβ Ὁ. οἴ μοῦ νυτί[εγβ.
+through τπὨγουρῇ False eng
+quotations φυοϊαιζίοηβ False eng
+by Ὁ. False eng
+other οἴ False eng
+writers. μοῦ False eng
+# 36 39 41 K8vos,  -ov,  Cydnus,  a stream flowing Κύδνος,  -ου,  (γάρες,  ἃ κἰταεδπι ον ὶηρ
+Κύδνος, K8vos, True lex
+-ου, -ov, True pp
+(γάρες, Cydnus, True pp
+a ἃ False eng
+stream κἰταεδπι False eng
+flowing ον False eng
+# 37 26 27 through Tarsus in Cilicia. [ὨγουΡἢ Ταζϑυβ ἴῃ (Ἰ]ϊςοΐα.
+through [ὨγουΡἢ False eng
+Tarsus Ταζϑυβ False na
+in ἴῃ False eng
+Cilicia. (Ἰ]ϊςοΐα. False na
+# 38 42 42 xvKAos,  -ov [bor.,  Eng. cycle,  bicycle, κύκλος,  -ου [ἢὈοτ.,  Εν. ΟΥ016,  ὈΪΟΥΟΙΘ,
+κύκλος, xvKAos, True lex
+-ου -ov True pp
+[bor., [ἢὈοτ., False eng
+Eng. Εν. False na
+cycle, ΟΥ016, False eng
+bicycle, ὈΪΟΥΟΙΘ, False eng
+# 39 34 34 cyclometer,  cyclopedia],  circle, σγοϊοπιθῖοσ,  ογοϊορθᾶΐα,  εἴγείε,
+cyclometer, σγοϊοπιθῖοσ, False eng
+cyclopedia], ογοϊορθᾶΐα, False eng
+circle, εἴγείε, False eng
+# 40 35 36 ring,  encircling wall; Kixdt™,  as γίρερ,  ορεῖγοίδηρ τυαΐΐ; κύκλῳ,  ἃ5
+ring, γίρερ, False eng
+encircling ορεῖγοίδηρ False eng
+wall; τυαΐΐ; False eng
+κύκλῳ, Kixdt™, True form
+as ἃ5 False eng
+# 41 38 39 adv.,  t @ circle,  round,  all round. δάν.,  ἡ» ἃ εἴγεῖσ,  γοιηα,  αὐ γοτεηα,
+adv., δάν., False eng
+t ἡ» False eng
+ἃ @ True lex
+circle, εἴγεῖσ, False eng
+round, γοιηα, False eng
+all αὐ False eng
+round. γοτεηα, False eng
+# 42 38 38 KUKAGW,  KUKAdTW,  ExUKAWoA,  KEKUKNW- κυκλόω,  κυκλώσω,  ἐκύκλωσα,  κεκύκλω-
+κυκλόω, KUKAGW, True pp
+κυκλώσω, KUKAdTW, True pp
+ἐκύκλωσα, ExUKAWoA, True pp
+KEKUKNW- κεκύκλω- False na
+# 43 36 36 pat,  ExUKAwOnY [KUKNOs; bor.,  Eng. μαι,  ἐκυκλώθην [κύκλος; Ὀοτ.,  ΕὩΡ.
+pat, μαι, False eng
+ἐκυκλώθην ExUKAwOnY True pp
+[κύκλος; [KUKNOs; True lex
+bor., Ὀοτ., False eng
+Eng. ΕὩΡ. False na
+# 44 31 35 cyclone],  encircle,  surround, ΟΥ̓ΟΪΟΏΘ1,  γε γ εἶδ,  5:47 7γο τα,
+cyclone], ΟΥ̓ΟΪΟΏΘ1, False eng
+encircle, γε False eng
+surround, γ False eng
+# 45 6 7 Google (οορσίς
+Google (οορσίς False na
+# 46 3 4 463 4603
+463 4603 False na
+# 47 40 41 kiKAwors,  -ews,  7 [xuxdbw],  an encir- κύκλωσις,  -εως,  ἡ [κυκλόω],  αν»: 1εἶ»-
+κύκλωσις, kiKAwors, True lex
+-εως, -ews, True pp
+ἡ 7 True case
+[κυκλόω], [xuxdbw], True pp
+an αν»: False eng
+encir- 1εἶ»- False na
+# 48 37 38 cling; ws els Kixdwouv,  with the in- εἰμ,  ὡς εἰς κύκλωσιν,  τυΐζὰ {λε ἐ»:-
+cling; εἰμ, False eng
+ws ὡς False eng
+els εἰς False eng
+κύκλωσιν, Kixdwouv, True form
+with τυΐζὰ False eng
+the {λε False eng
+in- ἐ»:- False na
+# 49 27 30 tention of encircling them. ἐεγ11107: ο ἐπεῖγείζηρ᾽ “ἦ»»:,
+tention ἐεγ11107: False eng
+of ο False eng
+encircling ἐπεῖγείζηρ᾽ False eng
+them. “ἦ»»:, False eng
+# 50 40 42 kvAwv6éw,  impf. éxuAlvdouy [bor.,  Eng. κυλινδέω,  ἱτηερί. ἐκυλίνδουν [Ῥοτ.,  Επρ.
+κυλινδέω, kvAwv6éw, True pp
+impf. ἱτηερί. False eng
+ἐκυλίνδουν éxuAlvdouy True form
+[bor., [Ῥοτ., False eng
+Eng. Επρ. False na
+# 51 32 34 cy ],  voll,  roll down,  pass., ΟΥ̓ Ἵ» γοέέ,  γοῤέ ἀἄρτυρ,  Ῥᾶ53.,
+cy ΟΥ̓ False eng
+], Ἵ» False na
+voll, γοέέ, False na
+roll γοῤέ False eng
+down, ἀἄρτυρ, False eng
+pass., Ῥᾶ53., False eng
+# 52 12 10 intr.,  vod, Ἰηΐτῳ χοί,
+intr., Ἰηΐτῳ False eng
+vod, χοί, False eng
+# 53 40 40 Kiperos,  -a,  -ov [Kipos],  Cyréan,  of Κύρειος,  -α,  -ον [Κῦρος],  ζνγδα»,  οὕ
+Κύρειος, Kiperos, True lex
+-α, -a, True pp
+-ον -ov True pp
+[Κῦρος], [Kipos], True lex
+Cyréan, ζνγδα», False na
+of οὕ False eng
+# 54 34 33 or declonging to Cyrus. As subst., ΟΥ δεέοηρῖρρ 10 Οὐγώ5. Α5 5υ09ῖ.,
+or ΟΥ False eng
+declonging δεέοηρῖρρ False na
+to 10 False eng
+Cyrus. Οὐγώ5. False na
+As Α5 False na
+subst., 5υ09ῖ., False eng
+# 55 27 27 Cyréan,  follower of Cyrus. (γδαρ,  γοἐδοτυεῦ οὗ ζψγις.
+Cyréan, (γδαρ, False na
+follower γοἐδοτυεῦ False eng
+of οὗ False eng
+Cyrus. ζψγις. False na
+# 56 40 40 Kopos,  -ov,  Cyrus,  (1) the founder of Κῦρος,  -ου,  (γγης,  (1) [86 ουπάετγ οὗ
+Κῦρος, Kopos, True lex
+-ου, -ov, True pp
+Cyrus, (γγης, False na
+(1) (1) False na
+the [86 False eng
+founder ουπάετγ False eng
+of οὗ False eng
+# 57 37 37 the Persian empire,  Cyrus the Great, [πε Ῥεγβίδῃ εἰηρίτγε,  γης {ἀε Ογεαΐ,
+the [πε False eng
+Persian Ῥεγβίδῃ False na
+empire, εἰηρίτγε, False eng
+Cyrus γης False na
+the {ἀε False eng
+Great, Ογεαΐ, False na
+# 58 36 38 see Fig. 34,  p.95; (2) in the Anaé- 566 ΕἸρ. 34,  ἢ. 95; (2) ἴῃ ἴδε “4παό-
+see 566 False eng
+Fig. ΕἸρ. False na
+34, 34, False na
+ἢ. p.95; True lem
+(2) 95; False na
+in (2) False eng
+the ἴῃ False eng
+Anaé- ἴδε False na
+# 59 32 33 asis commonly Cyrus the younger, εὶς ΟΙΩΠΊΟΝΪΝΥ Ονγς 2᾽6 γοτειρεν,
+asis εὶς False na
+commonly ΟΙΩΠΊΟΝΪΝΥ False eng
+Cyrus Ονγς False na
+the 2᾽6 False eng
+younger, γοτειρεν, False eng
+# 60 34 34 son of Darius IJ,  and brother of. 80ηὴ οὗ διυβ 11,  δἃηα Ὀτοΐδον οἔ.
+son 80ηὴ False eng
+of οὗ False eng
+Darius διυβ False na
+IJ, 11, False na
+and δἃηα False eng
+brother Ὀτοΐδον False eng
+of. οἔ. False eng
+# 61 32 34 Artaxerxes II,  whom he tried to Ατίαχογχοϑ 11,  νῇοιηῃ πὸ ἰτἰδα ἴο
+Artaxerxes Ατίαχογχοϑ False na
+II, 11, False na
+whom νῇοιηῃ False eng
+he πὸ False eng
+tried ἰτἰδα False eng
+to ἴο False eng
+# 62 36 37 depose,  leading against him a force ἄδροβε,  ἰεδαϊηρ ἀραϊηβί ἢΐτη ἃ ἴογοβ
+depose, ἄδροβε, False eng
+leading ἰεδαϊηρ False eng
+against ἀραϊηβί False eng
+him ἢΐτη False eng
+a ἃ False eng
+force ἴογοβ False eng
+# 63 32 29 of 100, 000 Asiatics and 13, 000 οὗ τοῦθ Αβίδίῖςβ δῃηὰ 13, 00Ὸ
+of οὗ False eng
+100, τοῦθ False na
+000 Αβίδίῖςβ False na
+Asiatics δῃηὰ False na
+and 13, False eng
+13, 00Ὸ False na
+000 NA False na
+# 64 31 33 Greek mercenaries. His death at Οὐδεὶς τηεγοαῃᾶγίεβ. Ηἱβ ἄδδίῃ αἱ
+Greek Οὐδεὶς False na
+mercenaries. τηεγοαῃᾶγίεβ. False eng
+His Ηἱβ False na
+death ἄδδίῃ False eng
+at αἱ False eng
+# 65 32 29 the battle of Cunaxa caused the. [ῃ6 δία οὔ υμπαχα οδυβεὰ [Π6.
+the [ῃ6 False eng
+battle δία False eng
+of οὔ False eng
+Cunaxa υμπαχα False na
+caused οδυβεὰ False eng
+the. [Π6. False eng
+# 66 30 31 failure of the expedition. See ἴαϊ!ατε οὐ [πΠ6 εχρεαϊτίοη. ὅεα
+failure ἴαϊ!ατε False eng
+of οὐ False eng
+the [πΠ6 False eng
+expedition. εχρεαϊτίοη. False eng
+See ὅεα False na
+# 67 16 19 Introd. §§ I-15. Ιπίτγοῦ,  8δ 1-ἰ 5.
+Introd. Ιπίτγοῦ, False na
+§§ 8δ False na
+I-15. 1-ἰ False na
+# 68 41 42 kbwv,  xuvds,  6,  7 [cogn.,  Lat. canis, κύων,  κυνός,  ὁ,  ἡ [σορῃ.,  [, Ὧἴ. 6818,
+κύων, kbwv, True pp
+κυνός, xuvds, True form
+ὁ, 6, True lex
+ἡ 7 True case
+[cogn., [σορῃ., False na
+Lat. [, False na
+canis, Ὧἴ. False eng
+# 69 36 35 dog,  Eng. hound; bor.,  Eng. cynic, ον,  Ἐπ. Βουπᾶ; Ῥοτ.,  Επρ. ΟΥ̓ΏΪΟ,
+dog, ον, False eng
+Eng. Ἐπ. False na
+hound; Βουπᾶ; False eng
+bor., Ῥοτ., False eng
+Eng. Επρ. False na
+cynic, ΟΥ̓ΏΪΟ, False eng
+# 70 17 18 cynosure ],  dog. ΟΥ̓ΠΟΒΙΓΘ],  ἀἶορ.
+cynosure ΟΥ̓ΠΟΒΙΓΘ], False eng
+], ἀἶορ. False na
+dog. NA False eng
+# 71 40 42 KwAGw,  Kwrtow,  etc.,  hinder,  oppose, κωλύω,  κωλύσω,  εἴς.,  ἀϊ»ιαἶδ»,  οῤῥοςε,
+κωλύω, KwAGw, True pp
+κωλύσω, Kwrtow, True pp
+etc., εἴς., False eng
+hinder, ἀϊ»ιαἶδ», False eng
+oppose, οῤῥοςε, False eng
+# 72 34 33 with inf. of action hindered; f7e- ἢ ᾿πΐ. οἵ δοίΐοῃ δἰπάδγαά ,  27:-
+with ἢ False eng
+inf. ᾿πΐ. False eng
+of οἵ False eng
+action δοίΐοῃ False eng
+hindered; δἰπάδγαά False eng
+f7e- , False na
+# 73 34 37 vent or hinder from,  with gen. of νέγιξ οὐ ἀϊ»ιαθῦ γγοηε,  ΜῈ Η σϑη. οὗ
+vent νέγιξ False eng
+or οὐ False eng
+hinder ἀϊ»ιαθῦ False eng
+from, γγοηε, False eng
+with ΜῈ False eng
+gen. Η False eng
+of σϑη. False eng
+# 74 40 38 inf.; 7d xwAvoy,  as subst.,  the obsta- ἴηΐ,; τὸ κωλῦον,  85 βι5ϊ.,  24 οὐεία-
+inf.; ἴηΐ,; False eng
+τὸ 7d True form
+κωλῦον, xwAvoy, True pp
+as 85 False eng
+subst., βι5ϊ., False eng
+the 24 False eng
+obsta- οὐεία- False na
+# 75 20 21 cle,  the hindrance. εἶε,  τά δι μαάϊγαρε.
+cle, εἶε, False na
+the τά False eng
+hindrance. δι False eng
+# 76 36 34 KOpapxos,  -ov [kwun,  Apxw,  rule], κώμαρχος,  -ου [κώμη,  ἄρχω,  γε],
+κώμαρχος, KOpapxos, True lex
+-ου -ov True pp
+[κώμη, [kwun, True lex
+ἄρχω, Apxw, True pp
+rule], γε], False eng
+# 77 14 11 village chief. νἱίαρε εἶτ.
+village νἱίαρε False eng
+chief. εἶτ. False eng
+# 78 36 38 kopn,  -ys [cogn.,  Eng. home],  un- κώμη,  -ἡς [Τορῃ.,  Επρ. ΒΟΙΏ67],  υἡ-
+κώμη, kopn, True lex
+-ys -ἡς False na
+[cogn., [Τορῃ., False na
+Eng. Επρ. False na
+home], ΒΟΙΏ67], False eng
+un- υἡ- False na
+# 79 15 17 walled village. να ]]6ε ἡ σἱδαρέ.
+walled να False eng
+village. ]]6ε False eng
+# 80 32 33 koparns,  -ov [xwun],  villager. κωμήτης,  -ουὐ [κώμη],  υἱδίαρέ᾽.
+κωμήτης, koparns, True lex
+-ov -ουὐ False na
+[κώμη], [xwun], True lex
+villager. υἱδίαρέ᾽. False eng
+# 81 1 1 A Δ
+A Δ False na
+# 82 23 21 AaBPeiv,  see AauBarvw. λαβεῖν,  Ξεε λαμβάνω.
+λαβεῖν, AaBPeiv, True form
+see Ξεε False eng
+λαμβάνω. AauBarvw. True pp
+# 83 36 36 Aayxdvw,  AjEouat,  Edaxov,  elAnxa, λαγχάνω,  λήξομαι,  ἔλαχον,  εἴληχα,
+λαγχάνω, Aayxdvw, True pp
+λήξομαι, AjEouat, True pp
+ἔλαχον, Edaxov, True pp
+elAnxa, εἴληχα, False na
+# 84 39 41 elAnypat,  XN Ony,  obtain by lot,  ob- εἵἴληγμαι,  ἐλήχθην,  οὐΐαῖ): ὧν οί,  οὐ-
+εἵἴληγμαι, elAnypat, True pp
+ἐλήχθην, XN True pp
+Ony, οὐΐαῖ): False na
+obtain ὧν False eng
+by οί, False eng
+lot, οὐ- False eng
+ob- NA False na
+# 85 30 33 tain,  get,  with gen. or acc. ζαΐγι,  ροΐ,  ΜΊΓΗ ρθη,  ΟΥ̓ 80Ο,
+tain, ζαΐγι, False eng
+get, ροΐ, False eng
+with ΜΊΓΗ False eng
+gen. ρθη, False eng
+or ΟΥ̓ False eng
+acc. 80Ο, False eng
+# 86 38 37 Aayds or Aayds,  -d or -wW,  6,  hare. λαγῶς οἵ λαγώς,  -ὦ οἵ -ώ,  ὁ,  λαγε.
+λαγῶς Aayds True lex
+or οἵ False eng
+λαγώς, Aayds, True lex
+-d -ὦ False na
+or οἵ False eng
+-wW, -ώ, False na
+ὁ, 6, True lex
+hare. λαγε. False eng
+# 87 21 21 AaGeiv,  see AavOdvw. λαθεῖν,  Ξεα λανθάνω.
+λαθεῖν, AaGeiv, True form
+see Ξεα False eng
+λανθάνω. AavOdvw. True pp
+# 88 45 47 AdOpq@ [cp. Aabetv],  adv.,  secretly,  with- λάθρᾳ [«ρΡ. λαθεῖν],  διῖν.,  σεεγ εἶν,  τοῖτἀ-
+λάθρᾳ AdOpq@ True form
+[cp. [«ρΡ. False eng
+λαθεῖν], Aabetv], True form
+adv., διῖν., False eng
+secretly, σεεγ False eng
+with- εἶν, False na
+# 89 32 33 out the knowledve of,  with gen. οι 216 ξργιοτυῤοιζσε οὐς ΜΓ ρα ῃ.
+out οι False eng
+the 216 False eng
+knowledve ξργιοτυῤοιζσε False na
+of, οὐς False eng
+with ΜΓ False eng
+gen. ρα False eng

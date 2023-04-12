@@ -1,0 +1,521 @@
+# 0 2 3 62 402
+62 402 False na
+# 1 33 31 have lived near Trapezus in Xeno- πανὸ Ἰνο ποᾶὺ Τταρώζυ5 ἰῃ Χεπο-
+have πανὸ False eng
+lived Ἰνο False eng
+near ποᾶὺ False eng
+Trapezus Τταρώζυ5 False na
+in ἰῃ False eng
+Xeno- Χεπο- False na
+# 2 11 9 phon’s day, μΠ 5 εἰν,
+phon’s μΠ False na
+day, 5 False eng
+# 3 42 44 xodwvds,  -ov [cogn.,  Lat. collis,  47//, κολωνός,  -ου [ὁοὐγμη.,  1, 4ἴ. 001118,  ἀν,
+κολωνός, xodwvds, True lex
+-ου -ov True pp
+[cogn., [ὁοὐγμη., False na
+Lat. 1, False na
+collis, 4ἴ. False eng
+47//, 001118, False na
+# 4 37 38 ng. hill),  42//,  mound (of stones), ἔαρ. 8111},  ἡ,  νιοιο αὶ (οὗ 510Π65),
+ng. ἔαρ. False eng
+hill), 8111}, False eng
+ἡ, 42//, True case
+mound νιοιο False eng
+(of αὶ False eng
+stones), (οὗ False eng
+# 5 7 3 CaQUrn. αν.
+CaQUrn. αν. False na
+# 6 43 43 wopl{w,  xoucw,  dxduioa,  xexduixa,  Kexd- κομίζω,  κομιῶ,  ἐκόμισα,  κεκόμικα,  κεκό-
+κομίζω, wopl{w, True pp
+κομιῶ, xoucw, True pp
+ἐκόμισα, dxduioa, True pp
+κεκόμικα, xexduixa, True pp
+Kexd- κεκό- False na
+# 7 36 41 puopat,  érouiadny,  cae for,  carry μισμαι,  ἐκομίσθην,  «αι,  ὁ , ο»,  (αΥῪ»
+μισμαι, puopat, True pp
+ἐκομίσθην, érouiadny, True pp
+cae «αι, False na
+for, ὁ False eng
+carry , False eng
+# 8 40 43 aivay so as to care for,  carry,  bring; τοι 50 ὯΝ ἴο σᾶτς [οτ,  47...72.}., ψ ὀγῖηρ
+τοι aivay True lex
+so 50 False eng
+as ὯΝ False eng
+to ἴο False eng
+care σᾶτς False eng
+for, [οτ, False eng
+carry, 47...72.}., False eng
+bring; ψ False eng
+# 9 34 32 mid.,  éviag one’s own possessions αλλ,  ὀγ τρισὶ ΠΟ ΟΠ ΡΟΒΒ 55.005
+mid., αλλ, False eng
+éviag ὀγ False na
+τρισὶ one’s True form
+own ΠΟ False eng
+possessions ΟΠ False eng
+# 10 32 32 or things in which one is inter- οὐ {πιηρ5 ἴθ ΜΒΙΟἢ οἷς 15 ἰπῖοτ-
+or οὐ False eng
+things {πιηρ5 False eng
+in ἴθ False eng
+which ΜΒΙΟἢ False eng
+one οἷς False eng
+is 15 False eng
+inter- ἰπῖοτ- False na
+# 11 6 6 ested. ὀδίοη,
+ested. ὀδίοη, False na
+# 12 37 39 Kovuaros,  -η,  -dy (verbal of Komdw, κονιᾶτός,  -ή,  -όν (νοτῦ αὶ οἵ κονιάω,
+Kovuaros, κονιᾶτός, False na
+-ή, -η, True pp
+-όν -dy True pp
+(verbal (νοτῦ False eng
+of αὶ False eng
+οἵ Komdw, True form
+# 13 32 33 plaster),  plastered,  cemented, 2. ατέ6γ7),  ῥέα ἐγοώ,  ἐφρεοησώ,
+plaster), 2. False eng
+plastered, ατέ6γ7), False eng
+cemented, ῥέα False eng
+# 14 42 45 Kovopros,  -o0 [Kdms,  ust,  Bpvium,  ster κονιορτός,  -ου [κόνις,  οὐδέ,  ὄρνῦμι,  5117
+κονιορτός, Kovopros, True lex
+-ου -o0 True pp
+[κόνις, [Kdms, True lex
+ust, οὐδέ, False eng
+ὄρνῦμι, Bpvium, True pp
+ster 5117 False eng
+# 15 20 20 up],  cloud of dust. “],  «ἐο τε ὁ} ὐμδέ,
+up], “], False eng
+cloud «ἐο False eng
+of τε False eng
+dust. ὁ} False eng
+# 16 24 25 KOmMpOS,  ov,  7,  dung. κόπρος,  ου,  ἢ,  αἰτεην.
+κόπρος, KOmMpOS, True lex
+ου, ov, True pp
+ἢ, 7, True lem
+dung. αἰτεην. False eng
+# 17 42 42 xéwrw,  kdpu,  éxowa,  -xéxopa,  kéxoupat, κόπτω,  κόψω,  ἔκοψα,  -κέκοφα,  κέκομμαι,
+κόπτω, xéwrw, True pp
+κόψω, kdpu, True pp
+ἔκοψα, éxowa, True pp
+-xéxopa, -κέκοφα, False na
+κέκομμαι, kéxoupat, True pp
+# 18 34 38 éxémnv [bor.,  Eng. comma,  synco- ἐκόπην [Ὁ οτ.,  ἕηρσ. σΟΠ ΠΙΆ,  ΒΥΠ00-
+éxémnv ἐκόπην False na
+[bor., [Ὁ False eng
+Eng. οτ., False na
+comma, ἕηρσ. False eng
+synco- σΟΠ False na
+# 19 40 40 pate,  apocope ],  cut,  slash; cut down Ῥδῖδ,  ΔΡΟΟΟΡΘ],  ἐμῷ,  σέατά,  ἐφ ἀοτῦν
+pate, Ῥδῖδ, False eng
+apocope ΔΡΟΟΟΡΘ], False eng
+ἐμῷ, ], True form
+cut, σέατά, False eng
+slash; ἐφ False eng
+cut ἀοτῦν False eng
+down NA False eng
+# 20 12 12 trees; A7//, ἴγοθ5.,  Αδ,
+trees; ἴγοθ5., False eng
+A7//, Αδ, False na
+# 21 42 44 képn,  -ns [bor.,  Eng. Cora],  gid,  Lat. κόρη,  -ἡς [ὕοτ.,  Επρ. ΟοτγΔ],  σίγώ,  1Αϊ.
+κόρη, képn, True lex
+-ns -ἡς False na
+[bor., [ὕοτ., False eng
+Eng. Επρ. False na
+Cora], ΟοτγΔ], False na
+gid, σίγώ, False eng
+Lat. 1Αϊ. False na
+# 22 7 6 puella. 2ποία.
+puella. 2ποία. False na
+# 23 38 39 Kopewrh,  -is,  Corsoté,  a large city Κορσωτή,  -ῆς, ,  Οογεῦίξ,  ἃ ἴατρε ΟΥ̓
+Κορσωτή, Kopewrh, True lem
+-is, -ῆς, False na
+Corsoté, , False na
+a Οογεῦίξ, False eng
+large ἃ False eng
+city ἴατρε False eng
+# 24 35 33 situated on an island formed by the διταδίει ἢ δὴ ἰϑδηά ἰογπιε Ὀγ [ἢς
+situated διταδίει False eng
+on ἢ False eng
+an δὴ False eng
+island ἰϑδηά False eng
+formed ἰογπιε False eng
+by Ὀγ False eng
+the [ἢς False eng
+# 25 31 32 Euphrates and the Mascas canal, Εὐρδγᾶϊοβ δπὰ ἴῃ6 Μϑβοδβ Ἵσδηδὶ,
+Euphrates Εὐρδγᾶϊοβ False na
+and δπὰ False eng
+the ἴῃ6 False eng
+Mascas Μϑβοδβ False na
+canal, Ἵσδηδὶ, False eng
+# 26 30 30 which was mistaken by Xenophon ΠΟ ἢ ννὰ5. πιϑία θη Ὁ Χεπορἤοη
+which ΠΟ False eng
+was ἢ False eng
+mistaken ννὰ5. False eng
+by πιϑία False eng
+Xenophon θη False na
+# 27 12 11 for a river. ον ἃ τίνϑυ.
+for ον False eng
+a ἃ False eng
+river. τίνϑυ. False eng
+# 28 28 32 Kopudh,  -7s,  Lop,  summit. κορυφή,  -ῆς,  202,  5147»7;417,
+κορυφή, Kopudh, True lex
+-7s, -ῆς, False na
+Lop, 202, False na
+summit. 5147»7;417, False eng
+# 29 39 38 koopéw,  Koounow,  etc. [xdopuos; bor., κοσμέω,  κοσμήσω,  εἴς. [κόσμος; Ὅογ.,
+κοσμέω, koopéw, True pp
+κοσμήσω, Koounow, True pp
+etc. εἴς. False eng
+[κόσμος; [xdopuos; True lex
+bor., Ὅογ., False eng
+# 30 35 34 Eng. cosmetic],  arrange,  marshal; Επρ. ΘΟϑλθίϊο,  αγγαρε,  νιαγελαξ,
+Eng. Επρ. False na
+cosmetic], ΘΟϑλθίϊο, False eng
+arrange, αγγαρε, False eng
+marshal; νιαγελαξ, False eng
+# 31 6 10 adorn. ααἴ07), }.
+adorn. ααἴ07), False eng
+# 32 39 37 kéopos,  -ov [bor.,  Eng. cosmopolitan, κόσμος,  -ου [Ὅοτ.,  Επρ. σοϑμορο δη,
+κόσμος, kéopos, True lex
+-ου -ov True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False na
+cosmopolitan, σοϑμορο False eng
+# 33 33 38 cosmic,  microcosm],  good order; ΟΟΒΠΊΪΟ,  ΠΪΟΓΟΟΟΒ8Π1],  ρυοα ο7 4127,
+cosmic, ΟΟΒΠΊΪΟ, False eng
+microcosm], ΠΪΟΓΟΟΟΒ8Π1], False eng
+good ρυοα False eng
+order; ο7 False eng
+# 34 11 15 ‘adornment. ᾿σαΐογ21716737.
+‘adornment. ᾿σαΐογ21716737. False na
+# 35 42 41 kovdos,  -η,  -ov,  light; xédpros Koddos, κοῦφος,  -ή,  -ον,  ἐζράξ; χόρτος κοῦφος,
+κοῦφος, kovdos, True lex
+-ή, -η, True pp
+-ον, -ov, True pp
+light; ἐζράξ; False eng
+χόρτος xédpros True pp
+κοῦφος, Koddos, True lex
+# 36 4 3 hay. ἦα.
+hay. ἦα. False eng
+# 37 41 43 Kpdvos,  -ous,  76 [bor.,  Eng. cranium], κράνος,  -ους,  τό [ὍὈοτ.,  Επηρ. οΥΔῺΪπι7,
+κράνος, Kpdvos, True lex
+-ους, -ous, True pp
+τό 76 True form
+[bor., [ὍὈοτ., False eng
+Eng. Επηρ. False na
+cranium], οΥΔῺΪπι7, False eng
+# 38 37 38 helmet,  commonly of metal,  protect- ἀεί»,  σοτωτη οὩΥ οὗ πιείαϊ,  ρτοίδοι-
+helmet, ἀεί», False eng
+commonly σοτωτη False eng
+of οὩΥ False eng
+metal, οὗ False eng
+protect- πιείαϊ, False na
+# 39 31 31 ing the whole head and the neck ἴηρ ἴ6 ψνῃο]ὸ μεδᾶ δηἀ [ἢ6 πεοκ
+ing ἴηρ False eng
+the ἴ6 False eng
+whole ψνῃο]ὸ False eng
+head μεδᾶ False eng
+and δηἀ False eng
+the [ἢ6 False eng
+neck πεοκ False eng
+# 40 32 34 behind,  It was usually provided ὈΘΠΪηα,  τ ννᾶβ. ἀβια}}ν ρῥτονϊ θά
+behind, ὈΘΠΪηα, False eng
+It τ False na
+was ννᾶβ. False eng
+usually ἀβια}}ν False eng
+provided ρῥτονϊ False eng
+# 41 36 36 with a crest of horsehair. See Figs. ἢ ἃ οτγαϑί οἵ πουβομαῖγ,  ὅ6ες ΕἾρϑ.
+with ἢ False eng
+a ἃ False eng
+crest οτγαϑί False eng
+of οἵ False eng
+horsehair. πουβομαῖγ, False eng
+ὅ6ες See True pp
+Figs. ΕἾρϑ. False na
+# 42 34 34 6,  7,  8,  II,  pp. 40,  41,  55. 6,  7,  8,  11,  ΡΡ. 40,  41,  55.
+6, 6, False na
+7, 7, False na
+8, 8, False na
+II, 11, False na
+pp. ΡΡ. False eng
+40, 40, False na
+41, 41, False na
+55. 55. False na
+# 43 39 38 Kpatéw,  xpaTrjow,  etc. [xpdros; bor., κρατέω,  κρατήσω,  εἴς. [κράτος; ὈοΥ.,
+κρατέω, Kpatéw, True pp
+κρατήσω, xpaTrjow, True pp
+etc. εἴς. False eng
+[κράτος; [xpdros; True pp
+bor., ὈοΥ., False eng
+# 44 32 35 Eng. autocracy,  democracy],  de Ἐπρ. διυίζοούδου,  ἀθηηοοῦδ ον,  ὁέ
+Eng. Ἐπρ. False na
+autocracy, διυίζοούδου, False eng
+democracy], ἀθηηοοῦδ False eng
+de ον, False eng
+# 45 6 8 Google (πΘοορῖς
+Google (πΘοορῖς False na
+# 46 19 19 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ ὃ ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝ False na
+ὃ ANABASIS True form
+# 47 38 40 strong,  rule,  have sway over,  be v- σίγονρ,  γιϑέε,  ἄαυε στυαγ οὐξγ,  ὁέ τς
+strong, σίγονρ, False eng
+rule, γιϑέε, False eng
+have ἄαυε False eng
+sway στυαγ False eng
+over, οὐξγ, False eng
+be ὁέ False eng
+v- τς False na
+# 48 37 38 lorious,  conquer,  abs. or with gen. ἰογἼο145,  ἐογ φεῦ,  ΔῸ5. οὐ νν τ βεη.
+lorious, ἰογἼο145, False na
+conquer, ἐογ False eng
+abs. φεῦ, False eng
+or ΔῸ5. False eng
+with οὐ False eng
+gen. νν False eng
+# 49 45 44 Kpartp,  -7jpos,  6 [xepdvvvyut,  mzzx; bor., κρατήρ,  -ῆρος,  ὁ [κεράννῦμι,  »εχ ,  Ὀοτ.,
+κρατήρ, Kpartp, True lex
+-7jpos, -ῆρος, False na
+ὁ 6 True lex
+[κεράννῦμι, [xepdvvvyut, True pp
+mzzx; »εχ False na
+bor., , False eng
+# 50 35 37 Eng. crater],  /arge bowl,  used by Επρ. ογδῖθγ],  ἐαγρὲ ὀοτυΐ,  ἀϑεὰ ὈΥ͂
+Eng. Επρ. False na
+crater], ογδῖθγ], False eng
+/arge ἐαγρὲ False na
+bowl, ὀοτυΐ, False eng
+used ἀϑεὰ False eng
+by ὈΥ͂ False eng
+# 51 32 35 the Greeks for mixing water with [ες Οτγεοκβ ἰοσ τὐϊχίηρ νναΐῖεσ ψτἢ
+the [ες False eng
+Greeks Οτγεοκβ False na
+for ἰοσ False eng
+mixing τὐϊχίηρ False eng
+water νναΐῖεσ False eng
+with ψτἢ False eng
+# 52 36 35 wine,  which they never drank clear. νῆα,  ΜΙ ἢ [86 ν πένοῦ ἀγϑηκ οἸθᾶγ.
+wine, νῆα, False eng
+which ΜΙ False eng
+they ἢ False eng
+never [86 False eng
+drank ν False eng
+clear. πένοῦ False eng
+# 53 21 21 See Fig. 69,  p. 207. 566 ΕἸΡ. 69,  Ρ. 207.
+See 566 False na
+Fig. ΕἸΡ. False na
+69, 69, False na
+p. Ρ. False eng
+207. 207. False na
+# 54 39 38 xparirros,  -1,  -ov [xpdros}] (used as κράτιστος,  -ή,  -ον [κράτος] (υδεά 85
+κράτιστος, xparirros, True pp
+-ή, -1, True pp
+-ον -ov True pp
+[κράτος] [xpdros}] True pp
+(used (υδεά False eng
+as 85 False eng
+# 55 35 36 sup. of dya6és,  really sup. of old Β50Ρ. οὗ ἀγαθός,  τελὶὶν 5ὺρ. οἱ οἷά
+sup. Β50Ρ. False eng
+of οὗ False eng
+ἀγαθός, dya6és, True lex
+really τελὶὶν False eng
+sup. 5ὺρ. False eng
+of οἱ False eng
+old οἷά False eng
+# 56 41 41 adj. xparvs,  strong),  best,  strongest, δά]. κρατύς,  5(707:0),  ὀέδί,  “170 ρεηῆ
+adj. δά]. False eng
+κρατύς, xparvs, True lex
+strong), 5(707:0), False eng
+best, ὀέδί, False eng
+strongest, “170 False eng
+# 57 36 38 bxavest,  noblest. Neut. acc. pl. as ὀκαυεεί,  ποόέεεί, . Νααῖ. δος. Ρ]. 85
+bxavest, ὀκαυεεί, False na
+noblest. ποόέεεί, False eng
+Neut. . False na
+acc. Νααῖ. False eng
+pl. δος. False eng
+as Ρ]. False eng
+# 58 27 28 adv.,  best,  most bravely. δάν.,  δεεύ,  »ιοσί ὀγαυείν.
+adv., δάν., False eng
+best, δεεύ, False eng
+most »ιοσί False eng
+bravely. ὀγαυείν. False eng
+# 59 42 46 Kpatos,  -ous,  76,  strength,  power; ava κράτος,  -ους,  τό,  “{γεγιρίά,  ῥοτυεόν,  ἀνὰ
+κράτος, Kpatos, True pp
+-ους, -ous, True pp
+τό, 76, True form
+strength, “{γεγιρίά, False eng
+power; ῥοτυεόν, False eng
+ava ἀνὰ False eng
+# 60 37 39 kparos,  at full speed,  kata xpdros, κράτος,  αὐ γιείῤ :ῤέεαῖ,  κατὰ κράτος,
+κράτος, kparos, True pp
+at αὐ False eng
+full γιείῤ False eng
+speed, :ῤέεαῖ, False eng
+κατὰ kata True form
+κράτος, xpdros, True pp
+# 61 34 33 with all their might (according to τοὰ αὐ τἀεῖγ τεῖράξ (Δοςοταϊηρ ἴο
+with τοὰ False eng
+all αὐ False eng
+their τἀεῖγ False eng
+might τεῖράξ False eng
+(according (Δοςοταϊηρ False eng
+to ἴο False eng
+# 62 32 31 their strength,  hence with some {Πεὶγ βίγοηρίη,  βθῆοα ΜῈ ϑοῖης
+their {Πεὶγ False eng
+strength, βίγοηρίη, False eng
+hence βθῆοα False eng
+with ΜῈ False eng
+some ϑοῖης False eng
+# 63 15 17 reserve power). τέβεῦνε ροόψετῖ).
+reserve τέβεῦνε False eng
+power). ροόψετῖ). False eng
+# 64 37 35 kpavyf,  -js [cp. xpdfw,  cry],  cry, κραυγή,  -ἣς [ρ. κράζω,  477},  Φ»,
+κραυγή, kpavyf, True lex
+-js -ἣς False na
+[cp. [ρ. False eng
+κράζω, xpdfw, True pp
+cry], 477}, False eng
+cry, Φ», False eng
+# 65 17 14 shouting; uproar. λοι,  τ ῤ7οα7.
+shouting; λοι, False eng
+uproar. τ False eng
+# 66 42 43 kpéas,  xpéws,  76 [bor.,  Eng. creosote], κρέας,  κρέως,  τό [ὈὈοτ.,  Επρ. ΟΥΘΟΒΟ[θ],
+κρέας, kpéas, True lex
+xpéws, κρέως, False na
+τό 76 True form
+[bor., [ὈὈοτ., False eng
+Eng. Επρ. False na
+creosote], ΟΥΘΟΒΟ[θ], False eng
+# 67 16 19 flesh; pl. meat, Μερὰ,  Ρ].,  γεϑαΐ.
+flesh; Μερὰ, False eng
+pl. Ρ]., False eng
+meat, γεϑαΐ. False eng
+# 68 42 42 kpelrrwv,  -ov,  gen. -ovos [xparos] (used κρείττων,  -ον,  σ6η. -ονος [κράτος] (υ5εἀ
+κρείττων, kpelrrwv, True pp
+-ον, -ov, True pp
+gen. σ6η. False eng
+-ovos -ονος False na
+[κράτος] [xparos] True pp
+(used (υ5εἀ False eng
+# 69 36 38 as comp. of dya0és,  really comp. of 85 σοηρ. οὗ ἀγαθός,  τε 4 }}7 σοῃρ. οὗ
+as 85 False eng
+comp. σοηρ. False eng
+of οὗ False eng
+ἀγαθός, dya0és, True lex
+really τε False eng
+comp. 4 False eng
+of }}7 False eng
+# 70 37 39 old adj. xparvs,  strong),  stronger, οἷά δά]. κρατύς,  5:7 0710),  ΣΙγΟΉΡΕΥ,
+old οἷά False eng
+adj. δά]. False eng
+κρατύς, xparvs, True lex
+strong), 5:7 False eng
+stronger, 0710), False eng
+# 71 36 36 mightier; better,  preferable,  more »ερ 167,  ὀεῖ7,  2γεέγεγαδίο,  φιογέ
+mightier; »ερ False eng
+better, 167, False eng
+preferable, ὀεῖ7, False eng
+more 2γεέγεγαδίο, False eng
+# 72 9 9 valuable. ναἐμαῤέο.
+valuable. ναἐμαῤέο. False eng
+# 73 41 39 kpépapat,  kpeutoroua: [cp. xpeudrriue }, κρέμαμαι,  κρεμήσομαι [ςΡ. κρεμάννυμι],
+κρέμαμαι, kpépapat, True pp
+κρεμήσομαι kpeutoroua: True pp
+[cp. [ςΡ. False eng
+κρεμάννυμι], xpeudrriue True pp
+}, NA False na
+# 74 28 27 intr.,  be suspended,  hang. ἰπίγ, ,  ἐφ σιϑῤεγεεω,  ἀκ.
+intr., ἰπίγ, False eng
+be , False eng
+suspended, ἐφ False eng
+hang. σιϑῤεγεεω, False eng
+# 75 39 39 Kpepdvvtp.,  Kpeud,  éxpéuaca,  éxpeud- κρεμάννῦμι,  κρεμῶ,  ἐκρέμασα,  ἐκρεμά-
+κρεμάννῦμι, Kpepdvvtp., True pp
+κρεμῶ, Kpeud, True pp
+ἐκρέμασα, éxpéuaca, True pp
+éxpeud- ἐκρεμά- False na
+# 76 41 39 oOnv (cp. kpévapac },  transitive,  hang, σθην [ςΡ. κρέμαμαι}],  ἰτϑῃ51να,  ἀαλδ,
+σθην oOnv True pp
+(cp. [ςΡ. False eng
+kpévapac κρέμαμαι}], False na
+}, ἰτϑῃ51να, False na
+transitive, ἀαλδ, False eng
+hang, NA False eng
+# 77 8 7 hang up. ἤαηρ τ.
+hang ἤαηρ False eng
+up. τ. False eng
+# 78 32 35 Kphvn,  -ns,  spring,  fountain. κρήνη,  -ἡς,  “2γ1ιο,  7οτερεα 172.
+κρήνη, Kphvn, True lex
+-ns, -ἡς, False na
+spring, “2γ1ιο, False eng
+fountain. 7οτερεα False eng
+# 79 32 33 Kpymts,  -idos,  7,  foundation. κρηπίς,  -ἶδος,  ἡ,  , οτηηαα ον.
+κρηπίς, Kpymts, True lex
+-ἶδος, -idos, True pp
+ἡ, 7, True case
+foundation. , False eng
+# 80 40 41 Kpfs,  Kpyrés,  6,  Cretan,  a native of Κρής,  Κρητός,  ὁ,  (γείαγι,  ἃ παϊϊνε οἵ
+Κρής, Kpfs, True lex
+Kpyrés, Κρητός, False na
+ὁ, 6, True lex
+Cretan, (γείαγι, False na
+a ἃ False eng
+native παϊϊνε False eng
+of οἵ False eng
+# 81 34 36 Crete (in modern times also called (τεία (1 τποήθγῃ ὑἰπλε8. 4150 Ἵδ] δά
+Crete (τεία False na
+(in (1 False eng
+modern τποήθγῃ False eng
+times ὑἰπλε8. False eng
+also 4150 False eng
+called Ἵδ] False eng
+# 82 32 31 Candia),  an island south of the (απάϊα),  δῇ ᾿ἰϑἰαπα βου οἵ ἰδὲ
+Candia), (απάϊα), False na
+an δῇ False eng
+island ᾿ἰϑἰαπα False eng
+south βου False eng
+of οἵ False eng
+the ἰδὲ False eng
+# 83 33 31 Peloponnésus,  noted in antiquity Ῥεϊοροῃηῃέϑυβ,  ποῖϊεά ἰῇ δηιαυ
+Peloponnésus, Ῥεϊοροῃηῃέϑυβ, False na
+noted ποῖϊεά False eng
+in ἰῇ False eng
+antiquity δηιαυ False eng
+# 84 16 16 for its archers. ίου 115 ἀγοῃοῖβ.
+for ίου False eng
+its 115 False eng
+archers. ἀγοῃοῖβ. False eng
+# 85 41 45 Kpt0n,  -7s,  always pl. in the Anadasis, κριθή,  -ῆς, ,  ΑΙ'νναγβ Ρ]. ἴῃ (8ς “Ἵπαδας1,
+κριθή, Kpt0n, True lex
+-7s, -ῆς, False na
+always , False eng
+pl. ΑΙ'νναγβ False eng
+in Ρ]. False eng
+the ἴῃ False eng
+Anadasis, (8ς False na
+# 86 21 21 barleycorns,  barley. ὀαγέφγεο»ρς,  δαγέεγ.
+barleycorns, ὀαγέφγεο»ρς, False na
+barley. δαγέεγ. False eng
+# 87 40 41 xptOivos,  -η,  -ov [xpt04],  of barley; κρίθινος,  -η,  -ον [κριθή],  977 δαγίεν»
+κρίθινος, xptOivos, True lex
+-η, -η, False na
+-ον -ov True pp
+[κριθή], [xpt04], True lex
+of 977 False eng
+barley; δαγίεν» False eng
+# 88 38 40 olvos xplOcvos,  beer,  which is still οἶνος κρίθινος,  ὁέεέγ,  ΜΏϊΪσ ἢ ἰ5. 51}
+οἶνος olvos True lex
+κρίθινος, xplOcvos, True lex
+beer, ὁέεέγ, False eng
+which ΜΏϊΪσ False eng
+is ἢ False eng
+still ἰ5. False eng
+# 89 27 28 generally made with barley. ΒΘΒΘΥΑΙΪΥ τηδάθ ψ] ἢ Ὀδε]ογ.
+generally ΒΘΒΘΥΑΙΪΥ False eng
+made τηδάθ False eng
+with ψ] False eng
+barley. ἢ False eng
+# 90 44 44 Kptvo,  Kpiv®,  Expiva,  Kéxpixa,  Kéxptual, κρίνω,  κρινῶ,  ἔκρινα,  κέκρικα,  κέκριμαι,
+κρίνω, Kptvo, True pp
+κρινῶ, Kpiv®, True pp
+Expiva, ἔκρινα, False na
+κέκρικα, Kéxpixa, True pp
+κέκριμαι, Kéxptual, True pp

@@ -1,8 +1,8 @@
 # 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΕΚΥ
 VOCABULARY ΝΟΓΑΒΌΓΑΕΚΥ False na
 # 1 36 38 Gaaxynvol,  -dy [Odyaxos],  inhabit- Θαψακηνοί,  -ῶν [Θάψακος],  ἐρπλαῤῖἼέ-
-Gaaxynvol, Θαψακηνοί, False na
--dy -ῶν False na
+Θαψακηνοί, False na
+-ῶν False na
 [Θάψακος], [Odyaxos], True lem
 inhabit- ἐρπλαῤῖἼέ- False na
 # 2 32 34 ants of Thapsacus,  Thapsacenes. αγις οὐ 7 λαῤεἄεις,  1 λαῤεἄεεμες.
@@ -14,9 +14,9 @@ Thapsacenes. λαῤεἄεις, False na
 Θάψακος, OawWakos, True lem
 -ου, -ov, True pp
 ἡ, 7, True case
-Vhapsadcus, 7 False na
+Thapsacus, 7 False na
 a αῤὝεἄε:εξ, False eng
-ἃ com- True lex
+com- True lex
 # 4 35 35 mercial city on the Euphrates,  the τηθγοΐαὶ Οἱ οὐ ἴπε ΕὈΡΏὨτγδῖεβ,  [6
 mercial τηθγοΐαὶ False na
 city Οἱ False eng
@@ -69,26 +69,23 @@ tacle. ας. False na
 # 12 39 39 Ocdopar,  Oedoouat,  eGeacdunv,  rebéa- θεάομαι,  θεάσομαι,  ἐθεᾶσάμην,  τεθέᾶ-
 θεάομαι, Ocdopar, True pp
 θεάσομαι, Oedoouat, True pp
-ἐθεᾶσάμην, eGeacdunv, True pp
-rebéa- τεθέᾶ- False na
+ἐθεασάμην, eGeacdunv, True pp
+τεθέα- False na
 # 13 36 37 pac [0éa; bor.,  Eng. theater],  ook μαι [θέᾳ; Ὀοτ.,  Επρ. {ποαῖογ],  δοοξ
-pac μαι False eng
-[θέᾳ; [0éa; True form
+μαι False eng
+[θέα; [0éa; True form
 bor., Ὀοτ., False eng
 Eng. Επρ. False na
 theater], {ποαῖογ], False eng
-ook δοοξ False na
+look δοοξ False na
 # 14 17 19 on,  see,  watch. 071,  δέφ,  τυαίεἦ.
 on, 071, False eng
 see, δέφ, False eng
 watch. τυαίεἦ. False eng
-# 15 14 15 Octv,  see dw. θεῖν,  566 θέω.
-θεῖν, Octv, True form
-see 566 False eng
-θέω. dw. True pp
+
 # 16 39 44 Oeios,  -a,  -ov [eds],  of or from the θεῖος,  -ἅ,  -ον [θεός],  οΓ7 οΥὗἮἨ ἥγονε 1}
 θεῖος, Oeios, True lex
--a, -ἅ, False na
+-α, -ἅ, False na
 -ον -ov True pp
 [eds], [θεός], False eng
 of οΓ7 False eng
@@ -100,31 +97,24 @@ gods, Φούΐς, False eng
 divine. αυῖηθ. False eng
 Neut.as Νεαῖ. False na
 subst., Ἃ5 False eng
-mzzra- βαιρβί., False na
+mira- βαιρβί., False na
 # 18 25 26 cle,  special providence. εἶρ,  Σῥεεῖαί φγουϊαάφηεέ.
 cle, εἶρ, False na
 special Σῥεεῖαί False eng
 providence. φγουϊαάφηεέ. False eng
-# 19 17 17 @éXw,  see E9édw. θέλω,  566 ἐθέλω.
-θέλω, @éXw, True pp
-see 566 False eng
-ἐθέλω. E9édw. True pp
-# 20 29 30 Ogpevor,  évras,  see TlAnut. θέμενοι,  θέντας,  566 τίθημι.
-θέμενοι, Ogpevor, True form
-θέντας, évras, True form
-see 566 False eng
-τίθημι. TlAnut. True pp
+
+
 # 21 40 42 Ocdtroptos,  -ov,  7heopompus,  an Athe- Θεόπομπος,  -ου,  7 ἀεοῤο»!ῤιήδ,  ΔΒ ΑΙ 6-
 Θεόπομπος, Ocdtroptos, True lex
 -ου, -ov, True pp
-7heopompus, 7 False na
+Theopompus, 7 False na
 an ἀεοῤο»!ῤιήδ, False eng
 Athe- ΔΒ False na
 # 22 5 5 nian, Π͵ΔΏ,
 nian, Π͵ΔΏ, False na
 # 23 41 41 Geds,  -o0,  6,  7 [bor.,  Eng. theology, θεός,  -ου,  ὁ,  ἡ [ὕὉοτ.,  Επρ. ΠΘΟΙΟΦΥ,
 θεός, Geds, True lex
--ου, -o0, True pp
+-οῦ, -o0, True pp
 ὁ, 6, True lex
 ἡ 7 True case
 [bor., [ὕὉοτ., False eng
@@ -135,7 +125,7 @@ atheist], δίμοὶβΕ1, False eng
 divinity, οϊυΐγῖέν, False eng
 god, ρου, False eng
 goddess ροιἤδδ5, False eng
-» , False na
+, False na
 τὰ Ta True form
 # 25 37 41 Tv Oewy,  the ceremontes of the gods; τῶν θεῶν,  216 κε» γογ1165 οΥ 116 σοαΐς ,
 τῶν Tv True form
@@ -174,7 +164,7 @@ gods, ροαΐς, False eng
 God Οσοα False na
 will- τοτ)έ- False na
 # 29 4 4 tng. ἔγρ.
-tng. ἔγρ. False eng
+ing. ἔγρ. False eng
 # 30 41 42 OecooéBera,  -ας [PcoreBhs,  revering the θεοσέβεια,  -ας [θεοσεβής,  γευεγῖγιρ᾽ 186
 θεοσέβεια, OecooéBera, True lex
 -ας -ας False na
@@ -191,7 +181,7 @@ for ἐἀέ False eng
 the NA False eng
 # 32 13 11 gods,  prety. οί,  δῇείν.
 gods, οί, False eng
-prety. δῇείν. False na
+piety. δῇείν. False na
 # 33 38 37 Oeparredw,  Ocparetow,  etc. [Oepdrwy; θεραπεύω,  θεραπεύσω,  εἰς. [θεράπων;
 θεραπεύω, Oeparredw, True pp
 θεραπεύσω, Ocparetow, True pp
@@ -203,7 +193,7 @@ Eng. Εηρ. False na
 therapeutic ἘΠΟΥΑΡΘαΙΙΟ], False eng
 ], σέγυε, False na
 serve, τυαῖξ False eng
-watt NA False eng
+wait NA False eng
 # 35 5 5 upon. Μ2ΟΉ.
 upon. Μ2ΟΉ. False eng
 # 36 41 41 Oepdtrwv,  -ovros,  6,  freeborn servant, θεράπων,  -οντος,  ὁ,  {τες θοτῃ σεγσαρέ,
@@ -224,11 +214,7 @@ the ἐδ False eng
 sum- 514721- False na
 # 39 4 7 mer. 77167΄.
 mer. 77167΄. False eng
-# 40 20 20 Oéo Bar,  see 7lOnu. θέσθαι,  566 τίθημι.
-θέσθαι, Oéo True form
-Bar, 566 False na
-see τίθημι. False eng
-7lOnu. NA False na
+
 # 41 42 40 OerraNrla,  -ας,  Thessaly,  the northern- Θετταλίᾳ,  -ας,  72ε:ςἄϊν,  [6 ποτίμεγη-
 Θετταλίᾳ, OerraNrla, True form
 -ας, -ας, False na
@@ -242,17 +228,15 @@ of οἵ False eng
 Greece. σεεοα. False na
 # 43 42 43 OerraNrds,  -o8,  Thessalian,  a native of Θετταλός,  -ου,  7.225:αἰΐαγ:,  ἃ παῖϊνα οὗ
 Θετταλός, OerraNrds, True form
--ου, -o8, True pp
+-οῦ, -o8, True pp
 Thessalian, 7.225:αἰΐαγ:, False na
 a ἃ False eng
 native παῖϊνα False eng
 of οὗ False eng
 # 44 9 9 Thessaly. ΤΒεββᾶϊυ.
 Thessaly. ΤΒεββᾶϊυ. False na
-# 45 6 7 Google (αοορὶς
-Google (αοορὶς False na
-# 46 3 3 453 453
-453 453 False na
+
+
 # 47 40 39 Odw,  Pevocouat,  run,  charge,  abs. or θέω,  θεύσομαι,  γι,  εἤαγρσε,  αὐϑ. ΟΥ
 θέω, Odw, True pp
 θεύσομαι, Pevocouat, True pp
@@ -273,37 +257,33 @@ come εὐ False eng
 on ομπ False eng
 the {1 False eng
 run. γΆ7:. False eng
-# 50 24 23 Oedpevov,  see Jedopuat. θεώμενον,  566 θεάομαι.
-θεώμενον, Oedpevov, True pp
-see 566 False eng
-θεάομαι. Jedopuat. True pp
+
 # 51 37 36 Bewpéw,  Oewpjow,  eOewpnoa,  rTebed- θεωρέω,  θεωρήσω,  ἐθεώρησα,  τεθεώ-
 θεωρέω, Bewpéw, True pp
 θεωρήσω, Oewpjow, True pp
 ἐθεώρησα, eOewpnoa, True pp
-rTebed- τεθεώ- False na
+τεθεώ- False na
 # 52 37 38 pnxa [Oewpds (from 0éa),  spectator , ρηκα [θεωρός (ἔτοτῃη θέαν),  ςΡεείαίο»
 ρηκα pnxa True pp
 [θεωρός [Oewpds True lex
 (from (ἔτοτῃη False eng
-θέαν), 0éa), True form
-spectator ςΡεείαίο» False eng
-, NA False na
+θέα), 0éa), True form
+spectator; ςΡεείαίο» False eng
 # 53 38 39 bor.,  Eng. theory],  view,  de a spec Ῥογ.,  ἔπρ. ΒΘΟΙΥ],  υέέτυ,  ὁέ ἃ «2εεἴ
 bor., Ῥογ., False eng
 Eng. ἔπρ. False na
 theory], ΒΘΟΙΥ], False eng
 view, υέέτυ, False eng
-de ὁέ False eng
+be ὁέ False eng
 a ἃ False eng
-spec «2εεἴ False eng
+spec- «2εεἴ False eng
 # 54 18 17 tator of,  review. ζα0} οἵ» γευΐέτυ.
 tator ζα0} False na
 of, οἵ» False eng
 review. γευΐέτυ. False eng
 # 55 40 43 OnBatos,  -ov [O7Bar,  Thebes],  Theban, Θηβαῖος,  -ουὅ [Θῆβαι,  7 εὐε:7,  7  εύα»:,
 Θηβαῖος, OnBatos, True lex
--ov -ουὅ False na
+-ου False na
 [Θῆβαι, [O7Bar, True lex
 Thebes], 7 False na
 Theban, εὐε:7, False na
@@ -317,15 +297,15 @@ chief {πε False eng
 city οὨϊεῖ False eng
 # 57 11 11 of Boedtia. οὗ Βοροιϊδ.
 of οὗ False eng
-Boedtia. Βοροιϊδ. False na
+Boeotia. Βοροιϊδ. False na
 # 58 38 38 Onpdw,  Onpdcow,  €Phpaca,  .reOhpaxa, θηράω,  θηράσω,  ἐθήραᾶσα,  «τεθήρᾶκα,
 θηράω, Onpdw, True pp
 θηράσω, Onpdcow, True pp
 ἐθήραᾶσα, €Phpaca, True pp
-«τεθήρᾶκα, .reOhpaxa, True pp
+τεθήρᾶκα, .reOhpaxa, True pp
 # 59 32 32 EOnpdOnv [Onpa,  a hunt],  hunt. ἐθηράθην [θήρᾶ,  α ἀπ),  Ψ1ε714.
 ἐθηράθην EOnpdOnv True pp
-[Onpa, [θήρᾶ, False na
+[θήρα, False na
 a α False eng
 hunt], ἀπ), False eng
 hunt. Ψ1ε714. False eng
@@ -337,7 +317,7 @@ etc. εἰς. False eng
 wild τυΐϊα False eng
 ani- αγιἷ- False na
 # 61 20 22 mal),  hunt,  catch. »α 1],  ἀτερέ,  εαξολ.
-mal), »α False eng
+mal], »α False eng
 hunt, 1], False eng
 catch. ἀτερέ, False eng
 # 62 38 40 Onplov,  -ov [diminutive of O49,  wild θηρίον,  -ου [ἀϊπιϊπαῖϊνε οἵ θήρ,  τυΐία
@@ -357,8 +337,7 @@ force; ἔοτοα; False eng
 cogn., οορῃ, False na
 Lat. , False na
 ferus, [, False na
-<e7/d 4[. False na
-,; ἔξ False na
+wild; 4[. False na
 bor., Γ18, False eng
 # 65 35 34 Eng. megatherium ],  animal,  crea- Ἑηρ. τη ρδίμβουπι,  σρνιαΐ,  ἐ7εα-
 Eng. Ἑηρ. False na
@@ -373,12 +352,11 @@ beast. δα False eng
 # 67 39 41 Onxns,  -ov,  Zheches,  a mountain near Θήχης,  -ου,  7 “εελέξ,  ἃ ταουηΐδὶη ΠΘΔΓ
 Θήχης, Onxns, True lex
 -ου, -ov, True pp
-Zheches, 7 False na
+Theches, 7 False na
 a “εελέξ, False eng
 mountain ἃ False eng
 near ταουηΐδὶη False eng
 # 68 34 38 . Trapézus,  from which the Greeks . Τταρέζαϑβ,  ἴγοσλ ψν ῖοἢ [ἢ6 Οτϑεῖκβ
-. . False na
 Trapézus, Τταρέζαϑβ, False na
 from ἴγοσλ False eng
 which ψν False eng
@@ -413,17 +391,17 @@ pf., ρΡΐ., False eng
 found ἰσα False eng
 only πα False eng
 in ΟΠἹΪΥ False eng
-ἴῃ cpds, True form
+cpds, True form
 # 73 35 38 in the Anabasts),  die,  be killed; ἴη τ[ῆ6 ἡμαῤὠ͵ας15),  αἷἶδ,  ὧὲ ιδροα,
 in ἴη False eng
 the τ[ῆ6 False eng
-Anabasts), ἡμαῤὠ͵ας15), False na
+Anabasis), ἡμαῤὠ͵ας15), False na
 die, αἷἶδ, False eng
 be ὧὲ False eng
 killed; ιδροα, False eng
 # 74 33 33 pf.,  de dead,  have been killed. Ρΐ.,  ὁὲ ἐφας,  ἔστε ῥόορ ξιδ ρα,
 pf., Ρΐ., False eng
-de ὁὲ False eng
+be ὁὲ False eng
 dead, ἐφας, False eng
 have ἔστε False eng
 been ῥόορ False eng
@@ -433,7 +411,7 @@ killed. ξιδ False eng
 -ή, -η, True pp
 -όν -dv True pp
 [θνήσκω], [OvioKxw], True pp
-able ἠαῤίε False eng
+liable ἠαῤίε False eng
 to [0 False eng
 # 76 15 20 death,  mortal, ἕραϊά,  γ»ιογίαζ,  .
 death, ἕραϊά, False eng
@@ -441,13 +419,13 @@ mortal, γ»ιογίαζ, False eng
 # 77 43 48 OdpuBos,  -ov,  s075e,  uproar,  confusion. θόρυβος,  -ου,  γ10156,  τεῤ»οαγ,  «ο»1}4451071.
 θόρυβος, OdpuBos, True lex
 -ου, -ov, True pp
-s075e, γ10156, False na
+noise,
 uproar, τεῤ»οαγ, False eng
 confusion. «ο»1}4451071. False eng
 # 78 39 40 OpGt,  Gpaxds,  6,  Thracian,  a native Θρᾷξ,  Θρᾳκός,  ὁ,  7 ἀγαεία,  ἃ πιαῖϊνα
 Θρᾷξ, OpGt, True lex
-Gpaxds, Θρᾳκός, False na
-ὁ, 6, True lex
+Θρᾳκός, False na
+ὁ, ἡ, True lex
 Thracian, 7 False na
 a ἀγαεία, False eng
 native ἃ False eng
@@ -461,20 +439,19 @@ bold], ὀοία, False eng
 adv., δἄν., False eng
 boldly, ον, False eng
 # 81 14 12 ' confidently. ᾿ ΟΠ ἰδγεἶγ.
-' ᾿ False na
 confidently. ΟΠ False eng
 # 82 40 44 Opdvos,  -ov [bor.,  Eng. throne],  sea, θρόνος,  -οὅὐ [ἢῬοτ.,  Επρ. [Π͵ΓΟΠΘ1,  54α7,
 θρόνος, Opdvos, True lex
--ov -οὅὐ False na
+-ου False na
 [bor., [ἢῬοτ., False eng
 Eng. Επρ. False na
 throne], [Π͵ΓΟΠΘ1, False eng
-sea, 54α7, False eng
+seat, 54α7, False eng
 # 83 7 7 throne. ζάγοηο.
 throne. ζάγοηο. False eng
 # 84 41 40 Ovydrnp,  -rpdés,  7 [cogn.,  Eng. daugh- θυγάτηρ,  -τρός,  ἡ [οορῃ.,  Επρ. ἄδπρἘ-
 θυγάτηρ, Ovydrnp, True lex
--rpdés, -τρός, False na
+-τρός, False na
 ἡ 7 True case
 [cogn., [οορῃ., False na
 Eng. Επρ. False na
@@ -495,15 +472,15 @@ Phrygia. ΡὨτυρΊα. False na
 # 88 44 46 Ovpoedhs,  -¢s [Guuds,  spirit,  eldos,  ap- θυμοειδής,  -ές [θῦὺμός,  ς21γ12,  εἶδος,  αῤ-
 θυμοειδής, Ovpoedhs, True lex
 -ές -¢s True pp
-[Guuds, [θῦὺμός, False na
+[θυμός, False na
 spirit, ς21γ12, False eng
 εἶδος, eldos, True pp
 ap- αῤ- False na
 # 89 21 20 pearance),  spirited, 2εαγαε6},  5ςῤῖγϊοα,
-pearance), 2εαγαε6}, False na
+pearance], 2εαγαε6}, False na
 spirited, 5ςῤῖγϊοα, False eng
 # 90 39 39 OTpdopat,  Giudcouat,  TePbuwuat,  e0v- θυμόομαι,  θυμώσομαι,  τεθύμωμαι,  ἐθὺ-
 θυμόομαι, OTpdopat, True pp
 θυμώσομαι, Giudcouat, True pp
 τεθύμωμαι, TePbuwuat, True pp
-e0v- ἐθὺ- False na
+ἐθυ- False na

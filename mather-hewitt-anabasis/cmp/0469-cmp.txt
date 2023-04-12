@@ -1,5 +1,4 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+
 # 1 38 42 oneself; pass.,  be called,  be named, ογεεεοζζ,  Ῥᾶ55.. έφ εαἰίοαί,  ἐδ παριεά;,
 oneself; ογεεεοζζ, False eng
 pass., Ῥᾶ55.. False eng
@@ -23,22 +22,13 @@ the 1η False eng
 Greek ([ῃ6 False na
 army ατεεῖκ False eng
 of δύ False eng
-οἱ Cyrus. True form
-# 5 29 32 KGAXtov,  KGAA Ta,  see Kads. κάλλτϊον,  κάλλιστα,  566 καλῶς.
-κάλλτϊον, KGAXtov, True pp
-κάλλιστα, KGAA True form
-Ta, 566 False na
-see καλῶς. False eng
-Kads. NA False na
-# 6 21 22 xdAAoros,  see KaNés. κάλλιστος,  566 καλός.
-κάλλιστος, xdAAoros, True pp
-see 566 False eng
-καλός. KaNés. True lex
+Cyrus. True form
+
 # 7 36 38 KGAXos,  -ous,  76 [xands],  beauty. κάλλος,  -ους,  τό ἵ καλός],  ὀεατείγ.
 κάλλος, KGAXos, True lex
--ous, -ους, False na
+-ους, -ous, True pp
 τό 76 True form
-ἵ [xands], True lex
+[καλός], True lex
 beauty. καλός], False eng
 # 8 34 33 kadAwmiopés,  -of [xadéds and root καλλωπισμός,  -ου [καλός δηά τοοί
 καλλωπισμός, kadAwmiopés, True lex
@@ -77,7 +67,7 @@ deautiful, ὀεατιί, False na
 fine, , False eng
 handsome; γ16, False eng
 # 15 40 41 fatr,  noble,  honorable; of sacrifices, , 2ἴγ,  ποῤέρ,  λομογαδίε,  οἵ 5δογῖῇςβϑ,
-fatr, , False na
+fair, , False na
 noble, 2ἴγ, False eng
 honorable; ποῤέρ, False eng
 of λομογαδίε, False eng
@@ -85,20 +75,20 @@ sacrifices, οἵ False eng
 # 16 38 39 favorable,  propitious; kadds kal dya- , )ανογαῦί,  2γοῤἧΤοις,  καλὸς καὶ ἀγα-
 favorable, , False eng
 propitious; )ανογαῦί, False eng
-kadds 2γοῤἧΤοις, False na
-kal καλὸς False eng
-καὶ dya- True form
+καλὸς 
+καὶ
+ἀγα- 2γοῤἧΤοις, False na
 # 17 16 19 Obs,  see dyads. θός,  Ξ58ε6 ἀγαθός.
-Obs, θός, False na
+θός, False na
 see Ξ58ε6 False eng
-dyads. ἀγαθός. False eng
+ἀγαθός. False eng
 # 18 35 37 Neut. as subst.,  Zomor,  els xaddv Νεαυῖ. 45 βυρβί.,  ζομοῦ ,  εἰς καλὸν
 Neut. Νεαυῖ. False na
 as 45 False eng
 subst., βυρβί., False eng
-Zomor, ζομοῦ False na
-els , False eng
+honor, ζομοῦ False na
 εἰς xaddv True lex
+καλὸν
 # 19 36 37 ixere,  you have come opportunely or ἥκετε,  γος ἦαῦε εο7216 οδῥογίηρεζ οὐ
 ἥκετε, ixere, True form
 you γος False eng
@@ -115,7 +105,7 @@ time. 1716. False eng
 # 21 39 37 Kadd@s,  comp. kdéAXioy,  sup. xdddorTa καλῶς,  σοιῃρ. κάλλϊον,  ΒΡ. κάλλιστα
 καλῶς, Kadd@s, True form
 comp. σοιῃρ. False eng
-κάλλϊον, kdéAXioy, True pp
+κάλλιον, kdéAXioy, True pp
 sup. ΒΡ. False eng
 κάλλιστα xdddorTa True form
 # 22 43 42 [xands ],  adv.,  beautifully,  well,  suc- [καλός],  δἄν.,  ὀεατί γεν,  τυοίϊ,  5ιέε-
@@ -129,7 +119,7 @@ suc- 5ιέε- False na
 cessfully, κοτε False na
 nobly, εν, False eng
 honorably, ποόέν, False eng
-kados ἀομπογαῤίν, False eng
+καλῶς ἀομπογαῤίν, False eng
 # 24 44 42 exeuv,  be well,  be well settled,  be prop- ἔχειν,  ὁέ τυοίέ,  δ τυοὐ τοὐφω,  δέ 2γοῤ-
 ἔχειν, exeuv, True form
 be ὁέ False eng
@@ -145,9 +135,9 @@ attended αἰεγεαφω False eng
 to; 10, False eng
 καλῶς xaros True form
 ἔχειν exerv True form
-dpa- ὁρᾶ- False na
+ὁρᾶ- False na
 # 26 32 33 cOa,  present a fine appearance; σθαι,  2γέδερέ ὦ ἥμὲ ἀῤῥεέαγαϑεθ,
-cOa, σθαι, False na
+σθαι, False na
 present 2γέδερέ False eng
 a ὦ False eng
 fine ἥμὲ False eng
@@ -178,10 +168,10 @@ cal καὶ False eng
 ἐάν. édv. True lex
 # 31 45 44 xdvivus,  -vos,  6,  robe,  caffam,  an upper κάνδυς,  -υος,  ὁ,  γοόε,  εα7αγ:,  ἃ ὍΡΡΕοΥ
 κάνδυς, xdvivus, True lex
--vos, -υος, False na
+-υος, False na
 ὁ, 6, True lex
 robe, γοόε, False eng
-caffam, εα7αγ:, False na
+caftan, εα7αγ:, False na
 an ἃ False eng
 upper ὍΡΡΕοΥ False eng
 # 32 35 33 garment with sleeves,  worn by Per- δατηθηΐ ἢ 5ἰεανεβ,  γόοσῃ ὈΥ Ῥεῖ-
@@ -199,14 +189,14 @@ Fig. ΕἸΡ. False na
 p. Ρ. False eng
 18. 18. False na
 # 34 38 39 Kavredev,  by crasis for cal évredOev. κἀντεῦθεν,  ὈΥ οταβὶ5 ἴογ καὶ ἐντεῦθεν.
-Kavredev, κἀντεῦθεν, False na
+κἀντεῦθεν, False na
 by ὈΥ False eng
 crasis οταβὶ5 False eng
 for ἴογ False eng
-cal καὶ False eng
+καὶ False eng
 ἐντεῦθεν. évredOev. True lex
 # 35 36 35 Katretra,  by crasis for xal érevra. κἄπειτα,  ὈΥ οταϑὶβ ἴοσ καὶ ἔπειτα.
-Katretra, κἄπειτα, False na
+κἄπειτα, False na
 by ὈΥ False eng
 crasis οταϑὶβ False eng
 for ἴοσ False eng
@@ -216,9 +206,9 @@ for ἴοσ False eng
 καπηλεῖον, KamnAetov, True pp
 -ου -ov True pp
 [κάπηλος, [xdrndos, True lex
-relail γείαϊἠ False na
+retail γείαϊἠ False na
 # 37 39 39 dealer},  retailer's shop,  restaurant, ἐἰδαἰ67],  γείατίογὴ» σλοῤ,  γέρα) αγι,
-dealer}, ἐἰδαἰ67], False na
+dealer], ἐἰδαἰ67], False na
 retailer's γείατίογὴ» False na
 shop, σλοῤ, False eng
 restaurant, γέρα) False eng
@@ -226,8 +216,8 @@ restaurant, γέρα) False eng
 tavern. ζασνέ. False eng
 # 39 38 40 xal@y,  -ns,  capfithe,  a Persian dry καπίθη,  -ἡς,  εαίϊλε,  ὁ,  Ῥεγβίδῃ ΑἿσΥ
 καπίθη, xal@y, True lex
--ns, -ἡς, False na
-capfithe, εαίϊλε, False na
+-ης, False na
+capithe, εαίϊλε, False na
 a ὁ, False eng
 Persian Ῥεγβίδῃ False na
 dry ΑἿσΥ False eng
@@ -255,7 +245,7 @@ the ἴΠς False eng
 interior ᾿πίογῖοσ False eng
 of οὗ False eng
 Asia Αϑία False na
-Μίπου, Minor, True pp
+Minor, True pp
 # 44 29 29 part of the satrapy of Cyrus. Ρατί οὗ [με βαίγαρυ οὗ Ογγιβ.
 part Ρατί False eng
 of οὗ False eng
@@ -263,23 +253,21 @@ the [με False eng
 satrapy βαίγαρυ False eng
 of οὗ False eng
 Cyrus. Ογγιβ. False na
-# 45 6 9 Google (πΘοορσίς
-Google (πΘοορσίς False na
-# 46 3 4 457 4517
-457 4517 False na
+
+
 # 47 41 45 kdmpos,  -ov [cogn.,  Lat. caper,  goa/], κάπρος,  -ου [σορῃ.,  [, Δἴ,  ΟΔΡΘΥ͂,  ροαζ],
 κάπρος, kdmpos, True lex
 -ου -ov True pp
 [cogn., [σορῃ., False na
 Lat. [, False na
 caper, Δἴ, False eng
-goa/], ΟΔΡΘΥ͂, False na
+goat], ΟΔΡΘΥ͂, False na
 # 48 10 12 wild boar. «υἱέα' δοαγ.
 wild «υἱέα' False eng
 boar. δοαγ. False eng
 # 49 41 40 KapBarivat,  -Ov,  drogues,  shoes of un- καρβάτιναι,  -ὧν,  ὀγορτ65,  5065 οὗ υη-
 καρβάτιναι, KapBarivat, True lex
--Ov, -ὧν, False na
+-ὧν, False na
 drogues, ὀγορτ65, False eng
 shoes 5065 False eng
 of οὗ False eng
@@ -295,7 +283,8 @@ and δηά False eng
 by ὈΥ False eng
 soldiers 5ο] False eng
 in ἀΐθυβ False eng
-ἴῃ anemergency. True form
+an
+emergency. True form
 They δῇ False na
 # 52 36 35 consisted of a single piece of hide, οοηβἰβία οὗ ἃ 5ηρ)]ε ρίεςς οὗ Ὠίάο,
 consisted οοηβἰβία False eng
@@ -337,7 +326,7 @@ modern πηοάξγῃ False eng
 times {{π|65 False eng
 in ἴῃ False eng
 # 57 36 36 Ireland,  the Scotch Highlands,  and γε ]δηα,  [ῃ6 ϑοοΐοῃ Ηἰρῃϊδηά5,  ἀπά
-γε Ireland, True lex
+Ireland, True lex
 the ]δηα, False eng
 Scotch [ῃ6 False na
 Highlands, ϑοοΐοῃ False na
@@ -381,9 +370,9 @@ car- ΟδΓ- False na
 diac, ἅϊδο, False na
 pericardium ρου False eng
 ], οαγᾶϊπ], False na
-hear¢. ἀεαγε, False na
+heart. ἀεαγε, False na
 # 64 38 38 KapSovxetos,  -d,  -ov [Kapdoixo],  of αρδούχειος,  -α,  -ον [Καρδοῦχοι],  οὕ
-KapSovxetos, αρδούχειος, False na
+Καρδούχειος, False na
 -α, -d, True pp
 -ον -ov True pp
 [Καρδοῦχοι], [Kapdoixo], True lex
@@ -393,9 +382,9 @@ the τε False eng
 Carduchians, (αγώμεΛλϊαρεο, False na
 Carduchian. (αγοώμεῤλϊταῃ. False na
 # 66 38 36 Kapbdotxou,  -wv,  Cardiichi or Cardu- ἹΚαρδοῦχοι,  -ων,  (αγαμελὶ οὐ (αγα-
-Kapbdotxou, ἹΚαρδοῦχοι, False na
+Καρδοῦχοι, False na
 -ων, -wv, True pp
-Cardiichi (αγαμελὶ False na
+Carduchi (αγαμελὶ False na
 or οὐ False eng
 Cardu- (αγα- False na
 # 67 35 37 chians,  an independent people east εὐΐαρς,  ἂὰὶ ἰμάδροηάθηξ ρεορὶςα δαβὶ
@@ -458,7 +447,7 @@ ritory. τἸζοΥΥ. False na
 reap γέα2 False eng
 crops ε7οῤς- False eng
 # 77 29 35 Jrom,  of an enemy,  plunder. , )ρορε,  οἵ ἃῃ Ἔπεῖηυ,  22 6}167..
-Jrom, , False na
+from, , False na
 of )ρορε, False eng
 an οἵ False eng
 enemy, ἃῃ False eng
@@ -468,8 +457,8 @@ plunder. Ἔπεῖηυ, False eng
 -ου -ol True pp
 [cogn., [οορῃ., False na
 Lat. 1, False na
-carpd, ἰ. False na
-A/uck], οἀτΡῦ, False na
+carpo, ἰ. False na
+pluck], οἀτΡῦ, False na
 # 79 39 35 fruit of the earth or of trees,  crops. τε οἵ [6 δαγίῃ οἵ οὗ ἴγεεβ,  ε70 5.
 fruit τε False eng
 of οἵ False eng
@@ -509,11 +498,11 @@ Syria. ϑυγῖδ. False na
 -ns -ης False na
 [κάρφω, [kdppw, True pp
 dry ἐγ} False eng
-up), 42], False eng
+up], 42], False eng
 dry ὧν») False eng
 ma- ᾽πα- False na
 # 85 13 13 terial,  hay. ζεγίαί,  λαγ.
-terial, ζεγίαί, False na
+terial; ζεγίαί, False na
 hay. λαγ. False eng
 # 86 41 40 Kaorwldés,  -08,  Castolus, a place prob- Καστωλός,  -ου,  (πείση,  ἃ Ρἷαςε ῥργοῦ-
 Καστωλός, Kaorwldés, True lex
@@ -526,8 +515,8 @@ prob- ῥργοῦ- False na
 ably ΔΌΪν False eng
 near ποᾶῦ False eng
 Sardis; ϑαγά False na
-KaorwaAod 5; False na
 Καστωλοῦ redloy, True form
+πεδίον,
 # 88 34 35 Castolus Plain,  the rendezvous of Οαείοέμς ίαϊη,  ἴῃ 6. τοπάδζνουβ οὗ
 Castolus Οαείοέμς False na
 Plain, ίαϊη, False na
@@ -543,4 +532,4 @@ Lydia, ηρεηῖβ False na
 # 90 25 25 Phrygia,  and Cappadocia, Ῥμγυρία,  δηὰ (αρρδάοοϊᾶ,
 Phrygia, Ῥμγυρία, False na
 and δηὰ False eng
-Cappadocia, (αρρδάοοϊᾶ, False na
+Cappadocia. (αρρδάοοϊᾶ, False na

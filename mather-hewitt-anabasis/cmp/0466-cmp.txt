@@ -2,28 +2,27 @@
 454 4151 False na
 # 1 36 37 pwlny [Oruds,  spirit],  be angry or μώθην [θυῦμός,  «ῥίγιῆ,  ἐφ σα 7ν ΟΥ̓
 μώθην pwlny True pp
-[Oruds, [θυῦμός, False na
+[θυμός, False na
 spirit], «ῥίγιῆ, False eng
 be ἐφ False eng
 angry σα False eng
 or 7ν False eng
 # 2 23 22 wncensed at,  with dat. "πεσηπσάΐ αὐ,  ἢ εἰαῖ.
-wncensed "πεσηπσάΐ False na
+incensed "πεσηπσάΐ False na
 at, αὐ, False eng
 with ἢ False eng
 dat. εἰαῖ. False eng
 # 3 44 45 Ovpa,  -ας [coyn.,  Lat. foris,  deor,  Eng. θύρα,  -ἂἃς [(ὐμπ.,  1 αἴ. ΓΟΤ18,  ον»,  Βπρ.
 θύρα, Ovpa, True lex
 -ας -ἂἃς False na
-[coyn., [(ὐμπ., False eng
+[cogn., [(ὐμπ., False eng
 Lat. 1 False na
-αἴ. foris, True lex
-deor, ΓΟΤ18, False na
+foris, True lex
+door, ΓΟΤ18, False na
 Eng. ον», False na
 # 4 40 41 door ],  deor,  gate (usually in pl,  of ἀοοτ],  ὠνον,  ψαΐφ (ἀδυαὶϊν τη 0}].,  οὗ
-door ἀοοτ], False eng
-ὠνον, ], True pp
-deor, ψαΐφ False na
+door], False eng
+door, ψαΐφ False na
 gate (ἀδυαὶϊν False eng
 (usually τη False eng
 in 0}]., False eng
@@ -31,14 +30,14 @@ pl, οὗ False eng
 of NA False eng
 # 5 32 27 double oe folding doors); tyura- ἀμ ϊς οὐ (οἰ ἠθοτ5}; Πρατᾶ-
 double ἀμ False eng
-oe ϊς False eng
+or ϊς False eng
 folding οὐ False eng
 doors); (οἰ False eng
-tyura- ἠθοτ5}; False na
+figura- ἠθοτ5}; False na
 # 6 39 39 tively,  éwi rats Oipas,  at the gales; τνεῖν,  ἐπὶ ταῖς θύραις,  αἰ “6. ματος,
 tively, τνεῖν, False na
 ἐπὶ éwi True form
-rats ταῖς False eng
+ταῖς False eng
 θύραις, Oipas, True form
 at αἰ False eng
 the “6. False eng
@@ -57,34 +56,33 @@ whole, νῆοϊε, False eng
 house, Δοιεσό, False eng
 palace, δα False eng
 court, μεοὶ False eng
-esp, το, False eng
+esp. το, False eng
 of 0. False eng
 the οἵ False eng
-τῆς Per- True form
+Per- True form
 # 9 34 34 sian king; Aeadyguarters of a gen- δία Κίηρ; ἀεη φημι γίογς οὗ ἃ ρεῃ-
 sian δία False na
 king; Κίηρ; False eng
-Aeadyguarters ἀεη False na
+headquarters ἀεη False na
 of φημι False eng
 a γίογς False eng
-οὗ gen- True lex
+gen- True lex
 # 10 5 5 eral, 6τα].
-eral, 6τα]. False eng
+eral. 6τα]. False eng
 # 11 31 29 Ove lad,  -ας [tw],  sacrifice. θυσίᾶ,  -ας [θύω],  “αεγῖλες.
-Ove θυσίᾶ, False na
-lad, -ας False eng
+θυσία, False na
+-ας False eng
 [θύω], -ας True pp
-“αεγῖλες. [tw], True pp
 sacrifice. NA False eng
 # 12 44 44 Oiw,  Hbow,  Mica,  réOvKa,  TéOvUuaL,  érv- θύω,  θύσω,  ἔθῦσα,  τέθυκα,  τέθυμαι,  ἐτύ-
 θύω, Oiw, True pp
 θύσω, Hbow, True pp
-ἔθῦσα, Mica, True pp
+ἔθυσα, Mica, True pp
 τέθυκα, réOvKa, True pp
 τέθυμαι, TéOvUuaL, True pp
-érv- ἐτύ- False na
+ἐτύ- False na
 # 13 39 36 inv,  sacrifice,  merely as an honor to θην,  σαςγ δος,  λοτοῪ ἃ5 ἃ ὨυποΥ ἴο
-inv, θην, False eng
+θην, False eng
 sacrifice, σαςγ False eng
 merely δος, False eng
 as λοτοῪ False eng
@@ -93,7 +91,7 @@ honor ἃ False eng
 to ὨυποΥ False eng
 # 14 35 35 a pod (cp. mid.); 7a Avcasca Ovecy, ἃ μυΐΪ (μ0. χα.};} τὰ Λύκαια θύειν,
 a ἃ False eng
-pod μυΐΪ False eng
+god μυΐΪ False eng
 (cp. (μ0. False eng
 mid.); χα.};} False eng
 τὰ 7a True form
@@ -113,7 +111,7 @@ for ἴοτ False eng
 one’s πο False na
 # 17 35 32 own bencetit,  in order to gain in- ον ΡοηςΠῖ,  τη. οτοσῦ ἴὸ σαὶ 1η-
 own ον False eng
-bencetit, ΡοηςΠῖ, False na
+benefit, ΡοηςΠῖ, False na
 in τη. False eng
 order οτοσῦ False eng
 to ἴὸ False eng
@@ -158,7 +156,7 @@ the 4λε False eng
 breastplate. ὀγεαί False eng
 # 25 39 40 O@wpat,  -axos,  6 [bor.,  Eng. thorax, θώραξ,  -ἄκος,  ὁ [ »ὺτ.,  ΕὩρ. ΤΒΟΓΑΧΣ,
 θώραξ, O@wpat, True lex
--axos, -ἄκος, False na
+-ακος, False na
 ὁ 6 True lex
 [bor., [ False eng
 Eng. »ὺτ., False na
@@ -167,19 +165,19 @@ thorax, ΕὩρ. False eng
 thoracic], 1πογδοὶο], False eng
 breastplate, ὀγεαςἠῥέαέε, False eng
 corselet, εογδοέδί, False eng
-cut- εἰαῖ- False na
+cui- εἰαῖ- False na
 # 27 39 38 rass. See Introd. § 58,  and Figs,  11, 7455. ες Ιπίτοὐ,  ὃ κὃ,  δηὐ ΕἾρΡ5.11,
 rass. 7455. False na
-ες See True pp
+See True pp
 Introd. Ιπίτοὐ, False na
-ὃ § True form
+§ True form
 58, κὃ, False na
 and δηὐ False eng
 Figs, ΕἾρΡ5.11, False na
 11, NA False na
 # 28 17 17 29,  pp- 55,  88. 29,  ΡΡ. 55,  ὅδ.
 29, 29, False na
-pp- ΡΡ. False na
+pp. ΡΡ. False na
 55, 55, False na
 88. ὅδ. False na
 # 29 1 1 I Ι
@@ -200,11 +198,8 @@ treat. ἐγέηί. False eng
 physician, δ΄γεϊείαη, False eng
 sur- 5:27- False na
 # 33 5 5 Leon. Φέο».
-Leon. Φέο». False na
-# 34 16 17 Seiv,  see dpdw. ἰδεῖν,  Ξε6 ὁράω.
-ἰδεῖν, Seiv, True form
-see Ξε6 False eng
-ὁράω. dpdw. True pp
+geon. Φέο». False na
+
 # 35 43 43 td.os,  -a,  -ov [bor.,  Eng. idiom,  idio- ἴδιος,  -α,  -ον [Ὀοτ.,  Επρ. ἄϊοχα,  1ἅ10-
 ἴδιος, td.os, True lex
 -α, -a, True pp
@@ -216,15 +211,15 @@ idio- 1ἅ10- False na
 # 36 39 44 syncrasy ],  ove’s own,  private,  per- ΒΥΠΟΙΔΒΥ ]),  ογε᾽ς οτὐγι,  2, γ1ταέδ,  267-
 syncrasy ΒΥΠΟΙΔΒΥ False eng
 ], ]), False na
-ove’s ογε᾽ς False na
+one’s ογε᾽ς False na
 own, οτὐγι, False eng
 private, 2, False eng
 per- γ1ταέδ, False na
 # 37 37 45 sonal,  els 7d tov,  for private use. σοραί,  εἰς τὸ ἴδιον,  , 0γ,  δ, γῖταὐδ τι56.
 sonal, σοραί, False na
-els εἰς False eng
+εἰς False eng
 τὸ 7d True form
-tov, ἴδιον, False eng
+ἴδιον, False eng
 for , False eng
 private 0γ, False eng
 use. δ, False eng
@@ -252,23 +247,13 @@ private δέγεογι, False eng
 soldier, φγῖναίε False eng
 pri- δο False na
 # 42 5 6 vale, Ψψαΐό.
-vale, Ψψαΐό. False eng
-# 43 24 25 WSo1,  Sodoa,  see dpdw. ἴδοι,  ἰδοῦσα,  5.6 ὁράω,
-ἴδοι, WSo1, True form
-ἰδοῦσα, Sodoa, True pp
-see 5.6 False eng
-ὁράω, dpdw. True pp
-# 44 6 7 Google (ποοοίς
-Google (ποοοίς False na
-# 45 10 10 XENOPHON'S ΧΕΝΟΡΗΟΝῸῸ
-XENOPHON'S ΧΕΝΟΡΗΟΝῸῸ False na
-# 46 8 8 ANARASIS ΑΝΑΒΑΘΙ5
-ANARASIS ΑΝΑΒΑΘΙ5 False na
+vate, Ψψαΐό. False eng
+
 # 47 39 42 lSpde,  f3pwoa [root «6:5; cogn.,  Lat. ἱδρόω,  ἴδρωσα [τοοῖ σριδ; ςορπι.,  1, 31.
 ἱδρόω, lSpde, True pp
 ἴδρωσα f3pwoa True pp
 [root [τοοῖ False eng
-«6:5; σριδ; False na
+σϝιδ; False na
 cogn., ςορπι., False na
 Lat. 1, False na
 # 48 36 41 sudor,  sweat,  Eng. sweat],  sweat, δ ΟΥ,  -«τουεαΐ,  ἘτΏρ. δυγοδῖ],  στοσαί,
@@ -279,19 +264,8 @@ sweat], ἘτΏρ. False eng
 sweat, δυγοδῖ], False eng
 # 49 9 10 perspire. 2έεγεῤῖγε.
 perspire. 2έεγεῤῖγε. False eng
-# 50 15 16 Sev,  see opdw. ἰδών,  Ξεε ὁράω.
-ἰδών, Sev, True form
-see Ξεε False eng
-ὁράω. opdw. True pp
-# 51 16 18 lévas,  see els. ἰέναι,  5Ξες εἶμι.
-ἰέναι, lévas, True form
-see 5Ξες False eng
-els. εἶμι. False eng
-# 52 25 26 tévres,  fevro,  see Inu. ἱέντες,  ἴεντο,  566 ἴημι.
-ἱέντες, tévres, True pp
-fevro, ἴεντο, False na
-see 566 False eng
-ἴημι. Inu. True pp
+
+
 # 53 45 47 lapeiov,  -ov [lepds],  victim for sacrifice; ἱερεῖον,  -ου [ἱερός],  σἱείέηι 707,  σαεγ πες,
 ἱερεῖον, lapeiov, True pp
 -ου -ov True pp
@@ -305,7 +279,7 @@ portions Ῥου[οΠ5 False eng
 of οἱ False eng
 the ἴῃς False eng
 animal δη]π)] False eng
-sacritice: ϑδουιποει False na
+sacrifice: ϑδουιποει False na
 # 55 36 38 were reserved to be eaten,  the word ὙΟΙΘ γοϑογνϑα ἴο ὕὈ6 φδΐδη,  ἴῃς μοτιὶ
 were ὙΟΙΘ False eng
 reserved γοϑογνϑα False eng
@@ -325,8 +299,8 @@ for Ρ].) False eng
 meat. ίοτ False eng
 # 57 40 42 lepds,  -d,  -6y [bor.,  Eng. hierarchy, ἱερός,  -ἅά,  -ὁν [Ὀοτ.,  Επρ. ΒΙΘΓΑΓΙΟΒΥ,
 ἱερός, lepds, True lex
--d, -ἅά, False na
--6y -ὁν False na
+-ά, False na
+-ὁν False na
 [bor., [Ὀοτ., False eng
 Eng. Επρ. False na
 hierarchy, ΒΙΘΓΑΓΙΟΒΥ, False eng
@@ -334,7 +308,7 @@ hierarchy, ΒΙΘΓΑΓΙΟΒΥ, False eng
 hieroglyphic], ΒἰΘτΟσ False eng
 sacred, ΡΒ. False eng
 holy; 7, False eng
-ta σασσεά, False eng
+τὰ σασσεά, False eng
 # 59 40 38 lepd,  the sacrifice,  the vitals of the ἱερά,  ζἠε ταεγίβεο,  τἀὲ υἱίαίς οὗ τε
 ἱερά, lepd, True lex
 the ζἠε False eng
@@ -376,12 +350,12 @@ Cyrus’s Ογτυ3᾽5 False na
 Greek ατοεκ False na
 army. δγιηγ. False eng
 # 65 49 49 Enpt,  ow,  Hxa,  -efka,  -efuat,  -ElOny,  send, ἕημι,  ἥσω,  ἧκα,  -εἶκα,  -εἶμαι,  -εἰθην,  «ἐγ,
-ἕημι, Enpt, True pp
-ow, ἥσω, False eng
+ἵημι, Enpt, True pp
+ἥσω, False eng
 ἧκα, Hxa, True pp
--εἶκα, -efka, True pp
--εἶμαι, -efuat, True pp
--εἰθην, -ElOny, True pp
+-εῖκα, -efka, True pp
+-εῖμαι, -efuat, True pp
+-είθην, -ElOny, True pp
 send, «ἐγ, False eng
 # 66 45 45 throw,  let drive,  shoot,  abs.,  with acc., “ἄγοτυ,  ἐδ ἰγῖνε,  «λοοί,  ΑΌ5.,  1 ἢ ἀος, ,
 throw, “ἄγοτυ, False eng
@@ -397,7 +371,7 @@ dat. αδῖ. False eng
 of οὗ False eng
 instrument; ᾿πβίγυσπηθηΐϊ; False eng
 mid., π)]., False eng
-φάγον ‘row True pp
+throw True pp
 # 68 24 23 oneself,  rush,  charge. ον οεῦς γαρσῆ,  ἐἀαγρέ.
 oneself, ον False eng
 rush, οεῦς False eng
@@ -426,9 +400,9 @@ well έν, False eng
 # 73 7 7 enough, ἐποιρά.
 enough, ἐποιρά. False eng
 # 74 42 45 "Ixéveov,  -ov,  Jconium,  a city situated ᾿Ιόνιον,  -ουυ,  7εογιΐτένε,  ἃ ΟἸΤΥ 5ἰζυαίοα
-᾿Ιόνιον, "Ixéveov, True pp
--ov, -ουυ, False na
-Jconium, 7εογιΐτένε, False na
+Ἰκόνιον, "Ixéveov, True pp
+-ου, False na
+Iconium, 7εογιΐτένε, False na
 a ἃ False eng
 city ΟἸΤΥ False eng
 situated 5ἰζυαίοα False eng
@@ -450,7 +424,7 @@ in θα False eng
 Lycaonia, Ι, False na
 # 78 41 34 fAn,  -ns [efd\w,  roll up,  pack close], ἕλη,  -ς [εἴλω,  γοΐ π,  αςξ εἰσ),
 ἕλη, fAn, True form
--ns -ς False na
+-ηs -ς False na
 [εἴλω, [efd\w, True pp
 roll γοΐ False eng
 up, π, False eng
@@ -469,21 +443,21 @@ numbering Ὡυ False eng
 about οσῖηρ False eng
 70. ἀροῦῖ False na
 # 81 33 32 ips,  -dvros,  6,  thong,  strap. ἱμᾶς,  -άντος,  ὁ,  “λον,  εἴγα.
-ips, ἱμᾶς, False eng
+ἱμᾶς, False eng
 -άντος, -dvros, True pp
 ὁ, 6, True lex
 thong, “λον, False eng
 strap. εἴγα. False eng
 # 82 42 46 tudriov,  -ov,  cloak,  mantle,  worn over ἱμάτιον,  -ουὅ,  εἰοαξ,  τεαρδίε,  ΤΟΥ͂Τ ΟΥ̓ΘΥ
 ἱμάτιον, tudriov, True pp
--ov, -ουὅ, False na
+-ου, False na
 cloak, εἰοαξ, False eng
 mantle, τεαρδίε, False eng
 worn ΤΟΥ͂Τ False eng
 over ΟΥ̓ΘΥ False eng
 # 83 31 32 e thnic (xirdv),  corresponding 6 τἰπὶς (χιτών),  σοτγγεβροῃάμηρ
-e 6 False eng
-thnic τἰπὶς False na
+the 6 False eng
+tunic τἰπὶς False na
 (χιτών), (xirdv), True lex
 corresponding σοτγγεβροῃάμηρ False eng
 # 84 32 35 to the Roman toga; pl,  clothes. ἴο ἴῃς Ἀοτηδη ἴορα; ΡὈ],  εὐἰοίάες.
@@ -506,18 +480,13 @@ with ἢ False eng
 subj. 50]. False eng
 or οὐ False eng
 opt. ορί. False eng
-# 87 25 26 Yorev,  idvros,  see elu. ἴοιεν,  ἰόντος,  566 εἶμι.
-ἴοιεν, Yorev, True form
-ἰόντος, idvros, True pp
-see 566 False eng
-εἶμι. elu. True pp
 # 88 27 28 trmapxos -ov [iwmos,  dpxw, ἵππαρχος -ου [ἵἴππος,  ἄρχω,
 ἵππαρχος trmapxos True lex
 -ου -ov True pp
-[iwmos, [ἵἴππος, False na
+[ἴππος, False na
 ἄρχω, dpxw, True pp
 # 89 35 33 mand},  cavalry captain,  hipparch. ρα},  ἐαυαίγν εωρέαϊη,  ἀϊῤῥανεὶ.
-mand}, ρα}, False na
+command], ρα}, False na
 cavalry ἐαυαίγν False eng
 captain, εωρέαϊη, False eng
 hipparch. ἀϊῤῥανεὶ. False eng
@@ -526,5 +495,3 @@ See 9686 False na
 Introd. [ηίτοά. False na
 ὃ § True form
 57. 57. False na
-# 91 3 5 com (07}»
-com (07}» False eng

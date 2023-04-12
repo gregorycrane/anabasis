@@ -1,14 +1,11 @@
-# 0 10 10 VOCABULARY ΨΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΨΟΓΑΒΌΙΑΚΥ False na
-# 1 39 38 terrac fa,  -ας [imwdfoua,  ride horse- ἱππασία,  -ας [ἱππάζομαι,  γίας ἀογεέ-
+## 1 39 38 terrac fa,  -ας [imwdfoua,  ride horse- ἱππασία,  -ας [ἱππάζομαι,  γίας ἀογεέ-
 ἱππασία, terrac True lex
-fa, -ας False eng
+-ας False eng
 [ἱππάζομαι, -ας True pp
-[imwdfoua, γίας False na
 ride ἀογεέ- False eng
 horse- NA False na
 # 2 30 32 back),  riding,  riding about. ὀαεξ],  γἱαίγερ,  γἱαγερ αὐοιεί.
-back), ὀαεξ], False eng
+back], ὀαεξ], False eng
 riding, γἱαίγερ, False eng
 riding γἱαγερ False eng
 about. αὐοιεί. False eng
@@ -23,14 +20,14 @@ pl., Ρ]., False eng
 cavalry. εαυαίγγ. False eng
 See 8586 False na
 Introd. πἴτοάἥ. False na
-ὃ § True form
+§ True form
 59. 59. False na
 # 5 44 44 tarmuxds,  -7),  -6v [irwos],  pertarning to ἱππικός,  -ή,  -όν [ἴππος],  2εγἠατρἴρερ᾽ 10
 ἱππικός, tarmuxds, True lex
 -ή, -7), True pp
 -όν -6v True pp
-[irwos], [ἴππος], False na
-pertarning 2εγἠατρἴρερ᾽ False na
+[ἴππος], False na
+pertaining 2εγἠατρἴρερ᾽ False na
 to 10 False eng
 # 6 35 36 horses or cavalry,  cavalry,  Neut. ἀογϑδός οὐ εαυαΐίγγ,  εαὐαΐγγ. Νεαῖ.
 horses ἀογϑδός False eng
@@ -71,11 +68,11 @@ hippopota- ΒἱρΡροροῖδ- False na
 # 13 32 35 mus,  Philip],  Zorse; dad trou, Πι.5,  ῬἘ11Π0],  ἄογεο,  ἀπὸ ἵππου,
 mus, Πι.5, False eng
 Philip], ῬἘ11Π0], False na
-Zorse; ἄογεο, False na
-dad ἀπὸ False eng
+horse; ἄογεο, False na
+ἀπὸ False eng
 ἵππου, trou, True pp
 # 14 37 40 ép Ytxmou,  on horseback,  the former ἐφ᾽ ἵππου,  ογ ἀογεεόασεξ,  ἴῃ 6 ἰοτπιοῦ
-ép ἐφ᾽ False na
+ἐφ᾽ False na
 ἵππου, Ytxmou, True pp
 on ογ False eng
 horseback, ἀογεεόασεξ, False eng
@@ -103,15 +100,9 @@ position ροβι(οῃ False eng
 of οὗ False eng
 the [86 False eng
 rider. τίἀευ. False eng
-~ “ὦ False na
-. . False na
-# 19 23 24 toaon,  toh,  see olda. ἴσασι,  ἴσθι,  Ξεε οἶδα.
-ἴσασι, toaon, True form
-ἴσθι, toh, True lex
-see Ξεε False eng
-οἶδα. olda. True lex
+
 # 20 42 44 icOpéds,  -of,  isthmus,  esp. the Isthmus ἱσθμός,  -ου,  2ελλ»ε1έ5,  Ἔ5Ρ0. ἦε 7 Ἴλρετς
-icOpéds, ἱσθμός, False na
+ἱσθμός, False na
 -ου, -of, True pp
 isthmus, 2ελλ»ε1έ5, False eng
 esp. Ἔ5Ρ0. False eng
@@ -128,12 +119,8 @@ nésus πδϑαβ False na
 with ἢ False eng
 the [6 False eng
 mainland. τηδ] False eng
-# 23 17 17 topev,  see olda. ἴσμεν,  566 οἶδα.
-ἴσμεν, topev, True form
-see 566 False eng
-οἶδα. olda. True lex
 # 24 41 40 tadaAevpos,  -ov [icos,  mrAevpd,  side], ἱσόπλευρος,  -ον [ἴσος,  πλευρά,  “142],
-tadaAevpos, ἱσόπλευρος, False na
+ἱσόπλευρος, False na
 -ον -ov True pp
 [ἴσος, [icos, True lex
 πλευρά, mrAevpd, True lex
@@ -145,29 +132,28 @@ sides. 5165. False eng
 # 26 39 38 tcos,  -η,  -ov [bor.,  Eng. isosceles, ἴσος,  -ή,  τον [Ὀοτ.,  Επρ. 80506168,
 ἴσος, tcos, True lex
 -ή, -η, True pp
-τον -ov True pp
+-ov True pp
 [bor., [Ὀοτ., False eng
 Eng. Επρ. False na
 isosceles, 80506168, False eng
 # 27 34 32 isothermal],  equal; év low,  with ΙΒοΐβου 417,  ἐφέα,; ἐν ἴσῳ,  τυ
 isothermal], ΙΒοΐβου False eng
 equal; 417, False eng
-év ἐφέα,; False na
-low, ἐν False eng
-with ἴσῳ, False eng
+ἐν False eng
+ἴσῳ, False eng
+with
 # 28 40 41 even step ,; && toov,  on an equal foot- ἐύεόρι το,  ἐξ ἴσου,  ο» α7: ἐφιέαί 70ο7-
 even ἐύεόρι False eng
 step το, False eng
 ἐξ ,; True form
 ἴσου, && True pp
-toov, ο» False na
 on α7: False eng
 an ἐφιέαί False eng
 equal 70ο7- False eng
 foot- NA False na
 # 29 38 39 ang,  els Td toov,  to the same level. Ζρρ,  εἰς τὸ ἴσον,  109 26 σανιφ ἐφυφί.
-ang, Ζρρ, False na
-els εἰς False eng
+ing, Ζρρ, False na
+εἰς False eng
 τὸ Td True form
 ἴσον, toov, True pp
 to 109 False eng
@@ -182,7 +168,7 @@ adv., δᾶν., False eng
 equally, εφιέαίν, False eng
 alike. αἰϊξε. False eng
 # 31 45 45 toroxerss,  -és [Yoos,  xetAos,  lip,  brim], ἱσοχειλής,  -ἔς [ἴσος,  χεῖλος,  ἐΐ,  ὁγ19, ,
-toroxerss, ἱσοχειλής, False na
+ἱσοχειλής, False na
 -és -ἔς False na
 [ἴσος, [Yoos, True lex
 χεῖλος, xetAos, True lex
@@ -206,13 +192,13 @@ a ἃ False eng
 full [ι]] False eng
 vessel. νε556]. False eng
 # 34 37 38 "Iocol,  -d» (commonly ‘Iaaés,  -08), Ἴσσοί,  -ῶν (σοπητηοηὶν ᾿Ισσός,  -ουν,
-"Iocol, Ἴσσοί, False na
--d» -ῶν False na
+Ἴσσοί, False na
+-ῶν False na
 (commonly (σοπητηοηὶν False eng
-‘Iaaés, ᾿Ισσός, False na
--08), -ουν, False na
+᾿Ισσός, False na
+-οῦ), False na
 # 35 39 40 Jssus,  a city in southeastern Cilicia, 755,  ἃ ΟἸΤΥ ἰπ βϑουϊμδδβίογη (Ἰ]Π]Ἰοἷα,
-Jssus, 755, False na
+Issus, 755, False na
 a ἃ False eng
 city ΟἸΤΥ False eng
 in ἰπ False eng
@@ -223,7 +209,7 @@ near Ὡδᾶγ False eng
 which ψν False eng
 Alexander ΙΟἢ False na
 the ΑἸεχαπάεγ False eng
-ἴῃς Great True form
+ Great True form
 de- ατεαῖ False na
 # 37 25 24 feated Darius in 333 B.C. [εαἰεὰ ᾿αυῖὰβ ἢ 332 Β.6.
 feated [εαἰεὰ False na
@@ -231,21 +217,17 @@ Darius ᾿αυῖὰβ False na
 in ἢ False eng
 333 332 False na
 B.C. Β.6. False na
-# 38 16 16 tore,  see olda. ἴστε,  566 οἶδα.
-tore, ἴστε, False eng
-see 566 False eng
-οἶδα. olda. True lex
 # 39 40 41 lornpt,  orjow,  dornoa,  orny,  Eornka, ἵστημι,  στήσω,  ἔστησα,  ἔστην,  ἕστηκα,
 ἵστημι, lornpt, True pp
 στήσω, orjow, True pp
 ἔστησα, dornoa, True pp
-orny, ἔστην, False na
+ἔστην, False na
 ἕστηκα, Eornka, True pp
 # 40 34 37 éordOnv [cogn.,  Lat. std,  stand, ἐστάθην [σορη.,  [, Δἴ. 8βἴῦ,  “μαγω,
 ἐστάθην éordOnv True pp
 [cogn., [σορη., False na
 Lat. [, False na
-std, Δἴ. False eng
+sto, Δἴ. False eng
 stand, 8βἴῦ, False eng
 # 41 36 40 Eng. stand],  cause to stand,  stop, Επρ. 8ἰδηδ7]Ί,  σα πδε 10 σία πα,  δίοΐ,
 Eng. Επρ. False na
@@ -266,7 +248,7 @@ intr., ᾿μ{Γ.» False eng
 in ἴῃ False eng
 mid. τϊ4. False eng
 (except (εχοερί False eng
-I 1 False na
+1 False na
 aor.), 8ογ.), False eng
 also 4150 False eng
 in 1 False eng
@@ -281,10 +263,7 @@ and ρέ, False eng
 2 , False na
 plupf. ἀπα False eng
 act. 2 False eng
-# 45 6 8 Google (ποορσὶς
-Google (ποορσὶς False na
-# 46 3 3 455 455
-455 455 False na
+
 # 47 37 39 (the pf. and 2 pf. have pres. force), (([Βε ρΡῇ. δπὰ 2 ρῇ. ἢανε ρύθβ. ίοτοβ),
 (the (([Βε False eng
 pf. ρΡῇ. False eng
@@ -308,8 +287,7 @@ stand ἐξ, False eng
 one’s δία False na
 ground, μα False eng
 with οπες False eng
-# 50 17 19 els,  come,  get. εἰς,  “ο) 16,  ρέζ.
-els, εἰς, False eng
+εἰς, False eng
 come, “ο) False eng
 get. 16, False eng
 # 51 33 35 torlov,  -ov [diminutive of iords ἱστίον,  -ου [ἀϊηγπαϊΐδναε οὗ ἱστός
@@ -330,7 +308,7 @@ web, «οεό, False eng
 cloth; εἰοέά, False eng
 sail. βατέ, False eng
 # 54 44 46 laxipds,  -d,  -6» [loxbs],  strong,  power- ἰσχῦρός,  -ἅ,  -όν [ἰσχύς],  εἰ ογηρ,  ῥοτυε7-
-laxipds, ἰσχῦρός, False na
+ἰσχυρός, False na
 -d, -ἅ, False na
 -όν -6» True pp
 [ἰσχύς], [loxbs], True lex
@@ -339,15 +317,14 @@ power- ογηρ, False na
 # 55 4 3 ful. Με.
 ful. Με. False na
 # 56 39 39 loxtpés,  comp. loxipérepor [ic xupds], ἰσχῦρῶς,  σομΡ. ἰσχῦρότερον [ἰσ χῦρός],
-loxtpés, ἰσχῦρῶς, False na
+ἰσχῦρῶς, False na
 comp. σομΡ. False eng
 ἰσχῦρότερον loxipérepor True pp
-[ic [ἰσ False eng
-xupds], χῦρός], False na
+[ἰσχυρός], χῦρός], False na
 # 57 38 45 adv.,  strongly,  vigorousls,  strenu- δᾶν.,  “Ἴγορηρίν,  υἱσογοιζ, ',  5127. 62114-
 adv., δᾶν., False eng
 strongly, “Ἴγορηρίν, False eng
-vigorousls, υἱσογοιζ, False na
+vigorously, υἱσογοιζ, False na
 strenu- ', False na
 # 58 37 35 ously,  severely,  very,  exceedingly ομδέν,  δουεγεν; φ67),  ἐαχεθεαϊρὴν
 ously, ομδέν, False na
@@ -359,11 +336,10 @@ exceedingly ἐαχεθεαϊρὴν False eng
 Eng. Επρ. False na
 ‘mighty’ “τσ False na
 for ῖγ False eng
-ον ‘ True pp
-very’). “ False na
+'very’). “ False na
 # 60 46 46 la-xts,  -vos,  7,  strength,  force,  forces, ἰσχῦς,  -ύος,  ἡ,  σἰγεγιρίά,  γογεδ,  7ογεός,
-la-xts, ἰσχῦς, False na
--vos, -ύος, False na
+ἰσχῦς, False na
+-ύος, False na
 ἡ, 7, True case
 strength, σἰγεγιρίά, False eng
 force, γογεδ, False eng
@@ -373,10 +349,10 @@ of οὗ False eng
 an Δ False eng
 army. ΔΙΙΏΥ. False eng
 # 62 39 38 tows [loos],  adv.,  eyually,; perhaps, ἴσως [ἴσος],  δάν.,  ἐφμαίδν,  εγλαξς,
-tows ἴσως False eng
-[loos], [ἴσος], False eng
+ἴσως False eng
+[ἴσος], False eng
 adv., δάν., False eng
-eyually,; ἐφμαίδν, False na
+equally,; ἐφμαίδν, False na
 perhaps, εγλαξς, False eng
 # 63 38 37 possibly,  often used without implica- 2οπεἼὀδν,  οἴει υϑο ΜἸΓΠοαΐ 1] 0}108-
 possibly, 2οπεἼὀδν, False eng
@@ -398,7 +374,7 @@ assertion, Δ556 False eng
 ἱτέον lréov True pp
 (verbal (νετραὶ False eng
 of οἵ False eng
-elm, εἶμι, False eng
+εἶμι, False eng
 go), ρ0), False eng
 impers., ἱτηρεῖβ., False eng
 # 67 16 18 necessary to go. 6 .65547.}) ἔο ρῸ.
@@ -406,23 +382,19 @@ necessary 6 False eng
 to .65547.}) False eng
 go. ἔο False eng
 # 68 40 41 rus,  -vos,  7,  edge,  rim of a shield. ἴτυς,  -υος,  ἡ,  ἐάρε,  γῇ» οἵ ἃ 581ε]4,
-rus, ἴτυς, False eng
--vos, -υος, False na
+ἴτυς, False eng
+-υος, False na
 ἡ, 7, True case
 edge, ἐάρε, False eng
 rim γῇ» False eng
 of οἵ False eng
 a ἃ False eng
 shield. 581ε]4, False eng
-# 69 17 18 trwoav,  see elu. ἴτωσαν,  566 εἶμι.
-ἴτωσαν, trwoav, True form
-see 566 False eng
-εἶμι. elu. True pp
+
 # 70 43 44 ly Os,  -vos,  6 [bor.,  Eng. ichthyology], ἰχθύς,  -ὕος,  ὁ [θοτ.,  ΕΏὩρ. ἸοΒ ΒγοΪοσΥ],
-ly ἰχθύς, False eng
-Os, -ὕος, False na
+ἰχθύς, False eng
+-ύος, False na
 ὁ -vos, True lex
-6 [θοτ., False na
 [bor., ΕΏὩρ. False eng
 Eng. ἸοΒ False na
 ichthyology], ΒγοΪοσΥ], False eng
@@ -433,16 +405,14 @@ fish.; , False eng
 -ου -ov True pp
 [diminutive [ἀϊτηϊπυῖϊδννε False eng
 of οἱ False eng
-Il ἔχνος], False na
-xvos], NA False na
+ἴχνος], False na
 # 73 18 19 track,  hoofprint, ἐγαεξ,  ἀοογῥ»γ γε,
 track, ἐγαεξ, False eng
 hoofprint, ἀοογῥ»γ False eng
 # 74 42 45 tx vos,  -ous,  76 [bor.,  Eng. ichneumon, ἴχνος,  -ους,  τό [ᾧὈὈοτγ.,  Επρ. ἸΟΠΠΘΌΠΊΟΝ,
-tx ἴχνος, False eng
-vos, -ους, False na
+ἴχνος, False eng
+-ους, False na
 τό -ous, True form
-76 [ᾧὈὈοτγ., False na
 [bor., Επρ. False eng
 Eng. ἸΟΠΠΘΌΠΊΟΝ, False na
 ichneumon, NA False eng
@@ -459,9 +429,9 @@ prey], ΡΥ], False eng
 rack, ἡγαςξ, False eng
 footprint. , False eng
 # 77 44 45 "Twvla,  -ας,  /onia,  a strip of territory, ᾿Ιωνία,  -ας,  70»α,  ἃ 5ιτὶρ οἵ τατγτγϊίοτυ,
-"Twvla, ᾿Ιωνία, False na
+Ἰωνία, False na
 -ας, -ας, False na
-/onia, 70»α, False na
+Ionia, 70»α, False na
 a ἃ False eng
 strip 5ιτὶρ False eng
 of οἵ False eng
@@ -478,7 +448,7 @@ western νεβδίοση False eng
 coast Ἴοοδδί False eng
 of οὗ False eng
 Asia Αϑίὶα False na
-Μίπον. Minor. True pp
+Minor. True pp
 It [1 False na
 # 80 35 33 included the coast and islands from ἱποϊα δα [Π6 σοαβὶ δηά δα 5 ἔγοπὶ
 included ἱποϊα False eng
@@ -498,34 +468,24 @@ on ου False eng
 the [ῃς False eng
 # 82 6 6 south. ΒΟΌΓΗ,
 south. ΒΟΌΓΗ, False eng
-# 83 40 40 "Iwvixds,  -4,  -dy ["Iwvla],  of Sonia, ᾿Ιωνικός,  -ἤ,  -όν [᾿Ιωνία],  ὁ 7ογιΐα,
-"Iwvixds, ᾿Ιωνικός, False na
--4, -ἤ, False na
+Ἰωνικός, False na
+-ή, False na
 -όν -dy True pp
-["Iwvla], [᾿Ιωνία], False na
+[Ἰωνία], False na
 of ὁ False eng
-Sonia, 7ογιΐα, False na
+Ionia, 7ογιΐα, False na
 # 84 7 11 Jonian, 7ογεῖα 721.
-Jonian, 7ογεῖα False na
-# 85 15 17 Ywor,  see elu. ἴωσι,  566. εἶμι.
-ἴωσι, Ywor, True form
-see 566. False eng
-εἶμι. elu. True pp
-# 86 1 1 K Κ
-K Κ False na
+Ionian, 7ογεῖα False na
+
 # 87 29 29 Kayo,  by crasis for cal éyd. κἀγώ,  ὈΥ οταβὶ5 ἔου καὶ ἐγώ.
-Kayo, κἀγώ, False na
+κἀγώ, False na
 by ὈΥ False eng
 crasis οταβὶ5 False eng
 for ἔου False eng
-cal καὶ False eng
+καὶ False eng
 ἐγώ. éyd. True lex
-# 88 15 16 Ka’,  see Kara. καθ᾽,  566 κατά.
-Ka’, καθ᾽, False na
-see 566 False eng
-κατά. Kara. True pp
 # 89 39 39 KabeLopar,  Kadedoduar,  impf. éxabets- καθέζομαι,  καθεδοῦμαι,  ἰνρ,  ἐκαθεζό-
 καθέζομαι, KabeLopar, True pp
 καθεδοῦμαι, Kadedoduar, True pp
 impf. ἰνρ, False eng
-éxabets- ἐκαθεζό- False na
+ἐκαθεζό- False na

@@ -1,0 +1,532 @@
+# 0 3 3 460 40ο
+460 40ο False na
+# 1 36 35 xaropitre [dpirry,  dig),  dig down: κατορύττω [ὀρύττω,  εὐ],  αὐ ἀἰστον
+κατορύττω xaropitre True pp
+[ὀρύττω, [dpirry, True pp
+dig), εὐ], False eng
+dig αὐ False eng
+down: ἀἰστον False eng
+# 2 26 35 bury,  hide in the ground, ῥι.).)}Θμὥὄ ἡἀτῶς ἐμὲ {ἀπ σγοιερεῖ,
+bury, ῥι.).)}Θμὥὄ False eng
+hide ἡἀτῶς False eng
+in ἐμὲ False eng
+the {ἀπ False eng
+ground, σγοιερεῖ, False eng
+# 3 39 42 Kary [xara],  adv.,  dozen,  downwards; κάτω [κατά],  διἰν.,  ἀυτο)ς ἀοτυπτοαγας ,
+κάτω Kary True pp
+[κατά], [xara], True pp
+adv., διἰν., False eng
+dozen, ἀυτο)ς False eng
+downwards; ἀοτυπτοαγας False eng
+# 4 33 36 below,  70 KaTw,  the lower part. ῥείωτο,  τὸ κάτω,  “ἠὲ ἐυτοοῦ ῥα γέ,
+below, ῥείωτο, False eng
+τὸ 70 True form
+κάτω, KaTw, True pp
+the “ἠὲ False eng
+lower ἐυτοοῦ False eng
+part. ῥα False eng
+# 5 41 42 Kavpa,  -aros,  76 [xaiw,  burn ],  burn- καῦμα,  -ατος,  τό [ καίω,  ὁπ471},  ὀπ71-
+καῦμα, Kavpa, True lex
+-ατος, -aros, True pp
+τό 76 True form
+[xaiw, [ False na
+burn καίω, False eng
+], ὁπ471}, False na
+burn- ὀπ71- False na
+# 6 9 8 tay heat. ων ἤεαί.
+tay ων False eng
+heat. ἤεαί. False eng
+# 7 36 37 Kavorpov weSlov,  -ov,  74,  Cayster Καυστρον πεδίον,  -ου,  τό,  (α) πίον
+Καυστρον Kavorpov True pp
+πεδίον, weSlov, True pp
+-ου, -ov, True pp
+τό, 74, True form
+Cayster (α) False na
+# 8 36 35 Lain,  Caysterfield (cp. Northtield, “ἴηι,  (αν εν μοί (τρΡ. Νογίδηςο]ά,
+Lain, “ἴηι, False na
+Caysterfield (αν False na
+(cp. εν False eng
+μοί Northtield, True form
+# 9 40 36 Springtield,  etc.),  a city of Phrygia. ρΡΓημης],  εἴς.},  ἃ ΟΥ̓ οἱ Ῥητυρία.
+Springtield, ρΡΓημης], False na
+etc.), εἴς.}, False eng
+a ἃ False eng
+city ΟΥ̓ False eng
+of οἱ False eng
+Phrygia. Ῥητυρία. False na
+# 10 41 41 xéyx pos,  -ov,  pumic grass,  related to κέγχρος,  -ου,  δωγιῖς “7, 55,  τοϊαῖε ἴο
+κέγχρος, xéyx True lex
+pos, -ου, False eng
+-ov, δωγιῖς False na
+pumic “7, False na
+grass, 55, False eng
+related τοϊαῖε False eng
+to ἴο False eng
+# 11 34 32 millet,  used as fodder; its seeds τα ἰοῖ,  υϑο δ. (οὐ οτ; 115 5668
+millet, τα False eng
+used ἰοῖ, False eng
+as υϑο False eng
+fodder; δ. False eng
+its (οὐ False eng
+seeds οτ; False eng
+# 12 26 26 are also ground into meal. Διὸ δἷϑο σγοιπ ᾿ηἴο τη68].
+are Διὸ False eng
+also δἷϑο False eng
+ground σγοιπ False eng
+into ᾿ηἴο False eng
+meal. τη68]. False eng
+# 13 48 47 metpat,  xelcouat,  lie,  lie outstretched,  lie κεῖμαι,  κείσομαι,  ἐΐό,  ἐφ οἱεεί» οελεα,  Ζϊδ
+κεῖμαι, metpat, True pp
+κείσομαι, xelcouat, True pp
+lie, ἐΐό, False eng
+lie ἐφ False eng
+outstretched, οἱεεί» False eng
+lie οελεα, False eng
+# 14 35 34 dead,  lie in ruins; (used as a pf. δα,  ἐδ ἰπ γμίηςΙ (ἀϑοὰ ἃ5. ἃ ρΡΐ.
+dead, δα, False eng
+lie ἐδ False eng
+in ἰπ False eng
+ruins; γμίηςΙ False eng
+(used (ἀϑοὰ False eng
+as ἃ5. False eng
+a ἃ False eng
+pf. ρΡΐ. False eng
+# 15 34 35 pass. of ridnut,  have been put or Ρα55. οἱ τίθημι,  ἄστ'ό ὀέέμε δι οὐ
+pass. Ρα55. False eng
+of οἱ False eng
+τίθημι, ridnut, True pp
+have ἄστ'ό False eng
+been ὀέέμε False eng
+put δι False eng
+or οὐ False eng
+# 16 37 38 laid; 7a brda Execvro,  used as pass. ἑμτω; τὰ ὅπλα ἔκειντο,  υϑειἰ ἃ5 Ρᾶ55.
+laid; ἑμτω; False eng
+τὰ 7a True form
+ὅπλα brda True form
+ἔκειντο, Execvro, True form
+used υϑειἰ False eng
+as ἃ5 False eng
+pass. Ρᾶ55. False eng
+# 17 32 35 of Oéc0ac ra bra),  the arms had οὗ θέσθαι τὰ ὅπλα),  {ἦε α»»2ι: λαα
+of οὗ False eng
+θέσθαι Oéc0ac True form
+ra τὰ False eng
+bra), ὅπλα), False eng
+the {ἦε False eng
+arms α»»2ι: False eng
+had λαα False eng
+# 18 32 37 been grounded or the troops were ὀσος ργοιμε ρα ΟΥ̓ Ζἦδφ ἔγοοβ«ε τοέ7έ
+been ὀσος False eng
+grounded ργοιμε False eng
+or ρα False eng
+the ΟΥ̓ False eng
+troops Ζἦδφ False eng
+were ἔγοοβ«ε False eng
+# 19 20 24 standing under arms. ἰσπμαὔἶϊηρ ΜΠΟἾ Ω’ 7215.
+standing ἰσπμαὔἶϊηρ False eng
+under ΜΠΟἾ False eng
+arms. Ω’ False eng
+# 20 22 23 xéxtnoe,  sce xTdopat, κέκτησθε,  5ε6 κτάομαι.
+κέκτησθε, xéxtnoe, True form
+sce 5ε6 False na
+κτάομαι. xTdopat, True pp
+# 21 41 44 Kerawal,  -av,  al,  Celaenae,  a city of ΚΚελαιναί,  -ῶν,  αἱ,  Ορέαφηαε,  ἃ οἷἶτγ οὗ
+Kerawal, ΚΚελαιναί, False na
+-av, -ῶν, False na
+al, αἱ, False eng
+Celaenae, Ορέαφηαε, False na
+a ἃ False eng
+city οἷἶτγ False eng
+of οὗ False eng
+# 22 34 35 southern Phrygia,  situated at the δου Ποῖ ΡΠ τγνρία,  βιϊααϊοα αἱ [86
+southern δου False eng
+Phrygia, Ποῖ False na
+situated ΡΠ False eng
+at τγνρία, False eng
+the βιϊααϊοα False eng
+# 23 31 33 sources of the Maeander and the Βουγοθβ οὗ ἴῃῇε. δίδεδπαεγ δηά [6
+sources Βουγοθβ False eng
+of οὗ False eng
+the ἴῃῇε. False eng
+Maeander δίδεδπαεγ False na
+and δηά False eng
+the [6 False eng
+# 24 8 9 Marsyas. Δίανϑυαβ.
+Marsyas. Δίανϑυαβ. False na
+# 25 42 40 KeXcvw,  KedXevow,  exéX\evoa,  Kexédevka, κελεύω,  κελεύσω,  ἐκέλευσα,  κεκέλευκα,
+κελεύω, KeXcvw, True pp
+κελεύσω, KedXevow, True pp
+ἐκέλευσα, exéX\evoa, True pp
+κεκέλευκα, Kexédevka, True pp
+# 26 41 43 cexéXNevo pat,  ExedevoOny,  order,  com- κεκέλευσμαι,  ἐκελεύσθην,  ογ 9127,  40771-
+κεκέλευσμαι, cexéXNevo True pp
+pat, ἐκελεύσθην, False eng
+ExedevoOny, ογ False na
+order, 9127, False eng
+com- 40771- False na
+# 27 36 39 mand,  direct,  bid,  urge,  advise. ν»ια» Ια,  7 ο,  ὁϊαἱ,  ἐγρε,  αὐἶνῖ56.
+mand, ν»ια» False eng
+direct, Ια, False eng
+bid, 7 False eng
+urge, ο, False eng
+advise. ὁϊαἱ, False eng
+# 28 40 43 kevds,  -4,  -dy [bor.,  Eng. cenotaph], κενός,  -ή,  -όν [ὕοτ, .,  Επρ. σΘΠΟΙΔΡΒΊ],
+κενός, kevds, True lex
+-ή, -4, True pp
+-όν -dy True pp
+[bor., [ὕοτ, False eng
+Eng. ., False na
+cenotaph], Επρ. False eng
+# 29 38 41 emply,  vacant,  unoccupied,  without, ἐν ῥίν,  ναεαηι,  τοηοσοςιφα,  τὐτιῤοτεί,
+ἐν emply, True lex
+vacant, ῥίν, False eng
+unoccupied, ναεαηι, False eng
+without, τοηοσοςιφα, False eng
+# 30 33 33 with gen. of want; vain,  ground- ἢ σε. οὗ ναηΐ; ναῖϑε,  ρ᾽ οτ)16}-
+with ἢ False eng
+gen. σε. False eng
+of οὗ False eng
+want; ναηΐ; False eng
+vain, ναῖϑε, False eng
+ground- ρ᾽ False na
+# 31 5 4 less. ἐφς,
+less. ἐφς, False eng
+# 32 37 40 Kevtéw,  xevrjow [cp. Kévrpov,  goad, κεντέω,  κεντήσω [ςρΡ. κέντρον,  ροαάαΐ,
+κεντέω, Kevtéw, True pp
+κεντήσω xevrjow True pp
+[cp. [ςρΡ. False eng
+κέντρον, Kévrpov, True pp
+goad, ροαάαΐ, False eng
+# 33 36 35 center,  bor.,  Eng. center],  goad, ἐοη 7,  Ὀοτ.,  Επρ. σθηΐθγ],  ρυαί,
+center, ἐοη False eng
+bor., 7, False eng
+Eng. Ὀοτ., False na
+center], Επρ. False eng
+goad, σθηΐθγ], False eng
+# 34 8 10 torture. 20.) 1176.
+torture. 20.) False eng
+# 35 41 43 Kevtptrns,  -ov,  Centrites,  a tributary ἹΚεντρίτης,  -ου,  Οεριἐγ1ίε5,  ἃ ἰὙἰρυΐατν
+Kevtptrns, ἹΚεντρίτης, False na
+-ου, -ov, True pp
+Centrites, Οεριἐγ1ίε5, False na
+a ἃ False eng
+tributary ἰὙἰρυΐατν False eng
+# 36 36 36 of the Tigris,  the boundary between οὗ τὴς Τιρτίβ,  [η6 Ῥουηάδγυ Ὀεῦνθθη
+of οὗ False eng
+the τὴς False eng
+Tigris, Τιρτίβ, False na
+the [η6 False eng
+boundary Ῥουηάδγυ False eng
+between Ὀεῦνθθη False eng
+# 37 32 33 Armenia and the Carduchian coun- Ατιηθηΐα ἀπά [Ὡς (δγάυςβίδη σουῃ-
+Armenia Ατιηθηΐα False na
+and ἀπά False eng
+the [Ὡς False eng
+Carduchian (δγάυςβίδη False na
+coun- σουῃ- False na
+# 38 4 4 try. ἴγγ.
+try. ἴγγ. False eng
+# 39 42 41 Kepapeots,  -d,  -otv [xdpapuos,  potter's κεραμεοῦς,  -α,  -οῦν [κέραμος,  2οζε7) 5
+κεραμεοῦς, Kepapeots, True lex
+-α, -d, True pp
+-otv -οῦν False na
+[κέραμος, [xdpapuos, True lex
+potter's 2οζε7) False na
+# 40 37 39 clay; bor.,  Eng. ceramic],  of clay, εἰαγ,  Ὀοτ.,  Εηρ. σογαπιῖ0},  ο7 εἶα»,
+clay; εἰαγ, False eng
+bor., Ὀοτ., False eng
+Eng. Εηρ. False na
+ceramic], σογαπιῖ0}, False eng
+of ο7 False eng
+clay, εἶα», False eng
+# 41 5 5 clay. εἰαγ.
+clay. εἰαγ. False eng
+# 42 36 38 Kepdpwv ayopa,  -ας,  Ceramin Agora, Κεράμων ἀγορά,  -ας,  (εγἄν»ιδ» Αρόγα,
+Κεράμων Kepdpwv True pp
+ἀγορά, ayopa, True lex
+-ας, -ας, False na
+Ceramin (εγἄν»ιδ» False na
+Agora, Αρόγα, False na
+# 43 32 33 Tilemarket (cp. Haymarket,  New- Ζιρηαγού (ΟΡ. ἘΠαντλατύκεῖ,  Ναν-
+Tilemarket Ζιρηαγού False na
+(cp. (ΟΡ. False eng
+Haymarket, ἘΠαντλατύκεῖ, False na
+New- Ναν- False na
+# 44 35 37 market,  etc.),  a town of Phrygia, τηατκοῖ,  οεἴς.),  ἃ ἴον οὗ ΡΒ τυρία,
+market, τηατκοῖ, False eng
+etc.), οεἴς.), False eng
+a ἃ False eng
+town ἴον False eng
+of οὗ False eng
+Phrygia, ΡΒ False na
+# 45 6 7 Google (Θοορίς
+Google (Θοορίς False na
+# 46 19 20 ALNOPHON'S ANABASIS ΧΕΝΟΡΗΟΝ 5 ΑΝΑΒΑΘΙΘ5
+ALNOPHON'S ΧΕΝΟΡΗΟΝ False na
+ANABASIS 5 False na
+# 47 38 39 Kepdvvtp,  exépaca,  xéxpauas,  éxepd- κεράννῦμι,  ἐκέρασα,  κέκρᾶμαι,  ἐκερά-
+κεράννῦμι, Kepdvvtp, True pp
+ἐκέρασα, exépaca, True pp
+κέκρᾶμαι, xéxpauas, True pp
+éxepd- ἐκερά- False na
+# 48 34 36 oOnv,  and éxpddny,  mix,  mingle. σθην,  πιὰ ἐκράθην,  »ιὲχ,  τεῖηρίξ.
+σθην, oOnv, True pp
+and πιὰ False eng
+ἐκράθην, éxpddny, True pp
+mix, »ιὲχ, False eng
+mingle. τεῖηρίξ. False eng
+# 49 38 39 xépag,  xéparos and xépws,  ré [cogn., κέρας,  κέρᾶτος ἀπὰ κέρως,  τό [(Ορ1..,
+κέρας, xépag, True lex
+κέρᾶτος xéparos True pp
+and ἀπὰ False eng
+κέρως, xépws, True form
+τό ré True form
+[cogn., [(Ορ1.., False na
+# 50 40 41 Lat. cervus,  acer,  cornu,  Zorn,  Eng. [, Δῖ. οοζνυϑ,  αεν,  οοΓηΐ,  ζογ;,  Επρ.
+Lat. [, False na
+cervus, Δῖ. False eng
+acer, οοζνυϑ, False eng
+cornu, αεν, False eng
+Zorn, οοΓηΐ, False na
+Eng. ζογ;, False na
+# 51 34 35 hart,  horn; bor.,  Eng. ceratoid, δατί,  Βοσῃ; ὕοζγ.,  Επρ. σοσδίοϊᾷ,
+hart, δατί, False eng
+horn; Βοσῃ; False eng
+bor., ὕοζγ., False eng
+Eng. Επρ. False na
+ceratoid, σοσδίοϊᾷ, False eng
+# 52 35 37 rhinoceros],  horn,  trumpet,  wing ΓὨΪΏΟΟΘΙΟΒΊ,  ἀογη,  ἐγηριῥεξ,  τοῖησ
+rhinoceros], ΓὨΪΏΟΟΘΙΟΒΊ, False eng
+horn, ἀογη, False eng
+trumpet, ἐγηριῥεξ, False eng
+wing τοῖησ False eng
+# 53 36 40 of an army; xara xépas,  272 column, οὗ Δῃ ΔΙΙΩΥ; κατὰ κέρας,  172 “οὐΆ 2172,
+of οὗ False eng
+an Δῃ False eng
+army; ΔΙΙΩΥ; False eng
+κατὰ xara True form
+κέρας, xépas, True lex
+272 172 False na
+column, “οὐΆ False eng
+# 54 17 18 see Introd. § 62, 8ε6 [ηΐτοα,  ὃ 62.
+see 8ε6 False eng
+Introd. [ηΐτοα, False na
+§ ὃ False eng
+62, 62. False na
+# 55 40 39 kepdalve,  Kxepdava,  éxépdava,  -Kexép- κερδαίνω,  κερδανῶ,  ἑκέρδᾶνα,  -κεκέρ-
+κερδαίνω, kepdalve, True pp
+κερδανῶ, Kxepdava, True pp
+éxépdava, ἑκέρδᾶνα, False na
+-Kexép- -κεκέρ- False na
+# 56 36 34 dynxa [xépdos],  gain,  make profit. δηκα [κέρδος],  ραΐρ,  γπαῖε 2»0 1
+δηκα dynxa True pp
+[κέρδος], [xépdos], True pp
+gain, ραΐρ, False eng
+make γπαῖε False eng
+profit. 2»0 False eng
+# 57 43 42 kepSadlos,  -d,  -ov [xépdos],  profitable. κερδαλέος,  -ἅ,  -ον [κέρδος],  2γομέαὀίε.
+κερδαλέος, kepSadlos, True lex
+-d, -ἅ, False na
+-ον -ov True pp
+[κέρδος], [xépdos], True pp
+profitable. 2γομέαὀίε. False eng
+# 58 43 42 xépSos,  -ous,  76,  gain,  profit,  wages. κέρδος,  -ους,  τό,  σα»,  2γοῇέ,  τυαρες.
+κέρδος, xépSos, True pp
+-ους, -ous, True pp
+τό, 76, True form
+gain, σα», False eng
+profit, 2γοῇέ, False eng
+wages. τυαρες. False eng
+# 59 38 39 kehadadyfs,  -és [xepadr,  AA-yos (cp. κεφαλαλγής,  -ές,  [κεφαλή,  ἄλγος ((ρ.
+κεφαλαλγής, kehadadyfs, True lex
+-ές, -és True pp
+[κεφαλή, [xepadr, True lex
+ἄλγος AA-yos True lex
+(cp. ((ρ. False eng
+# 60 34 35 neuralgia),  pain],  causing head- ὨΘΌΓΑΙΡ 4),  26:3],  ἐαπείγχρ ἀεαί-
+neuralgia), ὨΘΌΓΑΙΡ False eng
+pain], 4), False eng
+causing 26:3], False eng
+head- ἐαπείγχρ False na
+# 61 29 28 ache,  apt to cause headache. αοῖε,  αῤέ ἴο ἐστέ ἀδαακεἦε.
+ache, αοῖε, False eng
+apt αῤέ False eng
+to ἴο False eng
+cause ἐστέ False eng
+headache. ἀδαακεἦε. False eng
+# 62 40 43 kehadf,  -7s [bor.,  Eng. cephalic,  hy- κεφαλή,  -ῆς,  [ὍὈοτ.,  Επρ. σΟΡΒΔΙΪς,  Βγ-
+κεφαλή, kehadf, True lex
+-7s -ῆς, False na
+[bor., [ὍὈοτ., False eng
+Eng. Επρ. False na
+cephalic, σΟΡΒΔΙΪς, False eng
+hy- Βγ- False na
+# 63 20 20 drocephalus],  4ead. ἀγοοθρΒδ1181,  ἀεαά,
+drocephalus], ἀγοοθρΒδ1181, False na
+4ead. ἀεαά, False na
+# 64 38 38 xndepov,  -dvos [xyjdouat,  care for), κηδεμών,  «ὄνος [κήδομαι,  εα7γὲ 707],
+κηδεμών, xndepov, True lex
+-dvos «ὄνος False na
+[κήδομαι, [xyjdouat, True pp
+care εα7γὲ False eng
+for), 707], False eng
+# 65 21 21 protector,  guardian. 2᾽οϊείον,  ρεαγαλα7:.
+protector, 2᾽οϊείον, False eng
+guardian. ρεαγαλα7:. False eng
+# 66 38 41 xnplov,  -ov [xnpdbs,  deeswax,  Cogn, κηρίον,  -ου [κηρός,  ὀξεστυαχ ,  ΟΟΡΤι.»
+κηρίον, xnplov, True pp
+-ου -ov True pp
+[κηρός, [xnpdbs, True lex
+deeswax, ὀξεστυαχ False na
+Cogn, , False na
+# 67 33 34 Lat. céra,  wax],  honeycomb,  ~~ 1δἱ. οὖτα,  τυαχ],  ἀογιεγεονμό. “
+Lat. 1δἱ. False na
+céra, οὖτα, False na
+wax], τυαχ], False eng
+honeycomb, ἀογιεγεονμό. False eng
+~~ “ False na
+# 68 43 43 KApu€,  -vxos,  6,  herald,  an officer who κῆρνξ,  -ὗκος,  ὁ,  ἀεγαία, ,  ἀπ οἴδοον 80
+KApu€, κῆρνξ, False na
+-vxos, -ὗκος, False na
+ὁ, 6, True lex
+herald, ἀεγαία, False eng
+an , False eng
+officer ἀπ False eng
+who οἴδοον False eng
+# 69 37 40 carried official messages not only to οσδιγι θα οἱῆοϊδὶ τπλϑϑθαρθθ Ὡοΐ ΟἹΪΥ (ο
+carried οσδιγι False eng
+official θα False eng
+messages οἱῆοϊδὶ False eng
+not τπλϑϑθαρθθ False eng
+only Ὡοΐ False eng
+to ΟἹΪΥ False eng
+# 70 35 38 his fellow-soldiers but also to the ἢϊ5. [6] ονν-ϑο] ἀϊεσβ ας α͵5ο ἴο [868
+his ἢϊ5. False eng
+fellow-soldiers [6] False na
+but ονν-ϑο] False eng
+also ἀϊεσβ False eng
+to ας False eng
+the α͵5ο False eng
+# 71 31 29 enemy. When discharging his du- Ἔπεν. ΔΒδη ἀἰβομδυρίηρ ἢ5 ἀυ-
+enemy. Ἔπεν. False eng
+When ΔΒδη False na
+discharging ἀἰβομδυρίηρ False eng
+his ἢ5 False eng
+du- ἀυ- False na
+# 72 38 36 ties his person was inviolable,  and - (165 5 Ῥεοβοῃ ννὰ5 ἱΏν 40 ]ε,  ἀπά -
+ties (165 False eng
+his 5 False eng
+person Ῥεοβοῃ False eng
+was ννὰ5 False eng
+inviolable, ἱΏν False eng
+and 40 False eng
+- ]ε, False na
+# 73 33 32 he carried as badge of office the ἢς οδιτίεα ἂς ὑαάρε οἵ οῇῖος {86
+he ἢς False eng
+carried οδιτίεα False eng
+as ἂς False eng
+badge ὑαάρε False eng
+of οἵ False eng
+office οῇῖος False eng
+the {86 False eng
+# 74 37 41 xnpbxeov,  a staff,  which was repre- κηρύκειον,  ἃ ΞιἰΔΏΕἔ,  ψΒΙΟΝ ννᾶ5 γερτα-
+κηρύκειον, xnpbxeov, True pp
+a ἃ False eng
+staff, ΞιἰΔΏΕἔ, False eng
+which ψΒΙΟΝ False eng
+was ννᾶ5 False eng
+repre- γερτα- False na
+# 75 35 32 sented in art with two intertwining βαηςοα ἴῃ ατί νι ἢ ὕνο ἱπιοσι νη
+sented βαηςοα False na
+in ἴῃ False eng
+art ατί False eng
+with νι False eng
+two ἢ False eng
+intertwining ὕνο False eng
+# 76 32 33 serpents or shoots. See Fig. 40, βεγρεηίβ οὐ βῃοοῖβι. ὅ66 ΕἸρ. 40,
+serpents βεγρεηίβ False eng
+or οὐ False eng
+shoots. βῃοοῖβι. False eng
+See ὅ66 False na
+Fig. ΕἸρ. False na
+40, 40, False na
+# 77 7 8 p. 114. Ῥ.- 114.
+p. Ῥ.- False eng
+114. 114. False na
+# 78 39 39 Knpirre,  knpttw,  éxfpita,  -Kerhpixa, κηρύττω,  κηρύξω,  ἐκήρῦξα,  -κεκήρῦχα,
+κηρύττω, Knpirre, True pp
+κηρύξω, knpttw, True pp
+ἐκήρῦξα, éxfpita, True pp
+-Kerhpixa, -κεκήρῦχα, False na
+# 79 40 37 Kkexhpuyyuat,  exnpdxOnv [xijpvt],  pro- κεκήρῦγμαι,  ἐκηρύχθην [κῆρυξ],  ῥγό-
+κεκήρῦγμαι, Kkexhpuyyuat, True pp
+ἐκηρύχθην exnpdxOnv True pp
+[κῆρυξ], [xijpvt], True lex
+pro- ῥγό- False na
+# 80 30 31 claim as a herald or through a εἰαῖρε 85 ἃ πούαϊά οὐ [Ὠγουρῇ ἃ
+claim εἰαῖρε False eng
+as 85 False eng
+a ἃ False eng
+herald πούαϊά False eng
+or οὐ False eng
+through [Ὠγουρῇ False eng
+a ἃ False eng
+# 81 32 35 herald; command,  with acc.,  or Βογδαὶ ἃ; εορρρηαμά,  ΜὶΏ δος.,  Οὗ
+herald; Βογδαὶ False eng
+command, ἃ; False eng
+with εορρρηαμά, False eng
+acc., ΜὶΏ False eng
+or δος., False eng
+# 82 34 33 with inf.; éxfpute (sc. 6 xiipvt), ψ ἢ ἰηΐ,; ἐκήρυξε (38ς. ὁ κῆρυξ),
+with ψ False eng
+inf.; ἢ False eng
+éxfpute ἰηΐ,; False na
+(sc. ἐκήρυξε False eng
+6 (38ς. False na
+ὁ xiipvt), True lex
+# 83 33 37 proclamation was made,  172,  22. 2γοοανεαζίογε τυᾶς τεααϊέ,  172,  22.
+proclamation 2γοοανεαζίογε False eng
+was τυᾶς False eng
+made, τεααϊέ, False eng
+172, 172, False na
+22. 22. False na
+# 84 36 40 KnoirdSwpos,  -ov,  Cephisodorus,  a Κηφισόδωρος,  -ουὐ, ρ (εῤλῖιΞτοασγμδ,  ἃ
+Κηφισόδωρος, KnoirdSwpos, True lem
+-ov, -ουὐ, False na
+Cephisodorus, ρ False na
+a (εῤλῖιΞτοασγμδ, False eng
+# 85 26 26 captain in the Greek army. οδρίαϊῃ ἴῃ ἴῃ6 τα κ ἀσηγυ.
+captain οδρίαϊῃ False eng
+in ἴῃ False eng
+the ἴῃ6 False eng
+Greek τα False na
+army. κ False eng
+# 86 38 36 Knydiroddv,  -dvros,  6,  Cephisophon, Κηφισοφών,  -ὥντος,  ὁ,  Οεῤϊεύῤῥοη,
+Knydiroddv, Κηφισοφών, False na
+-ὥντος, -dvros, True pp
+ὁ, 6, True lex
+Cephisophon, Οεῤϊεύῤῥοη, False na
+# 87 12 10 an Athenian. 8 Αἰεηΐδῃ.
+an 8 False eng
+Athenian. Αἰεηΐδῃ. False na
+# 88 38 39 Kutuxla,  -ας [Kix],  Cilicia,  a dis- Κιλικίᾳ,  -ας [Κίλιξ],  ΟἸἰεῖα,  ἃ ἀϊ5-
+Κιλικίᾳ, Kutuxla, True form
+-ας -ας False na
+[Κίλιξ], [Kix], True lex
+ΟἸἰεῖα, Cilicia, True pp
+a ἃ False eng
+dis- ἀϊ5- False na
+# 89 33 36 trict of southeastern Asia Minor, (τοὶ οὗ βϑουϊῃεαδβίεδιῃ Αϑὶα ᾿Μίποῦ,
+trict (τοὶ False na
+of οὗ False eng
+southeastern βϑουϊῃεαδβίεδιῃ False eng
+Asia Αϑὶα False na
+Minor, ᾿Μίποῦ, False na
+# 90 33 37 bordering on the sea. As a reward Ῥογάσδγίϊηρ ου ἴῃ 58ε8. Α58 ἃ σενατζὰ
+bordering Ῥογάσδγίϊηρ False eng
+on ου False eng
+the ἴῃ False eng
+sea. 58ε8. False eng
+As Α58 False na
+a ἃ False eng
+reward σενατζὰ False eng

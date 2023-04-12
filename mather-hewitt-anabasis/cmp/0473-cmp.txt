@@ -1,0 +1,563 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+# 1 33 33 for submitting without opposition ἔου βαῦτηϊἰἰπρ νι Βουϊ ορροϑιτίοῃ
+for ἔου False eng
+submitting βαῦτηϊἰἰπρ False eng
+without νι False eng
+opposition Βουϊ False eng
+# 2 33 34 to Cyrus the Great,  the kings of ἴο Ογγὺὰβ ἴῃς Οτεδῖ,  [με Κίηρβ οἵ
+to ἴο False eng
+Cyrus Ογγὺὰβ False na
+the ἴῃς False eng
+Great, Οτεδῖ, False na
+the [με False eng
+kings Κίηρβ False eng
+of οἵ False eng
+# 3 36 38 Cilicia were allowed to retain their ΟἸΙοῖα ψψετα Δ᾽] οννεά ἴο τεϊδϊη {Βεἰγ
+Cilicia ΟἸΙοῖα False na
+were ψψετα False eng
+allowed Δ᾽] False eng
+to οννεά False eng
+retain ἴο False eng
+their τεϊδϊη False eng
+# 4 35 34 province practically as Persian sa- Ῥτγονίῃοα γγδοί σα! ἃ5 Ῥεγβίδῃ 58-
+province Ῥτγονίῃοα False eng
+practically γγδοί False eng
+as σα! False eng
+Persian ἃ5 False na
+sa- Ῥεγβίδῃ False na
+# 5 6 5 traps. σᾶ 8.
+traps. σᾶ False eng
+# 6 40 42 Kcé,  -cxos,  6,  Cilictan,  a native of ἹΚλιξ,  -ἰκος,  ὁ,  Οἰδίείαρ,  ἃ παῖϊνα οὗ
+Kcé, ἹΚλιξ, False na
+-cxos, -ἰκος, False na
+ὁ, 6, True lex
+Cilictan, Οἰδίείαρ, False na
+a ἃ False eng
+native παῖϊνα False eng
+of οὗ False eng
+# 7 8 7 Cilicia. ΟἸΠοϊΔ.
+Cilicia. ΟἸΠοϊΔ. False na
+# 8 23 21 KdQttooa,  -ns [KéAéE], Κίλισσα,  -ἡς [Κιλ(],
+Κίλισσα, KdQttooa, True pp
+-ns -ἡς False na
+[KéAéE], [Κιλ(], False na
+# 9 23 27 woman,  Cilictan queen. τυονζα7:,  ΟἸ ϊεῖαρ ψηέό):.
+woman, τυονζα7:, False eng
+Cilictan ΟἸ False na
+queen. ϊεῖαρ False eng
+# 10 41 41 xivbivetw,  Kivdiveiow,  etc. [xivdivos], κινδυνεύω,  κινδῦνεύσω,  εἰς. [κίνδῦνος],
+κινδυνεύω, xivbivetw, True pp
+κινδῦνεύσω, Kivdiveiow, True pp
+etc. εἰς. False eng
+[xivdivos], [κίνδῦνος], False na
+# 11 32 34 be in danger,  encounter danger; φ 2 αἰαριρε7,  δη:0142 67 ἀἰαη67 ,
+be φ False eng
+in 2 False eng
+danger, αἰαριρε7, False eng
+encounter δη:0142 False eng
+danger; 67 False eng
+# 12 35 37 éxcvdvvevcev av diadGapjpva,  would ἐκινδύνευσεν ἂν διαφθαρῆναι,  τυοιεἐω
+ἐκινδύνευσεν éxcvdvvevcev True form
+av ἂν False eng
+διαφθαρῆναι, diadGapjpva, True form
+would τυοιεἐω False eng
+# 13 32 35 have been in danger of utter de- ἦανε ὀεε 17,  αἰ 67 ΟΥΓ 272167 αἴ2-
+have ἦανε False eng
+been ὀεε False eng
+in 17, False eng
+danger αἰ False eng
+of 67 False eng
+utter ΟΥΓ False eng
+de- 272167 False na
+# 14 21 18 struction,  180,  21. σέγοοΣ,  180,  21.
+struction, σέγοοΣ, False eng
+180, 180, False na
+21. 21. False na
+# 15 41 43 xlvdtvos,  -ov,  danger,  peril; xlvduvos κίνδυνος,  -ου,  οἰα7ρε7,  ῥεγῖϊ,  κίνδυνος
+κίνδυνος, xlvdtvos, True lex
+-ου, -ov, True pp
+danger, οἰα7ρε7, False eng
+peril; ῥεγῖϊ, False eng
+κίνδυνος xlvduvos True lex
+# 16 40 38 (sc. éorl),  there ts danger,  with inf. (5.. ἐστί),  {167 15 ἀαγρεγ,  ΜᾺ Ἰἰηξ,
+(sc. (5.. False eng
+ἐστί), éorl), True form
+there {167 False eng
+ts 15 False eng
+danger, ἀαγρεγ, False eng
+with ΜᾺ False eng
+inf. Ἰἰηξ, False eng
+# 17 6 6 or 4). οΥ μή.
+or οΥ False eng
+μή. 4). True lex
+# 18 42 44 kivéw,  kivijow,  etc. [cogn.,  Lat. cied, κϊἴνέω,  κινήσω,  εἴς. [οορῃ.,  [, Αἱ. οἶ6Ό,
+κϊἴνέω, kivéw, True pp
+κινήσω, kivijow, True pp
+etc. εἴς. False eng
+[cogn., [οορῃ., False na
+Lat. [, False na
+cied, Αἱ. False na
+# 19 37 36 move,  Eng. hie; bor.,  Eng. kinetic, γοῦε,  Ἐτσ. 16; Ὀοτ.,  Επρ. Κἰηοίϊο,
+move, γοῦε, False eng
+Eng. Ἐτσ. False na
+hie; 16; False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+kinetic, Κἰηοίϊο, False eng
+# 20 35 37 cinematograph ],  move; mid.,  move ΟἸΠοΙδίοσυΔΡ ἢ],  οῦδ,  τοῖα,  γίοῦυέ
+cinematograph ΟἸΠοΙδίοσυΔΡ False eng
+ἢ], ], True lem
+move; οῦδ, False eng
+mid., τοῖα, False eng
+move γίοῦυέ False eng
+# 21 6 6 about, αὐόοπ.
+about, αὐόοπ. False eng
+# 22 43 43 Knrchivwp,  -opos,  6,  Clednor,  elected a ἸΚλεάνωρ,  -ορος,  ὁ,  Οἰεᾶγιον,  εἸεοϊεά 8
+Knrchivwp, ἸΚλεάνωρ, False na
+-opos, -ορος, False na
+ὁ, 6, True lex
+Οἰεᾶγιον, Clednor, True pp
+elected εἸεοϊεά False eng
+a 8 False eng
+# 23 26 27 general in the Greek army. δεπετζαὶ ἴῃ [86 ατεεκ ἅγηγ.
+general δεπετζαὶ False eng
+in ἴῃ False eng
+the [86 False eng
+Greek ατεεκ False na
+army. ἅγηγ. False eng
+# 24 38 38 KAéapxos,  -ov,  Clearchus,  the fore- Ἐλέαρχος,  -ου,  Οὐεαγεάτο,  ἴῃ6 ἔοτο-
+KAéapxos, Ἐλέαρχος, False na
+-ου, -ov, True pp
+Clearchus, Οὐεαγεάτο, False na
+the ἴῃ6 False eng
+fore- ἔοτο- False na
+# 25 30 34 most general in the Greek army τηοϑί ρξῃεσαὶ ἴῃ. ἴῃς Οτεεῖκ ΔΙΙΩΥ
+most τηοϑί False eng
+general ρξῃεσαὶ False eng
+in ἴῃ. False eng
+the ἴῃς False eng
+Greek Οτεεῖκ False na
+army ΔΙΙΩΥ False eng
+# 26 38 39 of Cyrus,  an exile from Sparta,  cap- οὗ γζγιβ,  δῃ Ἔχ!ϊα ἴτοτη ϑραγία,  σδρ-
+of οὗ False eng
+Cyrus, γζγιβ, False na
+an δῃ False eng
+exile Ἔχ!ϊα False eng
+from ἴτοτη False eng
+Sparta, ϑραγία, False na
+cap- σδρ- False na
+# 27 36 36 tured by treachery and killed at the υγτοα ὈΥ ἰγεδοογΥ δηά 11]1|δἀ δἵ ἰῃῈ
+tured υγτοα False na
+by ὈΥ False eng
+treachery ἰγεδοογΥ False eng
+and δηά False eng
+killed 11]1|δἀ False eng
+at δἵ False eng
+the ἰῃῈ False eng
+# 28 33 36 Zapatas River. See Introd. §§ 14, Ζαρᾶϊα5β Εΐνεσ. ὅ66 [Ιηἰτοά,  88 14,
+Zapatas Ζαρᾶϊα5β False na
+River. Εΐνεσ. False na
+See ὅ66 False na
+Introd. [Ιηἰτοά, False na
+§§ 88 False na
+14, 14, False na
+# 29 8 8 Cilician ΟἹ ϊεῖαἢ
+Cilician ΟἹ False na
+# 30 8 8 18,  I9. 18,  19.
+18, 18, False na
+I9. 19. False na
+# 31 41 39 wxAXdrre,  Krépw,  exre~a,  xéxdoga,  Ké- κλέπτω,  κλέψω,  ἔκλεψα,  κέκλοφα,  κέ-
+κλέπτω, wxAXdrre, True pp
+κλέψω, Krépw, True pp
+ἔκλεψα, exre~a, True pp
+xéxdoga, κέκλοφα, False na
+Ké- κέ- False na
+# 32 31 34 Kenpo,  éxrddarnv [cogn.,  Lat. κλεμμαι,  ἐκλάπην [τςορῃ.,  [, Δἱ.
+κλεμμαι, Kenpo, True pp
+éxrddarnv ἐκλάπην False na
+[cogn., [τςορῃ., False na
+Lat. [, False na
+# 33 37 39 clep6,  steal,  bor.,  Eng. cleptoma- ΟΙορῦ,  “ἰσαΐ,  Ἰ'γοτ.. Επρ. οΙορίομιδ-
+clep6, ΟΙορῦ, False na
+steal, “ἰσαΐ, False eng
+bor., Ἰ'γοτ.. False eng
+Eng. Επρ. False na
+cleptoma- οΙορίομιδ- False na
+# 34 43 45 nia ],  steal,  smuggle,  seize stealthily. ὨΪ4717,  “εαΐ,  5ηρειερρίε,  δεῖχ εέφα ζάτἊν.
+nia ὨΪ4717, False na
+], “εαΐ, False na
+steal, 5ηρειερρίε, False eng
+smuggle, δεῖχ False eng
+seize εέφα False eng
+stealthily. ζάτἊν. False eng
+# 35 42 45 KAtpag,  -axos,  ) [KNivw,  cause to lean, κλῖμαξ,  -ακος,  ἡ [κλέίνω,  ἐα:56 10 ἐδΩ), ,
+κλῖμαξ, KAtpag, True lex
+-axos, -ακος, False na
+ἡ ) True case
+[κλέίνω, [KNivw, True pp
+cause ἐα:56 False eng
+to 10 False eng
+lean, ἐδΩ), False eng
+# 36 30 34 cp. kAtvy; bor.,  Eng. climax, ςΡ. κλίνη; ῬὈοτ.,  Επρ. οΟἸΪπΠΊΑΧ,
+cp. ςΡ. False eng
+κλίνη; kAtvy; True lex
+bor., ῬὈοτ., False eng
+Eng. Επρ. False na
+climax, οΟἸΪπΠΊΑΧ, False eng
+# 37 25 23 clime],  /adder (leaner). Ο11π|6],  αἰ» (Ἰεδπετ).
+clime], Ο11π|6], False eng
+/adder αἰ» False na
+(leaner). (Ἰεδπετ). False eng
+# 38 35 37 wAtvn,  -ns [KAivw,  cause to lean; κλίνη,  -ης [κλίνω,  εα56 210 7647: ,
+κλίνη, wAtvn, True lex
+-ns -ης False na
+[κλίνω, [KAivw, True pp
+cause εα56 False eng
+to 210 False eng
+lean; 7647: False eng
+# 39 39 40 cogn.,  Lat. inclin6O,  zzcline,  bend, οορῃ.,  [, ἴ. ἱπο]ῖπῦ,  ἐμείίγιε,  ὀεγς,
+cogn., οορῃ., False na
+Lat. [, False na
+inclin6O, ἴ. False na
+zzcline, ἱπο]ῖπῦ, False na
+bend, ἐμείίγιε, False eng
+# 40 35 34 Eng. lean; bor.,  Eng. clinic,  en- Επρ. 168; ὕοτ.,  Επρ. οἸἰηϊο,  δῃ-
+Eng. Επρ. False na
+lean; 168; False eng
+bor., ὕοτ., False eng
+Eng. Επρ. False na
+clinic, οἸἰηϊο, False eng
+en- δῃ- False na
+# 41 37 36 clitic],  ded,  couch,  used like the ΟἸΣΕἸ.1,  ὀφα,  εοπεεῖ,  υϑεὰ Κα {μὲ
+clitic], ΟἸΣΕἸ.1, False eng
+ded, ὀφα, False na
+couch, εοπεεῖ, False eng
+used υϑεὰ False eng
+like Κα False eng
+the {μὲ False eng
+# 42 35 37 modern bed and couch or sofa,  also τηοάστῃ Ὀοα δηά οουοῇ οἵ βοία,  αἷἶϑο
+modern τηοάστῃ False eng
+bed Ὀοα False eng
+and δηά False eng
+couch οουοῇ False eng
+or οἵ False eng
+sofa, βοία, False eng
+also αἷἶϑο False eng
+# 43 36 34 for reclining at meals and as a bier ἴον τεσ πῖηρ δἴ τηθα]β απ 5 ἃ Ὀἱθὺ
+for ἴον False eng
+reclining τεσ False eng
+at πῖηρ False eng
+meals δἴ False eng
+and τηθα]β False eng
+as απ False eng
+a 5 False eng
+bier ἃ False eng
+# 44 36 36 for the dead.- See Fig. 65,  p. 201. ἴον 1ῃ6 ἀδδ4.- 566 ΕἸρ. ὅς,  Ρ. 201.
+for ἴον False eng
+the 1ῃ6 False eng
+dead.- ἀδδ4.- False na
+See 566 False na
+Fig. ΕἸρ. False na
+ὅς, 65, True lex
+p. Ρ. False eng
+201. 201. False na
+# 45 32 33 KAoTh,  -7s [kAérrw],  stealing. κλοπή,  -ἢ- [κλέπτω],  “ἠεαέϊγιρ.
+κλοπή, KAoTh, True lex
+-7s -ἢ- False na
+[κλέπτω], [kAérrw], True pp
+stealing. “ἠεαέϊγιρ. False eng
+# 46 2 2 -- --
+-- -- False na
+# 47 6 8 Google (αοορσὶς
+Google (αοορσὶς False na
+# 48 3 3 461 46ι
+461 46ι False na
+# 49 40 40 KAO,  crwmrds,  6 [xAdrrw],  thie/,  ma- κλώψ,  κλωπός,  ὁ [κλέπτω],  ζάϊε,  »εα-
+κλώψ, KAO, True lex
+crwmrds, κλωπός, False na
+ὁ 6 True lex
+[κλέπτω], [xAdrrw], True pp
+thie/, ζάϊε, False na
+ma- »εα- False na
+# 50 7 6 rauder. γα 67.
+rauder. γα False na
+# 51 46 45 kvédas,  -ous,  74,  poetic,  dusk,  twilight, κνέφας,  -ους,  τό,  ροείϊς,  αἴξ,  ποΐἐίρλί,
+κνέφας, kvédas, True lex
+-ους, -ous, True pp
+τό, 74, True form
+poetic, ροείϊς, False eng
+dusk, αἴξ, False eng
+twilight, ποΐἐίρλί, False eng
+# 52 39 40 kvnpts,  -?50s,  7 [xyjun,  leg between κνημίς,  -ἶδος,  ἡ [κνήμη,  ἐδρ Ὀεΐνψεεη
+κνημίς, kvnpts, True lex
+-ἶδος, -?50s, True pp
+ἡ 7 True case
+[κνήμη, [xyjun, True lex
+leg ἐδρ False eng
+between Ὀεΐνψεεη False eng
+# 53 37 38 knee and ankle],  greave,  a plate of Κηεε ἂπὰ δΔηΚ|61,  ργέαῦε,  ἃ ῥἰαῖε οὗ
+knee Κηεε False eng
+and ἂπὰ False eng
+ankle], δΔηΚ|61, False eng
+greave, ργέαῦε, False eng
+a ἃ False eng
+plate ῥἰαῖε False eng
+of οὗ False eng
+# 54 36 36 metal,  fitted to the leg and padded τοῖα],  πιῖςα ἴο {πε Ἰερ δηὰ ραάδάβά
+metal, τοῖα], False eng
+fitted πιῖςα False eng
+to ἴο False eng
+the {πε False eng
+leg Ἰερ False eng
+and δηὰ False eng
+padded ραάδάβά False eng
+# 55 33 35 for comfort. It was held in place ἴον σοπχίοτῖ. 1 νγὰβ με]ὰ ἴπ ρῥἷδος
+for ἴον False eng
+comfort. σοπχίοτῖ. False eng
+It 1 False na
+was νγὰβ False eng
+held με]ὰ False eng
+in ἴπ False eng
+place ρῥἷδος False eng
+# 56 34 33 partly by the spring of the metal, ῥδυν ὈΥ ἴμε βρείπρ οἵ [ῃς τμείαὶ,
+partly ῥδυν False eng
+by ὈΥ False eng
+the ἴμε False eng
+spring βρείπρ False eng
+of οἵ False eng
+the [ῃς False eng
+metal, τμείαὶ, False eng
+# 57 35 35 partly by straps or buckles behind. ΡαΥΠΥ ὈΥ βίγαρϑ οὐ Ὀυςκ]εβ θα μὶπά,
+partly ΡαΥΠΥ False eng
+by ὈΥ False eng
+straps βίγαρϑ False eng
+or οὐ False eng
+buckles Ὀυςκ]εβ False eng
+behind. θα False eng
+# 58 34 35 It might be compared to a football [ τιὶρῃΐ θὲ σοτηραγαά ἴο ἃ ἔοοίθ8}}
+It [ False na
+might τιὶρῃΐ False eng
+be θὲ False eng
+compared σοτηραγαά False eng
+to ἴο False eng
+a ἃ False eng
+football ἔοοίθ8}} False eng
+# 59 36 36 shin guard,  but the greave inclosed 5ῃ1η ρυᾶγά,  Ὀὰϊ [πε στεᾶνε ἱποϊοβεά
+shin 5ῃ1η False eng
+guard, ρυᾶγά, False eng
+but Ὀὰϊ False eng
+the [πε False eng
+greave στεᾶνε False eng
+inclosed ἱποϊοβεά False eng
+# 60 35 37 the leg nearly all round. See Figs, [86 Ἰ6Ρ᾽ ΠΘΔΙΪΥ 811 τουμά,  ὅ6ε ΕἸρ5.
+the [86 False eng
+leg Ἰ6Ρ᾽ False eng
+nearly ΠΘΔΙΪΥ False eng
+all 811 False eng
+round. τουμά, False eng
+See ὅ6ε False na
+Figs, ΕἸρ5. False na
+# 61 22 21 II,  15,  pp. 55,  60. 11, 15,  ΡΡ. 55,  6ο.
+II, 11, False na
+15, 15, False na
+pp. ΡΡ. False eng
+55, 55, False na
+60. 6ο. False na
+# 62 34 36 KoyxvAtGrns,  -ov [KoyxvAn = xbyxn κογχυλιάτης,  -οὄν [κογχύλη -- κόγχη
+κογχυλιάτης, KoyxvAtGrns, True lex
+-ov -οὄν False na
+[KoyxvAn [κογχύλη False na
+= -- False na
+κόγχη xbyxn True lex
+# 63 39 39 (bor.,  Eng. conch),  mzssed,  a shell- (θον.,  Επρ. 0508},  γεφδεοί,  ἃ 586]}-
+(bor., (θον., False eng
+Eng. Επρ. False na
+conch), 0508}, False eng
+mzssed, γεφδεοί, False na
+a ἃ False eng
+shell- 586]}- False na
+# 64 22 20 fish],  adj.,  shedly. Η5}1,  84].,  σλείν.
+fish], Η5}1, False eng
+adj., 84]., False eng
+shedly. σλείν. False na
+# 65 39 39 Kowpdew,  Koujow,  éxolunoa,  éxoruhOnv κοιμάω,  κοιμήσω,  ἐκοίμῃσα,  ἐκοιμήθην
+κοιμάω, Kowpdew, True pp
+κοιμήσω, Koujow, True pp
+ἐκοίμῃσα, éxolunoa, True pp
+ἐκοιμήθην éxoruhOnv True pp
+# 66 36 39 [cp. xetuat,  de,  bor.,  Eng. coma, [ςΡ. κεῖμαι,  ἐΐε,  ὍὈοτ.,  Επρ. σοπ|8,
+[cp. [ςΡ. False eng
+κεῖμαι, xetuat, True pp
+de, ἐΐε, False eng
+bor., ὍὈοτ., False eng
+Eng. Επρ. False na
+coma, σοπ|8, False eng
+# 67 36 37 cemetery],  poetic in act.,  Jud! to σοι: θίοσυ),  ροοῖϊς ἴῃ δοῖ.,  ἐμά {0
+cemetery], σοι: False eng
+poetic θίοσυ), False eng
+in ροοῖϊς False eng
+act., ἴῃ False eng
+Jud! δοῖ., False na
+to ἐμά False eng
+# 68 40 43 sleep; mid. and pass.,  go fo sleep,  go δέδοῤ ,  ταὶ. ΔῃᾺ Ρᾶ58., ) »Ὸ ἔο εἐδοῤ,  σὸ
+sleep; δέδοῤ False eng
+mid. , False eng
+and ταὶ. False eng
+pass., ΔῃᾺ False eng
+go Ρᾶ58., False eng
+fo ) False eng
+sleep, »Ὸ False eng
+go ἔο False eng
+# 69 7 9 to bed. 20 ὀεί, .
+to 20 False eng
+bed. ὀεί, False eng
+# 70 40 42 kowvq] [dat. fem. of xoivds],  adv.,  27 κοινῇ [ἀΔΐ. ἔεταη. οὗ κοινός},  δᾶν.,  ἐ72
+κοινῇ kowvq] True lem
+[dat. [ἀΔΐ. False eng
+fem. ἔεταη. False eng
+of οὗ False eng
+xoivds], κοινός}, False na
+adv., δᾶν., False eng
+27 ἐ72 False na
+# 71 18 22 common,  together. {0)17)}0721,  ορείλεν,
+common, {0)17)}0721, False eng
+together. ορείλεν, False eng
+# 72 46 46 Kotvds,  -7),  -6» [bor.,  Eng. epicene,  coe- κοινός,  -ή,  -όν [ὕοτ.,  Επρ. ΘΡΊΟΘ6Ώ6,  006-
+κοινός, Kotvds, True lex
+-ή, -7), True pp
+-όν -6» True pp
+[bor., [ὕοτ., False eng
+Eng. Επρ. False na
+epicene, ΘΡΊΟΘ6Ώ6, False eng
+coe- 006- False na
+# 73 36 45 nobium ],  common,  general,  shared ΠΟΌΪ11Π|],  407917;1071,  ρε»167 αἱ,  5σα7 4]
+nobium ΠΟΌΪ11Π|], False na
+], 407917;1071, False na
+common, ρε»167 False eng
+general, αἱ, False eng
+shared 5σα7 False eng
+# 74 35 42 by all; dd xowvot,  from the common ὧν αἰ; ἀπὸ κοινοῦ,  25 ογ»η11}. ΞΟ) , 1ΟΥΣ
+by ὧν False eng
+all; αἰ; False eng
+dd ἀπὸ False eng
+κοινοῦ, xowvot, True form
+from 25 False eng
+the ογ»η11}. False eng
+common ΞΟ) False eng
+# 75 36 36 store,  that part of the booty which “ἴοζε,  [αὶ ρᾶτῖ οἵ ἴῃς ὈοΟΙΥ ν ΒΙοἢ
+store, “ἴοζε, False eng
+that [αὶ False eng
+part ρᾶτῖ False eng
+of οἵ False eng
+the ἴῃς False eng
+booty ὈοΟΙΥ False eng
+which ν False eng
+# 76 30 29 had not been divided among the δά ποῖ ὕδθη αἰνϊἀθα διηοηρ [6
+had δά False eng
+not ποῖ False eng
+been ὕδθη False eng
+divided αἰνϊἀθα False eng
+among διηοηρ False eng
+the [6 False eng
+# 77 11 14 _ soldiers. ᾿ς 5016 ]6 15.
+_ ᾿ς False na
+soldiers. 5016 False eng
+# 78 42 39 KoAdlw,  koddow,  éxéddaca,  xexddAag nat, κολάζω,  κολάσω,  ἐκόλασα,  κεκόλασμαι,
+κολάζω, KoAdlw, True pp
+κολάσω, koddow, True pp
+ἐκόλασα, éxéddaca, True pp
+κεκόλασμαι, xexddAag True pp
+nat, NA False eng
+# 79 30 31 éxoddoOny,  chastise,  punish. ἐκολάσθην,  ἐλακίῖδε,  2πεγῖ5λ.
+ἐκολάσθην, éxoddoOny, True pp
+chastise, ἐλακίῖδε, False eng
+punish. 2πεγῖ5λ. False eng
+# 80 39 41 Kodoowal,  -dv,  al,  Colossae,  a city Κολοσσαί,  -ῶν,  αἱ,  Οὐοέορσεας,  ἃ ΟἸΥ͂
+Κολοσσαί, Kodoowal, True lex
+-dv, -ῶν, False na
+al, αἱ, False eng
+Colossae, Οὐοέορσεας, False na
+a ἃ False eng
+city ΟἸΥ͂ False eng
+# 81 34 37 of southwestern Phrygia,  where in οὗ βουϊῃηννοδίεση Ῥησγυρία,   ἤοτα ἴῃ
+of οὗ False eng
+southwestern βουϊῃηννοδίεση False eng
+Phrygia, Ῥησγυρία, False na
+where ἤοτα False eng
+in ἴῃ False eng
+# 82 34 37 the first century A.D. was located (ῃὴ6 ἢιβῖ σθηζαῦυ Α.Ὁ. ννᾶὰθ Ἰἰοοαίεἀ
+the (ῃὴ6 False eng
+first ἢιβῖ False eng
+century σθηζαῦυ False eng
+A.D. Α.Ὁ. False na
+was ννᾶὰθ False eng
+located Ἰἰοοαίεἀ False eng
+# 83 34 34 the church to which Paul wrote his [6 σπαγοῦ ἴο ΨὨΙΟ. Ῥδὰὺὶ ψτοῖε Ὦ]5
+the [6 False eng
+church σπαγοῦ False eng
+to ἴο False eng
+which ΨὨΙΟ. False eng
+Paul Ῥδὰὺὶ False na
+wrote ψτοῖε False eng
+his Ὦ]5 False eng
+# 84 26 26 Epistle to the Colosstans. Ἐριοεο το {χε Οοἰροείαης5.
+Epistle Ἐριοεο False na
+to το False eng
+the {χε False eng
+Colosstans. Οοἰροείαης5. False na
+# 85 41 44 KodAxls,  -idos,  7 [KéAxor],  a district Ἰζολχίς,  -ίδος, ,  ἡ [Κόλχοι],  ἃ ἀϊδιίτιοῖ
+KodAxls, Ἰζολχίς, False na
+-ίδος, -idos, True pp
+7 , False na
+ἡ [KéAxor], True case
+a [Κόλχοι], False eng
+district ἃ False eng
+# 86 34 36 along the eastern and southeastern δίοηρ ἴῃς εαβδίεσῃ δηά βδουϊῃεδβίεγῃ
+along δίοηρ False eng
+the ἴῃς False eng
+eastern εαβδίεσῃ False eng
+and δηά False eng
+southeastern βδουϊῃεδβίεγῃ False eng
+# 87 35 38 coast of the Black Sea,  best known οοδβί οὗ ἴῃς ΒΙδοϊκ 868,  "εβϑὶ Κποννῃ
+coast οοδβί False eng
+of οὗ False eng
+the ἴῃς False eng
+Black ΒΙδοϊκ False na
+Sea, 868, False na
+best "εβϑὶ False eng
+known Κποννῃ False eng
+# 88 32 34 as the country from which Jason, 858 ἴῃ 6 σΟΙΠΓΓΥ ἔγοπὶ νν ΙΟἢ 450,
+as 858 False eng
+the ἴῃ False eng
+country 6 False eng
+from σΟΙΠΓΓΥ False eng
+which ἔγοπὶ False eng
+Jason, νν False na
+# 89 35 34 according to the myth,  carried off δοςογήϊηρσ ἴο [6 τγίῃ,  σαγγϊθα οἵ
+according δοςογήϊηρσ False eng
+to ἴο False eng
+the [6 False eng
+myth, τγίῃ, False eng
+carried σαγγϊθα False eng
+off οἵ False eng
+# 90 18 18 the Golden Fleece. (ες ἀο]άδη ΕἼεεςσ.
+the (ες False eng
+Golden ἀο]άδη False na
+Fleece. ΕἼεεςσ. False na
+# 91 40 40 KA or,  -wv,  Colchians,  people of Col- Κόλχοι,  -ων,  (οέελία5,  ῬΘΟΡ]ε οἵ (οἱ-
+Κόλχοι, KA True lex
+or, -ων, False eng
+-wv, (οέελία5, False na
+Colchians, ῬΘΟΡ]ε False na
+people οἵ False eng
+of (οἱ- False eng
+Col- NA False na
+# 92 32 34 chis,  a tribe of whom appear to οὐΐβ,  ἃ ἴΠρ6Ὲ οὗ ψ ῇοπι ἀρρβᾶσ ἴο
+chis, οὐΐβ, False eng
+a ἃ False eng
+tribe ἴΠρ6Ὲ False eng
+of οὗ False eng
+whom ψ False eng
+appear ῇοπι False eng
+to ἀρρβᾶσ False eng
