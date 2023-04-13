@@ -1,12 +1,11 @@
-# 0 3 3 464 464
-464 464 False na
+
 # 1 37 37 AaxcSatpdvios,  -a,  -ov [Aaxedaluwy, Λακεδαιμόνιος,  -ἅ,  -ον [Λακεδαίμων,
 Λακεδαιμόνιος, AaxcSatpdvios, True lex
--a, -ἅ, False na
+-α, False na
 -ον -ov True pp
 [Λακεδαίμων, [Aaxedaluwy, True pp
 # 2 33 38 Lacedaemon,  Sparta],  Lacedaemo- }αεςεάκσερεον,  ϑῤαγία),  Ζαεεάσόπιος-
-}αεςεάκσερεον, Lacedaemon, True pp
+Lacedaemon, True pp
 Sparta], ϑῤαγία), False na
 Lacedaemo- Ζαεεάσόπιος- False na
 # 3 32 32 nian,  Spartan. Masc. as subst., παρ,  ϑῤαγίαῃ. ΜΜᾶβο. 85 βυθϑί.,
@@ -19,11 +18,11 @@ subst., βυθϑί., False eng
 Spartan. , False na
 # 5 40 43 Adkkos,  -ov [cogn.,  Lat. lacus,  Jake, λάκκος,  -ον [οορῃ.,  [, Αἱ. 1Δου.8,  λαἦε,
 λάκκος, Adkkos, True lex
--ον -ov True pp
+-ου -ov True pp
 [cogn., [οορῃ., False na
 Lat. [, False na
 lacus, Αἱ. False na
-Jake, 1Δου.8, False na
+lake, 1Δου.8, False na
 # 6 36 39 whence is bor. Eng. lake],  cistern, Μ Βδησοα 5 Ὀοτ. Εηρ. 141Κ6],  εἼ5 267},
 whence Μ False eng
 is Βδησοα False eng
@@ -47,13 +46,13 @@ plastered. ρ]δϑβίεγεα, False eng
 ἐλακτίσθην, édaxrloOny, True pp
 kick. Ζϊιεξ. False eng
 # 10 37 40 dav,  -wvos,  6,  Laconian,  Spartan. «Λάκων,  -ωνος,  ὁ,  Ζαεογῆα»,  5ραγίαρ.
-«Λάκων, dav, True pp
--wvos, -ωνος, False na
+Λάκων, dav, True pp
+-ωνος, False na
 ὁ, 6, True lex
 Laconian, Ζαεογῆα», False na
 Spartan. 5ραγίαρ. False na
 # 11 40 41 Aaxovixés,  -4,  -dv [Adxwy; bor.,  Eng. “Λακωνικός,  -ή,  -όν [Λάκων; Ὀοτ.,  Επρ.
-Aaxovixés, “Λακωνικός, False na
+Λακωνικός, False na
 -ή, -4, True pp
 -όν -dv True pp
 [Λάκων; [Adxwy; True pp
@@ -67,7 +66,7 @@ Spartan. 5ραγίαρι. False na
 λαμβάνω, AapBdve, True pp
 λήψομαι, Arjyoua, True pp
 ἔλαβον, EraBov, True pp
-efAnga, εἴληφα, False na
+εἴληφα, False na
 # 14 38 37 et\nupas,  éd\jPOnv [bor.,  Eng. cata- εἴλημμαι,  ἐλήφθην [Ὀοτ.,  Εηρ. οδίδ-
 εἴλημμαι, et\nupas, True pp
 ἐλήφθην éd\jPOnv True pp
@@ -78,7 +77,7 @@ cata- οδίδ- False na
 lepsy, ἸΘΡΒΥ, False na
 epilepsy ΘΡΊῚΘΡΘΥ], False eng
 ], αξε, False na
-‘ake, σεί, False na
+take, σεί, False na
 get, 27.176, False eng
 procure, NA False eng
 # 16 39 41 receive,  accept; find,  catch,  setze, γεζεῖνε,  ἀεοῤί,  βρημά,  εκαϊοῖ,  δοῖζδ,
@@ -86,7 +85,7 @@ receive, γεζεῖνε, False eng
 accept; ἀεοῤί, False eng
 find, βρημά, False eng
 catch, εκαϊοῖ, False eng
-setze, δοῖζδ, False na
+seize, δοῖζδ, False na
 # 17 38 37 capture,  of want,  befall,  take part εαξίμγε,  οὗ νηΐ,  ὀεζαξ,  ἑαξε ῥαγίέ
 capture, εαξίμγε, False eng
 of οὗ False eng
@@ -102,7 +101,7 @@ of, οὔ False eng
 with «ἢ False eng
 partit. ραγις. False na
 gen.; σθη.; False eng
-éake αζὸ False na
+take αζὸ False na
 # 19 37 33 hold of,  with acc. and partit. gen.; ἀοέα οΥΣ Μ᾿ δος. ἀπὰ ρδγῖ,  ρεη.;
 hold ἀοέα False eng
 of, οΥΣ False eng
@@ -118,16 +117,15 @@ often οἴζεη False eng
 equiv. εααυΐν. False eng
 to ἴο False eng
 ἔχων, Zxwy, True pp
-wzth. τυΐίά. False na
+with. τυΐίά. False na
 # 21 40 37 Aapmpérys,  -yTos,  7 [Aapmmrpds,  bred- λαμπρότης,  -τος,  ἡ [λαμπρός,  ὀγὴἐ-
 λαμπρότης, Aapmpérys, True lex
 -τος, -yTos, True pp
 ἡ 7 True case
 [λαμπρός, [Aapmmrpds, True lex
-bred- ὀγὴἐ- False na
+brill- ὀγὴἐ- False na
 # 22 33 29 ~~ fant),  brilliancy,  splendor. τ ἐξαρέ),  ὀγίαπον,  ἐῤίομαν.
-~~ τ False na
-fant), ἐξαρέ), False eng
+iant], ἐξαρέ), False eng
 brilliancy, ὀγίαπον, False eng
 splendor. ἐῤίομαν. False eng
 # 23 41 43 Adprrw [bor.,  Eng. lamp],  act. or mid., λάμπω [Ὀοτ΄.,  Επρ. 1411},  ἀοῖ. οὐ τα]ά, ,
@@ -147,7 +145,7 @@ up. τ“. False eng
 λήσω, Ajow, True pp
 ἔλαθον, Z\adov, True pp
 λέληθα, AEANOa, True form
-A€A7- λέλη- False na
+λέλη- False na
 # 26 36 33 ouat [bor.,  Eng. lethargy,  Lethe], σμαι [Ὀοτ.,  Επρ. ἸοΒατσν,  Καῖ],
 σμαι ouat True pp
 [bor., [Ὀοτ., False eng
@@ -155,7 +153,7 @@ Eng. Επρ. False na
 lethargy, ἸοΒατσν, False eng
 Lethe], Καῖ], False na
 # 27 36 39 lie hid,  escape notice,  be unseen, ἔφ ἀϊα,  δρεαό ποίϊεσς,  ὅέ 147156672 ,
-lie ἔφ False eng
+he ἔφ False eng
 hid, ἀϊα, False eng
 escape δρεαό False eng
 notice, ποίϊεσς, False eng
@@ -181,7 +179,6 @@ finite ἢηϊε False eng
 verb, νεγρ, False eng
 and δηά False eng
 λανθάνω Aavéa True pp
-vw Ὦν False na
 by 8Δηῃ False eng
 an δάν. False eng
 adv. NA False eng
@@ -193,12 +190,11 @@ secretly, εἤέγ, False eng
 without τοϊέλοπ False eng
 attract- αἰγαεί- False na
 # 32 34 37 tng attention,  tpepbuevov éddvéa- ἔγρ αἰϊορίζονε, ,  τρεφόμενον ἐλάνθα-
-tng ἔγρ False eng
+ing ἔγρ False eng
 attention, αἰϊορίζονε, False eng
-tpepbuevov , False na
 τρεφόμενον éddvéa- True pp
 # 33 39 40 vev,  was secretly supported,  53,  26; νεν,  τυᾶς 5εεγείδν τε ῥογίεα,  54,  26;
-vev, νεν, False na
+ἐλάνθαvev, νεν, False na
 was τυᾶς False eng
 secretly 5εεγείδν False eng
 supported, τε False eng
@@ -210,7 +206,7 @@ acc., δος. False eng
 λαθεῖν Aabety True form
 αὐτὸν avrov True form
 ἀπελθών, amedOwr, True form
-Lo 10 False na
+to 10 False na
 # 35 37 40 get away without his knowing it,  67, δεΐ ατυαγ τυϊλοτί ἀὶς ξηοτουῖηρ 12,  67,
 get δεΐ False eng
 away ατυαγ False eng
@@ -231,7 +227,7 @@ seen, 56672, False eng
 18. 18. False na
 # 38 40 40 Adpioa,  -ns,  Larisa,  a ruined city on Λάρισα,  -ης,  Ζαγῖτα,  ἃ ταϊπεά οἰζγ οἡ
 Λάρισα, Adpioa, True pp
--ns, -ης, False na
+-ης, False na
 Larisa, Ζαγῖτα, False na
 a ἃ False eng
 ruined ταϊπεά False eng
@@ -276,12 +272,8 @@ used υυϑεα False eng
 for ἔογ False eng
 the [ἢδ False eng
 pf, ρῇ, False eng
-# 45 6 8 Google (πΘοορίς
-Google (πΘοορίς False na
-# 46 10 9 XENOPHON’S ΧΕΝΟΡΗΟΝ5
-XENOPHON’S ΧΕΝΟΡΗΟΝ5 False na
-# 47 8 8 ANABASIS ΑΝΑΒΑΘΙ5
-ANABASIS ΑΝΑΒΑΘΙ5 False na
+
+
 # 48 34 31 and elroy frequently for the aor.; δηά εἶπον (τες ΠΥ ἔοσ ἰμε δοσ.;
 and δηά False eng
 εἶπον elroy True pp
@@ -303,16 +295,16 @@ with ΜΠ False eng
 dir. αἷγ. False eng
 disc.; ἀϊδο.; False eng
 with ν False eng
-ἢ indir. True lem
+indir. True lem
 # 51 33 35 disc.,  commonly introduced by re αἴ8ς.,  σΟΙΏΙΏΟΪΥ ἰηἰτοάυςεα ὈΥ ὅτι
 disc., αἴ8ς., False eng
 commonly σΟΙΏΙΏΟΪΥ False eng
 introduced ἰηἰτοάυςεα False eng
 by ὈΥ False eng
-re ὅτι False eng
+ὅτι False eng
 # 52 36 40 or ws,  sometimes expressed by inf.; ΟΥ ὡς,  ΒΟπ) 6 1 Π|68 ΘΧΡΓ βϑθα ὈΥ Ἰπέ.;
 or ΟΥ False eng
-ws, ὡς, False eng
+ὡς, False eng
 sometimes ΒΟπ) False eng
 expressed 6 False eng
 by 1 False eng
@@ -329,8 +321,8 @@ acc. δοο., False eng
 and δὰ False eng
 ptc. γΡῖο. False na
 with ψ False eng
-ws, ἢ False eng
-ὡς, 67, True lex
+ὡς, 
+67, True lex
 11; 67, False na
 act 11; False eng
 as ἀεί False eng
@@ -339,8 +331,8 @@ spokesman, σ2οξεοριαρ, False eng
 with ἢ False eng
 dir. αἶτ, False eng
 disc.; ἀ15ς.; False eng
-te//, Ζεδ, False na
-bz, ὀέω;, False eng
+tell, Ζεδ, False na
+bid, ὀέω;, False eng
 # 56 34 36 with inf.; in the pass. Greek pre- ΨΠῈ ἰηΐ.; ἴῃ [ῃ6 ρΡ455. Οσεεκ ρῥτγε-
 with ΨΠῈ False eng
 inf.; ἰηΐ.; False eng
@@ -360,7 +352,7 @@ constr., οοῃϑβίσ., False eng
 # 58 38 37 as Adyerat ‘Awédddwy éxdetpat,  Apollo 85 λέγεται ᾿Απόλλων ἐκδεῖραι,  42οδέο
 as 85 False eng
 λέγεται Adyerat True form
-᾿Απόλλων ‘Awédddwy True pp
+Ἀπόλλων ‘Awédddwy True pp
 ἐκδεῖραι, éxdetpat, True form
 Apollo 42οδέο False na
 # 59 35 34 ts said to have flayed,  though the ἢς σαϊώ 109 ἦα ἥαγεά,  ἰπουρἢ (δ 6
@@ -372,15 +364,15 @@ flayed, ἥαγεά, False eng
 though ἰπουρἢ False eng
 the (δ False eng
 # 60 37 37 ‘impers. constr. occurs,  as é\é¢yero Ἵπιρεῖβ. οοηβίσ,  οὐσυϊβ,  85 ἐλέγετο
-‘impers. Ἵπιρεῖβ. False na
+impers. Ἵπιρεῖβ. False na
 constr. οοηβίσ, False eng
 occurs, οὐσυϊβ, False eng
 as 85 False eng
 ἐλέγετο é\é¢yero True form
 # 61 36 37 Kipoy ovyyevéobat,  tt was said that Κῦρον σνγγενέσθαι,  ἐξ σας τατα “Ζἀαζ
 Κῦρον Kipoy True pp
-ovyyevéobat, σνγγενέσθαι, False na
-ἐξ tt True form
+σνγγενέσθαι, False na
+it True form
 was σας False eng
 said τατα False eng
 that “Ζἀαζ False eng
@@ -401,7 +393,7 @@ reckoned, φαΐ, False eng
 [cogn., [οορῃ., False na
 Lat. 1, False na
 lévis, 41. False na
-sooth], 1δν False eng
+smooth], 1δν False eng
 # 65 23 28 smooth; gently sloping. σγποοίζ,  ρερίζν οἰοῤῖῆτγεσ.
 smooth; σγποοίζ, False eng
 gently ρερίζν False eng
@@ -410,23 +402,23 @@ sloping. οἰοῤῖῆτγεσ. False eng
 λείπω, Aeltra, True pp
 λείψω, Aelw, True pp
 ἔλιπον, Edewov, True pp
-NéNoura, λέλοιπα, False na
-Adrecu- λέλειμ- False na
+λέλοιπα, False na
+λέλειμ- False na
 # 67 36 38 pat,  €delpOnv [cogn.,  Lat. linqud, μαι,  ἐλείφθην [ςσορπ.,  [Δϊἴ. ᾿παᾳυδ,
-pat, μαι, False eng
+μαι, False eng
 ἐλείφθην €delpOnv True pp
 [cogn., [ςσορπ., False na
 Lat. [Δϊἴ. False na
-linqud, ᾿παᾳυδ, False na
+linquo, ᾿παᾳυδ, False na
 # 68 30 33 feave,  Eng. loan; bor.,  Eng. ἔεαυε,  Ἐπρ. ἰοδῃ; δὈοτ., ,  Επρ.
-feave, ἔεαυε, False na
+leave, ἔεαυε, False na
 Eng. Ἐπρ. False na
 loan; ἰοδῃ; False eng
 bor., δὈοτ., False eng
 Eng. , False na
 # 69 39 46 eclipse],  eave,  quit,  abandon,  Lat. 60110567,  ἔξανε,  φηεῖΐ,  σαὐαραῖογε,  Τ, Αῖ.
 eclipse], 60110567, False eng
-eave, ἔξανε, False eng
+leave, ἔξανε, False eng
 quit, φηεῖΐ, False eng
 abandon, σαὐαραῖογε, False eng
 Lat. Τ, False na
@@ -441,17 +433,8 @@ survive; σμγγίυδ, False eng
 be δὲ False eng
 left ἐγ False eng
 behind. ὀελ»α, False eng
-# 72 34 34 AeAclWerar,  Achoumds,  see Aelrw. λελείψεται,  λελοιπώς,  Ξε6 λείπω.
-λελείψεται, AeAclWerar, True form
-Achoumds, λελοιπώς, False na
-see Ξε6 False eng
-λείπω. Aelrw. True pp
-# 73 17 17 Adfov,  see Adyw. λέξον,  5ε6 λέγω.
-λέξον, Adfov, True pp
-see 5ε6 False eng
-λέγω. Adyw. True pp
 # 74 40 42 Acovttvos,  -ov,  Leontine,  a native of ΔΛεοντῖνος,  -ου,  Ζ4ογιΐγιε,  ἃ παϊϊνο οὗ
-Acovttvos, ΔΛεοντῖνος, False na
+Λεοντῖνος, False na
 -ου, -ov, True pp
 Leontine, Ζ4ογιΐγιε, False na
 a ἃ False eng
@@ -476,10 +459,10 @@ the τΠ6 False eng
 modern τηοάδγῃ False eng
 Lentini. ΖθρμΖιγε. False na
 # 78 35 36 AevKoOwpak,  -axos [Aevxds,  Owpat, λευκοθώραᾶξ,  -ἄκος [λευκός,  θώρᾶξ,
-AevKoOwpak, λευκοθώραᾶξ, False na
--axos -ἄκος False na
+λευκοθώρααξ, False na
+-ᾶκος False na
 [λευκός, [Aevxds, True lex
-Owpat, θώρᾶξ, False na
+θώρᾶξ, False na
 # 79 39 43 corselet],  adj.,  with white corselet. εογΞοίοζ],  84].,  τοτὰ τοὐ τέο εονγ  εῤεί.
 corselet], εογΞοίοζ], False eng
 adj., 84]., False eng
@@ -489,25 +472,20 @@ corselet. τέο False eng
 # 80 45 43 AeuKds,  -η,  -6v [cogn.,  Lat. liix,  Uighd, λευκός,  -ή,  -ὀν [ςορῃ.,  [, 4ἱ. Ἰῦχ,  ὥρλ
 λευκός, AeuKds, True lex
 -ή, -η, True pp
--6v -ὀν False na
+-όν False na
 [cogn., [ςορῃ., False na
 Lat. [, False na
-liix, 4ἱ. False na
+lux, 4ἱ. False na
 Uighd, Ἰῦχ, False na
 # 81 31 30 lice,  shine],  bright,  white. Ἰυοοῦ,  “127,  ὁγρλέ,  τυλτέε.
-lice, Ἰυοοῦ, False eng
+light, Ἰυοοῦ, False eng
 shine], “127, False eng
 bright, ὁγρλέ, False eng
 white. τυλτέε. False eng
-# 82 20 21 ex Gévrwv,  see Ady. λεχθέντων,  5ε6 λέγω.
-ex λεχθέντων, False eng
-Gévrwv, 5ε6 False na
-see λέγω. False eng
-Ady. NA False na
 # 83 39 41 Achvupos,  -ov,  Leonmus,  a private in Δεώνυμος,  -ου,  Ζεο» ρ:15,  ἃ Ὀτῖναίε ἴῃ
-Achvupos, Δεώνυμος, False na
+Λεώνυμος, False na
 -ου, -ov, True pp
-Leonmus, Ζεο» False na
+Leonymus, Ζεο» False na
 a ρ:15, False eng
 private ἃ False eng
 in Ὀτῖναίε False eng
@@ -523,16 +501,11 @@ end, εηεἶ, False eng
 abate. αὐαΐε. False eng
 # 86 43 47 AyLopas [Aela,  booty],  plunder,  pillage. λήζομαι [λείᾶ,  δοοΐν],  2 τεγ»ιαἶδν,  δι ασεό.
 λήζομαι AyLopas True pp
-[Aela, [λείᾶ, False na
+[λεία, False na
 booty], δοοΐν], False eng
 plunder, 2 False eng
 pillage. τεγ»ιαἶδν, False eng
-# 87 32 33 AnOAvar,  Afopar,  see AauBd ww. ληφθῆναι,  λήψομαι,  Ξεε λαμβάνω.
-ληφθῆναι, AnOAvar, True form
-λήψομαι, Afopar, True pp
-see Ξεε False eng
-λαμβάνω. AauBd True pp
-ww. NA False na
+
 # 88 38 40 AlO.vos,  -η,  -ov [AlOos],  of stone. λίθινος,  -η,  -ον [λίθος],  977 Ξέογι6.
 λίθινος, AlO.vos, True lex
 -η, -η, False na
@@ -548,19 +521,10 @@ Eng. Εηρ. False na
 lithograph, ΙΓ False eng
 # 90 18 21 monolith },  some. ΤΊ ΟΠ 0110},  “20716.
 monolith ΤΊ False eng
-}, ΟΠ False na
-some. 0110}, False eng
+], ΟΠ False na
+stone. 0110}, False eng
 # 91 30 34 Aipes,  -o0,  hunger,  famine. λῖμός,  -ου,  ἀτεγρε»,  , αρεῖγεθ.
-Aipes, λῖμός, False na
+λῖμός, False na
 -ου, -o0, True pp
 hunger, ἀτεγρε», False eng
 famine. , False eng
-# 92 16 56 ——— a Ae Ee a —— “ποτα -«- -“-ἶἱὦἍ,  “ἀππαὰ....ὕ... νὰ,  ἥἄπππ΄ -ὦνἹ- οι.
-——— “ποτα False na
-a -«- False eng
-Ae -“-ἶἱὦἍ, False na
-Ee “ἀππαὰ....ὕ... False na
-a νὰ, False eng
-—— ἥἄπππ΄ False na
-# 93 2 17 ee » -ασ-ἀἕπὰοὃἅὄΝἝ,
-ee » False eng
