@@ -1,8 +1,7 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+
 # 1 43 44 éréos,  -η,  -ov [cp. wécos,  how large? ], ὁπόσος,  -ή,  -ον [(Ρ. πόσος,  ἄοτυ ἰα»ρεῇ],
 ὁπόσος, éréos, True lex
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [cp. [(Ρ. False eng
 πόσος, wécos, True lex
@@ -59,7 +58,7 @@ when, τυλ False eng
 # 9 37 35 less often sence,  seeing that,  with ε585 οἴξδηῃ ϑέγεθ,  δϑεῖρ δαί,  ΜΊἢ
 less ε585 False eng
 often οἴξδηῃ False eng
-sence, ϑέγεθ, False eng
+since, ϑέγεθ, False eng
 seeing δϑεῖρ False eng
 that, δαί, False eng
 with ΜΊἢ False eng
@@ -76,7 +75,7 @@ subj. 51].). False eng
 ). NA False na
 # 12 40 42 Gmérepos,  -d,  -ov [cp. wérepos,  which ὁπότερος,  -ἅ,  -ον [(ρΡ. πότερος,  τυλῆεΐ
 ὁπότερος, Gmérepos, True lex
--d, -ἅ, False na
+-α, -ἅ, False na
 -ον -ov True pp
 [cp. [(ρΡ. False eng
 πότερος, wérepos, True lex
@@ -97,7 +96,7 @@ uter. τε267, False na
 # 15 37 38 Strov [cp. wot,  where?],  rel. adv., ὅπον [ςρ. ποῦ,  τυλτγέ 7,  τοὶ]. δάν.,
 ὅπον Strov True pp
 [cp. [ςρ. False eng
-wot, ποῦ, False eng
+ποῦ, False eng
 where?], τυλτγέ False na
 rel. 7, False eng
 adv., τοὶ]. False eng
@@ -124,7 +123,7 @@ opt.; ορΡί.; False eng
 except ἐχεεξέ False eng
 where. τυλόγέ. False eng
 # 19 25 24 omrds,  -4,  -dv,  baked. ὄπτός,  -ή,  -όν,  ὀαεώ.
-omrds, ὄπτός, False na
+ὀπτός, False na
 -ή, -4, True pp
 -όν, -dv, True pp
 baked. ὀαεώ. False eng
@@ -168,8 +167,7 @@ that 1Παΐ False eng
 # 25 35 34 he will,  etc 3 with an obj. clause ἦε τυϊδέ,  εἴς; ν ἢ δὴ ΟΡ]. οἷαυβα
 he ἦε False eng
 will, τυϊδέ, False eng
-etc εἴς; False eng
-3 ν False na
+etc; εἴς; False eng
 with ἢ False eng
 an δὴ False eng
 obj. ΟΡ]. False eng
@@ -210,13 +208,13 @@ exhortation, δχμοτγίδί!οῃ, False eng
 # 31 33 28 see to tt that,  with fut. indic. δέ 20 τ: Ζαξ,  νι ας. Ἰηα]ς,
 see δέ False eng
 to 20 False eng
-tt τ: False na
+it τ: False na
 that, Ζαξ, False eng
 with νι False eng
 fut. ας. False eng
 indic. Ἰηα]ς, False eng
 # 32 35 33 AS conj.,  with a clause of purpose ΑΚ5 σοη].,  ΜῈ ἃ οδυβα οὗ ρυγροβα
-AS ΑΚ5 False na
+As ΑΚ5 False na
 conj., σοη]., False eng
 with ΜῈ False eng
 a ἃ False eng
@@ -231,7 +229,7 @@ than ἴμδῃ False eng
 ἕνα tva True pp
 # 34 36 34 or ws),  that,  in order that,  with ΟΥ ὡς),  δα,  1γ ογοΐδγ λαΐ,  ΜΊΚῊ
 or ΟΥ False eng
-ws), ὡς), False eng
+ὡς), False eng
 that, δα, False eng
 in 1γ False eng
 order ογοΐδγ False eng
@@ -247,22 +245,22 @@ opt. ΟΡΐ. False eng
 2 2 False na
 aor. δοτ. False eng
 εἶδον, eldov, True pp
-ἑόρᾶκα ébpaxa True pp
+ἑόρακα ébpaxa True pp
 and δπὰ False eng
 # 37 33 33 éwpaxa,  éwpauac and dupa,  OPOnv ἑώρᾶκα,  ἑώρᾶμαι ἀπ ὦμμαι,  ὥφθην
-ἑώρᾶκα, éwpaxa, True pp
-ἑώρᾶμαι éwpauac True pp
+ἑώρακα, éwpaxa, True pp
+ἑώραμαι éwpauac True pp
 and ἀπ False eng
 ὦμμαι, dupa, True pp
 ὥφθην OPOnv True pp
 # 38 38 39 [roots dpa,  ér (cp. Eng. optic),  fed [τοοῖβ ὁρα,  ὁπ (ορ. Επρ. οῤΖῥῖε),  ειδ
 [roots [τοοῖβ False eng
-dpa, ὁρα, False na
-ér ὁπ False na
+ὁρα, False na
+ὁπ False na
 (cp. (ορ. False eng
 Eng. Επρ. False na
 optic), οῤΖῥῖε), False eng
-fed ειδ False eng
+ϝιδ False eng
 # 39 39 39 (whence olda)],  see,  look,  perceive; (γΒεπος οἶδα) 7,  566,  ἐοοξ,  ογεεῖνε,
 (whence (γΒεπος False eng
 οἶδα) olda)], True lex
@@ -274,7 +272,7 @@ with Ψ False eng
 acc. ΙΓ False eng
 and δος. False eng
 ptc., δη4 False na
-871, ρίς., False na
+ὅτι, ρίς., False na
 or ὅτι, False eng
 an οΥ False eng
 indir. 8η False na
@@ -290,24 +288,21 @@ seen, 5671, False eng
 visible, υἱεῖόίο. False eng
 # 43 40 47 Opyt,  -fs,  Zemper,  cemperament,; esp. ὀργή,  -ῆς, ,  2»: 67,  ἐδ» ῥέε) α»εδγιξ,  650.
 ὀργή, Opyt, True lex
--fs, -ῆς, False na
-Zemper, , False na
-cemperament,; 2»: False na
+-ῆς, False na
+temper, , False na
+temperament,; 2»: False na
 esp. 67, False eng
 # 44 23 30 anger; Opy],  in anger. αΡ1ρ67, ,  ὀργῇ,  171: α᾽1ρέ7,
 anger; αΡ1ρ67, False eng
-Opy], , False na
+ὀργῇ, , False na
 in ὀργῇ, False eng
 anger. 171: False eng
-# 45 6 8 Google (πΘοοοῖς
-Google (πΘοοοῖς False na
-# 46 3 4 477 417]
-477 417] False na
+
 # 47 39 40 Opylfopar,  dpyioduar,  Spyirua,  wpyl- ὀργίζομαι,  ὀργιοῦμαι,  ὥργισμαι,  ὠργί-
 ὀργίζομαι, Opylfopar, True pp
 ὀργιοῦμαι, dpyioduar, True pp
 ὥργισμαι, Spyirua, True pp
-wpyl- ὠργί- False na
+ὠργί- False na
 # 48 36 36 aOnv [dpy4],  be angry,  be enraged, σθην [ὀργή],  ὁέ 407},  ἐφ πῃ γαρεω,
 σθην aOnv True pp
 [ὀργή], [dpy4], True lex
@@ -355,9 +350,9 @@ steep; δίροδ, False eng
 in 2 False eng
 column; εοἰϊέηεηι., False eng
 λόχοι Xbxor True form
-8phor, ὄρθιοι, False na
+ὄρθιοι, False na
 # 56 34 45 compantes in column,  company col- κου) βαγεῖφς 171 “0{142)121,  407»2 421} εοἶ-
-κου) compantes True pp
+companies True pp
 in βαγεῖφς False eng
 column, 171 False eng
 company “0{142)121, False eng
@@ -365,7 +360,7 @@ col- 407»2 False na
 # 57 33 37 umns (see Introd. § 67). Neut. as 24)1715 (5ε6 [ηἴτοά,  ὃ 67). Νεαῖ. ἃ5
 umns 24)1715 False na
 (see (5ε6 False eng
-[ηἴτοά, Introd. True pp
+Introd. True pp
 § ὃ False eng
 67). 67). False na
 Neut. Νεαῖ. False na
@@ -373,10 +368,10 @@ as ἃ5 False eng
 # 58 42 40 subst.,  steep Azll,  SpOcov lévat,  march 5 05ι.,  σἡεο ἀτέ,  ὄρθιον ἱέναι,  »ιαγε
 subst., 5 False eng
 steep 05ι., False eng
-Azll, σἡεο False na
-SpOcov ἀτέ, False na
+hill, σἡεο False na
 ὄρθιον lévat, True pp
-march ἱέναι, False eng
+ἱέναι, False eng
+march 
 # 59 35 34 up a steep hill; mpds 7d bphov,  up 2 α σίοοῤ ἀϊ,  πρὸς τὸ ὄρθιον,  πῤ
 up 2 False eng
 a α False eng
@@ -388,7 +383,7 @@ hill; ἀϊ, False eng
 up πῤ False eng
 # 60 40 37 (lit.,  factnr) the steep hill,  against (ἴπ],  μαεῖη 9) ἐδ τίδοῤ ἀφ,  ἀραϊγ5έ
 (lit., (ἴπ], False eng
-factnr) μαεῖη False na
+facing) μαεῖη False na
 the 9) False eng
 steep ἐδ False eng
 hill, τίδοῤ False eng
@@ -408,13 +403,13 @@ orthodox, οΥΒΟάΟΧ, False eng
 orthography, ΟΥΓΒΟΡΙΊΔΑΡΒΥ, False eng
 orthopedic ΟΥΓΒΟΡΘΑ͂ΪΟ], False eng
 }, σατρλέ, False na
-s¢raighdé, NA False na
+straight, NA False na
 # 64 8 8 upright. “ῤγῖρλέ.
 upright. “ῤγῖρλέ. False eng
 # 65 23 22 SpOpos,  -ov,  aiazwz7. ὄρθρος,  -ου,  αἰχτο7.
 ὄρθρος, SpOpos, True lex
 -ου, -ov, True pp
-aiazwz7. αἰχτο7. False na
+dawn. αἰχτο7. False na
 # 66 43 43 op0ds [dp0ds],  adv.,  rightly,  correctly, ὀρθῶς [ὀρθός],  αἄν.,  γίρλσιν,  εογγεοίδν,
 ὀρθῶς op0ds True form
 [ὀρθός], [dp0ds], True lex
@@ -434,7 +429,7 @@ proper. 2702 False eng
 # 69 38 38 Spa,  -wy,  rad [cp. dpl{w],  borders, ὅρια,  -ων,  τά [ςρ. ὁρίζω],  δογωΐγς,
 ὅρια, Spa, True form
 -ων, -wy, True pp
-rad τά False eng
+τά False eng
 [cp. [ςρ. False eng
 ὁρίζω], dpl{w], True pp
 borders, δογωΐγς, False eng
@@ -449,7 +444,7 @@ frontier. }, False eng
 ὥρισμαι, Opiopar, True pp
 # 72 38 44 wplaOnv [8pos,  boundary,  bor.,  Eng. ὡρίσθην [ ὅρος,  ὀοτγε47, },  ὍὈοτ, ,  ΕΠ Ρ.
 ὡρίσθην wplaOnv True pp
-[8pos, [ False na
+[ὅρος, [ False na
 boundary, ὅρος, False eng
 bor., ὀοτγε47, False eng
 Eng. }, False na
@@ -457,7 +452,7 @@ Eng. }, False na
 horizon, ΒΟΙΣΖΟΏ, False eng
 aorist, δοτὶϑί, False eng
 aphorism], δρμογίϑ}1, False eng
-sefa- σέῤα- False na
+sepa- σέῤα- False na
 # 74 31 36 rate,  be the boundary between, γαίέ,  ὁέ 1: ῥοπα4.7, )}) ὀείτυεο7:.
 rate, γαίέ, False eng
 be ὁέ False eng
@@ -495,13 +490,13 @@ journey; Α False eng
 mid., τηϊά, False eng
 with , False eng
 aor. ψ False eng
-ἢ wpu7ndny, True lem
+ὡρμήθην, wpu7ndny, True lem
 set δοόύ, False eng
 out, ὡρμήθην, False eng
 # 80 25 23 start,  Lat. proficiscor. σίαγί,  Αἱ. 2γοβεῖςεοῦ.
 start, σίαγί, False eng
 Lat. Αἱ. False na
-2γοβεῖςεοῦ. proficiscor. True pp
+proficiscor. True pp
 # 81 38 40 Oppéw [8pu0s,  anchorage],  be moored, ὁρμέω [ὅρμος,  α»πελογαρε7,  δ »ιοον δα,
 ὁρμέω Oppéw True pp
 [ὅρμος, [8pu0s, True lex
@@ -514,7 +509,7 @@ at αὐ False eng
 anchor. ἀπολοῦ. False eng
 # 83 39 46 opph,  -78,  motion,  start,  movement, ὁρμή,  «ἣς,  ἩΙΟΐΊ071,  σέαγέ,  ρεουδ)»)16727,
 ὁρμή, opph, True lex
--78, «ἣς, False na
+-ῆς, False na
 motion, ἩΙΟΐΊ071, False eng
 start, σέαγέ, False eng
 movement, ρεουδ)»)16727, False eng
@@ -529,8 +524,7 @@ point 2οϊγι False eng
 of ο7 False eng
 starting εἰαγέϊγρ, False eng
 μιᾷ » True form
-mid ὁρμῇ, False eng
-Opn, τοϊίᾷ False na
+ὁρμῇ, False eng
 with ο»6 False eng
 one αἀε- False eng
 ac- NA False na
@@ -556,7 +550,7 @@ of ογ΄ False eng
 birds ὀΐγαἶς False eng
 or οΥ False eng
 # 90 38 41 Jowls,; xpéa dpvidea,  fowl,  chicken, 7ρευέξ; κρέα ὀρνίθεια,  γοτυέ,  εὐτεξοηε,
-Jowls,; 7ρευέξ; False na
+fowls,; 7ρευέξ; False na
 κρέα xpéa True lex
 ὀρνίθεια, dpvidea, True form
 fowl, γοτυέ, False eng

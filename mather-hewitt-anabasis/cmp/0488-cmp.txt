@@ -1,5 +1,4 @@
-# 0 3 3 476 416
-476 416 False na
+
 # 1 36 35 room,  though not at the same table, τοοτη,  μου ποί δὲ [ἢ βδῖὴς (δῦ ]ε,
 room, τοοτη, False eng
 though μου False eng
@@ -16,16 +15,16 @@ or τλοπδγοῇ False eng
 overlord. οὐ False eng
 # 3 35 43 Gpod [gen. of dubs,  common,  same; ὁμοῦ [ρεη. οὗ ὁμός,  {07)17710721,  5Ω716 ,
 ὁμοῦ Gpod True pp
-[gen. [ρεη. False eng
+[gen. ρεη. False eng
 of οὗ False eng
-dubs, ὁμός, False eng
-common, {07)17710721, False eng
+ὁμός, False eng
+common, 07)17710721, False eng
 same; 5Ω716 False eng
 # 4 40 46 cogn.,  Lat. similis,  /74e,  Eng. same; σορῃ.,  [, 41. 851111118,  Ζζξε,  ΕᾺσ. Βᾶπι6 :
 cogn., σορῃ., False na
 Lat. [, False na
 similis, 41. False na
-/74e, 851111118, False na
+like, 851111118, False na
 Eng. Ζζξε, False na
 same; ΕᾺσ. False eng
 # 5 33 36 bor.,  Eng. homogeneous,  homolo- Ῥογ.,  Επρ. ΒοπιοσΘΏΘ0.18,  ΠΟΙΏΟ]Ο-
@@ -33,7 +32,7 @@ bor., Ῥογ., False eng
 Eng. Επρ. False na
 homogeneous, ΒοπιοσΘΏΘ0.18, False eng
 homolo- ΠΟΙΏΟ]Ο- False na
-# 6 37 42 gous],  adv.,  together,  at the same δου.851,  δᾶν.,  ἐορείλεογ,  αὐ 1016 φαϑιδ
+# 6 37 42 gous,  adv.,  together,  at the same δου.851,  δᾶν.,  ἐορείλεογ,  αὐ 1016 φαϑιδ
 gous], δου.851, False na
 adv., δᾶν., False eng
 together, ἐορείλεογ, False eng
@@ -66,7 +65,7 @@ see 5866 False eng
 ὁμοῦ], dspod), True pp
 # 11 44 46 conj.,  zevertheless,  all the same,  still, οοη]).,  πευεγζλοίφδς,  αὐξ ζὴε σαη26,  οὐ ἐῤ,
 conj., οοη])., False eng
-zevertheless, πευεγζλοίφδς, False na
+nevertheless, πευεγζλοίφδς, False na
 all αὐξ False eng
 the ζὴε False eng
 same, σαη26, False eng
@@ -74,14 +73,8 @@ still, οὐ False eng
 # 12 14 15 however,  yet. ἀοτυευεγ,  γεΐ.
 however, ἀοτυευεγ, False eng
 yet. γεΐ. False eng
-# 13 14 14 dv,  see elul. ὄν,  566 εἰμί.
-ὄν, dv, True form
-see 566 False eng
-elul. εἰμί. False eng
-# 14 12 12 bv,  see ds. ὅν,  566 ὅς.
-bv, ὅν, False eng
-see 566 False eng
-ds. ὅς. False eng
+
+
 # 15 37 38 évap,  74,  only nom. and acc. sing., ὄναρ,  τό,  ΟΠΪΥ ποη]. δηᾶ δ.ο. 5ϊ]η5.
 ὄναρ, évap, True lex
 τό, 74, True form
@@ -113,10 +106,7 @@ mancy ΤΆΔΉΏΟΥ], False na
 ], αγέαΣ, False na
 dream, Ὁ151072. False eng
 vision. NA False eng
-# 20 20 20 ovelpara,  see Svap. ὀνείρατα,  566 ὄναρ.
-ὀνείρατα, ovelpara, True form
-see 566 False eng
-ὄναρ. Svap. True lex
+
 # 21 39 40 Svopa,  -aros, 76 (cp. yeyywoKw; cogn., ὄνομα,  -ατος,  τό [ςΡ. γιγνώσκω; οορῃ.»
 ὄνομα, Svopa, True pp
 -ατος, -aros, True pp
@@ -126,9 +116,9 @@ see 566 False eng
 cogn., οορῃ.» False na
 # 22 35 39 Lat. nOmen,  cOgndmen,  zame,  Eng. 1, Αἴ. Ὡδίηθη,  οὐσ ΟΠ 6Π,  "αη16,  ΕΠ.
 Lat. 1, False na
-nOmen, Αἴ. False na
-cOgndmen, Ὡδίηθη, False na
-zame, οὐσ False na
+nomen, Αἴ. False na
+cognomen, Ὡδίηθη, False na
+name, οὐσ False na
 Eng. ΟΠ False na
 # 23 31 33 name; bor.,  Eng. onomatopoeia, ΏΔΠΙΘ; ὕοτ.,  ΕὩρ. Οποπιδίοροοϊδ,
 name; ΏΔΠΙΘ; False eng
@@ -143,15 +133,15 @@ pseudo- 8, False na
 nym, ὮΥΠῚ, False na
 synonym ΒΥΠΟΠΥΠ], False eng
 ], "4716, False na
-ame, , False eng
+name, , False eng
 fame, α»16, False eng
 as 85 False eng
 # 26 32 37 acc. of specification,  dy xame. 8.ο. οὗ βρεοἰϊβοαίϊοῃ,  ὧν 214 »7ρ26.
 acc. 8.ο. False eng
 of οὗ False eng
 specification, βρεοἰϊβοαίϊοῃ, False eng
-dy ὧν False eng
-xame. 214 False na
+by ὧν False eng
+name. 214 False na
 # 27 39 43 Svos,  -ov [cogn.,  Lat. asinus,  ass], ὄνος,  -ου [οορῃ.,  1, δἱ. 881η1:18,  “5:7,
 ὄνος, Svos, True lex
 -ου -ov True pp
@@ -166,7 +156,7 @@ donkey; αορμξεν, False eng
 ἀλέτης, adérns, True lex
 upper τῥέγ False eng
 # 29 36 37 mitistone,  turned by ass power on a »ε ὐείογδ,  ᾿αστηεα ὈΥ ἃ55 ρον ῦ οἱ ἃ
-mitistone, »ε False na
+millstone, »ε False na
 turned ὐείογδ, False eng
 by ᾿αστηεα False eng
 ass ὈΥ False eng
@@ -177,10 +167,7 @@ a ῦ False eng
 lower Ἰοὺ False eng
 stationary βίδιϊ False eng
 millstone. ΟΠ False eng
-# 31 16 16 dura,  see elul. ὄντα,  566 εἰμί.
-dura, ὄντα, False eng
-see 566 False eng
-elul. εἰμί. False eng
+
 # 32 45 46 dfos,  -ous,  76 [dévs,  sharp,  sour; cogn., ὄξος,  -ους,  τό [ὀξύς,  «λαγ,  5017,  σΟΡΉ, ,
 ὄξος, dfos, True lex
 -ους, -ous, True pp
@@ -195,7 +182,7 @@ acer, ἃσοσ, False eng
 sharp, “ἦα, False eng
 acétum, δοδίιπι, False na
 vinegar υἱηφραν False eng
-,; Ὁ; False na
+; Ὁ; False na
 # 34 36 38 bor.,  Eng. oxygen,  oxytone],  sour ΡῬοΥ.,  Εηρσ. ΟΧΥβΘΏ,  ΟΧΥΓΟΠΘ],  5027
 bor., ΡῬοΥ., False eng
 Eng. Εηρσ. False na
@@ -204,10 +191,7 @@ oxytone], ΟΧΥΓΟΠΘ], False eng
 sour 5027 False eng
 # 35 5 7 wine. τυϊ716.
 wine. τυϊ716. False eng
-# 36 18 17 Strep,  see Sorep. ὅπερ,  Ξεε ὅσπερ.
-ὅπερ, Strep, True form
-see Ξεε False eng
-ὅσπερ. Sorep. True lex
+
 # 37 36 38 Sry [77,  how? where ?],  rel. adv., ὅπῃ [πῇ,  ἄοτυ ἢ τυλεγό 27,  τα]. δάν.
 ὅπῃ Sry True lex
 [πῇ, [77, True lex
@@ -220,25 +204,25 @@ adv., τα]. False eng
 where, «υἦτγε, False eng
 wherever; τυλογενον False eng
 whither, , False eng
-τυληΐλον, whither- True pp
+whither- True pp
 # 39 36 48 soever,  in what direction,  of man- σοϑϑ7, ,  ἦγε τυλαΐ «“3]21;», ποἴον, ,  οὗ τχδῃ-
 soever, σοϑϑ7, False eng
 in , False eng
 what ἦγε False eng
 direction, τυλαΐ False eng
 of «“3]21;», False eng
-ποἴον, man- True pp
+man- True pp
 # 40 35 41 ner,  2% whatever way; 8ry Sbvatvro Π6Γ,  79 τυλαίευ εν,  τοαγ,  ὅπῃ δύναιντο
 ner, Π6Γ, False na
-2% 79 False na
+in 79 False na
 whatever τυλαίευ False eng
 way; εν, False eng
-8ry τοαγ, False na
 ὅπῃ Sbvatvro True lex
+δύναιντο
 # 41 35 34 TaxicTa,  as gueckly as they could, τάχιστα,  ας φηῖεξέν ας τάέν εοτα,
 τάχιστα, TaxicTa, True form
 as ας False eng
-gueckly φηῖεξέν False na
+quickly φηῖεξέν False na
 as ας False eng
 they τάέν False eng
 could, εοτα, False eng
@@ -253,7 +237,6 @@ behind, ὀελέγια, False eng
 from , False eng
 the Ὀορε False eng
 rear, τὲ False eng
-ot γεαν, False eng
 οἱ BricGev, True pp
 those ὄπισθεν, False eng
 in ζάοδε False eng
@@ -264,20 +247,14 @@ rear; γεαν; False eng
 ὄπισθεν, bricbev, True lex
 the {6 False eng
 rear, γεαγ, False eng
-els εἰς False eng
-# 45 6 7 Google (οορσίς
-Google (οορσίς False na
-# 46 10 10 XENOPHON’S ΧΕΝΟΡΗΟΝ᾿5
-XENOPHON’S ΧΕΝΟΡΗΟΝ᾿5 False na
-# 47 8 8 ANABASIS ΑΝΑΒΑΘΙΘ
-ANABASIS ΑΝΑΒΑΘΙΘ False na
+εἰς False eng
+
 # 48 40 45 rotmric bev,  behind,  backwards; éx Tov τοὔπισθεν,  δελίμα, ,  δαεξιυαγαῖΐς ,  ἐκ τοῦ
-rotmric τοὔπισθεν, False na
-δελίμα, bev, True pp
+τοὔπισθεν, False na
 behind, , False eng
 backwards; δαεξιυαγαῖΐς False eng
-éx , False na
 ἐκ Tov True lex
+τοῦ
 # 49 37 40 bmricOev,  behind,  in the rear; with ὄπισθεν,  ὀελίρμα, ,  ὧγ τὼ 6 γεαγ,  νἱἢ
 ὄπισθεν, bmricOev, True lex
 behind, ὀελίρμα, False eng
@@ -291,11 +268,9 @@ behind. δελῖηα, False eng
 # 51 39 36 oma boduAakla,  wricbogurdxne a,  [dmt- ὀπισθοφυλακέω,  ὠπισθοφυλάκησα [ὁπι-
 ὀπισθοφυλακέω, oma True pp
 ὠπισθοφυλάκησα boduAakla, True pp
-wricbogurdxne [ὁπι- False na
-a, NA False eng
-[dmt- NA False na
+[ὀπι- False na
 # 52 36 38 cboptraé ],  compose the rear guard, σθοφύλαξ 7,  εονεῤοςε Ζῴ6 γεαν ρπατγι,
-cboptraé σθοφύλαξ False na
+σθοφύλαξ False na
 ], 7, False na
 compose εονεῤοςε False eng
 the Ζῴ6 False eng
@@ -312,9 +287,9 @@ rear γέαν False eng
 # 54 6 6 guard. ΦμαγΩ,
 guard. ΦμαγΩ, False eng
 # 55 33 35 omaGopuvakla,  -ας [drisboptdat], ὑπισθοφυλακίᾶ,  -ας [ὀπισθοφύλαξ ],
-omaGopuvakla, ὑπισθοφυλακίᾶ, False na
+ὀπισθοφυλακίᾶ, False na
 -ας -ας False na
-[ὀπισθοφύλαξ [drisboptdat], True lex
+[ὀπισθοφύλαξ], [drisboptdat], True lex
 # 56 26 30 command of the rear guard, εο»ρεη γε οΥ 166 γέα7 ρ44᾽ αἱ,
 command εο»ρεη False eng
 of γε False eng
@@ -323,13 +298,13 @@ rear 166 False eng
 guard, γέα7 False eng
 # 57 39 38 omurOodpiAak,  -axos,  6 [Sricbev,  du- ὀπισθοφύλαξ,  -ακος,  ὁ [ὄπισθεν,  φυ-
 ὀπισθοφύλαξ, omurOodpiAak, True lex
--axos, -ακος, False na
+-ακος, False na
 ὁ 6 True lex
 [ὄπισθεν, [Sricbev, True lex
-du- φυ- False na
+φυ- False na
 # 58 33 38 AdtTw,  guard),  one guarding the λάττω,  ρμαγα1),  0716 ρα7 αἰλγιρ Ζὴ}ε
 λάττω, AdtTw, True pp
-guard), ρμαγα1), False eng
+guard], ρμαγα1), False eng
 one 0716 False eng
 guarding ρα7 False eng
 the αἰλγιρ False eng
@@ -339,7 +314,7 @@ pl., Ὁ]., False eng
 rear γέε47 False eng
 guard, ρμαγα, False eng
 rear; γέΩ7, False eng
-aS ἃ5 False na
+as ἃ5 False na
 an ΔῈ False eng
 # 60 25 26 adj.,  of the rear guard, 84].,  οὗ τε γεα» ρπμαγώά,
 adj., 84]., False eng
@@ -379,11 +354,11 @@ hoplite. αμπίγγριαμ, False eng
 See λοῤῥϊίε. False na
 Introd. 866. False na
 # 68 11 11 §§ 56,  58. δὲ 56,  58.
-δὲ §§ True form
+§§ True form
 56, 56, False na
 58. 58. False na
 # 69 42 44 omAirucds,  -η,  -6» [érdtrns],  of or de- ὁπλῖϊτικός,  -ή,  -όν [ὁπλίτης],  977 οἵ δε-
-omAirucds, ὁπλῖϊτικός, False na
+ὁπλιτικός, False na
 -ή, -η, True pp
 -όν -6» True pp
 [ὁπλίτης], [érdtrns], True lex
@@ -401,12 +376,12 @@ subst., βυιυῦϑί., False eng
 hoplite λοῤῥϊίε False eng
 division. αἴνῖξῖο72:. False eng
 # 72 32 33 OTAopaxla,  -ας [8rdov,  pdxoua, ὁπλομαχίᾶ,  -ας [ὅπλον,  μάχομαι,
-OTAopaxla, ὁπλομαχίᾶ, False na
+ὁπλομαχίᾶ, False na
 -ας -ας False na
 [ὅπλον, [8rdov, True pp
 μάχομαι, pdxoua, True pp
 # 73 33 30 Jight),  fighting in heavy armor, ͵Μούῆ,  πράξη τη ἄδαὺν ἀ»»207,
-Jight), ͵Μούῆ, False na
+fight), ͵Μούῆ, False na
 fighting πράξη False eng
 in τη False eng
 heavy ἄδαὺν False eng
@@ -421,11 +396,11 @@ fighting. βισάζέγιερ. False eng
 [bor., [Ὀοτ., False eng
 Eng. ΕὩρ. False na
 panoply], ῬΑΠΟΡΙΥ], False eng
-zoo/, Φοοΐ, False na
+tool, Φοοΐ, False na
 # 76 36 40 zmplement,; pl.,  tmplements of war, 271 δηεφρζ,  Ὁ].,  ἐγιέργηομς ο7 τυαῇ, ,
-zmplement,; 271 False na
+implement,; 271 False na
 pl., δηεφρζ, False eng
-tmplements Ὁ]., False na
+implements Ὁ]., False na
 of ἐγιέργηομς False eng
 war, ο7 False eng
 # 77 38 39 arms,  = owNirat,  hoplites,  111,  1; Ω715,  Ξε ὁπλῖται,  ἀοῤέϊέεδ,  ττῖ,  α;
@@ -451,25 +426,25 @@ encamp- ἐποδπὶρ- False na
 # 80 31 33 ment (see Introd. § 65); els ra Ιηθηΐ (866 [Ιηἰτοά. ὃ 65); εἰς τὰ
 ment Ιηθηΐ False eng
 (see (866 False eng
-[Ιηἰτοά. Introd. True pp
+Introd. True pp
 § ὃ False eng
 65); 65); False na
-els εἰς False eng
-ra τὰ False eng
+εἰς False eng
+τὰ False eng
 # 81 29 33 Srra,  Zo arms! rpéxew éwi Ta ὅπλα,  70 αγ77η5 } τρέχειν ἐπὶ τὰ
 ὅπλα, Srra, True pp
-Zo 70 False na
+to 70 False na
 arms! αγ77η5 False na
-rpéxew } False na
 τρέχειν éwi True form
 ἐπὶ Ta True form
+τὰ
 # 82 35 37 Srda,  run to arms; év rots &rdats, ὅπλα,  γΉ2 10 αγηῶδ,  ἐν τοῖς ὅπλοις,
 ὅπλα, Srda, True pp
 run γΉ2 False eng
 to 10 False eng
 arms; αγηῶδ, False eng
 ἐν év True lex
-rots τοῖς False eng
+τοῖς False eng
 ὅπλοις, &rdats, True form
 # 83 11 14 under arms. “6127 47, 795.
 under “6127 False eng
@@ -487,13 +462,13 @@ from τυζόηεο, False eng
 whatever 7 False eng
 place, γοῦν: False eng
 # 86 23 25 Jrom whatever division. 00»: τυλαΐευεν ἀϊυΐξῖο71.
-Jrom 00»: False na
+from 00»: False na
 whatever τυλαΐευεν False eng
 division. ἀϊυΐξῖο71. False eng
 # 87 38 41 Sow [cp. wot,  whither ?],  rel. adv., ὅποι [(Ρ. ποῖ,  τυλἼΤζάον 7],  τε]. δᾶν.,
 ὅποι Sow True lex
 [cp. [(Ρ. False eng
-wot, ποῖ, False eng
+ποῖ, False eng
 whither τυλἼΤζάον False eng
 ?], 7], False na
 rel. τε]. False eng
@@ -503,7 +478,7 @@ whither, «οὐδ, False eng
 where. τυἦό7εέ. False eng
 # 89 40 41 6totos,  -d,  -ov [cp. motos,  what sort ὁποῖος,  -ἅ,  -ον [(Ρ. ποῖος,  τυλαΐ :ογὲ
 ὁποῖος, 6totos, True lex
--d, -ἅ, False na
+-α, False na
 -ον -ov True pp
 [cp. [(Ρ. False eng
 ποῖος, motos, True lex
@@ -517,7 +492,7 @@ adj., τυὐαΐξ False eng
 what 5ογέ False eng
 sort οὗ, False eng
 of; ὁποῖόν False eng
-drotbv NA False na
+ὁποῖόν NA False na
 # 91 39 42 Tt,  whatever sort of thing,  whatever. τι,  τυπαΐξευῦ 50γί ο7 Ζἀλήγρ,  τυλαΐευεν.
 τι, Tt, True form
 whatever τυπαΐξευῦ False eng
