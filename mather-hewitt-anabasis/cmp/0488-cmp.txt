@@ -15,7 +15,7 @@ monarch (ἢς False eng
 or τλοπδγοῇ False eng
 overlord. οὐ False eng
 # 3 35 43 Gpod [gen. of dubs,  common,  same; ὁμοῦ [ρεη. οὗ ὁμός,  {07)17710721,  5Ω716 ,
-ὁμοῦ Gpod True lex
+ὁμοῦ Gpod True pp
 [gen. [ρεη. False eng
 of οὗ False eng
 dubs, ὁμός, False eng
@@ -43,7 +43,7 @@ same φαϑιδ False eng
 # 7 36 38 time,  dpot elvat,  meet,  with gen. ζΖῖγ16, ,  ὁμοῦ εἶναι,  γερο,  ΜῊ ρέῃ.
 time, ζΖῖγ16, False eng
 dpot , False na
-ὁμοῦ elvat, True lex
+ὁμοῦ elvat, True pp
 meet, εἶναι, False eng
 with γερο, False eng
 gen. ΜῊ False eng
@@ -63,7 +63,7 @@ navel. NA False eng
 common, 40)»1}}}071, False eng
 same, δα716, False eng
 see 5866 False eng
-ὁμοῦ], dspod), True lex
+ὁμοῦ], dspod), True pp
 # 11 44 46 conj.,  zevertheless,  all the same,  still, οοη]).,  πευεγζλοίφδς,  αὐξ ζὴε σαη26,  οὐ ἐῤ,
 conj., οοη])., False eng
 zevertheless, πευεγζλοίφδς, False na
@@ -118,7 +118,7 @@ vision. NA False eng
 see 566 False eng
 ὄναρ. Svap. True lex
 # 21 39 40 Svopa,  -aros, 76 (cp. yeyywoKw; cogn., ὄνομα,  -ατος,  τό [ςΡ. γιγνώσκω; οορῃ.»
-ὄνομα, Svopa, True lex
+ὄνομα, Svopa, True pp
 -ατος, -aros, True pp
 τό 76 True form
 (cp. [ςΡ. False eng
@@ -273,7 +273,7 @@ XENOPHON’S ΧΕΝΟΡΗΟΝ᾿5 False na
 ANABASIS ΑΝΑΒΑΘΙΘ False na
 # 48 40 45 rotmric bev,  behind,  backwards; éx Tov τοὔπισθεν,  δελίμα, ,  δαεξιυαγαῖΐς ,  ἐκ τοῦ
 rotmric τοὔπισθεν, False na
-bev, δελίμα, False na
+δελίμα, bev, True pp
 behind, , False eng
 backwards; δαεξιυαγαῖΐς False eng
 éx , False na
@@ -451,20 +451,20 @@ encamp- ἐποδπὶρ- False na
 # 80 31 33 ment (see Introd. § 65); els ra Ιηθηΐ (866 [Ιηἰτοά. ὃ 65); εἰς τὰ
 ment Ιηθηΐ False eng
 (see (866 False eng
-Introd. [Ιηἰτοά. False na
+[Ιηἰτοά. Introd. True pp
 § ὃ False eng
 65); 65); False na
 els εἰς False eng
 ra τὰ False eng
 # 81 29 33 Srra,  Zo arms! rpéxew éwi Ta ὅπλα,  70 αγ77η5 } τρέχειν ἐπὶ τὰ
-ὅπλα, Srra, True form
+ὅπλα, Srra, True pp
 Zo 70 False na
 arms! αγ77η5 False na
 rpéxew } False na
 τρέχειν éwi True form
 ἐπὶ Ta True form
 # 82 35 37 Srda,  run to arms; év rots &rdats, ὅπλα,  γΉ2 10 αγηῶδ,  ἐν τοῖς ὅπλοις,
-ὅπλα, Srda, True form
+ὅπλα, Srda, True pp
 run γΉ2 False eng
 to 10 False eng
 arms; αγηῶδ, False eng

@@ -1,10 +1,9 @@
-# 0 3 3 474 474
-474 474 False na
+
 # 1 35 38 Sev (8s + -Oev,  from],  rel. adv., ὅθεν ([ὅς { -θεν,  , γο».},  τε]. δέν,
 ὅθεν Sev True lex
-([ὅς (8s True lex
+[ὅς (8s True lex
 + { False na
--Oev, -θεν, False na
+-θεν, False na
 from], , False eng
 rel. γο».}, False eng
 adv., τε]. False eng
@@ -16,7 +15,7 @@ from ζονε False eng
 whom. τουλορ. False eng
 # 3 36 39 SOevwep [dev + intensive wép],  rel. ὅθενπερ [ὅθεν -- ᾿ἰυϊεηϑῖνε πέρ],  τεὶ.
 ὅθενπερ SOevwep True lem
-[dev [ὅθεν False eng
+[ὅθεν False eng
 + -- False na
 intensive ᾿ἰυϊεηϑῖνε False eng
 πέρ], wép], True form
@@ -34,12 +33,12 @@ place ῥίμες False eng
 from γον False eng
 which. τυλίελ. False eng
 # 6 41 39 ol,  enclitic,  reflexive pron.,  see ob. οἷ,  ἐποὶῖῖς,  τεἤεχῖνε ργοῃ.,  566 οὗ.
-ol, οἷ, False eng
+οἷ, False eng
 enclitic, ἐποὶῖῖς, False eng
 reflexive τεἤεχῖνε False eng
 pron., ργοῃ., False eng
 see 566 False eng
-ob. οὗ. False eng
+οὗ. False eng
 # 7 38 39 ol$a,  2 pf. with pres. meaning,  fut. οἶδα,  2 μί. ψἼΠ Ρῥτοβ. πιδαπίηρ,  [αῖ.
 οἶδα, ol$a, True lex
 2 2 False na
@@ -51,37 +50,37 @@ fut. [αῖ. False eng
 # 8 40 41 eCoopat,  plupf. 9597 and jédev as impf. εἴσομαι,  μἱυρί. ἤδη ἀπε ἤδειν ἃ5 ᾿τπηρί,
 εἴσομαι, eCoopat, True pp
 plupf. μἱυρί. False eng
-ἤδη 9597 True lex
+ᾔδη 9597 True lex
 and ἀπε False eng
-jédev ἤδειν False na
+ᾔδειν False na
 as ἃ5 False eng
 impf. ᾿τπηρί, False eng
 # 9 35 35 [root ¢8,  whence eldow (sce dpdw), [τουΐ ειδ,  Ποπος εἶδον (5εε ὁράω),
 [root [τουΐ False eng
-¢8, ειδ, False na
+ϝιδ, ειδ, False na
 whence Ποπος False eng
 εἶδον eldow True pp
-(sce (5εε False na
+(see (5εε False na
 ὁράω), dpdw), True pp
 # 10 36 44 saw,  cogn,  Lat. vided,  see,  Eng. “ατὸ,  εοὐμρη.,  [, 4Αἴ. γἱἀδῦ,  :-ἐε,  Επρ.
 saw, “ατὸ, False eng
 cogn, εοὐμρη., False na
 Lat. [, False na
-vided, 4Αἴ. False na
+video, 4Αἴ. False na
 see, γἱἀδῦ, False eng
 Eng. :-ἐε, False na
 # 11 34 36 wit,  wise,  old Eng. wot],  4noz, ψὶῖ,  ψν ἰ86,  οἷ Επρ. ψοί],  ἔμοιυ,
 wit, ψὶῖ, False eng
 wise, ψν False eng
 old ἰ86, False eng
-οἷ Eng. True lem
+Eng. True lem
 wot], Επρ. False eng
-4noz, ψοί], False na
+know, ψοί], False na
 # 12 38 39 understand,  with acc.,  6rs,  nom. or :»1ωγ τα μα,  ΜῊ δος, ,  ὅτι,  ΠΟΙ. ΟΥ̓
 understand, :»1ωγ False eng
 with τα False eng
 acc., μα, False eng
-6rs, ΜῊ False na
+ὅτι, ΜῊ False na
 nom. δος, False eng
 or , False eng
 # 13 34 37 acc. ptc.,  indir. question; xdpiy δις. Ρῖς.,  ᾿πιΠ|τ,  αηπδβίίοη; χάριν
@@ -111,11 +110,8 @@ actual ἀεέμας False eng
 knowledge, ᾿μοιυέράρε, False eng
 # 17 7 7 83,  7- 83,  7.
 83, 83, False na
-7- 7. False na
-# 18 17 18 ole,  see ofouat, οἴει,  566 οἴομαι.
-ole, οἴει, False eng
-see 566 False eng
-οἴομαι. ofouat, True pp
+7. False na
+
 # 19 29 30 otxade [olxos + -de,  -ward], οἴκαδε [οἶκος { -δε,  -τὐαγ4],
 οἴκαδε otxade True lex
 [οἶκος [olxos True lex
@@ -141,7 +137,7 @@ intimate. τρζρεαίξ. False eng
 pl. ὈΪ. False eng
 as ἃ5 False eng
 subst., βιιρϑῖ., False eng
-&z2smen, ἔξ, False na
+kinsmen, ἔξ, False na
 relatives. » False eng
 # 24 39 41 olkérns,  -ou [olxos],  member of one’s οἰκέτης,  -ου [οἶκος],  γιεγεόέν οΥ ομεἷς
 οἰκέτης, olkérns, True lex
@@ -166,7 +162,7 @@ bor., Ὀοτ., False eng
 Eng. Επρ. False na
 # 28 30 34 ecumenical] (ave one’s house), ΘΟ π16η1041}] (ἀατνε ογιες ἀοιδε),
 ecumenical] ΘΟ False eng
-(ave π16η1041}] False eng
+(have π16η1041}] False eng
 one’s (ἀατνε False na
 house), ογιες False eng
 # 29 37 36 live,  live in,  inhabit,  with acc.; ἐΐνε,; ἔνε ἐμ,  ἐμάαῤΊἧέ,  ψιἢ δος.;
@@ -225,14 +221,14 @@ build. ὀτεῖώ. False eng
 οἴκοθεν otxoBev True lex
 [οἶκος [olxos True lex
 + - False na
--Oerv, -θεν, False na
+-θεν, False na
 from], 290», False eng
 adv., δάν., False eng
 # 40 10 11 from home. 7ρορρε λον.
 from 7ρορρε False eng
 home. λον. False eng
 # 41 40 44 oto [olxos],  adv.,  at home,  ol ofkot, οἴκοι [οἶκος],  δΔἦήν.,  αΖ λον»,  οἱ οἴκοι,
-oto οἴκοι False eng
+οἴκοι False eng
 [οἶκος], [olxos], True lex
 adv., δΔἦήν., False eng
 at αΖ False eng
@@ -244,7 +240,7 @@ the ἐλε False eng
 people 2εοῤίο False eng
 at αἱ False eng
 home, ἄοπιθ, False eng
-rd τὰ False eng
+τὰ False eng
 οἴκοι, otxot, True lex
 life {172 False eng
 at αἱ False eng
@@ -255,17 +251,11 @@ home. ἀο»16. False eng
 -ου -ov True pp
 [οἶκος, [olxos, True lex
 νέμω, véuw, True pp
-distribuce, 492151γ False na
+distribute, 492151γ False na
 # 45 5 6 adv., δάν, ,
 adv., δάν, False eng
-# 46 6 8 Google (αΘοορίς
-Google (αΘοορίς False na
-# 47 7 6 Masc. | Μδ5ς.!
-Masc. Μδ5ς.! False na
-| NA False na
-# 48 19 19 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙΘ5
-XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΑΝΑΒΑΘΙΘ5 False na
+
+
 # 49 30 36 manage; bor.,  Eng. economics, "»παμαᾶρε,; Ὅοτ.,  Επηρσ. ΘΟΟΠΟΣΙΟΒ,
 manage; "»παμαᾶρε,; False eng
 bor., Ὅοτ., False eng
@@ -283,7 +273,7 @@ manager. πια»εαρε. False eng
 [cogn., [ςορῃ., False na
 Lat. [, False na
 vicus, Δἱ. False eng
-vz/lage, νἱοῦ8, False na
+village, νἱοῦ8, False na
 # 52 30 31 Eng. -wick,  -wich in names of Επσ. -ὙἱοΚ,  - 108 ἴπ πᾶῖηθ5 οὗ
 Eng. Επσ. False na
 -wick, -ὙἱοΚ, False na
@@ -297,19 +287,16 @@ as ἃ85 False eng
 Berwick, ΒΟΣΧΙΊΟΚ, False na
 Ipswich [ΡΒ False na
 ], 108, False na
-Zouse, ἀοτε, False na
+house, ἀοτε, False na
 # 54 5 6 home. Δονμέ.
 home. Δονμέ. False eng
 # 55 40 39 olxrtpe,  gxripa [olkros,  pity],  pity. οἰκτέρω,  ᾧκτίρα [οἶκτος,  212}},  21».
-οἰκτέρω, olxrtpe, True pp
-gxripa ᾧκτίρα False na
+οἰκτίρω, olxrtpe, True pp
+ᾧκτίρα False na
 [οἶκτος, [olkros, True pp
 pity], 212}}, False eng
 pity. 21». False eng
-# 56 19 20 olpas,  see ofopat. οἶμαι,  5εἜε οἴομαι.
-οἶμαι, olpas, True pp
-see 5εἜε False eng
-οἴομαι. ofopat. True pp
+
 # 57 39 43 olvos,  -ov [cogn.,  Lat. vinum,  wine, οἶνος,  -ου [οὐρῃ.,  [, Δἷ. γἱππι,  τυΐγις,
 οἶνος, olvos, True lex
 -ου -ov True pp
@@ -321,9 +308,8 @@ wine, γἱππι, False eng
 whence Ψ False eng
 is ΏδΏΟΘ False eng
 bor. 15 False eng
-Eng. θοῦ. False na
 wine], Επηρ. False eng
-weve. Ψ|1Π6], False eng
+wine. Ψ|1Π6], False eng
 # 59 42 45 olvoxdos,  -ot [olvos,  xéw,  pour],  wine οἰνοχόος,  -ου [οἶνος,  χέω,  20:47],  τοῖ»:δ
 οἰνοχόος, olvoxdos, True lex
 -ου -ot True pp
@@ -338,14 +324,14 @@ cupbearer. σεῤόεανε». False eng
 οἴομαι ofopat True pp
 and Δηὰ False eng
 οἶμαι, olpar, True pp
-οἱἰήσομαι, olfcopar, True pp
+οἰήσομαι, olfcopar, True pp
 φήθην, giOnp, True pp
 # 62 39 39 suppose,  think,  fancy,  Lat. opinoer. σπμῤῥοσο,  ἐλέρμξ,  απο,  1Δῖ. οῤξῖηον.
 suppose, σπμῤῥοσο, False eng
 think, ἐλέρμξ, False eng
 fancy, απο, False eng
 Lat. 1Δῖ. False na
-οῤξῖηον. opinoer. True pp
+opinor. True pp
 # 63 43 45 olos,  -d,  -ov [cp. motos,  what sort of], οἷος,  -α,  -ον [(ρ. ποῖος,  τυλαέ 5:ογέ 977,
 οἷος, olos, True lex
 -α, -d, True pp
@@ -381,7 +367,7 @@ with ΜῈ False eng
 inf., ἱπί., False eng
 116, 116, False na
 23; 23; False na
-im 1 False eng
+in 1 False eng
 indir. πα False na
 ques- ϊγ. False na
 # 68 43 45 tions,  of what sort,  what sort of,  what, []οἢ5,  ογευλαΐ 50γ 1,  τυλαξ ςογ οὐ,  τολαΐ,
@@ -396,11 +382,11 @@ what, τολαΐ, False eng
 # 69 41 45 év olocs,  22 what straits; ol6y re (with ἐν οἵοις,  ἐ»: τυλαΐ εἴγαΐίς, ,  οἷόν τε (τ ἢ
 ἐν év True lex
 οἵοις, olocs, True form
-22 ἐ»: False na
+in ἐ»: False na
 what τυλαΐ False eng
 straits; εἴγαΐίς, False eng
-ol6y , False na
-re οἷόν False eng
+οἷόν , False na
+τε οἷόν False eng
 (with τε False eng
 # 70 39 40 or without a form of ée7rf),  i ts pos- οὐ Ψ|Πουΐ ἃ ἔοτγτῃ οἱ ἐστί),  ἐξ ἐς 20:-
 or οὐ False eng
@@ -409,36 +395,35 @@ a ἃ False eng
 form ἔοτγτῃ False eng
 of οἱ False eng
 ἐστί), ée7rf), True form
-i ἐξ False eng
-ts ἐς False eng
+it ἐξ False eng
+is ἐς False eng
 pos- 20:- False na
 # 71 37 33 sible,  with inf.; ws oldv re pdrsora σός,  ΜῊ ἱπξ,; ὡς οἷόν τε μάλιστα
-σός, sible, True lex
+sible, True lex
 with ΜῊ False eng
 inf.; ἱπξ,; False eng
-ws ὡς False eng
+ὡς False eng
 οἷόν oldv True form
-re τε False eng
+τε False eng
 μάλιστα pdrsora True lex
 # 72 32 33 oo QS... aS possible,  124,  173 ... ΩΣ. ος ΩΣ 2οτείόίο,  124. 17;
-oo ... False na
-QS... ΩΣ. False na
-aS ος False na
+ ... False na
+as... ΩΣ.alse na
 possible, ΩΣ False eng
 124, 2οτείόίο, False na
-173 124. False na
+17; 124. False na
 # 73 35 34 strengthening a sup.,  olov yaderw- ΒίΓΘὨΡΊΠΘΏΪηρ ἃ 500.» οἷον χαλεπώ-
 strengthening ΒίΓΘὨΡΊΠΘΏΪηρ False eng
 a ἃ False eng
 sup., 500.» False eng
 οἷον olov True pp
-yaderw- χαλεπώ- False na
+χαλεπώ- False na
 # 74 36 36 tatov,  as imaccessible as posstble. τατον,  ας ἱμακεξεεῖδές ἂς 2οϑεϊόέσ,
 τατον, tatov, True pp
 as ας False eng
-ἱμακεξεεῖδές imaccessible True pp
+inaccessible True pp
 as ἂς False eng
-posstble. 2οϑεϊόέσ, False na
+possible. 2οϑεϊόέσ, False na
 # 75 37 37 Neut. acc. as adv.,  as,  with causal Ναυῖΐῖ,  δος. 45 δάν.,  ας,  ἢ οδυΞ8]
 Neut. Ναυῖΐῖ, False na
 acc. δος. False eng
@@ -449,16 +434,16 @@ with ἢ False eng
 causal οδυΞ8] False eng
 # 76 15 16 ptc.,  decause. Ῥίο.,  ὀσεα 456.
 ptc., Ῥίο., False na
-decause. ὀσεα False na
+because. ὀσεα False na
 # 77 41 42 oléomep,  olarep,  oldvrep [olos + inten- οἷόσπερ,  οἵάπερ,  οἷόνπερ [οἷος -ἰ ἰπῖδη-
 οἷόσπερ, oléomep, True form
-olarep, οἵάπερ, False na
+οἵάπερ, False na
 οἷόνπερ oldvrep True lex
 [οἷος [olos True lex
 + -ἰ False na
 inten- ἰπῖδη- False na
 # 78 36 35 sive wép],  rel. adj.,  more precise βίνα πέρ]. τε. δά).,  τῆογε ργϑοῖϑα
-sive βίνα False na
+sive True pp
 πέρ]. wép], True form
 rel. τε. False eng
 adj., δά)., False eng
@@ -470,13 +455,10 @@ than [μη False eng
 just 7.451 False eng
 such δ:εεἦ False eng
 as. ας. False eng
-# 80 19 18 otov,  see ofopuat. οἵον,  566 οἴομαι.
-οἵον, otov, True pp
-see 566 False eng
-οἴομαι. ofopuat. True pp
+
 # 81 42 45 ols,  olds,  4 [cogn.,  Lat. ovis,  sheep, οἷς,  οἷός,  ἡ [οορῃ.,  [, , ϊ. οΥἶ8,  σἀεεῤ,
 οἷς, ols, True form
-olds, οἷός, False eng
+οἰός, False eng
 ἡ 4 True case
 [cogn., [οορῃ., False na
 Lat. [, False na
@@ -486,28 +468,22 @@ sheep, ϊ. False eng
 Eng. ΕὩρ. False na
 ewe], 6Υ7681, False eng
 sheep. τἀδέ. False eng
-# 83 16 17 otoe,  see dépw. οἴσει,  Ξε6 φέρω.
-οἴσει, otoe, True form
-see Ξε6 False eng
-φέρω. dépw. True pp
-# 84 17 18 oloOa,  see olda. οἶσθα,  56ἐε οἶδα.
-οἶσθα, oloOa, True form
-see 56ἐε False eng
-οἶδα. olda. True lex
+
+
 # 85 40 38 olotrds,  -ol,  arrow. Rare in Attic for οἱστός,  -ου,  αγγοτυ. Ἔδτο ἴῃ Αἰς ἔοζ
-olotrds, οἱστός, False na
--ου, -ol, True pp
+οἱστός, False na
+-οῦ, -ol, True pp
 arrow. αγγοτυ. False eng
 Rare Ἔδτο False na
 in ἴῃ False eng
 Attic Αἰς False na
-for ἔοζ False eng
+for ἔ\οζ False eng
 # 86 8 9 rétevua. τόξευμα.;
-τόξευμα.; rétevua. True lex
+τόξευμα.; rétevua. True pp
 # 87 41 42 Olratos,  -ov,  Ocfacan,  a native of the Οἰταῖος,  -ου,  Οεέαεαηι,  ἃ παῖϊϊνε οὗ 86
 Οἰταῖος, Olratos, True lex
 -ου, -ov, True pp
-Ocfacan, Οεέαεαηι, False na
+Oetaean, Οεέαεαηι, False na
 a ἃ False eng
 native παῖϊϊνε False eng
 of οὗ False eng

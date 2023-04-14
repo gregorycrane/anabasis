@@ -1,11 +1,10 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+
 # 1 33 33 from 485 to 465 B.c.,  best known ἴτοτῃ 48ς ἴο 46ς Β..,  θεβέ Κπονη
 from ἴτοτῃ False eng
 485 48ς False na
 to ἴο False eng
 465 46ς False na
-B.c., Β.., False na
+B.C., Β.., False na
 best θεβέ False eng
 known Κπονη False eng
 # 2 38 37 for his ill-starred expedition against ἴον δ15 1}1-ϑἰαττεὰ Ἄχρβαϊίοῃ ἀραϊηϑί
@@ -19,7 +18,7 @@ Greece ατεεςοε False na
 in ἴῃ False eng
 480-479. 480-479. False na
 # 4 43 42 fears,  -7),  -6v (verbal of féw,  polish), ξεστός,  -ή,  -όν (νετῦα] οὗ ξέω,  2ο 51),
-fears, ξεστός, False eng
+ξεστός, False eng
 -ή, -7), True pp
 -όν -6v True pp
 (verbal (νετῦα] False eng
@@ -31,15 +30,15 @@ polished. 2οἝελεά. False eng
 # 6 38 39 Enpalvo,  Enpava,  éfjpava,  é&jpacpa, ξηραίνω,  ξηρανῶ,  ἐξήρᾶνα,  ἐξήρασμαι,
 ξηραίνω, Enpalvo, True pp
 ξηρανῶ, Enpava, True pp
-éfjpava, ἐξήρᾶνα, False na
+ἐξήρᾶνα, éfjpava, True pp
 ἐξήρασμαι, é&jpacpa, True pp
 # 7 24 24 éEnpdvOnv [Enpds],  ary. ἐξηράνθην [ξηρός],  477.
 ἐξηράνθην éEnpdvOnv True pp
 [ξηρός], [Enpds], True lex
-ary. 477. False eng
+dry. 477. False eng
 # 8 23 24 Enpés,  -d,  -dv,  dry. ξηρός,  -ά,  -όν,  ὦ)77.
 ξηρός, Enpés, True lex
--d, -ά, False na
+-ά, False na
 -όν, -dv, True pp
 dry. ὦ)77. False eng
 # 9 39 42 Elhos,  -ouvs,  76,  sword. See Introd. ξίφος,  -ους,  τό,  στυογά,  866 [Ιηϊτοίή.
@@ -58,10 +57,10 @@ Figs. ΕἸΡ5. False na
 39, 39, False na
 pp. ΡΡ. False eng
 55, 55» False na
-III. 111. False na
+111. False na
 # 11 41 40 Evfirn,  -ns [fvw,  scrape,  cp. tecrds], ξνήλη,  -η: [ξύω,  σεγαῤέ,  “Ρ. ξεστός],
-Evfirn, ξνήλη, False na
--ns -η: False na
+ξυήλη, False na
+-ης: False na
 [ξύω, [fvw, True pp
 scrape, σεγαῤέ, False eng
 cp. “Ρ. False eng
@@ -80,7 +79,7 @@ gather ραζάε) False eng
 wood. τυοοί, False eng
 # 14 36 39 EdAwos,  -η,  -ov [fvrov],  of wood, ξύλινος,  -ή,  -ον [ξύλον],  ο77 τυοοώ,
 ξύλινος, EdAwos, True lex
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [ξύλον], [fvrov], True pp
 of ο77 False eng
@@ -101,15 +100,15 @@ wood, τυοοῦ, False eng
 firewood, Μγειυοο; False eng
 # 18 8 9 timbers. ζ1γιδέ7:.
 timbers. ζ1γιδέ7:. False eng
-# 19 1 1 O Ο
-O Ο False na
+
+
 # 20 47 45 6,  7,  76,  definite article,  ¢he; originally ὁ,  ἡ,  τό,  ἀεβηῖϊίε γίϊοϊς,  ἐᾷς,  οτἱ ρίαν
 ὁ, 6, True lex
 ἡ, 7, True case
 τό, 76, True form
 definite ἀεβηῖϊίε False eng
 article, γίϊοϊς, False eng
-ἐᾷς, ¢he; True form
+the; True form
 originally οτἱ False eng
 # 21 36 36 a dem. pron.,  the force of which is ἃ ἄξια. ργοῃ.,  ἴῃ οτος οἵ ννῃϊ ἢ 15
 a ἃ False eng
@@ -125,31 +124,32 @@ to ἴο False eng
 some βοπια False eng
 degree ἀερταα False eng
 retained τγεϊαϊηδα False eng
-ino ἴῃ False eng
+in ἴῃ False eng
 ὁ pev... True lex
+μὲν...
 # 23 37 39 6 54,  one... the other,  ol pev...oi ὁ δέ,  ο:6.... 166 οἱἦξ᾽,  οἱ μὲν... οἱ
 ὁ 6 True lex
 δέ, 54, True lex
 one... ο:6.... False eng
 the 166 False eng
 other, οἱἦξ᾽, False eng
-ol οἱ False eng
-μὲν... pev...oi True form
+οἱ False eng
+μὲν...οἱ pev...oi True form
 # 24 34 37 dé,  some... others,  Ta pev... Ta δέ,  507, 16... οἵδόγε,  τὰ μὲν... τὰ
 δέ, dé, True lex
 some... 507, False eng
 others, 16... False eng
-Ta οἵδόγε, False na
 τὰ pev... True form
 μὲν... Ta True form
+τὰ
 # 25 34 37 dé,  mow... now,  TH pev... TH 56, δέ,  πστο ... μοῖυ,  τῇ μὲν... τῇ δέ,
 δέ, dé, True lex
-mow... πστο False eng
+now... πστο False eng
 now, ... False eng
-TH μοῖυ, False na
 τῇ pev... True lex
 μὲν... TH True form
 τῇ 56, True lex
+δέ,
 # 26 35 39 in one respect... in another,  here 22 Ο716 γερῤέεέ. .. ἦη αροΐδεγ,  λἀέ7γέ
 in 22 False eng
 one Ο716 False eng
@@ -158,13 +158,12 @@ in .. False eng
 another, ἦη False eng
 here αροΐδεγ, False eng
 # 27 37 39 .. . ¢here,  and in 6 dé without pre- .... ἥήεγε,  ἀπιὰ ἴῃ ὁ δέ νιτποαυΐ ῥτο-
-.. .... False na
-. ἥήεγε, False na
-¢here, ἀπιὰ False na
+... False na
+there, ἀπιὰ False na
 and ἴῃ False eng
-in ὁ False eng
+in 
+ὁ False eng
 δέ 6 True lex
-dé νιτποαυΐ False na
 without ῥτο- False eng
 pre- NA False na
 # 28 33 36 ceding péy,  indicating change of Ἑοεαϊηρ μέν,  Ἰπαϊοαίίηρ οσἤδηρσε οἵ
@@ -179,7 +178,7 @@ and σημα False eng
 he, ἦε, False eng
 but ὀπμέ False eng
 he, ἄσ, False eng
-ol οἱ False eng
+οἱ False eng
 δέ, 5é, True lex
 but ὀμέ False eng
 # 30 38 41 they,  and some,  also without follow- ζάεν,  ἀγα 50»916,  4150 Μὶτπουϊ ἕο] ον -
@@ -192,7 +191,7 @@ follow- ἕο] False na
 # 31 43 44 ing 5é,  ol uév,  they,  TA pév,  some,  Ta ἱηρ᾽ δέ,  οἱ μέν,  {12»,  τὰ μέν,  5016,  τὰ
 ing ἱηρ᾽ False eng
 δέ, 5é, True lex
-ol οἱ False eng
+οἱ False eng
 μέν, uév, True lex
 they, {12», False eng
 τὰ TA True form
@@ -206,6 +205,8 @@ he ἀε False eng
 received γεεεῖνεα False eng
 some 50»»16 False eng
 wounds, τυοτέ»αῖς, False eng
+
+
 # 33 34 34 The use of the definite article in Τῆς υϑ8ὲ οὗ [πε ἀεβηϊζε ἀγίϊοὶα ἴῃ
 The Τῆς False na
 use υϑ8ὲ False eng
@@ -287,13 +288,9 @@ Eng. {Π6 False na
 usage, Επρ. False eng
 as ἀϑᾶρα, False eng
 with ἃ5. False eng
-# 45 6 8 Google (Θοορσίς
-Google (Θοορσίς False na
-# 46 3 3 473 473
-473 473 False na
+
 # 47 36 37 wpeo BUTEpos,  51,  2; so with names πρεσβύτερος,  51,  2; 50 ννἱζἢ πδηγδ5
 πρεσβύτερος, wpeo True form
-BUTEpos, 51, False na
 51, 2; False na
 2; 50 False na
 so ννἱζἢ False eng
@@ -323,7 +320,7 @@ Other Οὐδὲν False na
 noteworthy ποϊοννογίῃν False eng
 uses 5605 False eng
 are: ἅτ: False eng
-forthe ἴοσ False na
+for the ἴοσ False na
 # 52 33 36 possessive pron. when the context Ῥοβδβεβϑῖνα ὑγοῃ. ψγνἤεη ἴῃς οὐπίοχί
 possessive Ῥοβδβεβϑῖνα False eng
 pron. ὑγοῃ. False eng
@@ -337,11 +334,10 @@ clear; 1ἴ False eng
 the οἷεαῦ; False eng
 famous, Ζῴε False eng
 the λανιοις, False eng
-well- (δ False na
+well-known, (δ False na
 # 54 38 35 known,  Lat. tlle,  57,  8; the proper μοι»,  αὶ. {δξ,  57,  8; 24ὸ 2γοδογ
-known, μοι», False eng
 Lat. αὶ. False na
-tlle, {δξ, False na
+ille, {δξ, False na
 57, 57, False na
 8; 8; False na
 the 24ὸ False eng
@@ -355,13 +351,14 @@ distributively, αἰξίν False eng
 # 56 36 37 each,  a,  aS TOU pnvds TH orpatwry, ἐαςἦ,  ὦ,  85 τοῦ μηνὸς τῷ στρατιώτῃ,
 each, ἐαςἦ, False eng
 a, ὦ, False eng
-aS 85 False na
-τοῦ TOU True form
+as 85 False na
+τοῦ TOU True pp
 μηνὸς pnvds True form
 τῷ TH True lex
 στρατιώτῃ, orpatwry, True form
 # 57 39 39 amonth to each soldier,  68,  24; often αΜμορίζ ἴο σαεἦ τοὐωον,  68,  24: οἴϊεπ
-amonth αΜμορίζ False na
+a
+month αΜμορίζ False na
 to ἴο False eng
 each σαεἦ False eng
 soldier, τοὐωον, False eng
@@ -389,24 +386,24 @@ an 8 False eng
 adv., διἷν., False eng
 as 85 False eng
 τὸν Tov True form
-Bouvddue- βουλόμε- False na
+βουλόμε- False na
 # 61 37 39 vov,  any one who wished,  ol cvverd- γον,  41} ογιό τοο τοϊεὐεα,  οἱ συνεπό-
-γον, vov, True pp
+νον, vov, True pp
 any 41} False eng
 one ογιό False eng
 who τοο False eng
 wished, τοϊεὐεα, False eng
-ol οἱ False eng
-cvverd- συνεπό- False na
+οἱ False eng
+συνεπό- False na
 # 62 33 35 Hevor,  those who had accompanied μενοι,  ἔλοσό τυἦο λα πειογρεβαπῖφα
-Hevor, μενοι, False na
+μενοι, False na
 those ἔλοσό False eng
 who τυἦο False eng
 had λα False eng
 accompanied πειογρεβαπῖφα False eng
 # 63 36 38 them; ra Kupov mpos nuas,  the rela- ζάεν:,  τὰ Κύρου πρὸς ἡμᾶς,  ἐλε γεία-
 them; ζάεν:, False eng
-ra τὰ False eng
+τὰ False eng
 Κύρου Kupov True pp
 πρὸς mpos True form
 ἡμᾶς, nuas, True form
@@ -418,29 +415,30 @@ of ΟΥΓἹ False eng
 Cyrus νγμδ False na
 to ἐο False eng
 us; τς, False eng
-ot οἱ False eng
-adv σὺν False eng
-atta, αὐτῷ, False eng
+οἱ False eng
+σὺν False eng
+αὐτῷ, False eng
 # 65 42 43 ol éxelvov,  his men,  ot ofkot,  the peo- οἱ ἐκείνου,  ἤϊς »6γ1,  οἱ οἴκοι,  {16 2εο-
-ol οἱ False eng
+οἱ False eng
 ἐκείνου, éxelvov, True pp
 his ἤϊς False eng
 men, »6γ1, False eng
-ot οἱ False eng
+οἱ False eng
 οἴκοι, ofkot, True lex
 the {16 False eng
 peo- 2εο- False na
 # 66 35 35 ple athome,  Ta wept Mpokévov,  the 2 αἰ λονιδ,; τὰ περὶ Προξένου,  {16
 ple 2 False na
-αἰ athome, True lex
-Ta λονιδ,; False na
-wept τὰ False eng
+at
+home, True lex
+τὰ False eng
 περὶ Mpokévov, True form
-the Προξένου, False eng
+Προξένου, False eng
+the
 # 67 34 37 news about Proxenus,  with an abs. Ἐφτὺς αὐομέ ἢ γοχερμές,  ψιῖῃ δὴ δ)5.
 news Ἐφτὺς False eng
 about αὐομέ False eng
-ἢ Proxenus, True lem
+Proxenus, True lem
 with γοχερμές, False eng
 an ψιῖῃ False eng
 abs. δὴ False eng
@@ -456,18 +454,15 @@ as ας False eng
 # 69 32 35 this man ts concerned,  82,  24. ζλϊς για 15 εογικθγγιξαΐ,  82,  24.
 this ζλϊς False eng
 man για False eng
-ts 15 False eng
+is 15 False eng
 concerned, εογικθγγιξαΐ, False eng
 82, 82, False na
 24. 24. False na
-# 70 11 11 3,  see bs. ὅ,  5ες ὅς.
-ὅ, 3, True form
-see 5ες False eng
-bs. ὅς. False eng
+
 # 71 40 42 OBoAds,  -o00,  obo/,  an Athenian coin, ὀβολός,  -ου,  οὐδοΐ,  ἂἃπ ΑἸἰΒεπίδῃ οοΐῃ,
 ὀβολός, OBoAds, True lex
 -ου, -o00, True pp
-obo/, οὐδοΐ, False na
+obol, οὐδοΐ, False na
 an ἂἃπ False eng
 Athenian ΑἸἰΒεπίδῃ False na
 coin, οοΐῃ, False eng
@@ -479,7 +474,7 @@ cents. σεηΐϑ. False eng
 # 73 42 43 oySofjKnovra [dx7TuW,  ezght; cogn.,  Lat. ὀγδοήκοντα [ὀκτώ,  εἴράζ,  σορη, ,  1, Αῖϊ.
 ὀγδοήκοντα oySofjKnovra True lex
 [ὀκτώ, [dx7TuW, True lex
-ezght; εἴράζ, False na
+eight; εἴράζ, False na
 cogn., σορη, False na
 Lat. , False na
 # 74 39 39 octoginta,  eighty],  indecl.,  eighty. οοἰδρίηίᾷ,  εἰρ .ν],  ᾿πάεο].,  εχρλέν.
@@ -503,14 +498,14 @@ as 45 False eng
 dem. ἄετῃ. False eng
 pron. ῥτοῃ. False eng
 + - False na
--ée, -δε, False na
+-δε, False na
 # 77 39 40 here\,  dem. pron.,  ¢his,  this very’, λεγε],  ἄδτῃ. φῬγοῃ.,  ζ{ϊς,  τ{ϊς τόν},
-here\, λεγε], False na
+here], λεγε], False na
 dem. ἄδτῃ. False eng
 pron., φῬγοῃ., False eng
-¢his, ζ{ϊς, False na
+this, ζ{ϊς, False na
 this τ{ϊς False eng
-very’, τόν}, False na
+very, τόν}, False na
 # 78 35 38 referring to what is close at hand, τοίουγιηρ ἴο νν ηδί 15 οἷοβδε δἱ μαηΐ,
 referring τοίουγιηρ False eng
 to ἴο False eng
@@ -524,7 +519,7 @@ but Ῥυϊ False eng
 more τπογα False eng
 emphatic δι False eng
 than ρῃδίϊς False eng
-ἴδῃ of7os, True form
+οὗτος of7os, True form
 and οὗτος, False eng
 # 80 31 34 often accompanied by a gesture; οἴζϊθδῃ δοσοπιρδηϊθα Ὀγ ἃ ροβίυτε;
 often οἴζϊθδῃ False eng
@@ -551,9 +546,9 @@ follows. )οζῥτος. False eng
 ὡδοποίησα, WSotolnaa, True pp
 ὡδοποίημαι w5orolnuas True pp
 [ [ False na
-0d0- ὁδο- False na
+ὁδο- False na
 # 84 38 44 mods (606s,  rovéw,  make),  pioneer), ποιός (ὁδός,  ποιέω,  »:4.26),  ῥῖῇΆ᾽ομεε}),
-mods ποιός False eng
+ποιός False eng
 (ὁδός, (606s, True lex
 ποιέω, rovéw, True pp
 make), »:4.26), False eng
@@ -586,10 +581,10 @@ journey; τανε, False eng
 way, τὐαγ, False eng
 means, 11645., False eng
 distance; αἰϊδία False eng
-THv πε, False na
 τὴν Taxl- True form
+ταχί-
 # 90 31 32 orn 066»,  by the quickest way. στην ὁδόν,  ὧν τἀ ψπῖοβεξξ τὐαγ.
-orn στην False na
+στην orn True pp
 ὁδόν, 066», True form
 by ὧν False eng
 the τἀ False eng

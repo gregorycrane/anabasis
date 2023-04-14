@@ -1,13 +1,9 @@
-# 0 3 3 472 412
-472 412 False na
-# 1 17 15 vijes,  see vais. γῆς,  5ες ναῦς.
-γῆς, vijes, True form
-see 5ες False eng
-ναῦς. vais. True lex
+
+
 # 2 41 41 vitros,  -ov,  7 [vdw,  swim,  so rvijcos γῆσοςξ,  “οὐ,  ἢ [νέω,  σιυΐρε,  50 νῆσος
-vitros, γῆσοςξ, False na
--ov, “οὐ, False na
-ἢ 7 True lem
+νῆσος, False na
+-ου, “οὐ, False na
+ἡ 7 True lem
 [νέω, [vdw, True pp
 swim, σιυΐρε, False eng
 so 50 False eng
@@ -23,11 +19,10 @@ Eng. Ἐπ. False na
 Polynesia, ῬΟΙγπ False na
 Melanesia βἰδ, False na
 ], ΝΜ False na
-7s/and. 6]4 False na
+island. 6]4 False na
 # 5 35 35 Ntxapxos,  -ov,  Vicarchus,  (1) an Νίκαρχος,  -ου,  λιωαγεάμε,  (1) 8ῃ
 Νίκαρχος, Ntxapxos, True lem
 -ου, -ov, True pp
-Vicarchus, λιωαγεάμε, False na
 (1) (1) False na
 an 8ῃ False eng
 # 6 35 34 Arcadian private in the Greek army; Ατοδήϊαι ρμγναῖς ἴῃ ἴῃς τεεκ ἄτην;
@@ -47,13 +42,13 @@ de- 0 False na
 # 8 18 17 serted the Grecks. βογίοὐ τῆς τεςκϑ,
 serted βογίοὐ False na
 the τῆς False eng
-Grecks. τεςκϑ, False na
+Greeks. τεςκϑ, False na
 # 9 39 37 vixdw,  vicnow,  etc. [vixn],  comguer, γίκάω,  νϊκήσω,  εἴο. [νίκη],  ἐσμεν,
-γίκάω, vixdw, True pp
-νϊκήσω, vicnow, True pp
+νικάω, vixdw, True pp
+νικήσω, vicnow, True pp
 etc. εἴο. False eng
 [νίκη], [vixn], True lex
-ἐσμεν, comguer, True form
+conquer, True form
 # 10 37 38 surpass,  outdo; often pres. with pf. σ“κγβα::,  οἰ ΐο,  οἴζεη ρτεβ. ν ἢ Ρὲ,
 surpass, σ“κγβα::, False eng
 outdo; οἰ False eng
@@ -68,15 +63,14 @@ conquered, εορι False eng
 be δγεώ, False eng
 victorious; ῥέ False eng
 # 12 39 36 udy nv vuKar,  be victorious in battle. μάχην νικᾶν,  ὁξ τιοογίοις 15 ῥαίέε.
-μάχην udy True form
-nv νικᾶν, False eng
-vuKar, ὁξ False na
+μάχην udy True pp
+νικᾶν, False eng
 be τιοογίοις False eng
 victorious 15 False eng
 in ῥαίέε. False eng
 battle. NA False eng
 # 13 42 45 vtxn,  -ns [bor.,  Eng. Nicholas,  Eunice, γίκη,  -ης- [Ῥοτ΄.,  Επν. ΝΊΟΒΟΙ48,  Επηΐοσθ,
-vtxn, γίκη, False na
+νίκη, False na
 -ns -ης- False na
 [bor., [Ῥοτ΄., False eng
 Eng. Επν. False na
@@ -95,12 +89,12 @@ victory υἱωΐονν False eng
 were τυέγε False eng
 at αὐ False eng
 stake, σία False eng
-ζε, 77, True lex
+77, True lex
 22. 77, False na
 # 16 40 42 Nixdépayos,  -ov,  Acomiachus,  a leader Νικόμαχος,  -ου,  λ᾽ εοΝ ἄσλμς,  ἃ Ἰεδά θυ
 Νικόμαχος, Nixdépayos, True lem
 -ου, -ov, True pp
-Acomiachus, λ᾽ False na
+Nicomachus, λ᾽ False na
 a εοΝ False eng
 leader ἄσλμς, False eng
 # 17 36 37 of light infantry in the Greek army. οὔ Ἰισῃϊ ἰη!δηίγυ ἴῃ {πΠ6 τοεκ δύτηγ.
@@ -112,21 +106,21 @@ the {πΠ6 False eng
 Greek τοεκ False na
 army. δύτηγ. False eng
 # 18 43 44 volw,  votjow,  etc. [vos],  perceive,  ob- γοέω,  νοήσω,  εἴς. [νοῦς],  2ἐγεεξῖνε,  οὖ-
-γοέω, volw, True pp
+νοέω, volw, True pp
 νοήσω, votjow, True pp
 etc. εἴς. False eng
 [νοῦς], [vos], True form
 perceive, 2ἐγεεξῖνε, False eng
 ob- οὖ- False na
 # 19 42 43 v60os,  -η,  -ov,  bastard,  illegitimate. γόθος,  -ή,  -ον,  δωσέαγαῖ,  ἐἠρριδν»εαΐξ.
-v60os, γόθος, False na
--ή, -η, True pp
+νόθος, False na
+-η, True pp
 -ον, -ov, True pp
 bastard, δωσέαγαῖ, False eng
 illegitimate. ἐἠρριδν»εαΐξ. False eng
 # 20 37 41 vont,  -7s [véuw; bor.,  Eng. nomad], γομή,  -ἣς [νέμω; Ῥοτ, ,  Επρ. ποπιδᾶ 7],
-vont, γομή, False na
--7s -ἣς False na
+νομή, False na
+-ἣς False na
 [νέμω; [véuw; True pp
 bor., Ῥοτ, False eng
 Eng. , False na
@@ -138,11 +132,11 @@ in 1η| False eng
 pasture, δαΞίπγε, False eng
 herd. ἀεογα, False eng
 # 22 43 43 vopllw,  vouid,  évdutoa,  vevdutca,  vevd- γομίζω,  νομιῶ,  ἐνόμισα,  νενόμικα,  νενό-
-γομίζω, vopllw, True pp
+νομίζω, vopllw, True pp
 νομιῶ, vouid, True pp
 ἐνόμισα, évdutoa, True pp
 νενόμικα, vevdutca, True pp
-vevd- νενό- False na
+νενό- False na
 # 23 38 38 puopat,  évoulsOnv [vduos],  regard as μισμαι,  ἐνομίσθην [νόμος],  γεραγώ ας
 μισμαι, puopat, True pp
 ἐνομίσθην évoulsOnv True pp
@@ -166,13 +160,13 @@ two τ False eng
 # 26 39 44 accs.; imperative,  Je assured,  under- δοο85.; ᾿πηρογϑίϊνα,  ὁ αϑε 7 εὐ,  τ2216127-
 accs.; δοο85.; False na
 imperative, ᾿πηρογϑίϊνα, False eng
-ὁ Je True lex
+be Je True lex
 assured, αϑε False eng
 under- 7 False na
 # 27 37 34 stand,  80,  8; pass.,  be customary, “αμα,  8ο,  ὃ; Ῥᾶ85.,  δ εβίοριαν,
 stand, “αμα, False eng
 80, 8ο, False na
-ὃ; 8; True form
+8; True form
 pass., Ῥᾶ85., False eng
 be δ False eng
 customary, εβίοριαν, False eng
@@ -183,14 +177,14 @@ be ὧέ False eng
 considered, εορ False eng
 # 29 39 41 voptpos,  -η,  -ov [vduos],  customary, νόμιμος,  -ή,  τον [νόμος],  ε25ζο7) 47},
 νόμιμος, voptpos, True lex
--ή, -η, True pp
-τον -ov True pp
+-η, True pp
+-ov True pp
 [νόμος], [vduos], True lex
 customary, ε25ζο7) False eng
 # 30 7 10 lawful. ἐστουχιεί.
 lawful. ἐστουχιεί. False eng
 # 31 44 46 vopos,  -ov [véuw,  distribute,  bor.,  Eng. γόμος,  -ου [νέμω,  οαἰϊδίγίδτζε,  Ὀοτ.,  Επρ.
-γόμος, vopos, True lex
+νόμος, vopos, True lex
 -ου -ov True pp
 [νέμω, [véuw, True pp
 distribute, οαἰϊδίγίδτζε, False eng
@@ -203,12 +197,12 @@ Deuteron- Ὀδυζθτοῦ- False na
 # 33 29 31 omy ],  wsage,  custom,  law. ΟΙΏΥ ],  5 αρέ,  σφ 07»,  ἤατυ.
 omy ΟΙΏΥ False na
 ], ], False na
-wsage, 5 False na
+usage, 5 False na
 custom, αρέ, False eng
 law. σφ False eng
 # 34 39 43 wots,  voi [cp. vodw],  mind,  thought; “νοῦς,  νοῦ [(ρΡ. νοέω],  »ι»α΄,  ζλοιςράξ,
-wots, “νοῦς, False eng
-voi νοῦ False na
+νοῦς, False eng
+νοῦ voi True pp
 [cp. [(ρΡ. False eng
 νοέω], vodw], True pp
 mind, »ι»α΄, False eng
@@ -221,7 +215,7 @@ pay 2α»}) False eng
 attention, αἰϊε7121072, False eng
 # 36 36 36 turn one’s attention,  be attentive, ΖΗ,  οτος αἰϊομίΐορ,  ἐφ αἰίφρεζῆνε,
 turn ΖΗ, False eng
-οτος one’s True pp
+one’s True pp
 attention, αἰϊομίΐορ, False eng
 be ἐφ False eng
 attentive, αἰίφρεζῆνε, False eng
@@ -229,24 +223,24 @@ attentive, αἰίφρεζῆνε, False eng
 with ΜΙ False eng
 dat.; ἀαΐ.; False eng
 ἐν év True lex
-vp νῷ False eng
+νῷ False eng
 ἔχειν, Exew, True form
 purpose, 2.096, False eng
 # 38 7 10 wntend. ἐρι2θγ161,
-wntend. ἐρι2θγ161, False na
+intend. ἐρι2θγ161, False na
 # 39 38 39 wuKtepedw,  évuxrépevoa [vixrepos,  dy γυκτερεύω,  ἐνυκτέρευσα [ νύκτερος,  ὄν
-γυκτερεύω, wuKtepedw, True pp
+νυκτερεύω, wuKtepedw, True pp
 ἐνυκτέρευσα évuxrépevoa True pp
-[vixrepos, [ False na
-dy νύκτερος, False eng
+[νύκτερος, 
+by False eng
 # 40 35 37 night),  spend the night,  bivouac. μῖρλ],  «ῥεγια ἐΔ6 πιῖρλέ,  ὀίνοτεαε.
-night), μῖρλ], False eng
+night], μῖρλ], False eng
 spend «ῥεγια False eng
 the ἐΔ6 False eng
 night, πιῖρλέ, False eng
 bivouac. ὀίνοτεαε. False eng
 # 41 39 42 wokrwp [vit],  adv.,  22 the night,  at γύκτωρ [νύξ],  Δ΄ν.,  1η: 12ζ.4 πῖρλέ,  αἱ
-wokrwp γύκτωρ False na
+νύκτωρ False na
 [νύξ], [vit], True lex
 adv., Δ΄ν., False eng
 22 1η: False na
@@ -260,15 +254,11 @@ nocti. πος. False na
 # 43 35 39 viv [cogn.,  Tat. nunc,  zow,  Eng. νῦν [ὁορπ.,  [, αἱ. πιηο,  γ:οτυ,  ΕὩρ.
 νῦν viv True lex
 [cogn., [ὁορπ., False na
-Tat. [, False na
+Lat. [, False na
 nunc, αἱ. False eng
-zow, πιηο, False na
+now, πιηο, False na
 Eng. γ:οτυ, False na
-# 44 6 8 Google (πΘοορῖς
-Google (πΘοορῖς False na
-# 45 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
-XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΑΝΑΒΑΘΙ5 False na
+
 # 46 39 41 now ],  adv.,  now,  at this time,  Ere ΠΟΥ͂],  δᾶν.,  ποῖυ,  αὐ {λῆς ἐΐγεε,  ἔτι
 now ΠΟΥ͂], False eng
 ], δᾶν., False na
@@ -277,7 +267,7 @@ now, αὐ False eng
 at {λῆς False eng
 this ἐΐγεε, False eng
 time, ἔτι False eng
-Ere NA False na
+ἔτι NA False na
 # 47 37 39 viv,  even to this day; Td viv elvat, νῦν,  ευορ 10 ζάϊε 4(αγ,  τὸ νῦν εἶναι,
 νῦν, viv, True lex
 even ευορ False eng
@@ -288,11 +278,11 @@ day; 4(αγ, False eng
 νῦν viv True lex
 εἶναι, elvat, True form
 # 48 16 16 jor the present. ον» τ{ε 2γεξερέ.
-jor ον» False na
+for ον» False na
 the τ{ε False eng
 present. 2γεξερέ. False eng
 # 49 42 44 wi,  vuxrés,  7 [cogn.,  Lat. nox,  #zgh7; νύξ,  νυκτός,  ἡ [σορῃ.,  [.4ἴ. ΠΟΧ,  πζρλζ,
-wi, νύξ, False eng
+νύξ, False eng
 νυκτός, vuxrés, True form
 ἡ 7 True case
 [cogn., [σορῃ., False na
@@ -302,9 +292,9 @@ nox, ΠΟΧ, False eng
 # 50 33 33 Eng. night],  szght,  vuxrds,  dy Επρ. πἰσΒ[],  μιρὴξ,  νυκτός,  ὃν
 Eng. Επρ. False na
 night], πἰσΒ[], False eng
-szght, μιρὴξ, False na
+night, μιρὴξ, False na
 νυκτός, vuxrds, True form
-dy ὃν False eng
+by ὃν False eng
 # 51 34 35 night; of a particular night,  ris πῖράδ,  οὗ ἃ ρῥδυίουϊαγ ηἱρῃϊ,  τῆς
 night; πῖράδ, False eng
 of οὗ False eng
@@ -323,17 +313,12 @@ night; μῖρἠέ,; False eng
 μέσαι péoas True form
 νύκτες, voxres, True pp
 midnight. »εϊαἰρζράξ. False eng
-# 54 14 14 vg,  see vois. γῷ,  566 νοῦς,
-vg, γῷ, False eng
-see 566 False eng
-νοῦς, vois. True form
-# 55 2 1 Ee Ἐ
-Ee Ἐ False na
+
+
 # 56 46 45 FlavOuud is,  -¢ous,  6,  Xanthicles,  elected ἘΞανθικλῆς,  -έους,  ὁ,  Χαγιλτείες,  εἰεοϊεὰ
-FlavOuud ἘΞανθικλῆς, False na
-is, -έους, False eng
+Ξανθικλῆς, False na
+-έους, False eng
 ὁ, -¢ous, True lex
-Χαγιλτείες, 6, True pp
 Xanthicles, εἰεοϊεὰ False na
 elected NA False eng
 # 57 28 31 a general in the Greek army. ἃ βεπεγαδὶ ἴῃ ἰἢς Οτεεὶκ Ἀυτηγ.
@@ -344,7 +329,7 @@ the ἰἢς False eng
 Greek Οτεεὶκ False na
 army. Ἀυτηγ. False eng
 # 58 39 41 Flevls,  -ov,  Xenias,  a Greek general Ἐενίᾶς,  -ου,  Χιεμΐας,  ἃ Οτεεῖκ ρεπογαὶ
-Flevls, Ἐενίᾶς, False na
+Ξενίᾶς, False na
 -ου, -ov, True pp
 Xenias, Χιεμΐας, False na
 a ἃ False eng
@@ -372,11 +357,10 @@ Neut. ογεῖρη. False na
 as 85 False eng
 subst. 501. False eng
 (sc. (5Ξς. False eng
-στράτευμα), orpdrevpa), True lex
+στράτευμα), orpdrevpa), True pp
 mercenary »»167 False eng
 # 63 8 7 force. . 7ργω. .
 force. 7ργω. False eng
-. . False na
 # 64 44 50 Eévios,  -d,  -ov [Eévos],  of foreigners or ξένιος,  -α,  -ον [ξένος],  077 20» εἴρ», 6 7.5 ΟΥ
 ξένιος, Eévios, True lex
 -α, -d, True pp
@@ -399,7 +383,7 @@ as δ5 False eng
 subst., βυρβί., False eng
 gifts ρὴγς False eng
 of οὐ False eng
-friena- δ) False na
+friend- δ) False na
 # 67 23 20 ship or of hospitality. “1 οὐ οὔ λοεῤ᾽ίαἠέν.
 ship “1 False eng
 or οὐ False eng
@@ -429,7 +413,7 @@ guest, 845 False eng
 but Ῥυΐ False eng
 sometimes Βοπλοῖϊπλ65 False eng
 as ἃ5 False eng
-4os¢, ἀοεξ, False na
+host; ἀοεξ, False na
 as 85 False eng
 these ἴΠ False eng
 ties 6868 False eng
@@ -441,7 +425,7 @@ might τϊρῃῖ False eng
 be Ὀς False eng
 a ἃ False eng
 # 73 30 31 févos who had never in his own ἑξένος ΜΏΟ δά πόϑνεσ ἰῇ ἢϊβ5 οὐ
-févos ἑξένος False na
+ξένος False na
 who ΜΏΟ False eng
 had δά False eng
 never πόϑνεσ False eng
@@ -485,7 +469,7 @@ soldier 50] False eng
 serving 18 False eng
 in ὺ False eng
 a βευνηρ False eng
-ἴῃ for- True form
+for- True form
 # 79 31 35 eign state for pay,  mercenary. εἰρη βίαϊε ἔου ῥαΥ,  2217,  67147}.
 eign εἰρη False na
 state βίαϊε False eng
@@ -493,8 +477,8 @@ for ἔου False eng
 pay, ῥαΥ, False eng
 mercenary. 2217, False eng
 # 80 40 41 Elevoddy,  -Svros,  6,  Xenophon of Ath- ἘΞενοφῶν,  -ὥντος,  ὁ,  Χεποῤᾷ΄ο» οἵ ΑἸἢ-
-Elevoddy, ἘΞενοφῶν, False na
--ὥντος, -Svros, True pp
+Ξενοφῶν, False na
+-ῶντος, -Svros, True pp
 ὁ, 6, True lex
 Xenophon Χεποῤᾷ΄ο» False na
 of οἵ False eng
@@ -504,7 +488,7 @@ ens, 68, False eng
 author Δυΐῃοῦ False eng
 of οὗ False eng
 the (6 False eng
-Anadbasis. “Ἵ»ηαῤαςῖς. False na
+Anabasis. “Ἵ»ηαῤαςῖς. False na
 Ac- Αο- False na
 # 82 35 33 companying the expedition as friend σοιρδηγίηρ ἴῃς Ἔχρεαϊοη 85 ἐγ επὰ
 companying σοιρδηγίηρ False eng
@@ -550,9 +534,9 @@ Introd. Ιηἰτοά, False na
 27 27 False na
 ff. ἢ. False eng
 # 88 39 39 ElépEns,  -ov,  Xerxes,  King of Persia ἘΞέρξης,  -ου,  Χεγχες,  Κὶηρ οὗ Ῥεχβῖα
-ElépEns, ἘΞέρξης, False na
+Ξέρξης, False na
 -ου, -ov, True pp
-Χεγχες, Xerxes, True pp
+Xerxes, True pp
 King Κὶηρ False na
 of οὗ False eng
 Persia Ῥεχβῖα False na

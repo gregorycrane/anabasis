@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΚΒΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΚΒΥ False na
+
 # 1 38 34 pursuit,  the ptc. frequently contains 2πγ εμέ,  ἰἢε ρίς. γε] ΠΥ σοπίδὶ 5
 pursuit, 2πγ False eng
 the εμέ, False eng
@@ -11,7 +10,7 @@ the τπς False eng
 main τηδίῃ False eng
 idea, ἰήβα, False eng
 as ἃ5 False eng
-@yero ὥᾧχετο False na
+ᾧχετο False na
 ἀπελαύνων, dredavywr, True pp
 # 3 34 37 he rode away; be missing,  be dead ἦε γοαΐξ ατυαγ,  δ ρεῖϑεῖγρ,  ὁ αἰὐαα
 he ἦε False eng
@@ -28,15 +27,14 @@ Eng. Επρ. False na
 euphemism Θυρ False eng
 ‘pass οτλϊϑη False na
 # 5 9 8 away’). | ἃν Αγ").
-ἃν away’). True form
-| Αγ"). False na
+away’). True form
 # 6 40 44 olwvos,  -of [cogn.,  Lat. avis,  dird], οἰωνός,  -ου [ςορῃ.,  [, 4ἴ. ΑΥΪ8,  ὀΐϊγα]),
 οἰωνός, olwvos, True lex
 -ου -of True pp
 [cogn., [ςορῃ., False na
 Lat. [, False na
 avis, 4ἴ. False eng
-dird], ΑΥΪ8, False eng
+bird], ΑΥΪ8, False eng
 # 7 37 36 bird of prey,  then,  since the cries ὀὶγα οΥ 276»; ἰῇδῃ,  βίπος [ῃ6 οὐἹεϑ
 bird ὀὶγα False eng
 of οΥ False eng
@@ -77,7 +75,7 @@ note. ποῖδ. False eng
 [ὄκνος], [bxvos], True lex
 shrink «ἀγίπῈ False eng
 # 13 42 43 Jrom,  hesitate,  with inf.; fear,  dread, 797,  νη,  ἀοείζαίδ,  νυ ᾿πί.; καν,  ἀγεαώ,
-Jrom, 797, False na
+from, 797, False na
 hesitate, νη, False eng
 with ἀοείζαίδ, False eng
 inf.; νυ False eng
@@ -97,18 +95,18 @@ hesitation, ἀεεϊζαζίογ;, False eng
 reluctance. γεἐεείαγιεό. False eng
 # 16 41 44 oxrakdcrot,  -at,  -a [dxTw],  eight hun- ὀκτακόσιοι,  -αἱ,  «α [ὀκτώ],  εἰρὴξ Ζπ1ε71-
 ὀκτακόσιοι, oxrakdcrot, True lex
--at, -αἱ, False na
--a «α False na
+-αι, False na
+-α «α False na
 [ὀκτώ], [dxTw], True lex
 eight εἰρὴξ False eng
 hun- Ζπ1ε71- False na
 # 17 5 5 dred. ἐγεά.
-dred. ἐγεά. False na
+dred. True pp
 # 18 38 40 oxre [cogn.,  Lat. oct6,  eight,  Eng. ὀκτώ [οορῃ.,  [, Δι. οοἴδ,  εἰράς,  Επρ.
 ὀκτώ oxre True lex
 [cogn., [οορῃ., False na
 Lat. [, False na
-oct6, Δι. False na
+octo, Δι. False na
 eight, οοἴδ, False eng
 Eng. εἰράς, False na
 # 19 34 33 eight; bor.,  Eng. octagon,  octo- εἰσ; Ὀογ.,  Επρ. οσΐαρσοη,  οοΐο-
@@ -120,7 +118,7 @@ octo- οοΐο- False na
 # 20 23 23 pus],  indecl.,  ezghé. Ῥυ81,  ᾿ἱπά60].,  ἐζρλ.
 pus], Ῥυ81, False eng
 indecl., ᾿ἱπά60]., False eng
-ezghé. ἐζρλ. False na
+eight. ἐζρλ. False na
 # 21 38 38 oxrwkalSexa [dxrw xal déxa,  eight and ὀκτωκαίδεκα [ὀκτὼ καὶ δέκα,  εἰρἠζ α»α
 ὀκτωκαίδεκα oxrwkalSexa True pp
 [ὀκτὼ [dxrw True form
@@ -136,12 +134,11 @@ eighteen. 6ο]., False eng
 ὄλεθρος, SAcOpos, True lex
 -ου -ov True pp
 [ὄλλῦμι, [SAA True pp
-UL, αἰδεέγογ, False na
 destroy, 5.66 False eng
-see ἀπόλ- False eng
-dmrdbA- NA False na
+see 
+ἀπόλ- False eng
 # 24 27 28 uuu],  destruction,  death. λῦμι,  αδείγεείίογι,  αδαζά.
-λῦμι, uuu], True pp
+λυμι, uuu], True pp
 destruction, αδείγεείίογι, False eng
 death. αδαζά. False eng
 # 25 42 42 OALyos,  -η,  -ov [bor.,  Eng. oligarchy], ὀλίγος,  -η,  -ον [Ὀοτ.,  ΕὩρ. ΟἹ σΑΙΟΒΥἽ,
@@ -187,22 +184,18 @@ as 85 False eng
 adv., δάν., False eng
 a ὦ False eng
 # 30 7 4 fittle. ἐμέ.
-ἐμέ. fittle. True form
+little. True form
 # 31 32 32 oA Adve,  2 aor. Sic Gor,  slip. ὀλισθάνω,  2 ἀοῖ. ὥλισθον,  «{{.
 ὀλισθάνω, oA True pp
-Adve, 2 False na
 2 ἀοῖ. False na
-aor. ὥλισθον, False eng
-Sic «{{. False na
-Gor, NA False na
+aor. 
+ὥλισθον, False eng
 slip. NA False eng
 # 32 44 41 oALo Onpds,  -d,  -dv [d\cOd vw],  slippery. ὀλισθηρός,  -ἅ,  -όν [ὀλισθάνωΊ],  : ῥέε.
 ὀλισθηρός, oALo True lex
-Onpds, -ἅ, False na
+-ά, False na
 -όν -d, True pp
--dv [ὀλισθάνωΊ], False na
-[d\cOd : False na
-vw], ῥέε. False na
+[ὀλισθάνω], False na
 slippery. NA False eng
 # 33 42 44 6Akds,  -ddos,  7 [EA\xw,  draw],  a towed ὁλκάς,  -άδος,  ἡ [ἕλκω,  4“γατυ),  α ἐοτυεα
 ὁλκάς, 6Akds, True lex
@@ -214,7 +207,7 @@ a α False eng
 towed ἐοτυεα False eng
 # 34 29 30 ship,  merchaniman. See vais. σἦ,  γιογελαρίγιαγι. 866 ναῦς.
 ship, σἦ, False eng
-merchaniman. γιογελαρίγιαγι. False na
+merchantman. γιογελαρίγιαγι. False na
 See 866 False na
 ναῦς. vais. True lex
 # 35 37 37 éXoltpoxos,  -ov [cogn.,  Lat. volv6, ὁλοίτροχος,  -ου [οορπῃ.,  [, ἱ. γον,
@@ -222,7 +215,7 @@ See 866 False na
 -ου -ov True pp
 [cogn., [οορπῃ., False na
 Lat. [, False na
-volv6, ἱ. False na
+volvo, ἱ. False na
 # 36 36 36 roll,  tpéxw,  run),  rolling stone. γοΐ,  τρέχω,  γι],  γοὐῥὝηρ᾽ δί0716.
 roll, γοΐ, False eng
 τρέχω, tpéxw, True pp
@@ -231,7 +224,7 @@ rolling γοὐῥὝηρ᾽ False eng
 stone. δί0716. False eng
 # 37 37 40 Sdos,  -η,  -ov [cogn.,  Lat. salvus, ὅλος,  -ή,  -ον [οορη.,  [, 8ἴ. 84|γ1|8,
 ὅλος, Sdos, True lex
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [cogn., [οορη., False na
 Lat. [, False na
@@ -255,7 +248,7 @@ in ἴῃ False eng
 pred. ρταά. False eng
 position. ροϑβιίοη. False eng
 # 41 43 41 *OrzrvOtos,  -ov,  Olynthian,  a citizen of ᾽Ολύνθιος,  -ου,  Οὐνηλίανι,  ἃ οἰτχεη οὗ
-*OrzrvOtos, ᾽Ολύνθιος, False na
+Ὀλύνθιος, False na
 -ου, -ov, True pp
 Olynthian, Οὐνηλίανι, False na
 a ἃ False eng
@@ -267,7 +260,7 @@ an ἢ, False eng
 important δῃ False eng
 city Ἰτηροτίδπί False eng
 of οἰΥ False eng
-οὗ Chal- True lex
+Chal- True lex
 # 43 36 39 cidicé,  at the head of the Toronaic οἰάϊοδ,  Αἱ ἴῃς. Βεδά οὗ ἴῃς. Τοτγοῃᾶὶς
 cidicé, οἰάϊοδ, False na
 at Αἱ False eng
@@ -278,17 +271,14 @@ the ἴῃς. False eng
 Toronaic Τοτγοῃᾶὶς False na
 # 44 5 4 gulf. συ],
 gulf. συ], False eng
-# 45 6 8 Google (πΘοορίς
-Google (πΘοορίς False na
-# 46 3 3 475 475
-475 475 False na
+
 # 47 41 43 opadfs,  -és [cp. duo’,  and dua,  at the ὁμαλής,  -ές,  [οΡ. ὁμοῦ,  ἀῃὰ ἅμα,  αἱ 27:
 ὁμαλής, opadfs, True lex
 -ές, -és True pp
 [cp. [οΡ. False eng
-ὁμοῦ, duo’, True lex
+ὁμοῦ, duo’, True pp
 and ἀῃὰ False eng
-ἅμα, dua, True lex
+ἅμα, dua, True pp
 at αἱ False eng
 the 27: False eng
 # 48 41 44 same time],  level,  even; dpuares lévat, 547, 16 176],  ἐφυεί,  ἐυδρε,  ὁμαλὲς ἰέναι,
@@ -296,8 +286,9 @@ same 547, False eng
 time], 16 False eng
 level, 176], False eng
 even; ἐφυεί, False eng
-dpuares ἐυδρε, False na
-ὁμαλὲς lévat, True form
+ὁμαλὲς 
+ἰέναι ἐυδρε, False na
+
 # 49 25 29 march over level ground.; »ιαγεῖ οὐε7 ἐσυεί ργοιεγα,  .
 march »ιαγεῖ False eng
 over οὐε7 False eng
@@ -320,7 +311,7 @@ even; ευερι, False eng
 ὁμαλή ouaryh True form
 (sc. (30. False eng
 γῆ), 77), True lex
-devel ἐενεὶ False eng
+level ἐενεὶ False eng
 ground, ργομγα, False eng
 Neut. Νεαῖί. False na
 # 53 18 20 as subst.,  plain. ἃ5 5.0 58ῖ.,  2 αἴ».
@@ -329,7 +320,7 @@ subst., 5.0 False eng
 plain. 58ῖ., False eng
 # 54 38 41 Opadas [duands],  adv.,  evenly,  with ὁμαλῶς [ὁμαλός},  δἄν.,  δυεγιῖν,  τοί τὰ
 ὁμαλῶς Opadas True form
-[duands], [ὁμαλός}, False na
+[ὁμαλός], [ὁμαλός}, False na
 adv., δἄν., False eng
 evenly, δυεγιῖν, False eng
 with τοί False eng
@@ -341,15 +332,15 @@ step. 62: False eng
 -ου, -ov, True pp
 hostage. λοείαρε. False eng
 # 57 38 37 Opiréw,  duihjow,  wuidnoa,  wputdynKa ὁμιϊλέω,  ὁμίλήσω,  ὡμΐλησα,  ὡμίληκα
-ὁμιϊλέω, Opiréw, True pp
-ὁμίλήσω, duihjow, True pp
-ὡμΐλησα, wuidnoa, True pp
+ὁμιλέω, Opiréw, True pp
+ὁμιλήσω, duihjow, True pp
+ὡμίλησα, wuidnoa, True pp
 ὡμίληκα wputdynKa True pp
 # 58 33 35 [Suthos (cp. duod,  fry,  crowd), [ὅμῖλος (εΡ. ὁμοῦ,  ἴλη,  εγοτυα)ρ,
-[Suthos [ὅμῖλος False na
+[ὅμιλος False na
 (cp. (εΡ. False eng
-ὁμοῦ, duod, True lex
-fry, ἴλη, False eng
+ὁμοῦ, duod, True pp
+ἴλη, ἴλη, False eng
 crowd), εγοτυα)ρ, False eng
 # 59 34 35 crowd,  bor.,  Eng. homily,  homi- «γοιυαῖ,  ὍὈοτ.,  Επρ. ΒΟΥ,  Βοιιὶ-
 crowd, «γοιυαῖ, False eng
@@ -363,7 +354,7 @@ associate “5δοεΐαίε False eng
 with. τυΐίλ. False eng
 # 61 26 26 oplxAn,  -ns,  mist,  fog. ὁμίχλη,  -ῆς,  γιῖς, ,  7.
 ὁμίχλη, oplxAn, True lex
--ns, -ῆς, False na
+-ῆς, False na
 mist, γιῖς, False eng
 fog. , False eng
 # 62 35 35 Spvtpe and dpvbw,  duoduar,  Suooa, ὄμνυμι Δηὰ ὀμνύω,  ὀμοῦμαι,  ὥμοσα,
@@ -373,10 +364,9 @@ and Δηὰ False eng
 ὀμοῦμαι, duoduar, True pp
 ὥμοσα, Suooa, True pp
 # 63 34 37 Samoa,  duwpuo(o)uar,  wud(o) On», Σ ταύμοκα,  ὀμώμο(σν)μαι,  ὠμό(σγθην,
-Samoa, Σ False na
-ταύμοκα, duwpuo(o)uar, True pp
+ὀμώμοκα, duwpuo(o)uar, True pp
 ὀμώμο(σν)μαι, wud(o) True pp
-ὠμό(σγθην, On», True pp
+ὠμό(σ)γθην, On», True pp
 # 64 36 33 swear,  take oath,  with cogn. acc., διυέα,  ἑαξέ οαἵά,  Ψ σορῃ,  806.
 swear, διυέα, False eng
 take ἑαξέ False eng
@@ -391,16 +381,16 @@ fut. [αζ. False eng
 inf. 1πΐ. False eng
 # 66 40 41 Sporos,  -a,  -ov [cp. duoi; bor.,  Eng. ὅμοιος,  -ἄ,  -ον [(Ρ. ὁμοῦ; Ῥοῖ.,  Επῃρ.
 ὅμοιος, Sporos, True lex
--a, -ἄ, False na
+-α, -ἄ, False na
 -ον -ov True pp
 [cp. [(Ρ. False eng
-ὁμοῦ; duoi; True lex
+ὁμοῦ; duoi; True pp
 bor., Ῥοῖ., False eng
 Eng. Επῃρ. False na
 # 67 36 37 homoeopathy ],  ike,  similar,  with ΒΟΙΠΟΘΟΡΔΙΠΥ1,  ἐξέ,  οἱρι1 4»,  νι ἢ
 homoeopathy ΒΟΙΠΟΘΟΡΔΙΠΥ1, False eng
 ], ἐξέ, False na
-ike, οἱρι1 False eng
+like, οἱρι1 False eng
 similar, 4», False eng
 with νι False eng
 # 68 35 36 dat. As subst.,  masc. pl.,  peers, ἀαϊ. Α5 5υρ8ῖ.,  τηδϑο. Ρ].,  2έ675,
@@ -443,7 +433,7 @@ equally. ἐφιαϊζίν. False eng
 ὁμολογήσω, duoroyjow, True pp
 etc. εἴς. False eng
 [cp. [ςρ. False eng
-ὁμοῦ, dpuod, True lex
+ὁμοῦ, dpuod, True pp
 # 74 37 37 Aéyw,  say,  bor.,  Eng. homologous ] λέγω,  54),  Ὀοτ.,  Επρ. ΒΟΠΊΟΙΟΡΟΙΒ]
 λέγω, Aéyw, True pp
 say, 54), False eng
@@ -468,7 +458,7 @@ confess. 40717255. False eng
 ὁμολογουμένως Gpodoyouptvws True lex
 [ὁμολογέω], [duoroyéw], True pp
 adv., δάν., False eng
-aa- σεΐ- False na
+ad- σεΐ- False na
 # 79 34 28 mittedly; with éx wdvtTwr,  as was γεν,  νι ἐκ πάντων,  ὧ5 τῦᾶς
 mittedly; γεν, False na
 with νι False eng
@@ -482,28 +472,24 @@ by ρα False eng
 all, ὄν False eng
 # 81 40 40 Gpophrptos,  -d,  -ov [cp. du00,  uArnp, ὁμομήτριος,  -ἅ,  -ον [ςρ. ὁμοῦ,  μήτηρ,
 ὁμομήτριος, Gpophrptos, True lex
--d, -ἅ, False na
+-α, -ἅ, False na
 -ον -ov True pp
 [cp. [ςρ. False eng
-ὁμοῦ, du00, True lex
+ὁμοῦ, du00, True pp
 μήτηρ, uArnp, True lex
 # 82 30 28 mother ],  by the same mother. ρεοί.γ,  ὃν δέ 5α»6 τηοΐδεγ.
-mother ρεοί.γ, False eng
-ὃν ], True form
+mother], ρεοί.γ, False eng
 by δέ False eng
 the 5α»6 False eng
 same τηοΐδεγ. False eng
 mother. NA False eng
-# 83 19 21 cpdorar,  see Surv. ὀμόσαι,  5Ξε6 ὄμνῦμι.
-ὀμόσαι, cpdorar, True form
-see 5Ξε6 False eng
-ὄμνῦμι. Surv. True pp
+
 # 84 37 35 Gpéoe [cp. duod],  adv.,  4o the same ὁμόσε [ςρ. ὁμοῦ],  αἄν.,  20 δε τα»
 ὁμόσε Gpéoe True lex
 [cp. [ςρ. False eng
-ὁμοῦ], duod], True lex
+ὁμοῦ], duod], True pp
 adv., αἄν., False eng
-4o 20 False na
+to 20 False na
 the δε False eng
 same τα» False eng
 # 85 25 25 place; to close quarters. 2ίαες; ἰο εἰοτο φηαγίεγς.
@@ -515,7 +501,7 @@ quarters. φηαγίεγς. False eng
 ὁμοτράπεζος, éporpatmefos, True lex
 -ον -ov True pp
 [cp. [ὁρΡ. False eng
-ὁμοῦ, duod, True lex
+ὁμοῦ, duod, True pp
 τράπεζα, Tpdrefa, True lex
 # 87 36 33 table),  at the same table. Masc. as Ζα 6,  αὐ τἦ6 φαρι ζαῤδθ. αβο. 85
 table), Ζα False eng

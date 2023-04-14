@@ -228,7 +228,7 @@ purpose ρυγροβα False eng
 in ἴῃ False eng
 Xenophon Χοπορἤοη False na
 than ἴμδῃ False eng
-ἕνα tva True form
+ἕνα tva True pp
 # 34 36 34 or ws),  that,  in order that,  with ΟΥ ὡς),  δα,  1γ ογοΐδγ λαΐ,  ΜΊΚῊ
 or ΟΥ False eng
 ws), ὡς), False eng
@@ -319,7 +319,7 @@ enraged, πῃ False eng
 with ἢ False eng
 dat. αδί. False eng
 # 50 38 38 Opyua,  -ας [dpéyw,  reach] (the reach ὀργνά,  -ας [ὀρέγω,  γεαεἀ] ({ἀε γεαοᾷ
-Opyua, ὀργνά, False na
+ὀργνά, Opyua, True pp
 -ας -ας False na
 [ὀρέγω, [dpéyw, True pp
 reach] γεαεἀ] False eng
@@ -365,7 +365,7 @@ col- 407»2 False na
 # 57 33 37 umns (see Introd. § 67). Neut. as 24)1715 (5ε6 [ηἴτοά,  ὃ 67). Νεαῖ. ἃ5
 umns 24)1715 False na
 (see (5ε6 False eng
-Introd. [ηἴτοά, False na
+[ηἴτοά, Introd. True pp
 § ὃ False eng
 67). 67). False na
 Neut. Νεαῖ. False na
@@ -501,7 +501,7 @@ out, ὡρμήθην, False eng
 # 80 25 23 start,  Lat. proficiscor. σίαγί,  Αἱ. 2γοβεῖςεοῦ.
 start, σίαγί, False eng
 Lat. Αἱ. False na
-proficiscor. 2γοβεῖςεοῦ. False na
+2γοβεῖςεοῦ. proficiscor. True pp
 # 81 38 40 Oppéw [8pu0s,  anchorage],  be moored, ὁρμέω [ὅρμος,  α»πελογαρε7,  δ »ιοον δα,
 ὁρμέω Oppéw True pp
 [ὅρμος, [8pu0s, True lex
