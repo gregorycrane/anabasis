@@ -1,0 +1,604 @@
+\# 1 42 42 Spvis,  Spvidos,  6,  7 [bor.,  Eng. orni- ὄρνϊς,  ὄρνϊθος,  ὁ,  ἡ [Ὅοτ.,  Επρ. Οτηϊ-
+ὄρνις, False na
+ὄρνιθος, False na
+ὁ, 6, True lex
+ἡ 7 True case
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False na
+orni- Οτηϊ- False na
+# 2 39 43 thology ],  dird,  esp. fowl,  chicken. ἘΒΟΙΟΡΥἽΊ,  ὀΐγωΐ,  650. γ, οτοί,  εὐτεξορ.
+thology ἘΒΟΙΟΡΥἽΊ, False na
+], ὀΐγωΐ, False na
+bird, 650. False eng
+esp. γ, False eng
+fowl, οτοί, False eng
+chicken. εὐτεξορ. False eng
+# 3 39 38 ’"Opévriis,  -2 (Doric gen.),  Ovontas, ᾽Ορόντᾶς,  -α (]οτίς ρεπ.),  Ογοριέας,
+Ὀρόντᾶς, False na
+-α -2 True pp
+(Doric (]οτίς False na
+gen.), ρεπ.), False eng
+Orontas, Ογοριέας, False na
+# 4 33 33 (1) a noble Persian,  executed by (1) ἃ μοῦ] Ῥεχβίαπ,  δχεουῖϊεα Ὀγ
+(1) (1) False na
+a ἃ False eng
+noble μοῦ] False eng
+Persian, Ῥεχβίαπ, False na
+executed δχεουῖϊεα False eng
+by Ὀγ False eng
+# 5 33 33 Cyrus for high treason; (2) a no- Ογτγὺβ ἕο ΒΙρἢ ἴγεάβοῃ; (2) ἃ πο-
+Cyrus Ογτγὺβ False na
+for ἕο False eng
+high ΒΙρἢ False eng
+treason; ἴγεάβοῃ; False eng
+(2) (2) False na
+a ἃ False eng
+no- πο- False na
+# 6 34 37 ble Persian,  son-in-law of Artax- ΌΪ6Ὲ Ῥοιβίδη,  β8οῃ-πη-ἶἰὰν οὗ Ατῖαχ-
+ble ΌΪ6Ὲ False na
+Persian, Ῥοιβίδη, False na
+son-in-law β8οῃ-πη-ἶἰὰν False na
+of οὗ False eng
+Artax- Ατῖαχ- False na
+# 7 30 33 erxes,  and satrap of Armenia. ΕΥχθβ,  8Δη64 βαῖγδρ οἵ Αὐτηβηϊᾶ.
+erxes, ΕΥχθβ, False na
+and 8Δη64 False eng
+satrap βαῖγδρ False eng
+of οἵ False eng
+Armenia. Αὐτηβηϊᾶ. False na
+# 8 39 42 Spos,  -ouvs,  76,  mountain,  mountain ὄρος,  -ους,  τό,  »":οτγέαἶ»,  τιοτερα τ»
+ὄρος, Spos, True lex
+-ους, -ouvs, True pp
+τό, 76, True form
+mountain, »":οτγέαἶ», False eng
+mountain τιοτερα False eng
+# 9 6 6 range. γαρρέ.
+range. γαρρέ. False eng
+# 10 38 38 dpuxrés,  -η,  -dy (verbal of dpirrw), ὄρυκτός,  -ή,  -ὀν (νετραὶ οἵ ὀρύττω),
+ὀρυκτός, False na
+-ή, -η, True pp
+-όν False na
+(verbal (νετραὶ False eng
+of οἵ False eng
+ὀρύττω), dpirrw), True pp
+# 11 32 28 dug,  artificial,  tunneled out. προ,  αγίϊβεαί,  “ερη ρα Ομ.
+dug, προ, False eng
+artificial, αγίϊβεαί, False eng
+tunneled “ερη False eng
+out. ρα False eng
+# 12 42 41 Opitrre,  -opviw,  dputa,  -opdpuxa,  dpw- ὀρύττω,  -ορύξω,  ὥρνξα,  -ορώρυχα,  ὀρώ-
+ὀρύττω, Opitrre, True pp
+-ορύξω, -opviw, True pp
+ὥρυξα, dputa, True pp
+-ορώρυχα, False na
+ὀρώ- False na
+# 13 33 33 puypuat,  wpvxOny,  dig,  quarry. ρνγμαι,  ὠρύχθην,  αἵρ,  φ14477}.
+ρνγμαι, puypuat, True pp
+ὠρύχθην, wpvxOny, True pp
+dig, αἵρ, False eng
+quarry. φ14477}. False eng
+# 14 40 41 *Opxopénos,  -ov,  Orchomenian,  citizen ᾽Ορχομένιος,  -ου,  Ογελο»εδγέα7:,  οἰτΖε
+Ὀρχομένιος, False na
+-ου, -ov, True pp
+Orchomenian, Ογελο»εδγέα7:, False na
+citizen οἰτΖε False eng
+# 15 34 36 of Orchoménus,  a town in Arcadia. οὗ Οτοδοιηὄημ8,  ἃ ἰοννῃ ἴῃ Ατοδαϊδ.
+of οὗ False eng
+Orchoménus, Οτοδοιηὄημ8, False na
+a ἃ False eng
+town ἰοννῃ False eng
+in ἴῃ False eng
+Arcadia. Ατοδαϊδ. False na
+
+# 17 45 47 &s,  #,  8,  rel. pron.,  who,  which,  what, ὅς,  ἥ,  ὅ,  τε]. ῥτοῃ.,  τυο,  τυλίελ,  τυλαΐ,
+ὅς, &s, True lex
+ἥ, #, True form
+ὅ, 8, True form
+rel. τε]. False eng
+pron., ῥτοῃ., False eng
+who, τυο, False eng
+which, τυλίελ, False eng
+what, τυλαΐ, False eng
+# 18 33 32 with indic.; as conditional rel., ΜΠ ἱπαϊς.; 8δ8 σομπαϊίομαὶ τεὶ.,
+with ΜΠ False eng
+indic.; ἱπαϊς.; False eng
+as 8δ8 False eng
+conditional σομπαϊίομαὶ False eng
+rel., τεὶ., False eng
+# 19 31 26 with &y and subj. or with opt.; 1 ἄν δῃὰ 5300]. οὐ ψ ορί.;
+with 1 False eng
+ἄν &y True lex
+and δῃὰ False eng
+subj. 5300]. False eng
+or οὐ False eng
+with ψ False eng
+opt.; ορί.; False eng
+# 20 33 35 often attracted to the case of an οἴΐζθδη α[ἰγαοϊεα ἴο ἴῆ6 οἂδὲ οὗ δῃ
+often οἴΐζθδη False eng
+attracted α[ἰγαοϊεα False eng
+to ἴο False eng
+the ἴῆ6 False eng
+case οἂδὲ False eng
+of οὗ False eng
+an δῃ False eng
+# 21 35 37 antecedent in the gen. or dat.; the δηϊεσεάξδηϊ 1 ἴῃ 6 σε,  οὐ ἀδί.; [ἴῃς
+antecedent δηϊεσεάξδηϊ False eng
+in 1 False eng
+the ἴῃ False eng
+gen. 6 False eng
+or σε, False eng
+dat.; οὐ False eng
+the ἀδί.; False eng
+# 22 30 33 antecedent may be incorporated δΔηϊοορδηϊ ΤΙΩΔΥ ὕὉ6 ἱποοτρογαῖεα
+antecedent δΔηϊοορδηϊ False eng
+may ΤΙΩΔΥ False eng
+be ὕὉ6 False eng
+incorporated ἱποοτρογαῖεα False eng
+# 23 38 39 into the rel. clause,  or attracted to ἰηῖο {86 ταὶ. οἰδιι56,  οὐ δἰἰγδοϊθα ἰὸ
+into ἰηῖο False eng
+the {86 False eng
+rel. ταὶ. False eng
+clause, οἰδιι56, False eng
+or οὐ False eng
+attracted δἰἰγδοϊθα False eng
+to ἰὸ False eng
+# 24 31 33 the case of the rel.; év @ (sc. [86 οἀθ8εὲ οἵ {πε τε]; ἐν ᾧ (ϑ5ς.
+the [86 False eng
+case οἀθ8εὲ False eng
+of οἵ False eng
+the {πε False eng
+rel.; τε]; False eng
+ἐν év True lex
+ᾧ @ True form
+(sc. (ϑ5ς. False eng
+# 25 34 35 xpbvy),  while,  during this time, χρόνῳ),  τολὲίε,  ἀμγίηρ {15 “[7ι6,
+χρόνῳ), xpbvy), True form
+while, τολὲίε, False eng
+during ἀμγίηρ False eng
+this {15 False eng
+time, “[7ι6, False eng
+# 26 38 43 dd ob,  since; méxpt ob,  to where; in ἀφ᾽ οὗ,  εἦγιεό,  μέχρι οὗ,  ἴο τυλεγε,  ἴῃ
+ἀφ᾽ False eng
+οὗ, False eng
+since; εἦγιεό, False eng
+μέχρι méxpt True lex
+οὗ, False eng
+to ἴο False eng
+where; τυλεγε, False eng
+in ἴῃ False eng
+# 27 37 40 old dem. force,  xal 8s,  and he. For οἷά ἄδπι. ἔοτοο,  καὶ ὅς,  α"α ἀΦ6. ἙἘοΥ
+old οἷά False eng
+dem. ἄδπι. False eng
+force, ἔοτοο, False eng
+καὶ xal True form
+ὅς, 8s, True lex
+and α"α False eng
+he. ἀΦ6. False eng
+For ἙἘοΥ False na
+# 28 34 34 q and od as advs.,  see the words. ἡ ἀπὰ οὗ 45 Δάνϑ.,  566 [ῃ6 νογάϑ.
+ᾗ False eng
+and ἀπὰ False eng
+οὗ False eng
+as 45 False eng
+advs., Δάνϑ., False na
+see 566 False eng
+the [ῃ6 False eng
+words. νογάϑ. False eng
+# 29 46 47 Scrtos,  -d,  -o»,  holy,  righteous,  devout. ὅσιος,  -ά,  -ον,  ἀοίν,  γἱρλζεοτές,  ασυοτεί.
+ὅσιος, Scrtos, True lex
+-α, -d, True pp
+-ον, -o», True pp
+holy, ἀοίν, False eng
+righteous, γἱρλζεοτές, False eng
+devout. ασυοτεί. False eng
+# 30 43 42 bcos,  -η,  -ov,  rel. adj.,  properly cor- ὅσος,  -ή,  -ον,  τε]. 841].» ῬΓΟΡΕΙΥ οοΥ-
+ὅσος, bcos, True lex
+-η, True pp
+-ον, -ov, True pp
+rel. τε]. False eng
+adj., 841].» False eng
+properly ῬΓΟΡΕΙΥ False eng
+cor- οοΥ- False na
+# 31 35 35 relative to rogotros or mds,  which τοϊδίῖνο ἴο τοσοῦτος οἵ πᾶς,  ΜὨϊςἢ
+relative τοϊδίῖνο False eng
+to ἴο False eng
+τοσοῦτος rogotros True pp
+or οἵ False eng
+πᾶς, mds, True lex
+which ΜὨϊςἢ False eng
+# 32 36 37 may be omitted; ow great,  pl.,  how τᾶν Ὀ6 οτηϊε; ἄστυ ργεαέ,  Ρ].,  ἄοτυ
+may τᾶν False eng
+be Ὀ6 False eng
+omitted; οτηϊε; False eng
+how False eng
+great, ργεαέ, False eng
+pl., Ρ]., False eng
+how ἄοτυ False eng
+# 33 35 37 many; as great as,  as long as,  as ῬΙΩηγ,  45 ργέαξ δ,  ας ἐογιρ' 5,  ας
+many; ῬΙΩηγ, False eng
+as 45 False eng
+great ργέαξ False eng
+as, δ, False eng
+as ας False eng
+long ἐογιρ' False eng
+as, 5, False eng
+as ας False eng
+# 34 33 37 much as,  pl,  as many as,  often »ι το α5,  ΗΪ.,  ας ρι4η}) ἂς,  οἴϊεη
+much »ι False eng
+as, το False eng
+pl, α5, False eng
+as ΗΪ., False eng
+many ας False eng
+as, ρι4η}) False eng
+often ἂς, False eng
+# 35 35 36 hardly to be distinguished from 8s; Βαγάϊν ἴο 6 αἰδιϊηρι]ϑηεά ἔγοχῃ ὅς :
+hardly Βαγάϊν False eng
+to ἴο False eng
+be 6 False eng
+distinguished αἰδιϊηρι]ϑηεά False eng
+from ἔγοχῃ False eng
+ὅς 8s; True lex
+# 36 37 36 so great that,  107,  25; with rogod- 50 ργεαΐ “ἠαΐ,  1το7,  25; ΜΙ τοσοῦ-
+so 50 False eng
+great ργεαΐ False eng
+that, “ἠαΐ, False eng
+107, 1το7, False na
+25; 25; False na
+with ΜΙ False eng
+τοσοῦ- False na
+# 37 38 39 Tos it may be translated as,; 8c¢0v or τος ἴΐ τη  Ὀ6 ἰγδηβὶαι θα ἂς,  ὅσον ΟΥ̓
+τος Tos True pp
+it ἴΐ False eng
+may τη False eng
+be Ὀ6 False eng
+translated ἰγδηβὶαι False eng
+as; θα False eng
+ὅσον ἂς, False na
+or ὅσον False eng
+# 38 38 41 rocovTov ... dcov,  with inf.,  enough τοσοῦτον... ὅσον,  νἸ ἢ ἴηξ, ,  ὁγρεοτερα
+τοσοῦτον... rocovTov True pp
+ὅσον, ... True pp
+with ἢ False eng
+inf., ἴηξ, False eng
+enough , False eng
+# 39 36 40 for,  179,  7; 80m with comp.,  the, , ρ»γ,  179,  7; ὅσῳ νῖῖ ἢ σοτῃρ.,  2.6,
+for, , False eng
+179, ρ»γ, False na
+7; 179, False na
+ὅσῳ 7; False na
+with ὅσῳ False eng
+comp., νῖῖ False eng
+the, ἢ False eng
+# 40 25 26 dow Oarroy,  the quicker. ὅσῳ θᾶττον,  2.ε φπῖεξεέ7.
+ὅσῳ ὅσῳ False eng
+θᾶττον, Oarroy, True pp
+the 2.ε False eng
+quicker. φπῖεξεέ7. False eng
+# 41 33 35 Neut. acc. as adv.,  so far that; Νευῖ. δος. 8ἃ5 δήν, ,  59 Χ;7 Τλαέ;
+Neut. Νευῖ. False na
+acc. δος. False eng
+as 8ἃ5 False eng
+adv., δήν, False eng
+so , False eng
+far 59 False eng
+that; Χ;7 False eng
+# 42 35 35 Scov éd0vavro wéy.otov,  as loud as ὅσον ἐδύναντο μέγιστον,  ας ζριὦ ας
+ὅσον Scov True pp
+ἐδύναντο éd0vavro True form
+μέγιστον, wéy.otov, True pp
+as ας False eng
+loud ζριὦ False eng
+as ας False eng
+# 43 34 31 they could; with numerals,  adout, 412» «οὐ,  ΜΙ πυιηογαΐβ,  αόοπ,
+they 412» False eng
+could; «οὐ, False eng
+with ΜΙ False eng
+numerals, πυιηογαΐβ, False eng
+adout, αόοπ, False na
+# 44 11 14 as many as. ὥς ΜέΩ71γ} ὧ5.
+as ὥς False eng
+many ΜέΩ71γ} False eng
+as. ὧ5. False eng
+
+# 47 38 40 Scoomep,  Sonrep,  Scovwep [8c0s + in- ὅσοσπερ,  ὅσηπερ,  ὅσονπερ [ὅσος -᾿- ἰπ-
+ὅσοσπερ, Scoomep, True lem
+ὅσηπερ, False na
+ὅσονπερ Scovwep True form
+[ὅσος [8c0s True lex
++ -᾿- False na
+in- ἰπ- False na
+# 48 39 40 tensive wép],  rel. adj.,  more precise τϑηϑῖνα πέρ],  τε]. δά).,  ταογα ρτεοῖβα
+tensive τϑηϑῖνα False eng
+πέρ], wép], True form
+rel. τε]. False eng
+adj., δά)., False eng
+more ταογα False eng
+precise ρτεοῖβα False eng
+# 49 34 34 than 800s,  just as many as; often δὴ ὅσος,  75’ ας »ιαρ»ν ἂς,  οἴϊεῃ
+than δὴ False eng
+ὅσος, 800s, True lex
+just 75’ False eng
+as ας False eng
+many »ιαρ»ν False eng
+as; ἂς, False eng
+often οἴϊεῃ False eng
+# 50 35 35 hardly to be distinguished from 8s. Βαγάϊν ἴο Ὀὲ ἀϊβιϊρι με ά ἔτοιη ὅς.
+hardly Βαγάϊν False eng
+to ἴο False eng
+be Ὀὲ False eng
+distinguished ἀϊβιϊρι False eng
+from με False eng
+ὅς. 8s. True pp
+# 51 35 35 bomep,  frep,  Srep [ds + intensive ὅσπερ,  ἥπερ,  ὅπερ [ὅς - ἱἰπίεηῖνα
+ὅσπερ, bomep, True lex
+ἥπερ, frep, True form
+ὅπερ Srep True form
+[ὅς False eng
++ - False na
+intensive ἱἰπίεηῖνα False eng
+# 52 39 38 mwép]],  rel. pron.,  more precise than πέρ],  τεῖ. Ῥτοῃ.,  τῆοσε ῥγξβοῖβα ἴδῃ
+πέρ], mwép]], True form
+rel. τεῖ. False eng
+pron., Ῥτοῃ., False eng
+more τῆοσε False eng
+precise ῥγξβοῖβα False eng
+than ἴδῃ False eng
+# 53 36 38 bs,  just who,  just what,  who cer- ὅς,  ἠδέ τοῖο,  γπδί τουαί,  τοὴο ἐε᾽-
+ὅς, False eng
+just ἠδέ False eng
+who, τοῖο, False eng
+just γπδί False eng
+what, τουαί, False eng
+who τοὴο False eng
+cer- ἐε᾽- False na
+# 54 36 40 tainly,  the very thing which; often ζαϊμέν,  ζάε νεῦγν τἀζηρ' τυλῖεὰ,  οἴζεη
+tainly, ζαϊμέν, False na
+the ζάε False eng
+very νεῦγν False eng
+thing τἀζηρ' False eng
+which; τυλῖεὰ, False eng
+often οἴζεη False eng
+# 55 35 36 hardly to be distinguished from 8s. ΒαγάΪγ ἴο Ρὲ αἰδιϊηρσυ θεά ἔτομι ὅς.
+hardly ΒαγάΪγ False eng
+to ἴο False eng
+be Ρὲ False eng
+distinguished αἰδιϊηρσυ False eng
+from θεά False eng
+ὅς. 8s. True pp
+# 56 37 40 Sompiov,  -ov,  leguminous plant; pL, ὄσπριον,  -ου,  ἐφρτε 1 7025 Φ, 5ΜΕΣ ΡΪ.
+ὄσπριον, Sompiov, True pp
+-ου, -ov, True pp
+leguminous ἐφρτε False eng
+plant; 1 False eng
+pL, 7025 False na
+# 57 15 15 peas and beans. 2εας αμα ὀεα15.
+peas 2εας False eng
+and αμα False eng
+beans. ὀεα15. False eng
+# 58 43 43 Soris,  iris,  5 Tt,  gen. ofrivos or Srov, ὅστις,  ἥτις,  ὅ τι,  σα. οὔτινος ΟΥ̓ ὅτου,
+ὅστις, Soris, True lex
+ἥτις, False eng
+ὅ 5 True form
+τι, Tt, True form
+gen. σα. False eng
+οὕτινος False na
+or ΟΥ̓ False eng
+ὅτου, Srov, True pp
+# 59 33 37 horwos [8s + rls,  anybody],  in- ἥστινος [ὅς -- τὶς,  αγιγόοαϊν,  ἱἰπ-
+ἥστινος False na
+[ὅς [8s True lex
++ -- False na
+τὶς, False na
+anybody], αγιγόοαϊν, False eng
+in- ἱἰπ- False na
+# 60 37 39 definite rel. pron.,  whoever,  what- ἀεβπια τα]. ῥτοῃ.,  τὐἀοευε», ,  τολαξ-
+definite ἀεβπια False eng
+rel. τα]. False eng
+pron., ῥτοῃ., False eng
+whoever, τὐἀοευε», False eng
+what- , False na
+# 61 33 35 ever,  often hardly to be distin- ἔυεγ,  οἰϊεῃ Βαγαϊΐν ἴο ὉὈς ἀϊπίϊη-
+ever, ἔυεγ, False eng
+often οἰϊεῃ False eng
+hardly Βαγαϊΐν False eng
+to ἴο False eng
+be ὉὈς False eng
+distin- ἀϊπίϊη- False na
+# 62 31 30 guished from 6s; as conditional Βυϊδηεα ἔτοπὶ ὅς; 85 Τομαϊοηδὶ
+guished Βυϊδηεα False na
+from ἔτοπὶ False eng
+ὅς; 6s; True lex
+as 85 False eng
+conditional Τομαϊοηδὶ False eng
+# 63 38 37 rel.,  with 4» and subj. or with opt.; τΕ].,  ΜῈ} ἄν δπὰ 500]. οὐ ψ ἘΒ ορί.;
+rel., τΕ]., False eng
+with ΜῈ} False eng
+ἄν 4» True lex
+and δπὰ False eng
+subj. 500]. False eng
+or οὐ False eng
+with ψ False eng
+opt.; ἘΒ False eng
+# 64 36 39 often in indir. questions; introduc- οἴϊδῃ ἴῃ ἰπμάϊγ,  απεϑβίϊοπβ; ἰηϊγοάτο-
+often οἴϊδῃ False eng
+in ἴῃ False eng
+indir. ἰπμάϊγ, False na
+questions; απεϑβίϊοπβ; False eng
+introduc- ἰηϊγοάτο- False na
+# 65 34 35 ing a clause of result after ovrw, ἱῃρ ἃ οἶδιβε οὗ σεβϑυὶὲ δίϊοσ οὕτω,
+ing ἱῃρ False eng
+a ἃ False eng
+clause οἶδιβε False eng
+of οὗ False eng
+result σεβϑυὶὲ False eng
+after δίϊοσ False eng
+οὕτω, ovrw, True pp
+# 66 35 36 that he; tariv brris,  some one; So ζάαξ ἀε,  ἔστιν ὅστις,  5076 Ομ,  50
+that ζάαξ False eng
+he; ἀε, False eng
+ἔστιν tariv True form
+ὅστις, brris, True lex
+some 5076 False eng
+one; Ομ, False eng
+So 50 False na
+# 67 42 43 Srov 5%,  219,  22; 8 Tt,  why,  121,  19. ὅτον δή,  210,  22; ὅ τι,  τυ»,  Ἰ2Ὶ1,  10.
+ὅτου Srov True pp
+δή, 5%, True lex
+219, 210, False na
+22; 22; False na
+ὅ 8 True form
+τι, Tt, True form
+why, τυ», False eng
+121, Ἰ2Ὶ1, False na
+19. 10. False na
+# 68 35 37 Srav [dre + dv],  conj.,  whenever, ὅταν [ὅτε - ἄν],  οοη].,  τολερεευεν,
+ὅταν Srav True lex
+[ὅτε [dre True lex
++ - False na
+ἄν], dv], True lex
+conj., οοη]., False eng
+whenever, τολερεευεν, False eng
+# 69 17 17 when,  with subj. τυΐτρε,  τ ἢ 50}.
+when, τυΐτρε, False eng
+with τ False eng
+subj. ἢ False eng
+# 70 38 39 Ste,  rel. adv. or conj.,  when,  with ὅτε,  τεὶ. δᾶάν. οὔ Ἵοοη).,  τουφρ,  στ
+ὅτε, Ste, True lex
+rel. τεὶ. False eng
+adv. δᾶάν. False eng
+or οὔ False eng
+conj., Ἵοοη)., False eng
+when, τουφρ, False eng
+with στ False eng
+# 71 33 34 indic.; whenever,  with opt. (cp. ἱπάϊς.; τολεηπευεγ,  ψΒ ορίῖ. ((Ρ.
+indic.; ἱπάϊς.; False eng
+whenever, τολεηπευεγ, False eng
+with ψΒ False eng
+opt. ορίῖ. False eng
+(cp. ((Ρ. False eng
+# 72 34 33 Sray with subj.); %o@ 8Sre,  some- ὅταν ΨΩ 50}].); ἔσθ᾽ ὅτε,  “ογιέ-
+ὅταν Sray True lex
+with ΨΩ False eng
+subj.); 50}].); False eng
+ἔσθ᾽ False na
+ὅτε, 8Sre, True lex
+some- “ογιέ- False na
+# 73 6 8 times. Ζ7, 165.
+times. Ζ7, False eng
+# 74 43 43 dre [neut. of Seris],  conj.,  “az,  intro- ὅτι [πευϊ. οὗ ὅστις,  σοη].,  ζάαξ,  ἰπῖτο-
+ὅτι dre True lex
+[neut. [πευϊ. False eng
+of οὗ False eng
+ὅστις, Seris], True lex
+conj., σοη]., False eng
+that ζάαξ, False na
+intro- ἰπῖτο- False na
+# 75 36 35 ducing indir. disc.,  with indic. or ἀυοίηρ ἱπάϊτ,  ἀΐἶδο.,  ἢ ᾿πάϊς. οἵ
+ducing ἀυοίηρ False na
+indir. ἱπάϊτ, False na
+disc., ἀΐἶδο., False eng
+with ἢ False eng
+indic. ᾿πάϊς. False eng
+or οἵ False eng
+# 76 32 33 opt.; sometimes introducing dir. ορῖ.; βοϊμείτηεβ ἱπίγοάυοὶηρ ἀἶτ,
+opt.; ορῖ.; False eng
+sometimes βοϊμείτηεβ False eng
+introducing ἱπίγοάυοὶηρ False eng
+dir. ἀἶτ, False eng
+# 77 35 37 disc. and not to be translated; in- αἶδβο. δῃηὰ ποῖ ἴο 6 (τδῃϑὶαϊεά : 1η-
+disc. αἶδβο. False eng
+and δῃηὰ False eng
+not ποῖ False eng
+to ἴο False eng
+be 6 False eng
+translated; (τδῃϑὶαϊεά False eng
+in- : False na
+# 78 36 36 troducing a causal clause,  because, ἰγοἀυοϊηρ ἃ σϑυ54] οἶδυβε,  ὀεεαιδε,
+troducing ἰγοἀυοϊηρ False na
+a ἃ False eng
+causal σϑυ54] False eng
+clause, οἶδυβε, False eng
+because, ὀεεαιδε, False eng
+# 79 33 34 with indic.; strengthening a sup. ΜΙ ἱπάϊςο.; βίγεηρι βεηΐϊηρ ἃ βυΡ.
+with ΜΙ False eng
+indic.; ἱπάϊςο.; False eng
+strengthening βίγεηρι False eng
+a βεηΐϊηρ False eng
+sup. ἃ False eng
+# 80 35 35 (cp. ws and 8c0v),  8r: dwapacxevé- (οΡ. ὡς ἃπά ὅσον),  ὅτι ἀπαρασκευό-
+(cp. (οΡ. False eng
+ὡς False eng
+and ἃπά False eng
+ὅσον), 8c0v), True pp
+ὅτι 8r: True lex
+ἀπαρασκευό- False na
+# 81 34 36 Tarov,  as unprepared as possible, τατον,  ὥς «72 2247 ἐα] ας ξοσεϊόῥε.
+τατον, Tarov, True pp
+as ὥς False eng
+unprepared «72 False eng
+as 2247 False eng
+possible, ἐα] False eng
+
+# 83 41 43 ov,  before a smooth vowel ovx,  before a οὐ,  Ὀεΐίογα ἃ βιηοοίῃ νονοΐ οὐκ,  Ὀεΐοτο ἃ
+οὐ, ov, True lex
+before Ὀεΐίογα False eng
+a ἃ False eng
+smooth βιηοοίῃ False eng
+vowel νονοΐ False eng
+οὐκ, ovx, True form
+before Ὀεΐοτο False eng
+a ἃ False eng
+# 84 33 35 rough vowel odx [bor.,  Eng. Uto- ΤΟᾺΡῊ νοόονεὶ οὐχ [Ὀοτ.,  ΕὩΡ. ὕἷο-
+rough ΤΟᾺΡῊ False eng
+vowel νοόονεὶ False eng
+οὐχ odx True form
+[bor., [Ὀοτ., False eng
+Eng. ΕὩΡ. False na
+Uto- ὕἷο- False na
+# 85 41 41 pia],  adv.,  not,  no,  denying a state- Ῥὶ41,  δάν.,  κοΐ,  πο,  ἀδηγὶπρ ἃ 5ἴδῖθ-
+pia], Ῥὶ41, False eng
+adv., δάν., False eng
+not, κοΐ, False eng
+no, πο, False eng
+denying ἀδηγὶπρ False eng
+a ἃ False eng
+state- 5ἴδῖθ- False na
+# 86 33 37 ment of fact,  Lat. zon; with p4, τηοηΐ οὗ ἰδεῖ,  1, Δἴ. μπόρπ,  νι μή,
+ment τηοηΐ False eng
+of οὗ False eng
+fact, ἰδεῖ, False eng
+Lat. 1, False na
+non; Δἴ. False na
+with μπόρπ, False eng
+μή, νι False na
+# 87 34 33 see uu. It has the acute accent at 866 μή. Τὶ [α5 ἴῃ δουΐα δοσθηΐ δἱ
+see 866 False eng
+μή. uu. True lex
+It Τὶ False na
+has [α5 False eng
+the ἴῃ False eng
+acute δουΐα False eng
+accent δοσθηΐ False eng
+at δἱ False eng
+# 88 32 32 the end of a sentence or clause. (δε εηἀ οἴ ἃ βεπΐεῃοε οὐ οἶδιβα.
+the (δε False eng
+end εηἀ False eng
+of οἴ False eng
+a ἃ False eng
+sentence βεπΐεῃοε False eng
+or οὐ False eng
+clause. οἶδιβα. False eng
+# 89 45 46 ov [ gen. of 5s],  rel. adv.,  where,  to the οὗ [σεη. οὗἉ ὅς],  τε]. δάν.,  τυζεγε,  2ο τἀδ
+οὗ ov True lex
+[ [σεη. False na
+gen. οὗἉ False eng
+of ὅς], False eng
+ὅς]. 5s], True lex
+rel. δάν., False eng
+adv., τυζεγε, False eng
+where, 2ο False eng
+to τἀδ False eng
+the NA False eng
+# 90 12 13 place where. 2ἐαες τυλέγε.
+place 2ἐαες False eng
+where. τυλέγε. False eng
