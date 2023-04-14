@@ -1,5 +1,4 @@
-# 0 3 3 468 «08
-468 «08 False na
+
 # 1 38 39 far more frequently it is to be trans- [ατ πλῦτς {γο]υσηῖ)ν 1ἴ 15 ἴο ὃς τᾶ ῃ5-
 far [ατ False eng
 more πλῦτς False eng
@@ -35,7 +34,7 @@ pl. Ηἱ. False eng
 some... δορηι False eng
 others, δ. False eng
 # 6 33 33 sce also 6; GAA py,  but in point δες δἷδο ὁ; ἀλλὰ μέν,  κέ 1 ῥοῖμέ
-δες sce True pp
+see True pp
 also δἷδο False eng
 ὁ; 6; True lex
 ἀλλὰ GAA True form
@@ -46,16 +45,16 @@ point ῥοῖμέ False eng
 # 7 39 38 of fact,  ob pev bn,  and yet of course ογ μαι,  οὐ μὲν δή,  απο γε οὐ «ο47 56
 of ογ False eng
 fact, μαι, False eng
-ob οὐ False eng
+οὐ False eng
 μὲν pev True form
-bn, δή, False eng
+δή, False eng
 and απο False eng
 yet γε False eng
 of οὐ False eng
 course «ο47 False eng
 # 8 35 32 ... mol,  Tavta pev On,  THIS then. «οὐ πο,  ταῦτα μὲν δή,  ΤΗ͂Ι 6).
 ... «οὐ False na
-mol, πο, False eng
+not, πο, False eng
 ταῦτα Tavta True form
 μὲν pev True form
 δή, On, True lex
@@ -63,10 +62,10 @@ THIS ΤΗ͂Ι False na
 then. 6). False eng
 # 9 35 37 plvrow [dy + rol,  sou know),  adv. μέντοι [μέν - τοί,  γος ἐπνοτυ),  δά.
 μέντοι plvrow True lex
-[dy [μέν False eng
+[μέν False eng
 + - False na
 τοί, rol, True form
-sou γος False eng
+you γος False eng
 know), ἐπνοτυ), False eng
 adv. δά. False eng
 # 10 37 39 and conj.,  (1) intensive,  morevver, δὰ ςοπ).,  (1) ἱπίεησινο,  »μογξυτ' 7",
@@ -74,7 +73,7 @@ and δὰ False eng
 conj., ςοπ)., False eng
 (1) (1) False na
 intensive, ἱπίεησινο, False eng
-morevver, »μογξυτ' False na
+moreover, »μογξυτ' False na
 # 11 33 32 surely,  (2) oftener adversative, “γεν,  (2) οἴϊεπεῦ δαάνογϑαῖϊνο,
 surely, “γεν, False eng
 (2) (2) False na
@@ -88,7 +87,7 @@ nevertheless. μπευεγίλείεος. False eng
 # 13 38 39 pévw,  werd,  Eueva,  weuévyxa [cogn., μένω,  μενῶ,  ἔμεινα,  μεμένηκα [Πορῃ.,
 μένω, pévw, True pp
 μενῶ, werd, True pp
-Eueva, ἔμεινα, False na
+ἔμεινα, False na
 μεμένηκα weuévyxa True pp
 [cogn., [Πορῃ., False na
 # 14 37 40 Lat. maneo,  remain],  remain,  stay, 1, Δῖ. πιδηθῦ,  γενια 1],  γοιαῖρ,  σία,
@@ -98,7 +97,7 @@ remain], πιδηθῦ, False eng
 remain, γενια False eng
 stay, 1], False eng
 # 15 35 36 watt,  Lat. waned,  rematnin force; τα,  Τα,  νια πε,  γένιαι.171 70 γε,
-watt, τα, False eng
+wait, τα, False eng
 Lat. Τα, False na
 waned, νια False eng
 rematnin πε, False na
@@ -113,13 +112,13 @@ Lat. 1, False na
 Μένων, Mévwv, True pp
 -wvos, -ωνος, False na
 ὁ, 6, True lex
-Ἴλομον, J/enon, True pp
+Menon, True pp
 a ἃ False eng
 general βοπεταὶ False eng
 in ἴῃ False eng
 # 18 19 23 Cyrus’s Greck army, (ὐγτυϑ᾽5 ἀστὸς κ δυπηγ,
 Cyrus’s (ὐγτυϑ᾽5 False na
-Greck ἀστὸς False na
+Greek ἀστὸς False na
 army, κ False eng
 # 19 44 45 ptpos,  -ous,  76,  part,  portion,  detach- μέρος,  -ους,  τό,  δα γί,  γογέϊον,  ἀείαελ-
 μέρος, ptpos, True lex
@@ -127,7 +126,7 @@ army, κ False eng
 τό, 76, True form
 part, δα False eng
 portion, γί, False eng
-γογέϊον, detach- True pp
+detach- True pp
 # 20 30 33 ment; specimen,  sample; év t@ »ηϑ; σρέοίνιοι,  δαριῤῥέφ,  ἐν τῷ
 ment; »ηϑ; False eng
 specimen, σρέοίνιοι, False eng
@@ -136,15 +135,15 @@ sample; δαριῤῥέφ, False eng
 τῷ t@ True lex
 # 21 20 20 pepe,  cach in turn, μέρει,  ἐαεὰ 1» “ἐγ.
 μέρει, pepe, True form
-cach ἐαεὰ False na
+each ἐαεὰ False na
 in 1» False eng
 turn, “ἐγ. False eng
 # 22 38 38 peonpBpla,  -ας [udoos,  nudpa,  aay], μεσημβρία,  -ας [μέσος,  ἡμέρᾶ,  “4}],
 μεσημβρία, peonpBpla, True lex
 -ας -ας False na
 [μέσος, [udoos, True lex
-nudpa, ἡμέρᾶ, False na
-aay], “4}], False na
+ἡμέρα, False na
+day], “4}], False na
 # 23 31 34 midday; hence from the position »εἸὐΐαν,  ἤθπος ἔγοηι ἴῃ 6 Ροβι(οὴ
 midday; »εἸὐΐαν, False eng
 hence ἤθπος False eng
@@ -157,11 +156,11 @@ the [Π6 False eng
 sun διπ False eng
 at αἵ False eng
 noon, ἤοοῃ, False eng
-fhe Ζ.έ False na
+the Ζ.έ False na
 south. το. False eng
 # 25 38 41 péoos,  -η,  -ov [cogn.,  Lat. medius, μέσος,  -ή,  -ον [ςορῃ.,  [μ4ἴ,  πιρᾶ 18,
 μέσος, péoos, True lex
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [cogn., [ςορῃ., False na
 Lat. [μ4ἴ, False na
@@ -231,15 +230,15 @@ army; ΔΙΙῺΥ; False eng
 μεσημβρία, pernuBpla, True lex
 midday; »ιϊώψδαγ, False eng
 ἐκ éx True lex
-rod τοῦ False eng
+τοῦ False eng
 μέσου, péoou, True pp
 # 36 31 36 Jrom between them,  80,  23; da , ρορε δείπυεορε ἑάονι,  80,  2; διὰ
-Jrom , False na
+from , False na
 between ρορε False eng
 them, δείπυεορε False eng
 80, ἑάονι, False na
-23; 80, False na
-da 2; False eng
+2; 80, False na
+διὰ 2; False eng
 # 37 36 36 Bhécou,  év péow,  between,  év péow μέσου,  ἐν μέσῳ,  ὀείτυέόρ,  ἐν μέσῳ
 μέσου, Bhécou, True pp
 ἐν év True lex
@@ -257,14 +256,14 @@ across αε7055 False eng
 thetr ζἠεὶ» False na
 road, γοαι, False eng
 140, 140, False na
-ὃ; 83; True form
+8; 83; True form
 ἐν év True lex
 μέσῳ péow True form
 κεῖται Ketrat True form
 # 40 36 34 . 2. GOda,  are offered for competi- «ον ἄθλα,  γε οὔεγεα 70» εο»εβοΖὲ-
 «ον . True pp
-2. ἄθλα, False na
-γε GOda, True lex
+... 
+ἆθλα, False na
 are οὔεγεα False eng
 offered 70» False eng
 for εο»εβοΖὲ- False eng
@@ -276,8 +275,8 @@ prises, 2γῖ265, False eng
 144, 144, False na
 22. 22. False na
 # 42 35 36 MéomaAa,  A/espila,  the modern Ku- ἹΜέσπιλα,  776 ΡΊα,  [6 τηοάσογη Κυ-
-MéomaAa, ἹΜέσπιλα, False na
-A/espila, 776 False na
+Μέσπιλα, False na
+Μespila, 776 False na
 the ΡΊα, False eng
 modern [6 False eng
 Ku- τηοάσογη False na
@@ -291,19 +290,15 @@ of οὗ False eng
 Niné- Νιἰηὄ- False na
 # 44 20 24 veh. See on 165,  8. νϑ ἢ. ὅ8866 οὐ σχὄϑ,  8.
 veh. νϑ False na
-ἢ. See True lem
+See True lem
 on ὅ8866 False eng
 οὐ 165, True lex
 8. σχὄϑ, False na
-# 45 6 8 Google (ΠΘοοοῖς
-Google (ΠΘοοοῖς False na
-# 46 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΔΝΑΒΑΘΙΘ
-XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΔΝΑΒΑΘΙΘ False na
-# 47 46 43 peorés,  -7),  -by,  full,  filled with,  full μεστός,  -ή,  -ὁν,  εἶ,  μι εα τοὐζά,  μεὶ]
+
+# 47 46 43 peorés,  -7),  -by,  full,  filled with,  full μεστός,  -ή,  -όν,  εἶ,  μι εα τοὐζά,  μεὶ]
 μεστός, peorés, True lex
 -ή, -7), True pp
--by, -ὁν, False na
+-όν, -by, True pp
 full, εἶ, False eng
 filled μι False eng
 with, εα False eng
@@ -321,7 +316,7 @@ euphony ΕἸΡΒΟΙΥ͂ False eng
 μετ’ uer’ True form
 # 50 30 33 or wed’ [bor.,  Eng. metaphor, ΟΓΥἮ μεθ᾽ [Ὀοτ.,  Επρ. τηϑίδρβου,
 or ΟΓΥἮ False eng
-wed’ μεθ᾽ False na
+μεθ᾽ False na
 [bor., [Ὀοτ., False eng
 Eng. Επρ. False na
 metaphor, τηϑίδρβου, False eng
@@ -351,7 +346,7 @@ Attic Ατιῖς False na
 writer τοῦ False eng
 who ὯΟ False eng
 employs ἘΠ False eng
-pverd ρΡΙοΥ5 False na
+μετά ρΡΙοΥ5 False na
 with μετά False eng
 the ΜΓ False eng
 # 56 34 30 gen. less frequently than ov» with θη. 1655 γε συ ητ] [μη σύν ΜΊῈ
@@ -359,12 +354,11 @@ gen. θη. False eng
 less 1655 False eng
 frequently γε False eng
 than συ False eng
-ov» ητ] False na
 with [μη False eng
 # 57 33 32 the dat.); dy means of,  with the ἴῃς ἀαϊ.); ὄν ιεαρις οὐ τοὴὦ ἐλε
 the ἴῃς False eng
 dat.); ἀαϊ.); False eng
-dy ὄν False eng
+by ὄν False eng
 means ιεαρις False eng
 of, οὐ False eng
 with τοὴὦ False eng
@@ -375,7 +369,7 @@ of. οἵ, False eng
 # 59 30 30 With acc. (t2to the midst of), ὙΥ δος. (ἐρώο ζζε »ηῖαϊσέ 97),
 With ὙΥ False na
 acc. δος. False eng
-(t2to (ἐρώο False na
+(to (ἐρώο False na
 the ζζε False eng
 midst »ηῖαϊσέ False eng
 of), 97), False eng
@@ -383,7 +377,7 @@ of), 97), False eng
 after, αὐίεγ, False eng
 next μεχέ False eng
 to; 20, False eng
-peO’ μεθ᾽ False na
+μεθ᾽ False na
 ἡμέραν, hpepav, True form
 after αὔἴεῦ False eng
 # 61 18 17 daybreak,  by day, ααγόγεαξ,  ὃν ἀ}.
@@ -413,7 +407,7 @@ begin- ὈερΊη- False na
 # 65 35 37 ning with mef(a)-,  as metal,  met- πἰηρ ψ] »εεΖ(4)-,  845 πιοίδὶ,  τηϑῖ-
 ning πἰηρ False eng
 with ψ] False eng
-mef(a)-, »εεΖ(4)-, False na
+met(a)-, »εεΖ(4)-, False na
 as 845 False eng
 metal, πιοίδὶ, False eng
 met- τηϑῖ- False na
@@ -435,7 +429,7 @@ see αἷσδὸ False eng
 # 69 6 6 above. ΔΌονα.
 above. ΔΌονα. False eng
 # 70 25 23 peTayryvorkw  [yryveoKkw, μεταγιγνύσκω [γιγνώσκω,
-μεταγιγνύσκω peTayryvorkw True pp
+μεταγιγνώσκω peTayryvorkw True pp
 [γιγνώσκω, [yryveoKkw, True pp
 # 71 18 20 change one’s mind. εὔσαηρε ογεῖς ρεῖρα,
 change εὔσαηρε False eng
@@ -464,22 +458,22 @@ of οὗ False eng
 thing. [Πίηρ. False eng
 # 75 36 39 perapfrer [udder 2¢ ts @ care],  im- μεταμέλει [μέλει,  ἐξ ἧς ὦ εα76},  Ἰπι-
 μεταμέλει perapfrer True lex
-[udder [μέλει, False eng
-ἐξ 2¢ True form
-ts ἧς False eng
-ὦ @ True lex
+[μέλει, False eng
+it 2¢ True form
+is False eng
+a @ True lex
 care], εα76}, False eng
 im- Ἰπι- False na
 # 76 36 35 pers.,  #4 ws @ care afterwards,  it ῬΘΙβ.,  22 5 ὦ εαγέ αὐεγιυαγαϊς,  1
 pers., ῬΘΙβ., False eng
-#4 22 False na
-ws 5 False eng
-ὦ @ True lex
+it 22 False na
+is 5 False eng
+a @ True lex
 care εαγέ False eng
 afterwards, αὐεγιυαγαϊς, False eng
 it 1 False eng
 # 77 39 40 vrepenis one,  one repents or is sorry, γεῤόηέξς ΟἿΘ,  Οὴ8 γε έηιε» ΟΥ̓ Σὲ 5ΟΥΣ,
-vrepenis γεῤόηέξς False na
+repents γεῤόηέξς False na
 one, ΟἿΘ, False eng
 one Οὴ8 False eng
 repents γε False eng
@@ -489,23 +483,23 @@ sorry, Σὲ False eng
 # 78 34 37 with dat.; perapéder cot,  you are ψὶἢ} ἀδΐί.; μφοταμέλει σοι,  γο!έ ἀγέ
 with ψὶἢ} False eng
 dat.; ἀδΐί.; False eng
-perapéder μφοταμέλει False na
-cot, σοι, False eng
+μεταμέλει False na
+σοι, False eng
 you γο!έ False eng
 are ἀγέ False eng
 # 79 6 6 SOYTY. 5077}.
-SOYTY. 5077}. False na
+sorry. 5077}. False na
 # 80 36 39 perafy [werd],  adv.,  2% the midst; μεταξύ [μετά],  δάν.,  22: 2ἦε »ιἱἱαΐεν
 μεταξύ perafy True lex
 [μετά], [werd], True pp
 adv., δάν., False eng
-2% 22: False na
+in 22: False na
 the 2ἦε False eng
 midst; »ιἱἱαΐεν False eng
 # 81 34 30 peragd vrodaBay,  interrupling; as μεταξὺ ὑπολαβών,  ἐρεγ γί,  ἃ5
 μεταξὺ peragd True form
 ὑπολαβών, vrodaBay, True form
-interrupling; ἐρεγ False na
+interrupting; ἐρεγ False na
 as γί, False eng
 # 82 26 25 prep. with gen.,  between. ῬΓΘΡ. ψ ἢ ρεη.,  δεζυέφη.
 prep. ῬΓΘΡ. False eng
@@ -517,7 +511,7 @@ between. ρεη., False eng
 -ον -ov True pp
 (verbal (νεγρθαὶ False eng
 of οἵ False eng
-pera- μετα- False na
+μετα- False na
 # 84 29 32 wéunw),  sent for,  summoned. πέμπω),  5ε 70»,  στεγιγρεογεφά,
 πέμπω), wéunw), True pp
 sent 5ε False eng
@@ -549,13 +543,10 @@ summon. φ56] False eng
 μεθίστημι. peOlornm. True pp
 # 90 42 42 péreore [elul,  de],  impers.,  there is @ μέτεστι [εἰμί,  ὁ67,  ᾿τρετβ.,  δέεγε ἐς ὦ
 μέτεστι péreore True form
-[elul, [εἰμί, False eng
-de], ὁ67, False eng
+[εἰμί, False eng
+be], ὁ67, False eng
 impers., ᾿τρετβ., False eng
 there δέεγε False eng
 is ἐς False eng
-ὦ @ True lex
-# 91 7 9 think], ζὰλ1»:2],
-think], ζὰλ1»:2], False eng
-# 92 3 3 see 566
-see 566 False eng
+a @ True lex
+

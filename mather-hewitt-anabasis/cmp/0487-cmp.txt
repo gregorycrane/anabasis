@@ -1,0 +1,548 @@
+# 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΚΒΥ
+VOCABULARY ΝΟΓΑΒΌΓΑΚΒΥ False na
+# 1 38 34 pursuit,  the ptc. frequently contains 2πγ εμέ,  ἰἢε ρίς. γε] ΠΥ σοπίδὶ 5
+pursuit, 2πγ False eng
+the εμέ, False eng
+ptc. ἰἢε False na
+frequently ρίς. False eng
+contains γε] False eng
+# 2 35 37 the main idea,  as @yero dredavywr, τπς τηδίῃ ἰήβα,  ἃ5 ὥᾧχετο ἀπελαύνων,
+the τπς False eng
+main τηδίῃ False eng
+idea, ἰήβα, False eng
+as ἃ5 False eng
+@yero ὥᾧχετο False na
+ἀπελαύνων, dredavywr, True pp
+# 3 34 37 he rode away; be missing,  be dead ἦε γοαΐξ ατυαγ,  δ ρεῖϑεῖγρ,  ὁ αἰὐαα
+he ἦε False eng
+rode γοαΐξ False eng
+away; ατυαγ, False eng
+be δ False eng
+missing, ρεῖϑεῖγρ, False eng
+be ὁ False eng
+dead αἰὐαα False eng
+# 4 29 31 (cp. the Eng. euphemism ‘pass (οΡ. ἴα Επρ. Θυρ οτλϊϑη “ Ρᾶ585
+(cp. (οΡ. False eng
+the ἴα False eng
+Eng. Επρ. False na
+euphemism Θυρ False eng
+‘pass οτλϊϑη False na
+# 5 9 8 away’). | ἃν Αγ").
+ἃν away’). True form
+| Αγ"). False na
+# 6 40 44 olwvos,  -of [cogn.,  Lat. avis,  dird], οἰωνός,  -ου [ςορῃ.,  [, 4ἴ. ΑΥΪ8,  ὀΐϊγα]),
+οἰωνός, olwvos, True lex
+-ου -of True pp
+[cogn., [ςορῃ., False na
+Lat. [, False na
+avis, 4ἴ. False eng
+dird], ΑΥΪ8, False eng
+# 7 37 36 bird of prey,  then,  since the cries ὀὶγα οΥ 276»; ἰῇδῃ,  βίπος [ῃ6 οὐἹεϑ
+bird ὀὶγα False eng
+of οΥ False eng
+prey, 276»; False eng
+then, ἰῇδῃ, False eng
+since βίπος False eng
+the [ῃ6 False eng
+cries οὐἹεϑ False eng
+# 8 32 35 and movements of such birds were δ πα πηονειηεηίβ οὗ ϑυοῇ Ὀϊτήβ ψετς
+and δ False eng
+movements πα False eng
+of πηονειηεηίβ False eng
+such οὗ False eng
+birds ϑυοῇ False eng
+were Ὀϊτήβ False eng
+# 9 36 38 supposed to indicate the will of the ΒΌΡΡΟοΞΒΕά ἴο ἱπαϊσαῖα [6 ψ}}}} οὗ {Π6
+supposed ΒΌΡΡΟοΞΒΕά False eng
+to ἴο False eng
+indicate ἱπαϊσαῖα False eng
+the [6 False eng
+will ψ}}}} False eng
+of οὗ False eng
+the {Π6 False eng
+# 10 37 37 gods,  sign,  omen. See p. 45,  foot- Βοάβ,  5101,  ΟἾΖΦ. 866 ἢ. 45,  ἰοοί-
+gods, Βοάβ, False eng
+sign, 5101, False eng
+omen. ΟἾΖΦ. False eng
+See 866 False na
+p. ἢ. False eng
+45, 45, False na
+foot- ἰοοί- False na
+# 11 5 5 note. ποῖδ.
+note. ποῖδ. False eng
+# 12 39 40 oxvéw,  dxviow; Skynoa [bxvos],  shrink ὀκνέω,  ὀκνήσω,  ὥκνησα [ὄκνος],  «ἀγίπῈ
+ὀκνέω, oxvéw, True pp
+ὀκνήσω, dxviow; True pp
+ὥκνησα Skynoa True pp
+[ὄκνος], [bxvos], True lex
+shrink «ἀγίπῈ False eng
+# 13 42 43 Jrom,  hesitate,  with inf.; fear,  dread, 797,  νη,  ἀοείζαίδ,  νυ ᾿πί.; καν,  ἀγεαώ,
+Jrom, 797, False na
+hesitate, νη, False eng
+with ἀοείζαίδ, False eng
+inf.; νυ False eng
+fear, ᾿πί.; False eng
+dread, καν, False eng
+# 14 25 23 with «4 and subj. or opt. ΜῈ μή δηά 500). οἵ ορί.
+with ΜῈ False eng
+μή «4 True lex
+and δηά False eng
+subj. 500). False eng
+or οἵ False eng
+opt. ορί. False eng
+# 15 38 40 éxvos,  -ov,  hesitation,  reluctance. ὄκνος,  -ου,  ἀεεϊζαζίογ;,  γεἐεείαγιεό.
+ὄκνος, éxvos, True lex
+-ου, -ov, True pp
+hesitation, ἀεεϊζαζίογ;, False eng
+reluctance. γεἐεείαγιεό. False eng
+# 16 41 44 oxrakdcrot,  -at,  -a [dxTw],  eight hun- ὀκτακόσιοι,  -αἱ,  «α [ὀκτώ],  εἰρὴξ Ζπ1ε71-
+ὀκτακόσιοι, oxrakdcrot, True lex
+-at, -αἱ, False na
+-a «α False na
+[ὀκτώ], [dxTw], True lex
+eight εἰρὴξ False eng
+hun- Ζπ1ε71- False na
+# 17 5 5 dred. ἐγεά.
+dred. ἐγεά. False na
+# 18 38 40 oxre [cogn.,  Lat. oct6,  eight,  Eng. ὀκτώ [οορῃ.,  [, Δι. οοἴδ,  εἰράς,  Επρ.
+ὀκτώ oxre True lex
+[cogn., [οορῃ., False na
+Lat. [, False na
+oct6, Δι. False na
+eight, οοἴδ, False eng
+Eng. εἰράς, False na
+# 19 34 33 eight; bor.,  Eng. octagon,  octo- εἰσ; Ὀογ.,  Επρ. οσΐαρσοη,  οοΐο-
+eight; εἰσ; False eng
+bor., Ὀογ., False eng
+Eng. Επρ. False na
+octagon, οσΐαρσοη, False eng
+octo- οοΐο- False na
+# 20 23 23 pus],  indecl.,  ezghé. Ῥυ81,  ᾿ἱπά60].,  ἐζρλ.
+pus], Ῥυ81, False eng
+indecl., ᾿ἱπά60]., False eng
+ezghé. ἐζρλ. False na
+# 21 38 38 oxrwkalSexa [dxrw xal déxa,  eight and ὀκτωκαίδεκα [ὀκτὼ καὶ δέκα,  εἰρἠζ α»α
+ὀκτωκαίδεκα oxrwkalSexa True pp
+[ὀκτὼ [dxrw True form
+καὶ xal True form
+δέκα, déxa, True pp
+eight εἰρἠζ False eng
+and α»α False eng
+# 22 26 27 ten],  indecl.,  eighteen. 2622],  μά 6ο].,  εἰρζοέ7:.
+ten], 2622], False eng
+indecl., μά False eng
+eighteen. 6ο]., False eng
+# 23 45 45 SAcOpos,  -ov [SAA UL,  destroy,  see dmrdbA- ὄλεθρος,  -ου [ὄλλῦμι,  αἰδεέγογ,  5.66 ἀπόλ-
+ὄλεθρος, SAcOpos, True lex
+-ου -ov True pp
+[ὄλλῦμι, [SAA True pp
+UL, αἰδεέγογ, False na
+destroy, 5.66 False eng
+see ἀπόλ- False eng
+dmrdbA- NA False na
+# 24 27 28 uuu],  destruction,  death. λῦμι,  αδείγεείίογι,  αδαζά.
+λῦμι, uuu], True pp
+destruction, αδείγεείίογι, False eng
+death. αδαζά. False eng
+# 25 42 42 OALyos,  -η,  -ov [bor.,  Eng. oligarchy], ὀλίγος,  -η,  -ον [Ὀοτ.,  ΕὩρ. ΟἹ σΑΙΟΒΥἽ,
+ὀλίγος, OALyos, True lex
+-η, -η, False na
+-ον -ov True pp
+[bor., [Ὀοτ., False eng
+Eng. ΕὩρ. False na
+oligarchy], ΟἹ False eng
+# 26 40 44 few,  a few,  only a few; small,  short; 3ξτῦ,  α γέτυ,  ομιῖν ἃ γε; τηρεαϊέ,  «ἦογέ;
+few, 3ξτῦ, False eng
+a α False eng
+few, γέτυ, False eng
+only ομιῖν False eng
+a ἃ False eng
+few; γε; False eng
+small, τηρεαϊέ, False eng
+short; «ἦογέ; False eng
+# 27 42 41 éXlyou dety,  lack little of,  come within ὀλίγου δεῖν,  ἐαεξ ἐ{ 26 οὐ,  εογεὸ τοῦδ:
+ὀλίγου éXlyou True pp
+δεῖν, dety, True form
+lack ἐαεξ False eng
+little ἐ{ False eng
+of, 26 False eng
+come οὐ, False eng
+within εογεὸ False eng
+# 28 37 36 an ace of,  with inf.; éx’ éXlywr,  a α73 αεό οὐ νυνὶ ἰπΐ,; ἐπ’ ὀλίγων,  ἃ
+an α73 False eng
+ace αεό False eng
+of, οὐ False eng
+with νυνὶ False eng
+inf.; ἰπΐ,; False eng
+ἐπ’ éx’ True form
+ὀλίγων, éXlywr, True pp
+a ἃ False eng
+# 29 36 36 Jew men deep. Neut. acc. as adv.,  a 7) νιϑρ αδοῤ. Νεαῖ. ἃςο. 85 δάν.,  ὦ
+Jew 7) False na
+men νιϑρ False eng
+deep. αδοῤ. False eng
+Neut. Νεαῖ. False na
+acc. ἃςο. False eng
+as 85 False eng
+adv., δάν., False eng
+a ὦ False eng
+# 30 7 4 fittle. ἐμέ.
+ἐμέ. fittle. True form
+# 31 32 32 oA Adve,  2 aor. Sic Gor,  slip. ὀλισθάνω,  2 ἀοῖ. ὥλισθον,  «{{.
+ὀλισθάνω, oA True pp
+Adve, 2 False na
+2 ἀοῖ. False na
+aor. ὥλισθον, False eng
+Sic «{{. False na
+Gor, NA False na
+slip. NA False eng
+# 32 44 41 oALo Onpds,  -d,  -dv [d\cOd vw],  slippery. ὀλισθηρός,  -ἅ,  -όν [ὀλισθάνωΊ],  : ῥέε.
+ὀλισθηρός, oALo True lex
+Onpds, -ἅ, False na
+-όν -d, True pp
+-dv [ὀλισθάνωΊ], False na
+[d\cOd : False na
+vw], ῥέε. False na
+slippery. NA False eng
+# 33 42 44 6Akds,  -ddos,  7 [EA\xw,  draw],  a towed ὁλκάς,  -άδος,  ἡ [ἕλκω,  4“γατυ),  α ἐοτυεα
+ὁλκάς, 6Akds, True lex
+-άδος, -ddos, True pp
+ἡ 7 True case
+[ἕλκω, [EA\xw, True pp
+draw], 4“γατυ), False eng
+a α False eng
+towed ἐοτυεα False eng
+# 34 29 30 ship,  merchaniman. See vais. σἦ,  γιογελαρίγιαγι. 866 ναῦς.
+ship, σἦ, False eng
+merchaniman. γιογελαρίγιαγι. False na
+See 866 False na
+ναῦς. vais. True lex
+# 35 37 37 éXoltpoxos,  -ov [cogn.,  Lat. volv6, ὁλοίτροχος,  -ου [οορπῃ.,  [, ἱ. γον,
+ὁλοίτροχος, éXoltpoxos, True lex
+-ου -ov True pp
+[cogn., [οορπῃ., False na
+Lat. [, False na
+volv6, ἱ. False na
+# 36 36 36 roll,  tpéxw,  run),  rolling stone. γοΐ,  τρέχω,  γι],  γοὐῥὝηρ᾽ δί0716.
+roll, γοΐ, False eng
+τρέχω, tpéxw, True pp
+run), γι], False eng
+rolling γοὐῥὝηρ᾽ False eng
+stone. δί0716. False eng
+# 37 37 40 Sdos,  -η,  -ov [cogn.,  Lat. salvus, ὅλος,  -ή,  -ον [οορη.,  [, 8ἴ. 84|γ1|8,
+ὅλος, Sdos, True lex
+-ή, -η, True pp
+-ον -ov True pp
+[cogn., [οορη., False na
+Lat. [, False na
+salvus, 8ἴ. False na
+# 38 38 38 sound,  safe,  solidus,  solid,  bor., σοιέγα,  δα),  801181.8,  «οἱἹα; Ὅοτ.,
+sound, σοιέγα, False eng
+safe, δα), False eng
+solidus, 801181.8, False eng
+solid, «οἱἹα; False eng
+bor., Ὅοτ., False eng
+# 39 35 35 Eng. holocaust,  catholic],  whole, Επρ. ΒοΙοσδιδῖ,  οδίμο 0,  τουλοίε,
+Eng. Επρ. False na
+holocaust, ΒοΙοσδιδῖ, False eng
+catholic], οδίμο False eng
+whole, 0, False eng
+# 40 41 38 entire,  all,  usually in pred. position. 2176,  αἰ,  ἈΞΌΔΙΪΥ ἴῃ ρταά. ροϑβιίοη.
+entire, 2176, False eng
+all, αἰ, False eng
+usually ἈΞΌΔΙΪΥ False eng
+in ἴῃ False eng
+pred. ρταά. False eng
+position. ροϑβιίοη. False eng
+# 41 43 41 *OrzrvOtos,  -ov,  Olynthian,  a citizen of ᾽Ολύνθιος,  -ου,  Οὐνηλίανι,  ἃ οἰτχεη οὗ
+*OrzrvOtos, ᾽Ολύνθιος, False na
+-ου, -ov, True pp
+Olynthian, Οὐνηλίανι, False na
+a ἃ False eng
+citizen οἰτχεη False eng
+of οὗ False eng
+# 42 37 33 Olynthus,  an important city of Chal- ΟἸγ ἢ,  δῃ Ἰτηροτίδπί οἰΥ οὗ (4]-
+Olynthus, ΟἸγ False na
+an ἢ, False eng
+important δῃ False eng
+city Ἰτηροτίδπί False eng
+of οἰΥ False eng
+οὗ Chal- True lex
+# 43 36 39 cidicé,  at the head of the Toronaic οἰάϊοδ,  Αἱ ἴῃς. Βεδά οὗ ἴῃς. Τοτγοῃᾶὶς
+cidicé, οἰάϊοδ, False na
+at Αἱ False eng
+the ἴῃς. False eng
+head Βεδά False eng
+of οὗ False eng
+the ἴῃς. False eng
+Toronaic Τοτγοῃᾶὶς False na
+# 44 5 4 gulf. συ],
+gulf. συ], False eng
+# 45 6 8 Google (πΘοορίς
+Google (πΘοορίς False na
+# 46 3 3 475 475
+475 475 False na
+# 47 41 43 opadfs,  -és [cp. duo’,  and dua,  at the ὁμαλής,  -ές,  [οΡ. ὁμοῦ,  ἀῃὰ ἅμα,  αἱ 27:
+ὁμαλής, opadfs, True lex
+-ές, -és True pp
+[cp. [οΡ. False eng
+ὁμοῦ, duo’, True lex
+and ἀῃὰ False eng
+ἅμα, dua, True lex
+at αἱ False eng
+the 27: False eng
+# 48 41 44 same time],  level,  even; dpuares lévat, 547, 16 176],  ἐφυεί,  ἐυδρε,  ὁμαλὲς ἰέναι,
+same 547, False eng
+time], 16 False eng
+level, 176], False eng
+even; ἐφυεί, False eng
+dpuares ἐυδρε, False na
+ὁμαλὲς lévat, True form
+# 49 25 29 march over level ground.; »ιαγεῖ οὐε7 ἐσυεί ργοιεγα,  .
+march »ιαγεῖ False eng
+over οὐε7 False eng
+level ἐσυεί False eng
+ground.; ργοιεγα, False eng
+# 50 37 39 Opadrds,  -η,  -dv [cp. duadrs; bor., ὁμαλός,  -ή,  -όν [ςρΡ. ὁμαλής; Ὅοτγ, ,
+ὁμαλός, Opadrds, True lex
+-ή, -η, True pp
+-όν -dv True pp
+[cp. [ςρΡ. False eng
+ὁμαλής; duadrs; True lex
+bor., Ὅοτγ, False eng
+# 51 33 37 Eng. anomalous],  level,  even; 7 Επρ. 8ΔΠΟΙ4101181,  δευεί,  ευερι,  ἡ
+Eng. Επρ. False na
+anomalous], 8ΔΠΟΙ4101181, False eng
+level, δευεί, False eng
+even; ευερι, False eng
+ἡ 7 True case
+# 52 38 38 ouaryh (sc. 77),  devel ground,  Neut. ὁμαλή (30. γῆ),  ἐενεὶ ργομγα,  Νεαῖί.
+ὁμαλή ouaryh True form
+(sc. (30. False eng
+γῆ), 77), True lex
+devel ἐενεὶ False eng
+ground, ργομγα, False eng
+Neut. Νεαῖί. False na
+# 53 18 20 as subst.,  plain. ἃ5 5.0 58ῖ.,  2 αἴ».
+as ἃ5 False eng
+subst., 5.0 False eng
+plain. 58ῖ., False eng
+# 54 38 41 Opadas [duands],  adv.,  evenly,  with ὁμαλῶς [ὁμαλός},  δἄν.,  δυεγιῖν,  τοί τὰ
+ὁμαλῶς Opadas True form
+[duands], [ὁμαλός}, False na
+adv., δἄν., False eng
+evenly, δυεγιῖν, False eng
+with τοί False eng
+# 55 10 11 even step. ἐν 62: σίδ.
+even ἐν False eng
+step. 62: False eng
+# 56 23 23 Spnpos,  -ov,  hostage. ὅμηρος,  -ου,  λοείαρε.
+ὅμηρος, Spnpos, True lex
+-ου, -ov, True pp
+hostage. λοείαρε. False eng
+# 57 38 37 Opiréw,  duihjow,  wuidnoa,  wputdynKa ὁμιϊλέω,  ὁμίλήσω,  ὡμΐλησα,  ὡμίληκα
+ὁμιϊλέω, Opiréw, True pp
+ὁμίλήσω, duihjow, True pp
+ὡμΐλησα, wuidnoa, True pp
+ὡμίληκα wputdynKa True pp
+# 58 33 35 [Suthos (cp. duod,  fry,  crowd), [ὅμῖλος (εΡ. ὁμοῦ,  ἴλη,  εγοτυα)ρ,
+[Suthos [ὅμῖλος False na
+(cp. (εΡ. False eng
+ὁμοῦ, duod, True lex
+fry, ἴλη, False eng
+crowd), εγοτυα)ρ, False eng
+# 59 34 35 crowd,  bor.,  Eng. homily,  homi- «γοιυαῖ,  ὍὈοτ.,  Επρ. ΒΟΥ,  Βοιιὶ-
+crowd, «γοιυαῖ, False eng
+bor., ὍὈοτ., False eng
+Eng. Επρ. False na
+homily, ΒΟΥ, False eng
+homi- Βοιιὶ- False na
+# 60 24 25 letic],  associate with. 161107,  “5δοεΐαίε τυΐίλ.
+letic], 161107, False na
+associate “5δοεΐαίε False eng
+with. τυΐίλ. False eng
+# 61 26 26 oplxAn,  -ns,  mist,  fog. ὁμίχλη,  -ῆς,  γιῖς, ,  7.
+ὁμίχλη, oplxAn, True lex
+-ns, -ῆς, False na
+mist, γιῖς, False eng
+fog. , False eng
+# 62 35 35 Spvtpe and dpvbw,  duoduar,  Suooa, ὄμνυμι Δηὰ ὀμνύω,  ὀμοῦμαι,  ὥμοσα,
+ὄμνυμι Spvtpe True pp
+and Δηὰ False eng
+ὀμνύω, dpvbw, True pp
+ὀμοῦμαι, duoduar, True pp
+ὥμοσα, Suooa, True pp
+# 63 34 37 Samoa,  duwpuo(o)uar,  wud(o) On», Σ ταύμοκα,  ὀμώμο(σν)μαι,  ὠμό(σγθην,
+Samoa, Σ False na
+ταύμοκα, duwpuo(o)uar, True pp
+ὀμώμο(σν)μαι, wud(o) True pp
+ὠμό(σγθην, On», True pp
+# 64 36 33 swear,  take oath,  with cogn. acc., διυέα,  ἑαξέ οαἵά,  Ψ σορῃ,  806.
+swear, διυέα, False eng
+take ἑαξέ False eng
+oath, οαἵά, False eng
+with Ψ False eng
+cogn. σορῃ, False na
+acc., 806. False eng
+# 65 20 22 dat.,  and fut. inf. ἄκλῖ.,  δῃηά [αζ. 1πΐ.
+dat., ἄκλῖ., False eng
+and δῃηά False eng
+fut. [αζ. False eng
+inf. 1πΐ. False eng
+# 66 40 41 Sporos,  -a,  -ov [cp. duoi; bor.,  Eng. ὅμοιος,  -ἄ,  -ον [(Ρ. ὁμοῦ; Ῥοῖ.,  Επῃρ.
+ὅμοιος, Sporos, True lex
+-a, -ἄ, False na
+-ον -ov True pp
+[cp. [(Ρ. False eng
+ὁμοῦ; duoi; True lex
+bor., Ῥοῖ., False eng
+Eng. Επῃρ. False na
+# 67 36 37 homoeopathy ],  ike,  similar,  with ΒΟΙΠΟΘΟΡΔΙΠΥ1,  ἐξέ,  οἱρι1 4»,  νι ἢ
+homoeopathy ΒΟΙΠΟΘΟΡΔΙΠΥ1, False eng
+], ἐξέ, False na
+ike, οἱρι1 False eng
+similar, 4», False eng
+with νι False eng
+# 68 35 36 dat. As subst.,  masc. pl.,  peers, ἀαϊ. Α5 5υρ8ῖ.,  τηδϑο. Ρ].,  2έ675,
+dat. ἀαϊ. False eng
+As Α5 False na
+subst., 5υρ8ῖ., False eng
+masc. τηδϑο. False eng
+pl., Ρ]., False eng
+peers, 2έ675, False eng
+# 69 35 35 used of Spartan citizens possessing υϑεἀ οὗ ϑραγίδῃ οἰ Ζε 5. Ῥοββεβϑίηρ
+used υϑεἀ False eng
+of οὗ False eng
+Spartan ϑραγίδῃ False na
+citizens οἰ False eng
+possessing Ζε False eng
+# 70 39 37 full rights; neut. sing.,  év T@ dpoly, [(]} τρῖβ; πϑαΐ. 5ἷηρ.,  ἐν τῷ ὁμοίῳ,
+full [(]} False eng
+rights; τρῖβ; False eng
+neut. πϑαΐ. False eng
+sing., 5ἷηρ., False eng
+ἐν év True lex
+τῷ T@ True lex
+ὁμοίῳ, dpoly, True form
+# 71 35 38 on equal terms with them,  213,  4. 071 ἐφιέαὲ 6715 τοῖτὰ 126)»,  213,  4.
+on 071 False eng
+equal ἐφιέαὲ False eng
+terms 6715 False eng
+with τοῖτὰ False eng
+them, 126)», False eng
+213, 213, False na
+4. 4. False na
+# 72 41 42 6polws [Suowos],  adv.,  alike,  equally. ὁμοίως [ὅμοιος],  δέν.,  αἰϊξο,  ἐφιαϊζίν.
+ὁμοίως 6polws True lex
+[ὅμοιος], [Suowos], True lex
+adv., δέν., False eng
+alike, αἰϊξο, False eng
+equally. ἐφιαϊζίν. False eng
+# 73 39 38 dporoyéw,  duoroyjow,  etc. [cp. dpuod, ὁμολογέω,  ὁμολογήσω,  εἴς. [ςρ. ὁμοῦ,
+ὁμολογέω, dporoyéw, True pp
+ὁμολογήσω, duoroyjow, True pp
+etc. εἴς. False eng
+[cp. [ςρ. False eng
+ὁμοῦ, dpuod, True lex
+# 74 37 37 Aéyw,  say,  bor.,  Eng. homologous ] λέγω,  54),  Ὀοτ.,  Επρ. ΒΟΠΊΟΙΟΡΟΙΒ]
+λέγω, Aéyw, True pp
+say, 54), False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+homologous ΒΟΠΊΟΙΟΡΟΙΒ] False eng
+] NA False na
+# 75 30 31 (have common speech about any- (λανε εὐνῖροῦ φῤέεεᾷ δΌουϊ δηγ-
+(have (λανε False eng
+common εὐνῖροῦ False eng
+speech φῤέεεᾷ False eng
+about δΌουϊ False eng
+any- δηγ- False na
+# 76 37 41 thing),  agree,  admit,  acknowledge, (δϊηρ),  αργέξ,  σαἰγι11,  ἀεξηοτουῤῥαρε,
+thing), (δϊηρ), False eng
+agree, αργέξ, False eng
+admit, σαἰγι11, False eng
+acknowledge, ἀεξηοτουῤῥαρε, False eng
+# 77 8 9 confess. 40717255.
+confess. 40717255. False eng
+# 78 37 38 Gpodoyouptvws [duoroyéw],  adv.,  aa- ὁμολογουμένως [ὁμολογέω],  δάν.,  σεΐ-
+ὁμολογουμένως Gpodoyouptvws True lex
+[ὁμολογέω], [duoroyéw], True pp
+adv., δάν., False eng
+aa- σεΐ- False na
+# 79 34 28 mittedly; with éx wdvtTwr,  as was γεν,  νι ἐκ πάντων,  ὧ5 τῦᾶς
+mittedly; γεν, False na
+with νι False eng
+ἐκ éx True lex
+πάντων, wdvtTwr, True pp
+as ὧ5 False eng
+was τῦᾶς False eng
+# 80 16 13 admitted by all, συμ ρα ὄν αὐ.
+admitted συμ False eng
+by ρα False eng
+all, ὄν False eng
+# 81 40 40 Gpophrptos,  -d,  -ov [cp. du00,  uArnp, ὁμομήτριος,  -ἅ,  -ον [ςρ. ὁμοῦ,  μήτηρ,
+ὁμομήτριος, Gpophrptos, True lex
+-d, -ἅ, False na
+-ον -ov True pp
+[cp. [ςρ. False eng
+ὁμοῦ, du00, True lex
+μήτηρ, uArnp, True lex
+# 82 30 28 mother ],  by the same mother. ρεοί.γ,  ὃν δέ 5α»6 τηοΐδεγ.
+mother ρεοί.γ, False eng
+ὃν ], True form
+by δέ False eng
+the 5α»6 False eng
+same τηοΐδεγ. False eng
+mother. NA False eng
+# 83 19 21 cpdorar,  see Surv. ὀμόσαι,  5Ξε6 ὄμνῦμι.
+ὀμόσαι, cpdorar, True form
+see 5Ξε6 False eng
+ὄμνῦμι. Surv. True pp
+# 84 37 35 Gpéoe [cp. duod],  adv.,  4o the same ὁμόσε [ςρ. ὁμοῦ],  αἄν.,  20 δε τα»
+ὁμόσε Gpéoe True lex
+[cp. [ςρ. False eng
+ὁμοῦ], duod], True lex
+adv., αἄν., False eng
+4o 20 False na
+the δε False eng
+same τα» False eng
+# 85 25 25 place; to close quarters. 2ίαες; ἰο εἰοτο φηαγίεγς.
+place; 2ίαες; False eng
+to ἰο False eng
+close εἰοτο False eng
+quarters. φηαγίεγς. False eng
+# 86 39 39 éporpatmefos,  -ov [cp. duod,  Tpdrefa, ὁμοτράπεζος,  -ον [ὁρΡ. ὁμοῦ,  τράπεζα,
+ὁμοτράπεζος, éporpatmefos, True lex
+-ον -ov True pp
+[cp. [ὁρΡ. False eng
+ὁμοῦ, duod, True lex
+τράπεζα, Tpdrefa, True lex
+# 87 36 33 table),  at the same table. Masc. as Ζα 6,  αὐ τἦ6 φαρι ζαῤδθ. αβο. 85
+table), Ζα False eng
+at 6, False eng
+the αὐ False eng
+same τἦ6 False eng
+table. φαρι False eng
+Masc. ζαῤδθ. False na
+as αβο. False eng
+# 88 36 37 subst.,  able companion,  a title of Βυρδῖ.,  ἐαόδρ εοριῤαηῖορ,  ἃ [116 οὗ
+subst., Βυρδῖ., False eng
+able ἐαόδρ False eng
+companion, εοριῤαηῖορ, False eng
+a ἃ False eng
+title [116 False eng
+of οὗ False eng
+# 89 36 34 privileged courtiers in Persia,  who ῬΤΝΠΠΘρεα σουγίειθ ἰῃ Ῥεγβία,  ψῃῸ
+privileged ῬΤΝΠΠΘρεα False eng
+courtiers σουγίειθ False eng
+in ἰῃ False eng
+Persia, Ῥεγβία, False na
+who ψῃῸ False eng
+# 90 31 26 were allowed to eat in the same ΜΕΥ δον ἴο ἐδ ἰῃ [86 5δπι8
+were ΜΕΥ False eng
+allowed δον False eng
+to ἴο False eng
+eat ἐδ False eng
+in ἰῃ False eng
+the [86 False eng
+same 5δπι8 False eng

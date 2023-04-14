@@ -1,0 +1,530 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΓΑΚΥ
+VOCABULARY ΝΟΓΑΒΌΓΑΚΥ False na
+# 1 20 20 pod,  pol,  see éyw. μοῦ,  μοί,  5εε ἐγώ.
+pod, μοῦ, False eng
+pol, μοί, False eng
+see 5εε False eng
+ἐγώ. éyw. True lex
+# 2 12 10 polo,  suck. μύζω,  εξ.
+polo, μύζω, False eng
+suck. εξ. False eng
+# 3 43 45 Muplavbdos,  -ov,  7,  Myriandus,  a Syrian ἹΜυρίανδος,  -ου,  ἡ,   γγεαμαΐίμε,  ἃ ϑγτίδῃ
+ἹΜυρίανδος, Muplavbdos, True pp
+-ου, -ov, True pp
+ἡ, 7, True case
+Myriandus, γγεαμαΐίμε, False na
+a ἃ False eng
+Syrian ϑγτίδῃ False na
+# 4 11 9 coast city. οοδϑῖ οἰ.
+coast οοδϑῖ False eng
+city. οἰ. False eng
+# 5 39 39 pupids,  -ddos,  7 [uiplos; bor.,  Eng. μῦριάς,  -άδος,  ἡ [μῦρίος; Ὀοτ.,  ΕὩρ.
+pupids, μῦριάς, False na
+-άδος, -ddos, True pp
+ἡ 7 True case
+[uiplos; [μῦρίος; False na
+bor., Ὀοτ., False eng
+Eng. ΕὩρ. False na
+# 6 34 40 myriad],  the number ten thousand, ταγτὶδᾶ],  Ζῴε »ετεριόθ7 ἐδη,  {ποτδαγα,
+myriad], ταγτὶδᾶ], False eng
+the Ζῴε False eng
+number »ετεριόθ7 False eng
+ten ἐδη, False eng
+thousand, {ποτδαγα, False eng
+# 7 7 8 myriad, »εγγ]αά.
+myriad, »εγγ]αά. False eng
+# 8 39 41 puplos,  -d,  -ov,  countless; pl. with μῦρίος,  -α,  -ον,  «οιεγεζδος,  Ὁ]... ΜΙ
+puplos, μῦρίος, False na
+-α, -d, True pp
+-ον, -ov, True pp
+countless; «οιεγεζδος, False eng
+pl. Ὁ]... False eng
+with ΜΙ False eng
+# 9 39 40 changed accent,  pOpiot,  -at,  -a,  as σμδηρεά δοσεηΐ,  μύριοι,  -αι,  -α,  845
+changed σμδηρεά False eng
+accent, δοσεηΐ, False eng
+μύριοι, pOpiot, True lex
+-αι, -at, True pp
+-α, -a, True pp
+as 845 False eng
+# 10 35 35 definite numeral,  fen thousand; so ἀοβηϊθ πυτηογαὶ,  ζερε ἑλοσαμα,  50
+definite ἀοβηϊθ False eng
+numeral, πυτηογαὶ, False eng
+fen ζερε False eng
+thousand; ἑλοσαμα, False eng
+so 50 False eng
+# 11 36 37 in the sing.,  with collective noun, ἴῃ ἴΠε δἰηρ.,  ψ] ἢ ΤΟΙ] οοἴῖνα ποῦῃ,
+in ἴῃ False eng
+the ἴΠε False eng
+sing., δἰηρ., False eng
+with ψ] False eng
+collective ἢ False eng
+noun, ΤΟΙ] False eng
+# 12 8 8 85,  15. 85,  15.
+85, 85, False na
+15. 15. False na
+# 13 37 33 ptpov,  -ov,  fragrant otl,  perfume. μύρον,  -ου,  »αργαμέ οἵἱἕ,  δεν.
+μύρον, ptpov, True pp
+-ου, -ov, True pp
+fragrant »αργαμέ False eng
+otl, οἵἱἕ, False na
+perfume. δεν. False eng
+# 14 41 41 Micros,  -a,  -ov [Miods],  ALysian,  be- ΜΝύσιος,  -α,  -ον [Μῦσός],  7γεία»,  ὁε-
+Micros, ΜΝύσιος, False na
+-α, -a, True pp
+-ον -ov True pp
+[Miods], [Μῦσός], False na
+ALysian, 7γεία», False na
+be- ὁε- False na
+# 15 35 34 longing to Mysia,  a country in the ἐργηισίηρ το “7γεῖα,  ἃ σου ἴῃ (ἢς
+longing ἐργηισίηρ False eng
+to το False eng
+“7γεῖα, Mysia, True pp
+a ἃ False eng
+country σου False eng
+in ἴῃ False eng
+the (ἢς False eng
+# 16 32 33 northwestern part of Asia Minor. ποτ νγεβίεσῃ ρᾶτί οὗ Αϑβία Μίῃοσ.
+northwestern ποτ False eng
+part νγεβίεσῃ False eng
+of ρᾶτί False eng
+οὗ Asia True lex
+Minor. Αϑβία False na
+# 17 41 42 Miool,  -d»,  A/ystans,  people of Mysia, Μυσοί,  -ῶν,  )7γεΐατι5,  ΡΕορΙε οὗ Μγϑῖα,
+Μυσοί, Miool, True lex
+-d», -ῶν, False na
+A/ystans, )7γεΐατι5, False na
+people ΡΕορΙε False eng
+of οὗ False eng
+Mysia, Μγϑῖα, False na
+# 18 18 21 hostile to Persia. ἢΠοβίῖ ες ἴο Ῥετγβὶδ.
+hostile ἢΠοβίῖ False eng
+to ες False eng
+Persia. ἴο False na
+# 19 28 27 puxos,  -00,  nook,  recess. μυχός,  -οῦ,  ποοΐ,  γέζ55.
+μυχός, puxos, True lex
+-00, -οῦ, False na
+nook, ποοΐ, False eng
+recess. γέζ55. False eng
+# 20 42 45 pOpos,  -a,  -ov [bor.,  Eng. sophomore ], μῶρος,  -α,  -ον [ὍὈοτ, ,  ΕὩΡ. ΒΟΡΒΟΙΏΠΟΙΘΊ,
+μῶρος, pOpos, True form
+-α, -a, True pp
+-ον -ov True pp
+[bor., [ὍὈοτ, False eng
+Eng. , False na
+sophomore ΕὩΡ. False eng
+], ΒΟΡΒΟΙΏΠΟΙΘΊ, False na
+# 21 17 16 stupid,  foolish. σέμῥία,  γοοϊελ.
+stupid, σέμῥία, False eng
+foolish. γοοϊελ. False eng
+# 22 1 1 N Ν
+N Ν False na
+# 23 39 41 vaqn,  -1s,  wooded vale,  dell,  gien. νάπη,  -ης,  τυοοαρα ναΐρ,  αἰεὐΐ,  ρίδ».
+νάπη, vaqn, True lex
+-1s, -ης, False na
+wooded τυοοαρα False eng
+vale, ναΐρ, False eng
+dell, αἰεὐΐ, False eng
+gien. ρίδ». False eng
+# 24 41 42 vavapxos,  -ou [ vais,  Apyw,  command ], ναύαρχος,  -ου [ναῦς,  ἄρχω,  εονε»ιαραῖ],
+ναύαρχος, vavapxos, True lex
+-ου -ou True pp
+[ναῦς, [ True lex
+ἄρχω, vais, True pp
+Apyw, εονε»ιαραῖ], False na
+command NA False eng
+], NA False na
+# 25 29 35 commander of ships,  admiral, κοηρε αγ6167,  οΥ 5125,  αὐὐριϊγας,
+commander κοηρε False eng
+of αγ6167, False eng
+ships, οΥ False eng
+admiral, 5125, False eng
+# 26 43 44 vais,  vews,  7 [cogn.,  Lat. navis,  shzp; γαῦς,  νεώς,  ἡ [ςορῃ.,  [, Αἱ. πᾶν]8,  «ἀΐ;
+vais, γαῦς, False na
+νεώς, vews, True lex
+ἡ 7 True case
+[cogn., [ςορῃ., False na
+Lat. [, False na
+navis, Αἱ. False eng
+shzp; πᾶν]8, False na
+# 27 37 40 bor.,  Eng. nausea],  sip,  including Ὀοτ.,  Επρ. π41:1868],  “ἀ:2,  ἱπο]αήίηρ
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+nausea], π41:1868], False eng
+sip, “ἀ:2, False eng
+including ἱπο]αήίηρ False eng
+# 28 34 36 both merchantmen (6Axddes),  high- Ῥοΐἢ τρεγορδηϊηγεη (ὁλκάδες),  Ὠἰρἢ-
+both Ῥοΐἢ False eng
+merchantmen τρεγορδηϊηγεη False eng
+(ὁλκάδες), (6Axddes), True pp
+high- Ὠἰρἢ- False na
+# 29 34 35 hulled and broad of beam,  and the Βυ]]οὰ δηά ὑτοδά οὗ ὕδᾶπι,  διὰ {Π6
+hulled Βυ]]οὰ False eng
+and δηά False eng
+broad ὑτοδά False eng
+of οὗ False eng
+beam, ὕδᾶπι, False eng
+and διὰ False eng
+the {Π6 False eng
+# 30 35 37 long,  low,  and comparatively nar- Ἰοηρ,  ἴον,  δῃὰ Ἴσομπηραγδίνεϊν ἢδτ-
+long, Ἰοηρ, False eng
+low, ἴον, False eng
+and δῃὰ False eng
+comparatively Ἴσομπηραγδίνεϊν False eng
+nar- ἢδτ- False na
+# 31 35 34 row men of war (vies waxpal),  with ΤΟΥ τηθη οὗ νᾶῦ (νῆες μακραί),  “ἢ
+row ΤΟΥ False eng
+men τηθη False eng
+of οὗ False eng
+war νᾶῦ False eng
+(vies (νῆες False eng
+waxpal), μακραί), False na
+with “ἢ False eng
+# 32 32 33 a ram on or just below the water 8. ΤΆ ΟΠ οΟΥἩ υ5ῖ θεῖον ἴῃς ναῖον
+a 8. False eng
+ram ΤΆ False eng
+on ΟΠ False eng
+or οΟΥἩ False eng
+just υ5ῖ False eng
+below θεῖον False eng
+the ἴῃς False eng
+water ναῖον False eng
+# 33 37 37 line. The prevailing type of war ves- 11ηὴ6. ΤὮε ργθνδιϊηρ ἴγρε οὗ νᾶῦ ν68-
+line. 11ηὴ6. False eng
+The ΤὮε False na
+prevailing ργθνδιϊηρ False eng
+type ἴγρε False eng
+of οὗ False eng
+war νᾶῦ False eng
+ves- ν68- False na
+# 34 30 31 sel in Xenophon’s time was the 561] ἴπ Χοπορῃοηβ {ἰπ|ὶ νᾶ8 (ἢ6
+sel 561] False eng
+in ἴπ False eng
+Xenophon’s Χοπορῃοηβ False na
+time {ἰπ|ὶ False eng
+was νᾶ8 False eng
+the (ἢ6 False eng
+# 35 32 32 trireme (see rpijpns). Both mer- πγοτὴθ (866 τριήρης). Βοίἢ πηοῖ-
+trireme πγοτὴθ False eng
+(see (866 False eng
+τριήρης). rpijpns). True lex
+Both Βοίἢ False na
+mer- πηοῖ- False na
+# 36 28 30 chantmen and men of war were σμδηϊμηθη δηά τῇθῃ οὗ νῦγ ψϑῦ6
+chantmen σμδηϊμηθη False na
+and δηά False eng
+men τῇθῃ False eng
+of οὗ False eng
+war νῦγ False eng
+were ψϑῦ6 False eng
+# 37 35 36 steered by two oars,  one on either βίεογεα ὈΥ ἴννο οδῦβ,  οὔθ οὐ δἰ μοῦ
+steered βίεογεα False eng
+by ὈΥ False eng
+two ἴννο False eng
+oars, οδῦβ, False eng
+one οὔθ False eng
+on οὐ False eng
+either δἰ False eng
+# 38 35 35 side of the stern post. The trading 5146 οἵ [ῃ68 βίθσῃ ροβί. Τα ἱγδήϊηρ
+side 5146 False eng
+of οἵ False eng
+the [ῃ68 False eng
+stern βίθσῃ False eng
+post. ροβί. False eng
+The Τα False na
+trading ἱγδήϊηρ False eng
+# 39 38 38 ships were propelled by sails,  and so ΒἢῚΡ5 ν 6.6 Ῥγορε]]εα Ὀγ 541}5,  μὰ 80
+ships ΒἢῚΡ5 False eng
+were ν False eng
+propelled 6.6 False eng
+by Ῥγορε]]εα False eng
+sails, Ὀγ False eng
+and 541}5, False eng
+so μὰ False eng
+# 40 35 32 were the fivhting ships when not in ψετα {πε Πρἢιην 5Π1ρ05 τη ποῖ ἴῃ
+were ψετα False eng
+the {πε False eng
+fivhting Πρἢιην False na
+ships 5Π1ρ05 False eng
+when τη False eng
+not ποῖ False eng
+in ἴῃ False eng
+# 41 35 37 action or in haste; but the trained δεοίίοη οὐ ἴῃ ἤαπία - δυϊ (Π6 ἰταϊηθι
+action δεοίίοη False eng
+or οὐ False eng
+in ἴῃ False eng
+haste; ἤαπία False eng
+but - False eng
+the δυϊ False eng
+trained (Π6 False eng
+# 42 32 35 crews of the vessels of war were οἴενν οὗ ἴῃ6 νεββε]5. οἱ ννᾶγ ννεῦε
+crews οἴενν False eng
+of οὗ False eng
+the ἴῃ6 False eng
+vessels νεββε]5. False eng
+of οἱ False eng
+war ννᾶγ False eng
+were ννεῦε False eng
+# 43 34 38 capable of propelling them by oars οαρδ1}}6 οἵ ργορο!! την ἰΠοτὰ ΟΥ̓ Οατδ
+capable οαρδ1}}6 False eng
+of οἵ False eng
+propelling ργορο!! False eng
+them την False eng
+by ἰΠοτὰ False eng
+oars ΟΥ̓ False eng
+# 44 6 6 Go gle (ο αἷς
+Go (ο False na
+αἷς gle True form
+# 45 3 3 471 471
+471 471 False na
+# 46 34 35 at a very respectable speed,  even αἴ ἃ ΝΘΥΥ ταβρθοίδΌ]ς βρεθά,  ὄἼνβῇ
+at αἴ False eng
+a ἃ False eng
+very ΝΘΥΥ False eng
+respectable ταβρθοίδΌ]ς False eng
+speed, βρεθά, False eng
+even ὄἼνβῇ False eng
+# 47 31 32 for considerable distances. See ἴογυ σομῃβιάθγαῦ]α ἀϊδίαμοθβ. 66
+for ἴογυ False eng
+considerable σομῃβιάθγαῦ]α False eng
+distances. ἀϊδίαμοθβ. False eng
+See 66 False na
+# 48 16 16 Fig. 19,  p. 69. ΕἸξ. 19,  Ρ. 69.
+Fig. ΕἸξ. False na
+19, 19, False na
+p. Ρ. False eng
+69. 69. False na
+# 49 44 44 vavoliropos,  -ov [ vais,  répos,  passage], νανσίπορος,  -ον [ ναῦς,  πόρος,  δαςΞ:αρε],
+vavoliropos, νανσίπορος, False na
+-ον -ov True pp
+[ [ False na
+ναῦς, vais, True lex
+πόρος, répos, True lex
+passage], δαςΞ:αρε], False eng
+# 50 31 34 passable for ships,  navigable, 2αφςεαὐόέε γον» «ἠΐφε,  παυϊραῤίε.
+passable 2αφςεαὐόέε False eng
+for γον» False eng
+ships, «ἠΐφε, False eng
+navigable, παυϊραῤίε. False eng
+# 51 40 38 vauTiKkés,  -7),  -dy [vais; bor.,  Eng. ναντικός,  -ή,  -όν [ναῦς; Ὀοτ.,  Επρ.
+vauTiKkés, ναντικός, False na
+-ή, -7), True pp
+-όν -dy True pp
+[ναῦς; [vais; True lex
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+# 52 37 35 nautical,  nautilus,  Argonaut],  2<- ΠΔΌ1041,  ΠΔυ 1108,  ΑΥσοπδα],  γα-
+nautical, ΠΔΌ1041, False eng
+nautilus, ΠΔυ False eng
+Argonaut], 1108, False na
+2<- ΑΥσοπδα], False na
+# 53 15 15 val,  nautical. νας,  πατζτεας.
+val, νας, False eng
+nautical. πατζτεας. False eng
+# 54 40 42 vediviokos,  -ov [diminutive of veavias, νεανίσκος,  -ου [ἀἰϊηγχίπαίννε οὗ νεᾶνίᾶς,
+νεανίσκος, vediviokos, True lex
+-ου -ov True pp
+[diminutive [ἀἰϊηγχίπαίννε False eng
+of οὗ False eng
+veavias, νεᾶνίᾶς, False na
+# 55 36 46 young man),  youth,  young man,  ap- )οτέηῖρ᾽ Ῥ1421},  γοτεζλ,  γοιέῃρ πι|α71,  ΔΡ-
+young )οτέηῖρ᾽ False eng
+man), Ῥ1421}, False eng
+youth, γοτεζλ, False eng
+young γοιέῃρ False eng
+man, πι|α71, False eng
+ap- ΔΡ- False na
+# 56 33 35 plicable from boyhood up to forty Ρ]Ισ4 016 ἔτοπὶ Ῥουμοοά ἃρ ἴο ἐυτῖγ
+plicable Ρ]Ισ4 False eng
+from 016 False eng
+boyhood ἔτοπὶ False eng
+up Ῥουμοοά False eng
+to ἃρ False eng
+forty ἴο False eng
+# 57 33 35 years of age; contemptuously,  my γεδῖβ οὗ ρὲ; σοῃίεπιρ[πουβιν,  2, »
+years γεδῖβ False eng
+of οὗ False eng
+age; ρὲ; False eng
+contemptuously, σοῃίεπιρ[πουβιν, False eng
+my 2, False eng
+# 58 23 24 young fellow,  108,  8. )οιρρ γεέέοτυ,  τοϑ,  8.
+young )οιρρ False eng
+fellow, γεέέοτυ, False eng
+108, τοϑ, False na
+8. 8. False na
+# 59 39 40 vexpés,  -o¥ [cogn.,  Lat. nex,  death, νεκρός,  -ου [΄σορῃ.,  [, δἴ. Π6Χ,  δαί,
+νεκρός, vexpés, True lex
+-ου -o¥ True pp
+[cogn., [΄σορῃ., False na
+Lat. [, False na
+nex, δἴ. False na
+death, Π6Χ, False eng
+# 60 36 34 neco,  £7//,  bor.,  Eng. necrology, προῦ,  δ,  Ὀοτ.,  Επρ. ΠΘΟΓΟΙΟΦΎΥ,
+neco, προῦ, False na
+£7//, δ, False na
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+necrology, ΠΘΟΓΟΙΟΦΎΥ, False eng
+# 61 42 43 necropolis],  dead body ,  pl.,  the dead, ΠΘΟΙΌΡΟΙΙ81,  ἀἰσαωώ ὀοάν ,  Ρ].,  Ζζε ἐξα,
+necropolis], ΠΘΟΙΌΡΟΙΙ81, False eng
+dead ἀἰσαωώ False eng
+body ὀοάν False eng
+, , False na
+pl., Ρ]., False eng
+the Ζζε False eng
+dead, ἐξα, False eng
+# 62 42 42 vénw,  veud,  Everua,  -vevéunca,  veveun- νέμω,  νεμῶ,  ἔνειμα,  -νενέμηκα,  νενέμη-
+νέμω, vénw, True pp
+νεμῶ, veud, True pp
+Everua, ἔνειμα, False na
+-νενέμηκα, -vevéunca, True pp
+veveun- νενέμη- False na
+# 63 38 39 pat,  éveunnOny,  distribute; drive to μαι,  ἐνεμήθην,  αἴϊείγίόίς,  οὐγῖνθ ἴο
+pat, μαι, False eng
+ἐνεμήθην, éveunnOny, True pp
+distribute; αἴϊείγίόίς, False eng
+drive οὐγῖνθ False eng
+to ἴο False eng
+# 64 37 37 pasture; mid.,  go to pastur&®™ feed, 2αςίμγε,  ταῖά.,  ρὸ ἕο ρας» ᾺΡ γροὔ,
+pasture; 2αςίμγε, False eng
+mid., ταῖά., False eng
+go ρὸ False eng
+to ἕο False eng
+pastur&®™ ρας» False na
+feed, ᾺΡ False eng
+# 65 41 43 raze; pass.,  véuerat ailkl,  2s pastured ὅ7αξε,  Ρ455.) νέμεται αἰξί,  ὃς δας ίμγεαώ
+raze; ὅ7αξε, False eng
+pass., Ρ455.) False eng
+νέμεται véuerat True form
+ailkl, αἰξί, False na
+ὃς 2s True form
+pastured δας False eng
+# 66 11 12 with goats. εὐἰτὰ ροαΐς.
+with εὐἰτὰ False eng
+goats. ροαΐς. False eng
+# 67 45 46 vedSapros,  -ov [vdéos,  dépw,  flay],  newly νεόδαρτος,  -ον [ νέος,  δέρω,  Μα»ν},  πετυΐν
+νεόδαρτος, vedSapros, True pp
+-ον -ov True pp
+[vdéos, [ False na
+νέος, dépw, True lex
+flay], δέρω, False eng
+newly Μα»ν}, False eng
+# 68 7 8 flayed.  αγεώ, .
+flayed. αγεώ, False eng
+# 69 44 44 véos,  -G,  -ov,  comp. vewrepos,  sup. vew- γέος,  -α,  -ον,  Πογρ. γεώτερος,  Β0Ρ. νεώ-
+véos, γέος, False na
+-α, -G, True pp
+-ον, -ov, True pp
+comp. Πογρ. False eng
+vewrepos, γεώτερος, False na
+sup. Β0Ρ. False eng
+vew- νεώ- False na
+# 70 38 45 raros [cogn.,  Lat. novus,  zew,  Eng. τατος [ςορῃ.,  [, Δ41ἴ. ΠΟΥ͂Ί18,  πεηυ,  ΕὩρ.
+τατος raros True pp
+[cogn., [ςορῃ., False na
+Lat. [, False na
+novus, Δ41ἴ. False eng
+zew, ΠΟΥ͂Ί18, False na
+Eng. πεηυ, False na
+# 71 33 34 new; bor.,  Eng. neologism,  neo- ΠΟῪ; Ὀοτ.,  Επρ. προ]ορ 8πι,  Π60-
+new; ΠΟῪ; False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+neologism, προ]ορ False eng
+neo- 8πι, False na
+# 72 28 26 lithic,  neophyte],  vourzg. 1 81ς,  ΠΘΟΡψίθ],  γοιεϑι.
+lithic, 1 False eng
+neophyte], 81ς, False eng
+vourzg. ΠΘΟΡψίθ], False na
+# 73 41 44 veup&,  -ας [cp. veipov],  cord of sinew, νευρᾶ,  -ας [ςρ. νεῦρον],  εογαΪ ο7 εἴϑιειυ,
+veup&, νευρᾶ, False na
+-ας -ας False na
+[cp. [ςρ. False eng
+νεῦρον], veipov], True pp
+cord εογαΪ False eng
+of ο7 False eng
+sinew, εἴϑιειυ, False eng
+# 74 10 9 bowstring. δοτυείγρ.
+bowstring. δοτυείγρ. False eng
+# 75 33 38 vedpov,  -ov [cogn.,  Lat. mervus νεῦρον,  -ου [ὁοορῃ.,  [, 4Αἰ. ὩΘΙΨΙΙΒ
+νεῦρον, vedpov, True pp
+-ου -ov True pp
+[cogn., [ὁοορῃ., False na
+Lat. [, False na
+mervus 4Αἰ. False na
+# 76 28 29 (whence is bor. Eng. nerve), ( Ππεπος 15 θοῦ. Επρ. ποῖγθ),
+(whence ( False eng
+is Ππεπος False eng
+bor. 15 False eng
+Eng. θοῦ. False na
+nerve), Επρ. False eng
+# 77 36 41 sinew,  bor.,  Eng. neuralgia,  neu- σίγιστυ ,  Ὀοτ.,  Επηρ. πρύυγαϊρία,  ποι-
+sinew, σίγιστυ False eng
+bor., , False eng
+Eng. Ὀοτ., False na
+neuralgia, Επηρ. False eng
+neu- πρύυγαϊρία, False na
+# 78 37 42 rasthenia,  neuritis],  s¢zew,  cord. Γαϑί βοηΐα,  ΠΟΘ ΌΓ1[18],  σέλιετν,; εογώ.
+rasthenia, Γαϑί False na
+neuritis], βοηΐα, False eng
+s¢zew, ΠΟΘ False na
+cord. ΌΓ1[18], False eng
+# 79 21 21 vevodpevor,  see véw. νευσόμενοι,  566 νέω.
+νευσόμενοι, vevodpevor, True form
+see 566 False eng
+νέω. véw. True pp
+# 80 40 44 veérn,  -ns [cogn.,  Lat. nebula,  mzsz; νεφέλη,  -ης [οορῃ.,  [, 4[. ΠΟΌΌ]4,  »ε152,
+νεφέλη, veérn, True lex
+-ns -ης False na
+[cogn., [οορῃ., False na
+Lat. [, False na
+nebula, 4[. False eng
+mzsz; ΠΟΌΌ]4, False na
+# 81 35 34 bor.,  Eng. nepheloscope ],  cloud. Ῥοτ.,  Επρ. ὨΘΡΒΘΙΟΒΟΟΡΘΊ,  εἰστα,
+bor., Ῥοτ., False eng
+Eng. Επρ. False na
+nepheloscope ὨΘΡΒΘΙΟΒΟΟΡΘΊ, False eng
+], εἰστα, False na
+cloud. NA False eng
+# 82 38 39 véw,  vevoouac and vevootua,  -évevoa, νέω,  νεύσομαι ἀπὰ νευσοῦμαι,  -ένευσα,
+νέω, véw, True pp
+νεύσομαι vevoouac True pp
+and ἀπὰ False eng
+νευσοῦμαι, vevootua, True pp
+-ένευσα, -évevoa, True pp
+# 83 35 38 -véveuxa [cogn.,  Lat. nd,  swinz], -νένευκα [σορῃ.,  [, Αἴ. πῦ,  “τυΐ»1],
+-νένευκα -véveuxa True pp
+[cogn., [σορῃ., False na
+Lat. [, False na
+nd, Αἴ. False eng
+swinz], πῦ, False na
+# 84 5 6 Swim. 5101».
+Swim. 5101». False na
+# 85 14 17 vey,  See vas. νεῶν,  8566 ναῦς.
+νεῶν, vey, True form
+See 8566 False na
+vas. ναῦς. False eng
+# 86 35 37 vewortl [ véos],  adv.,  recert/y’. νεωστί [ νέος],  δίϊν.,  γ6ε67177}, .
+νεωστί vewortl True lex
+[ [ False na
+νέος], véos], True lex
+adv., δίϊν., False eng
+recert/y’. γ6ε67177}, False na
+# 87 41 41 vf,  intensive adv.,  used in affirmative νή,  Ἰηϊδηβῖνα διῖν, ,  ἀεὶ ἴῃ δἰΠγηηδίνθ
+νή, vf, True lex
+intensive Ἰηϊδηβῖνα False eng
+adv., διῖν, False eng
+used , False eng
+in ἀεὶ False eng
+affirmative ἴῃ False eng
+# 88 37 35 oaths,  with acc.,  vy Ala,  yes,  by οαίῃβ,  ΜΙ δοο.,  νὴ Δία,  μές,  ὧν
+oaths, οαίῃβ, False eng
+with ΜΙ False eng
+acc., δοο., False eng
+νὴ vy True form
+Δία, Ala, True lex
+yes, μές, False eng
+by ὧν False eng
+# 89 6 5 Zeus | Ζεις!
+Zeus Ζεις! False na
+| NA False na

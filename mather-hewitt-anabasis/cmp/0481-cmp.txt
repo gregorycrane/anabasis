@@ -1,0 +1,580 @@
+
+# 1 36 34 share,  with dat. of person and gen. σἦαγε,  ἢ ἀαῖ. οὗ ρΡεύβοῃ δηά σϑῃ.
+share, σἦαγε, False eng
+with ἢ False eng
+dat. ἀαῖ. False eng
+of οὗ False eng
+person ρΡεύβοῃ False eng
+and δηά False eng
+gen. σϑῃ. False eng
+# 2 34 35 of thing; ovdevds nuty pereln,  we οὗ πτηρσ; οὐδενὸς ἡμῖν μετείη,  τὸς
+of οὗ False eng
+thing; πτηρσ; False eng
+οὐδενὸς ovdevds True form
+ἡμῖν nuty True form
+μετείη, pereln, True form
+we τὸς False eng
+# 3 15 14 had no share. — λαΐ »ο φτἦαγει
+had λαΐ False eng
+no »ο False eng
+share. φτἦαγει False eng
+# 4 42 43 petéwpos,  -ov [delpw,  raise; bor.,  Eng. μετέωρος,  -ον [ἀείρω,  γαΐδε,  Ὀοτ.,  ΕὩΡ.
+μετέωρος, petéwpos, True lex
+-ον -ov True pp
+[ἀείρω, [delpw, True pp
+raise; γαΐδε, False eng
+bor., Ὀοτ., False eng
+Eng. ΕὩΡ. False na
+# 5 33 33 meteor],  ~aised from the ground. τιοίθοῦ],  γαΐεεα  οηΣ {66 ρ᾽ οι,
+meteor], τιοίθοῦ], False eng
+raised γαΐεεα False na
+from οηΣ False eng
+the {66 False eng
+ground. ρ᾽ False eng
+# 6 38 39 petpew,  duérpnoa,  éverphOny [érpov], μετρέω,  ἐμέτρησα,  ἐμετρήθην [μέτρον],
+μετρέω, petpew, True pp
+ἐμέτρησα, duérpnoa, True pp
+ἐμετρήθην éverphOny True pp
+[μέτρον], [érpov], True pp
+# 7 8 12 measure. 9261 5147 6.
+measure. 9261 False eng
+# 8 42 42 petplus [uérpios,  moderate],  adv.,  with μετρίως [μέτριος,  »εοαἶγαΐε],  δᾶν.,  τὐτ
+μετρίως petplus True form
+[μέτριος, [uérpios, True lex
+moderate], »εοαἶγαΐε], False eng
+adv., δᾶν., False eng
+with τὐτ False eng
+# 9 24 27 moderation,  moderately. »εουἶεγαζΖογε,  γεοαΐγ ζεῖ.
+moderation, »εουἶεγαζΖογε, False eng
+moderately. γεοαΐγ False eng
+# 10 40 46 pérpov,  -ov [cogn.,  Lat. métior,  eas- μέτρον,  -ου [οορη.,  [, 31. τι δ ΙΟΥ,  »2665-
+μέτρον, pérpov, True pp
+-ου -ov True pp
+[cogn., [οορη., False na
+Lat. [, False na
+metior, 31. False na
+meas- True form
+# 11 36 43 ure,  bor.,  Eng. meter,  symmetry], 2476,  Ὀοτ.,  ΕὩρ,  πιρίοσ,  ΒΥ τι] Θ ΕΓ ],
+ure, 2476, False eng
+bor., Ὀοτ., False eng
+Eng. ΕὩρ, False na
+meter, πιρίοσ, False eng
+symmetry], ΒΥ False eng
+# 12 8 11 measure. »Ὀ16Ω51476.
+measure. »Ὀ16Ω51476. False eng
+# 13 44 40 péexpe,  (1) adv.,  up fo,  as far as,  with μέχρι,  (1) δάν.,  ΚΞ ἔο,  ας 37 ας,  ΜῊ
+μέχρι, péexpe, True lex
+(1) (1) False na
+adv., δάν., False eng
+up ΚΞ False eng
+to, ἔο, False eng
+as ας False eng
+far 37 False eng
+as, ας, False eng
+with ΜῊ False eng
+# 14 32 32 another adv. or with gen.; péxpu ΔΠΟΪΏΟΥ δάᾶν,  οὐ ἢ ρσοη.; μέχρι
+another ΔΠΟΪΏΟΥ False eng
+adv. δάᾶν, False eng
+or οὐ False eng
+with ἢ False eng
+gen.; ρσοη.; False eng
+μέχρι péxpu True lex
+# 15 40 38 ob,  fo where,  (2) conj.,  until,  with οὗ,  ο τυλεγε,  (2) σοη].,  τ“μΖ4,  ΜῈ
+οὗ, False eng
+to ο False eng
+where, τυλεγε, False eng
+(2) (2) False na
+conj., σοη]., False eng
+until, τ“μΖ4, False eng
+with ΜῈ False eng
+# 16 24 25 indic.,  or &y and subj. 1η6α]ς.,  οΥ ἄν δηὰ 50}].
+indic., 1η6α]ς., False eng
+or οΥ False eng
+ἄν &y True lex
+and δηὰ False eng
+subj. 50}]. False eng
+# 17 41 45 ph,  adv.,  zof,  the neg. in expressions μή,  δάν.,  κοΐ,  ἴῃ 8. πδρ. ἴῃ ΘΧΡΥ β5Ί ΟΠ 5
+μή, False eng
+adv., δάν., False eng
+not, zof, True lex
+the ἴῃ False eng
+neg. 8. False eng
+in πδρ. False eng
+expressions ἴῃ False eng
+# 18 38 39 of the will and thought,  as od is the οὔ [86 ψ1}} ἂἀπά [βουρῃϊ,  45 οὐ 15 ἴῃς
+of οὔ False eng
+the [86 False eng
+will ψ1}} False eng
+and ἂἀπά False eng
+thought, [βουρῃϊ, False eng
+as 45 False eng
+οὐ False eng
+is 15 False eng
+the ἴῃς False eng
+# 19 34 34 neg. in statements of fact; conse- Ὡδρ. ἴῃ σἰδίεηεηίς οὗ ἰδοϊ; σοῃβο-
+neg. Ὡδρ. False eng
+in ἴῃ False eng
+statements σἰδίεηεηίς False eng
+of οὗ False eng
+fact; ἰδοϊ; False eng
+conse- σοῃβο- False na
+# 20 31 28 quently it is used in neg. com- ΠΌΘΗΥ [Ὁ 5 υϑεὰ ἴῃ περ. σοχ-
+quently ΠΌΘΗΥ False na
+it [Ὁ False eng
+is 5 False eng
+used υϑεὰ False eng
+in ἴῃ False eng
+neg. περ. False eng
+com- σοχ- False na
+# 21 35 38 mands or in exhortations; regularly ΤΑΔῊ 5 ΟΥἩὨ ἴῃ Θχβογίδι οῃβ; γερΌΪΑΥ]ν
+mands ΤΑΔῊ False eng
+or 5 False eng
+in ΟΥἩὨ False eng
+exhortations; ἴῃ False eng
+regularly Θχβογίδι False eng
+# 22 38 37 with the inf.,  except in indir. disc. 8 (ἢ 6 ἱπί, ,  ἐχοθρί ἴῃ ᾿πάϊγ. α156,
+with 8 False eng
+the (ἢ False eng
+inf., 6 False eng
+except ἱπί, False eng
+in , False eng
+indir. ἐχοθρί False na
+disc. ἴῃ False eng
+# 23 31 27 in expressions which would have πῃ δχργδϑϑίομ ΜΏΪΟ μου Βᾶνε
+in πῃ False eng
+expressions δχργδϑϑίομ False eng
+which ΜΏΪΟ False eng
+would μου False eng
+have Βᾶνε False eng
+# 24 35 34 ov in dir. disc.; with the inf. de- οὐ ἴῃ ἀἶτ. αἴ56.; ψ ἢ (86 ᾿ηΐς ἀε-
+οὐ ov True lex
+in ἴῃ False eng
+dir. ἀἶτ. False eng
+disc.; αἴ56.; False eng
+with ψ False eng
+the ἢ False eng
+inf. (86 False eng
+de- ᾿ηΐς False na
+# 25 32 30 pending on a verb of escaping or Ῥοηαηρ ΟἹ ἃ νεΡ οὗ εβοδρὶηρ οὐ
+pending Ῥοηαηρ False eng
+on ΟἹ False eng
+a ἃ False eng
+verb νεΡ False eng
+of οὗ False eng
+escaping εβοδρὶηρ False eng
+or οὐ False eng
+# 26 36 36 hindering,  from,  in conditions and Βἰπάεείηρ,  23, 0»,  ἴῃ σοπά!οη5 δηά
+hindering, Βἰπάεείηρ, False eng
+from, 23, False eng
+in 0», False eng
+conditions ἴῃ False eng
+and σοπά!οη5 False eng
+# 27 33 32 conditional rel. clauses and with σομαϊεομδὶ ταὶ. οἰδυθεβ δπὰ ψ] ἢ
+conditional σομαϊεομδὶ False eng
+rel. ταὶ. False eng
+clauses οἰδυθεβ False eng
+and δπὰ False eng
+with ψ] False eng
+# 28 34 39 circumstantial ptcs. implying con- αἰτουχϊηβίδη!41 Ρῥίοβ. ᾿πηρ] γἱηρ σοοη-
+circumstantial αἰτουχϊηβίδη!41 False eng
+ptcs. Ρῥίοβ. False na
+implying ᾿πηρ] False eng
+con- γἱηρ False na
+# 29 37 40 dition; ef pu,  tf not,  except,  un- αἀϊίοῃ; εἰ μή,  17) ποί,  ἐχεοῤέ,  2|71-
+dition; αἀϊίοῃ; False eng
+εἰ False eng
+μή, False eng
+tf 17) False na
+not, ποί, False eng
+except, ἐχεοῤέ, False eng
+un- 2|71- False na
+# 30 38 43 less; el 6é uh,  otherwise; in clauses ἦσες; εἰ δὲ μή,  οὐλογηυΐδο, ,  ἴὰ οἶδιιβ65
+less; ἦσες; False eng
+εἰ False eng
+δὲ 6é True form
+μή, False eng
+otherwise; οὐλογηυΐδο, False eng
+in , False eng
+clauses ἴὰ False eng
+# 31 35 36 of purpose; after verbs of fearing, οὗ ρυΐροβε; δίϊου νϑυγὴβ οἵ ἐξαγίηρ,
+of οὗ False eng
+purpose; ρυΐροβε; False eng
+after δίϊου False eng
+verbs νϑυγὴβ False eng
+of οἵ False eng
+fearing, ἐξαγίηρ, False eng
+# 32 39 36 expressed or implied,  chat,  lest,  wh ἜΧΡΥββοα οὐ ᾿ρ]|166,  ζλαί,  ε5,  μὴ
+expressed ἜΧΡΥββοα False eng
+or οὐ False eng
+implied, ᾿ρ]|166, False eng
+that, ζλαί, False eng
+lest, ε5, False eng
+μὴ False eng
+# 33 37 34 ov,  that not,  ov wh with subj.,  as οὐ,  λαΐ μποΐ; οὐ μή νι 50}].,  85
+οὐ, ov, True lex
+that λαΐ False eng
+not, μποΐ; False eng
+οὐ ov True lex
+μή False eng
+with νι False eng
+subj., 50}]., False eng
+as 85 False eng
+# 34 31 34 a strong fut. neg. 112,  153 my ἃ 5ἰἴγτοηρ ἔαϊ. περ.» 112,  15; μὴ
+a ἃ False eng
+strong 5ἰἴγτοηρ False eng
+fut. ἔαϊ. False eng
+neg. περ.» False eng
+112, 112, False na
+153 15; False na
+μὴ False eng
+# 35 35 33 ov with inf. after an expression of οὐ ΜΊΓᾺ ἰπΐ,  ΔΕ δῃ ἐχργεβϑίοῃ οὗ
+οὐ ov True lex
+with ΜΊΓᾺ False eng
+inf. ἰπΐ, False eng
+after ΔΕ False eng
+an δῃ False eng
+expression ἐχργεβϑίοῃ False eng
+of οὗ False eng
+# 36 33 33 shame or in a question containing ΒΏΔΙΘ ΟΥ πῃ ἃ 465! Οη σοπίδι ΠΙηρ
+shame ΒΏΔΙΘ False eng
+or ΟΥ False eng
+in πῃ False eng
+a ἃ False eng
+question 465! False eng
+containing Οη False eng
+# 37 34 39 the idea of hindering,  ot,  from, {86 Ιάβθα οἵ πϊπάδγϊηρ,  ηοΐ,  29, 072,
+the {86 False eng
+idea Ιάβθα False eng
+of οἵ False eng
+hindering, πϊπάδγϊηρ, False eng
+not, ηοΐ, False eng
+from, 29, False eng
+# 38 34 35 116,  18; 143,  2. The same usages 116,  18; 143,  2. Τῇε βδῃη6 ὑϑᾶραβ
+116, 116, False na
+18; 18; False na
+143, 143, False na
+2. 2. False na
+The Τῇε False na
+same βδῃη6 False eng
+usages ὑϑᾶραβ False eng
+# 39 28 29 appear with the cpds. of “7. ΔΡΡΘδᾶῦ ψ ΙΓ ἴμ6 οράϑ. οὗ μή.
+appear ΔΡΡΘδᾶῦ False eng
+with ψ False eng
+the ΙΓ False eng
+cpds. ἴμ6 False na
+of οράϑ. False eng
+οὗ “7. True lex
+# 40 40 40 prnSapas [undauds,  not one],  adv.,  by μηδαμῶς [μηδαμός,  "οΐ ο716],  δάν.,  ὃγ
+μηδαμῶς prnSapas True lex
+[μηδαμός, [undauds, True lex
+not "οΐ False eng
+one], ο716], False eng
+adv., δάν., False eng
+by ὃγ False eng
+# 41 25 25 mo means,  on no account. 20 2245,  ΟΣ ὯῸ ἀεζοῖ 12.
+mo 20 False eng
+means, 2245, False eng
+on ΟΣ False eng
+no ὯῸ False eng
+account. ἀεζοῖ False eng
+# 42 36 36 pyndé [7 + dé],  conj. or adv.,  and μηδέ [μή - δέ],  σοη). οΥ δἄν.,  αηα
+μηδέ pyndé True lex
+[μή [7 True lex
++ - False na
+δέ], dé], True lex
+conj. σοη). False eng
+or οΥ False eng
+adv., δἄν., False eng
+and αηα False eng
+# 43 36 34 not,  but not,  nor,  not even,  not μοί,  ὀμέ ποί,  ποῦ,  οΐ ευε,  μοΐ
+not, μοί, False eng
+but ὀμέ False eng
+not, ποί, False eng
+nor, ποῦ, False eng
+not οΐ False eng
+even, ευε, False eng
+not μοΐ False eng
+# 44 7 6 either. ἐϊἀέγ.
+either. ἐϊἀέγ. False eng
+
+# 47 40 42 MfSea,  -ας,  A7edza,  wife of Astyages, Μήδεια,  -ας,  77εάξα,  νιὶία οὗ ΑΞίγᾶρεϑ,
+Μήδεια, MfSea, True lex
+-ας, -ας, False na
+Medea, True pp
+wife νιὶία False eng
+of οὗ False eng
+Astyages, ΑΞίγᾶρεϑ, False na
+# 48 23 24 last king of the Medes. Ἰαϑὶ Κὶπρ οἵ ἴῃς Μεάεδ5.
+last Ἰαϑὶ False eng
+king Κὶπρ False eng
+of οἵ False eng
+the ἴῃς False eng
+Medes. Μεάεδ5. False na
+# 49 37 38 pndels,  undeula,  unddv [undé + els, μηδείς,  μηδεμία,  μηδέν [μηδέ -Ἐ εἷς,
+μηδείς, pndels, True lex
+μηδεμία, undeula, True form
+μηδέν unddv True lex
+[μηδέ [undé True lex
++ -Ἐ False na
+εἷς, False eng
+# 50 40 43 one],  not one,  no one,  nobody,  noth- 0716],  μοζ ο716,  μο ογι6,  ποδοῖν,  γοδἦ-
+one], 0716], False eng
+not μοζ False eng
+one, ο716, False eng
+no μο False eng
+one, ογι6, False eng
+nobody, ποδοῖν, False eng
+noth- γοδἦ- False na
+# 51 4 5 ing. 1710.
+ing. 1710. False eng
+# 52 39 39 pyndémrore [undé + word,  ever],  adv., μηδέποτε [μηδέ -Ἐ ποτέ,  ενε7],  δἄν.»;
+μηδέποτε pyndémrore True lex
+[μηδέ [undé True lex
++ -Ἐ False na
+ποτέ, False eng
+ever], ενε7], False eng
+adv., δἄν.»; False eng
+# 53 6 6 never. πευθν,
+never. πευθν, False eng
+# 54 38 38 Mn8la,  -ας,  Wedia,  the name used by Μηδία,  -ας,  εάξα,  [86 πάτα υϑεα ΌΥῪ
+Μηδία, Mn8la, True lex
+Media, True pp
+the [86 False eng
+name πάτα False eng
+used υϑεα False eng
+by ΌΥῪ False eng
+# 55 35 36 Xenophon for Assyria,  the district ΧΕΒοΡἤοη ἴοσ Αϑϑυγία,  ἴῃς ἀἰϊδισιοϊ
+Xenophon ΧΕΒοΡἤοη False na
+for ἴοσ False eng
+Assyria, Αϑϑυγία, False na
+the ἴῃς False eng
+district ἀἰϊδισιοϊ False eng
+# 56 34 33 lying along the Tigris above Baby- Ἰγίηρ δοῃρ ἴῃς Τίρτῖβ ἀρονε Βαῦγ-
+lying Ἰγίηρ False eng
+along δοῃρ False eng
+the ἴῃς False eng
+Tigris Τίρτῖβ False na
+above ἀρονε False eng
+Baby- Βαῦγ- False na
+# 57 28 26 lon; it was conquered by the ἴοα; ἃ νὰ σοῃημεῖθα ὈΥ [86
+lon; ἴοα; False na
+it ἃ False eng
+was νὰ False eng
+conquered σοῃημεῖθα False eng
+by ὈΥ False eng
+the [86 False eng
+# 58 31 31 Medes about 606 B.c. 7d Myédlas Μεάδς ἂροιΐ 6οό6 Β.0. τὸ Μηδίας
+Medes Μεάδς False na
+about ἂροιΐ False eng
+606 6οό6 False na
+B.C. Β.0. False na
+τὸ 7d True form
+Μηδίας Myédlas True form
+# 59 31 35 tetxos,  the wall of Media; its τεῖχος,  τὴς τουωδ οΥἡἹ Μεαϊα,  ἰῖ8
+τεῖχος, tetxos, True lex
+the τὴς False eng
+wall τουωδ False eng
+of οΥἡἹ False eng
+Media; Μεαϊα, False na
+its ἰῖ8 False eng
+# 60 35 34 exact position cannot be determined ἐχδοῖ ροβίϊοῃ οδπηοῖ θ6 ἀεϊεσηϊηθά
+exact ἐχδοῖ False eng
+position ροβίϊοῃ False eng
+cannot οδπηοῖ False eng
+be θ6 False eng
+determined ἀεϊεσηϊηθά False eng
+# 61 32 34 from existing ruins. It ran from ἔγογη Ὄχι βϑιηρ ταΐϊηθ. [{ τ ἰγοτὴ
+from ἔγογη False eng
+existing Ὄχι False eng
+ruins. βϑιηρ False eng
+It ταΐϊηθ. False na
+ran [{ False eng
+from τ False eng
+# 62 35 33 the Euphrates,  near Pylae,  north- {πη ΕἸΡγαΐεβ,  πεᾶσ Ῥυΐδθ,  ποτί-
+the {πη False eng
+Euphrates, ΕἸΡγαΐεβ, False na
+near πεᾶσ False eng
+Pylae, Ῥυΐδθ, False na
+north- ποτί- False na
+# 63 37 37 east to the Tigris,  and was built by εαϑὶ ἰο ἴῃ6 ΤΙρτὶβ,  ἀηα ννὰβ 01} ὈΥ̓
+east εαϑὶ False eng
+to ἰο False eng
+the ἴῃ6 False eng
+Tigris, ΤΙρτὶβ, False na
+and ἀηα False eng
+was ννὰβ False eng
+built 01} False eng
+by ὈΥ̓ False eng
+# 64 32 33 the Babylonians perhaps early in [186 Βααρυ]οηΐδηβ ρῬεῦῃδρβ θαυ [ἢ
+the [186 False eng
+Babylonians Βααρυ]οηΐδηβ False na
+perhaps ρῬεῦῃδρβ False eng
+early θαυ False eng
+in [ἢ False eng
+# 65 37 38 the sixth century B.c.,  as a defense τῆς 5ἰχῖ ἢ σε πίΥΥ Β.0.,  ἃ5 ἃ ἀείεηβα
+the τῆς False eng
+sixth 5ἰχῖ False eng
+century ἢ False eng
+B.c., True lem
+as πίΥΥ False eng
+a Β.0., False eng
+defense ἃ5 False eng
+# 66 27 28 against the invading Medes. ἀραϊηβί {Π6 ᾿Ἰηνδαϊηρ Μεάδ8.
+against ἀραϊηβί False eng
+the {Π6 False eng
+invading ᾿Ἰηνδαϊηρ False eng
+Medes. Μεάδ8. False na
+# 67 42 43 M ‘Sou,  -wy,  of,  Medes,  inhabitants of Μῆδοι,  -ων,  οἱ,  )7εαξς,  ἰῃ ΠΑΡ ταηῖ5 οὗ
+Μῆδοι, M True form
+-ων, ‘Sou, True pp
+οἱ, -wy, True pp
+of, )7εαξς, False eng
+Medes, ἰῃ False na
+inhabitants ΠΑΡ False eng
+of ταηῖ5 False eng
+# 68 6 8 Media. Μεαϊΐαᾶ.
+Media. Μεαϊΐαᾶ. False na
+# 69 17 16 pO",  see purjre. μήθ᾽,  566 μήτε.
+μήθ᾽, False na
+see 566 False eng
+μήτε. purjre. True lex
+# 70 42 38 pykére [uu + ere,  stzd/,  with x inserted μηκέτι [μή -ἰ ἔτι,  2],  1  κ Ἰηβετίεά
+μηκέτι pykére True lex
+[μή [uu True lex
++ -ἰ False na
+ἔτι, False eng
+still, 2], False na
+with 1 False eng
+κ False eng
+inserted Ἰηβετίεά False eng
+# 71 38 37 on the analogy of ovxére],  adv.,  not ου ἴῃ δηδίορυ οὗ οὐκέτι],  δᾶν.,  "οΖ
+on ου False eng
+the ἴῃ False eng
+analogy δηδίορυ False eng
+of οὗ False eng
+οὐκέτι], ovxére], True lex
+adv., δᾶν., False eng
+not "οΖ False eng
+# 72 18 21 again,  no longer. αραῖ72,  710 ἐ071067.
+again, αραῖ72, False eng
+no 710 False eng
+longer. ἐ071067. False eng
+# 73 40 39 pfikos,  -ous,  7d [cp. paxpdbs,  long], μῆκος,  -ους,  τό [ςΡ. μακρός,  Ζρ᾽ιρ],
+μῆκος, pfikos, True lex
+-ους, -ous, True pp
+τό 7d True form
+[cp. [ςΡ. False eng
+μακρός, paxpdbs, True lex
+long], Ζρ᾽ιρ], False eng
+# 74 9 8 length. | ἐεγιρτἦ,
+length. ἐεγιρτἦ, False eng
+# 75 40 40 phy [cp. uév],  intensive or adversative μήν [οΡ. μέν],  ᾿ηϊεηδῖνε οὐ δάνεγβαίΐνα
+μήν phy True lex
+[cp. [οΡ. False eng
+μέν], uév], True lex
+intensive ᾿ηϊεηδῖνε False eng
+or οὐ False eng
+adversative δάνεγβαίΐνα False eng
+# 76 39 40 postpositive adv.,  surely,  yet,  how- Ῥοβίροβιεινε δέν.,  σφεγείν,  γε,  Ζοτυ-
+postpositive Ῥοβίροβιεινε False eng
+adv., δέν., False eng
+surely, σφεγείν, False eng
+yet, γε, False eng
+how- Ζοτυ- False na
+# 77 34 30 ever,  though,  sometimes with v4, ἐν,  ἐλοτερή,  ϑουηθιηθβ ἢ γέ,
+ever, ἐν, False eng
+though, ἐλοτερή, False eng
+sometimes ϑουηθιηθβ False eng
+with ἢ False eng
+γέ, v4, True form
+# 78 34 34 which is translated only by empha- γνΠΙΟἢ 5 ἰγαηϑ᾽αῖθ ΟὨ]Ὺ ὈΥ δἸωρμᾶ-
+which γνΠΙΟἢ False eng
+is 5 False eng
+translated ἰγαηϑ᾽αῖθ False eng
+only ΟὨ]Ὺ False eng
+by ὈΥ False eng
+empha- δἸωρμᾶ- False na
+# 79 37 37 sis; Kal unv,  and yet; ANA why,  but 515} καὶ μήν,  αηα γεΐ; ἀλλὰ μήν,  ὁπ
+sis; 515} False eng
+καὶ Kal True form
+μήν, unv, True lex
+and αηα False eng
+yet; γεΐ; False eng
+ἀλλὰ ANA True form
+why, μήν, False eng
+but ὁπ False eng
+# 80 40 37 surely,  but still,  in fact,  ov5é why, σηγεῖν,  ὀμεέ οἰ,  ἐπ αεί,  οὐδὲ μήν,
+surely, σηγεῖν, False eng
+but ὀμεέ False eng
+still, οἰ, False eng
+in ἐπ False eng
+fact, αεί, False eng
+οὐδὲ ov5é True form
+why, μήν, False eng
+# 81 32 34 and surely not; % why,  on one’s αηαἱ φηγοὶν πο,  ἢ μήν,  ογ᾽ ΟἿΘ᾽Β
+and αηαἱ False eng
+surely φηγοὶν False eng
+not; πο, False eng
+ἢ % True lem
+why, μήν, False eng
+on ογ᾽ False eng
+one’s ΟἿΘ᾽Β False na
+# 82 14 18 word of honor. τυογαΐ ο7 Ζο»107..
+word τυογαΐ False eng
+of ο7 False eng
+honor. Ζο»107.. False eng
+# 83 36 40 phv,  unvds,  6 [cogn,  Lat. ménsis, μήν,  μηνός,  ὁ [ςορῃ.,  [, Δἴ. πιδη818,
+μήν, phv, True lex
+μηνός, unvds, True form
+ὁ 6 True lex
+[cogn, [ςορῃ., False na
+Lat. [, False na
+ménsis, Δἴ. False na
+# 84 35 31 month; Eng. moon,  month ],  month; »ορίζ; Ἐπρ. το,  ΟΠ 1,  »εογζλ,
+month; »ορίζ; False eng
+Eng. Ἐπρ. False na
+moon, το, False eng
+month ΟΠ False eng
+], 1, False na
+month; »εογζλ, False eng
+# 85 37 38 Kard ujva,  month by month,  monthly. κατὰ μῆνα,  τπογιλ ὧν »εογλ,  »"ογλῖγ.
+κατὰ Kard True form
+μῆνα, ujva, True form
+month τπογιλ False eng
+by ὧν False eng
+month, »εογλ, False eng
+monthly. »"ογλῖγ. False eng
+# 86 38 40 pnvdo,  nviow,  etc.,  reveal,  inform μηνὕω,  μηνύσω,  εἴς.,  γενεαί,  ΖΉ7ΟΥΉΣ
+μηνύω, pnvdo, True pp
+μηνύσω, nviow, True pp
+etc., εἴς., False eng
+reveal, γενεαί, False eng
+inform ΖΉ7ΟΥΉΣ False eng
+# 87 8 8 against. αραῖη5:.
+against. αραῖη5:. False eng
+# 88 42 42 phmore [ 47) + ord,  ever],  adv.,  mever. μήποτε [μή -᾿ ποτέ,  εὐέ7, ],  δἄν.,  μευ,
+μήποτε phmore True lex
+[μή [ True lex
++ -᾿ False na
+ποτέ, + True lem
+ever], ], False eng
+adv., δἄν., False eng
+never. μευ, False na
+# 89 37 39 pho [uj + rH,  yer],  adv.,  not yet. μήπω [μή -᾿ πώ,  γεξ],  δᾶν.,  κοΐ γεΐ.
+μήπω False eng
+[μή [uj True lex
++ -᾿ False na
+πώ, False na
+yet], γεξ], False eng
+adv., δᾶν., False eng
+not κοΐ False eng
+yet. γεΐ. False eng
+# 90 39 41 phre [47 + 7é,  and],  conj.,  and not, μήτε [μή - τέ,  αγ41],  σο0η].,  ἀγα] »οΐ
+μήτε phre True lex
+[μή [47 True lex
++ - False na
+τέ, 7é, True form
+and], αγ41], False eng
+conj., σο0η]., False eng
+and ἀγα] False eng
+not, »οΐ False eng

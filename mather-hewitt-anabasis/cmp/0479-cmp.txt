@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΕΒΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΕΒΥ False na
+
 # 1 36 36 paxn,  -ns [udxouac; bor.,  Eng. lo- μάχη,  -ης [μάχομαι; Ὅοτ.,  Επρ. 10-
 μάχη, paxn, True lex
 -ns -ης False na
@@ -16,7 +15,7 @@ battle. NA False eng
 μάχομαι, paxopat, True pp
 μαχοῦμαι, uaxotuat, True pp
 ἐμαχεσάμην, duayerduny, True pp
-ueud- μεμά- False na
+μεμά- False na
 # 4 40 33 Xnpat,  fight,  abs. or with dat.; fight χημαι,  βρέ,  αῦϑ. οὐ ἢ ἀαϊ.; λρλ
 χημαι, Xnpat, True pp
 fight, βρέ, False eng
@@ -29,15 +28,12 @@ fight λρλ False eng
 in ἦρι False eng
 person, 24750᾽1, False eng
 go ρῸ False eng
-tnto ἵρίο False na
+into ἵρίο False na
 the {Ζῴ6 False eng
 battle, ὀσίέε, False eng
 85, 85, False na
-ὃ. 8. True form
-# 6 12 13 pé,  see ey. μέ,  Ξεε ἐγώ.
-μέ, pé, True form
-see Ξεε False eng
-ey. ἐγώ. False eng
+8. True form
+
 # 7 33 34 peyadomperds [ueyadompers (udyas, μεγαλοπρεπῶς [μεγαλοπρεπής (μέγας,
 μεγαλοπρεπῶς peyadomperds True form
 [μεγαλοπρεπής [ueyadompers True lex
@@ -63,14 +59,13 @@ generosity. ρερεγοσίγ. False eng
 μεγάλως peydrws True form
 [μέγας], [udyas], True lex
 adv., δάν., False eng
-ev »γ False na
-catly, εαζέν, False na
+greatly, εαζέν, False na
 grossly. ρ»ο»είν. False eng
 # 12 42 42 Meyapeis,  -éws,  6,  Wegarian,  a citizen Μεγαρεύς,  -έως,  ὁ,  Μεοραγία,  ἃ οἰ Ζ6 ἢ
 Μεγαρεύς, Meyapeis, True lex
 -éws, -έως, False na
 ὁ, 6, True lex
-Wegarian, Μεοραγία, False na
+Megarian, Μεοραγία, False na
 a ἃ False eng
 citizen οἰ False eng
 # 13 39 39 of Megara,  the chief city of the state οὗ Μερᾶτα,  ἴῃε οἰϊεξ οἱἵγ οὗ τῆς 5ἴδίε
@@ -102,7 +97,7 @@ Athens. ΑΙ False na
 μεγάλη, ueydAn, True form
 μέγα, uéya, True form
 comp. σοτηρ. False eng
-μείξων, pelfwy, True pp
+μείζων, pelfwy, True pp
 # 18 35 39 sup. uéyioros [cogn.,  Lat. magnus, ΒΌΡ. μέγιστος [σορῃ.,  [, 4ἴ. πιϑΡΏ118,
 sup. ΒΌΡ. False eng
 μέγιστος uéyioros True pp
@@ -147,8 +142,9 @@ of οἵ False eng
 # 25 33 34 Persia; pelfova ws,  too great to Ῥεγβῖα; μείζονα ἢ ὡς,  το σγεαΐ 10
 Persia; Ῥεγβῖα; False na
 μείζονα pelfova True form
-ws, ἢ False eng
-too ὡς, False eng
+ἢ False eng
+ὡς,
+too  False eng
 great το False eng
 to σγεαΐ False eng
 # 26 37 37 be; Ta peydda,  affairs of state,  Ta ὅτε; τὰ μεγάλα,  αὔαϊγ5 οΓ εἰαίε,; τὰ
@@ -184,15 +180,15 @@ greatly »γεαίέ», False eng
 sup. ΒΌΡ. False eng
 τὸ 7d True form
 μέγιστον, péytorov, True pp
-chiefly, εὐϊοῆν,; False eng
+chiefly; εὐϊοῆν,; False eng
 πρῶτον mparov True pp
 # 31 37 39 kal péyioroy,  first and foremost; oi καὶ μέγιστον,  3γε: ακα γ)ογενεοσέ,  οἱ
-kal καὶ False eng
+καὶ False eng
 μέγιστον, péyioroy, True pp
 first 3γε: False eng
 and ακα False eng
 foremost; γ)ογενεοσέ, False eng
-οἱ oi True form
+οἱ oi True pp
 # 32 36 38 peéyiora Suvdpuevo,  the most power- μέγιστα δυνάμενοι,  φὴς γιοδέ 2οτυέ)7-
 μέγιστα peéyiora True form
 δυνάμενοι, Suvdpuevo, True form
@@ -211,9 +207,9 @@ as ας False eng
 they δεν False eng
 could. εοεεζω, False eng
 # 35 39 41 Meyadépvns,  -ov,  Megaphernes,  a Per- ἹΜεγαφέρνης,  -ου,  Ἡεραῤλεγηιές,  ἃ Ῥετ-
-Meyadépvns, ἹΜεγαφέρνης, False na
+Μεγαφέρνης, False na
 -ου, -ov, True pp
-Ἡεραῤλεγηιές, Megaphernes, True pp
+Megaphernes, True pp
 a ἃ False eng
 Per- Ῥετ- False na
 # 36 11 11 sian noble. δίδῃ ΠΟΌΪ6.
@@ -227,23 +223,17 @@ noble. ΠΟΌΪ6. False eng
 greatness, ργεαΐζ, False eng
 # 38 13 15 size,  wiath, σῖχε,  τυϊευΐλ.
 size, σῖχε, False eng
-wiath, τυϊευΐλ. False na
-# 39 22 21 péytorros,  see péyas. μέγιστος,  5ε6 μέγας.
-μέγιστος, péytorros, True pp
-see 5ε6 False eng
-μέγας. péyas. True lex
-# 40 16 16 peO’,  see perd. μεθ᾽,  5εε μετά.
-peO’, μεθ᾽, False na
-see 5εε False eng
-μετά. perd. True pp
+width, τυϊευΐλ. False na
+
+
 # 41 36 34 peOlornur. [lornur,  cause to stand, μεθίστημι [ἴστημι,  κατέ 10 εἰαμε,
 μεθίστημι peOlornur. True pp
-[ἴστημι, [lornur, True pp
+[ἴστημι, lornur, True pp
 cause κατέ False eng
 to 10 False eng
 stand, εἰαμε, False eng
 # 42 37 40 sel},  set elsewhere,  remove; intr., 541],  δοέ εἰδετυδέγέ,  γενιουξ,  ἸῃῖΓ.,
-sel}, 541], False na
+self], 541], False na
 set δοέ False eng
 elsewhere, εἰδετυδέγέ, False eng
 remove; γενιουξ, False eng
@@ -258,13 +248,10 @@ mid., ταῖά., False eng
 cause εατέ56 False eng
 to ζο False eng
 withdraw, τυϊτελάγατυ. False eng
-# 45 6 7 Google (αοορὶς
-Google (αοορὶς False na
-# 46 3 3 467 46]
-467 46] False na
+
 # 47 45 47 MeOvbSprets,  -éws,  6,  Methydrian,  a citi- ἹΜεθυδριεύς,  -έως,  ὁ,  )7ε{λγαγέανι,  ἃ οἰτ1-
-MeOvbSprets, ἹΜεθυδριεύς, False na
--éws, -έως, False na
+Μεθυδριεύς, False na
+-έως, False na
 ὁ, 6, True lex
 Methydrian, )7ε{λγαγέανι, False na
 a ἃ False eng
@@ -283,7 +270,6 @@ Arcadia. Ατοβδάϊᾶ. False na
 # 50 38 47 peObw [ udu,  wine; cogn.,  Eng. mead; μεθύω [μέθυ,  τυΐγι:ε, ,  οορπι.,  Εηρ. πιοδᾶ:;
 μεθύω peObw True pp
 [μέθυ, [ True lex
-udu, τυΐγι:ε, False na
 wine; , False eng
 cogn., οορπι., False na
 Eng. Εηρ. False na
@@ -292,7 +278,7 @@ mead; πιοδᾶ:; False eng
 bor., Ὀοτ, False eng
 Eng. , False na
 amethyst], ἔπ. False eng
-de δλοῖθγυϑί], False eng
+be δλοῖθγυϑί], False eng
 drunk. ε False eng
 # 52 19 19 pelLwv,  see uéyas. μείζων,  566 μέγας.
 μείζων, pelLwv, True pp
@@ -306,7 +292,7 @@ see 5.6 False eng
 μειράκιον, petpdkcov, True pp
 -ov -ουὐ False na
 [μεῖραξ, [petpat, True lex
-dass], ἦα5:7, False na
+lass], ἦα5:7, False na
 lad, αἴ, False eng
 boy, δον, False eng
 # 55 18 17 of 14 to 20 years, οἔ 4 ἴο 20 γεδῖβ.
@@ -323,8 +309,8 @@ gen. σεη. False eng
 [cogn., [ςορῃ., False na
 Lat. [.Δϊ. False na
 # 57 37 40 minud,  /essez,  minor,  /ess,  bor., ταϊηυῦ,  ἐκ5:6)1,  ΤΑΪΠΟΙ,  ἐέεε,  Ὅοτ.,
-minud, ταϊηυῦ, False na
-/essez, ἐκ5:6)1, False na
+minuo, ταϊηυῦ, False na
+lessen, ἐκ5:6)1, False na
 minor, ΤΑΪΠΟΙ, False eng
 /ess, ἐέεε, False na
 bor., Ὅοτ., False eng
@@ -347,7 +333,7 @@ Neut. Νδυῖϊ. False na
 acc. δος. False eng
 as 85 False eng
 adv., δᾶν., False eng
-ἐξ, éess; True form
+less; True form
 # 61 38 38 petov Exev,  have the worst of it,  be μεῖον ἔχειν,  ἄανέ 2ἦε τυογεί ΟἿ ἐδ δέ
 μεῖον petov True pp
 ἔχειν, Exev, True form
@@ -360,34 +346,33 @@ be δέ False eng
 # 62 8 10 worsted, τυογ εἰσα,
 worsted, τυογ False eng
 # 63 34 34 pedavia,  -ας [uddas],  dlackness. μελανίᾷ,  -ας [μέλας],  ὀδαεξηέ5ς.
-pedavia, μελανίᾷ, False na
+μελανία, False na
 -ας -ας False na
 [μέλας], [uddas], True lex
-dlackness. ὀδαεξηέ5ς. False na
+blackness. ὀδαεξηέ5ς. False na
 # 64 40 43 pds,  uéAacva,  uédav [ bor.,  Eng. mel- μέλας,  μέλαινα,  μέλαν [ὍὈοτ.,  Επρ. π16]-
 μέλας, pds, True lex
 μέλαινα, uéAacva, True lex
 μέλαν uédav True lex
-[ [ὍὈοτ., False na
-bor., Επρ. False eng
+[bor., Επρ. False eng
 Eng. π16]- False na
 mel- NA False na
 # 65 37 37 ancholy,  Melanesia },  d/ack,  dark. ΔΏΟΘΒΟΙΪΥ,  Μο]4Π68141,  ὀίαεξ,  (αγ.
 ancholy, ΔΏΟΘΒΟΙΪΥ, False na
 Melanesia Μο]4Π68141, False na
-}, ὀίαεξ, False na
-d/ack, (αγ. False na
+], ὀίαεξ, False na
+black, (αγ. False na
 dark. NA False eng
 # 66 40 43 pera,  uednoe,  eudrnoe,  weuéAnxe,  im- μέλει,  μελήσει,  ἐμέλησε,  μεμέληκε,  ἰτὴ-
 μέλει, pera, True form
 μελήσει, uednoe, True form
-eudrnoe, ἐμέλησε, False na
+ἐμέλησε, False na
 μεμέληκε, weuéAnxe, True form
 im- ἰτὴ- False na
 # 67 41 44 pers.,  2¢ ts a care,  it concerns,  with ΡΘῖβ.,  22 ὃς αὶ εαγέ,  1ξ φο71.67215,  ΝΥΝ]
 pers., ΡΘῖβ., False eng
-2¢ 22 False na
-ts ὃς False eng
+it 22 False na
+is ὃς False eng
 a αὶ False eng
 care, εαγέ, False eng
 it 1ξ False eng
@@ -397,12 +382,12 @@ with ΝΥΝ] False eng
 dat.; ἀαι.; False eng
 ἐμοὶ éuol True form
 μελήσει, wernoe, True form
-J 7 False na
+I 7 False na
 well τοτἠ False eng
 take ἑαξε False eng
 care, εα7ε, False eng
 # 69 37 35 L will see to it,  with 8rws and fut. 7 εὐἱὐ ςοο 1ο 12,  “ἢ ὅπως ἀπά [κἴ.
-L 7 False na
+I 7 False na
 will εὐἱὐ False eng
 see ςοο False eng
 to 1ο False eng
@@ -419,7 +404,7 @@ opt. ορῖ. False eng
 μελετάω, pedetaw, True pp
 μελετήσω, pederiow, True pp
 ἐμελέτησα, euedérnoa, True pp
-mepe- μεμε- False na
+μεμε- False na
 # 72 36 37 Aérnxa [pede],  care for,  practice. λέτηκα [μέλει],  εαγέ 29γ,  2γασίϊεε.
 λέτηκα Aérnxa True pp
 [μέλει], [pede], True form
@@ -428,7 +413,7 @@ for, 29γ, False eng
 practice. 2γασίϊεε. False eng
 # 73 41 40 peAetnpds,  -d,  -dy [uederdw],  diligent μελετηρός,  -ἅ,  -όν [μελετάω],  αἰ ρεηέ
 μελετηρός, peAetnpds, True lex
--d, -ἅ, False na
+-ά, False na
 -όν -dy True pp
 [μελετάω], [uederdw], True pp
 diligent αἰ False eng
@@ -439,7 +424,7 @@ in ἦν False eng
 practicing. 2γαςίϊεῖηρ. False eng
 # 75 41 40 perlvyn,  -ns,  millet,  a kind of grain; μελίνη,  -ης,  γε οί,  ἃ Κὶπα οἵ ρτγαΐη;
 μελίνη, perlvyn, True lex
--ns, -ης, False na
+-ης, False na
 millet, γε False eng
 a οί, False eng
 kind ἃ False eng
@@ -447,7 +432,7 @@ of Κὶπα False eng
 grain; οἵ False eng
 # 76 20 17 pl.,  midlet fields. Ρ].» γετἐεέ Μείω.
 pl., Ρ].» False eng
-midlet γετἐεέ False na
+millet γετἐεέ False na
 fields. Μείω. False eng
 # 77 39 37 péeAAw,  wEeAAHTW,  eudAAnoa,  be about μέλλω,  μελλήσω,  ἐμέλλησα,  ὧε αὐοτέ
 μέλλω, péeAAw, True pp
@@ -468,16 +453,12 @@ likely ἐϊδοίν False eng
 to, ἐο, False eng
 with “ἢ False eng
 inf.; ἰηΐ; False eng
-ztdend, ἐρμήογηα, False na
+intend, ἐρμήογηα, False na
 with νυ False eng
 # 80 12 11 acc.; delay. δοο,; ἰδία.
 acc.; δοο,; False eng
 delay. ἰδία. False eng
-# 81 34 33 PELVTO,  peRVNOTAL,  SCE MLMYITKW. μεμνῇο,  μέμνησαι,  566 μιμνήσκω.
-PELVTO, μεμνῇο, False na
-μέμνησαι, peRVNOTAL, True form
-SCE 566 False na
-μιμνήσκω. MLMYITKW. True pp
+
 # 82 34 35 pépcopar,  uduvoua,  euen~duny and μέμφομαι,  μέμψομαι,  ἐμεμψάμην ἀπά
 μέμφομαι, pépcopar, True pp
 μέμψομαι, uduvoua, True pp
@@ -525,8 +506,8 @@ occasionally Οσσϑβίομα]ν False eng
 be 6 False eng
 rendered τεπάδγθα False eng
 by Ὀν False eng
-o2 ογὲ False na
-she 2ἠξ False eng
+on ογὲ False na
+the 2ἠξ False eng
 # 90 39 40 one hand,  and 6é by on the other,  but ογ6 λαμ,  απὰ δέ ὮὈγ ον» ἐλέ οὐδεν,  Ὀαϊ
 one ογ6 False eng
 hand, λαμ, False eng

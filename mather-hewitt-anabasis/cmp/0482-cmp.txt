@@ -1,0 +1,524 @@
+# 0 3 3 470 170
+470 170 False na
+# 1 34 37 Lat. neque; pyre... unre,  neither 7.αἱ. πιόφμο,  μήτε... μήτε,  μείΐλον
+Lat. 7.αἱ. False na
+neque; πιόφμο, False na
+pyre... μήτε... False eng
+μήτε, unre, True lex
+neither μείΐλον False eng
+# 2 36 33 ... Mor,  Lat. megue... aegue,  BNTE νν Μὸν,  ἰΑῖ. πέψ. .. Μόφμ,  μήτε
+... νν False na
+Mor, Μὸν, False na
+Lat. ἰΑῖ. False na
+megue... πέψ. False na
+aegue, .. False na
+BNTE Μόφμ, False na
+# 3 32 32 . Te,  not only not... bub also, . τε,  πο ογιέν πού... ὁμ2 α{δο,
+. . False na
+τε, Te, True lex
+not πο False eng
+only ογιέν False eng
+not... πού... False eng
+bub ὁμ2 False eng
+also, α{δο, False eng
+# 4 17 22 Lat. segue... et. 1, Αἱ. μέψιιθ. .. ἐφ΄.
+Lat. 1, False na
+segue... Αἱ. False eng
+et. μέψιιθ. False eng
+# 5 40 43 BATHP,  unr pds,  7 [cogn.,  Lat. mater, μήτηρ,  μητρός,  ἡ [ὁοὑρῃ.,  [, 8ἴ. πιϑίοσ,
+μήτηρ, BATHP, True lex
+μητρός, unr True form
+ἡ pds, True case
+7 [ὁοὑρῃ., False na
+[cogn., [, False na
+Lat. 8ἴ. False na
+mater, πιϑίοσ, False eng
+# 6 33 36 Eng. mother; bor.,  Eng. metropo- Επρ. ποῖ ασ; ὕὸτγ, ,  ΕὩρ. πιθίσορο-
+Eng. Επρ. False na
+mother; ποῖ False eng
+bor., ασ; False eng
+Eng. ὕὸτγ, False na
+metropo- , False na
+# 7 14 15 lis},  mother, 118},  γεοδῇεν,
+lis}, 118}, False na
+mother, γεοδῇεν, False eng
+# 8 33 35 ByXavdopar unxarhcouar,  éunxarn- μηχανάομαι,  μηχανήσομαι,  ἐμηχανη-
+μηχανάομαι, ByXavdopar True pp
+μηχανήσομαι, unxarhcouar, True pp
+éunxarn- ἐμηχανη- False na
+# 9 36 35 cdpuny,  peunxdvynna [unxavh),  con- σάμην,  μεμηχάνημαι [μηχανή],  ε0»-
+σάμην, cdpuny, True pp
+μεμηχάνημαι peunxdvynna True pp
+[μηχανή], [unxavh), True lex
+con- ε0»- False na
+# 10 6 3 “rive. ἦγ.
+“rive. ἦγ. False na
+# 11 31 39 Bnxavh,  -js [bor Lat. machina, μηχανή,  -ς [ὄ"οτ΄,  [, 4ἴ,  τη δοδίπα,
+μηχανή, Bnxavh, True lex
+-js -ς False na
+[bor [ὄ"οτ΄, False eng
+Lat. [, False na
+machina, 4ἴ, False eng
+# 12 32 33 machine (whence is bor. Eng. ma- ".ὐ τη (νπεπος 15 θοτ,  Επρ. 158-
+machine ".ὐ False eng
+(whence τη False eng
+is (νπεπος False eng
+bor. 15 False eng
+Eng. θοτ, False na
+ma- Επρ. False na
+# 13 33 34 chine),  ng. mechanic],  machine; ΟὨΐη6),  πρ. ΘΟΒΔ4Π10],  »εαελίηο,
+chine), ΟὨΐη6), False eng
+ng. πρ. False eng
+mechanic], ΘΟΒΔ4Π10], False eng
+machine; »εαελίηο, False eng
+# 14 29 31 contrivance,  device,  means. εομγιτα πές,  ἀσυϊος,  ῬΙΦΩ712.
+contrivance, εομγιτα False eng
+device, πές, False eng
+means. ἀσυϊος, False eng
+# 15 14 14 pla,  sce els. μία,  5ἐς εἷς.
+μία, pla, True form
+sce 5ἐς False na
+els. εἷς. False eng
+# 16 41 44 Midas,  -ov,  A/idas,  a mythical king of Μίδᾶς,  -ου,  27 (κἀς-,  ἃ ταγτηϊοαὶ Κίηρ οὗ
+Midas, Μίδᾶς, False na
+-ου, -ov, True pp
+A/idas, 27 False na
+a (κἀς-, False eng
+mythical ἃ False eng
+king ταγτηϊοαὶ False eng
+of Κίηρ False eng
+# 17 37 35 Phrygia,  proverbial for his ‘ golden Ῥῃγνρῖα,  ργοόνεγθίαὶ ἕο 5 " ροϊάβη
+Phrygia, Ῥῃγνρῖα, False na
+proverbial ργοόνεγθίαὶ False eng
+for ἕο False eng
+his 5 False eng
+‘ " False na
+golden ροϊάβη False eng
+# 18 33 32 touch, ’ which he gained as a re- οι ἢ,  ψΠΙΟἢ ἢς ρμαϊπεὰ ἃ5 ἃ τὸ-
+touch, οι False eng
+ἢ, ’ True lem
+which ψΠΙΟἢ False eng
+he ἢς False eng
+gained ρμαϊπεὰ False eng
+as ἃ5 False eng
+a ἃ False eng
+re- τὸ- False na
+# 19 36 38 ward for releasing the satyr Silénus ναγὰ ἴον τε] οαβϑίηρ [πὸ βαῖγσ 5.6 ηὰ5
+ward ναγὰ False eng
+for ἴον False eng
+releasing τε] False eng
+the οαβϑίηρ False eng
+satyr [πὸ False eng
+Silénus βαῖγσ False na
+# 20 27 28 after having entrapped him. αἰτοῦ πανίηρ εηἴγαρρες Ὠίηι.
+after αἰτοῦ False eng
+having πανίηρ False eng
+entrapped εηἴγαρρες False eng
+him. Ὠίηι. False eng
+# 21 43 47 M.€pabddrns,  -ov,  WWithriddtes, a trusted Μιθραδάτης,  εου,  ἢΠι|Δγτιώπέος,  ἃ ἰταϑι δ «ἃ
+Μιθραδάτης, M.€pabddrns, True lex
+εου, -ov, True pp
+WWithriddtes, ἢΠι|Δγτιώπέος, False na
+a ἃ False eng
+trusted ἰταϑι False eng
+# 22 37 34 friend of Cyrus,  who transferred his {τι πὰ οὗ (νὰ,  ψῆο (τηϑίογγοα ἢΪ5
+friend {τι False eng
+of πὰ False eng
+οὗ Cyrus, True lex
+who (νὰ, False eng
+transferred ψῆο False eng
+his (τηϑίογγοα False eng
+# 23 34 33 allegiance to Artaxerxes after the ΔΙ]ορσίαηος ἰὼ Ατΐαχεχοβ δϊασ ἴδ6
+allegiance ΔΙ]ορσίαηος False eng
+to ἰὼ False eng
+Artaxerxes Ατΐαχεχοβ False na
+after δϊασ False eng
+the ἴδ6 False eng
+# 24 17 17 battle of Cunaxa. Ὀδίι]Ὲ οἱ (ὰπᾶχϑ.
+battle Ὀδίι]Ὲ False eng
+of οἱ False eng
+Cunaxa. (ὰπᾶχϑ. False na
+# 25 39 41 pixpds,  -d,  -6y [cp. Eng. microscope, μῖκρός,  -ἅ,  -όν [ςρ. Επρ΄. πιϊ ΣΟΒΟΟΡΘ,
+pixpds, μῖκρός, False na
+-d, -ἅ, False na
+-όν -6y True pp
+[cp. [ςρ. False eng
+Eng. Επρ΄. False na
+microscope, πιϊ False eng
+# 26 40 38 microphone,  microbe ],  sma//,  little, ΤᾺΪΟΓΟΡΏΟΠΘ,  ΤΠ ]ΟΓΟΌΘΊ],  γα ί,  ἐξ,
+microphone, ΤᾺΪΟΓΟΡΏΟΠΘ, False eng
+microbe ΤΠ False eng
+], ]ΟΓΟΌΘΊ], False na
+sma//, γα False na
+little, ί, False eng
+# 27 35 37 weak,  Neut. acc. as adv.,  darely, τυεαξ. Νέεαυῖ. δος. 85 δήν.,  ὀαγεῖν,
+weak, τυεαξ. False eng
+Neut. Νέεαυῖ. False na
+acc. δος. False eng
+as 85 False eng
+adv., δήν., False eng
+darely, ὀαγεῖν, False na
+# 28 35 37 narrowly. Neut. as subst.,  a short ηαγγοιυέν. Νεαῖ. 825 βυῦβί.,  ὦ “Δογζ
+narrowly. ηαγγοιυέν. False eng
+Neut. Νεαῖ. False na
+as 825 False eng
+subst., βυῦβί., False eng
+a ὦ False eng
+short “Δογζ False eng
+# 29 26 22 distance,  a little while. δία περ,  α ἐφ τοἀτδε.
+distance, δία False eng
+a περ, False eng
+little α False eng
+while. ἐφ False eng
+# 30 41 41 Midjoros,  -4,  -ov [Midnros],  Milesian, Μιλήσιος,  -α,  -ον [Μίλητος],  )7ὲἠείαη,
+Μιλήσιος, Midjoros, True lex
+-α, -4, True pp
+-ον -ov True pp
+[Μίλητος], [Midnros], True pp
+Milesian, )7ὲἠείαη, False na
+# 31 34 31 of Miletus. As subst.,  masc. pl., οΓ πώ. ΑΒ. β8α5ῖ, ,  τᾶβο. Ρ].,
+of οΓ False eng
+Miletus. πώ. False na
+As ΑΒ. False na
+subst., β8α5ῖ, False eng
+masc. , False eng
+pl., τᾶβο. False eng
+# 32 33 33 Milestans; fem. sing.,  Alilesian 7ιἰρδίαηδ,  ἴετα,  5πρ.,  “ϊέρίαρ
+Milestans; 7ιἰρδίαηδ, False na
+fem. ἴετα, False eng
+sing., 5πρ., False eng
+Alilesian “ϊέρίαρ False na
+# 33 6 9 woman. 100} 472.
+woman. 100} False eng
+# 34 42 41 MtAnros,  -ov,  7,  A/7/é/us,  a prominent Μίλητος,  -ου,  ἡ,  272έπ5,  ἃ Ῥτοπιίποηΐ
+Μίλητος, MtAnros, True pp
+-ου, -ov, True pp
+ἡ, 7, True case
+A/7/é/us, 272έπ5, False na
+a ἃ False eng
+prominent Ῥτοπιίποηΐ False eng
+# 35 39 34 Greek city of Ionia,  south of Ephésus. αταεκ οἵἵγ οἔ Ομ,  βου οὗ ΕΡμὄϑυβ.
+Greek αταεκ False na
+city οἵἵγ False eng
+of οἔ False eng
+Ionia, Ομ, False na
+south βου False eng
+of οὗ False eng
+Ephésus. ΕΡμὄϑυβ. False na
+# 36 41 39 Muatroxtns,  -ov,  A/iltocythes,  a Thra- Μιλτοκύθης,  -ου,  27|οεγώλες,  ἃ ΤὮτα-
+Μιλτοκύθης, Muatroxtns, True lem
+-ου, -ov, True pp
+27|οεγώλες, A/iltocythes, True pp
+a ἃ False eng
+Thra- ΤὮτα- False na
+# 37 32 32 cian cavalry commander,  who de- Οἶδῃ οναὶγΥ οοτημηδηάήεσ,  ο ἀ6-
+cian Οἶδῃ False na
+cavalry οναὶγΥ False eng
+commander, οοτημηδηάήεσ, False eng
+who ο False eng
+de- ἀ6- False na
+# 38 29 32 serted from the Greeks to the βοτίε τόση ἰῖῇῆ6 Οτἴεεῖκβ ἴο [δε
+serted βοτίε False na
+from τόση False eng
+the ἰῖῇῆ6 False eng
+Greeks Οτἴεεῖκβ False na
+to ἴο False eng
+the [δε False eng
+# 39 36 32 Persians after the battle of Cunaxa. Ῥεγϑίδηβ δἰζοσ ἴῃς δίς οἵ (ηᾶχᾶ.
+Persians Ῥεγϑίδηβ False na
+after δἰζοσ False eng
+the ἴῃς False eng
+battle δίς False eng
+of οἵ False eng
+Cunaxa. (ηᾶχᾶ. False na
+# 40 40 42 pipdopat,  uinjooua,  éuiunoduny,  weut- μϊῖμέομαι,  μίμήσομαι,  ἐμϊμησάμην,  μεμί-
+μϊῖμέομαι, pipdopat, True pp
+μίμήσομαι, uinjooua, True pp
+ἐμϊμησάμην, éuiunoduny, True pp
+weut- μεμί- False na
+# 41 38 42 Unpat,  éutunOny [utuos,  actor; bor., μημαι,  ἐμιμήθην [μῖμος,  αείον" ,  Ὅογτ.,
+μημαι, Unpat, True pp
+ἐμιμήθην éutunOny True pp
+[μῖμος, [utuos, True lex
+actor; αείον" False eng
+bor., , False eng
+# 42 35 37 Eng. mimic,  pantomime ],  zzz¢aze. Επρ. πιϊπιῖο,  ρδῃίομἑ 61,  ἐρείδαζε.
+Eng. Επρ. False na
+mimic, πιϊπιῖο, False eng
+pantomime ρδῃίομἑ False eng
+], 61, False na
+zzz¢aze. ἐρείδαζε. False na
+# 43 38 37 Pipvyokw,  uviow,  ~uvynoa,  uéurnuat, μιμνήσκω,  μνήσω,  ἔμνησα,  μέμνημαι,
+μιμνήσκω, Pipvyokw, True pp
+μνήσω, uviow, True pp
+ἔμνησα, ~uvynoa, True pp
+μέμνημαι, uéurnuat, True pp
+# 44 35 37 éuvngOnv [cogn.,  Lat. memini,  re- ἐμνήσθην [σορῃ.,  1, 81. πηι ηῖ,  γέ-
+ἐμνήσθην éuvngOnv True pp
+[cogn., [σορῃ., False na
+Lat. 1, False na
+memini, 81. False na
+re- πηι False na
+# 45 6 8 Google (πΘοορῖς
+Google (πΘοορῖς False na
+# 46 10 9 XENOPHON'S ΧΕΝΟΡΗΟΝΘ
+XENOPHON'S ΧΕΝΟΡΗΟΝΘ False na
+# 47 8 9 ANABASIS ΑΝΔΑΒΆΘΙΘ
+ANABASIS ΑΝΔΑΒΆΘΙΘ False na
+# 48 36 39 member,  Eng. mind],  act.,  remind, »ιϑρε εν,  ἘῸρ. ταὶ 7,  δοῖ.,  γερεῖγα,
+member, »ιϑρε False eng
+Eng. εν, False na
+mind], ἘῸρ. False eng
+act., ταὶ False eng
+remind, 7, False eng
+# 49 36 38 not used in prose,  cp. dvayipvyoky; ποῖ υδεἀ ἴῃ Ρῥζο8ε,  ορΡ. ἀναμιμνήσκω;
+not ποῖ False eng
+used υδεἀ False eng
+in ἴῃ False eng
+prose, Ρῥζο8ε, False eng
+cp. ορΡ. False eng
+ἀναμιμνήσκω; dvayipvyoky; True pp
+# 50 37 38 mid. and pass.,  remind oneself,  re- πιά. ἀπὰ ρ855.,  γεγφεΐηα ὀγεέσοζς γέ-
+mid. πιά. False eng
+and ἀπὰ False eng
+pass., ρ855., False eng
+remind γεγφεΐηα False eng
+oneself, ὀγεέσοζς False eng
+re- γέ- False na
+# 51 37 36 member,  the pf. uéuvnyuac being used »ι 1 εν,  [6 ρί. μέμνημαι Ὀεϊηρ υϑεὰ
+member, »ι False eng
+the 1 False eng
+pf. εν, False eng
+uéuvnyuac [6 False na
+being ρί. False eng
+used μέμνημαι False eng
+# 52 38 42 as pres.,  like Lat. memini,  neuvioo- ἃ5 Ρῦαβ.,  ἰὸς [, δῖ. »γμερεῖρξ,  μεμνήσο-
+as ἃ5 False eng
+pres., Ρῦαβ., False eng
+like ἰὸς False eng
+Lat. [, False na
+memini, δῖ. False na
+neuvioo- »γμερεῖρξ, False na
+# 53 35 34 pas as fut.,  and éuvyjoOny as aor. μαι 85 ίαϊ.,  ἃπα ἐμνήσθην 85 ΔΟΙ.
+pas μαι False eng
+as 85 False eng
+fut., ίαϊ., False eng
+and ἃπα False eng
+ἐμνήσθην éuvyjoOny True pp
+as 85 False eng
+aor. ΔΟΙ. False eng
+# 54 40 41 proodoela,  -ας [ucbds,  Sidwyu,  give], μισθοδοσίᾷ,  -ας [μισθός,  δίδωμι,  ρνε],
+proodoela, μισθοδοσίᾷ, False na
+-ας -ας False na
+[μισθός, [ucbds, True lex
+δίδωμι, Sidwyu, True pp
+give], ρνε], False eng
+# 55 17 19 payment of wages. 2αγνεοηξ οὔ τυαρες.
+payment 2αγνεοηξ False eng
+of οὔ False eng
+wages. τυαρες. False eng
+# 56 43 42 pro Bodérns,  -ov [uicbds,  Sldwmu,  give], μισθοδότης,  .ον [μισθός,  δίδωμι,  ρἱνεΊ,
+pro μισθοδότης, False eng
+.ον Bodérns, True pp
+[μισθός, -ov True lex
+δίδωμι, [uicbds, True pp
+Sldwmu, ρἱνεΊ, False na
+give], NA False eng
+# 57 31 32 one who pays wages,  paymaster. ορδ το 2αγ5 τυαρές,  δαγνρεαςίε.
+one ορδ False eng
+who το False eng
+pays 2αγ5 False eng
+wages, τυαρές, False eng
+paymaster. δαγνρεαςίε. False eng
+# 58 36 39 prodds,  -of,  wages,  pay,  reward. μισθός,  -ου,  τυαρε5,  δα»,  γειυαγαϊ,
+μισθός, prodds, True lex
+-ου, -of, True pp
+wages, τυαρε5, False eng
+pay, δα», False eng
+reward. γειυαγαϊ, False eng
+# 59 39 40 prrboddpos,  -ov [ucbbs,  pépw,  dear], μισθοφόρος,  -ον [μισθός,  φέρω,  ὀεατ],
+μισθοφόρος, prrboddpos, True lex
+-ον -ov True pp
+[μισθός, [ucbbs, True lex
+φέρω, pépw, True pp
+dear], ὀεατ], False eng
+# 60 35 37 drawing wages. Masc. pl. as subst., εἶγ στο» τυαρες. Μδ5ς. Ρ]. 85 5βυϑῖ.,
+drawing εἶγ False eng
+wages. στο» False eng
+τυαρες. Masc. True pp
+pl. Μδ5ς. False eng
+as Ρ]. False eng
+subst., 85 False eng
+# 61 12 16 mercenartes. »167 “2714 7165.
+mercenartes. »167 False na
+# 62 38 40 probde,  pucbdow,  etc. [molds],  hire μισθόω,  μισθώσω,  εἴς. [μισθός],  Ζλῖγε
+μισθόω, probde, True pp
+μισθώσω, pucbdow, True pp
+etc. εἴς. False eng
+[molds], [μισθός], False eng
+hire Ζλῖγε False eng
+# 63 42 44 out,  let,  mid.,  hire; pass.,  be hired. οτ,  ἐσζ,  ταὶά.,  ἀϊγε,  Ῥᾶ85., ) δέ ἀϊγεω,
+out, οτ, False eng
+let, ἐσζ, False eng
+mid., ταὶά., False eng
+hire; ἀϊγε, False eng
+pass., Ῥᾶ85., False eng
+be ) False eng
+hired. δέ False eng
+# 64 39 42 pva,  uvads,  mina, a sum of money (not μνᾶ,  μνᾶς,  »εἴγια,  ἃ στη Οὗ ΤΏΟΠΕΥ (ποῖ
+μνᾶ, pva, True lex
+μνᾶς, uvads, True form
+mina, »εἴγια, False eng
+a ἃ False eng
+sum στη False eng
+of Οὗ False eng
+money ΤΏΟΠΕΥ False eng
+(not (ποῖ False eng
+# 65 35 37 a coin),  equiv. to 100 drachmas or ἃ Ἑσοἷη),  εαᾳαῖν. ἴο 00 ἀγδοῃτηδβ ΟΥ
+a ἃ False eng
+coin), Ἑσοἷη), False eng
+equiv. εαᾳαῖν. False eng
+to ἴο False eng
+100 00 False na
+drachmas ἀγδοῃτηδβ False eng
+or ΟΥ False eng
+# 66 10 10 about $18. δῦουϊ δ18.
+about δῦουϊ False eng
+$18. δ18. False na
+# 67 38 38 Pynpoveda,  uvnuovetow,  etc. [prjuwy, μνημονεύω,  μνημονεύσω,  εἴς. [μνήμων,
+μνημονεύω, Pynpoveda, True pp
+μνημονεύσω, uvnuovetow, True pp
+etc. εἴς. False eng
+[μνήμων, [prjuwy, True pp
+# 68 35 37 mindful,  cp. pysvyoxw; bor.,  Eng. »εϊμα εἶ,  ΟΡ. μιμνήσκω; Ὅοτ.,  Επηρ.
+mindful, »εϊμα False eng
+cp. εἶ, False eng
+pysvyoxw; ΟΡ. False na
+bor., μιμνήσκω; False eng
+Eng. Ὅοτ., False na
+# 69 37 36 mnemonic],  recall,  recollect,  with ΤᾺ ΠΘΙΏΟΏΪΝ7,  γεεαζί,  γεοοέέφα,  ἢ
+mnemonic], ΤᾺ False eng
+recall, ΠΘΙΏΟΏΪΝ7, False eng
+recollect, γεεαζί, False eng
+with γεοοέέφα, False eng
+# 70 4 4 gen. δεῃ.
+gen. δεῃ. False eng
+# 71 38 36 pynoixaxées,  uryyoixaxhow,  éuvnockd- μνησικακέω,  μνησικακήσω,  ἐμνησικά-
+μνησικακέω, pynoixaxées, True pp
+μνησικακήσω, uryyoixaxhow, True pp
+éuvnockd- ἐμνησικά- False na
+# 72 36 38 knoa [cp. meviioxw,  xaxds,  wrong], κησα [ςΡ. μιμνήσκω,  κακός,  τυγο710],
+κησα knoa True pp
+[cp. [ςΡ. False eng
+μιμνήσκω, meviioxw, True pp
+κακός, xaxds, True lex
+wrong], τυγο710], False eng
+# 73 35 39 remember past injuries against one, γοριϑηεδε» ρας ἐρ7)η7γ1ες ἀραϊηβῖ ΟΠ 6,
+remember γοριϑηεδε» False eng
+past ρας False eng
+injuries ἐρ7)η7γ1ες False eng
+against ἀραϊηβῖ False eng
+one, ΟΠ False eng
+# 74 25 21 bear a grudge,  with dat. ὅφα ὦ ργαρε,  ν] ἀδῖ.
+bear ὅφα False eng
+a ὦ False eng
+grudge, ργαρε, False eng
+with ν] False eng
+dat. ἀδῖ. False eng
+# 75 31 29 poris,  adv.,  with difficulty. μόλις,  δάν.,  εὐἱζὰ αὐέετίν.
+μόλις, poris, True lex
+adv., δάν., False eng
+with εὐἱζὰ False eng
+difficulty. αὐέετίν. False eng
+# 76 41 42 poruPdls,  -ldos,  7 [udr\uBdos],  leaden μολυβδίς,  -ίδος, ,  ἡ [μόλυβδος],  ἐεαάδη
+μολυβδίς, poruPdls, True lex
+-ίδος, -ldos, True pp
+7 , False na
+ἡ [udr\uBdos], True case
+leaden [μόλυβδος], False eng
+# 77 35 38 ball,  bullet for a sling. See Fig. ὀαδί,  ὀτείέοξ ἴον ἃ ϑ''πρ. ὅὲεὲε ΕἸρ.
+ball, ὀαδί, False eng
+bullet ὀτείέοξ False eng
+for ἴον False eng
+a ἃ False eng
+sling. ϑ''πρ. False eng
+See ὅὲεὲε False na
+Fig. ΕἸρ. False na
+# 78 12 12 51,  p. 163. δῖ,  Ρ. 162.
+51, δῖ, False na
+p. Ρ. False eng
+163. 162. False na
+# 79 24 22 poArAvBSos,  -ov,  lead. μόλυβδος,  -ου,  ἐεαά.
+μόλυβδος, poArAvBSos, True pp
+-ου, -ov, True pp
+lead. ἐεαά. False eng
+# 80 34 37 povaxy [dat. fem. of povaxds (from μοναχῇ [ἀκδϊ. ἔειη. οὗ μοναχός ([τοπι
+μοναχῇ povaxy True lem
+[dat. [ἀκδϊ. False eng
+fem. ἔειη. False eng
+of οὗ False eng
+μοναχός povaxds True lex
+(from ([τοπι False eng
+# 81 38 40 pbvos),  solitary,  bor.,  Eng. monk], μόνος),  δοζϊαγν ,  Ὅοτ.,  Επρ. Τ᾿ 00Κ],
+μόνος), pbvos), True lex
+solitary, δοζϊαγν False eng
+bor., , False eng
+Eng. Ὅοτ., False na
+monk], Επρ. False eng
+# 82 33 35 adv.,  alone,  only; Jrep povaxy, δᾶν, ,  αἴργισ,  ομῖν; ἧπερ μοναχῇ,
+adv., δᾶν, False eng
+alone, , False eng
+only; αἴργισ, False eng
+Jrep ομῖν; False na
+povaxy, ἧπερ False na
+# 83 12 13 where alone. “υἦτγε αἰοηε.
+where “υἦτγε False eng
+alone. αἰοηε. False eng
+# 84 36 39 povos,  -η,  -ov [bor.,  Eng. monad, μόνος,  -ή,  -ον [Ὅογτ.,  Επρ. πῃηρηδᾷ,
+μόνος, povos, True lex
+-ή, -η, True pp
+-ον -ov True pp
+[bor., [Ὅογτ., False eng
+Eng. Επρ. False na
+monad, πῃηρηδᾷ, False eng
+# 85 31 37 monogamy,  monogram,  monopoly, ΤΔΟΠΟΡ ΔΙΙΥ,  ΟΠ ΠΟΡΤΑΠ, ,  ΙΟΠΟΡΟΪΥ,
+monogamy, ΤΔΟΠΟΡ False eng
+monogram, ΔΙΙΥ, False eng
+monopoly, ΟΠ False eng
+# 86 34 33 monotheist],  alone,  only,  Neut. Το ηοῖ Π6 181,  αλρρε,  ον. Νααῖ,
+monotheist], Το False eng
+alone, ηοῖ False eng
+only, Π6 False eng
+Neut. 181, False na
+# 87 35 39 acc. as adv.,  ov pdvov... ddA xal, 80ς,  ἃ598 Δαν.,  οὐ μόνον... ἀλλὰ καί,
+acc. 80ς, False eng
+as ἃ598 False eng
+adv., Δαν., False eng
+οὐ ov True lex
+μόνον... pdvov... True pp
+ἀλλὰ ddA True form
+καί, xal, True lex
+# 88 37 41 notonly ... but also,  Lat. non solum μοΐορέν... ὀιμεέ αἴδο,  ,  Αἴ. »ῦγι οδἰ26
+notonly μοΐορέν... False na
+... ὀιμεέ False na
+but αἴδο, False eng
+also, , False eng
+Lat. Αἴ. False na
+non »ῦγι False eng
+solum οδἰ26 False eng
+# 89 14 12 ... Sed etiam. ον δ 6] εἴα.
+ον ... True pp
+Sed δ False na
+etiam. 6] False eng
+# 90 44 39 pdo-xetos,  -o» [udcxos,  calf],  of a calf; μόσχειος,  -ον [μόσχος,  κα],  οζα εαὔ,
+μόσχειος, pdo-xetos, True lex
+-ον -o» True pp
+[μόσχος, [udcxos, True lex
+calf], κα], False eng
+of οζα False eng
+a εαὔ, False eng
+calf; NA False eng
+# 91 20 20 xpéa pboxera,  veal. κρέα μόσχεια,  τεαΐ.
+κρέα xpéa True lex
+μόσχεια, pboxera, True form
+veal. τεαΐ. False eng
