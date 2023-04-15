@@ -12,12 +12,8 @@ Cp. Οὐ. False na
 # 3 21 25 meporep,  -ας,  cove, περιστερά,  -ἀς,  εὐρτ 6.
 περιστερά, meporep, True pp
 -ας, -ἀς, False na
-cove, εὐρτ False eng
-# 4 28 28 wepoTivas,  sce wepiioT nut, περιστῆναι,  "οὐ περιίστημι.
-περιστῆναι, wepoTivas, True form
-sce "οὐ False na
-περιίστημι. wepiioT True pp
-nut, NA False eng
+dove, εὐρτ False eng
+
 # 5 35 36 wepirpdye [Tedxw,  run],  run round περιτρέχω [τρέχω,  γ!ω1],  γόῃ γοναὶ
 περιτρέχω wepirpdye True pp
 [τρέχω, [Tedxw, True pp
@@ -27,6 +23,7 @@ round γοναὶ False eng
 # 6 9 8 or about, οὐ “ὀυμ.
 or οὐ False eng
 about, “ὀυμ. False eng
+
 # 7 24 23 WtpiTTevw,  éreplirrevoa περιττεύω,  ἐπερίττευσα
 περιττεύω, WtpiTTevw, True pp
 ἐπερίττευσα éreplirrevoa True pp
@@ -44,8 +41,7 @@ outfank, 14). False na
 περιττός, mepiTros, True pp
 -ή, -7}, True pp
 -όν -dv True pp
-| ἰ False na
-περί], wepl], True lex
+[περί], wepl], True lex
 over οτ'΄ False eng
 and 7 False eng
 above απο False eng
@@ -54,18 +50,16 @@ what πὶ False eng
 is 15. False eng
 necessary, ποσύπβατν, False eng
 superfluous, προ False eng
-ol ἥμομς, False eng
+οἱ ἥμομς, False eng
 # 12 33 35 wept rol,  the outhanking troops. περιττοί,  {ἠε οκἠδ απ ξίμς ἑγουλε,
-wept περιττοί, False eng
-rol, {ἠε False na
+περιττοί, False eng
 the οκἠδ False eng
-outhanking απ False na
+outflanking απ False na
 troops. ξίμς False eng
 # 13 38 37 wepipaveas [ repiparys (palvw,  show), περιφανῶς [περιφανής (φαίνω,  :ἀοτυ),
 περιφανῶς wepipaveas True form
 [περιφανής [ True lex
 (φαίνω, repiparys True pp
-(palvw, :ἀοτυ), False na
 show), NA False eng
 # 14 34 37 conspicuous],  adv. conspicuously, ἐρηδίσμοι 5),  δήν.,  εομοῤιαμοι δέν,
 conspicuous], ἐρηδίσμοι False eng
@@ -87,11 +81,11 @@ alarmed, αἰαγηεώ, False eng
 # 18 41 41 Ilépoys,  -ov,  /ersian,  originally con- Πέρσης,  -ου,  )᾽ ἐγείαη,  οὐ σῖηα!ν σοη-
 Πέρσης, Ilépoys, True lex
 -ου, -ov, True pp
-/ersian, )᾽ False na
+Persian, )᾽ False na
 originally ἐγείαη, False eng
 οὐ con- True lex
 # 19 33 28 hned to the inhabitants of Persia πο τὸ τς ἹπΠα]δηῖθ οὗ Ῥεγβία
-hned πο False na
+fined πο False na
 to τὸ False eng
 the τς False eng
 inhabitants ἹπΠα]δηῖθ False eng
@@ -111,9 +105,9 @@ Gulf, ὐἱ, False na
 but Ναϊ False eng
 as ἂς False eng
 the πὸ False eng
-Ῥετ- Per- True half1
+Per- True half1
 # 22 33 35 sian empire absorbed other races, βία η δηρῖγο Δρβοῦ οα ΟἴΠΕΥ γᾶςθ68,
-βία sian True lex
+sian True lex
 empire η False eng
 absorbed δηρῖγο False eng
 other Δρβοῦ False eng
@@ -135,7 +129,7 @@ used υϑεἃ False eng
 also αἷθο False eng
 as 85 False eng
 # 25 4 3 ad}. δ).
-ad}. δ). False na
+adj. δ). False na
 # 26 33 35 wepo({w [Tépons],  speak Persian, περσίζω [Πέρσης],  5 εαξ 7) γ 1671.
 περσίζω wepo({w True pp
 [Πέρσης], [Tépons], True lex
@@ -148,16 +142,12 @@ Persian, εαξ False na
 [Πέρσης], [Hépons], True lex
 Perstan, 2) False na
 # 28 39 41 mepororl [ repaliw],  adv.,  2 Persian, περσιστί [περσίζω],  τἰἷν.,  1, 2 72 γα».
-mepororl περσιστί False na
+περσιστί False na
 [περσίζω], [ True pp
-repaliw], τἰἷν., False na
 adv., 1, False eng
-2 2 False na
+in 2 False na
 Persian, 72 False na
-# 29 19 19 meceiv,  see mirrw. πεσεῖν,  566 πίπτω.
-πεσεῖν, meceiv, True form
-see 566 False eng
-πίπτω. mirrw. True pp
+
 # 30 41 38 awéropat,  -wriyjcouat,  -erréuny [cogn., πέτομαι,  -πτήσομαι,  -επτόμην [᾿ορῃ.,
 πέτομαι, awéropat, True pp
 -πτήσομαι, -wriyjcouat, True pp
@@ -172,13 +162,13 @@ feather, ρϑίῃδ), False eng
 # 32 19 18 Eng. feather],  fy. Επρ. ξοδίβοΓ],  ν.
 Eng. Επρ. False eng
 feather], ξοδίβοΓ], False eng
-fy. ν. False eng
+fly. ν. False eng
 # 33 37 38 wérpa,  -ας,  rock,  cliff,  bowlder. πέτρα,  -ας,  γοεξ,  εἰϊῇ,  δοτοζωίφγ,
 πέτρα, wérpa, True lex
 -ας, -ας, False na
 rock, γοεξ, False eng
 cliff, εἰϊῇ, False eng
-bowlder. δοτοζωίφγ, False eng
+boulder. δοτοζωίφγ, False eng
 # 34 42 42 aérpos,  -ov [bor.,  Eng. Peter (cp. A/at- πέτρος,  -ου [θοτ.,  Επρ. Ραῖοσ (οΡ. 772 Ὁ
 πέτρος, aérpos, True pp
 -ου -ov True pp
@@ -186,7 +176,7 @@ bowlder. δοτοζωίφγ, False eng
 Eng. Επρ. False eng
 Peter Ραῖοσ False na
 (cp. (οΡ. False eng
-A/at- 772 False na
+Mat- 772 False na
 # 35 37 40 thew 16. 18),  petrify,  petrography, ἥάσιν τ6. 18),  ΡοΕΊΠΕΙ͂Σ,  ῬΕΓΓΟΡΤΑΡΒΥ,
 thew ἥάσιν False eng
 16. τ6. False na
@@ -196,12 +186,8 @@ petrography, ῬΕΓΓΟΡΤΑΡΒΥ, False eng
 # 36 20 20 petroleum ],  séove. Ῥοίγοὶ θυ],  σ(ο)16.
 petroleum Ῥοίγοὶ False eng
 ], θυ], False na
-séove. σ(ο)16. False na
-# 37 26 24 mediArcio Bar,  see pirdw. πεφιλεῖσθαι,  5.6 φιλέω.
-mediArcio πεφιλεῖσθαι, False na
-Bar, 5.6 False na
-see φιλέω. False eng
-pirdw. NA False na
+stone. σ(ο)16. False na
+
 # 38 36 34 twepvAaypévws [from pf. mid. ptc. of πεφυλαγμένως [τοι γῇ. πὶ]. Ρῖο. οὗ
 πεφυλαγμένως twepvAaypévws True lex
 [from [τοι False eng
@@ -211,21 +197,21 @@ ptc. Ρῖο. False na
 of οὗ False eng
 # 39 36 32 guddtrw,  guard),  adv.,  guardedly, φυλάττω,  σα»,  αἰἰν.,  γαγώ αν,
 φυλάττω, guddtrw, True pp
-guard), σα», False eng
+guard], σα», False eng
 adv., αἰἰν., False eng
 guardedly, γαγώ False eng
 # 40 11 8 cautiously. κατε ον.
 cautiously. κατε False eng
 # 41 32 34 ay,  enclitic adv.,  72 any way. πῇ,  ἐπο] εἰς δάν.,  722. 471} τα.
-ay, πῇ, False eng
+πῇ, False eng
 enclitic ἐπο] False eng
 adv., εἰς False eng
-72 δάν., False na
+in δάν., False na
 any 722. False eng
 way. 471} False eng
 # 42 41 45 NYA,  -is,  source,  spring,  headwaters; πηγή,  -ῆς, ,  σοηγεο,  οῤγίηρ,  ἀοαςπυαίεγς;
 πηγή, NYA, True lex
--is, -ῆς, False na
+-ῆς, False na
 source, , False eng
 spring, σοηγεο, False eng
 headwaters; οῤγίηρ, False eng
@@ -234,25 +220,23 @@ always αἰννανβ False eng
 pl. Η]. False eng
 in ἴῃ False eng
 the ἴῃς False eng
--faadbas/s. «ἡγαφας:ῖς. False na
+Anabasis. «ἡγαφας:ῖς. False na
 # 44 34 38 why,  miiw,  ernia,  wérnya,  érd- πήγνῦμι,  πήξω,  ἔπηξα,  πέπηγα,  ἐπά-
-why, πήγνῦμι, False eng
+πήγνῦμι, False eng
 πήξω, miiw, True pp
 ἔπηξα, ernia, True pp
-wérnya, πέπηγα, False na
+πέπηγα, False na
 ἐπά- érd- True half1
-# 45 11 11 WEPLTTEVTW, περιττεύσω,
-περιττεύσω, WEPLTTEVTW, True pp
-# 46 6 7 Google (Θοορίς
-Google (Θοορίς False na
-# 47 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙΘ
-XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
-ANABASIS ΑΝΑΒΑΘΙΘ False na
+
+
+
+
+
 # 48 36 41 ynv [cogn.,  Lat. pang6,  wake fast, γὴν [οορῃ.,  1[, Δἱ. Ῥδηρῶ,  »»"αξε ζαεΐ,
-ynv γὴν False na
+γην False na
 [cogn., [οορῃ., False na
 Lat. 1[, False na
-pang6, Δἱ. False na
+pango, Δἱ. False na
 wake Ῥδηρῶ, False eng
 fast, »»"αξε False eng
 # 49 38 41 pagina,  page,  pax,  peace],  freeze. Ῥᾶγίπῃδ,  δαρέ,  ῬᾶχΧ,  2έαεε],  2) ξέξε.
@@ -267,10 +251,10 @@ freeze. 2) False eng
 mud, »ενκα᾽, False eng
 mire. γμε1 False eng
 # 51 45 45 wAXKUS,  -ews,  0,  cuit,  equiv. to 14 Greek πῆχνς,  -εως,  ὁ,  ἐεὐτ,  εααῖν. ἴο 1ἀ Οτεεκ'
-wAXKUS, πῆχνς, False na
+πῆχυς, False na
 -εως, -ews, True pp
 ὁ, 0, True lex
-cuit, ἐεὐτ, False eng
+cubit, ἐεὐτ, False eng
 equiv. εααῖν. False eng
 to ἴο False eng
 14 1ἀ False na
@@ -304,13 +288,13 @@ measure. τηδᾶϑυτγα. False eng
 Πίγρης, IIlypys, True lem
 -ητος, -n70s, True pp
 ὁ, 6, True lex
-δῖσγες, Pigres, True pp
+Pigres, True pp
 Cyrus’s Ογταβ᾽5 False na
 Greek Οτθεκ False na
 # 57 12 12 interpreter. Ἰπϊεγργεΐοσ.
 interpreter. Ἰπϊεγργεΐοσ. False eng
 # 58 41 44 wile,  ridow,  éxleca,  émiécOny,  press, πιέζω,  πιέσω,  ἐπίεσα,  ἐπιέσθην,  27, 695,
-wile, πιέζω, False eng
+πιέζω, False eng
 πιέσω, ridow, True pp
 ἐπίεσα, éxleca, True pp
 ἐπιέσθην, émiécOny, True pp
@@ -342,24 +326,24 @@ bitter. ὀϊ{ε᾽. False eng
 ἔπλησα, Exdnoa, True pp
 -πέπληκα, -rérdnKa, True pp
 # 64 36 38 -rémrnopat,  éxdhoOnyv [cogn.,  Lat. «πέπλησμαι,  ἐπλήσθην [Θορι..,  1, Αἴ.
-«πέπλησμαι, -rémrnopat, True pp
+-πέπλησμαι, -rémrnopat, True pp
 ἐπλήσθην éxdhoOnyv True pp
 [cogn., [Θορι.., False na
 Lat. 1, False na
 # 65 35 33 impled,  f//,  plénus,  /x//,  Eng. ἱπιρ1οῦ,  Μι,  Ῥΐδηυβ,  με,  Ἑπρ.
-ἱπιρ1οῦ, impled, True pp
-f//, Μι, False na
+impleo, True pp
+fill, Μι, False na
 plénus, Ῥΐδηυβ, False na
-με, /x//, True form
+full, True form
 Eng. Ἑπρ. False eng
 # 66 39 35 full,  fill],  7//,  with gen. of mate- 7.11,  811],  ΛΔ,  ἢ ρεη. οὗ τηαΐε-
 full, 7.11, False eng
 fill], 811], False eng
-7//, ΛΔ, False na
+fill, ΛΔ, False na
 with ἢ False eng
 gen. ρεη. False eng
 of οὗ False eng
-τηαΐε- mate- True half1
+mate- True half1
 # 67 5 4 rial. ταὶ.
 rial. ταὶ. False eng
 # 68 42 42 atvw,  wlouat,  Eriov,  rémwxa,  -rérouat, πίνω,  πίομαι,  ἔπιον,  πέπωκα,  -πέπομαι,
@@ -369,12 +353,11 @@ rial. ταὶ. False eng
 πέπωκα, rémwxa, True pp
 -πέπομαι, -rérouat, True pp
 # 69 37 41 tem bOny [cogn.,  Lat. pot6,  zrine], “ΠΞεπῆθην [ςορῃ.,  [, Αἴ. Ῥδϊδ,  ἐγ ἐηξ],
-tem “ΠΞεπῆθην False eng
-bOny [ςορῃ., False na
+-επόθην False eng
 [cogn., [, False na
 Lat. Αἴ. False na
-pot6, Ῥδϊδ, False na
-zrine], ἐγ False na
+poto, Ῥδϊδ, False na
+drink], ἐγ False na
 # 70 6 7 drink, ἐἰγίμά,
 drink, ἐἰγίμά, False eng
 # 71 41 40 atrre,  recodpuat,  trecov,  réxtwxa [cp. πίπτω,  πεσοῦμαι,  ἔπεσον,  πέπτωκα [ςΡ.
@@ -389,16 +372,16 @@ fall, “αἰ, False eng
 esp. ε5Ρ. False eng
 in ἴπ False eng
 battle; ὑαῖι]6; False eng
-de δέ False eng
-z2- Ζ71- False na
+be δέ False eng
+in- Ζ71- False na
 # 73 10 10 volved In. νούτ!δα 1.
 volved νούτ!δα False na
-In. 1. False na
+in. 1. False na
 # 74 40 38 TIterlSa,  -dv,  ol,  Pistdians,  inhab- Πισίδαι,  -ὧν,  οἱ,  ᾽ς ᾽ αἴας,  πῃ Ὁ-
 Πισίδαι, TIterlSa, True lex
--dv, -ὧν, False na
-ol, οἱ, False eng
-Pistdians, ᾽ς False na
+-ῶν, False na
+οἱ, False eng
+Pisidians, ᾽ς False na
 inhab- ᾽ False na
 # 75 33 37 itants of Pisidia,  a mountainous ᾿ἰἰἀηἰ89 οὐ Ρ ςιαἴα,  ἃ πιουιηίδϊπουβ
 itants ᾿ἰἰἀηἰ89 False na
@@ -413,7 +396,7 @@ the ἴῃ False eng
 southern ἴηε False eng
 part βουίμοτη False eng
 of ρατῖ False eng
-οὗ Asia True lex
+Asia True lex
 # 77 31 33 Minor. They did not acknowledge Μίηποτ. ΤὮδΥ αἱά ποῖ δε κηον]εαρε
 Minor. Μίηποτ. False na
 They ΤὮδΥ False na
@@ -440,7 +423,7 @@ put 2κὲ False eng
 trust ἐγ False eng
 or δ False eng
 confidence ΟΥ False eng
-tn, το False eng
+in, το False eng
 rely βαἴδηιε6 False eng
 on, 17:5, False eng
 trust, 7671 False eng
@@ -459,8 +442,8 @@ disc. 156. False eng
 πίστις, awloris, True lex
 -εως, -ews, True pp
 [cp. ἡ False eng
-miords], [0Ρ. False na
-farth; πιστός}, False eng
+πιστός], [0Ρ. False na
+faith; πιστός}, False eng
 # 85 39 42 good faith,  fidelity; pledge of faith, ροοαΐ γαϊτἦ,  Πα ρέϊέν; φέοιίσὸ ο7 2α 1 ἢ,
 good ροοαΐ False eng
 faith, γαϊτἦ, False eng
@@ -470,15 +453,14 @@ of φέοιίσὸ False eng
 faith, ο7 False eng
 # 86 33 35 pledge,  5a wlorews,  frustingly. 2 εῴρε,; διὰ πίστεως,  {γ:5]1)90ἱγ.
 pledge, 2 False eng
-5a εῴρε,; False na
 διὰ wlorews, True form
 πίστεως, frustingly. True pp
 # 87 35 38 morés,  -η,  -dv [welOw,  fersuade; πιστός,  -ή,  -ν [πείθω,  δεγεκαιύ εν,
 πιστός, morés, True pp
 -ή, -η, True pp
--dv -ν False na
+-όν False na
 [πείθω, [welOw, True pp
-fersuade; δεγεκαιύ False na
+persuade; δεγεκαιύ False na
 # 88 36 32 cogn.,  Lat. fidus,  faithful,  Eng. σΟρῃ.,  [«Δἴ. 1ἅπ8,  μυϊδι,  Ἐπ.
 cogn., σΟρῃ., False na
 Lat. [«Δἴ. False na
@@ -492,8 +474,8 @@ trusty. κιϊλγε, False eng
 As ἐγισψ. False na
 subst., Α5 False eng
 # 90 40 34 ol miorol,  the Faithful,  a title given οἱ πιστοί,  16 βαϊεγε,  ἃ 16 ρίνεη
-ol οἱ False eng
-miorol, πιστοί, False na
+οἱ False eng
+πιστοί, False na
 the 16 False eng
 Faithful, βαϊεγε, False na
 a ἃ False eng
@@ -505,4 +487,4 @@ selected 536] False eng
 counselors οοῖοθα False eng
 of σουπβοῖοτβ False eng
 the οὗ False eng
-ἴῃς Per- True form
+Per- True form
