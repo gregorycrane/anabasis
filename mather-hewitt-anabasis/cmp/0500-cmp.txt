@@ -1,5 +1,4 @@
-# 0 3 3 488 488
-488 488 False na
+
 # 1 41 43 wodhpns,  -es [wovs,  foot],  reaching to ποδήρης,  -ες [πούς,  , “0ο7),  γεαολέγρ᾽ 0
 ποδήρης, wodhpns, True lex
 -ες -es True pp
@@ -32,7 +31,7 @@ see 566 False eng
 -ου, -ov, True pp
 longing. ἐογργρ. False eng
 # 7 35 41 mow,  roujow,  etc. [bor Eng. poet, ποιέω,  ποιήσω,  εἴς. [ὃὈοτ.,  Επρ. Ῥοσῖ,
-mow, ποιέω, False eng
+ποιέω, False eng
 ποιήσω, roujow, True pp
 etc. εἴς. False eng
 [bor [ὃὈοτ., False eng
@@ -49,7 +48,7 @@ put, 252 False eng
 arrange, 477 False eng
 # 10 33 39 form ,; appoint; hold games; sum- ργηε,  αῤῥοῖμέ,  ἀοέαϊ φΆτΩΘ5; 5247721-
 form ργηε, False eng
-,; αῤῥοῖμέ, False na
+; αῤῥοῖμέ, False na
 appoint; ἀοέαϊ False eng
 hold φΆτΩΘ5; False eng
 games; 5247721- False eng
@@ -70,7 +69,7 @@ act, ἀεί, False eng
 do; (ὁ, False eng
 # 13 41 39 eD moiety,  benefit,  do a service,  abs. εὖ ποιεῖν,  ὀδηιοηέ,  αο ἃ τεγυΐεθ,  Ὁ.
 εὖ eD True lex
-moiety, ποιεῖν, False eng
+ποιεῖν, False eng
 benefit, ὀδηιοηέ, False eng
 do αο False eng
 a ἃ False eng
@@ -108,10 +107,10 @@ wrongs τυγορρς False eng
 or οὐ False eng
 harm ἦα False eng
 # 18 7 8 Zo one. ζο 0726.
-Zo ζο False na
+to ζο False na
 one. 0726. False eng
 # 19 34 34 Mid.,  often to be translated like ΜΙ|ά.,  οἴἴζδῃ ἰο δ ἰτδῃβὶαιθα |κ6
-ΜΙ|ά., Mid., True pp
+Mid., True pp
 often οἴἴζδῃ False eng
 to ἰο False eng
 be δ False eng
@@ -142,14 +141,14 @@ with ΨΙΠ False eng
 # 23 36 38 orou and wept rarrés,  for which see στου ἀῃὰ περὶ παντός,  ἴογ ν» ]οΟἢ 566
 στου orou True pp
 and ἀῃὰ False eng
-wept περὶ False eng
+περὶ False eng
 παντός, rarrés, True pp
 for ἴογ False eng
 which ν» False eng
 see ]οΟἢ False eng
 # 24 36 41 mepl; passe,  be done,  be going on. περί; Ῥᾶ55.,  δό 410716,  ὧδ ροΐγιρ᾽ 072.
 περί; mepl; True lex
-passe, Ῥᾶ55., False eng
+pass., Ῥᾶ55., False eng
 be δό False eng
 done, 410716, False eng
 be ὧδ False eng
@@ -161,7 +160,7 @@ on. 072. False eng
 -ον -ov True pp
 (verbal (νεῖραὶ False eng
 of οἵ False eng
-row), ποιέω), False eng
+ποιέω), False eng
 # 26 13 17 must be done. 711459 ὧδ 410716.
 must 711459 False eng
 be ὧδ False eng
@@ -171,7 +170,7 @@ done. 410716. False eng
 -ή, -η, True pp
 -ον, -ov, True pp
 many-colored, »ηαγι)-εοὐογεα, False na
-ναγ6- varie- True half1
+arie- True half1
 # 28 6 4 gated. ΧΆ .
 gated. ΧΆ False eng
 # 29 45 45 arotos,  -a,  -ov [cp. olos,  of which sort], ποῖος,  -ἄἃ,  -ον [(Ρ. οἷος,  ογ τυλῖελ ςογῇ,
@@ -188,16 +187,15 @@ interrogative ἰηϊεγγοραίίνα False eng
 adj.. δά]., False eng
 what τὐλαξ False eng
 sort 50ογἐ False eng
-οὔ of? True form
+of? True form
 # 31 6 8 what ? εὐὐλαξ ἢ
 what εὐὐλαξ False eng
-ἢ ? True lem
+? True lem
 # 32 42 40 mwokenéw,  rodeujow,  etc. [réreuos ],  be πολεμέω,  πολεμήσω,  εἴς. [πόλεμος],  δὲ
 πολεμέω, mwokenéw, True pp
 πολεμήσω, rodeujow, True pp
 etc. εἴς. False eng
 [πόλεμος], [réreuos True pp
-δὲ ], True form
 be NA False eng
 # 33 40 40 at war,  make war,  fight,  with dat. or σὲ τυαν,  γιαξό ταν,  Αρλέ,  ἢ ἀ δῖ,  οΥ
 at σὲ False eng
@@ -224,7 +222,7 @@ of οὗ False eng
 the [6 False eng
 helper; Βεῖρεγ; False eng
 # 36 32 32 boa érodeunOn,  what acts of war ὅσα ἐπολεμήθη,  τυδαξ σε οὗ τυαῦ
-boa ὅσα False eng
+ὅσα False eng
 ἐπολεμήθη, érodeunOn, True form
 what τυδαξ False eng
 acts σε False eng
@@ -244,7 +242,6 @@ Eng. Επρ. False eng
 polemic], ῬΟΙΘπιὶς}, False eng
 of οὐ False eng
 or οὐ False eng
-fit Μέ False eng
 for 297 False eng
 war, τυαν, False eng
 # 40 34 36 skilled in war,  warlike. Neut. as σδίζέφα 172 τα»,  τυαγϊξο. Νεαυῖ. 85
@@ -256,7 +253,7 @@ Neut. Νεαυῖ. False na
 as 85 False eng
 # 41 39 42 subst.,  s¢gval for battle; pl.,  mili- Βα ρ5ῖ.,  οἱσηαί 707 ῥα νέδ,  Ὁ].,  »ε111-
 subst., Βα False eng
-s¢gval ρ5ῖ., False na
+signal ρ5ῖ., False na
 for οἱσηαί False eng
 battle; 707 False eng
 pl., ῥα False eng
@@ -272,7 +269,7 @@ warfare. :α67΄5, False eng
 [πόλεμος], [rdbdeuos], True pp
 of ο7 False eng
 or οἵ False eng
-δθ- be- True half1
+be- True half1
 # 44 34 38 longing to war,  of or like an en- ἐογι ηρ᾽ 10 τῦαῦ,  ΟΥ̓ οὐ ἐἶξε τὲ ἐ71-
 longing ἐογι False eng
 to ηρ᾽ False eng
@@ -282,11 +279,9 @@ or ΟΥ̓ False eng
 like οὐ False eng
 an ἐἶξε False eng
 en- τὲ False na
-# 45 6 8 Google (ΠΘοοοῖς
-Google (ΠΘοοοῖς False na
-# 46 19 20 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ᾽5 ΑΝΑΒΑΘΙ15
-XENOPHON’S ΧΕΝΟΡΗΟΝ᾽5 False na
-ANABASIS ΑΝΑΒΑΘΙ15 False na
+
+
+
 # 47 39 41 emy,  the enemy’s,  hostile. As subst., ἐγ»,  ζῴε ορδριγ' 5,  ἀοσζἽ δ. Α5 βαΐεί.,
 emy, ἐγ», False na
 the ζῴε False eng
@@ -295,24 +290,22 @@ hostile. 5, False eng
 As ἀοσζἽ False na
 subst., δ. False eng
 # 48 36 38 n wodeula (sc. xwpa,  country),  the ἡ πολεμία (3.. χώρα,  40242227}},  2ἦέ
-n ἡ False eng
+ἡ False eng
 πολεμία wodeula True form
 (sc. (3.. False eng
 χώρα, xwpa, True lex
 country), 40242227}}, False eng
 the 2ἦέ False eng
 # 49 33 43 enemys country,  ol woréuto,  the 4716791}5 «οτ2)., 17)}),  οἱ πολέμιοι,  ζ.έ
-enemys 4716791}5 False na
+enemy's 4716791}5 False na
 country, «οτ2)., False eng
-ol 17)}), False eng
 οἱ woréuto, True pp
 the πολέμιοι, False eng
 # 50 36 40 enemy,  Lat. hostés (cp. éxOpbs); Ta ἐγ16721»,  Τ αἴ. Ζοξίδς (ΩΡ. ἐχθρός); τὰ
 enemy, ἐγ16721», False eng
 Lat. Τ False na
-αἴ. hostés True lex
+hostés True lex
 (cp. Ζοξίδς False eng
-éxOpbs); (ΩΡ. False na
 ἐχθρός); Ta True pp
 # 51 35 36 wodéuia,  matters of war,  military πολέμια,  γιαξίεγς 977 τυαγ,  τα ϊέα
 πολέμια, wodéuia, True form
@@ -332,10 +325,10 @@ warfare. , False eng
 πολιορκήσω, wodiopkiow, True pp
 ἐπολιόρκησα, érodcépxnea, True pp
 # 55 36 38 -wero\pknpat,  €rodopxynOny [ works, «πεπολιόρκημαι,  ἐπολιορκήθην [ πόλις,
-«πεπολιόρκημαι, -wero\pknpat, True pp
+-πεπολιόρκημαι, -wero\pknpat, True pp
 ἐπολιορκήθην €rodopxynOny True pp
 [ [ False na
-works, πόλις, False eng
+πόλις, False eng
 # 56 38 39 elpyw,  shut in],  hem in a city,  be- εἴργω,  τὐμξ 15],  ἄσγε ἐπ ὦ εἷέψ,  ὀέ-
 εἴργω, elpyw, True pp
 shut τὐμξ False eng
@@ -358,10 +351,10 @@ cpd. ορά. False eng
 sometimes ΒΟΙΏ False eng
 disappears, ΘΙ False eng
 as Π165 False eng
-de αἰβαρ False eng
+be αἰβαρ False eng
 hemmed ρα False eng
 # 59 37 37 am,  of persons on a hill,  187,  21. 271,  οὗ ῬδΊϑοβ Οἢ ἃ ἢ}]],  187,  21.
-am, 271, False eng
+in, 271, False eng
 of οὗ False eng
 persons ῬδΊϑοβ False eng
 on Οἢ False eng
@@ -380,7 +373,7 @@ Lat. 1, False na
 # 61 32 34 po-pulus (reduplicated),  copie; Ῥο-Ῥυ]υ8 (τεάυρὶ ςαῖε 4),  2εοῤῥε,
 po-pulus Ῥο-Ῥυ]υ8 False na
 (reduplicated), (τεάυρὶ False eng
-copie; ςαῖε False na
+people; ςαῖε False na
 # 62 39 39 bor.,  Eng. metropolis,  politics,  po- Ῥοτ.,  ΕὩρ. πιΘΊΓΟΡΟ 18,  ΡΟΙ1108,  Ρο-
 bor., Ῥοτ., False eng
 Eng. ΕὩρ. False eng
@@ -389,36 +382,35 @@ politics, 18, False eng
 po- ΡΟΙ1108, False na
 # 63 42 43 lice],  c¢ty; as a political unit,  s¢aze. 116617,  εἶξν ,  85 ἃ Ῥοϊ σαὶ αηϊῖ,  σζαΖε.
 lice], 116617, False eng
-c¢ty; εἶξν False na
+city; εἶξν False na
 as , False eng
 a 85 False eng
 political ἃ False eng
 unit, Ῥοϊ False eng
-s¢aze. σαὶ False na
+state. σαὶ False na
 # 64 41 42 wéAvorpa,  -aros,  76 [cp. wodts ],  own. πόλισμα,  -ατος,  τό [οΡ. πόλις],  Ζοτυ»:.
 πόλισμα, wéAvorpa, True pp
 -ατος, -aros, True pp
 τό 76 True form
 [cp. [οΡ. False eng
 πόλις], wodts True lex
-], Ζοτυ»:. False na
-own. NA False eng
+town. NA False eng
 # 65 37 37 woAttevw,  woNirevow,  etc. [rodtirns πολιτεύω,  πολϊίτεύσω,  εἴς. [πολίτης
 πολιτεύω, woAttevw, True pp
-πολϊίτεύσω, woNirevow, True pp
+πολιίτεύσω, woNirevow, True pp
 etc. εἴς. False eng
 [πολίτης [rodtirns True lex
 # 66 38 39 (from wéds),  cetezen],  be a citizen, (ἔτοτῃ πόλις),  ε221262},  δὲ ὦ εἰζίσε,
 (from (ἔτοτῃ False eng
 πόλις), wéds), True lex
-cetezen], ε221262}, False na
+citizen], ε221262}, False na
 be δὲ False eng
 a ὦ False eng
 citizen, εἰζίσε, False eng
 # 67 18 19 live as @ citizen, ἐΐνε ας ἃ εἴδ12671.
 live ἐΐνε False eng
 as ας False eng
-ἃ @ True lex
+a @ True lex
 citizen, εἴδ12671. False eng
 # 68 38 40 mwodAdkts [modvs],  adv.,  frequently, πολλάκις [πολύς],  δάν.,  3, 2» ἐφηεεην,
 πολλάκις mwodAdkts True lex
@@ -429,14 +421,14 @@ frequently, 3, False eng
 often. ογο7:. False eng
 # 70 45 43 awro\AaTrAdovos,  -a,  -o» [ roXUs,  and root πολλαπλάσιος,  «ἃ,  -ον [πολύς,  δΔῃηὰ τοοῖ
 πολλαπλάσιος, awro\AaTrAdovos, True pp
--a, «ἃ, False na
+-α, «ἃ, False na
 -ον -o» True pp
 [πολύς, [ True lex
 roXUs, δΔῃηὰ False na
 and τοοῖ False eng
 root NA False eng
 # 71 38 34 wha,  which is cogn. with Eng. -fold], πλα,  ΜὨΪΟΝ 15 σορῃ. ΜΙ Επρ. - 7],
-wha, πλα, False eng
+πλα, False eng
 which ΜὨΪΟΝ False eng
 is 15 False eng
 cogn. σορῃ. False na
@@ -458,11 +450,11 @@ much. τεμολ. False eng
 πολλαχοῦ wodAaxod True pp
 [modus], [πολύς], False eng
 adv., δάν., False eng
-im 272 False eng
+in 272 False eng
 many γηαην False eng
 # 75 27 27 places,  om many occastons. 2αεές,  ογε γα» Θεεαϑ10715.
 places, 2αεές, False eng
-om ογε False eng
+in ογε False eng
 many γα» False eng
 occastons. Θεεαϑ10715. False na
 # 76 40 37 tmodvdvOpwrros,  -ov [rodvs,  4vxOpwros, πολνάνθρωπος,  -ον [πολύς,  ἄνθρωπος,
@@ -480,7 +472,7 @@ populous. ῥοῤητέοιες. False eng
 ὁ, 6, True lex
 Polycraites, }ονε7 False na
 a ἄϊεξ, False eng
-ἃ cap- True lex
+cap- True lex
 # 79 23 25 tain in the Greek army. ἰφΐη ἴῃ [86 Οτεεὶς ΔΥΤΏΥ.
 tain ἰφΐη False eng
 in ἴῃ False eng
@@ -509,7 +501,7 @@ great, ργεαΐ, False eng
 large; ἔαγρὸ, False eng
 of οὗ False eng
 time, ἰἴπηα, False eng
-Jong, “ορρ, False na
+long, “ορρ, False na
 pl., ΡὉ]., False eng
 many, για» False eng
 # 84 33 32 often joined with another adj. by οζϊδη Ἰοϊπεα ψῖῇ δηοῖμοσ 84]. ὉΥ
@@ -539,7 +531,7 @@ a ὦ False eng
 great ργεαΐ False eng
 part, ῥαγί; False eng
 τὸ 7rd True form
-ron, πολύ, False eng
+πολύ, False eng
 # 88 38 37 the greater part,  &x Troddod,  with a “ὲ ργεαίεῦ ῤῥαγί,  ἐκ πολλοῦ,  τυϊά ἃ
 the “ὲ False eng
 greater ργεαίεῦ False eng
@@ -552,23 +544,17 @@ a ἃ False eng
 long δογιρ'᾽ False eng
 start; είαγέ, False eng
 ἐπὶ éwl True form
-wont, πολύ, False eng
+πολύ, False eng
 for 707 False eng
 a α False eng
 long ἐρμρ False eng
-ais- 4715- False na
+dis- 4715- False na
 # 90 34 34 tance; ws éxt 7d TONY,  as a rule, αΏε,  ὡς ἐπὶ τὸ πολύ,  ας ὦ γπέξε,
 tance; αΏε, False na
-ws ὡς False eng
+ὡς False eng
 ἐπὶ éxt True form
 τὸ 7d True form
 πολύ, TONY, True form
 as ας False eng
 a ὦ False eng
 rule, γπέξε, False eng
-# 91 13 91 —_ aD nls I — ---- «αν παῖααασιδιυδεῖι, . Ὡκααι... ...................ὄ πἰᾶῶΊε. ---.......ὃ.. ---........
-—_ ---- False na
-aD «αν False na
-nls παῖααασιδιυδεῖι, False na
-I . False na
-— Ὡκααι... False na
