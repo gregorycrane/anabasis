@@ -94,7 +94,7 @@ mpotnut NA False na
 have], λανε]), False eng
 have λανε False eng
 the ζτὰὲ6 False eng
-αὐναρ- advan- True half1
+αὐναρ- advan- True half1g
 # 21 5 5 tage. ἔαρε.
 tage. ἔαρε. False na
 # 22 23 22 m@porjet,  see wpderus, προήξει,  566 πρόειμι.
@@ -111,7 +111,7 @@ pass. Ρ8ᾶ535. False eng
 τροθυμηθήσομαι rpodvpnOjoouat True pp
 as 85 False eng
 mid., τηϊή., False eng
-πρου- wpov- True half1
+πρου- wpov- True half1g
 # 25 34 36 GuuHOnv [wpddvpos],  be zealous or θυμήθην [πρόθῦμος},  ὁεφ φτεαἠοτ5 οἵ
 θυμήθην GuuHOnv True pp
 [wpddvpos], [πρόθῦμος}, False na
@@ -144,7 +144,7 @@ ardor. γον. False eng
 -ον -o» True pp
 [θῦμός, [Oiuds, True pp
 spirit], .61γ11}, False eng
-“ογτυαγα- forwara- True half1
+“ογτυαγα- forwara- True half1g
 # 30 35 37 spirited,  eager,  zealons,  ready. 521 γζεα,  φαρε»,  σφαῤοτδς,  γεαώνγ.
 spirited, 521 False eng
 eager, γζεα, False eng
@@ -223,7 +223,7 @@ gen. ροη, False eng
 προκαλύπτω apoxadtrrea True pp
 [καλύπτω, [kahvrrw, True pp
 καλύψω, Kariyw, True pp
-ἐκά- éxd- True half1
+ἐκά- éxd- True half1g
 # 43 38 39 upa,  kexdduuuar,  ExatvpOny,  cover], λυψα,  κεκάλυμμαι,  ἐκαλύφθην,  «οὐ 7],
 λυψα, upa, True pp
 κεκάλυμμαι, kexdduuuar, True pp
@@ -270,7 +270,7 @@ beforehand. ὀεγογελαγι, False eng
 # 53 32 34 TpoxareAnppéyny,  see mpoxaraan- προκατειλημμένην,  δε6 προκαταλαμ-
 προκατειλημμένην, TpoxareAnppéyny, True pp
 see δε6 False eng
-προκαταλαμ- mpoxaraan- True half1
+προκαταλαμ- mpoxaraan- True half1g
 # 54 6 5 Bdavw. βάνω.
 βάνω. Bdavw. True pp
 # 55 42 40 IIpoxAfis,  -¢ous,  6,  Procles,  governor Προκλῆς,  -ἔους,  ὁ,  γοείξες,  βΟνΕΥΠΟΣ

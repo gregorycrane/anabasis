@@ -113,7 +113,7 @@ countenance. ᾶεε, False eng
 -α, -d, True pp
 -ον -ov True pp
 [πρότερος], [rpdrepos}, True pp
-2γέεειἦ- preced- True half1
+2γέεειἦ- preced- True half1g
 # 20 34 36 ing; TH wporepala (sc. nucpa),  on ἐρρ,  τῇ προτεραίᾳ (8.. ἡμέμᾳ),  07:
 ing; ἐρρ, False eng
 τῇ TH True lex
@@ -219,7 +219,7 @@ appear. αῤῥέαγ. False eng
 # 37 35 37 xpodacopat,  rpopacioiuat,  mpouda- προφασίζομαι,  προφασιοῦμαι,  προυφα-
 προφασίζομαι, xpodacopat, True pp
 προφασιοῦμαι, rpopacioiuat, True pp
-προυφα- mpouda- True half1
+προυφα- mpouda- True half1g
 # 38 36 36 c.odpny [wpdpacis],  offer as an ex- σισάμην [πρόφασις],  0727 ἂς αὔ1 ἐχ-
 σισάμην c.odpny True pp
 [πρόφασις], [wpdpacis], True lex
@@ -310,7 +310,7 @@ early, μη, False eng
 πρωτεύω, Tpwrevo, True pp
 πρωτεύσω, rpwrevow, True pp
 ἐπρώτευσα erpwrevoa True pp
-[πρῶ- [wpo- True half1
+[πρῶ- [wpo- True half1g
 # 56 39 37 ros],  be first,  have the first place. τος],  δέ Μγεΐ,  λασνε 7λὲ 3γὲ 2έαεο.
 ros], τος], False eng
 be δέ False eng
@@ -467,7 +467,7 @@ TIv@aydpiis, Πυθαγόρᾶς, False na
 -ου, -ov, True pp
 Pythagoras, ἐνήλαρύγας, False na
 a ἃ False eng
-ϑ'ρατῖ- Spar- True half1
+ϑ'ρατῖ- Spar- True half1g
 # 79 12 13 tan admiral. ἴδῃ δατηϊγαὶ.
 tan ἴδῃ False eng
 admiral. δατηϊγαὶ. False eng
@@ -504,7 +504,7 @@ Babylonia. βαρυ]οπίδ. False na
 [bor., [Ὀοτ., False eng
 Eng. πρ. False eng
 pylorus, ῬΥΊΟΤΙ8, False eng
-Ῥτο- Pro- True half1
+Ῥτο- Pro- True half1g
 # 86 37 40 pylaea],  gate,  usually pl.,  of the ῬΥΪΔ4647,  ραΐξ,  ἀϑυδ}}ν Ρ].,  οὗὁἨ [86
 pylaea], ῬΥΪΔ4647, False na
 gate, ραΐξ, False eng
@@ -527,7 +527,7 @@ pass. 265-. False eng
 πυνθάνομαι, TruvOdvopat, True pp
 πεύσομαι, mwevoouat, True pp
 ἐπυθόμην, érvddunv, True pp
-πέ- wé- True half1
+πέ- wé- True half1g
 # 90 33 36 Wvopat,  maguire,  inquire about, πυσμαι,  17171117γ8,  1ηφπῖγέ αὐομέ;
 πυσμαι, Wvopat, True pp
 maguire, 17171117γ8, False na

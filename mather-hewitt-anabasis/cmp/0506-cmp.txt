@@ -169,7 +169,7 @@ aupi ἀμφὲ False na
 αὐτήν alrnvy True form
 πως mwws True lex
 ὥραν, wpav, True form
-Ξο)ϊό- some- True half1
+Ξο)ϊό- some- True half1g
 # 29 26 27 where about the same hour, τυδόγο αὐοι 166 σαριθ ζομ).
 where τυδόγο False eng
 about αὐοι False eng

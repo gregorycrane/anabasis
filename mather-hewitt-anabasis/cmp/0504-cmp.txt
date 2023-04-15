@@ -119,7 +119,7 @@ Jorn, γοῖγε. False na
 [δίδωμι, [Sldwu, True pp
 give], ρσἦνε), False eng
 give ρίυε False eng
-δέ- be- True half1
+δέ- be- True half1g
 # 23 25 28 sides,  give in addition, σ᾽αἶδ5,  ρθε 1. συ {1 {1071.
 sides, σ᾽αἶδ5, False eng
 give ρθε False eng
@@ -235,7 +235,7 @@ only ΟΥΪΥ False eng
 in ἴῃ False eng
 the [ἢ6 False eng
 phrase ρῆγαβε False eng
-προσέ- mpocé- True half1
+προσέ- mpocé- True half1g
 # 41 38 41 Kev Tov vodv,  pay attention to,  turn χειν τὸν νοῦν,  δαν αὐέογιἼϊογε ἔσ,  Ζ272
 Kev χειν False na
 τὸν Tov True form
@@ -284,7 +284,7 @@ impers., ᾿πηροτβ., False eng
 with ἢ False eng
 inf. ἴηΐ. False eng
 as ἃ5 False eng
-ϑυὺ- sub- True half1
+ϑυὺ- sub- True half1g
 # 50 28 26 ject,  be fitting or proper. )εςῖ,  δέ ΑΜέηρ ον 2γοῤέ».
 ject, )εςῖ, False na
 be δέ False eng
@@ -423,7 +423,7 @@ oneself, ογμϑεοῖς False eng
 bow ὄοτο False eng
 down αἴοτοῦΣ False eng
 to, ἴο, False eng
-τῦογ'- wor- True half1
+τῦογ'- wor- True half1g
 # 73 41 41 ship,  abs. or with acc.; pass.,  recerze “112,  405. οὐ ΨΊ ἢ δος.; Ρ455.,  χέξοῖτε
 ship, “112, False eng
 abs. 405. False eng

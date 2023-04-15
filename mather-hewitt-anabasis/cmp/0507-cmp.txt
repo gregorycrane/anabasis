@@ -95,14 +95,14 @@ mythical τηγτῃϊς False eng
 race, τᾶς6, False eng
 possessing Ροςβεβϑϑὶῃρ False eng
 animal 8η1π|8] False eng
-σῃδγδοίευὶβ- characteris- True half1
+σῃδγδοίευὶβ- characteris- True half1g
 # 15 31 32 tics and human form. Their sen- [1.5 δηὰ δυϊηδῃ ἰοση. ΤΠεὶγ βεη-
 tics [1.5 False eng
 and δηὰ False eng
 human δυϊηδῃ False eng
 form. ἰοση. False eng
 Their ΤΠεὶγ False na
-βεη- sen- True half1
+βεη- sen- True half1g
 # 16 36 38 sual,  bestial nature is represented 5.4],  γθϑιῖαὶ παῖυγε 15 γτερτγεβεηῖεά
 sual, 5.4], False na
 bestial γθϑιῖαὶ False eng
@@ -190,7 +190,7 @@ wages σαφῶς False eng
 [σαφής], [cadijs], True lex
 adv., δάν., False eng
 clearly, εἰδαγίν, False eng
-ευὶ- evi- True half1
+ευὶ- evi- True half1g
 # 29 32 31 dently; surely,  with certainty. αἰδρέζ,  σπγεῖν,  τυ ἐογέα την.
 dently; αἰδρέζ, False na
 surely, σπγεῖν, False eng
@@ -204,7 +204,7 @@ see 566 False eng
 σημαίνω, onpalva, True pp
 σημανῶ, onuavd, True pp
 ἐσήμηνα, édortpnva, True pp
-σεσήμα- cechpa- True half1
+σεσήμα- cechpa- True half1g
 # 32 35 37 opat,  éonudvOny [ojua,  sign; bor, σμαι,  ἐσημάνθην [σῆμα,  51ρ»,  ὈοΥ.,
 σμαι, opat, True pp
 ἐσημάνθην éonudvOny True pp
@@ -276,7 +276,7 @@ which νῃϊοῦῆ False eng
 an ἂῃ False eng
 oil οἱ False eng
 is 15. False eng
-ὑτο- pro- True half1
+ὑτο- pro- True half1g
 # 44 6 6 duced. ἀμοεά.
 ἀμοεά. duced. True pp
 # 45 6 8 Google (Θοορσίς
@@ -308,7 +308,7 @@ a ἃ False eng
 coin οοῖῃ False eng
 current συγγοηΐ False eng
 in ἴῃ False eng
-Ῥετ- Per- True half1
+Ῥετ- Per- True half1g
 # 51 34 35 sia,  according to Xenophon equiv. 818,  δοοογαϊῃρ ἴο Χϑποόρβου δαυΐν.
 sia, 818, False eng
 according δοοογαϊῃρ False eng
@@ -336,7 +336,7 @@ citizen οἰτΖεῃ False eng
 of οὗ False eng
 Sicyon, δίογομ, False na
 an Δ False eng
-1π}- im- True half1
+1π}- im- True half1g
 # 55 26 26 portant city near Corinth. Ροτγίδηϊ οἴἵγ πεᾶγ (ουι τ.
 portant Ροτγίδηϊ False na
 city οἴἵγ False eng
@@ -433,7 +433,7 @@ Tigris. ΤΊρτ False na
 σιωπάω, TLroTrdw, True pp
 σιωπήσομαι, TLwTjoouat, True pp
 ἐσιώπησα, eo.wrnoa, True pp
-σεσιώ- cecid- True half1
+σεσιώ- cecid- True half1g
 # 72 36 35 anka,  -ecwwmnOny [owmrh,  selence), πηκα,  -εσιωπήθην [σιωπή,  σζοηεε],
 πηκα, anka, True pp
 -εσιωπήθην -ecwwmnOny True pp
@@ -446,7 +446,7 @@ stlent. “1ἐργ1, False na
 σκεδάννῦμι, oKeddvvtpt, True pp
 σκεδῶ, oxedd, True pp
 ἐσκέδασα, écxédaca, True pp
-ἐσκέ- éoxé- True half1
+ἐσκέ- éoxé- True half1g
 # 75 29 29 dacua,  eoxeddcOny,  scatter. δασμαι,  ἐσκεδάσθην,  5εω 67,
 δασμαι, dacua, True pp
 ἐσκεδάσθην, eoxeddcOny, True pp
@@ -516,7 +516,7 @@ attire. οὐγέ55, False eng
 τό, 76, True form
 tplement, Τ»ιβέρνιφηξ, False na
 pl., ὉΪ., False eng
-δαρ- bag- True half1
+δαρ- bag- True half1g
 # 88 33 36 gage,  outfit,  Lat. impedimenta, φαρέ,  οτίβέ,  Τιαῖ. τη δοαϊΓρεθηέα,
 gage, φαρέ, False eng
 outfit, οτίβέ, False eng

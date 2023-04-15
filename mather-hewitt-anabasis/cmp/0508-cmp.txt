@@ -251,7 +251,7 @@ Greek Οτεεῖκ False na
 spoken βροκεῃ False eng
 by ὈΥῪΥ False eng
 its 15 False eng
-ἱπῃδθι- inhabit- True half1
+ἱπῃδθι- inhabit- True half1g
 # 47 5 5 ants. Δηί5.
 ants. Δηί5. False eng
 # 48 32 32 Zotea,  -wy,  Td (the Shushan of Σοῦσα,  -ων,  τά (ἴῃε 5ῃυβῃδη οἵ
@@ -274,7 +274,7 @@ Persian Ῥευβίδῃ False na
 province Ῥγονίησε False eng
 and δηὰ False eng
 winter ψὶηΐεσ False eng
-τοϑὶ- resi- True half1
+τοϑὶ- resi- True half1g
 # 51 33 34 dence of the Persian monarchs. It ἄεμςε οὗ [ῃε Ῥεγβίδη τοηδγοῆβ. [Ιἰ
 dence ἄεμςε False na
 of οὗ False eng
@@ -299,7 +299,7 @@ one ομς False eng
 of οὗ False eng
 Cyrus’s Ογτυϑ᾽5 False na
 Greek ατεεκ False na
-ρεη- gen- True half1
+ρεη- gen- True half1g
 # 55 6 6 erals. Θτα]5.
 erals. Θτα]5. False na
 # 56 41 43 cwoola,  -ας [bor.,  Eng. Sophia],  c/ev- σοφίᾶ,  -ἂἃς [Ὀοτ.,  ΕὩρ. ΘΟΡΒΙΔ41],  εἰσυ-
@@ -308,7 +308,7 @@ cwoola, σοφίᾶ, False na
 [bor., [Ὀοτ., False eng
 Eng. ΕὩρ. False eng
 Sophia], ΘΟΡΒΙΔ41], False na
-εἰσυ- c/ev- True half1
+εἰσυ- c/ev- True half1g
 # 57 39 36 erness,  skill,  wisdom; musical skill, 27, 255,  δι,  τοϊξρηε,  γεδῖεαί σι,
 erness, 27, False na
 skill, 255, False eng
@@ -333,7 +333,7 @@ wise. τυΐξό. False eng
 σπανίζω, omavi{e, True pp
 σπανιῶ, cranw, True pp
 ἐσπάνισα, domduoa, True pp
-ἑσπάνι- éowdyi- True half1
+ἑσπάνι- éowdyi- True half1g
 # 62 37 40 opat (cp. omdmos],  lack,  be in want σμαι [ςΡ. σπάνιος],  ἰσεξ,  δό ἦρι τυαγι
 σμαι opat True pp
 (cp. [ςΡ. False eng

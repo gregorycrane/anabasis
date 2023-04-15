@@ -1,14 +1,13 @@
-# 0 3 3 490 400
-490 400 False na
+
 # 1 41 41 mov (cp. rou],  indefinite enclitic adv., πού [(ρΡ. ποῦ],  ᾿Ἰπ]οξηΐςα πο! ἰς δάν, ,
 πού mov True form
-(cp. [(ρΡ. False eng
+[cp. [(ρΡ. False eng
 ποῦ], rou], True pp
 indefinite ᾿Ἰπ]οξηΐςα False eng
 enclitic πο! False eng
 adv., ἰς False eng
 # 2 22 25 anyiohere,  somewhere, απ γτολφνς,  σον σισλόγε,
-anyiohere, απ False na
+anywhere, απ False na
 somewhere, γτολφνς, False eng
 # 3 43 47 wovs,  rodds,  6 [cogn.,  Lat. pés,  pedis, πούς,  ποδός,  ὁ [οὐρη.,  1, 341. Ρὅ8,  Ῥαᾶ 15,
 πούς, wovs, True lex
@@ -19,7 +18,7 @@ Lat. 1, False na
 pés, 341. False na
 pedis, Ρὅ8, False na
 # 4 37 37 joot,  Eng. foot; bor.,  Eng. antipo- “ρον,  ἕπρ. ἕοοῖ; Ὀοτ, ,  Επρ. δῃῖρο-
-“ρον, joot, True pp
+foot, True pp
 Eng. ἕπρ. False eng
 foot; ἕοοῖ; False eng
 bor., Ὀοτ, False eng
@@ -29,7 +28,7 @@ antipo- Επρ. False na
 des, ἀε5, False eng
 tripod, ἰσὶροὰ, False eng
 octopus], οοΐοριιϑ), False eng
-μού, /vo/,; True form
+foot, /vo/,; True form
 as 8ἃ5 False eng
 a ἃ False eng
 # 6 40 41 linear measure,  foot,  equiv. to nearly Ἰϊποαῦ τηζάβυγα,  Ἴθοΐ,  ἐηαΐν. ἴο ΠΕΔΥΪΥ
@@ -40,15 +39,15 @@ equiv. ἐηαΐν. False eng
 to ἴο False eng
 nearly ΠΕΔΥΪΥ False eng
 # 7 24 25 11¢ inches Eng. measure. 118 ἱποἢ 5 ἔπρ. ππόδβαγο,
-11¢ 118 False na
+11.67 118 False na
 inches ἱποἢ False eng
 Eng. 5 False eng
 measure. ἔπρ. False eng
 # 8 40 40 wpaypa,  -aros,  76 [mpdrrw; bor.,  Eng. πρᾶγμα,  -ατος,  τό[πράττω; ὕὉοτ.,  Επρ.
 πρᾶγμα, wpaypa, True pp
 -ατος, -aros, True pp
-τό[πράττω; 76 True pp
-[mpdrrw; ὕὉοτ., False na
+τό
+[πράττω; 76 True pp
 bor., Επρ. False eng
 Eng. NA False eng
 # 9 38 42 pragmatic],  deed,  matter,  business; ΡῬιαφπιδίϊο 7,  ὠδεω,  να γεν,  ὀπδίγιο55,
@@ -59,36 +58,36 @@ business; να False eng
 # 10 35 33 trouble,  annoyance ¢ WpaypaTa wap- δγομόέο,  απ πογαεὺ πράγματα παρ-
 trouble, δγομόέο, False eng
 annoyance απ False eng
-¢ πογαεὺ False na
+; πογαεὺ False na
 πράγματα WpaypaTa True form
-παρ- wap- True half1
+παρ- wap- True half1g
 # 11 29 30 éxewv,  give or make trouble, έχειν,  ρσίτ'ό οὐ ὕηὸ ἐγοιὀέξ,
-éxewv, έχειν, False na
+έχειν, False na
 give ρσίτ'ό False eng
 or οὐ False eng
 make ὕηὸ False eng
 trouble, ἐγοιὀέξ, False eng
 # 12 36 38 apavis,  -és [mpd,  forward,  cogn., πρᾶνής,  -ές,  [πρό,  μγηυαγ,  ςοβη, ,
-apavis, πρᾶνής, False na
+πρανής, False na
 -ές, -és True pp
 [πρό, [mpd, True lex
 forward, μγηυαγ, False eng
 cogn., ςοβη, False na
 # 13 39 40 Lat. pronus,  fevnwing forward },  bent Τ1, .αἱ. ρΡτόπι8,  μην γογτυα γα},  ὑοηΐ
 Lat. Τ1, False na
-.αἱ. pronus, True form
-fevnwing ρΡτόπι8, False na
+pronus, True form
+leaning ρΡτόπι8, False na
 forward μην False eng
-}, γογτυα False na
+ ], γογτυα False na
 bent γα}, False eng
 # 14 35 37 forward,  of a hill,  steep; els 70 , υγεοαγί,  οἵ ἃ ἸΗΠ],  σλοοδ; εἰς τὸ
-forward, , False eng
+forward; , False eng
 of υγεοαγί, False eng
 a οἵ False eng
 hill, ἃ False eng
 steep; ἸΗΠ], False eng
-els σλοοδ; False eng
 εἰς 70 True pp
+τὸ
 # 15 38 37 mpavés,  down the hill,  170,  9; Kara πρανές,  ἰστῶνι ἐἀ δι,  170,  9; κατὰ
 πρανές, mpavés, True pp
 down ἰστῶνι False eng
@@ -100,7 +99,7 @@ hill, δι, False eng
 # 16 35 34 Tov mpavous,  uuwn the steep slope, τοῦ πρανοῦς,  ὠὐτολ ἐάε τέο σέοῥε,
 τοῦ Tov True pp
 πρανοῦς, mpavous, True form
-uuwn ὠὐτολ False na
+down ὠὐτολ False na
 the ἐάε False eng
 steep τέο False eng
 slope, σέοῥε, False eng
@@ -108,29 +107,29 @@ slope, σέοῥε, False eng
 225, 225, False na
 19. 19. False na
 # 18 40 43 mpatis,  -ews,  7 [rpdrtw],  doing,  en- πράξις,  -εως,  ἡ [πράττω],  ὠἰοἵηιρ,  6;:-
-mpatis, πράξις, False na
+πράξις, False na
 -εως, -ews, True pp
 ἡ 7 True case
 [πράττω], [rpdrtw], True pp
 doing, ὠἰοἵηιρ, False eng
 en- 6;:- False na
 # 19 23 23 lerprise,  undertaking, ἐγ γῖδο,  τον ὐργία ιν,
-lerprise, ἐγ False na
+terprise, ἐγ False na
 undertaking, γῖδο, False eng
 # 20 39 38 Npaos,  Wpaeia,  wpaoy,  gentle,  tame. πρᾶος,  πρᾶεῖα,  πρᾶον,  ρεγέφ,  {α16.
 πρᾶος, Npaos, True pp
-πρᾶεῖα, Wpaeia, True pp
+πραεῖα, Wpaeia, True pp
 πρᾶον, wpaoy, True pp
 gentle, ρεγέφ, False eng
 tame. {α16. False eng
 # 21 36 37 apart,  mpdtw,  trpata,  wémpaya and πρᾶττω,  πράξω,  ἔπραξα,  πέπρᾶγα ἀπά
-apart, πρᾶττω, False eng
+πρᾶττω, False eng
 πράξω, mpdtw, True pp
 ἔπραξα, trpata, True pp
-wémpaya πέπρᾶγα False na
+πέπρᾶγα False na
 and ἀπά False eng
 # 22 29 30 wémpaya,  wérpayua,  érpdxOny πέπραχα,  πέπραγμαι,  ἐπράχθην
-wémpaya, πέπραχα, False na
+πέπραχα, wémpaya, True pp
 πέπραγμαι, wérpayua, True pp
 ἐπράχθην érpdxOny True pp
 # 23 32 37 [bor Eng. practical,  practice], [ὕῦυτ.,  Επρ. Ῥγδοῖϊοδὶ,  Ῥτγϑοίϊοθ],
@@ -142,17 +141,17 @@ practice], Ῥτγϑοίϊοθ], False eng
 do, εὗρ, False eng
 manage, απ False eng
 administer; αϑ False eng
-intr, δ, False eng
+intr., δ, False eng
 usu- ἀὐὐρεῖ False na
 # 25 36 36 ally with an adv.,  de 22 @ State or Αἰϊν τὰ ἂη δάν.,  όό ζ92 αὶ βέαϊξ οὐ
 ally Αἰϊν False eng
 with τὰ False eng
 an ἂη False eng
 adv., δάν., False eng
-de όό False eng
-22 ζ92 False na
-@ αὶ False na
-State βέαϊξ False na
+be όό False eng
+in ζ92 False na
+a αὶ False na
+state βέαϊξ False na
 or οὐ False eng
 # 26 31 29 condition,  do (cp. ‘how do you κοι ὐϊέοη,  α (Ρρ. “ον ἀο γοὺ
 condition, κοι False eng
@@ -193,7 +192,7 @@ in ἴῃ False eng
 prose ῥῦοβα False eng
 commonly σοτῃπηοηἷν False eng
 impers., ΤΡ False eng
-mpére, 6 False na
+πρέπει, 6 False na
 # 33 37 35 it is proper or fitting,  it becomes, 1 ἴς 2γοῤόῶ οὐ Μέρη,  11 ὀδοοῦρηδδ,
 it 1 False eng
 is ἴς False eng
@@ -212,9 +211,9 @@ dat. ἀαΐ. False eng
 # 36 33 32 mwenpéaBevxa,  mempéoBevuar [mpé- πεπρέσβευκα,  πεπρέσβευμαι [πρέ-
 πεπρέσβευκα, mwenpéaBevxa, True pp
 πεπρέσβευμαι mempéoBevuar True pp
-[πρέ- [mpé- True half1
+[πρέ- [mpé- True half1g
 # 37 34 36 aBus],  serve as ambassador,  with σβυς},  τέγυε ἂς ανιῤαςδασο»,  νν τῆ
-aBus], σβυς}, False na
+σβυς], σβυς}, False na
 serve τέγυε False eng
 as ἂς False eng
 ambassador, ανιῤαςδασο», False eng
@@ -232,7 +231,7 @@ Eng. Επρ. False eng
 priest, ΡῬγοϑβί, False eng
 # 40 33 33 Presbyterian],  o//,  poetic; its ῬτγοβΌγίοσδη,  οὐδ,  ρΡοεῖίς; 118
 Presbyterian], ῬτγοβΌγίοσδη, False na
-o//, οὐδ, False na
+old, οὐδ, False na
 poetic; ρΡοεῖίς; False eng
 its 118 False eng
 # 41 35 38 prose use as an adj. is confined to ῬΓΟΒΕ τι88ὲ ἃ5 δῇ δι]. 156. θοῃβηδα ἴο
@@ -249,12 +248,11 @@ the ἴῃ False eng
 comp. 6 False eng
 and σοτηρ. False eng
 sup., δηά False eng
-mpeoBvrepos, 810ρ., False na
+πρεσβύτερος, 810ρ., False na
 # 43 44 43 older,  elder,  wpeo Biraros,  oldest,  eld- οὐωΐδ7᾽,  οἰώύρ,  πρεσβύτατος,  οὐρα,  ὁἰή-
 older, οὐωΐδ7᾽, False eng
 elder, οἰώύρ, False eng
 πρεσβύτατος, wpeo True pp
-Biraros, οὐρα, False na
 oldest, ὁἰή- False eng
 eld- NA False na
 # 44 37 42 est. As subst.,  in prose only in the ἐπ’. ΔΒ βΒυθ5ῖ, ,  ἴῃ ρῦοβα Οἣ]Ϊγυ ἴῃ [868
@@ -266,14 +264,10 @@ prose ἴῃ False eng
 only ρῦοβα False eng
 in Οἣ]Ϊγυ False eng
 the ἴῃ False eng
-# 45 6 8 Google (αΘοορίς
-Google (αΘοορίς False na
-# 46 19 19 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ 5 ΑΝΑΒΑΘΙ5
-XENOPHON’S ΧΕΝΟΡΗΟΝ False na
-ANABASIS 5 False na
+
 # 47 37 38 pl.,  edders,  esp. ambassadors,  who ΡΪ.,  εἰΐδγ5,  650. αριῤασεασογς,  ὙὮΟ
 pl., ΡΪ., False eng
-edders, εἰΐδγ5, False na
+elders, εἰΐδγ5, False na
 esp. 650. False eng
 ambassadors, αριῤασεασογς, False eng
 who ὙὮΟ False eng
@@ -282,10 +276,7 @@ were ὙΕΓΟ False eng
 usually ἀ50Α}}Υ False eng
 old οἱ False eng
 men. πε. False eng
-# 49 23 24 xplac@as,  see wréouat. πρίασθαι,  5Ξεε ὠνέομαι.
-πρίασθαι, xplac@as, True lex
-see 5Ξεε False eng
-ὠνέομαι. wréouat. True pp
+
 # 50 43 42 aplv [cp. xpd],  conj.,  (1) after affirma- πρίν [(Ρ. πρό],  οοπ].,  (1) αἴζεγ Δῇηγηδ-
 πρίν aplv True lex
 [cp. [(Ρ. False eng
@@ -293,7 +284,7 @@ see 5Ξεε False eng
 conj., οοπ]., False eng
 (1) (1) False na
 after αἴζεγ False eng
-Δῇηγηδ- affirma- True half1
+affirma- True half1g
 # 51 37 35 tive clauses,  before,  with inf.; so τἶνε οἰάυδε8,  ὀέζόγε,  ψὶῖ ἰπΐ; 50
 tive τἶνε False na
 clauses, οἰάυδε8, False eng
@@ -323,7 +314,7 @@ imply ἸΡΙΥ False eng
 a ἃ False eng
 neg. περ. False eng
 idea 1ᾶῴεα False eng
-(βϑομι- (some- True half1
+(some- True half1g
 # 55 29 31 times preceded by mpérepoy or Ὦϊμε5. Ρῥιοοεαεά ὉΥ πρότερον οἵ
 times Ὦϊμε5. False eng
 preceded Ρῥιοοεαεά False eng
@@ -341,7 +332,7 @@ before, ὀεήογε, False eng
 until, τη False eng
 with 112, False eng
 indic., . False eng
-&» ΨῈ False na
+ἄν ΨῈ False na
 and ἰηαϊς, False eng
 # 58 15 18 subj.,  or opt. 511}}}}.,  ΟΥ̓ ΟΡ.
 subj., 511}}}}., False eng
@@ -351,8 +342,8 @@ opt. ΟΡ. False eng
 πρό wpé True lex
 [cogn., [ὁοορῃ., False na
 Lat. [, False na
-pré, Αἴ, False na
-defore, Ῥτῦ, False na
+pro, Αἴ, False na
+before, Ῥτῦ, False na
 Eng. ὀεγογε, False eng
 for, Ἐπρ. False eng
 # 60 34 36 fore; bor.,  Eng. programme,  pro- ἴοσθ; Ὀοτ.,  Επρ. Ῥτοργδπιπιθ,  ὑτο-
@@ -360,7 +351,7 @@ fore; ἴοσθ; False eng
 bor., Ὀοτ., False eng
 Eng. Επρ. False eng
 programme, Ῥτοργδπιπιθ, False eng
-ὑτο- pro- True half1
+pro- True half1g
 # 61 35 34 logue,  prophet],  prep. with gen., Ἰοχζιθ,  Ῥσόρ δῖ),  ργερ. ν] ἢ σε.
 logue, Ἰοχζιθ, False na
 prophet], Ῥσόρ False eng
@@ -397,16 +388,15 @@ words ννοτ5 False eng
 above) ἃρονε) False eng
 beginning Ὀερίηπὶηρ False eng
 with ψ False eng
-ἢ f7o-. True lem
+pro-. True lem
 # 67 39 37 mpoayopetw [ dyopevw,  dyopevow,  etc., προαγορεύω [ἀγορεύω,  ἀγορεύσω,  εἴς.
 προαγορεύω mpoayopetw True pp
 [ἀγορεύω, [ True pp
 ἀγορεύσω, dyopevw, True pp
-εἴς. dyopevow, True form
 etc., NA False eng
 # 68 37 40 speak,  proclaim), announce publicly, σῥέεαΐ,  φγοείαϊηε),  σμεηοέμεε ιό( εἶν,
 speak, σῥέεαΐ, False eng
-proclaim), φγοείαϊηε), False eng
+proclaim], φγοείαϊηε), False eng
 announce σμεηοέμεε False eng
 publicly, ιό( False eng
 # 69 24 25 make public declaration. »αἦε διόῥαε ἀδείαγαζῖογε.
@@ -416,7 +406,7 @@ declaration. ἀδείαγαζῖογε. False eng
 # 70 34 34 wpodyw [dyw,  ead],  lead forward. προάγω [ἄγω,  ἐεαα,  ἐξα 7ογευαγά.
 προάγω wpodyw True pp
 [ἄγω, [dyw, True pp
-ead], ἐεαα, False eng
+lead], ἐεαα, False eng
 lead ἐξα False eng
 forward. 7ογευαγά. False eng
 # 71 37 41 wpoacOdvopat [alcPdvouat,  perceive], προαισθάνομαι [αἰσθάνομαι,  δε» εεῖτ' εἼ,
@@ -429,11 +419,10 @@ beforehand, ὀεγογελαπα, False eng
 perceive 2εγεείυεέ False eng
 in 17 False eng
 # 73 5 8 “ime. 217, 26.
-“ime. 217, False na
+time. 217, False na
 # 74 44 44 tweoBalve [ Balvw,  step,  go],  go forward, προβαίνω [βαίνω,  “ζεῤ,  φρο],  ρὺ )ογευαγω,
 προβαίνω tweoBalve True pp
 [βαίνω, [ True pp
-Balvw, “ζεῤ, False na
 step, φρο], False eng
 go], ρὺ False eng
 go )ογευαγω, False eng
@@ -453,7 +442,7 @@ bor., Ὀοτ., False eng
 Eng. Επρ. False eng
 # 77 36 40 problem],  chrow before; mid.,  hold ῬΙΟΌΪΘΠΙ1,  φάγοι ὀεγογε ,  ταϊὰ.,  ἀοίι
 problem], ῬΙΟΌΪΘΠΙ1, False eng
-φάγοι chrow True form
+throw True form
 before; ὀεγογε False eng
 mid., , False eng
 hold ταϊὰ., False eng
@@ -470,7 +459,6 @@ put »1)5, False eng
 them Ῥαΐϊ False eng
 in πεπὶ False eng
 # 80 37 40 _ position to make or repel an attack ,  Ῥοβιτοη ἴο πη8 κα οὐ γτερεὶ δῇ δἰΐδοκ
-_ , False na
 position Ῥοβιτοη False eng
 to ἴο False eng
 make πη8 False eng
@@ -510,13 +498,12 @@ collectively. σΟἸ]Θοἰνεϊν. False eng
 # 86 39 35 apoPovrevw [ Bovrevw,  plan),  plan for προβουλεύω [βουλεύω,  24",  ῥέα 2 Υ
 προβουλεύω apoPovrevw True pp
 [βουλεύω, [ True pp
-Bovrevw, 24", False na
-plan), ῥέα False eng
+plan], ῥέα False eng
 plan 2 False eng
 for Υ False eng
 # 87 16 18 or 27 behalf of. ΟΥ̓ ὦ»,  ὀολαζ οὐκ
 or ΟΥ̓ False eng
-27 ὦ», False na
+on ὦ», False na
 behalf ὀολαζ False eng
 of. οὐκ False eng
 # 88 35 41 apdyovos,  -ov [yiyvoua,  be born), πρόγονος,  -ου [γίγνομαι,  ὁέὲέ ὀογ)7λ1},
@@ -524,9 +511,9 @@ of. οὐκ False eng
 -ου -ov True pp
 [γίγνομαι, [yiyvoua, True pp
 be ὁέὲέ False eng
-born), ὀογ)7λ1}, False eng
+born], ὀογ)7λ1}, False eng
 # 89 23 22 JSorefather,  ancestor. )ργεζαίλεν,  αμεθείοῦ.
-JSorefather, )ργεζαίλεν, False na
+forefather, )ργεζαίλεν, False na
 ancestor. αμεθείοῦ. False eng
 # 90 37 38 mpodiSwpr [dliwm,  give],  give up to προδίδωμι [δίδωμι,  σίυε),  γίνε πῤ ἴο
 προδίδωμι mpodiSwpr True pp

@@ -17,11 +17,11 @@ with τυ False eng
 alacrity. αἰαεγιν. False eng
 # 4 33 33 (omovSarodoyéopar),  éorovdarodd- (σπονδαιολογέομαι),  ἐσπουδαιολό-
 (σπονδαιολογέομαι), (omovSarodoyéopar), True pp
-ἐσπουδαιολό- éorovdarodd- True half1
+ἐσπουδαιολό- éorovdarodd- True half1g
 # 5 34 34 ynoa,  éorovdatoroy7Ony [omovdaco- γησα,  ἐσπουδαιολογήθην [σπουδαιο-
 γησα, ynoa, True pp
 ἐσπουδαιολογήθην éorovdatoroy7Ony True pp
-[σπουδαιο- [omovdaco- True half1
+[σπουδαιο- [omovdaco- True half1g
 # 6 33 34 Abyos (omovdaios,  serious,  éyw, λόγος (σπουδαῖος,  “6γ1οτ5,  λέγω,
 λόγος Abyos True pp
 (σπουδαῖος, (omovdaios, True pp
@@ -49,7 +49,7 @@ pl. Ρὶ. False eng
 στάδια, orddia, True form
 rd, τά, False eng
 or οἵ False eng
-στά- ord- True half1
+στά- ord- True half1g
 # 11 38 37 dior,  of [bor.,  Eng. stadium],  szc- διοι,  οἱ [ὕοτ.,  Επρ. 8[δᾶϊπι,  “2α-
 dior, διοι, False na
 of οἱ False eng
@@ -92,7 +92,7 @@ race τᾶσθ False eng
 in ἴῃ False eng
 Greek ατζεεὶς False na
 games, σᾶμπηθβ, False eng
-οοσγο- corre- True half1
+οοσγο- corre- True half1g
 # 17 30 30 sponding to our 100-yard dash. ΒρΡΟπαηρ ἴο οὔὐ ΙΟο-γᾶγὰ ἀΔ5ἢ.
 sponding ΒρΡΟπαηρ False na
 to ἴο False eng
@@ -132,7 +132,7 @@ Introd. Ἰηίτοα. False eng
 στασιάζω, oracta{w, True pp
 στασιάσω, cracidow, True pp
 ἐστασίασα éoraclaca True pp
-[στά- [ord- True half1
+[στά- [ord- True half1g
 # 24 40 43 ows,  faction],  form a faction against, σις,  )αοἴΐο»],  70 γη2 α Μαοίϊογι ρα 1715,
 ows, σις, False na
 faction], )αοἴΐο»], False eng
@@ -210,7 +210,7 @@ equip. ἐφηεῖ2. False eng
 -όν -dy True pp
 (bor, [Ὀοϊζ, False eng
 Eng. Επρ. False eng
-δἔθῃπορτζα- stenogra- True half1
+δἔθῃπορτζα- stenogra- True half1g
 # 38 36 40 phy],  zarrow. Neut.,  sing. or pl., ῬὮΥ17,  παγγοτυ. Νεαυῖ, ,  βίην. οἵ Ρ].,
 phy], ῬὮΥ17, False na
 zarrow. παγγοτυ. False na
@@ -279,7 +279,7 @@ pass. ρᾶ58. False eng
 στέρομαι orépoat True pp
 with Μ|ῃ False eng
 pf. Ρΐ, False eng
-τηδδη- mean- True half1
+τηδδη- mean- True half1g
 # 51 40 41 ing,  be deprived of,  be without,  have ἵηρ,  δε ἀεῤγῖίνεα οἵ,  ὁέ τυϊἐλοι,  ἄσνε
 ing, ἵηρ, False eng
 be δε False eng
@@ -313,7 +313,7 @@ firm; 37, False eng
 bor., Ὀοτ., False eng
 Eng. Επρ. False eng
 stereopticon, ϑίθσεορίίζοοη, False eng
-ϑδίθσθο- stereo- True half1
+ϑδίθσθο- stereo- True half1g
 # 58 28 30 type],  firmly,  resolutely. ἴγρδ)],   γριέν,  γεδοέεεζν, .
 type], ἴγρδ)], False eng
 firmly, γριέν, False eng
@@ -340,7 +340,7 @@ wreath, τυγεαίἦ, False eng
 # 63 33 33 éatepdvwyat,  dorepavwOnv [orépa- ἐστεφάνωμαι,  ἐστεφανώθην [στέφα-
 ἐστεφάνωμαι, éatepdvwyat, True pp
 ἐστεφανώθην dorepavwOnv True pp
-[στέφα- [orépa- True half1
+[στέφα- [orépa- True half1g
 # 64 38 43 vos],  crown,  wreathe,; mid.,  put on νο09},  47 οτογῖ,  τυγεαίδέ,  τοϊὰ.,  2 072
 vos], νο09}, False na
 crown, 47 False eng
