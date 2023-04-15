@@ -1,0 +1,515 @@
+# 0 4 4 494° 404.
+494° 404. False na
+# 1 41 41 wep,  w.vds,  7d [cogn.,  ny. fire; bor., πῦρ,  π᾿υός,  τό[εορη.,  ἔμ,  ὅτα; ὕογ, ,
+πῦρ, wep, True lex
+π᾿υός, w.vds, True pp
+7d τό[εορη., False na
+[cogn., ἔμ, False na
+ny. ὅτα; False eng
+fire; ὕογ, False eng
+bor., , False eng
+# 2 34 34 pyre,  pyrography,  pyrotechnics], ῬγΓΕ,  ὈΥΓΟΣΓΑΡΒΥ,  ῬΥΓΟΐΘΟΒὨΪΟ8],
+pyre, ῬγΓΕ, False eng
+pyrography, ὈΥΓΟΣΓΑΡΒΥ, False eng
+pyrotechnics], ῬΥΓΟΐΘΟΒὨΪΟ8], False eng
+# 3 40 36 Aire,  pl. ra wupd,  camp fires,  signal γέ,  ν]. τὰ πυρά,  αν βγές,  εἰρνιαί
+γέ, Aire, True form
+pl. ν]. False eng
+ra τὰ False eng
+πυρά, wupd, True pp
+camp αν False eng
+fires, βγές, False eng
+signal εἰρνιαί False eng
+# 4 5 3 hres. Μη’
+hres. Μη’ False na
+# 5 35 41 wipapls,  -idos,  7 [bor Eng. pyra- πυραμίς,  -ίδος, ,  ἡ [ὕοτγ.,  Επρ. Ὀγτδ-
+πυραμίς, wipapls, True lex
+-ίδος, -idos, True pp
+7 , False na
+[bor ἡ False eng
+Eng. [ὕοτγ., False eng
+pyra- Επρ. False na
+# 6 16 19 mid ],  pyramid. τη ϊὰ ],  δυγων»αε,
+mid τη False eng
+], ϊὰ False na
+pyramid. ], False eng
+# 7 40 39 TI$papos,  “OU,  Pyramus,  a river flow- Πύραμος,  του,  δ᾽ιγἄν 5,  ἃ τῖνογ ἤον-
+Πύραμος, TI$papos, True pp
+του, “OU, True pp
+Pyramus, δ᾽ιγἄν False na
+a 5, False eng
+river ἃ False eng
+flow- τῖνογ False na
+# 8 20 20 ing through Cilicia. τὴν τπγουρὴ (ἼΠο1Δ4.
+ing τὴν False eng
+through τπγουρὴ False eng
+Cilicia. (ἼΠο1Δ4. False na
+# 9 39 41 mUpivos,  -η,  -ov [wipds ],  of wheat, πῦὕρινος,  -ή,  -ον [πῦρός],  ογ΄ τολεαέ,
+πῦὕρινος, mUpivos, True pp
+-ή, -η, True pp
+-ον -ov True pp
+[πῦρός], [wipds True pp
+], ογ΄ False na
+of τολεαέ, False eng
+wheat, NA False eng
+# 10 43 44 mwupos,  -ov,  always pl. in the -fnadasis, πυρός,  -ου,  αἰνναγ5 μΗ]. ἴῃ τῆς ἡ μαδαςῖς,
+πυρός, mwupos, True pp
+-ου, -ov, True pp
+always αἰνναγ5 False eng
+pl. μΗ]. False eng
+in ἴῃ False eng
+the τῆς False eng
+ἡ -fnadasis, True case
+# 11 6 6 wheat, τι οι,
+wheat, τι False eng
+# 12 40 39 ww,  indennite enclitic adv.,  used only πώ,  ᾿π οΠπῖῖς πο] ῖς δάν.,  αδο] ΟἿΪ]Ὺ
+ww, πώ, False na
+indennite ᾿π False na
+enclitic οΠπῖῖς False eng
+adv., πο] False eng
+used ῖς False eng
+only δάν., False eng
+# 13 37 39 after a neg.,  yet,  up fo this time. δίϊον ἃ πὸρ.,  γε,  “20 ἐο “λτς {1 »ι6.
+after δίϊον False eng
+a ἃ False eng
+neg., πὸρ., False eng
+yet, γε, False eng
+up “20 False eng
+fo ἐο False eng
+this “λτς False eng
+time. {1 False eng
+# 14 38 37 Twrtw,  rwrjow,  érwrHOnv [bor.,  Eng. πωλέω,  πωλήσω,  ἐπωλήθην [Ὀυτ.,  Εν.
+πωλέω, Twrtw, True pp
+πωλήσω, rwrjow, True pp
+ἐπωλήθην érwrHOnv True pp
+[bor., [Ὀυτ., False eng
+Eng. Εν. False eng
+# 15 18 18 monopoly ],  sed/, ΤΠΟΠΟΡΟΪΥ ],  τον,
+monopoly ΤΠΟΠΟΡΟΪΥ False eng
+], ], False na
+τον, sed/, True pp
+# 16 40 43 mwAos,  -ov [cogn.,  Lat. pullus,  young πῶλος,  -ου [οὐρη, ,  [.Δ1ἴ. ΡΏ118,  )οτρρ᾽
+πῶλος, mwAos, True pp
+-ου -ov True pp
+[cogn., [οὐρη, False na
+Lat. , False na
+pullus, [.Δ1ἴ. False eng
+young ΡΏ118, False eng
+# 17 40 43 of an animal,  Eng. foal,  filly],  c/s, Οὗ δὴ δηῃΐμπιαὶ,  πη ρ. 04],  Η11Υ71,  εὐὐ,
+of Οὗ False eng
+an δὴ False eng
+animal, δηῃΐμπιαὶ, False eng
+Eng. πη False eng
+foal, ρ. False eng
+filly], 04], False eng
+c/s, Η11Υ71, False na
+# 18 5 4 foal. "ως.
+foal. "ως. False eng
+# 19 37 36 mapa,  -aros,  76 [cp. wtrw,  drink], πῶμα,  -ατος,  τό [ςρ. πίνω,  ἐγ» 7,
+πῶμα, mapa, True pp
+-ατος, -aros, True pp
+τό 76 True form
+[cp. [ςρ. False eng
+πίνω, wtrw, True pp
+drink], ἐγ» False eng
+# 20 6 8 drink, εὐγ15 6,
+drink, εὐγ15 False eng
+# 21 38 36 mwanore [rw + ord,  ever],  indetinite πώποτε [πώ - ποτέ,  εὐε;},  ᾿ς Ππῖζο
+πώποτε mwanore True lex
+[rw [πώ False na
++ - False na
+ord, ποτέ, False eng
+ever], εὐε;}, False eng
+indetinite ᾿ς False na
+# 22 41 42 adv.,  in neg. clauses,  ever yet,  ever. Δι να,  ἢ πὸρ. οἰαιποβ,  δ: 7 γεί,  δι 6}.
+adv., Δι False eng
+in να, False eng
+neg. ἢ False eng
+clauses, πὸρ. False eng
+ever οἰαιποβ, False eng
+yet, δ: False eng
+ever. 7 False eng
+# 23 36 39 mes [cp. drws,  how],  interrogative πῶς [}. ὅπως,  ἀσοτυ}ῦ,  ἱπιεγσγοραῖϊνο
+mes πῶς False eng
+[cp. [}. False eng
+ὅπως, drws, True lex
+how], ἀσοτυ}ῦ, False eng
+interrogative ἱπιεγσγοραῖϊνο False eng
+# 24 26 31 adv.,  how ? in what way ? δι]ν.,  ἤἄστο 2 {γι τυλαΐ ταν 2
+adv., δι]ν., False eng
+how ἤἄστο False eng
+? 2 False na
+in {γι False eng
+what τυλαΐ False eng
+way ταν False eng
+? 2 False na
+# 25 41 39 mas (cp. ras],  indetinite enclitic adv., πώς [ρ. πῶς],  πα οἤηϊτς ἐποὶ]ἰς δάν, ,
+mas πώς False eng
+(cp. [ρ. False eng
+ras], πῶς], False eng
+indetinite πα False na
+enclitic οἤηϊτς False eng
+adv., ἐποὶ]ἰς False eng
+# 26 31 35 tno any way,  somehow; for some 11 αἱ» τὸῶῦ.,  δομόλοτυ,  70» 5ογη6
+tno 11 False na
+any αἱ» False eng
+way, τὸῶῦ., False eng
+somehow; δομόλοτυ, False eng
+for 70» False eng
+some 5ογη6 False eng
+# 27 34 40 reason or other; somewhat,  about; γέΩδο)Σ 07 οἵδογ,  σονεφτυλαΐξ,  αὐοτεν;
+reason γέΩδο)Σ False eng
+or 07 False eng
+other; οἵδογ, False eng
+somewhat, σονεφτυλαΐξ, False eng
+about; αὐοτεν; False eng
+# 28 33 32 aupi Thy alrnvy mwws wpav,  some- ἀμφὲ τὴν αὐτήν πως ὥραν,  Ξο)ϊό-
+aupi ἀμφὲ False na
+τὴν Thy True form
+αὐτήν alrnvy True form
+πως mwws True lex
+ὥραν, wpav, True form
+Ξο)ϊό- some- True half1
+# 29 26 27 where about the same hour, τυδόγο αὐοι 166 σαριθ ζομ).
+where τυδόγο False eng
+about αὐοι False eng
+the 166 False eng
+same σαριθ False eng
+hour, ζομ). False eng
+# 30 2 1 Pp Ρ
+Pp Ρ False na
+# 31 37 37 pdbios,  -d,  -ov,  comp. fdw»,  sup. ῥάδιος,  -α,  -ον,  οοηρ. ῥᾳων,  ΒῈΡ.
+ῥάδιος, pdbios, True pp
+-α, -d, True pp
+-ον, -ov, True pp
+comp. οοηρ. False eng
+ῥᾳων, fdw», True pp
+sup. ΒῈΡ. False eng
+# 32 14 14 paoros,  casy, ῥᾷστος,  ἐαεν.
+ῥᾷστος, paoros, True pp
+casy, ἐαεν. False na
+# 33 35 34 padiws [pddios],  adv.,  easily; ds ῥᾳδίως [ῥᾷδιος,  δἄν.,  φασίν,  ὡς
+ῥᾳδίως padiws True form
+[ῥᾷδιος, [pddios], True pp
+adv., δἄν., False eng
+easily; φασίν, False eng
+ds ὡς False eng
+# 34 30 29 paora,  as easily as possible. ῥᾷστα,  ας φασίν ἂς ῥοςεῖδίδ.
+ῥᾷστα, paora, True form
+as ας False eng
+easily φασίν False eng
+as ἂς False eng
+possible. ῥοςεῖδίδ. False eng
+# 35 38 37 Padtpew [PeOiuos (cp. pddios,  Bdpuds, ῥᾳθυμέω [ῥᾳθῦμος (ερ. ῥᾷδιος,  θυμός,
+ῥᾳθυμέω Padtpew True pp
+[ῥᾳθῦμος [PeOiuos True pp
+(cp. (ερ. False eng
+ῥᾷδιος, pddios, True pp
+θυμός, Bdpuds, True pp
+# 36 35 38 Spirit),  easy-going],  take things ὁ217γ11),  ἐαεγ-ροῖ» 9},  ἑωζέ ζλϊηιρε
+Spirit), ὁ217γ11), False na
+easy-going], ἐαεγ-ροῖ» False na
+take 9}, False eng
+things ἑωζέ False eng
+# 37 24 25 easy,  live in idleness. ἐδ»,  ἐσέ 171 1ωϊξογεθδς,
+easy, ἐδ», False eng
+live ἐσέ False eng
+in 171 False eng
+idleness. 1ωϊξογεθδς, False eng
+# 38 40 41 PeOtpla,  -ας [cp. padipnew),  idleness, ῥᾳθυμία,  -ας [ορ. ῥᾳθυμέω],  ἐωώζεγιέ5ς,
+ῥᾳθυμία, PeOtpla, True lem
+-ας -ας False na
+[cp. [ορ. False eng
+ῥᾳθυμέω], padipnew), True pp
+idleness, ἐωώζεγιέ5ς, False eng
+# 39 13 14 an easy life. 471 6657 ἐϊ76.
+an 471 False eng
+easy 6657 False eng
+life. ἐϊ76. False eng
+# 40 27 27 Pov,  paorov,  see pdduios. ῥᾷον,  ῥᾷστον,  Ξεε ῥάδιος,
+ῥᾷον, Pov, True pp
+ῥᾷστον, paorov, True pp
+see Ξεε False eng
+ῥάδιος, pdduios. True pp
+# 41 37 38 péw,  pevcouar and pujooua,  eopinxa, ῥέω,  ῥεύσομαι διὰ ῥνήσομαι,  ἐρρύηκα,
+ῥέω, péw, True pp
+ῥεύσομαι pevcouar True pp
+and διὰ False eng
+ῥνήσομαι, pujooua, True pp
+ἐρρύηκα, eopinxa, True pp
+# 42 34 37 €pptnv [cogn.,  Eng. stream; bor., ἐρρύην [σορη.,  Επηρ,  βίσβδπι; [οΥ.,
+ἐρρύην €pptnv True pp
+[cogn., [σορη., False na
+Eng. Επηρ, False eng
+stream; βίσβδπι; False eng
+bor., [οΥ., False eng
+# 43 29 31 Eng. catarrh,  rheum],  /fow. Ἐπρ. οδΐδττῃ,  τ θυ π11,  ἥοτυ.
+Eng. Ἐπρ. False eng
+catarrh, οδΐδττῃ, False eng
+rheum], τ False eng
+/fow. θυ False na
+# 44 6 6 Google (οοσίς
+Google (οοσίς False na
+# 45 19 19 XENOPHON'S ANABASIS ΧΕΝΟΡΗΟΝΘ ΔΑΝΑΒΑΘΙ5
+XENOPHON'S ΧΕΝΟΡΗΟΝΘ False na
+ANABASIS ΔΑΝΑΒΑΘΙ5 False na
+# 46 40 38 ptwrew (and pirréw in pres,  and impf.), ῥέπτω (πὰ ῥ᾽΄πτέω ἴῃ ῥτεβ. ἀπά ἱπιρῇ),
+ῥέπτω ptwrew True pp
+(and (πὰ False eng
+ῥ᾽΄πτέω pirréw True pp
+in ἴῃ False eng
+pres, ῥτεβ. False eng
+and ἀπά False eng
+impf.), ἱπιρῇ), False eng
+# 47 38 39 piv,  tppiva,  Eppipa,  Eppinpar,  ép- ῥίψω,  ἔρρῖψα,  ἔρρῖφα,  ἔρριμμαι,  ἐρ-
+ῥίψω, piv, True pp
+ἔρρῖψα, tppiva, True pp
+ἔρρῖφα, Eppipa, True pp
+ἔρριμμαι, Eppinpar, True pp
+ép- ἐρ- False na
+# 48 35 35 pipOny and éppligny,  throw,  throw ρίφθην πὰ ἐρρίφην,  ζάγοιν,  “άγοιν
+ρίφθην pipOny True pp
+and πὰ False eng
+ἐρρίφην, éppligny, True pp
+throw, ζάγοιν, False eng
+throw “άγοιν False eng
+# 49 18 20 aside,  hurl down, ατιαἶς,  ἀπγέ αοτυ».
+aside, ατιαἶς, False eng
+hurl ἀπγέ False eng
+down, αοτυ». False eng
+# 50 43 45 “Pé8v0s,  -a,  -ov [‘Pddos,  Rhodes},  Rho- Ῥόδιος,  -α,  -ον [' Ῥόδος,  Αλοαϊς],  4 ᾽1ο-
+Ῥόδιος, “Pé8v0s, True pp
+-α, -a, True pp
+-ον -ov True pp
+[‘Pddos, [' False na
+Ῥόδος, Rhodes}, True pp
+Rho- Αλοαϊς], False na
+# 51 35 34 dian,  of Rhodes,  an island in the απ,  οΥ Αἰλοιξε,  δὰ ἰϑϊαπα ἴῃ [ἢ6
+dian, απ, False eng
+of οΥ False eng
+Rhodes, Αἰλοιξε, False na
+an δὰ False eng
+island ἰϑϊαπα False eng
+in ἴῃ False eng
+the [ἢ6 False eng
+# 52 33 30 Aegéan,  south ci Caria. Masc. as Αερέδῃ,  βου οὐ (διὰ. Μᾶβο. ἃς
+Aegéan, Αερέδῃ, False na
+south βου False eng
+οὐ ci True lex
+(διὰ. Caria. True form
+Masc. Μᾶβο. False na
+as ἃς False eng
+# 53 35 39 subst.,  AZodian. The Rhodians were δῦ 5ῖ.,  Αἰ λοάΐαμ. ΤᾺΣ ΕΠοαϊΐδης ψνοτα
+subst., δῦ False eng
+AZodian. 5ῖ., False na
+The Αἰ False na
+Rhodians λοάΐαμ. False na
+were ΤᾺΣ False eng
+# 54 18 20 famed as slingers. ἰδτηβα 88 5ἰἴηροιϑβ.
+famed ἰδτηβα False eng
+as 88 False eng
+slingers. 5ἰἴηροιϑβ. False eng
+# 55 35 36 podtw,  podicoua,  eppdpyoa [cogn., ῥοφέω,  ῥοφήσομαι,  ἐρρόφησα [ςορῃ.,
+ῥοφέω, podtw, True pp
+ῥοφήσομαι, podicoua, True pp
+ἐρρόφησα eppdpyoa True pp
+[cogn., [ςορῃ., False na
+# 56 32 33 Lat. sorbed (whence is bor. Eng. [μαἴ,  Βοῖθθῦ (με ποα 5 Ὀοτ. Επρ.
+Lat. [μαἴ, False na
+sorbed Βοῖθθῦ False eng
+(whence (με False eng
+is ποα False eng
+bor. 5 False eng
+Eng. Ὀοτ. False eng
+# 57 35 35 absorb),  suck in],  suck in,  gulp ΔΌΒΟΓΌ),  σμεξ ἐμ},  σμοξ ἐμ,  ρεὶῤ
+absorb), ΔΌΒΟΓΌ), False eng
+suck σμεξ False eng
+in], ἐμ}, False eng
+suck σμοξ False eng
+in, ἐμ, False eng
+gulp ρεὶῤ False eng
+# 58 5 7 down, εἰοτυ».
+down, εἰοτυ». False eng
+# 59 41 45 pipa,  -aros,  76 [éptw,  draw),  drawing ῥῦμα,  -ατος,  τό [ἐρύω,  γατυ],  ἀν ατυΐ»εσ'
+pipa, ῥῦμα, False eng
+-ατος, -aros, True pp
+τό 76 True form
+[ἐρύω, [éptw, True pp
+draw), γατυ], False eng
+drawing ἀν False eng
+# 60 34 34 of a bow; éx régou piuaros,  if he οἵ ἃ Ὀον; ἐκ τόξου ῥύματος,  ἐγ ἀε
+of οἵ False eng
+a ἃ False eng
+bow; Ὀον; False eng
+ἐκ éx True lex
+τόξου régou True pp
+ῥύματος, piuaros, True pp
+if ἐγ False eng
+he ἀε False eng
+# 61 32 33 had a bowshot’s start,  162,  7. ἀαα α ὀοτυελοί᾽» είαγέ,  τ62,  7.
+had ἀαα False eng
+a α False eng
+bowshot’s ὀοτυελοί᾽» False na
+start, είαγέ, False eng
+162, τ62, False na
+7. 7. False na
+# 62 35 35 popn,  -ns [fdvvimat,  strengthen), ῥώμη,  -ης [ῥώννῦμι,  τέγεγερτλτ»],
+ῥώμη, popn, True lex
+-ns -ης False na
+[ῥώννῦμι, [fdvvimat, True pp
+strengthen), τέγεγερτλτ»], False eng
+# 63 25 26 strength; military force. εγεηρτά,  ται ΠἸαΥγ 2» εε.
+strength; εγεηρτά, False eng
+military ται False eng
+force. ΠἸαΥγ False eng
+# 64 1 1 2 Σ
+2 Σ False na
+# 65 43 42 rdyapis,  -ews,  7,  battle ax,  carried by σάγαρις,  -εως,  ἡ,  δαζε αχ,  οαττῖοα ὉΥ͂
+σάγαρις, rdyapis, True lex
+-εως, -ews, True pp
+ἡ, 7, True case
+battle δαζε False eng
+ax, αχ, False eng
+carried οαττῖοα False eng
+by ὉΥ͂ False eng
+# 66 37 36 Asiatics,  and frequently represented Αϑβίδίϊοβ,  δ ἔγεαυεηι}ν ταργεβεηῖεά
+Asiatics, Αϑβίδίϊοβ, False na
+and δ False eng
+frequently ἔγεαυεηι}ν False eng
+represented ταργεβεηῖεά False eng
+# 67 34 32 in art as a weapon of the Amazons. ἴῃ τί 85 ἃ εᾶρου οἵ [88 Απδζοῃβ.
+in ἴῃ False eng
+art τί False eng
+as 85 False eng
+a ἃ False eng
+weapon εᾶρου False eng
+of οἵ False eng
+the [88 False eng
+Amazons. Απδζοῃβ. False na
+# 68 21 21 See Fig. 64,  p. 200. 566 ΕἸΡ. 64,  Ρ. 20ο.
+See 566 False na
+Fig. ΕἸΡ. False na
+64, 64, False na
+p. Ρ. False eng
+200. 20ο. False na
+# 69 34 35 waxlov,  -ov [diminutive of odxos, σακίον,  -ου [ἀϊτιϊπυϊίνα οὗ σάκος,
+σακίον, waxlov, True pp
+-ου -ov True pp
+[diminutive [ἀϊτιϊπυϊίνα False eng
+of οὗ False eng
+σάκος, odxos, True pp
+# 70 38 39 sack; bor.,  Lat. saccus,  sack,  Eng. σαεξ,  Ὀοτ.,  δῖ. ϑᾶσοῦδ,  σσεξ,  Ἐπ ρ.
+sack; σαεξ, False eng
+bor., Ὀοτ., False eng
+Lat. δῖ. False na
+saccus, ϑᾶσοῦδ, False eng
+sack, σσεξ, False eng
+Eng. Ἐπ False eng
+# 71 27 27 sack],  /ittle bag or sack, 8801Κ],  ὨΠΠΠ6 ὀαρ οὐ σαεῖ.
+sack], 8801Κ], False eng
+/ittle ὨΠΠΠ6 False na
+bag ὀαρ False eng
+or οὐ False eng
+sack, σαεῖ. False eng
+# 72 30 32 oddmyé,  -vyyos,  4,  trumpet. σάλπιγξ,  -ἰγγος,  ἡ,  Φ΄τρεῤεί,
+σάλπιγξ, oddmyé, True lex
+-ἰγγος, -vyyos, True pp
+ἡ, 4, True case
+trumpet. Φ΄τρεῤεί, False eng
+# 73 17 17 Fig. 63,  p. 196. ΕἸρ. 63,  Ρ. 196.
+Fig. ΕἸρ. False na
+63, 63, False na
+p. Ρ. False eng
+196. 196. False na
+# 74 37 38 cadmi{e,  éodrrvyia [oddwcyé],  sound σαλπίζω,  ἐσάλπιγξα [σἀλπιγξ],  τοτενα
+σαλπίζω, cadmi{e, True pp
+ἐσάλπιγξα éodrrvyia True pp
+[oddwcyé], [σἀλπιγξ], False na
+sound τοτενα False eng
+# 75 33 30 the trunipet; éwel éoddwcyte (sc. δε ἐγιεί,  ἐπεὶ ἐσάλπιγξε (5ς.
+the δε False eng
+trunipet; ἐγιεί, False na
+ἐπεὶ éwel True form
+ἐσάλπιγξε éoddwcyte True form
+(sc. (5ς. False eng
+# 76 31 34 6 cadmixris),  when the trumpet ὁ σαλπικτής),  τυερηε 26. φτεριβεῖ
+ὁ 6 True lex
+σαλπικτής), cadmixris), True lem
+when τυερηε False eng
+the 26. False eng
+trumpet φτεριβεῖ False eng
+# 77 18 20 sounded,  60,  21. σοιφραφα, ͵ δο,  21.
+sounded, σοιφραφα, False eng
+60, ͵ False na
+21. δο, False na
+# 78 37 39 cadmiuris,  -of [cadritw],  rumpeter. σαλπικτής,  -ου [σαλπίζω],  2 τριῤείεν.
+σαλπικτής, cadmiuris, True lem
+-ου -of True pp
+[σαλπίζω], [cadritw], True pp
+rumpeter. 2 False na
+# 79 21 21 See Fig. 63,  p. 196. 566 ΕἸρ. 63,  Ρ. 196.
+See 566 False na
+Fig. ΕἸρ. False na
+63, 63, False na
+p. Ρ. False eng
+196. 196. False na
+# 80 39 42 Ldpros,  -d,  -ov [Zduos,  Samos],  Sa- Σάμιος,  -ά,  -ον [Σάμος,  .3α»:051,  .55-
+Σάμιος, Ldpros, True pp
+-ά, -d, True pp
+-ον -ov True pp
+[Σάμος, [Zduos, True pp
+Samos], .3α»:051, False na
+Sa- .55- False na
+# 81 36 42 mian,  of Samos,  an important Ionic »1α71:,  ΟΥ̓ δαρεος,  ἂῃ ἰτηροτίδηϊς Τομὶς
+mian, »1α71:, False eng
+of ΟΥ̓ False eng
+δαρεος, Samos, True pp
+an ἂῃ False eng
+important ἰτηροτίδηϊς False eng
+Ionic Τομὶς False na
+# 82 21 21 island in the Aegéan. Ι5]δηα ἰῃ [ῃ6 Αδρδδῃ.
+island Ι5]δηα False eng
+in ἰῃ False eng
+the [ῃ6 False eng
+Aegéan. Αδρδδῃ. False na
+# 83 39 44 Lapses,  -ew,  al,  Sardis,  capital of Σάρδεις,  -εων,  αἱ,  «“““γωϊΐς,  ςαρῖϊα] οἵ
+Σάρδεις, Lapses, True lex
+-εων, -ew, True pp
+al, αἱ, False eng
+Sardis, «“““γωϊΐς, False na
+capital ςαρῖϊα] False eng
+of οἵ False eng
+# 84 33 34 Lydia,  and chief city of Cyrus’s Ι, γαϊᾶ,  δῃὰ οἢϊεῆ οἷν οὐ Ογτιι"ς
+Lydia, Ι, False na
+and γαϊᾶ, False eng
+chief δῃὰ False eng
+city οἢϊεῆ False eng
+of οἷν False eng
+οὐ Cyrus’s True lex
+# 85 35 34 province; the starting point of the Ῥτονίηςα; {Π6 βίαγίηρ ροϊπὶ οὗ 186
+province; Ῥτονίηςα; False eng
+the {Π6 False eng
+starting βίαγίηρ False eng
+point ροϊπὶ False eng
+of οὗ False eng
+the 186 False eng
+# 86 20 19 expedition of Cyrus. ἐχρϑαϊίοῃ οὗ (γγυβ.
+expedition ἐχρϑαϊίοῃ False eng
+of οὗ False eng
+Cyrus. (γγυβ. False na
+# 87 40 41 carpatetw [carpdrns ],  be satrap,  rule σατραπεύω [σατράπης Ἱ,  ὁέ «αἵγαΐ,  »ερῖρ
+σατραπεύω carpatetw True pp
+[σατράπης [carpdrns True lex
+], Ἱ, False na
+be ὁέ False eng
+satrap, «αἵγαΐ, False eng
+rule »ερῖρ False eng
+# 88 30 29 as satrap,  with gen,  or acc. ἄς βαΐγαῤ,  νι ἢ σεη. οὗ δος.
+as ἄς False eng
+satrap, βαΐγαῤ, False eng
+with νι False eng
+gen, ἢ False eng
+or σεη. False eng
+acc. οὗ False eng
+# 89 3 2 See 66
+See 66 False na

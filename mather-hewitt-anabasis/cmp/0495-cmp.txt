@@ -1,5 +1,4 @@
-# 0 10 14 VOCABULARY ΝνοΟοΟΑΒΌυ ΑΚΥ
-VOCABULARY ΝνοΟοΟΑΒΌυ False na
+#
 # 1 39 40 battle array,  in line of battle,  Lat. δαϊζίε α»ῦαν,  ἐμ ἐμὲ οὗ" ὀαδίέο,  1 Αἱ.
 battle δαϊζίε False eng
 array, α»ῦαν, False eng
@@ -9,7 +8,7 @@ of οὗ" False eng
 battle, ὀαδίέο, False eng
 Lat. 1 False na
 # 2 11 14 enstrictus. 221577 πείϊ45.
-enstrictus. 221577 False na
+instructus. 221577 False na
 # 3 28 27 aapatelvw [relyw,  stretch], παρατείνω [τείνω,  “{γείς],
 παρατείνω aapatelvw True pp
 [τείνω, [relyw, True pp
@@ -20,7 +19,7 @@ extend. ἐχίφρα, False eng
 # 5 39 40 waparlOnpr [rlOnut,  put},  put beside, παρατίθημι [τίθημι,  2:1],  2:2 ὀεδταΐέ,
 παρατίθημι waparlOnpr True pp
 [τίθημι, [rlOnut, True pp
-put}, 2:1], False na
+put], 2:1], False na
 put 2:2 False eng
 beside, ὀεδταΐέ, False eng
 # 6 24 26 set before,  serve food. δεΐ ὀεγογέ,  5εγύυέ ἰοοάα.
@@ -34,22 +33,16 @@ food. ἰοοάα. False eng
 run], 7, False eng
 run 421}, False eng
 along, γε, False eng
-# 8 19 23 YUN OVEY OF ACYOSS. γτε71 οὐ 7 οΟΥἩ 447055.
-YUN γτε71 False na
-οὐ OVEY True lex
-OF 7 False na
-ACYOSS. οΟΥἩ False na
 # 9 37 35 mrapeyyuaw [eyyudw,  yyyinoa,  Hy YU- παρεγγνάω [ἐγγυάω,  ἠγγύησα,  ἠγγύ-
 παρεγγνάω mrapeyyuaw True pp
 [ἐγγυάω, [eyyudw, True pp
 ἠγγύησα, yyyinoa, True pp
-Hy ἠγγύ- False na
-YU- NA False na
+ἠγγύ- False na
 # 10 37 37 nKa,  WyYonual,  -nyyuAGnr,  pledge), ηκα,  ἠγγύημαι,  -ηγγνήθην,  δίσαρε),
 ηκα, nKa, True pp
 ἠγγύημαι, WyYonual, True pp
 -ηγγνήθην, -nyyuAGnr, True pp
-pledge), δίσαρε), False eng
+pledge], δίσαρε), False eng
 # 11 35 41 pass the word along,  command,  the 2465 τΤ{6 τυογα αἰογερ,  εογερεαγα,  τῈ 8
 pass 2465 False eng
 the τΤ{6 False eng
@@ -82,7 +75,7 @@ Cp. ΟΡ. False na
 παραγγέλλω. mapayyé\\w. True pp
 # 16 48 46 araperpe [elul,  be],  be beside,  be present or πάρειμι [εἰμί,  ὀ61,  ἐε ὀφοταἶε,  δ 2γἐφεηξοτ
 πάρειμι araperpe True pp
-[elul, [εἰμί, False eng
+[εἰμί, False eng
 be], ὀ61, False eng
 be ἐε False eng
 beside, ὀφοταἶε, False eng
@@ -97,14 +90,13 @@ on ο" False eng
 hand, ἀαμα, False eng
 come, εογι, False eng
 arrive, αγγῖσυε, False eng
-# 18 43 43 _ with dat. af possessor,  Aave ,; impers.,  ΨΊΓ ἀδϊ. αἴ ρΡοββθββου,  ἀσζεέ,  τυ ρθγ8.,
-_ ΨΊΓ False na
+#
 with ἀδϊ. False eng
 dat. αἴ False eng
-af ρΡοββθββου, False eng
+of ρΡοββθββου, False eng
 possessor, ἀσζεέ, False eng
-Aave τυ False na
-,; ρθγ8., False na
+have τυ False na
+; ρθγ8., False na
 impers., NA False eng
 # 19 41 39 with inf. as subject,  de posstble,  202, ψΙ Ἰπΐ,  25 ϑυθ]εςῖ,  ἐφ 2οσετδε,  202,
 with ψΙ False eng
@@ -126,9 +118,9 @@ bystanders; ὀγεοία»ι False eng
 (with (ΜΙ False eng
 or οΥἩ False eng
 without νίΠουΐϊ False eng
-mpd- πρά- False na
+πρά- False na
 # 22 35 37 yuara),  the present circumstances; Ὕματα),  ζὰς 2γεέδεηέ εἰγαιρηδίαηεέδ;
-yuara), Ὕματα), False na
+ματα), False na
 the ζὰς False eng
 present 2γεέδεηέ False eng
 circumstances; εἰγαιρηδίαηεέδ; False eng
@@ -143,7 +135,6 @@ crisis. NA False eng
 # 24 45 48 qwaperpe [ elu,  go,  come],  go along,  come πάρειμι [εἶμι,  ρὉ,  “0716,  ρῸ αἰο»ερ,  “05, 16
 πάρειμι qwaperpe True pp
 [εἶμι, [ True pp
-elu, ρὉ, False na
 go, “0716, False eng
 come], ρῸ False eng
 go αἰο»ερ, False eng
@@ -155,10 +146,7 @@ go ρῸὸ False eng
 by, ὁγ, False eng
 pass ῤαες False eng
 by. ὁγ. False eng
-# 26 31 29 awrapexAhOnoav,  see rapaxahéw. παρεκλήθησαν,  Ξεε παρακαλέω.
-παρεκλήθησαν, awrapexAhOnoav, True form
-see Ξεε False eng
-παρακαλέω. rapaxahéw. True pp
+
 # 27 38 36 wapedatvw [é\avvw,  drive],  ride past παρελαύνω [ἐλαύνω,  ἐγῖνε],  γα ῥαεὲ
 παρελαύνω wapedatvw True pp
 [ἐλαύνω, [é\avvw, True pp
@@ -196,17 +184,10 @@ adj., δή]. False eng
 # 32 16 15 past,  190,  II. 2αρ,  100,  11.
 past, 2αρ, False eng
 190, 100, False na
-II. 11. False na
-# 33 35 35 wraptotw,  see maperut,  be beside, παρέστω,  5εε πάρειμι,  ἦε ὀεεϊαἶξ.
-παρέστω, wraptotw, True pp
-see 5εε False eng
-πάρειμι, maperut, True pp
-be ἦε False eng
-beside, ὀεεϊαἶξ. False eng
-# 34 28 27 qwaperérato,  see maparelyw, παρετέτατο,  5ε6 παρατείνω.
-παρετέτατο, qwaperérato, True form
-see 5ε6 False eng
-παρατείνω. maparelyw, True pp
+11. False na
+
+
+
 # 35 40 42 awapéxw [¢xw,  hold],  hold beside or in παρέχω [ἔχω,  λοία],  λοέα ὀεοεϊαἶδ ΟΥ 172
 παρέχω awapéxw True pp
 [ἔχω, [¢xw, True pp
@@ -231,9 +212,9 @@ render; γοραἶδγ, False eng
 mid., ταϊὰ., False eng
 πειθομένους... wecOouévous True pp
 ... παρ- False na
-map- NA False na
+παρ- NA False na
 # 39 34 39 éxerOat,  make... obedient to him- έχεσθαι,  »πμαΐξο. . οὐδαϊεηιξ το ἦ17)-
-éxerOat, έχεσθαι, False na
+έχεσθαι, False na
 make... »πμαΐξο. False eng
 obedient . False eng
 to οὐδαϊεηιξ False eng
@@ -242,16 +223,7 @@ him- το False na
 self, δεοζς False eng
 138, 138, False na
 17. 17. False na
-# 41 34 35 qwapyet,  see mdaperut,  go along. παρύήει,  5εε πάρειμι,  φρο αἰογῖρ.
-qwapyet, παρύήει, False na
-see 5εε False eng
-πάρειμι, mdaperut, True pp
-go φρο False eng
-along. αἰογῖρ. False eng
-# 42 24 24 mTapyvel,  see raparvew. παρήνει,  Ξεε΄ παραινέω.
-mTapyvel, παρήνει, False na
-see Ξεε΄ False eng
-παραινέω. raparvew. True pp
+
 # 43 40 41 arapQévos,  -ov,  7 [bor.,  Eng. Parthe- παρθένος,  -ου,  ἡ [ὕὈοτ.,  Επρ,  Ῥατίδο-
 παρθένος, arapQévos, True lex
 -ου, -ov, True pp
@@ -262,21 +234,10 @@ Parthe- Ῥατίδο- False na
 # 44 21 24 non],  #atden,  girl. 805],  γπαϊαΐφγ:,  ρἹ7έ.
 non], 805], False eng
 #atden, γπαϊαΐφγ:, False na
+maiden,
 girl. ρἹ7έ. False eng
-# 45 7 7 stretch “Ζγοζεζ
-stretch “Ζγοζεζ False eng
-# 46 6 8 Google (ποορσίς
-Google (ποορσίς False na
-# 47 3 3 483 483
-483 483 False na
-# 48 38 40 maplévar,  wapiévras,  see mdpetu,  go παριέναι,  παριόντας,  5εἐε πάρειμι,  ρο
-παριέναι, maplévar, True form
-παριόντας, wapiévras, True form
-see 5εἐε False eng
-πάρειμι, mdpetu, True pp
-go ρο False eng
-# 49 6 7 along. αέογιρ.
-along. αέογιρ. False eng
+
+
 # 50 38 38 mapodos [d5és,  way],  way past,  pas- πάροδος [ὁδός,  τυα}],  τῦαν ας,  ῥα:-
 πάροδος mapodos True pp
 [ὁδός, [d5és, True lex
@@ -292,7 +253,6 @@ approach. αῤῥγοαεΆᾷ. False eng
 # 52 41 41 wapolxopas [ ofyouar,  be gone],  be gone παροίχομαι [οἴχομαι,  ὁὲ ρο᾽6},  ἐξ ρογε6
 παροίχομαι wapolxopas True pp
 [οἴχομαι, [ True pp
-ofyouar, ὁὲ False na
 be ρο᾽6}, False eng
 gone], ἐξ False eng
 be ρογε6 False eng
@@ -322,14 +282,14 @@ Arcadia. Ατοδαϊᾶ. False na
 # 57 41 43 TIaptoaris,  -:50s,  7,  Parysatis,  wife Παρύσατις,  -ίδος, ,  ἡ,  δαγγεἄξίςο,  «ῖῖε
 Παρύσατις, TIaptoaris, True lex
 -ίδος, -:50s, True pp
-7, , False na
 ἡ, Parysatis, True case
 wife δαγγεἄξίςο, False eng
+Παρύσατις
 # 58 37 40 and half-sister of Darius II,  mother δΔη4 Πα] [-ϑἰϑῖοσ οὗ ᾿δγῖιβ 11,  τλοΐποῦ
 and δΔη4 False eng
 half-sister Πα] False na
 of [-ϑἰϑῖοσ False eng
-οὗ Darius True lex
+Darius True lex
 II, ᾿δγῖιβ False na
 mother 11, False eng
 # 59 30 30 of Artaxerxes II and Cyrus the οὔ Ατΐαχθυχθβ 11 δηά Ογγὺβ ἴΠ6
@@ -377,14 +337,14 @@ son δοὴ False eng
 Cyrus. Ουγὰβ. False na
 See 8566 False na
 # 65 17 19 Introd. §§ 1,  2. Ιηἰτοά,  8δδ 1,  2.
-Ιηἰτοά, Introd. True pp
+Introd. True pp
 §§ 8δδ False na
 1, 1, False na
 2. 2. False na
 # 66 39 38 was,  waca,  way,  gen,  wavrés,  waons πᾶς,  πᾶσα,  πᾶν,  σεῃ. παντός,  πάσης
-was, πᾶς, False eng
+πᾶς, False eng
 πᾶσα, waca, True pp
-way, πᾶν, False eng
+πᾶν, False eng
 gen, σεῃ. False eng
 παντός, wavrés, True form
 πάσης waons True form
@@ -404,7 +364,7 @@ pred. ργεά, False eng
 (rarely (ΤΆΓΟΥ False eng
 attrib.) δἰ.) False eng
 position, Ροβιτίοη, False eng
-alt αὐ False eng
+all αὐ False eng
 the, Ζάε, False eng
 the τε False eng
 # 70 37 40 whole of; without article,  in sing., τυλοίε ογ7,  νι οαΐϊ ἀγί]ο]6,  'π βίην.»
@@ -437,7 +397,6 @@ everything; ἐυεγγέλλρρ, False eng
 # 74 40 46 mwavros moveta Oat,  consider it all-im- παντὸς ποιεῖσθαι,  εο»:51ω1675. 129 αὐέ- 1771-
 παντὸς mwavros True form
 ποιεῖσθαι, moveta True form
-Oat, εο»:51ω1675. False na
 consider 129 False eng
 it αὐέ- False eng
 all-im- 1771- False na
@@ -459,7 +418,7 @@ acc. δοο. False eng
 pl. ἢ]. False eng
 as 85 False eng
 adv., δᾶν., False eng
-2m ἦς False na
+in ἦς False na
 all αὐέ False eng
 re- γέ- False na
 # 78 17 18 spects,  utterly. δῤέείς,  22167 ἐγ.
@@ -490,7 +449,7 @@ Myriandus. Μγυϊδπάμυβ. False na
 πάσχω, Taro, True pp
 πείσομαι, relcouat, True pp
 ἔπαθον, €rabov, True pp
-wérovéa πέπονθα False na
+πέπονθα False na
 [cp. [ςΡ. False eng
 # 83 42 40 wa0os,  suffering ],  experience,  suffer, πάθος,  5:47͵27γ110],  ἐχδεγῖοηοε,  δε},
 πάθος, wa0os, True lex
@@ -513,10 +472,10 @@ benefits, δεμοπς, False eng
 πάσχειν, waaxetvr, True form
 suf- ΣΙ False na
 # 86 23 22 yer loss,  be tll used. 2’ ἐο55,  ὧφ τἰῤ τδοα,
-yer 2’ False eng
+fer 2’ False eng
 loss, ἐο55, False eng
 be ὧφ False eng
-tll τἰῤ False na
+all τἰῤ False na
 used. τδοα, False eng
 # 87 37 36 warécow,  waTdtw,  érdarata,  strike. πατάσσω,  πατάξω,  ἐπάταξα,  «[γ1ξε,
 πατάσσω, warécow, True pp
@@ -524,7 +483,7 @@ used. τδοα, False eng
 ἐπάταξα, érdarata, True pp
 strike. «[γ1ξε, False eng
 # 88 40 40 Ilarnyvtas,  -2 (Doric gen.),  Pategyas, Πατηγύᾶς,  -α ([ϑοτῖς ρσεαη.),  2 εργας,
-Ilarnyvtas, Πατηγύᾶς, False na
+Πατηγύας, False na
 -α -2 True pp
 (Doric ([ϑοτῖς False na
 gen.), ρσεαη.), False eng
@@ -536,7 +495,7 @@ in ἴῃ False eng
 the [ῃ6 False eng
 suite δυῖϊίε False eng
 of οἵ False eng
-γε. Cyrus. True lex
+Cyrus. True lex
 # 90 39 41 mathp,  warpds,  6 [cogn.,  Lat. pater, πατήρ,  πατρός,  ὁ [οὐρη.,  [, 4ἴ. Ῥδῖθτ,
 πατήρ, mathp, True lex
 πατρός, warpds, True form

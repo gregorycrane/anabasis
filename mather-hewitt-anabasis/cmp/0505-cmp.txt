@@ -1,0 +1,541 @@
+# 0 10 11 VOCABULARY ΝΟΓςΑΒΌΙΑΚΥ
+VOCABULARY ΝΟΓςΑΒΌΙΑΚΥ False na
+# 1 34 34 apoorartw,  mpoecrdrnca [xpoordrns προστατέω,  προεστάτησα [προστάτης
+προστατέω, apoorartw, True pp
+προεστάτησα mpoecrdrnca True pp
+[προστάτης [xpoordrns True lex
+# 2 36 38 (wrpotornu),  manager ],  be manager (τροΐστημι),  νια»αρ6}7},  ἐφ »:αμαρεῦ
+(τροΐστημι), (wrpotornu), True pp
+manager νια»αρ6}7}, False eng
+], ἐφ False na
+be »:αμαρεῦ False eng
+manager NA False eng
+# 3 14 11 of,  with gen. οἵ» Μ᾿ ροη.
+of, οἵ» False eng
+with Μ᾿ False eng
+gen. ροη. False eng
+# 4 34 39 wpooratrw [Tdarrw,  assign],  com- προστάττω [τάττω,  4:510γ2}], ) «0η))1-
+προστάττω wpooratrw True pp
+[τάττω, [Tdarrw, True pp
+assign], 4:510γ2}], False eng
+com- ) False na
+# 5 30 34 mand,  give orders,  with dat. »ρεαηαἾ,  σίνε ογωΐδγς,  ΜΊτῃ ἀδῖ.
+mand, »ρεαηαἾ, False eng
+give σίνε False eng
+orders, ογωΐδγς, False eng
+with ΜΊτῃ False eng
+dat. ἀδῖ. False eng
+# 6 39 39 apoorepvibiov,  -ov [ordpvor,  breast], προστερνίδιον,  -ου [στέρνον,  ὀγέας7],
+προστερνίδιον, apoorepvibiov, True pp
+-ου -ov True pp
+[στέρνον, [ordpvor, True pp
+breast], ὀγέας7], False eng
+# 7 35 38 breastpiece,  for horses. See Figs. ὀγεασίῤίεες,  ἴον ἤοῦβεθ8. 8566. ΕἸρ5.
+breastpiece, ὀγεασίῤίεες, False eng
+for ἴον False eng
+horses. ἤοῦβεθ8. False eng
+See 8566. False na
+Figs. ΕἸρ5. False na
+# 8 19 22 5,  30 pp: 37,  88. 5,  30,  ΡΡ. 37»,  88.
+5, 5, False na
+30 30, False na
+pp: ΡΡ. False eng
+37, 37», False na
+88. 88. False na
+# 9 40 43 apootlOnps [TlOnu,  put],  put to,  add; προστίθημι [τίθημι,  2:42],  διέ ἐο,  αὐἶζ,
+προστίθημι apootlOnps True pp
+[τίθημι, [TlOnu, True pp
+put], 2:42], False eng
+put διέ False eng
+to, ἐο, False eng
+add; αὐἶζ, False eng
+# 10 40 39 mid.,  assent to,  concur in,  with dat. τηϊά.,  αϑεο»ι: ἔο,  εογι.47 η,  ἢ ἀαῖ.
+mid., τηϊά., False eng
+assent αϑεο»ι: False eng
+to, ἔο, False eng
+concur εογι.47 False eng
+in, η, False eng
+with ἢ False eng
+dat. ἀαῖ. False eng
+# 11 38 44 mpootpéxw [Tpéxw,  run],  run lo,  run προστρέχω [τρέχω,  7241},  γ1471. ἐθ,  γ1471
+προστρέχω mpootpéxw True pp
+[τρέχω, [Tpéxw, True pp
+run], 7241}, False eng
+run γ1471. False eng
+lo, ἐθ, False eng
+run γ1471 False eng
+# 12 17 15 up to,  with dat. “2 ἐο,  ΜᾺ ἀαῖ.
+up “2 False eng
+to, ἐο, False eng
+with ΜᾺ False eng
+dat. ἀαῖ. False eng
+# 13 37 37 axpéow [xpd],  adv.,  forward; so rot πρόσω [πρό],  δαν.,  “γιυαγα,  50 τοῦ
+πρόσω axpéow True pp
+[πρό], [xpd], True lex
+adv., δαν., False eng
+forward; “γιυαγα, False eng
+so 50 False eng
+rot τοῦ False eng
+# 14 36 38 wpbow,  64,  4; far away; with gen., πρόσω,  64,  4; , α7,  ατυαν,  ΜῊ ρθη.
+πρόσω, wpbow, True pp
+64, 64, False na
+4; 4; False na
+far , False eng
+away; α7, False eng
+with ατυαν, False eng
+gen., ΜῊ False eng
+# 15 35 38 far from,  but far into,  196,  10. 3ν 7γόονι,  Ὀυϊ μαῦ ἐρμίο,  1906,  10.
+far 3ν False eng
+from, 7γόονι, False eng
+but Ὀυϊ False eng
+far μαῦ False eng
+into, ἐρμίο, False eng
+196, 1906, False na
+10. 10. False na
+# 16 26 27 Comp. mpoowrépw,  farther. Οομιρ. προσωτέρω,  γαγίλέγ.
+Comp. Οομιρ. False na
+προσωτέρω, mpoowrépw, True pp
+farther. γαγίλέγ. False eng
+# 17 36 38 mpocwmoyv,  -ov [cp. dyoua,  fut. of πρόσωπον,  -ου [(ρΡ. ὄψομαι,  [πι|. οἵ
+πρόσωπον, mpocwmoyv, True pp
+-ου -ov True pp
+[cp. [(ρΡ. False eng
+ὄψομαι, dyoua, True pp
+fut. [πι|. False eng
+of οἵ False eng
+# 18 33 33 dpdw,  see],  face,  countenance. ὁράω,  5421,  , ᾶεε,  εοτέμεγαεέ.
+ὁράω, dpdw, True pp
+see], 5421, False eng
+face, , False eng
+countenance. ᾶεε, False eng
+# 19 42 43 aporepatos,  -d,  -ov [rpdrepos},  preced- προτεραῖος,  -α,  -ον [πρότερος],  2γέεειἦ-
+προτεραῖος, aporepatos, True pp
+-α, -d, True pp
+-ον -ov True pp
+[πρότερος], [rpdrepos}, True pp
+2γέεειἦ- preced- True half1
+# 20 34 36 ing; TH wporepala (sc. nucpa),  on ἐρρ,  τῇ προτεραίᾳ (8.. ἡμέμᾳ),  07:
+ing; ἐρρ, False eng
+τῇ TH True lex
+προτεραίᾳ wporepala True form
+(sc. (8.. False eng
+nucpa), ἡμέμᾳ), False na
+on 07: False eng
+# 21 15 15 the day before. ζλε (αν δεζογε.
+the ζλε False eng
+day (αν False eng
+before. δεζογε. False eng
+# 22 40 40 amporepos,  -a,  -ov [cp. mpd,  before), πρότερος,  -ά,  -ον [0ρΡ. πρό,  ὀε7ογε],
+πρότερος, amporepos, True pp
+-ά, -a, True pp
+-ον -ov True pp
+[cp. [0ρΡ. False eng
+πρό, mpd, True lex
+before), ὀε7ογε], False eng
+# 23 36 39 former,  previous,  to be translated , )ργνιθῦ,  ῤγευΐοις,  ἴο Ὀς {γαηβ]αῖεα
+former, , False eng
+previous, )ργνιθῦ, False eng
+to ῤγευΐοις, False eng
+be ἴο False eng
+translated Ὀς False eng
+# 24 36 37 usually by an adv.,  formerly,  pre- δι δ}γ ὮὉΥ δῃ δᾶν.,  “μγηιγίν,  27γε-
+usually δι False eng
+by δ}γ False eng
+an ὮὉΥ False eng
+adv., δῃ False eng
+formerly, δᾶν., False eng
+pre- “μγηιγίν, False na
+# 25 33 30 viously; with gen. of comparison, σἱομεν,; Μ᾿ σε. οὗ σοτηρδυβοῃ,
+viously; σἱομεν,; False na
+with Μ᾿ False eng
+gen. σε. False eng
+of οὗ False eng
+comparison, σοτηρδυβοῃ, False eng
+# 26 16 17 before,  sooner. δέγογε,  500167".
+before, δέγογε, False eng
+sooner. 500167". False eng
+# 27 34 33 Neut. acc. as adv.,  with or with- Νευῖ. δος,  85 δᾶν.,  ψὶ ἢ οὐ νἢ-
+Neut. Νευῖ. False na
+acc. δος, False eng
+as 85 False eng
+adv., δᾶν., False eng
+with ψὶ False eng
+or ἢ False eng
+οὐ with- True lex
+# 28 38 42 out 76,  before,  previously; followed ουὖἱ τό,  ῥεγογε,  ῥγευϊοιεεῖν ,  [οἸ]ονεά
+out ουὖἱ False eng
+τό, 76, True form
+before, ῥεγογε, False eng
+previously; ῥγευϊοιεεῖν False eng
+followed , False eng
+# 29 29 28 by zply it is not translated. ἘΥ πρίν ᾿ἰ 15 ποί ἰτῃϑἰδίβα,
+by ἘΥ False eng
+πρίν zply True lex
+it ᾿ἰ False eng
+is 15 False eng
+not ποί False eng
+translated. ἰτῃϑἰδίβα, False eng
+# 30 37 47 wpotipae [riudw,  honor],  honor more προτιμάω [τἱμάω,  λἀο»1ο0γ, ],  λἀ07107) »Ι07 ὁ
+προτιμάω wpotipae True pp
+[τἱμάω, [riudw, True pp
+honor], λἀο»1ο0γ, False eng
+honor ], False eng
+more λἀ07107) False eng
+# 31 37 39 than another,  prefer in honor,  fut. [Π8ῃ δῃοίμεσ,  272727 12: ἀογον ,  ἴαϊ.
+than [Π8ῃ False eng
+another, δῃοίμεσ, False eng
+prefer 272727 False eng
+in 12: False eng
+honor, ἀογον False eng
+fut. , False eng
+# 32 24 26 mid. as pass.,  73,  18. τηϊά,  45 ρᾶ55.,  73,  18.
+mid. τηϊά, False eng
+as 45 False eng
+pass., ρᾶ55., False eng
+73, 73, False na
+18. 18. False na
+# 33 37 41 apotptxw [Tpéxw,  run],  run forward. προτρέχω [τρέχω,  γ21],  γ147 70γευα᾽ (..
+προτρέχω apotptxw True pp
+[τρέχω, [Tpéxw, True pp
+run], γ21], False eng
+run γ147 False eng
+forward. 70γευα᾽ False eng
+# 34 30 30 mpovdedmKerav,  see mpodidwut. προυδεδώκεσαν,  5εε προδίδωμι.
+προυδεδώκεσαν, mpovdedmKerav, True form
+see 5εε False eng
+προδίδωμι. mpodidwut. True pp
+# 35 37 39 wpopalve [palyw,  show],  show forth; προφαίνω [φαίνω,  «ἀοτυ),  σἤοτυ γογίζ,
+προφαίνω wpopalve True pp
+[φαίνω, [palyw, True pp
+show], «ἀοτυ), False eng
+show σἤοτυ False eng
+forth; γογίζ, False eng
+# 36 30 32 mid.,  come in sight,  appear. τηϊ4.,  ἐορι6 ἦγ: σἴρη,  αῤῥέαγ.
+mid., τηϊ4., False eng
+come ἐορι6 False eng
+in ἦγ: False eng
+sight, σἴρη, False eng
+appear. αῤῥέαγ. False eng
+# 37 35 37 xpodacopat,  rpopacioiuat,  mpouda- προφασίζομαι,  προφασιοῦμαι,  προυφα-
+προφασίζομαι, xpodacopat, True pp
+προφασιοῦμαι, rpopacioiuat, True pp
+προυφα- mpouda- True half1
+# 38 36 36 c.odpny [wpdpacis],  offer as an ex- σισάμην [πρόφασις],  0727 ἂς αὔ1 ἐχ-
+σισάμην c.odpny True pp
+[πρόφασις], [wpdpacis], True lex
+offer 0727 False eng
+as ἂς False eng
+an αὔ1 False eng
+ex- ἐχ- False na
+# 39 23 24 cuse,  plead in excuse. ἐέ56,  δέρας 121 ἐχοι56.
+cuse, ἐέ56, False na
+plead δέρας False eng
+in 121 False eng
+excuse. ἐχοι56. False eng
+# 40 38 39 us,  -ews,  7) [Pnul,  say],  pretext, ις,  -εως,  ἡ [φημί,  5α4}7},  2» εεχί,
+us, ις, False eng
+-εως, -ews, True pp
+ἡ 7) True case
+[φημί, [Pnul, True lex
+say], 5α4}7}, False eng
+pretext, 2» False eng
+# 41 7 7 CxCUSE. ἐχειδέ.
+CxCUSE. ἐχειδέ. False na
+# 42 40 36 awpopuvAakh,  -7s [pudAaKx},  guard],  a προφνλακή,  -ς [φυλακή,  ρσμαγα7,  ἃ
+awpopuvAakh, προφνλακή, False na
+-7s -ς False na
+[φυλακή, [pudAaKx}, True lex
+guard], ρσμαγα7, False eng
+a ἃ False eng
+# 43 40 42 guard before,  pl.,  outposts,  pickets. οπμαγα ὀείογε,  Ῥ].» οτείῥοΞίς,  δτιοξείς.
+guard οπμαγα False eng
+before, ὀείογε, False eng
+pl., Ῥ].» False eng
+outposts, οτείῥοΞίς, False eng
+pickets. δτιοξείς. False eng
+# 44 39 40 apodtAak,  -axos,  6 [pvrak,  sentinel; προφύλαξ,  -ακος,  ὁ [φύλαξ,  «εγιἐἰγ6έ;
+προφύλαξ, apodtAak, True lex
+-ακος, -axos, True pp
+ὁ 6 True lex
+[φύλαξ, [pvrak, True lex
+sentinel; «εγιἐἰγ6έ; False eng
+# 45 3 2 WT, “-
+WT, “- False na
+# 46 6 8 Google (πΘοορίς
+Google (πΘοορίς False na
+# 47 3 3 493 493
+493 493 False na
+# 48 35 35 bor.,  Eng. prophylactic],  seséry, θοτ.,  Επρ. ῬΙΟΡΒΥ ΔΟ 07,  “ερ27.},
+bor., θοτ., False eng
+Eng. Επρ. False eng
+prophylactic], ῬΙΟΡΒΥ False eng
+seséry, ΔΟ False na
+# 49 7 7 picket. 21εξεΐ.
+picket. 21εξεΐ. False eng
+# 50 35 38 apoxwpte [xwpdw,  nove],  move for- προχωρέω [χωρέω,  »ιο" 6},  »ίοῦε 707-
+προχωρέω apoxwpte True pp
+[χωρέω, [xwpdw, True pp
+nove], »ιο" False na
+move 6}, False eng
+for- »ίοῦε False na
+# 51 36 38 ward,  impers.,  tf goes on well for τυαγαὶ,  ἰτρεῦϑ.,  12 ροός οὐ τοοί ἴοσ
+ward, τυαγαὶ, False eng
+impers., ἰτρεῦϑ., False eng
+tf 12 False na
+goes ροός False eng
+on οὐ False eng
+well τοοί False eng
+for ἴοσ False eng
+# 52 39 37 one,  t¢ ts convenient or advantageous. ΟΏ6,  275 εομυόμίεηέον αὐγσα, ίαροος.
+one, ΟΏ6, False eng
+t¢ 275 False na
+ts εομυόμίεηέον False eng
+convenient αὐγσα, False eng
+or ίαροος. False eng
+advantageous. NA False eng
+# 53 39 40 mpw,  comp. rpwaltrepov [rpd,  before], πρῴ,  οὐτὴρ. πρῳφαίτερον [πρό,  ὀεγογε],
+πρῴ, mpw, True form
+comp. οὐτὴρ. False eng
+πρῳφαίτερον rpwaltrepov True pp
+[πρό, [rpd, True lex
+before], ὀεγογε], False eng
+# 54 36 36 adv.,  early tn the morning,  early, δᾶν.,  ἐαγέν ἦμ 116 »μογ μη,  ἐαγέγ.
+adv., δᾶν., False eng
+early ἐαγέν False eng
+tn ἦμ False eng
+the 116 False eng
+morning, »μογ False eng
+early, μη, False eng
+# 55 36 36 Tpwrevo,  rpwrevow,  erpwrevoa [wpo- πρωτεύω,  πρωτεύσω,  ἐπρώτευσα [πρῶ-
+πρωτεύω, Tpwrevo, True pp
+πρωτεύσω, rpwrevow, True pp
+ἐπρώτευσα erpwrevoa True pp
+[πρῶ- [wpo- True half1
+# 56 39 37 ros],  be first,  have the first place. τος],  δέ Μγεΐ,  λασνε 7λὲ 3γὲ 2έαεο.
+ros], τος], False eng
+be δέ False eng
+first, Μγεΐ, False eng
+have λασνε False eng
+the 7λὲ False eng
+first 3γὲ False eng
+place. 2έαεο. False eng
+# 57 41 41 awpe@ros,  -η,  -ov [rpd,  before,  bor., πρῶτος,  -ή,  τον [πρό,  ὀέεγογε,  Ὅοτ, ,
+πρῶτος, awpe@ros, True pp
+-ή, -η, True pp
+τον -ov True pp
+[πρό, [rpd, True lex
+before, ὀέεγογε, False eng
+bor., Ὅοτ, False eng
+# 58 35 39 Eng. protocol,  protoplasm,  proto- Επηρ. Ῥτοΐοοοί,  Ῥχγοΐορ 48πι],  ὑσοῖο-
+Eng. Επηρ. False eng
+protocol, Ῥτοΐοοοί, False eng
+protoplasm, Ῥχγοΐορ False eng
+proto- 48πι], False na
+# 59 36 38 type],  first,  foremost; often used ἴγΡ61],  4γεφ γογενεοσί,  οἴϊεηῃ. υδεά
+type], ἴγΡ61], False eng
+first, 4γεφ False eng
+foremost; γογενεοσί, False eng
+often οἴϊεηῃ. False eng
+used υδεά False eng
+# 60 31 33 where Eng. prefers an adv. or a ψ θετα Εηρ. ῥτγείειβ δὴ δάν. οἵ ἃ
+where ψ False eng
+Eng. θετα False eng
+prefers Εηρ. False eng
+an ῥτγείειβ False eng
+adv. δὴ False eng
+or δάν. False eng
+a οἵ False eng
+# 61 33 28 phrase,  first,  be the first to, ΡὮγαβα,  Μγεῖ,  δ άε Μγεΐ ο.
+phrase, ΡὮγαβα, False eng
+first, Μγεῖ, False eng
+be δ False eng
+the άε False eng
+first Μγεΐ False eng
+to, ο. False eng
+# 62 34 34 Mase. pl. as subst.,  he van of an Μᾶς. ρ]. 85 58 08ι.,  κε να» οἵ δῇ
+Mase. Μᾶς. False na
+pl. ρ]. False eng
+as 85 False eng
+subst., 58 False eng
+he 08ι., False eng
+van κε False eng
+of να» False eng
+an οἵ False eng
+# 63 32 36 army; the most prominent men ofa ΔΙΊΩΥ; 2{ε νιοσί 2γορεῖηομ γι6γ οὗ ἃ
+army; ΔΙΊΩΥ; False eng
+the 2{ε False eng
+most νιοσί False eng
+prominent 2γορεῖηομ False eng
+men γι6γ False eng
+οὗ ofa True lex
+# 64 10 9 community. σΟΙΩΓ ΠΥ.
+community. σΟΙΩΓ False eng
+# 65 36 38 Neut. acc. as adv.,  with or without Νευῖ,  ἃςο. 85 δᾶν.,  ψΊΓἢ οὐ ψ τ Ὡουξ
+Neut. Νευῖ, False na
+acc. ἃςο. False eng
+as 85 False eng
+adv., δᾶν., False eng
+with ψΊΓἢ False eng
+or οὐ False eng
+without ψ False eng
+# 66 43 35 76,  first,  in the first place,  at first, τό,  γε,  ἐη1 τάς Μη ῥέαεο,  σέ γε,
+τό, 76, True form
+first, γε, False eng
+in ἐη1 False eng
+the τάς False eng
+first Μη False eng
+place, ῥέαεο, False eng
+at σέ False eng
+first, γε, False eng
+# 67 34 35 aradpvupat,  @rrapov [cogn.,  Lat. πτάρννμαι,  ἔπταρον [ουὐρῃ.,  [μΔἷ.
+πτάρννμαι, aradpvupat, True pp
+ἔπταρον @rrapov True pp
+[cogn., [ουὐρῃ., False na
+Lat. [μΔἷ. False na
+# 68 28 30 sternud,  szeeze ],  sneeze. ϑίοσηυδ,  τ,  2626],  5»: 626.
+sternud, ϑίοσηυδ, False na
+szeeze τ, False na
+], 2626], False na
+sneeze. 5»: False eng
+# 69 37 37 wrépuf,  -vyos,  7 [cp. méroua,  fly; πτέρνξ,  -υγος,  ἡ [“Ρ. πέτομαι,  Αν;
+wrépuf, πτέρνξ, False na
+-υγος, -vyos, True pp
+ἡ 7 True case
+[cp. [“Ρ. False eng
+πέτομαι, méroua, True pp
+fly; Αν; False eng
+# 70 30 34 bor.,  Eng. apteryx],  wg of a Ὀογ.. Επρ. ΔΡίοσυχ, ,  τοΐρρ' οὗ ἃ
+bor., Ὀογ.. False eng
+Eng. Επρ. False eng
+apteryx], ΔΡίοσυχ, False eng
+wg , False eng
+of τοΐρρ' False eng
+a οὗ False eng
+# 71 37 41 bird; pl.,  sometimes flags of a cui- Ὀϊγτά; Ρ].,  Βοτηθιϊ πηῈὲ8 “α25 οὗ ἃ ουϊ-
+bird; Ὀϊγτά; False eng
+pl., Ρ]., False eng
+sometimes Βοτηθιϊ False eng
+flags πηῈὲ8 False eng
+of “α25 False eng
+a οὗ False eng
+ἃ cui- True lex
+# 72 37 39 rass (see Introd. § 58,  and Figs. 6, γ855 (566 [ηἰτοά,  ὃ κ8,  ἀῃηὰ ΕἾρ8. ό,
+rass γ855 False na
+(see (566 False eng
+Introd. [ηἰτοά, False eng
+§ ὃ False eng
+58, κ8, False na
+and ἀῃηὰ False eng
+Figs. ΕἾρ8. False na
+6, ό, False na
+# 73 28 28 II,  29,  pp. 40,  55,  88). 11,  29,  ΡΡ. 40,  55,  88).
+II, 11, False na
+29, 29, False na
+pp. ΡΡ. False eng
+40, 40, False na
+55, 55, False na
+88). 88). False na
+# 74 41 40 awvyph,  -7s [cogn.,  Lat. pugnus,  /is¢, πυγμή,  -ῆς [ὡορῃ.,  1, 4. ῬαΣΠι8,  “52,
+πυγμή, awvyph, True lex
+-7s -ῆς False na
+[cogn., [ὡορῃ., False na
+Lat. 1, False na
+pugnus, 4. False na
+/is¢, ῬαΣΠι8, False na
+# 75 36 36 pugna,  dattle; bor.,  Eng. pygmy ], Ῥυγηδ,  δαϊέο,  ὈοΥ.,  Επρ. ΡΥΦΙΙΥ],
+pugna, Ῥυγηδ, False na
+dattle; δαϊέο, False na
+bor., ὈοΥ., False eng
+Eng. Επρ. False eng
+pygmy ΡΥΦΙΙΥ], False eng
+], NA False na
+# 76 33 34 fist; boxing; see on 225,  7. See Μη,  ὀοχῖηρ,  566 ΟἹ 225,  7. 5686
+fist; Μη, False eng
+boxing; ὀοχῖηρ, False eng
+see 566 False eng
+on ΟἹ False eng
+225, 225, False na
+7. 7. False na
+See 5686 False na
+# 77 17 17 Fig. 76,  p. 225. ΕἸρ. 76,  Ρ. 225.
+Fig. ΕἸρ. False na
+76, 76, False na
+p. Ρ. False eng
+225. 225. False na
+# 78 40 40 TIv@aydpiis,  -ov,  Pythagoras,  a Spar- Πυθαγόρᾶς,  -ου,  ἐνήλαρύγας,  ἃ ϑ'ρατῖ-
+TIv@aydpiis, Πυθαγόρᾶς, False na
+-ου, -ov, True pp
+Pythagoras, ἐνήλαρύγας, False na
+a ἃ False eng
+ϑ'ρατῖ- Spar- True half1
+# 79 12 13 tan admiral. ἴδῃ δατηϊγαὶ.
+tan ἴδῃ False eng
+admiral. δατηϊγαὶ. False eng
+# 80 47 46 twuKvds,  -7},  -bv,  close together,  compact, πυκνός,  -ή,  -όν,  εἶρεό Τορείλεγ,  σοὶ ῥαεΐ,
+πυκνός, twuKvds, True pp
+-ή, -7}, True pp
+-όν, -bv, True pp
+close εἶρεό False eng
+together, Τορείλεγ, False eng
+compact, σοὶ False eng
+# 81 6 6 solid, δοὐϊα,
+solid, δοὐϊα, False eng
+# 82 38 36 IIlvAa,  -Gy,  Pylae,  ‘The Gates, ’ a Πύλαι,  -ῶν,  ἔνίαε,  “ΤῊς Οδίεβ,  ἃ
+Πύλαι, IIlvAa, True lex
+-Gy, -ῶν, False na
+Pylae, ἔνίαε, False na
+‘The “ΤῊς False na
+Gates, Οδίεβ, False na
+ἃ ’ True lex
+a NA False eng
+# 83 32 33 fortress on the frontier between ἰοτίγεββ οὐ ἴῃ6 ἔτγοπίϊοσ Ὀεΐν δε
+fortress ἰοτίγεββ False eng
+on οὐ False eng
+the ἴῃ6 False eng
+frontier ἔτγοπίϊοσ False eng
+between Ὀεΐν False eng
+# 84 26 28 Mesopotamia and Babylonia. Μεβοροίαπι)ϊα ἀηἀ βαρυ]οπίδ.
+Mesopotamia Μεβοροίαπι)ϊα False na
+and ἀηἀ False eng
+Babylonia. βαρυ]οπίδ. False na
+# 85 38 37 woAn,  -7s [bor.,  Eng. pylorus,  Pro- πύλη,  -ῆς [Ὀοτ.,  πρ. ῬΥΊΟΤΙ8,  Ῥτο-
+πύλη, woAn, True lex
+-7s -ῆς False na
+[bor., [Ὀοτ., False eng
+Eng. πρ. False eng
+pylorus, ῬΥΊΟΤΙ8, False eng
+Ῥτο- Pro- True half1
+# 86 37 40 pylaea],  gate,  usually pl.,  of the ῬΥΪΔ4647,  ραΐξ,  ἀϑυδ}}ν Ρ].,  οὗὁἨ [86
+pylaea], ῬΥΪΔ4647, False na
+gate, ραΐξ, False eng
+usually ἀϑυδ}}ν False eng
+pl., Ρ]., False eng
+of οὗὁἨ False eng
+the [86 False eng
+# 87 35 39 two wings (cp. Lat. forés,  folding ἴνψο νίηρβ (ορ. [, 4ἴ. ἔογδ8,  [ο] ἀϊπρ
+two ἴνψο False eng
+wings νίηρβ False eng
+(cp. (ορ. False eng
+Lat. [, False na
+forés, 4ἴ. False na
+folding ἔογδ8, False eng
+# 88 21 21 door); mountain pass. αογ); τηουῃίαϊη 265-.
+door); αογ); False eng
+mountain τηουῃίαϊη False eng
+pass. 265-. False eng
+# 89 40 38 TruvOdvopat,  mwevoouat,  érvddunv,  wé- πυνθάνομαι,  πεύσομαι,  ἐπυθόμην,  πέ-
+πυνθάνομαι, TruvOdvopat, True pp
+πεύσομαι, mwevoouat, True pp
+ἐπυθόμην, érvddunv, True pp
+πέ- wé- True half1
+# 90 33 36 Wvopat,  maguire,  inquire about, πυσμαι,  17171117γ8,  1ηφπῖγέ αὐομέ;
+πυσμαι, Wvopat, True pp
+maguire, 17171117γ8, False na
+inquire 1ηφπῖγέ False eng
+about, αὐομέ; False eng
+# 91 28 29 learn by inquiry,  find out. ἐέα γι ὃν τηιφιῖγ},  βμωΐ οί.
+learn ἐέα False eng
+by γι False eng
+inquiry, ὃν False eng
+find τηιφιῖγ}, False eng
+out. βμωΐ False eng

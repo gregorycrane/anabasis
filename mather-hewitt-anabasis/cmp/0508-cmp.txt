@@ -1,0 +1,513 @@
+# 0 3 3 446 4υ0
+446 4υ0 False na
+# 1 40 39 oxevoddpos,  -o» [oxevos,  pépw,  bear], σκενοφόρος,  -ον [σκεῦος,  φέρω,  ὀεα»,
+σκενοφόρος, oxevoddpos, True pp
+-ον -o» True pp
+[σκεῦος, [oxevos, True pp
+φέρω, pépw, True pp
+bear], ὀεα», False eng
+# 2 18 19 As subst.,  masc., ΔΒ δυῦ στ,  πηᾶϑοι,
+As ΔΒ False na
+subst., δυῦ False eng
+masc., στ, False eng
+# 3 36 34 Auggeage carrier: neut. pl,  dageage ὀωψζαψε ἐαγγιόγ ποῖ. Ρ].,  ὀασγαρέ
+Auggeage ὀωψζαψε False na
+carrier: ἐαγγιόγ False eng
+neut. ποῖ. False eng
+pl, Ρ]., False eng
+dageage ὀασγαρέ False na
+# 4 17 16 big Ave CAV VINE, ὀωψ σέ εα γι εν.
+big ὀωψ False eng
+σέ Ave True form
+CAV εα False na
+VINE, γι False na
+# 5 24 22 animals,  baggage train, πα 5,  ῥασρανθ “γα Τ},
+animals, πα False eng
+baggage 5, False eng
+train, ῥασρανθ False eng
+# 6 36 35 oxyvdw,  oxnricw,  doxnynca [oxnry], σκηνέω,  σκηνήσω,  ἐσκήνησα σκηνή],
+σκηνέω, oxyvdw, True pp
+σκηνήσω, oxnricw, True pp
+ἐσκήνησα doxnynca True pp
+σκηνή], [oxnry], True lex
+# 7 36 36 be tna lent,  be encamped,  be guar- ὧἐ 1. ὦ ἐόν,  ἐξ ἐπε» δέω,  ὅν φπα7-
+be ὧἐ False eng
+tna 1. False na
+lent, ὦ False eng
+be ἐόν, False eng
+encamped, ἐξ False eng
+be ἐπε» False eng
+δέω, guar- True pp
+# 8 31 29 fered; banguel,  aor.,  encamp. “γε,  απ μοί,  δύτ.,  ἐη (α».
+fered; “γε, False na
+banguel, απ False na
+aor., μοί, False eng
+encamp. δύτ., False eng
+# 9 41 42 oxynvh,  -75 [bur.,  Lat. scaena,  scene, σκηνή,  -ς [ὕῦυτγ, ,  1.Δἴ. 8068,  5, 671,
+σκηνή, oxynvh, True lex
+-75 -ς False na
+[bur., [ὕῦυτγ, False eng
+Lat. , False na
+scaena, 1.Δἴ. False eng
+scene, 8068, False eng
+# 10 35 35 Eng. scene],  fen/,  pl. sometimes, ηρ. 806η6]},  οη ν Ὁ]. ϑοπιοίϊπη65,
+Eng. ηρ. False eng
+scene], 806η6]}, False eng
+fen/, οη False na
+pl. ν False eng
+sometimes, Ὁ]. False eng
+# 11 37 35 camp,  quarters,  176,  16 (the tents αν,  φια» 675,  176,  16 (1πε τεπῖβ
+camp, αν, False eng
+quarters, φια» False eng
+176, 675, False na
+16 176, False na
+(the 16 False eng
+tents (1πε False eng
+# 12 28 26 had been burned,  158,  15). δι ὕεεη θυτποῖ,  158, 15).
+had δι False eng
+been ὕεεη False eng
+burned, θυτποῖ, False eng
+158, 158, False na
+15). 15). False na
+# 13 38 39 oxnvow [oxnyy],  pitch tents,  encamp, σκηνόω [σκηνή],  διίἑεἦ ἐδρΐς,  δηιεαη,
+σκηνόω oxnvow True pp
+[σκηνή], [oxnyy], True lex
+pitch διίἑεἦ False eng
+tents, ἐδρΐς, False eng
+encamp, δηιεαη, False eng
+# 14 14 14 take quarters. “αζε φπαγίοῦς.
+take “αζε False eng
+quarters. φπαγίοῦς. False eng
+# 15 38 36 oxt\vwpa,  -aros,  7h [oxnvow],  sent; σκήνωμα,  -ατος,  τό [σκηνόω],  26»,
+σκήνωμα, oxt\vwpa, True pp
+-ατος, -aros, True pp
+τό 7h True form
+[σκηνόω], [oxnvow], True pp
+sent; 26», False eng
+# 16 15 17 pl.,  guarters. Ρἷ.,  φιαγίον ες,
+pl., Ρἷ., False eng
+φιαγίον guarters. True pp
+# 17 39 37 oxnrrds,  -00,  thunderbolt,  stroke of σκηπτός,  -ου,  μἀπηογύολ,  δίγοξε οὗ
+σκηπτός, oxnrrds, True pp
+-ου, -00, True pp
+thunderbolt, μἀπηογύολ, False eng
+stroke δίγοξε False eng
+of οὗ False eng
+# 18 10 9 lightning. ἐἘρλξμῖν.
+lightning. ἐἘρλξμῖν. False eng
+# 19 38 35 wKnmrrodxos,  -ov [oxjrrpoy,  scepter, σκηπτοῦχος,  -ου [σκῆπτρον,  5.617,
+σκηπτοῦχος, wKnmrrodxos, True pp
+-ου -ov True pp
+[σκῆπτρον, [oxjrrpoy, True pp
+scepter, 5.617, False eng
+# 20 36 34 fxw,  hold),  scepter bearer,  staff ἔχω,  λοι  ),  “(ογέγ7 ὀέαγέν,  τω
+ἔχω, fxw, True pp
+hold), λοι False eng
+scepter ), False eng
+bearer, “(ογέγ7 False eng
+staff ὀέαγέν, False eng
+# 21 39 40 bearer,  a high official in the Persian ὀεαγ εν,  ἃ ὨΪΡῊ οἤῆςοϊα] ἴῃ [ῃ6 Ῥεγβίδη
+bearer, ὀεαγ False eng
+a εν, False eng
+high ἃ False eng
+official ὨΪΡῊ False eng
+in οἤῆςοϊα] False eng
+the ἴῃ False eng
+Persian [ῃ6 False na
+# 22 6 7 court. οσουτί.
+court. οσουτί. False eng
+# 23 43 47 oKAnpés,  -d,  -6» [bor.,  Eng. sclerosis], σκληρός,  -ά,  -όν [[γοτ.,  ΕὩρ΄. Β016ΣΟΒ81817,
+σκληρός, oKAnpés, True pp
+-ά, -d, True pp
+-όν -6» True pp
+[bor., [[γοτ., False eng
+Eng. ΕὩρ΄. False eng
+sclerosis], Β016ΣΟΒ81817, False eng
+# 24 37 40 hard,  rough. Neut. as subst.,  rough λαγα,  γοαρά. Νεαῖ,  85 ϑυθϑβῖ.,  χοξεοά
+hard, λαγα, False eng
+rough. γοαρά. False eng
+Neut. Νεαῖ, False na
+as 85 False eng
+subst., ϑυθϑβῖ., False eng
+rough χοξεοά False eng
+# 25 6 5 place. 2 πω.
+place. 2 False eng
+# 26 38 37 oKkAnpas [oxAnpds],  roughly,  in hard σκληρῶς [σκληρός],  γομρλλν,  ἐπ ἀαγά
+σκληρῶς oKkAnpas True form
+[σκληρός], [oxAnpds], True pp
+roughly, γομρλλν, False eng
+in ἐπ False eng
+hard ἀαγά False eng
+# 27 14 14 circumstances. εἰγεγνιδέαςος.
+circumstances. εἰγεγνιδέαςος. False eng
+# 28 36 34 oKxoréw [oxords],  only in pres. and σκοπέω [σκοπός],  οἷν ἴῃ ῥγθβ. δηά
+σκοπέω oKxoréw True pp
+[σκοπός], [oxords], True pp
+only οἷν False eng
+in ἴῃ False eng
+pres. ῥγθβ. False eng
+and δηά False eng
+# 29 36 36 impf. (oxéwrrouat supplies the other ᾿πηρί. (σκέπτομαι 500 }165 {π6 οἴ ον
+impf. ᾿πηρί. False eng
+(σκέπτομαι (oxéwrrouat True pp
+supplies 500 False eng
+the }165 False eng
+other {π6 False eng
+# 30 36 40 forms),  look at,  consider; have an [ογ5),  δοοξ αἵ,  εοριδωϊδγ ,  ἀαῦὺξ 471
+forms), [ογ5), False eng
+look δοοξ False eng
+at, αἵ, False eng
+consider; εοριδωϊδγ False eng
+have , False eng
+an ἀαῦὺξ False eng
+# 31 35 36 eye to,  with mpés and acc.; watch; 6γ6 ἔο,  ΝῊ πρός απὰὶ δοο.; τυαΐελ;,
+eye 6γ6 False eng
+to, ἔο, False eng
+with ΝῊ False eng
+πρός mpés True pp
+and απὰὶ False eng
+acc.; δοο.; False eng
+watch; τυαΐελ;, False eng
+# 32 12 11 see,  learn. 566,  6471.
+see, 566, False eng
+learn. 6471. False eng
+# 33 36 38 oKomds,  -o0 [oxémrouar; bor.,  Eng. σκοπός,  -οῦ [σκέπτομαι; ἴγοτ.,  Επρ.]
+σκοπός, oKomds, True pp
+-οῦ -o0 True pp
+[σκέπτομαι; [oxémrouar; True pp
+bor., ἴγοτ., False eng
+Eng. Επρ.] False eng
+# 34 32 34 scope,  microscope,  episcopal], Β0ΟΡ6,  Π.]ΟΙΌΒΟΟΡΘ,  ΘΡΙ800ΡΔ41],
+scope, Β0ΟΡ6, False eng
+microscope, Π.]ΟΙΌΒΟΟΡΘ, False eng
+episcopal], ΘΡΙ800ΡΔ41], False eng
+# 35 12 12 Scout,  Spy. δεομξ,  52).
+Scout, δεομξ, False na
+Spy. 52). False na
+# 36 44 42 oKotaios,  -d,  -ov [oxdros ],  22 the dark. σκοταῖος,  -α,  -ον [σκότος],  7» 1} (α»ξ.
+σκοταῖος, oKotaios, True pp
+-α, -d, True pp
+-ον -ov True pp
+[σκότος], [oxdros True pp
+], 7» False na
+22 1} False na
+the (α»ξ. False eng
+dark. NA False eng
+# 37 41 40 oKérTos,  -ous,  76 [cogn.,  Eng. shadow, σκότος,  -ους,  τό [ςορῃ.,  ΕΠΡ. ΒηΔάον,
+σκότος, oKérTos, True pp
+-ους, -ous, True pp
+τό 76 True form
+[cogn., [ςορῃ., False na
+Eng. ΕΠΡ. False eng
+shadow, ΒηΔάον, False eng
+# 38 26 24 shade,  shed },  darkness. 8η446,  864,  ἐγ Ά)1655.
+shade, 8η446, False eng
+shed 864, False eng
+}, ἐγ False na
+darkness. Ά)1655. False eng
+# 39 42 39 ZKv0yvol,  -dy,  Scythént,  a tribe living Σκυθηνοί,  -ῶν,  εν λδηιῖ,  ἃ {06 Πνὶπρ
+Σκυθηνοί, ZKv0yvol, True lem
+-dy, -ῶν, False na
+Scythént, εν False na
+a λδηιῖ, False eng
+tribe ἃ False eng
+living {06 False eng
+# 40 34 34 near the southeastern shore of the πολὺ ἴῃ βουϊπεδβίοσηῃ βῆοτα οὗ [ες
+near πολὺ False eng
+the ἴῃ False eng
+southeastern βουϊπεδβίοσηῃ False eng
+shore βῆοτα False eng
+of οὗ False eng
+the [ες False eng
+# 41 34 37 Black Sea; their exact location is ΒΙΔοῖς ὅθα; (ῃεὶνς ὀχδοῖ Ἰοσβδίίοη 15
+Black ΒΙΔοῖς False na
+Sea; ὅθα; False na
+their (ῃεὶνς False eng
+exact ὀχδοῖ False eng
+location Ἰοσβδίίοη False eng
+is 15 False eng
+# 42 10 10 uncertain. Ὀποοτίδϊη.
+uncertain. Ὀποοτίδϊη. False eng
+# 43 35 37 opfvos,  -ous,  74,  swarm of bees. σμῆνος,  -ους,  τό,  ττυαγγὲ Ο7 ὦέές.
+σμῆνος, opfvos, True pp
+-ους, -ous, True pp
+τό, 74, True form
+swarm ττυαγγὲ False eng
+of Ο7 False eng
+bees. ὦέές. False eng
+# 44 42 45 2éXo1,  -wy [bor.,  Eng. solecism],  So/t, Σόλοι,  -ων [Ὀοτ΄.,  Επηρ. 8016 0811,  «δοδὲ,
+Σόλοι, 2éXo1, True lex
+-ων -wy True pp
+[bor., [Ὀοτ΄., False eng
+Eng. Επηρ. False eng
+solecism], 8016 False eng
+So/t, 0811, False na
+# 45 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 46 32 33 bad Greek spoken by its inhabit- Ῥαὰ Οτεεῖκ βροκεῃ ὈΥῪΥ 15 ἱπῃδθι-
+bad Ῥαὰ False eng
+Greek Οτεεῖκ False na
+spoken βροκεῃ False eng
+by ὈΥῪΥ False eng
+its 15 False eng
+ἱπῃδθι- inhabit- True half1
+# 47 5 5 ants. Δηί5.
+ants. Δηί5. False eng
+# 48 32 32 Zotea,  -wy,  Td (the Shushan of Σοῦσα,  -ων,  τά (ἴῃε 5ῃυβῃδη οἵ
+Σοῦσα, Zotea, True pp
+-ων, -wy, True pp
+τά Td True pp
+(the (ἴῃε False eng
+Shushan 5ῃυβῃδη False na
+of οἵ False eng
+# 49 34 35 Esther 2. 5),  Susa,  capital of a Ἐφλεοῦ 2. 5),  δηδα,  Ἄοδρίῖαὶ οἵ ἃ
+Ἐφλεοῦ Esther True pp
+2. 2. False na
+5), 5), False na
+Susa, δηδα, False na
+capital Ἄοδρίῖαὶ False eng
+of οἵ False eng
+a ἃ False eng
+# 50 33 33 Persian province and winter resi- Ῥευβίδῃ Ῥγονίησε δηὰ ψὶηΐεσ τοϑὶ-
+Persian Ῥευβίδῃ False na
+province Ῥγονίησε False eng
+and δηὰ False eng
+winter ψὶηΐεσ False eng
+τοϑὶ- resi- True half1
+# 51 33 34 dence of the Persian monarchs. It ἄεμςε οὗ [ῃε Ῥεγβίδη τοηδγοῆβ. [Ιἰ
+dence ἄεμςε False na
+of οὗ False eng
+the [ῃε False eng
+Persian Ῥεγβίδη False na
+monarchs. τοηδγοῆβ. False eng
+It [Ιἰ False na
+# 52 25 26 was southeast of Babylon. νν 5 βοιϊῃεδϑῖ οὗ Βαρυ]οῃ.
+was νν False eng
+southeast 5 False eng
+of βοιϊῃεδϑῖ False eng
+οὗ Babylon. True lex
+# 53 39 39 Lodalvetos,  -ov,  Sophaenétus,  of Ar- Σοφαίνετος,  -ου,  οῤἠλαενδίτς,  οἵ Ατ-
+Σοφαίνετος, Lodalvetos, True pp
+-ου, -ov, True pp
+Sophaenétus, οῤἠλαενδίτς, False na
+of οἵ False eng
+Ar- Ατ- False na
+# 54 33 33 cadia,  one of Cyrus’s Greek gen- σδάϊα,  ομς οὗ Ογτυϑ᾽5 ατεεκ ρεη-
+cadia, σδάϊα, False na
+one ομς False eng
+of οὗ False eng
+Cyrus’s Ογτυϑ᾽5 False na
+Greek ατεεκ False na
+ρεη- gen- True half1
+# 55 6 6 erals. Θτα]5.
+erals. Θτα]5. False na
+# 56 41 43 cwoola,  -ας [bor.,  Eng. Sophia],  c/ev- σοφίᾶ,  -ἂἃς [Ὀοτ.,  ΕὩρ. ΘΟΡΒΙΔ41],  εἰσυ-
+cwoola, σοφίᾶ, False na
+-ας -ἂἃς False na
+[bor., [Ὀοτ., False eng
+Eng. ΕὩρ. False eng
+Sophia], ΘΟΡΒΙΔ41], False na
+εἰσυ- c/ev- True half1
+# 57 39 36 erness,  skill,  wisdom; musical skill, 27, 255,  δι,  τοϊξρηε,  γεδῖεαί σι,
+erness, 27, False na
+skill, 255, False eng
+wisdom; δι, False eng
+musical τοϊξρηε, False eng
+skill, γεδῖεαί False eng
+# 58 38 38 wodds,  -η,  -6» [bor.,  Eng. sophist, σοφός,  -ή,  -όν [Ὀοτ.,  ΕὩρ. ΒΟΡΒϊϑί,
+σοφός, wodds, True pp
+-ή, -η, True pp
+-όν -6» True pp
+[bor., [Ὀοτ., False eng
+Eng. ΕὩρ. False eng
+sophist, ΒΟΡΒϊϑί, False eng
+# 59 33 34 philosophy,  sophomore],  c/ever, ῬΕΣΙΟΒΟΡΕΥ,  ΒΟΡΒΟΠΊΟΙΘ],  εἰενεν,
+philosophy, ῬΕΣΙΟΒΟΡΕΥ, False eng
+sophomore], ΒΟΡΒΟΠΊΟΙΘ], False eng
+c/ever, εἰενεν, False na
+# 60 20 21 accomplished,  wise. αερογεέϊελεα,  τυΐξό.
+accomplished, αερογεέϊελεα, False eng
+wise. τυΐξό. False eng
+# 61 35 37 omavi{e,  cranw,  domduoa,  éowdyi- σπανίζω,  σπανιῶ,  ἐσπάνισα,  ἑσπάνι-
+σπανίζω, omavi{e, True pp
+σπανιῶ, cranw, True pp
+ἐσπάνισα, domduoa, True pp
+ἑσπάνι- éowdyi- True half1
+# 62 37 40 opat (cp. omdmos],  lack,  be in want σμαι [ςΡ. σπάνιος],  ἰσεξ,  δό ἦρι τυαγι
+σμαι opat True pp
+(cp. [ςΡ. False eng
+σπάνιος], omdmos], True pp
+lack, ἰσεξ, False eng
+be δό False eng
+in ἦρι False eng
+want τυαγι False eng
+# 63 14 13 of,  with gen. οἵ,  ΜΊῊ ρεη.
+of, οἵ, False eng
+with ΜΊῊ False eng
+gen. ρεη. False eng
+# 64 35 35 oHavios,  -d,  -ov,  rare,  scarce. σπάνιος,  -α,  -ον,  γ47Ζ,  5, 470.
+σπάνιος, oHavios, True pp
+-α, -d, True pp
+-ον, -ov, True pp
+rare, γ47Ζ, False eng
+scarce. 5, False eng
+# 65 36 43 Lrdprn,  -ns,  Sparta or Lacedaemon, Σπάρτη,  -ης,  52αγία οΟΥἩἨ ͵Ζαεεάκερρ1ο»1,
+Σπάρτη, Lrdprn, True lex
+-ns, -ης, False na
+Sparta 52αγία False na
+or οΟΥἩἨ False eng
+Lacedaemon, ͵Ζαεεάκερρ1ο»1, False na
+# 66 37 40 capital of Laconia,  in Peloponnésus, σδρΙίΑ] οὗ Τ, δοοηΐα,  ἰῃ Ῥε]ορομηδϑβυβ,
+capital σδρΙίΑ] False eng
+of οὗ False eng
+Laconia, Τ, False na
+in δοοηΐα, False eng
+Peloponnésus, ἰῃ False na
+# 67 35 33 chief city of Greece at the time of σοὨϊοῖ εἰν οὗ ὄτεεοε δ ἴδε της οὗ
+chief σοὨϊοῖ False eng
+city εἰν False eng
+of οὗ False eng
+Greece ὄτεεοε False na
+at δ False eng
+the ἴδε False eng
+time της False eng
+of οὗ False eng
+# 68 19 18 Cyrus’s expedition. Ογτυβ᾽5᾽ ἐχρεαϊοῃ.
+Cyrus’s Ογτυβ᾽5᾽ False na
+expedition. ἐχρεαϊοῃ. False eng
+# 69 37 38 Xrapriarys,  -ov [Xrdpryn],  Spartan, Σπαρτιάτης,  -ου [Σπάρτη],  «5ῥαγίατι,
+Σπαρτιάτης, Xrapriarys, True lex
+-ου -ov True pp
+[Σπάρτη], [Xrdpryn], True lex
+Spartan, «5ῥαγίατι, False na
+# 70 20 20 a citizen of Sparta. ἃ οἰἴζοη οἵ ϑρατγίδ.
+a ἃ False eng
+citizen οἰἴζοη False eng
+of οἵ False eng
+Sparta. ϑρατγίδ. False na
+# 71 28 29 oraptoy,  -0v,  rope,  cord. σπάρτον,  -ου,  γοῤέ,  «0761.
+σπάρτον, oraptoy, True pp
+-ου, -0v, True pp
+rope, γοῤέ, False eng
+cord. «0761. False eng
+# 72 34 33 onde,  -ordow,  etoraca,  -éoraxa, σπάω,  -σπάσω,  ἔσπασα,  -έσπακα,
+σπάω, onde, True pp
+-σπάσω, -ordow, True pp
+ἔσπασα, etoraca, True pp
+-έσπακα, -éoraxa, True pp
+# 73 32 33 trmacuat,  éowdo@ny [bor.,  Eng. ἔσπασμαι,  ἐσπάσθην [Ὅοτ.,  Επῃρ.
+ἔσπασμαι, trmacuat, True pp
+ἐσπάσθην éowdo@ny True pp
+[bor., [Ὅοτ., False eng
+Eng. Επῃρ. False eng
+# 74 23 25 spasm ],  dvaw a sword. 8Ρ48111,  ἄγατυῦ ἃ ϑνοτά.
+spasm 8Ρ48111, False eng
+], ἄγατυῦ False na
+ἃ dvaw True lex
+a ϑνοτά. False eng
+sword. NA False eng
+# 75 23 23 omeloairo,  see crévdw. σπείσαιτο,  5ε6 σπένδω.
+σπείσαιτο, omeloairo, True form
+see 5ε6 False eng
+σπένδω. crévdw. True pp
+# 76 37 38 orév8w,  -onelow,  crema,  Eocrec pat σπένδω,  -σπείσω,  ἔσπεισα,  ἔσπεισμαι
+σπένδω, orév8w, True pp
+-σπείσω, -onelow, True pp
+ἔσπεισα, crema, True pp
+ἔσπεισμαι Eocrec True pp
+pat NA False eng
+# 77 33 34 —Tcogm Lat. sponded,  promise sa- 5Ἱ 1, Δῖ. βροῃμᾶρθῦ,  2γο»νῖεε σα-
+—Tcogm 5Ἱ False na
+Lat. 1, False na
+sponded, Δῖ. False na
+promise βροῃμᾶρθῦ, False eng
+sa- 2γο»νῖεε False na
+# 78 38 45 credly,  vow),  pour a libation; mid., εγεάζν,  νοτυ],  2017 ὦ ἐξόαϊζίονε, ,  ταὶά.,
+credly, εγεάζν, False na
+vow), νοτυ], False eng
+pour 2017 False eng
+a ὦ False eng
+libation; ἐξόαϊζίονε, False eng
+mid., , False eng
+# 79 32 24 pour libations one with another, 2ογ δαϊοης οὔό το ἀπολο,
+pour 2ογ False eng
+libations δαϊοης False eng
+one οὔό False eng
+with το False eng
+another, ἀπολο, False eng
+# 80 38 40 esp. in making a treaty,  hence,  make 65Ρ. ἴῃ τρδἰκίηρ ἃ ἰγεαῖγ,  ἤθῆςο,  γα ε
+esp. 65Ρ. False eng
+in ἴῃ False eng
+making τρδἰκίηρ False eng
+a ἃ False eng
+treaty, ἰγεαῖγ, False eng
+hence, ἤθῆςο, False eng
+make γα False eng
+# 81 18 19 a treaty or truce. Ω ἐγεαΐν οὐ ζγζτεζ.
+a Ω False eng
+treaty ἐγεαΐν False eng
+or οὐ False eng
+truce. ζγζτεζ. False eng
+# 82 37 39 orev,  crevcw,  towevoa,  hasten,  be σπεύδω,  σπεύσω,  ἔσπευσα,  λακίε:,  δέ
+σπεύδω, orev, True pp
+σπεύσω, crevcw, True pp
+ἔσπευσα, towevoa, True pp
+hasten, λακίε:, False eng
+be δέ False eng
+# 83 22 22 in a hurry,  be eager. ἡ» ἃ ἀμ77»,  δὲ δαρέ᾽.
+in ἡ» False eng
+a ἃ False eng
+hurry, ἀμ77», False eng
+be δὲ False eng
+eager. δαρέ᾽. False eng
+# 84 40 42 orodds,  -ddos,  %,  leather zerkin. See σπολάς,  -άδος,  ἡ,  ἐσξατάεγ' 7εγξἔη. 866
+σπολάς, orodds, True lex
+-άδος, -ddos, True pp
+ἡ, %, True case
+leather ἐσξατάεγ' False eng
+zerkin. 7εγξἔη. False na
+See 866 False na
+# 85 21 19 Introd. § 59,  end. . Τηϊτοά. ὃ 59,  εηά.
+Introd. Τηϊτοά. False eng
+§ ὃ False eng
+59, 59, False na
+end. εηά. False eng
+. NA False na
+# 86 33 35 omovdh,  -fs [oréviw; bor.,  Eng. σπονδή,  -ῆς [σπένδω; Ὅοτ.,  ΕἸὩρΡ.
+σπονδή, omovdh, True lex
+-fs -ῆς False na
+[σπένδω; [oréviw; True pp
+bor., Ὅοτ., False eng
+Eng. ΕἸὩρΡ. False eng
+# 87 37 37 spondee],  /bation,  drink offering - ΒΡΟπά661,  ἐϊῤαΐίονι,  ἀγίρξ ο727 ἐγ,
+spondee], ΒΡΟπά661, False eng
+/bation, ἐϊῤαΐίονι, False na
+drink ἀγίρξ False eng
+offering ο727 False eng
+- ἐγ, False na
+# 88 37 41 pl.,  4éations,  esp. in concluding a Ρ]!.,  ἐἰδαϊῖῆογι5,  650. ἴῃ σοποϊυαϊηρ ἃ
+pl., Ρ]!., False eng
+4éations, ἐἰδαϊῖῆογι5, False na
+esp. 650. False eng
+in ἴῃ False eng
+concluding σοποϊυαϊηρ False eng
+a ἃ False eng
+# 89 39 38 a coast city of Cilicia,  noted for the ἃ. σοδβί οἱἵγ οἱ (ΠΠςΐα,  ποϊδα οσ {πῸ
+a ἃ. False eng
+coast σοδβί False eng
+city οἱἵγ False eng
+of οἱ False eng
+Cilicia, (ΠΠςΐα, False na
+noted ποϊδα False eng
+for οσ False eng
+the {πῸ False eng
+# 90 6 7 Google (αοορίς
+Google (αοορίς False na
+# 91 41 39 treaty or truce,  hence,  freaty,  truce. ἴγθαίυ οὐ ἴγῃςθ,  ἤδηςς,  Ζγέαζν,  “γέ.
+treaty ἴγθαίυ False eng
+or οὐ False eng
+truce, ἴγῃςθ, False eng
+hence, ἤδηςς, False eng
+freaty, Ζγέαζν, False na
+truce. “γέ. False eng

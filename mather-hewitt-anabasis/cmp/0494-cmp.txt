@@ -1,11 +1,9 @@
-# 0 3 3 $82 452
-$82 452 False na
+
 # 1 40 40 wapaponOdw [ fontéw,  go fo aid),  go to παραβοηθέω [μοηθέω,  χὸ το αἴκ},  φρο 10
 παραβοηθέω wapaponOdw True pp
-[μοηθέω, [ True pp
-fontéw, χὸ False na
+[βοηθέω, [ True pp
 go το False eng
-fo αἴκ}, False eng
+to αἴκ}, False eng
 aid), φρο False eng
 go 10 False eng
 to NA False eng
@@ -16,13 +14,13 @@ to ἰὼ False eng
 the ἠἠτ False eng
 rescue, γέδε False eng
 # 3 33 33 mwapayyQOdw [ayyéA\w,  announce), παραγγίλλω Ιἀγγέλλω,  πριμοπ πε),
-παραγγίλλω mwapayyQOdw True pp
-Ιἀγγέλλω, [ayyéA\w, True pp
-announce), πριμοπ False eng
+παραγγέλλω mwapayyQOdw True pp
+[ἀγγέλλω, [ayyéA\w, True pp
+announce], πριμοπ False eng
 # 4 32 31 puss a mesase along,  send word, βις α όα ὁ αὐολσ,  σεν] τοογεΐ,
-puss βις False eng
+pass βις False eng
 a α False eng
-mesase όα False na
+message όα False na
 along, ὁ False eng
 send αὐολσ, False eng
 word, σεν] False eng
@@ -46,9 +44,9 @@ man τη False eng
 to ἴῶ False eng
 man; Δ; False eng
 παραγγέλλει wapayyédAee True form
-els εἰς False eng
+εἰς False eng
 # 8 35 35 ra dbwra,  he gives the command ‘To τὰ ὅπλα,  ἀξ νιτἐ5 “46 εὐνμαμαὶ "70
-ra τὰ False eng
+τὰ False eng
 ὅπλα, dbwra, True pp
 he ἀξ False eng
 gives νιτἐ5 False eng
@@ -67,9 +65,9 @@ arms!’ αγηις False na
 according ὠεευγίϊιν False eng
 to 9 False eng
 orders, ογἶδγς, False eng
-wap- παρ- False na
+παρ- False na
 # 11 33 35 HyyeATO,  impers.,  word had been ἠγΎελτο,  ἱπρυγ5.,  τοργά ἀσαΐ ὀέέμ
-HyyeATO, ἠγΎελτο, False na
+ήγγελτο, False na
 impers., ἱπρυγ5., False eng
 word τοργά False eng
 had ἀσαΐ False eng
@@ -77,8 +75,15 @@ been ὀέέμ False eng
 # 12 13 13 passed along, Δασεόα ἀέρος,
 passed Δασεόα False eng
 along, ἀέρος, False eng
+Cp. 
+παρεγγυάω.
+
+
+
 # 13 12 12 wapayyeActs, παράγγελσις,
 παράγγελσις, wapayyeActs, True lex
+-εως
+[παραγγέλλω],
 # 14 16 18 word of command, τυογα οὐ εονμα με,
 word τυογα False eng
 of οὐ False eng
@@ -96,7 +101,7 @@ arrive, αλ False eng
 # 17 39 41 mapayw [dyw,  lead),  lead along,  lead παράγω [ἄγω,  ἐκωω],  ἐξαἱ αἰοηρ,  ἐεα αἱ
 παράγω mapayw True pp
 [ἄγω, [dyw, True pp
-lead), ἐκωω], False eng
+lead`, ἐκωω], False eng
 lead ἐξαἱ False eng
 along, αἰοηρ, False eng
 lead ἐεα False eng
@@ -111,9 +116,7 @@ bor., Ὀογ., False eng
 # 20 33 39 Eng. paradise |; pu,  an inclosed Επρ. ρδῖδάϊ 86}; 2ι»γ,  ἐ,  δὴ ἱποϊοβεά
 Eng. Επρ. False na
 paradise ρδῖδάϊ False eng
-|; 86}; False na
-pu, 2ι»γ, False eng
-an ἐ, False eng
+`; 86}; False na
 inclosed δὴ False eng
 # 21 33 31 pleasure ground,  usually stocked ΡΙόαθαγα στουηι,  ἀβιδ} 5ιοςκοὰ
 pleasure ΡΙόαθαγα False eng
@@ -134,15 +137,12 @@ hand ἀα»αεΐ False eng
 over, οὐόγ, False eng
 surrender, -“7γχοηἶφ), False eng
 Lat. , False na
-(αἴ. (rddo. True lex
-# 25 28 27 mapadpapeiv,  see waparpexw. παραδραμεῖν,  5. παρατρέχω.
-παραδραμεῖν, mapadpapeiv, True form
-see 5. False eng
-παρατρέχω. waparpexw. True pp
+trado. True lex
+
 # 26 34 34 mapalappivw [Cappiyw,  encourage), παραθαρρύνω [θαρρύνω,  ε»ερμγαρο],
 παραθαρρύνω mapalappivw True pp
 [θαρρύνω, [Cappiyw, True pp
-encourage), ε»ερμγαρο], False eng
+encourage], ε»ερμγαρο], False eng
 # 27 18 19 encourage,  cheer. ἐγ εονγαρέ,  ἐὐ δέ.
 encourage, ἐγ False eng
 cheer. εονγαρέ, False eng
@@ -160,7 +160,7 @@ past. ρας. False eng
 παραινέω, mapatvéw, True pp
 παραινέσω, rapaivécw, True pp
 παρήνεσα, Tapyveca, True pp
-wapy- παρύή- False na
+παρή- False na
 # 31 37 37 veka,  wapyynua,  trapnvédny [ aivéw, νεκα,  παρήνημαι,  παρῃνέθην [ αἰνέω,
 νεκα, veka, True pp
 παρήνημαι, wapyynua, True pp
@@ -168,13 +168,13 @@ wapy- παρύή- False na
 [ [ False na
 αἰνέω, aivéw, True pp
 # 32 26 28 pratse],  exhort,  advise. 2,  αἴ],  ἐχλογέ,  αὐὐτ|156.
-pratse], 2, False na
+praise], 2, False na
 exhort, αἴ], False eng
 advise. ἐχλογέ, False eng
 # 33 38 37 mapakakéw [kadrtéw,  cad/; bor.,  Eng. παρακαλέω [καλέω,  «αὐέ,  Ὀοτ.,  Επρ.
 παρακαλέω mapakakéw True pp
 [καλέω, [kadrtéw, True pp
-cad/; «αὐέ, False na
+call; «αὐέ, False na
 bor., Ὀοτ., False eng
 Eng. Επρ. False na
 # 34 40 47 paraclete],  call to,  call in,  summon, Ῥδυδοϊεῖθ],  ἐαλ ἐο,  κα δ 171,  ΣΙ 421 ))10)1,
@@ -185,7 +185,7 @@ call κα False eng
 in, δ False eng
 summon, 171, False eng
 # 35 28 29 wnvite,; encourage,  exhort. ἡμυϊέε,  Φηοο 7 αρε,  ἐχ΄ογέ.
-wnvite,; ἡμυϊέε, False na
+invite,; ἡμυϊέε, False na
 encourage, Φηοο False eng
 exhort. 7 False eng
 # 36 37 40 mapaxeXevopar [xerevw,  urge],  urge, παρακελεύομαι [κελεύω,  “7, , 6],  τγρ6,
@@ -200,7 +200,6 @@ exhort. ἐχλογί. False eng
 παρακέλευσις, mapakéXevots, True lex
 -εως -ews True pp
 [παρακελεύομαι], [ True pp
-rapaxeevouac NA False na
 ], NA False na
 # 39 21 26 urging on,  cheering. 2|7, 01710 Ο71,  οὐοογίηρ.
 urging 2|7, False eng
@@ -209,7 +208,7 @@ cheering. Ο71, False eng
 # 40 34 33 mapakordovGéw [dxorovféw,  dxodov- παρακολουθέω [ἀκολουθέω,  ἀκολου-
 παρακολουθέω mapakordovGéw True pp
 [ἀκολουθέω, [dxorovféw, True pp
-dxodov- ἀκολου- False na
+ἀκολου- False na
 # 41 37 42 Oyow,  etc.,  follow,  bor. Eng. aco- θήσω,  εἴς.,  γοῤέοτυ, ,  ὈοΥ.,  Επρ. 800-
 θήσω, Oyow, True pp
 etc., εἴς., False eng
@@ -218,7 +217,7 @@ bor. , False eng
 Eng. ὈοΥ., False na
 aco- Επρ. False na
 # 42 18 20 lyte],  accompany. γε],  σεζοριῥα71}, .
-γε], lyte], True lex
+lyte], True lex
 accompany. σεζοριῥα71}, False eng
 # 43 36 36 wapoditéw [Avréw,  annoy],  be trou- παραλυπέω [λυπέω,  “1:10,  ὧφ Ζ»014-
 παραλυπέω wapoditéw True pp
@@ -230,32 +229,25 @@ trou- Ζ»014- False na
 blesome, ὀέοσορεδ, False na
 be ἐδ False eng
 refractory. γ, False eng
-# 45 14 14 Cp. mapeyyudw. (0. παρεγγνάω.
-Cp. (0. False na
-παρεγγνάω. mapeyyudw. True pp
-# 46 13 13 [rapayyéddw], [παραγγέλλω],
-[παραγγέλλω], [rapayyéddw], True pp
-# 47 4 3 -EWS “ες
-“ες -EWS True pp
-# 48 6 9 Google (αΘοορσὶς
-Google (αΘοορσὶς False na
-# 49 19 18 AENOPHON'S ANABASIS ΧΕΝΟΡΗΟΝῈ ΑΝΑΒΑΘΙ5
-AENOPHON'S ΧΕΝΟΡΗΟΝῈ False na
-ANABASIS ΑΝΑΒΑΘΙ5 False na
+
+
+
+
+
+
 # 50 39 39 wrapape(Bopas [ duelBu,  duelyw,  Fuca, παραμείβομαι [ἀμείβω,  ἀμείψω,  ἤμειψα,
 παραμείβομαι wrapape(Bopas True pp
 [ἀμείβω, [ True pp
 ἀμείψω, duelBu, True pp
 ἤμειψα, duelyw, True pp
-Fuca, NA False na
 # 51 38 41 -nweipOny,  change],  change one’s po- «ἡμείφθην,  εἀαηρέ]),  εὐαλενο οὐδεὶς ῥο-
-«ἡμείφθην, -nweipOny, True pp
+-ημείφθην, -nweipOny, True pp
 change], εἀαηρέ]), False eng
 change εὐαλενο False eng
 οὐδεὶς one’s True form
 po- ῥο- False na
 # 52 29 24 Stlion of direction,  change. σον οὐ ἄϊγεον,  ἐἤαηνρε.
-σον Stlion True pp
+sition True pp
 of οὐ False eng
 direction, ἄϊγεον, False eng
 change. ἐἤαηνρε. False eng
@@ -286,7 +278,7 @@ loyal. ἠογαί. False eng
 # 57 40 39 wapapnplita,  -wy,  rad [unpds,  thigh], παραμηρίδια,  -ων,  τά [μηρός,  διϊρἠ],
 παραμηρίδια, wapapnplita, True lex
 -ων, -wy, True pp
-rad τά False eng
+τά False eng
 [μηρός, [unpds, True lex
 thigh], διϊρἠ], False eng
 # 58 36 37 armor for the thighs,  thigh pieces. αγ0 7. 707 ἐλ {ἀλιρης,  ἐἀιρὰ 21εεές.
@@ -298,7 +290,7 @@ thigh {ἀλιρης, False eng
 pieces. ἐἀιρὰ False eng
 # 59 41 43 wapanrtpwre [réurw,  send ],  send along, παραπέμπω [ πέμπω,  ςε᾽141],  Ξο»αἱ αέογιρ,
 παραπέμπω wapanrtpwre True pp
-[réurw, [ False na
+[πέμπω, [ False na
 send πέμπω, False eng
 ], ςε᾽141], False na
 send Ξο»αἱ False eng
@@ -313,9 +305,8 @@ or ΟΥ̓ False eng
 -os, -ος, False na
 -ον -ov True pp
 [ [πλη- False na
-rn- NA False na
 # 62 46 48 alos,  near ],  close beside,  like,  similar, σίος,  647, }],  εἰοδε ὀφεϊαΐς,  ἐξέ,  σέρεῖδα»,
-alos, σίος, False na
+σίος, False na
 near 647, False eng
 ], }], False na
 close εἰοδε False eng
@@ -335,7 +326,7 @@ of οὗ False eng
 # 65 38 33 melting snow,  s/1p off,  run off. Cp. τ 6] ηρ σηονν,  ἐἐ οὔ» γῃ οὔ. ΟΡ.
 melting τ False eng
 snow, 6] False eng
-s/1p ηρ False na
+slip ηρ False na
 off, σηονν, False eng
 run ἐἐ False eng
 off. οὔ» False eng
@@ -351,7 +342,7 @@ mod- τπηοᾶ- False na
 # 68 32 32 ern Persian /arsang),  parasang, Θύῃ οιβίδη ψμῃγϑαρρὺ),  αγαξαηρ,
 ern Θύῃ False eng
 Persian οιβίδη False na
-/arsang), ψμῃγϑαρρὺ), False na
+farsang), ψμῃγϑαρρὺ), False na
 parasang, αγαξαηρ, False eng
 # 69 37 39 equiv. to 30 stades,  about 3% miles. δααυΐν. ἴο 30 βίδα εβ,  αῦουΐ 25 τ] 65.
 equiv. δααυΐν. False eng
@@ -359,7 +350,7 @@ to ἴο False eng
 30 30 False na
 stades, βίδα False eng
 about εβ, False eng
-3% αῦουΐ False na
+3.4 αῦουΐ False na
 miles. 25 False eng
 # 70 31 31 The day’s march of Cyrus’s army ΤΏ ἀδγ᾽8 τράγο οἵ Ογγυββ ΔΥΓΙΩΥ
 The ΤΏ False na
@@ -404,7 +395,7 @@ here’), ἤεγε False na
 so ᾽), False eng
 that 80 False eng
 the (Βαΐῖ False eng
-ἴῃς dis- True form
+dis- True form
 # 76 34 33 tance included in a parasang would ἴδηςε ἱποϊεἀ ἴῃ ἃ ραγαβδηρ ννουϊὰ
 tance ἴδηςε False na
 included ἱποϊεἀ False eng
@@ -426,7 +417,7 @@ of οὗ False eng
 the με False eng
 road. το, False eng
 See 866 False na
-1ηϊτοά. Introd. True pp
+Introd. True pp
 # 79 5 5 § 64. ὃ 64.
 § ὃ False eng
 64. 64. False na
@@ -438,7 +429,6 @@ See 866 False na
 ἐσκεύασα, éoxevaca, True pp
 ἐσκεύασμαι, éoxevacpat, True pp
 -εσκευάσθην, -erxevaac True pp
-Ony, NA False na
 # 82 35 38 prepare),  prepare,  provide; mid., 27έῤαγε1],  γέβαγε,  2γονσϊαΐξ; ταϊὰ.,
 prepare), 27έῤαγε1], False eng
 prepare, γέβαγε, False eng
@@ -461,10 +451,10 @@ be ὁὲ False eng
 # 85 9 10 prepared. 27 εῤαγεώ,
 prepared. 27 False eng
 # 86 36 34 tmapackeuf,  -7s [cp. mapackevd{w ], παρασκενή,  -ς [ςρ. παρασκευάζωΊ],
-tmapackeuf, παρασκενή, False na
--7s -ς False na
+παρασκευή, False na
+-ῆς False na
 [cp. [ςρ. False eng
-mapackevd{w παρασκευάζωΊ], False na
+παρασκευάζω], False na
 ], NA False na
 # 87 23 29 preparation,  armament. 2γεῤανγαο0)1,  47 7147} 6717.
 preparation, 2γεῤανγαο0)1, False eng
@@ -481,10 +471,7 @@ a 7 False eng
 tent), ἃ False eng
 encamp ἐδγ1), False eng
 beside. δρκα» False eng
-# 90 23 25 Tapaoxety,  see Tapexw. παρασχεῖν,  58ε66 παρέχω.
-παρασχεῖν, Tapaoxety, True form
-see 58ε66 False eng
-παρέχω. Tapexw. True pp
+
 # 91 34 34 maparatrea [rdtrw,  draw up; bor., παρατάττω [τάττω,  ἐὠγατὺ τ; Ὅοτ.,
 παρατάττω maparatrea True pp
 [τάττω, [rdtrw, True pp

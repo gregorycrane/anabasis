@@ -31,7 +31,7 @@ about, “ὀυμ. False eng
 περιττεύω, WtpiTTevw, True pp
 ἐπερίττευσα éreplirrevoa True pp
 # 8 37 41 [wepirrds],  be over and above,  out- [περιττός],  ἐξ οτ΄ γ᾽ ἀγα αὐοτ'ό,  οἹεί-
-[wepirrds], [περιττός], False na
+[περιττός], [wepirrds], True pp
 be ἐξ False eng
 over οτ΄ False eng
 and γ᾽ False eng
@@ -41,7 +41,7 @@ out- αὐοτ'ό, False na
 number, » False eng
 outfank, 14). False na
 # 10 45 46 mepiTros,  -7},  -dv | wepl],  over and above περιττός,  -ή,  -όν ἰ περί],  οτ'΄ 7 απο αόοῦδ
-mepiTros, περιττός, False na
+περιττός, mepiTros, True pp
 -ή, -7}, True pp
 -όν -dv True pp
 | ἰ False na
@@ -74,9 +74,9 @@ conspicuously, δήν., False eng
 # 15 11 8 manifestly. "1 )οσν.
 manifestly. "1 False eng
 # 16 41 42 weplpoBos,  -ov [pdfos,  fear],  in great περίφοβος,  -ον [φόβος,  , “47},  ἐπ σγεαΐ
-περίφοβος, weplpoBos, True lex
+περίφοβος, weplpoBos, True pp
 -ον -ov True pp
-[φόβος, [pdfos, True lex
+[φόβος, [pdfos, True pp
 fear], , False eng
 in “47}, False eng
 great ἐπ False eng
@@ -111,7 +111,7 @@ Gulf, ὐἱ, False na
 but Ναϊ False eng
 as ἂς False eng
 the πὸ False eng
-Per- Ῥετ- False na
+Ῥετ- Per- True half1
 # 22 33 35 sian empire absorbed other races, βία η δηρῖγο Δρβοῦ οα ΟἴΠΕΥ γᾶςθ68,
 βία sian True lex
 empire η False eng
@@ -142,7 +142,7 @@ ad}. δ). False na
 speak 5 False eng
 Persian, εαξ False na
 # 27 39 39 Tlepouds,  -4,  -6v [Hépons],  Perstan, Περσικός,  -ή,  -όν [Πέρσης],  2) γεα».
-Περσικός, Tlepouds, True lex
+Περσικός, Tlepouds, True pp
 -ή, -4, True pp
 -όν -6v True pp
 [Πέρσης], [Hépons], True lex
@@ -170,7 +170,7 @@ penna 4ἴ. False eng
 petna), (ίογυ False na
 feather, ρϑίῃδ), False eng
 # 32 19 18 Eng. feather],  fy. Επρ. ξοδίβοΓ],  ν.
-Eng. Επρ. False na
+Eng. Επρ. False eng
 feather], ξοδίβοΓ], False eng
 fy. ν. False eng
 # 33 37 38 wérpa,  -ας,  rock,  cliff,  bowlder. πέτρα,  -ας,  γοεξ,  εἰϊῇ,  δοτοζωίφγ,
@@ -180,10 +180,10 @@ rock, γοεξ, False eng
 cliff, εἰϊῇ, False eng
 bowlder. δοτοζωίφγ, False eng
 # 34 42 42 aérpos,  -ov [bor.,  Eng. Peter (cp. A/at- πέτρος,  -ου [θοτ.,  Επρ. Ραῖοσ (οΡ. 772 Ὁ
-πέτρος, aérpos, True lex
+πέτρος, aérpos, True pp
 -ου -ov True pp
 [bor., [θοτ., False eng
-Eng. Επρ. False na
+Eng. Επρ. False eng
 Peter Ραῖοσ False na
 (cp. (οΡ. False eng
 A/at- 772 False na
@@ -240,7 +240,7 @@ why, πήγνῦμι, False eng
 πήξω, miiw, True pp
 ἔπηξα, ernia, True pp
 wérnya, πέπηγα, False na
-érd- ἐπά- False na
+ἐπά- érd- True half1
 # 45 11 11 WEPLTTEVTW, περιττεύσω,
 περιττεύσω, WEPLTTEVTW, True pp
 # 46 6 7 Google (Θοορίς
@@ -262,7 +262,7 @@ pax, ῬᾶχΧ, False eng
 peace], 2έαεε], False eng
 freeze. 2) False eng
 # 50 25 31 WHASS,  -00,  mud,  mire. πηλός,  -ου,  »ενκα᾽,  γμε1 γέ.
-πηλός, WHASS, True lex
+πηλός, WHASS, True pp
 -ου, -00, True pp
 mud, »ενκα᾽, False eng
 mire. γμε1 False eng
@@ -280,7 +280,7 @@ feet, ίξεῖ, False eng
 or οὐ False eng
 174 17} False na
 inches ἱποὸῇεβ False eng
-Eng. Εῃρ. False na
+Eng. Εῃρ. False eng
 measure. τηεδβυτγα. False eng
 # 53 31 37 The word meant forearm,  which, Ἴμε νογὰ πιεδηῖ Ἴογεαγ νη],  νυ ἈΪΟἢ,
 The Ἴμε False na
@@ -332,7 +332,7 @@ be ξ False eng
 # 61 13 15 overburdened, οὐ ὁμ7 εἰδγιεώ,
 overburdened, οὐ False eng
 # 62 25 26 wpés,  -4,  -dv,  bitter. πικρός,  -ά,  -όν,  ὀϊ{ε᾽.
-πικρός, wpés, True lex
+πικρός, wpés, True pp
 -ά, -4, True pp
 -όν, -dv, True pp
 bitter. ὀϊ{ε᾽. False eng
@@ -351,7 +351,7 @@ Lat. 1, False na
 f//, Μι, False na
 plénus, Ῥΐδηυβ, False na
 με, /x//, True form
-Eng. Ἑπρ. False na
+Eng. Ἑπρ. False eng
 # 66 39 35 full,  fill],  7//,  with gen. of mate- 7.11,  811],  ΛΔ,  ἢ ρεη. οὗ τηαΐε-
 full, 7.11, False eng
 fill], 811], False eng
@@ -359,7 +359,7 @@ fill], 811], False eng
 with ἢ False eng
 gen. ρεη. False eng
 of οὗ False eng
-mate- τηαΐε- False na
+τηαΐε- mate- True half1
 # 67 5 4 rial. ταὶ.
 rial. ταὶ. False eng
 # 68 42 42 atvw,  wlouat,  Eriov,  rémwxa,  -rérouat, πίνω,  πίομαι,  ἔπιον,  πέπωκα,  -πέπομαι,
@@ -428,13 +428,13 @@ sway. 5νγᾶγ. False eng
 πιστεύω, TirTevw, True pp
 πιστεύσω, micrevow, True pp
 ἐπίστευσα, erlarevoa, True pp
-werl- πεπί- False na
+πεπί- werl- True half1
 # 80 40 40 orevpal,  emiorevOny [ cp. miords],  put στευμαι,  ἐπιστεύθην [ ΠΡ. πιστός],  2κὲ
 στευμαι, orevpal, True pp
 ἐπιστεύθην emiorevOny True pp
 [ [ False na
 cp. ΠΡ. False eng
-πιστός], miords], True lex
+πιστός], miords], True pp
 put 2κὲ False eng
 # 81 41 46 trust or confidence tn,  rely on,  trust, ἐγ δ ΟΥ το βαἴδηιε6 17:5,  7671 021,  ἐγ τε έ,
 trust ἐγ False eng
@@ -474,7 +474,7 @@ pledge, 2 False eng
 διὰ wlorews, True form
 πίστεως, frustingly. True pp
 # 87 35 38 morés,  -η,  -dv [welOw,  fersuade; πιστός,  -ή,  -ν [πείθω,  δεγεκαιύ εν,
-πιστός, morés, True lex
+πιστός, morés, True pp
 -ή, -η, True pp
 -dv -ν False na
 [πείθω, [welOw, True pp
@@ -484,7 +484,7 @@ cogn., σΟρῃ., False na
 Lat. [«Δἴ. False na
 fidus, 1ἅπ8, False na
 faithful, μυϊδι, False eng
-Eng. Ἐπ. False na
+Eng. Ἐπ. False eng
 # 89 38 35 faith],  faithful,  trusty. As subst., ξαϊτ 7,  κιϊλγε,  ἐγισψ. Α5 βυθβῖ.,
 faith], ξαϊτ False eng
 faithful, 7, False eng
