@@ -1,0 +1,515 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒυΚΑΚΥ
+VOCABULARY ΝΟΓΑΒυΚΑΚΥ False na
+# 1 40 40 arevrexalSexa [wévre xal déxa,  five and “πεντεκαίδεκα [πέντε καὶ δέκα,  ἥτε α»ηὦ
+“πεντεκαίδεκα arevrexalSexa True pp
+[πέντε [wévre True lex
+καὶ xal True form
+δέκα, déxa, True pp
+five ἥτε False eng
+and α»ηὦ False eng
+# 2 25 25 ten],  indecl.,  fificen. ζ671},  ἴλᾺ60].,  , ίδέε.
+ten], ζ671}, False eng
+indecl., ἴλᾺ60]., False eng
+fificen. , False na
+# 3 38 39 atevTikovra [mévre; cogn.,  Lat. quin- πεντήκοντα [πέντε; οορῃ, ,  [, 3ἴ. α1η-
+πεντήκοντα atevTikovra True lex
+[πέντε; [mévre; True lex
+cogn., οορῃ, False na
+Lat. , False na
+quin- [, False na
+# 4 36 34 quaginta,  f/ty,; bor.,  Eng. Pente- αὐδρίπίδ,  μν; Ὀοτ.,  Επρ. Ῥοϑηΐο-
+quaginta, αὐδρίπίδ, False na
+f/ty,; μν; False na
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+Pente- Ῥοϑηΐο- False na
+# 5 24 22 cost ],  indecl.,  j/ty. οοϑί],  ἰπά60].,  μῶν.
+cost οοϑί], False eng
+], ἰπά60]., False na
+indecl., μῶν. False eng
+j/ty. NA False na
+# 6 39 37 arevTykovThp,  -jpos,  6 [wevrijxorra], πεντηκοντήρ,  -ἤρος,  ὁ [πεντήκοντα],
+πεντηκοντήρ, arevTykovThp, True lex
+-jpos, -ἤρος, False na
+ὁ 6 True lex
+[πεντήκοντα], [wevrijxorra], True lex
+# 7 39 39 penteconter,  commander of fifty,  t.¢. 2εριἐεεονε7,  εογρεαηαθ7 οὐ Μ, ν,  ἱ.ἐ.
+penteconter, 2εριἐεεονε7, False eng
+commander εογρεαηαθ7 False eng
+of οὐ False eng
+fifty, Μ, False eng
+t.¢. ν, False na
+# 8 34 37 of halfacompany. See Introd. § 56. οὗ Βα] ἃ οουρδῃυ. 8366 Ιπἴτοα,  ὃ 56.
+of οὗ False eng
+halfacompany. Βα] False na
+ἃ See True lex
+Introd. οουρδῃυ. False na
+§ 8366 False eng
+56. Ιπἴτοα, False na
+# 9 38 36 aevTynKooTUs,  -vos,  7 [mevTiKxovra], πεντηκοστύς,  -ὕος,  ἡ [πεντήκοντα],
+πεντηκοστύς, aevTynKooTUs, True lex
+-vos, -ὕος, False na
+ἡ 7 True case
+[πεντήκοντα], [mevTiKxovra], True lex
+# 10 35 35 division of fifty,  half a company. εἰϊοίξῖορε οΥὙ Μγῖν,  αὶ ἃ σομρδηγ.
+division εἰϊοίξῖορε False eng
+of οΥὙ False eng
+fifty, Μγῖν, False eng
+half αὶ False eng
+a ἃ False eng
+company. σομρδηγ. False eng
+# 11 17 17 See Introd. § 56. 566 Ιηττοά. ὃ πό.
+See 566 False na
+Ιηττοά. Introd. True pp
+§ ὃ False eng
+56. πό. False na
+# 12 22 23 aénavrat,  see wdouat. “πέπᾶνται,  5.6 πάομαι.
+aénavrat, “πέπᾶνται, False na
+see 5.6 False eng
+πάομαι. wdouat. True pp
+# 13 23 23 qweTrovOaoty,  see rao. πεπόνθασιν,  Ξεα πάσχω.
+πεπόνθασιν, qweTrovOaoty, True form
+see Ξεα False eng
+πάσχω. rao. True pp
+# 14 25 22 mwenmtrwxéra,  see rirTw. πεπτωκότα,  5.6 πίπτω.
+πεπτωκότα, mwenmtrwxéra, True form
+see 5.6 False eng
+πίπτω. rirTw. True pp
+# 15 42 40 awepalvo,  repava,  érépava,  rerépacpuat, περαίνω,  περανῶ,  ἑπέρανα,  πεπέρασμαι,
+περαίνω, awepalvo, True pp
+περανῶ, repava, True pp
+ἑπέρανα, érépava, True pp
+πεπέρασμαι, rerépacpuat, True pp
+# 16 35 38 érepavOny [wépas,  end; cp. wépav], ἐπεράνθην [πέρας,  εγ:4],  ςΡ. πέρᾶν),
+ἐπεράνθην érepavOny True pp
+[πέρας, [wépas, True lex
+end; εγ:4], False eng
+cp. ςΡ. False eng
+wépav], πέρᾶν), False na
+# 17 33 31 carry out,  execute,  accomplish. 477} οἱἕ,  ἐχεσέ,  αεεονε έϊδἦ.
+carry 477} False eng
+out, οἱἕ, False eng
+execute, ἐχεσέ, False eng
+accomplish. αεεονε False eng
+# 18 40 41 aépav [cogn.,  Eng. far],  adv.,  on the πέραν [ςορη.,  ΕἸρ. 41],  διῖν.,  ογε 1.ε
+πέραν aépav True lex
+[cogn., [ςορη., False na
+Eng. ΕἸρ. False na
+far], 41], False eng
+adv., διῖν., False eng
+on ογε False eng
+the 1.ε False eng
+# 19 40 40 other side; 7o wépay,  the other side ,; οἵδον σἱαἶφ,  τὸ πέραν,  {Δὲ οὐδέν σἱἶδ,
+other οἵδον False eng
+side; σἱαἶφ, False eng
+τὸ 7o True form
+πέραν, wépay, True lex
+the {Δὲ False eng
+other οὐδέν False eng
+side σἱἶδ, False eng
+,; NA False na
+# 20 28 27 as prep. with gen.,  across. 85 ΡΓδΡ. ψ ἢ σθη.,  “ε7055.
+as 85 False eng
+prep. ΡΓδΡ. False eng
+with ψ False eng
+gen., ἢ False eng
+across. σθη., False eng
+# 21 43 40 qwepaw,  repdow,  érépaca,  rem épaxa [ cp. περάω,  περάσω,  ἐπέρᾶσα,  πεπέρᾶκα [(Ρ.
+περάω, qwepaw, True pp
+περάσω, repdow, True pp
+ἐπέρᾶσα, érépaca, True pp
+rem πεπέρᾶκα False eng
+épaxa [(Ρ. False na
+[ NA False na
+cp. NA False eng
+# 22 36 35 wépayv], in Attic used only by Xeno- πέραν],  ἴὰ Αἰτἰς υϑεα ον Ὀγ Χαϑηο-
+πέραν], wépayv], True lex
+in ἴὰ False eng
+Attic Αἰτἰς False na
+used υϑεα False eng
+only ον False eng
+by Ὀγ False eng
+Xeno- Χαϑηο- False na
+# 23 26 23 phon,  cross,  go through. ῬὨοῃ,  4705,  ρὸ ἀγορά.
+phon, ῬὨοῃ, False eng
+cross, 4705, False eng
+go ρὸ False eng
+through. ἀγορά. False eng
+# 24 43 45 aépdit,  -ixos,  6,  7 [bor.,  Lat. perdix, πέρδιξ,  -ἶκος,  ὁ,  ἡ [Ὀοτ.,  [, 4ἴ. ῬΟΙΑῚΣ,
+πέρδιξ, aépdit, True lex
+-ixos, -ἶκος, False na
+ὁ, 6, True lex
+ἡ 7 True case
+[bor., [Ὀοτ., False eng
+Lat. [, False na
+perdix, 4ἴ. False eng
+# 25 34 35 partridge,  whence French perdrix, 2αγγῖάσε,  ννεπος ΕΥΕΠοΟἢ ῬΘΓΙΑΙΙΧ,
+partridge, 2αγγῖάσε, False eng
+whence ννεπος False eng
+French ΕΥΕΠοΟἢ False na
+perdrix, ῬΘΓΙΑΙΙΧ, False eng
+# 26 29 27 Eng. partridge ],  partridge. Εηρσ. ῬαιίΠρο],  2αγέγταρε.
+Eng. Εηρσ. False na
+partridge ῬαιίΠρο], False eng
+], 2αγέγταρε. False na
+partridge. NA False eng
+# 27 38 39 wept [bor.,  Eng. perimeter,  period], περί [δοτ.,  Επηρ. Ῥογίπιοίοσ,  ΡοΓοά],
+wept περί False eng
+[bor., [δοτ., False eng
+Eng. Επηρ. False na
+perimeter, Ῥογίπιοίοσ, False eng
+period], ΡοΓοά], False eng
+# 28 41 42 prep. with gen.,  dat.,  or acc.,  round, ΡῬΓΕΡ. ψ ἢ ρεη.,  ἀαἴ.,  οὐ ἀοο.,  γοτ, α,
+prep. ΡῬΓΕΡ. False eng
+with ψ False eng
+gen., ἢ False eng
+dat., ρεη., False eng
+or ἀαἴ., False eng
+acc., οὐ False eng
+round, ἀοο., False eng
+# 29 6 7 about, αὐοτεζ.
+about, αὐοτεζ. False eng
+# 30 32 27 With gen.,  only figuratively in Δ σοη.,  ΟἿΪΥ Πρυταινεὶν ἴῃ
+With Δ False na
+gen., σοη., False eng
+only ΟἿΪΥ False eng
+figuratively Πρυταινεὶν False eng
+in ἴῃ False eng
+# 31 37 36 prose,  about,  concerning,  with re- Ῥῦοβθ,  σόοι,  κορεφ,  171,  τοί γέ-
+prose, Ῥῦοβθ, False eng
+about, σόοι, False eng
+concerning, κορεφ, False eng
+with 171, False eng
+τοί re- True form
+# 32 38 39 gard to,  for; ina contest of,  §7, 53 φαγα {ο,  γ0γ,  7 αὶ εογιέθϑί οἵ,  57,;
+gard φαγα False eng
+to, {ο, False eng
+for; γ0γ, False eng
+ina 7 False na
+contest αὶ False eng
+of, εογιέθϑί False eng
+οἵ, §7, True form
+53 57,; False na
+# 33 38 38 wept wrelorou,  of the greatest impor- περὶ πλείστου,  οὗ ἦε ργεαίεεέ 1»ι207-
+wept περὶ False eng
+πλείστου, wrelorou, True pp
+of οὗ False eng
+the ἦε False eng
+greatest ργεαίεεέ False eng
+impor- 1»ι207- False na
+# 34 35 37 tance; wept wavrds,  all-important; αμεο; περὶ παντός,  αὐ- ἐν»ιῤογίαρέ,;
+tance; αμεο; False na
+wept περὶ False eng
+παντός, wavrds, True form
+all-important; αὐ- False na
+# 35 37 40 Td wepl IIpotévou,  mews of Proxenus. τὰ περὶ Προξένου,  γιότυς ο7 }ΥΟΧ ἐϑ11ς.
+τὰ Td True pp
+περὶ wepl True form
+Προξένου, IIpotévou, True pp
+mews γιότυς False eng
+of ο7 False eng
+Proxenus. }ΥΟΧ False na
+# 36 36 38 With dat.,  round,  about,  in prose νη ἀαῖ.,  γοτεριαῖ,  αόοτεί,  ΤῈ ῬΥΟΒ6
+With νη False na
+dat., ἀαῖ., False eng
+round, γοτεριαῖ, False eng
+about, αόοτεί, False eng
+in ΤῈ False eng
+prose ῬΥΟΒ6 False eng
+# 37 30 32 commonly of parts of the body. ΘΟΙΏΠΊΟΠΪΥ οὗ ρατίβ οἵ ἴΠ6 Ὀοήγ.
+commonly ΘΟΙΏΠΊΟΠΪΥ False eng
+of οὗ False eng
+parts ρατίβ False eng
+of οἵ False eng
+the ἴΠ6 False eng
+body. Ὀοήγ. False eng
+# 38 35 37 With acc.,  round,  about,  attend- ΨΥ δος.,  γοπραῖ,  αὐοιεί,  αὐξεγι6}-
+With ΨΥ False na
+acc., δος., False eng
+round, γοπραῖ, False eng
+about, αὐοιεί, False eng
+attend- αὐξεγι6}- False na
+# 39 35 35 tng,  including the person attended ἐγιρ,  ἸποΪ ἀὴρ ἴη6 Ρδύβοη δἰϊεπάβά
+tng, ἐγιρ, False eng
+including ἸποΪ False eng
+the ἀὴρ False eng
+person ἴη6 False eng
+attended Ρδύβοη False eng
+# 40 39 41 (cp. dudl),  of wept’ Aptatov,  Ariacus (ερΡ. ἀμφί),  οἱ περὶ ᾿Αριαῖον,  4 γαδιεδ
+(cp. (ερΡ. False eng
+ἀμφί), dudl), True lex
+of οἱ False eng
+περὶ wept’ True form
+᾿Αριαῖον, Aptatov, True pp
+Ariacus 4 False na
+# 41 33 32 and his men; busy about; with re- αηη ἦς ηθ,  ὁπ αόοιζ,  εὐ11ἢ γ6-
+and αηη False eng
+his ἦς False eng
+men; ηθ, False eng
+busy ὁπ False eng
+about; αόοιζ, False eng
+with εὐ11ἢ False eng
+re- γ6- False na
+# 42 27 26 spect to,  of time,  about. σέο ο,  οἵ {ἰπ16,  σφοηεί.
+spect σέο False eng
+to, ο, False eng
+of οἵ False eng
+time, {ἰπ16, False eng
+about. σφοηεί. False eng
+# 43 39 43 In cpds.,  rosnd,  about,  over,  some- Ιπ ορα5.,  γογοεἶ,  αὐο τε,  0167,  ΒΟΥΤΩΘ-
+In Ιπ False na
+cpds., ορα5., False na
+rosnd, γογοεἶ, False na
+about, αὐο False eng
+over, τε, False eng
+some- 0167, False na
+# 44 37 39 times denoting superiority (see mept- {ἴτη65 ἀδηοίϊηρ εω66710716»} (586 περι-
+times {ἴτη65 False eng
+denoting ἀδηοίϊηρ False eng
+superiority εω66710716»} False eng
+(see (586 False eng
+mept- περι- False na
+# 45 6 8 Google (οορσὶςο
+Google (οορσὶςο False na
+# 46 3 3 485 485
+485 485 False na
+# 47 32 33 viyvouat); cp. Eng. words begin- γίγνομαι); οΡ. Επρ. ᾿ψοτάς Ὀερίη-
+γίγνομαι); viyvouat); True pp
+cp. οΡ. False eng
+Eng. Επρ. False na
+words ᾿ψοτάς False eng
+begin- Ὀερίη- False na
+# 48 33 32 ning with feri-,  as pericardium, πἰηρ νὰ 2εγ1-,  ἃ5 Ῥογιοδζάϊυπι,
+ning πἰηρ False eng
+with νὰ False eng
+feri-, 2εγ1-, False na
+as ἃ5 False eng
+pericardium, Ῥογιοδζάϊυπι, False eng
+# 49 34 32 perihelion,  peritoneum,  also see ῬΟΙΣΒ6ΙΙοα,  Ρουϊοπθιι,  αἷς 866
+perihelion, ῬΟΙΣΒ6ΙΙοα, False eng
+peritoneum, Ρουϊοπθιι, False eng
+also αἷς False eng
+see 866 False eng
+# 50 6 6 above. ἃῦονα.
+above. ἃῦονα. False eng
+# 51 39 38 weptBddrAw [Sdrdr\w,  throw],  embrace. περιβάλλω [βάλλω,  φάγοτυ],  ε»εόγαςε.
+περιβάλλω weptBddrAw True pp
+[βάλλω, [Sdrdr\w, True pp
+throw], φάγοτυ], False eng
+embrace. ε»εόγαςε. False eng
+# 52 41 41 weprylyvopas [yiyvoua,  become,  be],  be περιγίγνομαι [γίγνομαι,  ὀδεονε,  ὁ],  δέ
+περιγίγνομαι weprylyvopas True pp
+[γίγνομαι, [yiyvoua, True pp
+become, ὀδεονε, False eng
+be], ὁ], False eng
+be δέ False eng
+# 53 36 39 superior to,  get the better of (cp. ΠΝ έ7107 ἕο,  σεί {δε ὀεφίζ 7,  οὕ (ςΡ.
+superior ΠΝ False eng
+to, έ7107 False eng
+get ἕο, False eng
+the σεί False eng
+better {δε False eng
+of ὀεφίζ False eng
+(cp. 7, False eng
+# 54 32 30 ‘Ill get round him’),  with gen. “111 ρεῖ τουηά Ὠΐπι᾽),  ἢ σοη.
+‘Ill “111 False na
+get ρεῖ False eng
+round τουηά False eng
+him’), Ὠΐπι᾽), False na
+with ἢ False eng
+gen. σοη. False eng
+# 55 37 38 meprecréw [eltéw,  pack close],  wrap περιειλέω [εἰλέω,  δαεξ εἰρ56],  τυγαῤ
+περιειλέω meprecréw True pp
+[εἰλέω, [eltéw, True pp
+pack δαεξ False eng
+close], εἰρ56], False eng
+wrap τυγαῤ False eng
+# 56 6 8 round, γοτεγαῖ,
+round, γοτεγαῖ, False eng
+# 57 41 45 mweplape [elul,  be],  be superior,  sur- περίειμι [εἰμί,  ὀε],  δέ “:267107, ,  5247.-
+περίειμι mweplape True pp
+[elul, [εἰμί, False eng
+be], ὀε], False eng
+be δέ False eng
+superior, “:267107, False eng
+sur- , False na
+# 58 39 33 pass,  outdo,  with gen.,  with dat. of 26:5,  οτίαο,  ἢ σεπ.,  ἢ ἀδῖ. οὗ
+pass, 26:5, False eng
+outdo, οτίαο, False eng
+with ἢ False eng
+gen., σεπ., False eng
+with ἢ False eng
+dat. ἀδῖ. False eng
+of οὗ False eng
+# 59 8 8 respect. ταϑρθοῖ,
+respect. ταϑρθοῖ, False eng
+# 60 40 41 meplen [eluc,  go},  for pres. with fut. περίειμι [εἶμι,  ρ07,  ἴοτ ῥτε58. ψ 8 αϊ,
+περίειμι meplen True pp
+[εἶμι, [eluc, True pp
+go}, ρ07, False na
+for ἴοτ False eng
+pres. ῥτε58. False eng
+with ψ False eng
+fut. 8 False eng
+# 61 35 37 meaning,  see eluc; go round,  make ΤῊ Δη]ηΡ,  566 εἶμι; ρῸ γομγα,  ηιαζέ
+meaning, ΤῊ False eng
+see Δη]ηΡ, False eng
+eluc; 566 False na
+go εἶμι; False eng
+round, ρῸ False eng
+make γομγα, False eng
+# 62 9 10 a detour, Ω εἶφίο:7.
+a Ω False eng
+detour, εἶφίο:7. False eng
+# 63 33 36 mwepitxo [%xw,  hold],  surround, περιέχω [ἔχω,  λοϊαζ7],  των γοηα, ,
+περιέχω mwepitxo True pp
+[ἔχω, [%xw, True pp
+hold], λοϊαζ7], False eng
+surround, των False eng
+# 64 35 37 mepilaot,  see meplerut,  go round, περιίᾶσι,  5ε6 περίειμι,  ρὺ γοτ716].
+mepilaot, περιίᾶσι, False na
+see 5ε6 False eng
+περίειμι, meplerut, True pp
+go ρὺ False eng
+round, γοτ716]. False eng
+# 65 39 38 mwepilornps,  [iornm,  cause to stand), περιίστημι [ἴστημι,  εα456 10 »ίαηα7),
+περιίστημι mwepilornps, True pp
+[ἴστημι, [iornm, True pp
+cause εα456 False eng
+to 10 False eng
+stand), »ίαηα7), False eng
+# 66 38 41 station round,  2 aor.,  intr.,  stand σίαΐογε γοιηαἴ,  2 δοτ.,  ἱπίτ, ,  σία πα
+station σίαΐογε False eng
+round, γοιηαἴ, False eng
+2 2 False na
+aor., δοτ., False eng
+intr., ἱπίτ, False eng
+stand , False eng
+# 67 6 8 round, γοτεγιε,
+round, γοτεγιε, False eng
+# 68 39 43 weptptven [udvw,  remain],  wail round, περιμένω [μένω,  γερ:αἴ711,  τυαῖὶέ γοτεγε,
+περιμένω weptptven True pp
+[μένω, [udvw, True pp
+remain], γερ:αἴ711, False eng
+wail τυαῖὶέ False eng
+round, γοτεγε, False eng
+# 69 24 27 wail,  watt for,  await. τυαϊέ,  τυαΐξ 707,  ἀτυατί.
+wail, τυαϊέ, False eng
+watt τυαΐξ False eng
+for, 707, False eng
+await. ἀτυατί. False eng
+# 70 43 39 TlépwvOos,  -ov,  7,  Perinthus,  a city of Πέρινθος,  -ου,  ἡ,  δ εγγλτ,  ἃ. οἰ οὗ
+Πέρινθος, TlépwvOos, True lex
+-ου, -ov, True pp
+ἡ, 7, True case
+Perinthus, δ False na
+a εγγλτ, False eng
+city ἃ. False eng
+of οἰ False eng
+# 71 26 26 Thrace,  on the Propontis. Τῆταςα,  οἡ ἴῃς Ῥγοροῃιῖβ.
+Thrace, Τῆταςα, False na
+on οἡ False eng
+the ἴῃς False eng
+Propontis. Ῥγοροῃιῖβ. False na
+# 72 33 35 aépré [epi],  adv.,  round about. πέριξ [περί],  δαν.,  γοτγια αὐοτε,
+πέριξ aépré True lex
+[epi], [περί], False eng
+adv., δαν., False eng
+round γοτγια False eng
+about. αὐοτε, False eng
+# 73 44 45 teploSos,  -ov,  7 [656s,  way,  bor.,  Eng. περίοδος,  -ου,  ἡ [ὁδός,  τυαν,  Ὀοτ.,  Εηρ.
+περίοδος, teploSos, True pp
+-ου, -ov, True pp
+ἡ 7 True case
+[ὁδός, [656s, True lex
+way, τυαν, False eng
+bor., Ὀοτ., False eng
+Eng. Εηρ. False na
+# 74 30 28 period],  way round,  circuit. ῬΟΙ]ΟΑ],  τὰν γοτε»α,  εἴγε.
+period], ῬΟΙ]ΟΑ], False eng
+way τὰν False eng
+round, γοτε»α, False eng
+circuit. εἴγε. False eng
+# 75 38 39 mepltraros,  -ov [mdros,  path,  bor., περίπατος,  -ουἦ [πάτος,  λαζά,  ὕοτ, ,
+περίπατος, mepltraros, True pp
+-ov -ουἦ False na
+[πάτος, [mdros, True pp
+path, λαζά, False eng
+bor., ὕοτ, False eng
+# 76 38 38 Eng. peripatetic],  walk,  stroll,  év Επρ. Ῥοσιρδαίθίο],  τοαὐξ,  εἰγοΐ,  ἐν
+Eng. Επρ. False na
+peripatetic], Ῥοσιρδαίθίο], False eng
+walk, τοαὐξ, False eng
+stroll, εἰγοΐ, False eng
+ἐν év True lex
+# 77 28 30 mepimary elvat,  be walking. περιπάτῳ εἶναι,  ὧέ τυαῤξίγιρ.
+περιπάτῳ mepimary True form
+εἶναι, elvat, True form
+be ὧέ False eng
+walking. τυαῤξίγιρ. False eng
+# 78 28 27 mepitrecetv,  sce repirinTw. περιπεσεῖν,  5ε6 περιπΐπτω.
+περιπεσεῖν, mepitrecetv, True form
+sce 5ε6 False na
+περιπΐπτω. repirinTw. True pp
+# 79 37 41 mepirhyvipe [ryyviju,  freeze],  make περιπήγνῦμι [πήγνῦμι,  , »,  626},  »ιαΐέ
+περιπήγνῦμι mepirhyvipe True pp
+[πήγνῦμι, [ryyviju, True pp
+freeze], , False eng
+make », False eng
+# 80 37 49 freeze round,  pass.,  intr.,  freeze , 7, )ὥέεωῶε γοιιαῖ,  Ῥᾶϑ85.,  ἰἴῃΐζ, ,  , ᾽ ἐξζέ
+freeze , False eng
+round, 7, False eng
+pass., )ὥέεωῶε False eng
+intr., γοιιαῖ, False eng
+freeze Ῥᾶϑ85., False eng
+# 81 18 19 round,  freeze on. γοτρο,  7 ἐέ26 ὁ7:.
+round, γοτρο, False eng
+freeze 7 False eng
+on. ἐέ26 False eng
+# 82 38 33 wepintrre [rirrw,  fall),  fall round, περιπίπτω [πίπτω,  κι,  μιδὲ γον,
+περιπίπτω wepintrre True pp
+[πίπτω, [rirrw, True pp
+fall), κι, False eng
+fall μιδὲ False eng
+round, γον, False eng
+# 83 36 38 — fall upon one with arms about him, ᾿ς  ωδ ῤορ ομα εὐὐτὰ ἀγνις αὐομξ Δϊηὶ,
+— ᾿ς False na
+fall ωδ False eng
+upon ῤορ False eng
+one ομα False eng
+with εὐὐτὰ False eng
+arms ἀγνις False eng
+about αὐομξ False eng
+him, Δϊηὶ, False eng
+# 84 9 7 with dat. ΜῈ ἀδῖ.
+with ΜῈ False eng
+dat. ἀδῖ. False eng
+# 85 37 37 mweptmdéw [rAdw,  saz/],  sail round, περιπλέω [πλέω,  «σ᾽,  Ξταἱὐ γοπηιαῖ,
+περιπλέω mweptmdéw True pp
+[πλέω, [rAdw, True pp
+saz/], «σ᾽, False na
+sail Ξταἱὐ False eng
+round, γοπηιαῖ, False eng
+# 86 12 11 coast round, εοαεέ γοπα,
+coast εοαεέ False eng
+round, γοπα, False eng
+# 87 37 37 repirricaw [rriccw,  -rrvtw,  érrvia, περιπτύσσω [πτύσσω,  -πτύξω,  ἔπτυξα,
+περιπτύσσω repirricaw True pp
+[πτύσσω, [rriccw, True pp
+-πτύξω, -rrvtw, True pp
+ἔπτυξα, érrvia, True pp
+# 88 36 36 -értuyuat,  -ertvxOnv,  fol’),  fold -ἐπτνγμαι,  -επτύχθην,  Μοἰ1],  γοὐα
+-ἐπτνγμαι, -értuyuat, True pp
+-επτύχθην, -ertvxOnv, True pp
+fol’), Μοἰ1], False na
+fold γοὐα False eng
+# 89 17 20 round,  outflank. γομ»α᾽,  οτεήδανηιξ.
+round, γομ»α᾽, False eng
+outflank. οτεήδανηιξ. False eng
+# 90 40 46 aepippéw [péw,  flow],  flow round,  en- περιρρέω [ῥέω,  Ἴοτυ],  βοτυ γοιτεγια, ,  671-
+περιρρέω aepippéw True pp
+[ῥέω, [péw, True pp
+flow], Ἴοτυ], False eng
+flow βοτυ False eng
+round, γοιτεγια, False eng
+en- , False na

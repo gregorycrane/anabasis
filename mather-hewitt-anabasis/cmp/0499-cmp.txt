@@ -1,0 +1,418 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+# 1 35 37 sian king; miord,  pledges,  inter- δἰδὴ Κίηρ; πιστά,  ῤέξαϊσες,  ἱρμέεγ-
+sian δἰδὴ False na
+king; Κίηρ; False eng
+πιστά, miord, True pp
+pledges, ῤέξαϊσες, False eng
+inter- ἱρμέεγ- False na
+# 2 18 19 change of pleages. ἐλαρρε οὐ 2έἐεάρες.
+change ἐλαρρε False eng
+of οὐ False eng
+2έἐεάρες. pleages. True pp
+# 3 41 43 aororys,  -n70s,  7 [miords ],  furth/ul- “απιστότης,  -ητος,  ἡ [πιστός],  κεῖ 7μεές
+aororys, “απιστότης, False na
+-ητος, -n70s, True pp
+ἡ 7 True case
+[πιστός], [miords True lex
+], κεῖ False na
+7μεές furth/ul- True pp
+# 4 16 17 ness,  fidelity. »655,  2 εἰφἰϊέγ.
+ness, »655, False eng
+fidelity. 2 False eng
+# 5 30 28 ar(rus,  -vos,  7,  pine tree. πίτυς,  -υος,  ἡ,  216 17έ6.
+πίτυς, ar(rus, True lex
+-vos, -υος, False na
+ἡ, 7, True case
+pine 216 False eng
+tree. 17έ6. False eng
+# 6 42 40 awAaytos,  -d,  -ov,  sideways,  slanting; πλάγιος,  -α,  -ον,  σ:ετυαγ5,  σἰαηέγρ,
+πλάγιος, awAaytos, True lex
+-α, -d, True pp
+-ον, -ov, True pp
+sideways, σ:ετυαγ5, False eng
+slanting; σἰαηέγρ, False eng
+# 7 36 37 els mAdyioy,  stdeways. Neut. pl. as εἰς πλάγιον,  σἱασισαγε. Νααῖ. ρ]. 85
+els εἰς False eng
+πλάγιον, mAdyioy, True pp
+stdeways. σἱασισαγε. False na
+Neut. Νααῖ. False na
+pl. ρ]. False eng
+as 85 False eng
+# 8 26 27 subst.,  fanks of an army. βρϑι.,  βαρ ές οἵ δῇ Δυτηγ.
+subst., βρϑι., False eng
+fanks βαρ False na
+of ές False eng
+an οἵ False eng
+army. δῇ False eng
+# 9 40 41 wrAalovov,  -ov,  rectangular figure; of πλαίσιον,  -ου,  γεείαγιρ αγ,  ἤρ γε,  οἵ
+πλαίσιον, wrAalovov, True pp
+-ου, -ov, True pp
+rectangular γεείαγιρ False eng
+figure; αγ, False eng
+of ἤρ False eng
+# 10 34 31 soldiers,  sguare,  which might be 50] ἴεγβ,  σφαγέ,  ΜΉΘ πιρῃς ΡῈ
+soldiers, 50] False eng
+sguare, ἴεγβ, False na
+which σφαγέ, False eng
+might ΜΉΘ False eng
+be πιρῃς False eng
+# 11 35 37 either solid or hollow. See Introd. οἶς Ποῖ 50]14 οὐ βοΐ ον. ὅ66 1πίτγοα,
+either οἶς False eng
+solid Ποῖ False eng
+or 50]14 False eng
+hollow. οὐ False eng
+See βοΐ False na
+ον. Introd. True pp
+# 12 25 25 § 63,  and plan,  p. 168. ἢ 63,  ἀπά ρΐδῃ,  Ρ. 168.
+§ ἢ False eng
+63, 63, False na
+and ἀπά False eng
+plan, ρΐδῃ, False eng
+p. Ρ. False eng
+168. 168. False na
+# 13 39 36 twAavdopnat,  wAavicouat,  memdAdvypat, πλανάομαι,  πλανήσομαι,  πεπλάνημαι,
+πλανάομαι, twAavdopnat, True pp
+πλανήσομαι, wAavicouat, True pp
+πεπλάνημαι, memdAdvypat, True pp
+# 14 29 31 érhaviOnv [wrdvn,  wandering; ἐπλανήθην [πλάνη,  τυαηιαἶ» 17,
+ἐπλανήθην érhaviOnv True pp
+[πλάνη, [wrdvn, True lex
+wandering; τυαηιαἶ» False eng
+# 15 33 37 bor.,  Eng. planet],  wander,  go Ῥογ.,  Εῃρ. ρμίδηθί],  τοσριαΐγ,  φσὸ
+bor., Ῥογ., False eng
+Eng. Εῃρ. False na
+planet], ρμίδηθί], False eng
+wander, τοσριαΐγ, False eng
+go φσὸ False eng
+# 16 7 7 astray. αε 74}.
+astray. αε False eng
+# 17 39 38 wAGTTO,  Exraca,  rérrac pal,  errdaOny πλάττω,  ἔπλασα,  πέπλασμαι,  ἐπλάσθην
+πλάττω, wAGTTO, True pp
+ἔπλασα, Exraca, True pp
+πέπλασμαι, rérrac True pp
+pal, ἐπλάσθην False eng
+errdaOny NA False na
+# 18 39 40 [bor.,  Eng. plastic,  plaster,  proto- [Ὀοτ.,  Επρ. ῥΙδϑίϊο,  ρ᾽δϑίοσ,  ὑσγοῖο-
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False na
+plastic, ῥΙδϑίϊο, False eng
+plaster, ρ᾽δϑίοσ, False eng
+proto- ὑσγοῖο- False na
+# 19 37 37 plasm],  shape,  make up,  fabricate. ῬΙ435111,  “1426,  »αξέ τ,  χαὐγιεαέ.
+plasm], ῬΙ435111, False eng
+shape, “1426, False eng
+make »αξέ False eng
+up, τ, False eng
+fabricate. χαὐγιεαέ. False eng
+# 20 39 39 awiaris,  -efa,  -¥ [bor.,  Eng. place, πλατύς,  -εἶἴα,  -ὐ [Ὀοτ.,  Επρ. ΡΙ806,
+πλατύς, awiaris, True lex
+-efa, -εἶἴα, False na
+-¥ -ὐ False na
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False na
+place, ΡΙ806, False eng
+# 21 31 39 plate,  plateau],  wae,  broad. ῬΙαῖορ,  μ᾽ δῖθδαι],  εὐτωΐξ,  ὀγοσά, .
+plate, ῬΙαῖορ, False eng
+plateau], μ᾽ False eng
+wae, δῖθδαι], False eng
+broad. εὐτωΐξ, False eng
+# 22 39 38 mwAeOpratos,  -d,  -ov [wAdOpov],  of a πλεθριαῖος,  -α,  -ον [πλέθρον],  οΓ α
+πλεθριαῖος, mwAeOpratos, True lex
+-α, -d, True pp
+-ον -ov True pp
+[πλέθρον], [wAdOpov], True pp
+of οΓ False eng
+a α False eng
+# 23 9 8 plethron. 2ἐίλ»ο».
+plethron. 2ἐίλ»ο». False eng
+# 24 40 43 a8 pov,  -ou,  plethron,  a Greek linear πλέθρον,  -ου,  2(ίλγονι,  ἃ ατθοῖκ ᾿ἰπεοᾶῦ
+πλέθρον, a8 True pp
+-ου, pov, True pp
+-ou, 2(ίλγονι, False na
+plethron, ἃ False eng
+a ατθοῖκ False eng
+Greek ᾿ἰπεοᾶῦ False na
+linear NA False eng
+# 25 36 38 measure,  100 Greek feet or about 97 Τηθάβιγο,  [00 Οτεεκ ἔδξεϊ οὐ ἀρουΐ 97
+measure, Τηθάβιγο, False eng
+100 [00 False na
+Greek Οτεεκ False na
+feet ἔδξεϊ False eng
+or οὐ False eng
+about ἀρουΐ False eng
+97 97 False na
+# 26 10 10 Eng. feet. Επρ. ἔεεῖ.
+Eng. Επρ. False na
+feet. ἔεεῖ. False eng
+# 27 45 47 TIAcroOévns,  -ous,  6,  Pleisthénes,  a pri- Πλεισθένης,  -ους,  ὁ,  Τ)εϊ εἰλδηγιός,  ἃ μτὶ-
+Πλεισθένης, TIAcroOévns, True lex
+-ους, -ous, True pp
+ὁ, 6, True lex
+Pleisthénes, Τ)εϊ False na
+a εἰλδηγιός, False eng
+ἃ pri- True lex
+# 28 27 27 vate in Cyrus’s Greek army. να ἴῃ Ογτγυβ᾽5 Οὐεεκ διιῃν.
+να vate True pp
+in ἴῃ False eng
+Cyrus’s Ογτγυβ᾽5 False na
+Greek Οὐεεκ False na
+army. διιῃν. False eng
+# 29 31 30 arhelwv,  wreioros,  see ToNUs. πλείων,  πλεῖστος,  566 πολύς.
+πλείων, arhelwv, True pp
+πλεῖστος, wreioros, True pp
+see 566 False eng
+πολύς. ToNUs. True lex
+# 30 40 38 awhéxw,  éxrdeka,  -rérdoxa,  wémdeyuat, πλέκω,  ἔπλεξα,  -πέπλοχα,  πέπλεγμαι,
+πλέκω, awhéxw, True pp
+ἔπλεξα, éxrdeka, True pp
+-rérdoxa, -πέπλοχα, False na
+πέπλεγμαι, wémdeyuat, True pp
+# 31 35 38 érdéxOnv and -erddxnv [cogn.,  Lat. ἐπλέχθην δῃὰ -επλάκην [ὁοορῃ.,  [, Αἴ.
+ἐπλέχθην érdéxOnv True pp
+and δῃὰ False eng
+-επλάκην -erddxnv True pp
+[cogn., [ὁοορῃ., False na
+Lat. [, False na
+# 32 39 40 plico,  fold,  plectd,  weave],  plazt. ῬΙΪοῦ,  μἰέ,  ῬΙθοίδ,  τυέατε],  φέατζξ.
+ῬΙΪοῦ, plico, True pp
+fold, μἰέ, False eng
+plectd, ῬΙθοίδ, False na
+weave], τυέατε], False eng
+plazt. φέατζξ. False na
+# 33 18 18 athéov,  see rons. πλέον,  566 πολύς.
+πλέον, athéov, True pp
+see 566 False eng
+πολύς. rons. True lex
+# 34 37 35 arheoventéw,  mweovextiow,  érdeoved- πλεονεκτέω,  πλεονεκτήσω,  ἐπλεονέ-
+πλεονεκτέω, arheoventéw, True pp
+πλεονεκτήσω, mweovextiow, True pp
+érdeoved- ἐπλεονέ- False na
+# 35 33 31 xkrnoa [mreovéxrys (mrdéov,  exw, κτησα [πλεονέκτης (πλέον,  ἔχω,
+κτησα xkrnoa True pp
+[πλεονέκτης [mreovéxrys True lex
+(πλέον, (mrdéov, True pp
+ἔχω, exw, True pp
+# 36 32 33 have),  one who has more),  have λαυε),  ομὸ τοὴο ἦσς »:0γ4},  αῦε
+have), λαυε), False eng
+one ομὸ False eng
+who τοὴο False eng
+has ἦσς False eng
+more), »:0γ4}, False eng
+have αῦε False eng
+# 37 27 30 more,  have a larger share. »107 6,  ἄατνέ α ἰαγρῈγ 5σλα7.
+more, »107 False eng
+have 6, False eng
+a ἄατνέ False eng
+larger α False eng
+share. ἰαγρῈγ False eng
+# 38 45 47 arheupal,  -ds [bor.,  Eng. pleurisy ],  724, πλευρᾶ,  -ἂἃς [ὈὈοτγ.,  Επρ. ὈῬ]ΘΌΓΙΒΥ 1,  χΖό,
+arheupal, πλευρᾶ, False na
+-ds -ἂἃς False na
+[bor., [ὈὈοτγ., False eng
+Eng. Επρ. False na
+pleurisy ὈῬ]ΘΌΓΙΒΥ False eng
+], 1, False na
+724, χΖό, False na
+# 39 40 42 usually pl.,  s¢de,  of a hollow square, ἀΌ Δ }}γ Ρ].,  σ1εἶδ,  οἵ ἃ Ποῖον βήυδτγε,
+usually ἀΌ False eng
+pl., Δ False eng
+s¢de, }}γ False na
+of Ρ]., False eng
+a σ1εἶδ, False eng
+hollow οἵ False eng
+square, ἃ False eng
+# 40 25 26 flank. See plan,  p. 168. , αμᾷ. ὅςε ρίδῃη,  Ρ. 168.
+flank. , False eng
+See αμᾷ. False na
+plan, ὅςε False eng
+p. ρίδῃη, False eng
+168. Ρ. False na
+# 41 37 32 wrtXéw,  mrevcouat and = mdrevootuat, πλέω,  πλεύσομαι «πὶ πλευσοῦμαι,
+πλέω, wrtXéw, True pp
+πλεύσομαι mrevcouat True pp
+and «πὶ False eng
+πλευσοῦμαι, = True pp
+mdrevootuat, NA False na
+# 42 34 31 érdevoa,  mwémrdevKa,  mémdevtepat ἔπλευσα,  πέπλευκα,  πέπλευσμαι
+ἔπλευσα, érdevoa, True pp
+πέπλευκα, mwémrdevKa, True pp
+πέπλευσμαι mémdevtepat True pp
+# 43 39 39 [cogn.,  Lat. plud,  xa72,  Eng. fleet, [σορῃ, ,  1.4. Ρ]πδ,  γαΐη,  Ἐπρ. Βθοῖ,
+[cogn., [σορῃ, False na
+Lat. , False na
+plud, 1.4. False eng
+xa72, Ρ]πδ, False na
+Eng. γαΐη, False na
+fleet, Ἐπρ. False eng
+# 44 30 25 float,  flow,  flood ],  saz/. Βοαῖ,  ον,  Βοοᾶ],  ταἱό,
+float, Βοαῖ, False eng
+flow, ον, False eng
+flood Βοοᾶ], False eng
+], ταἱό, False na
+saz/. NA False na
+# 45 6 7 Google (Θοορίς
+Google (Θοορίς False na
+# 46 1 3 | 487
+| 487 False na
+# 47 3 37 487 πληγή,  -ῆς [πλήττω,  οἰγίξε,  Ὅοτ, ,
+πληγή, 487 True lex
+# 48 36 33 wAnyh,  -7s [rAfirra,  strike; bor., Επρ. ΔΡΟΡΙΘΧΥΊ,  ὀίοτυ,  ἥοργι»».
+wAnyh, Επρ. False na
+-7s ΔΡΟΡΙΘΧΥΊ, False na
+[rAfirra, ὀίοτυ, False na
+strike; ἥοργι»». False eng
+bor., NA False eng
+# 49 33 40 Eng. apoplexy],  d/ow,  flogging. πλῆθος,  -ους,  τό [πλήθω; ουρη, ,  [.ϊ.
+πλῆθος, Eng. True lex
+apoplexy], -ους, False eng
+τό d/ow, True form
+flogging. [πλήθω; False eng
+# 50 36 39 wos,  -ovs,  75 [wAHOw; cogn.,  Lat. ῬΙδΌΒ,  εον)10)2 2εογλέφ!],  γε ἐἰδμΐδ,
+wos, ῬΙδΌΒ, False eng
+-ovs, εον)10)2 False na
+75 2εογλέφ!], False na
+γε [wAHOw; True lex
+cogn., ἐἰδμΐδ, False na
+Lat. NA False na
+# 51 35 32 plébs,  common people],  multitude, δγέαξέ μηροῦ,  μηριόοῦς,  ργεαωΐ
+plébs, δγέαξέ False na
+common μηροῦ, False eng
+people], μηριόοῦς, False eng
+multitude, ργεαωΐ False eng
+# 52 29 38 great number,  numbers; great ὡἾο ΜΖ,  δ156,  ἐχίφηι:,  ΚΟ»,  1 5οή-
+great ὡἾο False eng
+number, ΜΖ, False eng
+numbers; δ156, False eng
+great ἐχίφηι:, False eng
+# 53 35 18 amount; size,  extent,  common sol- 411775,  147,  24.
+amount; 411775, False eng
+size, 147, False eng
+extent, 24. False eng
+common NA False eng
+sol- NA False na
+# 54 17 31 diers,  147,  24. πλήθω [ρ. πίμπλημι; Ῥοτ.,  Επρ.
+πλήθω diers, True pp
+147, [ρ. False na
+πίμπλημι; 24. True pp
+# 55 31 40 wAHGw [cp. mlurrnu; bor.,  Eng. Ῥίθίδοσα ],  ἐέ με,  οἿΪγ ἴῃ ργαβ8. μίς.
+Ῥίθίδοσα wAHGw True pp
+[cp. ], False eng
+ἐέ mlurrnu; True lex
+bor., με, False eng
+Eng. οἿΪγ False na
+# 56 41 36 plethora J,  de fu//,; only in pres. ptc. ἴῃ Ρῥγυβθ,  ἀγορὰ πλήθουσα,  ἔΐν6 οὗ
+plethora ἴῃ False eng
+J, Ρῥγυβθ, False na
+de ἀγορὰ False eng
+πλήθουσα, fu//,; True pp
+only ἔΐν6 False eng
+in οὗ False eng
+pres. NA False eng
+ptc. NA False na
+# 57 35 39 in prose,  dyopa mAjPovea,  time of »μεῤῤ»μαγ εί,  »εϊΐαε ογ 1Δ6 γογέροο)ε.
+in »μεῤῤ»μαγ False eng
+prose, εί, False eng
+dyopa »εϊΐαε False na
+mAjPovea, ογ False na
+time 1Δ6 False eng
+of γογέροο)ε. False eng
+# 58 37 38 full market,  middle of the yorenoon. πλήν,  δίὶν.,  υϑεὰ (γεφαθηιΥ ἃ5. ΠΟ].
+full πλήν, False eng
+market, δίὶν., False eng
+middle υϑεὰ False eng
+of (γεφαθηιΥ False eng
+the ἃ5. False eng
+yorenoon. ΠΟ]. False na
+# 59 38 34 wAfy,  adv.,  used frequently as conj. Δ 8ἃ5 ῥτερ. ψι ρεη.,  ἐχειδέ,  ἐχ-
+wAfy, Δ False na
+adv., 8ἃ5 False eng
+used ῥτερ. False eng
+frequently ψι False eng
+as ρεη., False eng
+conj. ἐχειδέ, False eng
+# 60 37 11 and as prep. with gen.,  except,  ex- εοῤέ Τἀαΐς.
+and εοῤέ False eng
+as Τἀαΐς. False eng
+prep. NA False eng
+with NA False eng
+gen., NA False eng
+except, NA False eng
+ex- NA False na
+# 61 10 37 cepl that. πλήρης,  -ες [πίμπλημι],  με,  γε οὐ,
+πλήρης, cepl True lex
+that. -ες False eng
+# 62 41 23 wAnpnys,  -es [riurrnu],  full,  full of, αὐοπ ρα 15,  ΝΥ ἢ ρσοῃ.
+wAnpnys, αὐοπ False na
+-es ρα False na
+[riurrnu], 15, False na
+full, ΝΥ False eng
+full ἢ False eng
+of, ρσοῃ. False eng
+# 63 24 37 abounding tn,  with gen. πλησιάζω,  πλησιάσω,  εἰς. [πλησίος],
+abounding πλησιάζω, False eng
+tn, πλησιάσω, False eng
+with εἰς. False eng
+gen. [πλησίος], False eng
+# 64 40 22 twAnoLalw,  mAnoidow,  etc. [wAngoios ], ἄγατυ πέαγ,  αὐῥγοσελ.
+twAnoLalw, ἄγατυ False na
+mAnoidow, πέαγ, False na
+etc. αὐῥγοσελ. False eng
+[wAngoios NA False na
+], NA False na
+# 65 21 39 draw near,  approach. πλησίος,  -ά,  -ον,  500. πλησιαίτατος,
+draw πλησίος, False eng
+near, -ά, False eng
+approach. -ον, False eng
+# 66 41 32 twAnolos,  -a,  -ov,  sup. mrAnowalraros, »ΦΩ7,  Ῥοβιίῖνα ποῖ ἰουπά ἴῃ Ατς
+twAnolos, »ΦΩ7, False na
+Ῥοβιίῖνα -a, True pp
+ποῖ -ov, True lex
+sup. ἰουπά False eng
+ἴῃ mrAnowalraros, True form
+# 67 34 37 near,  positive not found in Attic Ρίοβε,  ἴῃς δέήνϑβ. πλησίον ἀπά ἐγγύς
+near, Ρίοβε, False eng
+positive ἴῃς False eng
+not δέήνϑβ. False eng
+found πλησίον False eng
+in ἀπά False eng
+ἐγγύς Attic True lex
+# 68 35 32 prose,  the advs. rAnolov and éyyus Ῥείηρ υϑεὰ ᾿πϑίεδ. Νειῖ. δος. 85
+prose, Ῥείηρ False eng
+the υϑεὰ False eng
+advs. ᾿πϑίεδ. False na
+rAnolov Νειῖ. False na
+and δος. False eng
+éyyus 85 False na
+# 69 33 35 being used instead. Neut. acc. as δᾶν.,  647,  αἰ υςζ νεῖν,  περ ὐο7-
+being δᾶν., False eng
+used 647, False eng
+instead. αἰ False eng
+Neut. υςζ False na
+acc. νεῖν, False eng
+as περ False eng
+# 70 38 3 adv.,  ear,  attributively,  zezghdor- ΖΡ.
+adv., ΖΡ. False eng
+ear, NA False eng
+attributively, NA False eng
+zezghdor- NA False na
+# 71 4 42 ing. πλίνθινος,  -η,  -ον [πλίνθος],  οὐ ὀγϊεῖ,
+ing. πλίνθινος, False eng
+# 72 43 6 twrlvOivos,  -η,  -ov [wAlvOos],  of brick, ὀγϊεῖ,
+twrlvOivos, ὀγϊεῖ, False na
+-η, NA False na
+-ov NA False na
+[wAlvOos], NA False na
+of NA False eng
+brick, NA False eng
+# 73 6 37 brick, πλίνθος,  -ου [Ῥοτ.,  Επρ. Ρ]1Π{87]7,
+brick, πλίνθος, False eng
+# 74 35 6 mAlvOos,  -ov [bor.,  Eng. plinth], ὀγτεξ.
+mAlvOos, ὀγτεξ. False na
+-ov NA False na
+[bor., NA False eng
+Eng. NA False na
+plinth], NA False eng
+# 75 6 45 brick. πλοῖον,  -ου [πλέω],  5:12,  ὀοα!,  «γα ἢ,  ἃ
+brick. πλοῖον, False eng
+# 76 44 32 totov,  -ov [rréw],  ship,  boat,  craft,  a βεπεγαὶ ἴσῃ; ὁρροβοά ἴο τριήρης,

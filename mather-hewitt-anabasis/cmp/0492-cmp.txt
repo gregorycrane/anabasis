@@ -1,0 +1,509 @@
+
+# 1 33 30 at this moment,  hereupon,  mean- Ὧ’ τὐϊς πιοῦμε ἤογεδο,  ριφαη-
+at Ὧ’ False eng
+this τὐϊς False eng
+moment, πιοῦμε False eng
+hereupon, ἤογεδο, False eng
+mean- ριφαη- False na
+# 2 6 7 while, τοι ἐς.
+while, τοι False eng
+# 3 39 40 ovroct,  aurnt,  rovri [ofros + deictic οὑτοσί,  αὐὑτηΐ,  τουτί [οὗτος - ἀεϊοιὶς
+οὑτοσί, ovroct, True lex
+αὑτηΐ, False na
+τουτί False na
+[οὗτος [ofros True pp
++ - False na
+deictic ἀεϊοιὶς False eng
+# 4 36 31 “ij,  this... here,  with a gesture. «ἢ,  ἀρ ον ἀγα,  ΜΤἢ ἃ βόβιατε,
+-ι], «ἢ, False na
+this... ἀρ False eng
+here, ον False eng
+with ἀγα, False eng
+a ΜΤἢ False eng
+gesture. ἃ False eng
+# 5 36 34 ovrus,  or ovrw commonly before con- οὕτως,  οὐ οὕτω σοπη Υ θείοτε σοῃ-
+οὕτως, ovrus, True lex
+or οὐ False eng
+οὕτω ovrw True pp
+commonly σοπη False eng
+before Υ False eng
+con- θείοτε False na
+# 6 36 39 sonants [otros],  adv.,  1 this way, Βοηδηΐῖθ [οὗτος],  δι]ν.,  ἐμὲ “δς τιν,
+sonants Βοηδηΐῖθ False eng
+[οὗτος], [otros], True pp
+adv., δι]ν., False eng
+ἐμὲ 1 True form
+this “δς False eng
+way, τιν, False eng
+# 7 40 43 under these circumstances,  so,  usually «71:06» 11π:ὲ εἰ μη σία μεός,  50,  ἈΒΟΔΙΪν
+under «71:06» False eng
+these 11π:ὲ False eng
+circumstances, εἰ False eng
+so, μη False eng
+usually σία False eng
+# 8 35 40 referring to what precedes (cp. ob- τοίοστίηρ ἴὸ νι παὶ ργοοςαά ο5. ((ρ. οὖς
+referring τοίοστίηρ False eng
+to ἴὸ False eng
+what νι False eng
+precedes παὶ False eng
+(cp. ργοοςαά False eng
+ob- ο5. False na
+# 9 36 38 ros); sometimes referring ahead,  as τος); 5υπιοίίπιο5 το[ογγίης ἢ οδα,  ὡς
+ros); τος); False eng
+sometimes 5υπιοίίπιο5 False eng
+referring το[ογγίης False eng
+ahead, ἢ False eng
+as οδα, False eng
+# 10 25 23 follows; womwep,  exactly “οι οτος; ὥσπερ,  εχαον
+follows; “οι False eng
+οὕτως...
+ὥσπερ; womwep, True pp
+exactly ὥσπερ, False eng
+# 11 6 7 we GS. ἐν. 45.
+...as ἐν. False eng
+
+# 14 33 34 ovx(,  stronger form of ov,  sot. οὐχί,  5ἰγοημοῦ ἔοτπι οὗ οὐ,  μοέ,
+οὐχί, False na
+stronger 5ἰγοημοῦ False eng
+form ἔοτπι False eng
+of οὗ False eng
+οὐ, ov, True lex
+not. μοέ, False eng
+# 15 37 38 odeiAw,  dperdjow,  whelAnga,  2 aor. ὀφείλω,  ὀφειλήσω,  ὠφείλησα,  2 δοΥῖ.
+ὀφείλω, odeiAw, True pp
+ὀφειλήσω, dperdjow, True pp
+ὠφείλησα, whelAnga, True pp
+2 2 False na
+aor. δοΥῖ. False eng
+# 16 39 37 Wperov,  wpelrAnxa,  wHe.knOny,  owe ,; ὥφελον,  ὠφείληκα,  ὠφειλήθην,  οἵὐε;
+ὥφελον, Wperov, True pp
+ὠφείληκα, wpelrAnxa, True pp
+ὠφειλήθην, wHe.knOny, True pp
+owe; οἵὐε; False eng
+NA False na
+# 17 38 39 pass.,  be own,  be due,  with dat.; 2 Ρδ55.,  ὁφ οτοΐ ιν ὧδ εἴἶμό,  ἢ ααῖ.; 2
+pass., Ρδ55., False eng
+be ὁφ False eng
+owing, οτοΐ False eng
+be ιν False eng
+due, ὧδ False eng
+with εἴἶμό, False eng
+dat.; ἢ False eng
+2 ααῖ.; False na
+# 18 42 35 aor.,  with inf.,  ought,  used to express δότ,  Ψ ἢ τας,  πολ αϑεα ἴὸ ἜΧΡΓΕ55
+aor., δότ, False eng
+with Ψ False eng
+inf., ἢ False eng
+ought, τας, False eng
+used πολ False eng
+to αϑεα False eng
+express ἴὸ False eng
+# 19 34 35 a hopeless wish,  @pere Kipos (Hy, ἃ ΠΟροϊοθ5. Μ πῃ,  ὥφελε Κῦρος ζῆν,
+a ἃ False eng
+hopeless ΠΟροϊοθ5. False eng
+wish, Μ False eng
+ὥφελε False na
+Κῦρος (Hy, True lex
+ζῆν
+# 20 35 29 would that Cyrus were alive! (Cyrus «οοε ἐα} Οὐ» τῦὸῦ αὐΐνέ! (γε:
+would «οοε False eng
+that ἐα} False eng
+Cyrus Οὐ» False na
+were τῦὸῦ False eng
+alive! αὐΐνέ! False na
+(Cyrus True lex
+# 21 19 20 ourht to be alive!) ομὐδ 19 ὧδ αἰίτ'ε 9)
+ought ομὐδ False na
+to 19 False eng
+be ὧδ False eng
+alive!) αἰίτ'ε False na
+# 22 42 41 bdhedos,  76,  only in nom. and acc.,  ad- ὄφελος,  τό,  ΟἾΪΥ ἴῃ πότη. δηὶ δος.» σῶς
+ὄφελος, bdhedos, True lex
+τό, 76, True form
+only ΟἾΪΥ False eng
+in ἴῃ False eng
+nom. πότη. False eng
+and δηὶ False eng
+acc., δος.» False eng
+ad- True lex
+# 23 38 40 vantage,  help,  use,  oTparnyod pedos τναμίασε,  λο δ,  μδό,  στρατηγοῦ ὄφελος
+vantage, τναμίασε, False eng
+help, λο False eng
+use, δ, False eng
+στρατηγοῦ pedos True pp
+ὄφελος
+# 24 31 35 ovddv,  a general ts of no use. οὐδέν,  α ρε»6γη αἰ 1ς οὗ 710 1456.
+οὐδέν, ovddv, True form
+a α False eng
+general ρε»6γη False eng
+is αἰ False eng
+of 1ς False eng
+no οὗ False eng
+use. 710 False eng
+# 25 39 41 od0aApds,  -o8 [bor.,  Eng. ophthalmia, ὀφθαλμός,  -ου [[5γὸτ.,  ἔπ ρ. ΟΡΒΓΒΔΙ δ,
+ὀφθαλμός, od0aApds, True lex
+-ου -o8 True pp
+[bor., [[5γὸτ., False eng
+Eng. ἔπ False na
+ophthalmia, ρ. False eng
+# 26 34 35 ophthalmoscope],  eve,  év édp0ah- ΟΡΒΙΠΔΙΠπΙΟ800Ρ61,  4}ὲ,  ἐν ὀφθαλ-
+ophthalmoscope], ΟΡΒΙΠΔΙΠπΙΟ800Ρ61, False eng
+eye, 4}ὲ, False eng
+ἐν év True lex
+ὀφθαλ- False na
+# 27 16 17 pots,  tn sight. μοῖς,  171 εἴρλέ,
+μοῖς, False eng
+in 171 False eng
+sight. εἴρλέ, False eng
+# 28 43 43 oxeTds,  -08 [dx éw],  channel or ditch for ὀχετός,  -ου [ὀχέω],  ελατι)ηεῖ οὐ αἸϊε ἴοτ
+ὀχετός, oxeTds, True lex
+-ου -08 True pp
+[ὀχέω], False eng
+channel οὐ False eng
+or αἸϊε False eng
+ditch ἴοτ False eng
+for NA False eng
+# 29 11 10 irrigation. γε σαϊ!οη.
+irrigation. γε False eng
+# 30 38 41 oxéw [cogn.,  Lat. vehd,  carry,  Eng. ὀχέω [οὐρη.,  Αἴ. γε μῦ,  “α7γ.7.},  ἘηΡ.
+ὀχέω oxéw True pp
+[cogn., [οὐρη., False na
+Lat. Αἴ. False na
+veho, True lex
+carry, μῦ, False eng
+Eng. “α7γ.7.}, False na
+# 31 36 41 wagon],  carry,  pass.,  de carried, ΨΑΡΟΠ],  4477, )}, ,  Ρᾶ55.,  ὁέ «αγγϊθα,
+wagon], ΨΑΡΟΠ], False eng
+carry, 4477, False eng
+pass., )}, False eng
+be , False eng
+carried, Ρᾶ55., False eng
+# 32 5 6 ride. γ]εἶ2.
+ride. γ]εἶ2. False eng
+# 33 37 36 bx npa,  -aros,  7b [dxéw],  vehicle. ὄχημα,  -ατος,  τό [ὀχέω],  τελίείε.
+ὄχημα, False eng
+-ατος, npa, True pp
+τό -aros, True form
+[ὀχέω], 7b True pp
+vehicle. NA False eng
+# 34 41 37 bx On,  -ns (poetic),  righ bank,  bluff. ὄχθη,  -ης (ροοίο),  λιρά δαπά,  δέε.
+ὄχθη, False eng
+-ης False na
+(poetic), λιρά False eng
+high
+bank, δέε. False eng
+bluff. NA False eng
+# 35 37 38 éxAos,  -ov [bor.,  Eng. ochlocracy], ὄχλος,  -ου [ὕοτ.,  Επρ. ΟΟΒΙ]ΟΟΓΔΟΥ],
+ὄχλος, éxAos, True lex
+-ου -ov True pp
+[bor., [ὕοτ., False eng
+Eng. Επρ. False na
+ochlocracy], ΟΟΒΙ]ΟΟΓΔΟΥ], False eng
+# 36 36 40 crowd,  throng,  body of non-combat- εγοτυώ,  ἐλγογρ,  ὀοών ο7) πορμεεοηιδαΐ-
+crowd, εγοτυώ, False eng
+throng, ἐλγογρ, False eng
+body ὀοών False eng
+of ο7) False eng
+non-combat- πορμεεοηιδαΐ- False na
+# 37 34 36 ants,  camp followers (see Introd. αριές,  εανὴρ 7 ῥοτυεγς (8ε6 [πίτοα,
+ants, αριές, False eng
+camp εανὴρ False eng
+followers 7 False eng
+(see ῥοτυεγς False eng
+Introd. (8ε6 False na
+# 38 24 24 § 61); trouble,  bother. δ 01); Ζγομόδε,  δοίλέγ.
+§ δ False eng
+61); 01); False na
+trouble, Ζγομόδε, False eng
+bother. δοίλέγ. False eng
+# 39 44 40 ox upés,  -d,  -dv [2xw,  hola],  capable of ὀχυρός,  -ἄ,  -όν [ἔχω,  λοα,  εαῤαῤίε ὁ
+ὀχυρός, False eng
+-ά, False na
+-όν -d, True pp
+[ἔχω, -dv True pp
+hold], εαῤαῤίε False eng
+capable ὁ False eng
+of NA False eng
+# 40 39 39 being held,  strong,  of a military po- ὀοΐγρ ἤεῥαῖ,  εέγονρ,  οἵ ἃ τἸ]Παγν Ρὸ-
+being ὀοΐγρ False eng
+held, ἤεῥαῖ, False eng
+strong, εέγονρ, False eng
+of οἵ False eng
+a ἃ False eng
+military τἸ]Παγν False eng
+po- Ρὸ- False na
+# 41 32 34 sition; cp. éxupés. Neut. pl. as δἰ(ἴοη; ΟΡ. ἐχυρός. Νεαῖ,  Ρ]. 885
+sition; δἰ(ἴοη; False na
+cp. ΟΡ. False eng
+ἐχυρός. éxupés. True lex
+Neut. Νεαῖ, False na
+pl. Ρ]. False eng
+as 885 False eng
+# 42 21 21 subst.,  strongholds. Βυθ5ῖ.,  σἼγογρηοζες,
+subst., Βυθ5ῖ., False eng
+strongholds. σἼγογρηοζες, False eng
+# 43 19 18 owed,  adv.,  dade. ὀψέ,  δἄν.,  ἑαΐο.
+ὀψέ, False eng
+adv., δἄν., False eng
+late. ἑαΐο. False eng
+
+# 45 43 45 olte,  ovlicdny [de],  be late,  come late. ὀψίζω,  ὠψίσθην [ὀψέ],  δὲ ἑαΖε,  εογ16 ἐαΐξ.
+ὀψίζω, olte, True pp
+ὠψίσθην ovlicdny True pp
+[ὀψέ], False eng
+be δὲ False eng
+late, ἑαΖε, False eng
+come εογ16 False eng
+late. ἐαΐξ. False eng
+
+# 48 39 40 Suns,  -ews,  » (cp. SperPar (see dpdw, ὄψις,  -εως,  ἡ [ςρΡ. ὄψεσθαι (3εε ὁράω,
+ὄψις, Suns, True lex
+-εως, -ews, True pp
+ἡ » True case
+(cp. [ςρΡ. False eng
+ὄψεσθαι SperPar True form
+(see (3εε False eng
+ὁράω, dpdw, True pp
+# 49 39 42 see); bor.,  Eng. thanatopsis ],  /ook, 542),  ὕοτ, ,  Επηρ. [ΒΑ παῖορϑ18.,  δοοξ,
+see); 542), False eng
+bor., ὕοτ, False eng
+Eng. , False na
+thanatopsis Επηρ. False eng
+], [ΒΑ False na
+look, παῖορϑ18., False na
+# 50 11 12 appearance. αῤῥέαγαμέεέ.
+appearance. αῤῥέαγαμέεέ. False eng
+
+
+# 52 38 37 mwayxpariov,  -ov [was,  all,  xpdros, παγκράτιον,  -ου [πᾶς,  αἰΐ,  κράτος,
+παγκράτιον, mwayxpariov, True pp
+-ου -ov True pp
+[πᾶς, False eng
+all, αἰΐ, False eng
+κράτος, xpdros, True pp
+# 53 34 36 strength],  pancratium,  all-round “ἰγεηρίλ,  ῤαηπεγαΐζεηε,  αἰ γοτεραῖ
+strength], “ἰγεηρίλ, False eng
+pancratium, ῤαηπεγαΐζεηε, False eng
+all-round True lex
+# 54 37 39 contest,  a combination of boxing and . φορέεσί,  ἃ σοταἱηδίϊοη οὗ θοχίηρ δηά
+contest, . False eng
+a φορέεσί, False eng
+combination ἃ False eng
+of σοταἱηδίϊοη False eng
+boxing οὗ False eng
+and θοχίηρ False eng
+# 55 37 37 wrestling,  the severest of all Greek νυ ϑι Πρ,  ἴΠε βενεγαβί οἱ 4}} ασϑεὶς
+wrestling, νυ False eng
+the ϑι False eng
+severest Πρ, False eng
+of ἴΠε False eng
+all βενεγαβί False eng
+Greek True pp
+# 56 39 39 athletic exercises,  calling into play, δἰ ]οῖὶς Ἄχοσοῖβαβ,  οδ Πρ ᾿μἴο ΡΟΪΑΥ͂,
+athletic δἰ False eng
+exercises, ]οῖὶς False eng
+calling Ἄχοσοῖβαβ, False eng
+into οδ False eng
+play, Πρ False eng
+# 57 36 36 as the name denotes,  all the powers ἃ5 ἴῃ πδπὶα ἀεποῖδ8,  4}} [ῆ6 ρον ῖβ
+as ἃ5 False eng
+the ἴῃ False eng
+name πδπὶα False eng
+denotes, ἀεποῖδ8, False eng
+all 4}} False eng
+the [ῆ6 False eng
+powers ρον False eng
+# 58 34 35 of the combatants. Straps were not οἵ {Π6 οοτηρδίδηϊ8. ϑίγδρϑ ψεγθ ποῖ
+of οἵ False eng
+the {Π6 False eng
+combatants. οοτηρδίδηϊ8. False eng
+Straps ϑίγδρϑ False na
+were ψεγθ False eng
+not ποῖ False eng
+# 59 35 34 used on the hands (see on 225,  7), 564 οἡ ἴπε ἤδη45 (566 ΟἹ 225,  7)»
+used 564 False eng
+on οἡ False eng
+the ἴπε False eng
+hands ἤδη45 False eng
+(see (566 False eng
+on ΟἹ False eng
+225, 225, False na
+7), 7)» False na
+# 60 35 34 as they would have been a hindrance 5 ἴεν ψου]ὰ μᾶνα ὕδεη ἃ ῃἰπάτγδῃος
+as 5 False eng
+they ἴεν False eng
+would ψου]ὰ False eng
+have μᾶνα False eng
+been ὕδεη False eng
+a ἃ False eng
+hindrance ῃἰπάτγδῃος False eng
+# 61 33 28 in wrestling; and blows could not ἴπ γί πρ; δηὰ υἱὸν οου]ὰ ποῖ
+in ἴπ False eng
+wrestling; γί False eng
+and πρ; False eng
+blows δηὰ False eng
+could υἱὸν False eng
+not οου]ὰ False eng
+# 62 33 31 be struck with the clenched fist, ΡῈ βίσυςκ σι τῆς οἰεπμομεά δεῖ,
+be ΡῈ False eng
+struck βίσυςκ False eng
+with σι False eng
+the τῆς False eng
+clenched οἰεπμομεά False eng
+fist, δεῖ, False eng
+# 63 35 32 but only with the fingers bent. The θαΐ οὨἿΥ ΜῈ ἴΠῈ ἤηρεῖβ Ὀεηῖ. ΤὨς
+but θαΐ False eng
+only οὨἿΥ False eng
+with ΜῈ False eng
+the ἴΠῈ False eng
+fingers ἤηρεῖβ False eng
+bent. Ὀεηῖ. False eng
+The ΤὨς False na
+# 64 34 32 struggle continued till one of the βἰγαρρὶα σοπίϊηυεά {Π] οἣς οὗ δε
+struggle βἰγαρρὶα False eng
+continued σοπίϊηυεά False eng
+till {Π] False eng
+one οἣς False eng
+of οὗ False eng
+the δε False eng
+# 65 35 42 contestants was completely used up. οοπίεβίδηςβ νγᾶ5 σοτῃ ρ ] εἰ εἰν υϑ6 ἃ ὑρ.
+contestants οοπίεβίδηςβ False eng
+was νγᾶ5 False eng
+completely σοτῃ False eng
+used ρ False eng
+up. ] False eng
+# 66 34 33 wayxadérws [rayxdXeros (ras,  all, παγχαλέπως [παγχάλεπος (πᾶς,  αἰ,
+παγχαλέπως wayxadérws True form
+[παγχάλεπος [rayxdXeros True lex
+(πᾶς, False eng
+all, αἰ, False eng
+# 67 37 30 xarerbs,  dificult),  very dificult], χαλεπός,  ἀἠμεί,  νερν ἀϊμαρῆ,
+χαλεπός, xarerbs, True lex
+dificult), ἀἠμεί, False na
+very νερν False eng
+dificult], ἀϊμαρῆ, False na
+# 68 28 29 adv.,  with great dificully. δᾶν.,  οὐτὰ ργεαΐ αἰ βέεμέξν.
+adv., δᾶν., False eng
+with οὐτὰ False eng
+great ργεαΐ False eng
+dificully. True lex
+
+# 70 39 36 w&0os,  -ovs,  7h [wdoxw,  suffer,  cp. πάθος,  -ους,  τό [πάσχω,  727,  6Ρ.
+πάθος, w&0os, True lex
+-ους, -ovs, True pp
+τό 7h True form
+[πάσχω, [wdoxw, True pp
+suffer, 727, False eng
+cp. 6Ρ. False eng
+# 71 35 37 éraGov; bor.,  Eng. pathos,  homoe- ἔπαθον; Ὀοτ.,  Επρ. ΡῬαΐΒ08,  Βοιηο6-
+ἔπαθον; éraGov; True pp
+bor., Ὀοτ., False eng
+Eng. Επρ. False na
+pathos, ΡῬαΐΒ08, False eng
+homoe- Βοιηο6- False na
+# 72 31 33 opathy,  sympathy],  suffering, ΟΡαΐμγ,  βυπιραῖίγ},  52, 727 γι,
+opathy, ΟΡαΐμγ, False na
+sympathy], βυπιραῖίγ}, False eng
+suffering, 52, False eng
+# 73 21 25 trouble,  misfortune. ἐγοτεόδε,  »ε15 707 2476.
+trouble, ἐγοτεόδε, False eng
+misfortune. »ε15 False eng
+# 74 32 37 wavvitw,  éraduca [radv,  pean], παιᾶνίζω,  ἐπαιάνισα [παιᾶν,  2.671],
+παιανίζω, wavvitw, True pp
+ἐπαιάνισα éraduca True pp
+[παιᾶν, False na
+paean], 2.671], False eng
+# 75 34 38 chant the pean,  sing the war song εὐαρμέ {ἦε ίάαρ,  εἕριρ' τἦ6 τυα’ 5055
+chant εὐαρμέ False eng
+the {ἦε False eng
+paean, ίάαρ, False eng
+sing εἕριρ' False eng
+the τἦ6 False eng
+war τυα’ False eng
+song 5055 False eng
+# 76 33 36 to Apollo or Artemis (see Introd. ἴο Αροὶϊο οὐ Ατίεμηῖὶβ (5ε6 [ηϊτγοά.
+to ἴο False eng
+Apollo Αροὶϊο False na
+or οὐ False eng
+Artemis Ατίεμηῖὶβ False na
+(see (5ε6 False eng
+Introd. True pp
+# 77 32 35 § 66); sing a hymn of thanksgiv- ξ 66); εἵηρ α ἄγρερε οἵ ᾿μῃδηκβρῖν-
+§ ξ False eng
+66); 66); False na
+sing εἵηρ False eng
+a α False eng
+hymn ἄγρερε False eng
+of οἵ False eng
+thanksgiv- ᾿μῃδηκβρῖν- False na
+# 78 4 4 ing. ἴηρ.
+ing. ἴηρ. False eng
+# 79 35 36 marsela,  -ας [macdedw; bor.,  Eng. παιδεία,  -ας [παιδεύω; ὍὈοτ.,  ΕηΡ.
+παιδεία, marsela, True lex
+-ας -ας False na
+[παιδεύω; [macdedw; True pp
+bor., ὍὈοτ., False eng
+Eng. ΕηΡ. False na
+# 80 35 41 cyclopedia],  training,  education. ΟὙὐοϊορθᾶϊ 417,  “΄ αἰγεῖηρ,  σαμεαΐίοτι.
+cyclopedia], ΟὙὐοϊορθᾶϊ False eng
+training, 417, False eng
+education. “΄ False eng
+# 81 40 41 mavsevu,  radevow,  etc. [wails],  train παιδεύω,  παιδεύσω,  εἴο. [παῖς],  “΄ αἱ»
+παιδεύω, mavsevu, True pp
+παιδεύσω, radevow, True pp
+etc. εἴο. False eng
+[παῖς], False eng
+train “΄ False eng
+# 82 22 25 up or educate a child. “7 οἵ ἐάὐμεαίς ἃ. ἙΟὨ1]ά.
+up “7 False eng
+or οἵ False eng
+educate ἐάὐμεαίς False eng
+a ἃ. False eng
+child. ἙΟὨ1]ά. False eng
+# 83 44 43 mavdukd,  -Gy,  Ta [waits],  favorite,  usu- παιδικά,  -ὥν,  τά [παῖς],  ᾿ευογῖζε,  υϑὰ-
+παιδικά, mavdukd, True pp
+-ῶν, False na
+τά Ta True pp
+[waits], [παῖς], False eng
+favorite, ᾿ευογῖζε, False eng
+usu- υϑὰ- False na
+# 84 33 31 ally a boy; with the pl. cp. Lat. ΑἸ ἃ ῬοΥ; νι ἴῃ6 Ρ]. ορ. [, 8ἴ.
+ally ΑἸ False eng
+a ἃ False eng
+boy; ῬοΥ; False eng
+with νι False eng
+the ἴῃ6 False eng
+pl. Ρ]. False eng
+cp. ορ. False eng
+Lat. [, False na
+# 85 30 33 aeliciae,  darling,  favorite. αϑίϊεῖαε,  ἀ(αγίΐηρ,  γα νον τέο.
+feliciae, αϑίϊεῖαε, False na
+darling, ἀ(αγίΐηρ, False eng
+favorite. γα False eng
+# 86 43 43 mavSlov,  -ov [diminutive of wats],  Jetéle παιδίον,  -ου [ἀϊταϊηυἴίνε οὗ παῖς,  ἐΣχεϊδ
+παιδίον, mavSlov, True pp
+-ου -ov True pp
+[diminutive [ἀϊταϊηυἴίνε False eng
+of οὗ False eng
+παῖς], παῖς, False eng
+little ἐΣχεϊδ False na
+# 87 14 15 child,  baby.; εἀτἰά,  δαόγ. .
+child, εἀτἰά, False eng
+baby.; δαόγ. False eng
+# 88 36 38 mwarsioxn,  -ys [diminutive of ais], παιδίσκη,  -ης [ἀϊπηϊπυῖίΐνα οὗ παῖς],
+παιδίσκη, mwarsioxn, True lex
+-ης False na
+[diminutive [ἀϊπηϊπυῖίΐνα False eng
+of οὗ False eng
+παῖς], False eng
+# 89 12 8 little girl, ἐμ ρΊγὶ,
+little ἐμ False eng
+girl, ρΊγὶ, False eng
+# 90 40 40 wats,  ra:dés,  6,  4 [bor.,  Eng. peda- παῖς,  παιδός,  ὁ,  ἡ [Ὀοτ.,  Επρ. Ῥ6ᾶδ-
+παῖς, False eng
+παιδός, ra:dés, True form
+ὁ, 6, True lex
+ἡ 4 True case
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False na
+peda- Ῥ6ᾶδ- False na
