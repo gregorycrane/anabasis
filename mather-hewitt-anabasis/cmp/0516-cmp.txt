@@ -1,8 +1,6 @@
-# 0 3 3 504 504
-504 504 False na
 # 1 36 33 without rod Blov,  end of life,  end νἰπουϊ τοῦ βίου,  Φιώ ὁ ἶε,  ἐμαὶ
 without νἰπουϊ False eng
-rod τοῦ False eng
+τοῦ False eng
 βίου, Blov, True pp
 end Φιώ False eng
 of ὁ False eng
@@ -14,7 +12,7 @@ end ἐμαὶ False eng
 peaceful ρμεδοείαϊ False eng
 end‘). εηα᾽). False na
 # 3 40 41 rede,  reXd and reréou,  érédeoa,  reré- τελέω,  τελῶ Δπὲ τελέσω,  ἐτέλεσα,  τετέ-
-rede, τελέω, False eng
+τελέω, False eng
 τελῶ reXd True pp
 and Δπὲ False eng
 τελέσω, reréou, True pp
@@ -25,9 +23,6 @@ and Δπὲ False eng
 τετέλεσμαι, TeTéNegT True pp
 ἐτελέσθην ua, True pp
 [τέλος], EredéaOny True pp
-[ NA False na
-Tédos NA False na
-}, NA False na
 # 5 34 38 complete; of a debt or other obli- εονη δίείο : οἵ ἃ ἀερῖ οὐ οἴπεγ Οὐ] ]-
 complete; εονη False eng
 of δίείο False eng
@@ -35,7 +30,7 @@ a : False eng
 debt οἵ False eng
 or ἃ False eng
 other ἀερῖ False eng
-οὐ obli- True lex
+obli- True lex
 # 6 13 12 gation,  pay. μαϊίθῃ,  δώ.
 gation, μαϊίθῃ, False na
 pay. δώ. False eng
@@ -45,14 +40,14 @@ pay. δώ. False eng
 τό, 76, True form
 end, εγιἱ, False eng
 result, γέρε, False eng
-oulcome,; οἰ False na
+outcome,; οἰ False na
 # 8 39 39 pl,  magistrates,  as the final author- ].,  »μα σι έγαΐές,  ἃ5 ἴῃς πη] δυϊῆοτ-
 pl, ]., False eng
 magistrates, »μα False eng
 as σι False eng
 the έγαΐές, False eng
 final ἃ5 False eng
-ἴῃς author- True form
+author- True form
 # 9 33 32 ity in the government. Acc. sing. ν ἰπ ἴπὰ μονογηπιοηῖ,  Ασο. βίῃ.
 ity ν False na
 in ἰπ False eng
@@ -63,7 +58,7 @@ sing. βίῃ. False eng
 # 10 28 30 as adv.,  af last,  finally. ἃ" δήν.,  αὐ ἐατό,  βνμαδέν, .
 as ἃ" False eng
 adv., δήν., False eng
-af αὐ False eng
+at αὐ False eng
 last, ἐατό, False eng
 finally. βνμαδέν, False eng
 # 11 45 43 repplvOivos,  -η,  -ov [ répuscvOos,  furpen- τερμίνθινος,  -η,  -ον [τέρμινθος,  “πγῥέη-
@@ -71,21 +66,16 @@ finally. βνμαδέν, False eng
 -η, -η, False na
 -ον -ov True pp
 [τέρμινθος, [ True pp
-“πγῥέη- répuscvOos, True half1g
-furpen- NA False na
+turpen- NA False na
 # 12 27 27 tine tree),  of turpentine. ἡ ἐγ 66},  οὐ ἐπγβεόμέι με.
 tine ἡ False eng
-tree), ἐγ False eng
+tree], ἐγ False eng
 of 66}, False eng
 turpentine. οὐ False eng
-# 13 25 23 rTeraypévot,  see TdT Tw. τεταγμένοι,  Ξες τάττω.
-τεταγμένοι, rTeraypévot, True form
-see Ξες False eng
-τάττω. TdT True pp
-Tw. NA False na
+
 # 14 40 41 rtrapros,  -η,  -ov [rérrapes],  fourth; τέταρτος,  -ή,  -ον [τέτταρες],  Τοηγίά;,
 τέταρτος, rtrapros, True pp
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [τέτταρες], [rérrapes], True pp
 fourth; Τοηγίά;, False eng
@@ -109,18 +99,18 @@ times, “ἱ»65, False eng
 χίλιοι, xt, True lex
 thousand], ἐιοδα»αἾ}, False eng
 four γομεγ False eng
-ἐλοι- thou- True half1g
+thou- True half1g
 # 19 5 6 sand, σ“αμά,
 sand, σ“αμά, False eng
 # 20 40 40 Terpaxdorot,  -ai,  -a [7érrapes],  four τετρακόσιοι,  «αι,  -α [τέτταρες],  7057
 τετρακόσιοι, Terpaxdorot, True lex
--ai, «αι, False na
+-αι, False na
 -α -a True pp
 [τέτταρες], [7érrapes], True pp
 four 7057 False eng
 # 21 38 37 hundred ,; sing. with collective noun, ἀιριαἱγεα ,  βῖτρ. ν ἢ σο]]εςῖνε που,
 hundred ἀιριαἱγεα False eng
-,; , False na
+; , False na
 sing. βῖτρ. False eng
 with ν False eng
 collective ἢ False eng
@@ -128,14 +118,8 @@ noun, σο]]εςῖνε False eng
 # 22 8 7 85,  15. 8ς,  δ.
 85, 8ς, False na
 15. δ. False na
-# 23 23 24 TeTpappévn,  See Tpérw. τετραμμένη,  5Ξεε τρέπω.
-τετραμμένη, TeTpappévn, True form
-See 5Ξεε False na
-τρέπω. Tpérw. True pp
-# 24 27 26 TeTpwptvos,  SCE TITPWOKYW. τετρωμένος,  δεε τιτρώσκω.
-τετρωμένος, TeTpwptvos, True pp
-SCE δεε False na
-τιτρώσκω. TITPWOKYW. True pp
+
+
 # 25 26 24 wrerrapaxovra  [rérrapes], τετταράκοντα [τέτταρες],
 τετταράκοντα wrerrapaxovra True form
 [τέτταρες], [rérrapes], True pp
@@ -145,19 +129,19 @@ forty. )}Ργ. False eng
 τέτταρες, vrérrapes, True pp
 -α, -a, True pp
 gen. γοη. False eng
-«ων -wy True pp
+-ων -wy True pp
 [cogn., [ουὐρῃ., False na
 Lat. [ False na
 # 28 34 32 quattuor,  four,  Eng. feur; bor., αυδίζιοτ,  πγ,  πρ. ἔθυγ; ὕοτ, ,
 quattuor, αυδίζιοτ, False na
 four, πγ, False eng
 Eng. πρ. False eng
-feur; ἔθυγ; False na
+four; ἔθυγ; False na
 bor., ὕοτ, False eng
 # 29 33 33 Eng. tetragon,  tetrarch},  four; Επρ. τοΐταρσομ,  ἰθίγασο},  γρέγ,
 Eng. Επρ. False eng
 tetragon, τοΐταρσομ, False eng
-tetrarch}, ἰθίγασο}, False na
+tetrarch], ἰθίγασο}, False na
 four; γρέγ, False eng
 # 30 25 25 éxl rerrdpwr,  four deep. ἐπὶ τεττάρων,  70:47 ἀδέ.
 ἐπὶ éxl True form
@@ -165,9 +149,9 @@ four; γρέγ, False eng
 four 70:47 False eng
 deep. ἀδέ. False eng
 # 31 37 38 TevOpavia,  -ds,  Zeuthrania,  a dis- Τευθρανία,  -ας,  7 ε::ἀγαμῖα,  4 ἀ15-
-TevOpavia, Τευθρανία, False na
--ds, -ας, False na
-Zeuthrania, 7 False na
+Τευθρανία, False na
+-ας, False na
+Teuthrania, 7 False na
 a ε::ἀγαμῖα, False eng
 dis- 4 False na
 # 32 37 39 trict in western Asia Minor,  includ- (τἰοῖ ἴῃ ψεβίοση Αϑὶα ΝΜ πμοσ,  ᾿ποϊαα-
@@ -184,22 +168,17 @@ famous ίδιηοιυβ False eng
 city ΟΥ̓ False eng
 of οὗ False eng
 Pergamus. Ῥεγρᾶπγαβ. False na
-# 34 24 23 revter Oe,  see TUY Yaw. τεύξεσθε,  Ξεα τυγχάνω.
-τεύξεσθε, revter True form
-Oe, Ξεα False na
-see τυγχάνω. False eng
-TUY NA False na
-Yaw. NA False na
+
 # 35 42 45 téxvn,  -ns [bor.,  Eng. technical,  tech- τέχνη,  -ῆς [Ὀοτ΄.,  Επρ. [ΘΟ ΒηΪ04],  [60 }-
 τέχνη, téxvn, True lex
--ns -ῆς False na
+-ης False na
 [bor., [Ὀοτ΄., False eng
 Eng. Επρ. False eng
 technical, [ΘΟ False eng
 tech- ΒηΪ04], False na
 # 36 35 37 nology],  ar¢,  skill; way,  means. ΠΟΙΟΡΥ],  αγι,  εἀτ,  τύαγ,  Ῥιδα715.
 nology], ΠΟΙΟΡΥ], False na
-ar¢, αγι, False na
+art, αγι, False na
 skill; εἀτ, False eng
 way, τύαγ, False eng
 means. Ῥιδα715. False eng
@@ -212,7 +191,7 @@ long, ἀρ), False eng
 αὐτοὺς adrovs True form
 ἀνα- dva- True half1g
 # 38 34 39 Balvovras,  all the time that they βαίνοντας,  αὐῤ 1206 ἐϊγνι6Ζ τάλαξ ζὰον
-Balvovras, βαίνοντας, False na
+βαίνοντας, False na
 all αὐῤ False eng
 the 1206 False eng
 time ἐϊγνι6Ζ False eng
@@ -222,11 +201,11 @@ they ζὰον False eng
 were τῦ6 False eng
 going 7.6 False eng
 up, ροῖγρ False eng
-τέ, 187, True form
+187, True form
 2. 187, False na
 # 40 34 37 vq (dat. fem. of 6 as dem. pron.], τῇ [ἀ4ἰ. ἔειῃ. οὗ ὁ δ5 ἄδθπ).  ρτοῃ.,
 τῇ vq True lex
-(dat. [ἀ4ἰ. False eng
+[dat. [ἀ4ἰ. False eng
 fem. ἔειῃ. False eng
 of οὗ False eng
 ὁ 6 True lex
@@ -240,11 +219,11 @@ here, ἀεγέ,; False eng
 mev... μὲν... False eng
 τῇ 77 True lex
 δέ, 56, True lex
-2 171 False na
+in 171 False na
 one 0, False eng
 # 42 31 31 respect... tn another,  here... γέρῥέεξ. .. ἵπ αμποίλογ,  ἀεγε.
 respect... γέρῥέεξ. False eng
-tn .. False eng
+in .. False eng
 another, ἵπ False eng
 here... αμποίλογ, False eng
 # 43 6 6 there. Ζλεζε.
@@ -252,16 +231,12 @@ there. Ζλεζε. False eng
 # 44 40 39 ThKw,  -THEW,  -érnta,  TéTynka,  éTaxny τήκω,  -τήξω,  -ἔτηξα,  τέτηκα,  ἐτάκην
 τήκω, ThKw, True pp
 -τήξω, -THEW, True pp
--ἔτηξα, -érnta, True pp
+-έτηξα, -érnta, True pp
 τέτηκα, TéTynka, True pp
 ἐτάκην éTaxny True pp
 # 45 8 9 indecl., ᾿πη460].,
 indecl., ᾿πη460]., False eng
-# 46 6 7 Google (Ποοοῖς
-Google (Ποοοῖς False na
-# 47 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝῸ ΑΝΑΒΑΘΙΘ
-XENOPHON’S ΧΕΝΟΡΗΟΝῸ False na
-ANABASIS ΑΝΑΒΑΘΙΘ False na
+
 # 48 34 37 and ér4xOnv,  melt; intr. in pass. δηὰ ἐτήχθην,  »ιεΐ,  ἰηῖτ, . ἴῇ Ρ458.
 and δηὰ False eng
 ἐτήχθην, ér4xOnv, True pp
@@ -276,10 +251,9 @@ act., δεῖ., False eng
 melt, γε, False eng
 thaw. ζάατυ. False eng
 # 50 44 43 TnrcBéads,  -ov,  7 e/edoas,  a little river Τηλεβόδς,  -ου,  7 εἰφόδας,  ἃ ᾿ἰτ|16 τῖνει
-TnrcBéads, Τηλεβόδς, False na
+Τηλεβόας, False na
 -ου, -ov, True pp
-7 7 False na
-e/edoas, εἰφόδας, False na
+Teledoas, εἰφόδας, False na
 a ἃ False eng
 little ᾿ἰτ|16 False eng
 river τῖνει False eng
@@ -300,11 +274,11 @@ prefix, ῥτγεῆχ, False eng
 + - False na
 ἡμέρα, dpuépa, True lex
 # 54 36 40 day},  to-day,  Lat. hodié,; thy 77- ἀα»γ}],  ἐο-αγ,  1.Αἷ. ἀοαΐϊΐξ,  τὴν τή-
-day}, ἀα»γ}], False na
+day], ἀα»γ}], False na
 to-day, ἐο-αγ, False na
 Lat. 1.Αἷ. False na
 hodié,; ἀοαΐϊΐξ, False na
-thy τὴν False eng
+τὴν False eng
 τή- 77- True half1g
 # 55 38 42 pepov nuepay,  to-day,  Lat. hodiernum μερον ἡμέραν,  ἰο-ἷα»,  1.Αἴ. ἀοαϊδ᾽ 1247)
 μερον pepov True pp
@@ -316,8 +290,8 @@ hodiernum ἀοαϊδ᾽ False na
 diem, αἴἴτρε. False eng
 # 57 39 42 Trpvtrns,  -ov,  Zemnite,  a citizen of Τημνίτης,  -ουὐ,  7 ε»ενι116,  ἃ οἰΖο ἢ οὗ
 Τημνίτης, Trpvtrns, True lem
--ov, -ουὐ, False na
-Zemnite, 7 False na
+-ου, False na
+Temnite, 7 False na
 a ε»ενι116, False eng
 citizen ἃ False eng
 of οἰΖο False eng
@@ -333,8 +307,8 @@ that τλαέ False eng
 time, ΖἼ»ιε, False eng
 then. Ζἀε»ε. False eng
 # 60 36 37 vipa,  -ds,  tiara,  a Persian head- τιάρᾶ,  -ας,  2αγα,  ἃ Ῥετιβίδῃ Βεδά-
-vipa, τιάρᾶ, False na
--ds, -ας, False na
+τιάρᾶ, False na
+-ας, False na
 tiara, 2αγα, False eng
 a ἃ False eng
 Persian Ῥετιβίδῃ False na
@@ -371,7 +345,7 @@ p. Ρ-. False eng
 Τίγρης, Tlypys, True lem
 -ητος, -nros, True pp
 ὁ, 6, True lex
-Zigrts, 7 False na
+Zigris, 7 False na
 a 1ργ]5, False eng
 large ἃ False eng
 river ἰατρα False eng
@@ -404,11 +378,11 @@ instead), πβί684), False eng
 be, θε, False eng
 cogn., οορῃ., False na
 Lat. [, False na
--d6, δἴ. False na
+-do, δἴ. False na
 as -ά, False eng
 in 85 False eng
 # 71 33 38 abdé,  put away,  hide,  Eng. do; δῦᾶδ,  διμημε ατυαν,  ἀϊξωε,  Ἐπρ. ἅο;
-abdé, δῦᾶδ, False na
+abdo, δῦᾶδ, False na
 put διμημε False eng
 away, ατυαν, False eng
 hide, ἀϊξωε, False eng
@@ -419,7 +393,7 @@ bor., Ὀοτ., False eng
 Eng. Επηρ. False eng
 theme, {π6πι|6, False eng
 thesis, [Π|6818, False eng
-Ῥᾶσϑῃ- paren- True half1g
+paren- True half1g
 # 73 29 27 thesis],  put,  place,  rest. [{16518],  2:2,  2αεε,  γε,
 thesis], [{16518], False eng
 put, 2:2, False eng
@@ -433,7 +407,7 @@ games, οὗ False eng
 hold; ράπιθ5, False eng
 # 75 34 39 GécGac ra Srda,  order arms,  halt θέσθαι τὰ ὅπλα,  ογαΐ7,  α»ρ:15,  δα ϊέ
 θέσθαι GécGac True form
-ra τὰ False eng
+τὰ False eng
 ὅπλα, Srda, True pp
 order ογαΐ7, False eng
 arms, α»ρ:15, False eng
@@ -478,7 +452,7 @@ men, θη, False eng
 3; 3; False na
 # 81 34 35 with els rdgey,  get under arms in ψΙΠ εἰς τάξιν,  σοί τγ1127 α’ ὍΣ Σὲ
 with ψΙΠ False eng
-els εἰς False eng
+εἰς False eng
 τάξιν, rdgey, True form
 get σοί False eng
 under τγ1127 False eng
@@ -505,7 +479,7 @@ arms αγρι False eng
 in Ὧρ False eng
 their ἐλεῖγ False eng
 place, 2έαεε, False eng
-t.e. 1.6. False eng
+i.e. 1.6. False eng
 in ἴὰ False eng
 the ἴῃς False eng
 # 85 36 37 camp arsenal,  see 5r)ov),  80,  13. ΟΔΙῺΡ δβεπαὶ,  8εὲ6 ὅπλον),  80,  13.
@@ -520,15 +494,15 @@ see 8εὲ6 False eng
 -ωνος, -wvos, True pp
 Timasion, 7 False na
 of ἡγεασίον;, False eng
-οἵ Dar- True form
+Dar- True form
 # 87 35 36 danus in the Trdad,  elected a gen- ἀᾶπιυβ ἴῃ (ἢς Ττδδά,  εἰεοϊεὰ ἃ Κεη-
 danus ἀᾶπιυβ False na
 in ἴῃ False eng
 the (ἢς False eng
-Ττδδά, Trdad, True pp
+Troad, True pp
 elected εἰεοϊεὰ False eng
 a ἃ False eng
-Κεη- gen- True half1g
+gen- True half1g
 # 88 23 26 eral in the Greek army. εΥἴ8] ἴῃ ἴῃς Οτεεῖκ ΔύσΩΥ.
 eral εΥἴ8] False eng
 in ἴῃ False eng
@@ -545,7 +519,4 @@ honor, ἀογεον, False eng
 hold ἀοδω False eng
 in ἦγε False eng
 honor. ἀοηον, False eng
-# 91 20 23 Tiph,  -7js,  Loner, τὶ μή,  -ῆς, ,  Ζ02107.
-Tiph, τὶ False na
-μή, -7js, True lex
-Loner, -ῆς, False na
+

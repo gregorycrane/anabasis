@@ -1,21 +1,20 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΒΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΒΥ False na
+
 # 1 42 39 TvvonorAdslw [drordiw,  drAoAbEouar,  WAS- συνολολύζω [ὀλολύζω,  ὀλολύξομαι,  ὠλό-
 συνολολύζω TvvonorAdslw True pp
 [ὀλολύζω, [drordiw, True pp
 ὀλολύξομαι, drAoAbEouar, True pp
 ὠλό- WAS- True half1g
 # 2 38 40 Nvéa,  cry aloud,  cogn.,  Lat. ululd, λῦξα,  7») αἰοια,  Ἄσορῃ.,  1, δῖ. 1816,
-λῦξα, Nvéa, True pp
+λυξα, Nvéa, True pp
 cry 7») False eng
 aloud, αἰοια, False eng
 cogn., Ἄσορῃ., False na
 Lat. 1, False na
-ululd, δῖ. False na
+ululo, δῖ. False na
 # 3 38 40 howl,  ulula,  ow/,  Eng. howl,  owl], ἀοτυέ,  1.14,  οτοί,  Επρ. ΒΟῪΣ,  ΟὟὟ]],
 howl, ἀοτυέ, False eng
 ulula, 1.14, False na
-ow/, οτοί, False na
+owl, οτοί, False na
 Eng. Επρ. False eng
 howl, ΒΟῪΣ, False eng
 owl], ΟὟὟ]], False eng
@@ -62,9 +61,8 @@ each ἐαεὰ False eng
 other. οἱἠέγ. False eng
 # 11 43 38 ovvove la,  -ας [cuveru,  be with ],  being συνουσία,  -ας [σύνειμι,  δὲ τυ,  δεῖν
 συνουσία, ovvove True lex
-la, -ας False eng
+-ας False eng
 [σύνειμι, -ας True pp
-δὲ [cuveru, True form
 be τυ, False eng
 with δεῖν False eng
 ], NA False na
@@ -100,7 +98,7 @@ form , False eng
 in ογῆηε False eng
 line 1 False eng
 or ἐμὲ False eng
-tn οὐ False eng
+in οὐ False eng
 battle ἐμ False eng
 # 17 6 8 array. αγ7γ4}7.
 array. αγ7γ4}7. False eng
@@ -114,10 +112,10 @@ Eng. , False eng
 synthesis], ΒΥΠΙΠ65157, False eng
 put 2πή False eng
 logether,; τορείδεγ False na
-mitl., , False na
+mid., , False na
 # 20 29 30 make @ covenant or agreement, »αζέ ὦ «οὐόηαρέ οὐ ἀργεεηιδηέ;
 make »αζέ False eng
-ὦ @ True lex
+a @ True lex
 covenant «οὐόηαρέ False eng
 or οὐ False eng
 agreement, ἀργεεηιδηέ; False eng
@@ -141,9 +139,9 @@ short. σλογέ, False eng
 συντράπεζος, cuvTpamefos, True pp
 -ου -ov True pp
 [τράπεζα, [Tpdrega, True lex
-sfadle], ἑαῤῥε], False na
+table], ἑαῤῥε], False na
 # 25 33 39 fable companion; see dporpdmesos. εἰαὐῤές εογεῤῥαμίορε,  866 ὁμοτράπεζος.
-fable εἰαὐῤές False eng
+table εἰαὐῤές False eng
 companion; εογεῤῥαμίορε, False eng
 see 866 False eng
 ὁμοτράπεζος. dporpdmesos. True pp
@@ -169,7 +167,7 @@ crush. ἐγ]. False eng
 συντυγχάνω cuvTrvyxave True pp
 [τυγχάνω, [ruyxdvw, True pp
 happen], λαῤῥεη7], False eng
-λα- hap- True half1g
+=hap- True half1g
 # 30 37 37 pen upon,  fall in with,  meet,  with 2εηπ τῤορ,  μα ἐμ τοῦτ,  νιδεί,  νι ἢ
 pen 2εηπ False eng
 upon, τῤορ, False eng
@@ -181,7 +179,7 @@ with νι False eng
 # 31 4 4 dat. ἀδί.
 dat. ἀδί. False eng
 # 32 38 40 ovvodedig [wperéw,  help],  contribute συνωφελέῳ [ὠφελέω,  λε{Ρ],  εογιέγἐὀτείε
-ovvodedig συνωφελέῳ False na
+συνωφελέω False na
 [ὠφελέω, [wperéw, True pp
 help], λε{Ρ], False eng
 contribute εογιέγἐὀτείε False eng
@@ -189,17 +187,17 @@ contribute εογιέγἐὀτείε False eng
 to 2ο False eng
 help. ἀεζ. False eng
 # 34 36 37 Lvpakdsaros,  -ov [Zupdxovea,  Syra- Συρᾶκόσιος,  “οὐ [Συράκουσαι,  .5γγα-
-Συρᾶκόσιος, Lvpakdsaros, True pp
--ov “οὐ False na
+Συρακόσιος, Lvpakdsaros, True pp
+-ον “οὐ False na
 [Συράκουσαι, [Zupdxovea, True lex
-.5γγα- Syra- True half1g
+Syra- True half1g
 # 35 38 40 cuse],  Syracisan,  a citizen of Syra- κ256],  5 γγασήεαρ,  ἃ οἰτζεη οὗ ϑὅ'υγα-
 cuse], κ256], False na
-Syracisan, 5 False na
+Syracusan, 5 False na
 a γγασήεαρ, False eng
 citizen ἃ False eng
 of οἰτζεη False eng
-οὗ Syra- True lex
+Syra- True lex
 # 36 36 36 cuse,  an important city on the east οὐυ56,  8 ἱπηροτίδηϊ ΟἿ οἡ ἴῃς δαϑβί
 cuse, οὐυ56, False na
 an 8 False eng
@@ -214,7 +212,7 @@ of οὗ False eng
 Sicily. 5] False na
 # 38 40 40 Lupla,  -ds,  Syria,  a country in Asia, Συρία,  -ας,  δγγία,  ἃ σουπίτυ ἴῃ Αϑἰδ,
 Συρία, Lupla, True lex
--ds, -ας, False na
+-ας, False na
 Syria, δγγία, False na
 a ἃ False eng
 country σουπίτυ False eng
@@ -240,7 +238,7 @@ Arabia, Ατδῦΐϊα, False na
 except εχοερὶ False eng
 Phoenicia Γμοεπηίοῖϊα False na
 and ἀπηα False eng
-Ρα]65- Pales- True half1g
+Pales- True half1g
 # 42 32 32 tine on the Mediterranean coast. πο οὐ ἴδε Μεηήϊιογγαπθδη οοδϑβῖ.
 tine πο False eng
 on οὐ False eng
@@ -258,13 +256,10 @@ to ἴο False eng
 Mesopotamia, Μεβοροίδπηϊα, False na
 74, 74, False na
 23. 23. False na
-# 45 6 7 Google (οορσίς
-Google (οορσίς False na
-# 46 3 3 501 5ΟΙ
-501 5ΟΙ False na
+
 # 47 37 39 Lipros,  -a,  -ov [Zupos],  of Syria, Σύριος,  -ά,  -ον [Σύρος],  ο77 .5γγ1α,
 Σύριος, Lipros, True pp
--ά, -a, True pp
+-α, -a, True pp
 -ον -ov True pp
 [Σύρος], [Zupos], True pp
 of ο77 False eng
@@ -280,7 +275,6 @@ inhabitant ἸΠΠΔΡὶϊδηΐ False eng
 of οὗ False eng
 # 50 8 5 Syria. . τᾶ. .
 Syria. τᾶ. False na
-. . False na
 # 51 38 39 ovppte [péw,  flow],  stream together, συρρέω [ῥέω,  Μοιυ),  «ἰγέανε Τορεζάεν,
 συρρέω ovppte True pp
 [ῥέω, [péw, True pp
@@ -291,18 +285,17 @@ together, Τορεζάεν, False eng
 flock , False eng
 together. Μοεξ False eng
 # 53 39 38 ovoKxevafo [oxevdatw,  oxevdow,  érxed- σνυσκενάζω [σκευάζω,  σκευάσω,  ἐσκεύ-
-σνυσκενάζω ovoKxevafo True pp
+συσκευάζω ovoKxevafo True pp
 [σκευάζω, [oxevdatw, True pp
 σκευάσω, oxevdow, True pp
 ἐσκεύ- érxed- True half1g
 # 54 37 38 aga,  éoxevacuat,  -erxevdoOny,  pre- ασα,  ἐσκεύασμαι,  -εσκενάσθην,  2γεέ-
-aga, ασα, False eng
+ασα, False eng
 ἐσκεύασμαι, éoxevacuat, True pp
--εσκενάσθην, -erxevdoOny, True pp
-2γεέ- pre- True half1g
+-εσκευάσθην, -erxevdoOny, True pp
+pre- True half1g
 # 55 38 38 - pare),  get together; mid.,  pack up . 2αγε],  ρεί ορείλεγ,  ταϊά.,  φαβξ τ
-- . False na
-pare), 2αγε], False eng
+pare], 2αγε], False eng
 get ρεί False eng
 together; ορείλεγ, False eng
 mid., ταϊά., False eng
@@ -315,7 +308,7 @@ things. [Π͵ΠΡ5. False eng
 # 57 38 40 cvordea [ordw,  draw),  draw together, συσπάω [σπάω,  ἀγατυ],  ἰγατου ἐορείδον,
 συσπάω cvordea True pp
 [σπάω, [ordw, True pp
-draw), ἀγατυ], False eng
+draw], ἀγατυ], False eng
 draw ἰγατου False eng
 together, ἐορείδον, False eng
 # 58 13 15 sew together. σευ ἐορείλεν, .
@@ -345,7 +338,7 @@ in ἐγε False eng
 close εἰοδϑ False eng
 formation. γ0γιωΖ072. False eng
 # 63 36 36 overovdalw [cmrovddtw,  make haste], συσπονδάζω [σπουδάζω,  »ιαξε λας(ε],
-συσπονδάζω overovdalw True pp
+συσπουδάζω overovdalw True pp
 [σπουδάζω, [cmrovddtw, True pp
 make »ιαξε False eng
 haste], λας(ε], False eng
@@ -365,7 +358,7 @@ tivity. ζυϊέγ. False na
 make »πμαξέ False eng
 an αὉ False eng
 # 67 36 32 expedition),  join in an expedition. 44 1102,  7οἵρι ἐπε απ δε 2107:.
-expedition), 44 False eng
+expedition], 44 False eng
 join 1102, False eng
 in 7οἵρι False eng
 an ἐπε False eng
@@ -374,16 +367,16 @@ expedition. απ False eng
 συστράτηγος, cvoerparnyos, True pp
 -ου -ov True pp
 [στρατηγός, [orparnyss, True pp
-ρέ72- gen- True half1g
+gen- True half1g
 # 69 24 26 eval ],  fellow-general. ἐγα 1,  κε ἑοτυ-ρεγι6γ αὐ.
-eval ἐγα False eng
+eral ἐγα False eng
 ], 1, False na
 fellow-general. κε False na
 # 70 39 38 cvoerpatriotns,  -ov [orpariirys,  soé- συστρατιώτης,  -ουὐ [στρατιώτης,  50ἐ-
 συστρατιώτης, cvoerpatriotns, True lex
--ov -ουὐ False na
+-ου False na
 [στρατιώτης, [orpariirys, True lex
-soé- 50ἐ- False na
+sol- 50ἐ- False na
 # 71 33 36 dier),  fellow-soldter,  comrade. 4167],  κε ἐοτυ-Ξ οὐδ,  ἐο»17,  “αἴ.
 dier), 4167], False eng
 fellow-soldter, κε False na
@@ -397,7 +390,7 @@ encamp ἐγ: False eng
 encamp ], False eng
 with, ἐηιεαρ False eng
 with εὐ, False eng
-ovv ψ False na
+σύν ψ False na
 and σύν False eng
 # 74 6 6 dat. - ἀδί. “
 dat. ἀδί. False eng
@@ -416,7 +409,7 @@ adv., δάν., False eng
 διαλείποντα dcadelrovra True form
 συ- ov- True half1g
 # 77 33 34 xv6v,  at considerable intervals. χνόν,  αὐ εογ»οῖοδγαῤίο ἐμζεγναΐς.
-xv6v, χνόν, False na
+χνόν, False na
 at αὐ False eng
 considerable εογ»οῖοδγαῤίο False eng
 intervals. ἐμζεγναΐς. False eng
@@ -435,7 +428,6 @@ pro- 270- False na
 # 80 21 21 pitiatory offering. ' 21: αέον»} οὔέγῖηρ. "
 pitiatory 21: False na
 offering. αέον»} False eng
-' οὔέγῖηρ. False na
 # 81 40 41 odayrov,  -ov [cp. opdrrw],  sacrificial σφάγιον,  -ου [ςρΡ. σφάττω],  ἐεαεγὶβεῖαῖ
 σφάγιον, odayrov, True pp
 -ου -ov True pp
@@ -454,12 +446,12 @@ propitiate Ργτορ False eng
 a ταῖς False eng
 deity; ἃ False eng
 omens, ἀθῖγ; False eng
-xal ογεϑρς, False na
+καὶ ογεϑρς, False na
 # 84 36 37 Ta lepa Kaha kal Ta ofdyta Kad,  the τὰ ἱερὰ καλὰ καὶ τὰ σφάγια καλά,  2ἦε
 τὰ Ta True pp
-lepa ἱερὰ False eng
+ἱερὰ False eng
 καλὰ Kaha True form
-kal καὶ False eng
+καὶ False eng
 τὰ Ta True pp
 σφάγια ofdyta True form
 καλά, Kad, True pp
@@ -480,7 +472,7 @@ special ς»ρεεῖα False eng
 propitiatory 2γοῤτέϊαον, False eng
 sac- » False na
 # 87 36 39 rifice were favorable,  91,  23. Cp. γίβες τῦῦργό γανογαῤίρ,  961,  23. (ΟΥ.
-γίβες rifice True pp
+rifice True pp
 were τῦῦργό False eng
 favorable, γανογαῤίρ, False eng
 91, 961, False na
@@ -494,7 +486,7 @@ p. Ὁ. False eng
 45, 45, False na
 footnote. ἰοοϊποῖδ. False eng
 # 89 33 32 tro,  opdiw,  téopata,  erpaypat, ττω,  σφάξω,  ἔσφαξα,  ἔσφαγμαι,
-ττω, tro, True pp
+σφάττω, tro, True pp
 σφάξω, opdiw, True pp
 ἔσφαξα, téopata, True pp
 ἔσφαγμαι, erpaypat, True pp
