@@ -1,9 +1,8 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+
 # 1 39 40 carparns,  -ov,  saévap,  governor of a σατράπης,  -ου,  ταἴγα 2,  φονετποῦ οὗ ἃ
 σατράπης, carparns, True lex
 -ου, -ov, True pp
-saévap, ταἴγα False na
+satrap, ταἴγα False na
 governor 2, False eng
 of φονετποῦ False eng
 a οὗ False eng
@@ -17,7 +16,7 @@ in- ἴῃ- False na
 trusted (τυβίεἀ False eng
 with ψ] False eng
 the 1 False eng
-ἴῃς czvz/ True form
+civil czvz/ True form
 control εἶσ False eng
 of σοπίτο] False eng
 one οὗ False eng
@@ -49,7 +48,7 @@ military τι] False eng
 affairs, ατυ False eng
 and δήδιτθ, False eng
 a ἀμ False eng
-ἃ sec- True lex
+sec- True lex
 # 8 32 33 retary to represent the king and ταοῖδιν ἴο τεργεϑεηΐ ἴῃς Κίηρ δηὰ
 retary ταοῖδιν False na
 to ἴο False eng
@@ -95,14 +94,14 @@ mythical τηγτῃϊς False eng
 race, τᾶς6, False eng
 possessing Ροςβεβϑϑὶῃρ False eng
 animal 8η1π|8] False eng
-σῃδγδοίευὶβ- characteris- True half1g
+characteris- True half1g
 # 15 31 32 tics and human form. Their sen- [1.5 δηὰ δυϊηδῃ ἰοση. ΤΠεὶγ βεη-
 tics [1.5 False eng
 and δηὰ False eng
 human δυϊηδῃ False eng
 form. ἰοση. False eng
 Their ΤΠεὶγ False na
-βεη- sen- True half1g
+sen- True half1g
 # 16 36 38 sual,  bestial nature is represented 5.4],  γθϑιῖαὶ παῖυγε 15 γτερτγεβεηῖεά
 sual, 5.4], False na
 bestial γθϑιῖαὶ False eng
@@ -142,8 +141,7 @@ wine νης False eng
 god. ροί. False eng
 # 21 40 42 @wavrov,  -js,  -o8,  contracted form of σαντοῦ,  -ῆς, ,  -ου,  οσοπίταςῖοα ἔοτῃ οὗ
 σαντοῦ, @wavrov, True pp
--js, -ῆς, False na
--o8, , False na
+-ῆς, False na
 contracted -ου, False eng
 form οσοπίταςῖοα False eng
 of ἔοτῃ False eng
@@ -182,7 +180,7 @@ your 7014), False eng
 own. οτῦ». False eng
 # 27 32 30 capitis,  -és,  clear,  evident. σαφής,  -ἔς,  εὐεαγ,  ουτοΐογ,
 σαφής, capitis, True lex
--és, -ἔς, False na
+-ές, False na
 clear, εὐεαγ, False eng
 evident. ουτοΐογ, False eng
 # 28 38 37 wages [cadijs],  adv.,  clearly,  evi- σαφῶς [σαφής],  δάν.,  εἰδαγίν,  ευὶ-
@@ -190,16 +188,13 @@ wages σαφῶς False eng
 [σαφής], [cadijs], True lex
 adv., δάν., False eng
 clearly, εἰδαγίν, False eng
-ευὶ- evi- True half1g
+evi- True half1g
 # 29 32 31 dently; surely,  with certainty. αἰδρέζ,  σπγεῖν,  τυ ἐογέα την.
 dently; αἰδρέζ, False na
 surely, σπγεῖν, False eng
 with τυ False eng
 certainty. ἐογέα False eng
-# 30 22 21 weavtrod,  see caurod. σεαντοῦ,  566 σαντοῦ.
-σεαντοῦ, weavtrod, True pp
-see 566 False eng
-σαντοῦ. caurod. True pp
+
 # 31 38 36 onpalva,  onuavd,  édortpnva,  cechpa- σημαίνω,  σημανῶ,  ἐσήμηνα,  σεσήμα-
 σημαίνω, onpalva, True pp
 σημανῶ, onuavd, True pp
@@ -230,7 +225,6 @@ impers. ᾿τρογβ. False eng
 (sc. (5ς. False eng
 ὁ 6 True lex
 σαλπικτής, cadwixT True lem
-Hs, ΠΡ. False na
 Cp. 197, False na
 197, 1)» False na
 1), NA False na
@@ -249,8 +243,8 @@ signal; εἰρπαΐ;, False eng
 standard, “ἴαπάαγα, False eng
 # 39 37 35 onoedpivos,  -η,  -ov [ojocapov],  of σησάμινος,  -ή,  “ον [σήσαμον],  οἵ
 σησάμινος, onoedpivos, True pp
--ή, -η, True pp
-“ον -ov True pp
+-η, True pp
+-ον -ov True pp
 [σήσαμον], [ojocapov], True pp
 of οἵ False eng
 # 40 7 10 sesame, 5654 7716.
@@ -276,17 +270,14 @@ which νῃϊοῦῆ False eng
 an ἂῃ False eng
 oil οἱ False eng
 is 15. False eng
-ὑτο- pro- True half1g
+pro- True half1g
 # 44 6 6 duced. ἀμοεά.
-ἀμοεά. duced. True pp
-# 45 6 8 Google (Θοορσίς
-Google (Θοορσίς False na
-# 46 3 3 495 495
-495 495 False na
+duced. True pp
+
 # 47 39 43 otyh,  -is,  stlence; dat. as adv.,  in σϊγή,  -ῆς, ,  οἰόμεθ,  ἀδῖ. 8458 δᾶν.,  ἐς
-otyh, σϊγή, False na
--is, -ῆς, False na
-stlence; , False na
+σιγή, False na
+-ῆς, False na
+silence; , False na
 dat. οἰόμεθ, False eng
 as ἀδῖ. False eng
 adv., 8458 False eng
@@ -303,21 +294,21 @@ cp. ΟΡ. False eng
 Hebrew ΗΘ False na
 # 50 41 42 shekel),  sigdus,  a coin current in Per- σἤεξείν),  ετρέϊς,  ἃ οοῖῃ συγγοηΐ ἴῃ Ῥετ-
 shekel), σἤεξείν), False eng
-sigdus, ετρέϊς, False na
+siglus, ετρέϊς, False na
 a ἃ False eng
 coin οοῖῃ False eng
 current συγγοηΐ False eng
 in ἴῃ False eng
-Ῥετ- Per- True half1g
+Per- True half1g
 # 51 34 35 sia,  according to Xenophon equiv. 818,  δοοογαϊῃρ ἴο Χϑποόρβου δαυΐν.
 sia, 818, False eng
 according δοοογαϊῃρ False eng
 to ἴο False eng
-Χϑποόρβου Xenophon True pp
+Xenophon True pp
 equiv. δαυΐν. False eng
 # 52 35 38 to 73 Attic obols,  about 22 cents. ἴο 72} Αἴζίς ονο]5,  ἃἀρουξ 22 σδθηΐβ.
 to ἴο False eng
-73 72} False na
+7.5 72} False na
 Attic Αἴζίς False na
 obols, ονο]5, False eng
 about ἃἀρουξ False eng
@@ -326,7 +317,7 @@ cents. σδθηΐβ. False eng
 # 53 39 42 Dekvovios,  -ov [Zixvwy,  Sicion],  Si- Σικνώνιος,  -ου [Σικνών,  «51ε}ο7:},  .5]-
 Σικνώνιος, Dekvovios, True pp
 -ου -ov True pp
-[Zixvwy, [Σικνών, False na
+[Σικνών, False na
 Sicion], «51ε}ο7:}, False na
 Si- .5]- False na
 # 54 38 39 cyonian,  a citizen of Sicyon,  an im- φ“γογιῖαρ,  ἃ οἰτΖεῃ οὗ δίογομ,  Δ 1π}-
@@ -336,23 +327,23 @@ citizen οἰτΖεῃ False eng
 of οὗ False eng
 Sicyon, δίογομ, False na
 an Δ False eng
-1π}- im- True half1g
+im- True half1g
 # 55 26 26 portant city near Corinth. Ροτγίδηϊ οἴἵγ πεᾶγ (ουι τ.
 portant Ροτγίδηϊ False na
 city οἴἵγ False eng
 near πεᾶγ False eng
 Corinth. (ουι False na
 # 56 39 37 Lidadves,  -ov,  Sildnus,  a soothsayer Σιλᾶνός,  -ου,  “ηἰἄρτ5,  ἃ Βοοίβδυοσ
-Σιλᾶνός, Lidadves, True pp
+Σιλανός, Lidadves, True pp
 -ου, -ov, True pp
-Sildnus, “ηἰἄρτ5, False na
+Silanus, “ηἰἄρτ5, False na
 a ἃ False eng
 soothsayer Βοοίβδυοσ False eng
 # 57 14 17 from Ambracia. ἔτοιῃη Αταῦγδοϊδ.
 from ἔτοιῃη False eng
 Ambracia. Αταῦγδοϊδ. False na
 # 58 35 33 otvopat (Ionic word,  used in Attic σένομαι (Ἰοηϊς νοτά,  υϑεά ἴῃ Αἰς
-σένομαι otvopat True pp
+σίνομαι otvopat True pp
 (Ionic (Ἰοηϊς False na
 word, νοτά, False eng
 used υϑεά False eng
@@ -370,17 +361,17 @@ harm, λα», False eng
 injure. 1717147 False eng
 # 61 35 36 Livetets,  -dws [Livwryn,  Sindpe), Σινωπεύς,  -ἐως [Σινώπη,  .5ἐ»026ε],
 Σινωπεύς, Livetets, True lex
--dws -ἐως False na
+-έως False na
 [Σινώπη, [Livwryn, True lex
-Sindpe), .5ἐ»026ε], False na
+Sinope], .5ἐ»026ε], False na
 # 62 40 42 Sinopéean,  a citizen of Sindpe,  a col- , δέμοῤδαρι,  ἃ οἰτΊΖεη οὗ Βίηδρο,  ἃ (0]-
 Sinopéean, , False na
 a δέμοῤδαρι, False eng
 citizen ἃ False eng
 of οἰτΊΖεη False eng
-οὗ Sindpe, True lex
+Sinope, True lex
 a Βίηδρο, False eng
-ἃ col- True lex
+col- True lex
 # 63 30 30 ony of Miletus on the southern ΟἿΥ οὗ Μιϊεῖαβ οὐ ἴῃς βουϊβοτῃ
 ony ΟἿΥ False eng
 of οὗ False eng
@@ -395,7 +386,7 @@ the {πε False eng
 Black ΒΊδοκΚ False na
 Sea. 868. False na
 # 65 28 28 airloy,  -ov [otros],  food. σϊτίον,  -ου [σῖτος],  Μροί,
-σϊτίον, airloy, True pp
+σιτίον, airloy, True pp
 -ου -ov True pp
 [σῖτος], [otros], True pp
 food. Μροί, False eng
@@ -410,7 +401,7 @@ grain, φ᾽αἴνν, False eng
 food; γχροα, False eng
 pl. Ρ]. False eng
 σῖτα, otra, True form
-Ρροά; jood; True pp
+food; True pp
 σῖτος otros True pp
 # 68 23 24 perlyns,  millet bread, μελίνης,  »εϊδέρί ὀγεαί,
 μελίνης, perlyns, True form
@@ -418,12 +409,12 @@ millet »εϊδέρί False eng
 bread, ὀγεαί, False eng
 # 69 41 41 Lirrdkn,  -ns,  Sitiacé,  a city of Baby- Σιττάκη,  -ῆς,  δἰ “ἄεδ,  ἃ ΟἸΕΥ οὗ ΒΑΡγ-
 Σιττάκη, Lirrdkn, True lem
--ns, -ῆς, False na
+-ης, False na
 Sitiacé, δἰ False na
 a “ἄεδ, False eng
 city ἃ False eng
 of ΟἸΕΥ False eng
-οὗ Baby- True lex
+Baby- True lex
 # 70 24 22 lonia,  near the Tigris. Ἰοηΐα,  δῦ ἴῃε ΤΊρτ 5.
 lonia, Ἰοηΐα, False na
 near δῦ False eng
@@ -438,12 +429,12 @@ Tigris. ΤΊρτ False na
 πηκα, anka, True pp
 -εσιωπήθην -ecwwmnOny True pp
 [σιωπή, [owmrh, True lex
-selence), σζοηεε], False na
+selence], σζοηεε], False na
 # 73 10 10 be stlent. ὧς “1ἐργ1,
 be ὧς False eng
-stlent. “1ἐργ1, False na
+silent. “1ἐργ1, False na
 # 74 37 37 oKeddvvtpt,  oxedd,  écxédaca,  éoxé- σκεδάννῦμι,  σκεδῶ,  ἐσκέδασα,  ἐσκέ-
-σκεδάννῦμι, oKeddvvtpt, True pp
+σκεδάννυμι, oKeddvvtpt, True pp
 σκεδῶ, oxedd, True pp
 ἐσκέδασα, écxédaca, True pp
 ἐσκέ- éoxé- True half1g
@@ -465,8 +456,8 @@ leg. ἦδρ. False eng
 σκεπτέον oKerrréov True pp
 (verbal (νεῖ False eng
 of α] False eng
-οὗ oxémrropac), True lex
-σκέπτομαι), neces- True pp
+σκέπτομαι), 
+neces- True pp
 # 79 17 18 sary to consider. 527.) ἐο εομ οἶδ),
 sary 527.) False na
 to ἐο False eng
@@ -498,7 +489,7 @@ bor., οτ., False eng
 # 84 37 39 Eng. skeptic],  /ook carefully,  see, Επρ. βΒΚαρίϊο7,  δροζ εαγεζείζ, ,  566,
 Eng. Επρ. False eng
 skeptic], βΒΚαρίϊο7, False eng
-/ook δροζ False na
+look δροζ False na
 carefully, εαγεζείζ, False eng
 see, , False eng
 # 85 28 30 observe; consider,  reflect. οὐξογύξ,  εογι51εἶθ),  γεμεεί,
@@ -506,17 +497,17 @@ observe; οὐξογύξ, False eng
 consider, εογι51εἶθ), False eng
 reflect. γεμεεί, False eng
 # 86 29 33 oKevt,  -7s,  dress,  attire. σκενή,  -ῆς, ,  οὐγέ55,  αὐζ17.6.
-oKevt, σκενή, False na
--7s, -ῆς, False na
+σκευή, False na
+-ῆς, False na
 dress, , False eng
 attire. οὐγέ55, False eng
 # 87 42 45 oxetos,  -ous,  76,  tplement,  pl.,  bag- σκεῦος,  -ους,  τό,  Τ»ιβέρνιφηξ,  ὉΪ.,  δαρ-
 σκεῦος, oxetos, True pp
 -ους, -ous, True pp
 τό, 76, True form
-tplement, Τ»ιβέρνιφηξ, False na
+implement, Τ»ιβέρνιφηξ, False na
 pl., ὉΪ., False eng
-δαρ- bag- True half1g
+bag- True half1g
 # 88 33 36 gage,  outfit,  Lat. impedimenta, φαρέ,  οτίβέ,  Τιαῖ. τη δοαϊΓρεθηέα,
 gage, φαρέ, False eng
 outfit, οτίβέ, False eng
@@ -525,9 +516,8 @@ impedimenta, τη False eng
 # 89 35 36 wKevohopéw,  sKxevodopycw [oKevodd- σκενοφορέω,  σκευοφορήσω [ σσκενοφό-
 σκενοφορέω, wKevohopéw, True pp
 σκευοφορήσω sKxevodopycw True pp
-[oKevodd- [ False na
+[σκενοφό- [ False na
 # 90 22 24 pos ],  carry bagyage. ρος},  “α77.}) ὀαρσναρέ.
-pos ρος}, False eng
-], “α77.}) False na
+ρος], False eng
 carry ὀαρσναρέ. False eng
-bagyage. NA False na
+baggage. NA False na

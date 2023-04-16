@@ -3,43 +3,34 @@ VOCABULARY ΝΟΓΟΑΒΌΙΑΚΥ False na
 # 1 41 44 an enemy,  defray,  desert,  be false vo, Δ ΘὨΘΙΩΥ͂,  δε» 4},  αἷε56γ 1,  δὲ γαΐδε το,
 an Δ False eng
 enemy, ΘὨΘΙΩΥ͂, False eng
-defray, δε» False eng
+betray, δε» False eng
 desert, 4}, False eng
 be αἷε56γ False eng
 false 1, False eng
-vo, δὲ False eng
+to, δὲ False eng
 # 2 11 14 Lat. prddo. 1, Αἱ. 2γδαΐδ.
 Lat. 1, False na
-prddo. Αἱ. False na
+prodo. Αἱ. False na
 # 3 39 39 awpoddérns,  -ov [wpodldwu),  detrayer, προδότης,  -ουὐ [προδίδωμι},  δείγαγεν,
 προδότης, awpoddérns, True lex
--ov -ουὐ False na
-[wpodldwu), [προδίδωμι}, False na
-detrayer, δείγαγεν, False na
+-ov -ου False na
+[προδίδωμι], False na
+betrayer, δείγαγεν, False na
 # 4 8 7 trattor. Ζγαΐο7.
-trattor. Ζγαΐο7. False na
-# 5 30 29 awpodpapdvres,  see rporpéexw. προδραμόντες,  ΞεεΕ προτρέχω.
-προδραμόντες, awpodpapdvres, True pp
-see ΞεεΕ False eng
-προτρέχω. rporpéexw. True pp
+traitor. Ζγαΐο7. False na
+
 # 6 38 42 apoSpoph,  -is (cp. dpduos,  running}, προδρομή,  -ῆς,  [ςρΡ. δρόμος,  γωγ» 1710,
 προδρομή, apoSpoph, True lex
--is -ῆς, False na
+-ῆς, False na
 (cp. [ςρΡ. False eng
 δρόμος, dpduos, True pp
-running}, γωγ» False na
+running), γωγ» False na
 # 7 24 26 running forward,  sally, γ16γι7117ιρ )0γυα7 4,  τα.
 running γ16γι7117ιρ False eng
 forward, )0γυα7 False eng
 sally, 4, False eng
-# 8 22 22 mpode,  see mpodldwuc, προδῶ,  5εε προδίδωμι.
-προδῶ, mpode, True pp
-see 5εε False eng
-προδίδωμι. mpodldwuc, True pp
-# 9 23 24 apoetdov,  see mpoopdw. προεῖδον,  5Ξεε προοράω.
-προεῖδον, apoetdov, True pp
-see 5Ξεε False eng
-προοράω. mpoopdw. True pp
+
+
 # 10 35 38 mpoape (elu,  go],  go forward,  go πρόειμι [εἶμι,  ρ0],  ρὸ “ογευαγῶ,  φῸ
 πρόειμι mpoape True pp
 [εἶμι, (elu, True pp
@@ -53,7 +44,7 @@ advance. σὐνγαεό. False eng
 # 12 44 40 apocitrov [elxov,  fell],  tell forth,  pro- προεῖπον [εἶπον,  εἰ],  εὐ , ογέλ,  270-
 προεῖπον apocitrov True pp
 [εἶπον, [elxov, True pp
-fell], εἰ], False eng
+tell], εἰ], False eng
 tell εὐ False eng
 forth, , False eng
 pro- ογέλ, False na
@@ -61,10 +52,7 @@ pro- ογέλ, False na
 claim, εἰαἕ»ι, False eng
 give ρίυδ False eng
 orders. 071475. False eng
-# 14 27 28 TWpocathKe,  see rpotornmu, προειστήκει,  5ε6 προΐστημι.
-προειστήκει, TWpocathKe, True form
-see 5ε6 False eng
-προΐστημι. rpotornmu, True pp
+
 # 15 40 43 wpoctatve [é\avvw,  drive,  ride],  ride προελαύνω [ἐλαύνω,  ἐἰγῖνε,  γἱαἶ2],  γἹαΐξ
 προελαύνω wpoctatve True pp
 [ἐλαύνω, [é\avvw, True pp
@@ -83,38 +71,31 @@ go ρὺ False eng
 forward, 7)ογιυαγα, False eng
 # 18 8 8 advance. αάναρεε.
 advance. αάναρεε. False eng
-# 19 23 24 apoto Oat,  see mpotnut προέσθαι,  5Ξεε προΐημι.
-προέσθαι, apoto True form
-Oat, 5Ξεε False na
-see προΐημι. False eng
-mpotnut NA False na
+
 # 20 37 40 wpoéxw [Exw,  have],  have the advan- προέχω [ἔχω,  λανε]),  λανε ζτὰὲ6 αὐναρ-
 προέχω wpoéxw True pp
 [ἔχω, [Exw, True pp
 have], λανε]), False eng
 have λανε False eng
 the ζτὰὲ6 False eng
-αὐναρ- advan- True half1g
+advan- True half1g
 # 21 5 5 tage. ἔαρε.
 tage. ἔαρε. False na
-# 22 23 22 m@porjet,  see wpderus, προήξει,  566 πρόειμι.
-m@porjet, προήξει, False na
-see 566 False eng
-πρόειμι. wpderus, True pp
+
 # 23 36 36 awpo8tptonar,  mpodiuyoowac and fut. προθυμέομαι,  προθῦμήσομαι δῃαὰ ἴαϊ.
 προθυμέομαι, awpo8tptonar, True pp
-προθῦμήσομαι mpodiuyoowac True pp
+προθυμήσομαι mpodiuyoowac True pp
 and δῃαὰ False eng
 fut. ἴαϊ. False eng
 # 24 36 39 pass. rpodvpnOjoouat as mid.,  wpov- Ρ8ᾶ535. τροθυμηθήσομαι 85 τηϊή.,  πρου-
 pass. Ρ8ᾶ535. False eng
-τροθυμηθήσομαι rpodvpnOjoouat True pp
+προθυμηθήσομαι rpodvpnOjoouat True pp
 as 85 False eng
 mid., τηϊή., False eng
 πρου- wpov- True half1g
 # 25 34 36 GuuHOnv [wpddvpos],  be zealous or θυμήθην [πρόθῦμος},  ὁεφ φτεαἠοτ5 οἵ
 θυμήθην GuuHOnv True pp
-[wpddvpos], [πρόθῦμος}, False na
+[πρόθυμος], False na
 be ὁεφ False eng
 zealous φτεαἠοτ5 False eng
 or οἵ False eng
@@ -134,40 +115,33 @@ or οὐ False eng
 with ψ False eng
 inf. τῇ False eng
 # 28 40 38 apoupla,  -ας [wpddvuos],  zeal,  ardor. προθυμίᾷ,  -ας [πρόθῦμος,  “ταἱ,  γον.
-apoupla, προθυμίᾷ, False na
+προθυμία, False na
 -ας -ας False na
 [πρόθῦμος, [wpddvuos], True pp
 zeal, “ταἱ, False eng
 ardor. γον. False eng
 # 29 43 43 apdo0tpos,  -o» [Oiuds,  spirit],  forwara- πρόθυμος,  -ον [θῦμός,  .61γ11},  “ογτυαγα-
 πρόθυμος, apdo0tpos, True pp
--ον -o» True pp
-[θῦμός, [Oiuds, True pp
+-ου -o» True pp
+[θυμός, [Oiuds, True pp
 spirit], .61γ11}, False eng
-“ογτυαγα- forwara- True half1g
+forward-spirited, True half1g
 # 30 35 37 spirited,  eager,  zealons,  ready. 521 γζεα,  φαρε»,  σφαῤοτδς,  γεαώνγ.
-spirited, 521 False eng
 eager, γζεα, False eng
-zealons, φαρε», False na
+zealous, φαρε», False na
 ready. σφαῤοτδς, False eng
 # 31 40 39 arpoOtpas [mpd0vuos],  adv.,  zealously, προθύμως [πρόθῦμος],  δἄν.,  “εαζοτεῖν,
 προθύμως arpoOtpas True form
-[πρόθῦμος], [mpd0vuos], True pp
+[πρόθυμος], [mpd0vuos], True pp
 adv., δἄν., False eng
 zealously, “εαζοτεῖν, False eng
 # 32 18 17 eagerly,  readily. ἐαρεγῖν,  γεααϊν.
 eagerly, ἐαρεγῖν, False eng
 readily. γεααϊν. False eng
-# 33 25 24 arpotSouev,  see mpoopdw. προΐδοιεν,  8ε6 προοράω.
-προΐδοιεν, arpotSouev, True form
-see 8ε6 False eng
-προοράω. mpoopdw. True pp
-# 34 24 23 arpotévat,  see mpdecut. προϊέναι,  566 πρόειμι.
-προϊέναι, arpotévat, True form
-see 566 False eng
-πρόειμι. mpdecut. True pp
+
+
 # 35 36 38 arpotnpt [tnur,  send],  send forth; προίΐημι [ἴημι,  “2;47],  “.μ4 φτογίλ;
-προίΐημι arpotnpt True pp
+προΐημι arpotnpt True pp
 [ἴημι, [tnur, True pp
 send], “2;47], False eng
 send “.μ4 False eng
@@ -189,13 +163,12 @@ surrender, γτδ, False eng
 abandon. ΣΦ) False eng
 # 38 35 37 apototnpe [lornut,  cause to stand, προΐστημι [ἵἴστημι,  εατ56 10 σἰαρια,
 προΐστημι apototnpe True pp
-[ἵἴστημι, [lornut, True pp
+[ἵστημι, [lornut, True pp
 cause εατ56 False eng
 to 10 False eng
 stand, σἰαρια, False eng
 # 39 42 39 set ],  place at the head of,  set over ,; σ67},  2έαες οὐ Τ1ἦε ἀεαα οἵ,  56: οὐδ,
-set σ67}, False eng
-2έαες ], True pp
+set], σ67}, False eng
 place οὐ False eng
 at Τ1ἦε False eng
 the ἀεαα False eng
@@ -203,7 +176,7 @@ head οἵ, False eng
 of, 56: False eng
 set οὐδ, False eng
 over NA False eng
-,; NA False na
+; NA False na
 # 40 43 42 mid.,  with 2 aor.,  pf.,  and plupf. act., τηϊά.,  ἢ 2 δού.,  ρί.,  δηα ρἱ αρί. δοῖ.,
 mid., τηϊά., False eng
 with ἢ False eng
@@ -236,12 +209,7 @@ cover εοὐε7᾽ False eng
 before, ὀεφγογε, False eng
 cover εὐνῇ False eng
 over. οὐ7. False eng
-# 45 6 6 Google (Οοσὶς
-Google (Οοσὶς False na
-# 46 1 1 q ς
-q ς False eng
-# 47 3 3 4gt 491
-4gt 491 False na
+
 # 48 32 32 wpoxataxale [xalw,  burn],  burn προκατακαίω [καίω,  ὁη7:1),  ὁπ,
 προκατακαίω wpoxataxale True pp
 [καίω, [xalw, True pp
@@ -257,7 +225,7 @@ burn, ὀπγι. False eng
 # 50 32 32 wpoxatadapBava [AauBdvw,  sake], προκαταλαμβάνω [λαμβάνω,  {αἐεῆ,
 προκαταλαμβάνω wpoxatadapBava True pp
 [λαμβάνω, [AauBdvw, True pp
-sake], {αἐεῆ, False eng
+take], {αἐεῆ, False eng
 # 51 34 35 seize before some one else,  seize δεῖζέ ὀφ)ογ ϑοῖὴὼθ οὔθ εἶδε,  δείζέ
 seize δεῖζέ False eng
 before ὀφ)ογ False eng
@@ -275,9 +243,9 @@ see δε6 False eng
 βάνω. Bdavw. True pp
 # 55 42 40 IIpoxAfis,  -¢ous,  6,  Procles,  governor Προκλῆς,  -ἔους,  ὁ,  γοείξες,  βΟνΕΥΠΟΣ
 Προκλῆς, IIpoxAfis, True lex
--ἔους, -¢ous, True pp
+-έους, -¢ous, True pp
 ὁ, 6, True lex
-γοείξες, Procles, True pp
+Procles, True pp
 governor βΟνΕΥΠΟΣ False eng
 # 56 37 41 of Teuthrania,  a district in western οὗ Τουϊῃτδηΐα,  4 αἰϊδίγιοϊς ἴῃ τυϑβϑΐοσῃ
 of οὗ False eng
@@ -320,13 +288,12 @@ p. Ρ. False eng
 # 62 42 41 II pdfevos,  -ov,  Proxénus,  of Thebes in Πρόξενος,  -ου,  δ»οχξἕγ5,  οἵ ΤΠΘΌ 65 ἴῃ
 Πρόξενος, II True pp
 -ου, pdfevos, True pp
--ov, δ»οχξἕγ5, False na
-οἵ Proxénus, True form
+Proxénus, True form
 of ΤΠΘΌ False eng
 Thebes 65 False na
 in ἴῃ False eng
 # 63 36 37 Boedtia,  one of the Greek generals, Βοεδιίϊα,  οὔς οἱ ἴπε ατεεκ ρεηθγαΐβ,
-Boedtia, Βοεδιίϊα, False na
+Boeοtia, Βοεδιίϊα, False na
 one οὔς False eng
 of οἱ False eng
 the ἴπε False eng
@@ -339,11 +306,7 @@ personal ρΡεῦβοῃδὶ False eng
 friend ἔγταπα False eng
 of οἵ False eng
 Xenophon. Χεπορδοη. False na
-# 65 24 22 mpootro,  see mpotnut. . προοῖτο,  566 προΐημι.
-προοῖτο, mpootro, True form
-see 566 False eng
-προΐημι. mpotnut. True pp
-. NA False na
+
 # 66 42 41 mpoopdw [dpdw,  see],  see before oneself, προοράω [ὁράω,  546},  5:6 δέον ογεετοῖν,
 προοράω mpoopdw True pp
 [ὁράω, [dpdw, True pp
@@ -379,7 +342,6 @@ dat, ἀδῖ, False eng
 # 72 43 39 apotrovéw [ rovéw,  toil],  toil for,  with προπονέω [πονέω,  4ο141,  ἐοἱἠ 20γ,  ΤᾺ
 προπονέω apotrovéw True pp
 [πονέω, [ True pp
-rovéw, 4ο141, False na
 toil], ἐοἱἠ False eng
 toil 20γ, False eng
 for, ΤᾺ False eng
@@ -436,7 +398,7 @@ the 16 False eng
 direction αγεσΐον False eng
 of. οδ, False eng
 # 81 39 37 With dat.,  facing; beside,  near,  by, ἢ ἐδῖ.,  , αεῖηρ,  δοοταΐ,  πα),  ὅν,
-ἢ With True lem
+With True lem
 dat., ἐδῖ., False eng
 facing; , False eng
 beside, αεῖηρ, False eng
@@ -456,8 +418,8 @@ besides. ὀφεϊαἷδε. False eng
 # 84 37 37 With acc.,  40 @ position facing,  of ΔΊ δος.,  το ὦ δοοίίίονι  αεῖγιρ,  οὗ
 With ΔΊ False na
 acc., δος., False eng
-40 το False na
-ὦ @ True lex
+to το False na
+a @ True lex
 position δοοίίίονι False eng
 facing, αεῖγιρ, False eng
 of οὗ False eng
@@ -470,8 +432,8 @@ relation τα]δίίοη False eng
 ἐπί éml True lex
 # 86 38 43 and mapa),  fowards,  to,  against; in Δη παράν,  Τοτυαγεΐς,  ἔο,  αἀραϊηιδέ,  171
 and Δη False eng
-mapa), παράν, False na
-fowards, Τοτυαγεΐς, False na
+παρά), παράν, False na
+towards, Τοτυαγεΐς, False na
 to, ἔο, False eng
 against; αἀραϊηιδέ, False eng
 in 171 False eng
@@ -486,7 +448,7 @@ to, γοέα False eng
 # 88 38 41 with a wew to,  for; with,  near,  at, πο ἃ τότὺ ἐο,  09» ν᾿ τοῖίλ,  πισαῦ,  σέ,
 with πο False eng
 a ἃ False eng
-wew τότὺ False na
+view τότὺ False na
 to, ἐο, False eng
 for; 09» False eng
 with, ν᾿ False eng
@@ -502,10 +464,10 @@ a 1 False eng
 # 90 35 36 friendly way; wpds Td... elvac,  tn , Ίονων τυὰν,  πρὸς τὸ... εἶναι,  72
 friendly , False eng
 way; Ίονων False eng
-wpds τυὰν, False na
 πρὸς Td... True form
 τὸ... elvac, True form
-tn εἶναι, False eng
+εἶναι, False eng
+in
 # 91 12 13 order to be, ογαἶ 7 το ὧδ.
 order ογαἶ False eng
 to 7 False eng

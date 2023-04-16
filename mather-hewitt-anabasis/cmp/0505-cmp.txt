@@ -200,10 +200,7 @@ pass., ρᾶ55., False eng
 run], γ21], False eng
 run γ147 False eng
 forward. 70γευα᾽ False eng
-# 34 30 30 mpovdedmKerav,  see mpodidwut. προυδεδώκεσαν,  5εε προδίδωμι.
-προυδεδώκεσαν, mpovdedmKerav, True form
-see 5εε False eng
-προδίδωμι. mpodidwut. True pp
+
 # 35 37 39 wpopalve [palyw,  show],  show forth; προφαίνω [φαίνω,  «ἀοτυ),  σἤοτυ γογίζ,
 προφαίνω wpopalve True pp
 [φαίνω, [palyw, True pp
