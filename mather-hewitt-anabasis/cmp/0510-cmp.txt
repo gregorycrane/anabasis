@@ -1,0 +1,496 @@
+
+# 1 43 43 dition,  make war,  take the field,  serve, ἀἰίον,  πα ἐξ τυαν,  ἐαξε ὑλε βοίω,  τεγυε,
+dition, ἀἰίον, False eng
+make πα False eng
+war, ἐξ False eng
+take τυαν, False eng
+the ἐαξε False eng
+field, ὑλε False eng
+serve, βοίω, False eng
+# 2 35 35 marcA,  the act. being used of com- »"αγιἢ,  τὰς δοῖς θεῖηρ 5. οὐ οὐτη-
+march, »"αγιἢ, False na
+the τὰς False eng
+act. δοῖς False eng
+being θεῖηρ False eng
+used 5. False eng
+of οὐ False eng
+com- True half1g
+# 3 33 35 manders,  the mid. of soldiers as πιαποίοτα,  ἴῃς ααϊ].. οὗ 50 1 τ 85
+manders, πιαποίοτα, False na
+the ἴῃς False eng
+mid. ααϊ].. False eng
+of οὗ False eng
+soldiers 50 False eng
+as 1 False eng
+# 4 22 23 well as of commanders. μι ἢ} αῷ οἱ οὐ πη 6 Γ8,
+well μι False eng
+as ἢ} False eng
+of αῷ False eng
+commanders. οἱ False eng
+# 5 33 33 orparnyéw,  oTparnyiow,  éorparh- στρατηγέω,  στρατηγήσω,  ἐστρατή-
+στρατηγέω, orparnyéw, True pp
+στρατηγήσω, oTparnyiow, True pp
+ἐστρατή- éorparh- True half1g
+# 6 35 34 ynoa,  ésrparnynxa [orparyyds],  be γῆσα,  ἐστρατήγηκα στρατηγός),  δὲ
+γησα, ynoa, True pp
+ἐστρατήγηκα ésrparnynxa True pp
+[στρατηγός], [orparyyds], True pp
+be δὲ False eng
+# 7 35 28 a yeneral,  command,  abs,  or with α χέπεγαί,  να ὦ,  αῦ5. οὐ ἢ
+a α False eng
+general, χέπεγαί, False na
+command, να False eng
+abs, ὦ, False eng
+or αῦ5. False eng
+with οὐ False eng
+# 8 35 35 gen.; with orparnyiay (cogn. acc.), ροπο; Μ 10 στρατηγίαν (ουρη. 8ςο.),
+gen.; ροπο; False eng
+with Μ False eng
+στρατηγίαν (cogn. True form
+acc.), (ουρη. False eng
+# 9 15 16 hold a command, ἀοῤμ' ἃ τον πεῖ,
+hold ἀοῤμ' False eng
+a ἃ False eng
+command, τον False eng
+# 10 40 41 orparny(a,  -ας [orparnyds,  bor.,  Eng. στρατηγίᾶ,  -ας- [στρατηγός,  ὕοτ.,  Εῃρ.
+στρατηγία, False na
+-ας- -ας True half1g
+[στρατηγός, [orparnyds, True pp
+bor., ὕοτ., False eng
+Eng. Εῃρ. False eng
+# 11 37 36 strategy ],  office of general,  com- βἰταΐϊοσυ),  οὔις 7 γψεηεγαί,  κονε-
+strategy βἰταΐϊοσυ), False eng
+], οὔις False na
+office 7 False eng
+of γψεηεγαί, False eng
+general, κονε- False eng
+com- NA False na
+# 12 28 25 mand,  generabhip,  tactics. »"απαὐν ρσεμπέγαδλι,  αε.
+mand, »"απαὐν False eng
+generalship, ρσεμπέγαδλι, False na
+tactics. αε. False eng
+# 13 39 39 orparnyos,  -0v [orparés,  ayu,  lead), στρατηγός,  -ου [στρατός,  ἄγω,  ἐεαα],
+στρατηγός, orparnyos, True pp
+-ου -0v True pp
+[στρατός, [orparés, True pp
+ἄγω, False eng
+lead], ἐεαα], False eng
+# 14 35 37 general,  \eader of an army or of a φέμεγαΐ,  Ἰοαάοτ οἱ ἂπὶ ἈΥΤΩΥ οὐ οὗ ἃ
+general, φέμεγαΐ, False eng
+leader Ἰοαάοτ False na
+of οἱ False eng
+an ἂπὶ False eng
+army ἈΥΤΩΥ False eng
+or οὐ False eng
+of οὗ False eng
+a ἃ False eng
+# 15 28 28 division,  See Introd. § 54. ἀϊνιπίοπ. δός ᾿ηἰτοί,  ὃ 54.
+division, ἀϊνιπίοπ. False eng
+See True pp
+Introd. ᾿ηἰτοί, False eng
+§ ὃ False eng
+54. 54. False na
+# 16 34 35 orpana,  -ds [cp. orparés],  army, στρατιά,  -ἂἃς [ρ. στρατός),  4γ»»,
+στρατιά, orpana, True pp
+-ᾶς False na
+[cp. [ρ. False eng
+στρατός], True pp
+army, 4γ»», False eng
+# 17 7 7 troops. Ζγοοῤ-.
+troops. Ζγοοῤ-. False eng
+# 18 36 36 orparwrns,  -ov [orparid],  soldier, στρατιώτης,  -ου [στρατιά],  τοἰαἶε,
+στρατιώτης, orparwrns, True lex
+-ου -ov True pp
+[στρατιά], [orparid], True pp
+soldier, τοἰαἶε, False eng
+# 19 8 9 private. 2γισναίε.
+private. 2γισναίε. False eng
+# 20 39 40 ZrparoxAr‘s,  -dous,  Straticles,  com- Στρατοκλῆς,  -ἔους,  «“ἡγωΐδείες,  σοτὴ-
+Στρατοκλῆς, ZrparoxAr‘s, True lem
+-έους, -dous, True pp
+Straticles, True pp
+com- True half1g
+# 21 35 39 mander of the Cretan archers in the ταδπεῖοσ οὗ [λ6 (ὑτοῖδῃ δύο μοσβ πὰ {πε
+mander ταδπεῖοσ False na
+of οὗ False eng
+the [λ6 False eng
+Cretan (ὑτοῖδῃ False na
+archers δύο False eng
+in μοσβ False eng
+the πὰ False eng
+# 22 11 9 Greek army. Οτοοκ ΠΥ.
+Greek Οτοοκ False na
+army. ΠΥ. False eng
+# 23 39 41 orparoredevu,  usually mid.,  orparore- στρατοπεδεύω,  υ50.4}}Υ τηϊά.,  στρατοπε-
+στρατοπεδεύω, orparoredevu, True pp
+usually υ50.4}}Υ False eng
+mid., τηϊά., False eng
+στρατοπε- orparore- True half1g
+# 24 37 36 devopar,  éestpatomedevodunv,  éorpa- δεύομαι,  ἐστρατοπεδευσάμην,  ἐστρα-
+δεύομαι, devopar, True pp
+ἐστρατοπεδευσάμην, éestpatomedevodunv, True pp
+ἐστρα- éorpa- True half1g
+# 25 36 34 romédevyar [otpardwedov ],  encamp,; τοπέδευμαι [στρατόπεδον],  ἐμεανη᾽
+τοπέδευμαι romédevyar True pp
+[στρατόπεδον], [otpardwedov True pp
+encamp,; NA False eng
+# 26 12 14 be encamped, ὁε οριεα »ῤοώ,
+be ὁε False eng
+encamped, οριεα False eng
+# 27 40 39 orpardrmedov,  -ov [orpards,  rédov (po- στρατόπεδον,  -ου [στρατός,  πέδον (ρο-
+στρατόπεδον, orpardrmedov, True pp
+-ου -ov True pp
+[στρατός, [orpards, True pp
+πέδον rédov True pp
+(ρο- (po- True half1g
+# 28 36 38 etic; cp. ddwedov,  ground,  medio», εἴϊο; ορ. δάπεδον,  ρσγροτγα,  πεδίον,
+etic; εἴϊο; False na
+cp. ορ. False eng
+δάπεδον, ddwedov, True pp
+ground, ρσγροτγα, False eng
+πεδίον, medio», True pp
+# 29 31 32 plain),  ground),  camp ground, 2έα1 5},  φγοιια ,  κα φΦ7οιρρα,
+plain), 2έα1 False eng
+ground), 5}, False eng
+camp φγοιια False eng
+ground, , False eng
+# 30 20 23 camp,  army in camp. κα δ, ,  7, .»1} 11 κα.
+camp, κα False eng
+army δ, False eng
+in , False eng
+camp. 7, False eng
+# 31 41 44 orpards,  -ov [cogn.,  Jat. sternd,  ptc. στρατός,  -ου [οὐρη.,  1.δἵ,  βίογηδ,  ρῥίο.
+στρατός, orpards, True pp
+-ου -ov True pp
+[cogn., [οὐρη., False na
+Lat. 1.δἵ, False na
+sternd, βίογηδ, False na
+ptc. ρῥίο. False na
+# 32 40 45 stratus,  spread,  Eng. strew,  straw ], βίγδίμϑ,  “27,  ἐαυΐ,  Επηρ. ΒίΓΟ,  ΒΓΑ ΚΝ ],
+stratus, βίγδίμϑ, False eng
+spread, “27, False eng
+Eng. ἐαυΐ, False eng
+strew, Επηρ. False eng
+straw ΒίΓΟ, False eng
+], ΒΓΑ False na
+# 33 21 25 encamped army,  army. ἐπε πη ρεα α»», },  4»»}.
+encamped ἐπε False eng
+army, πη False eng
+army. ρεα False eng
+
+# 35 41 39 orperrrds,  -7),  -dv (verbal of orpépw), στρεπτός,  -ή,  -όν (νετθαὶ οὗ στρέφω),
+στρεπτός, orperrrds, True pp
+-ή, -7), True pp
+-όν -dv True pp
+(verbal (νετθαὶ False eng
+of οὗ False eng
+στρέφω), orpépw), True pp
+# 36 36 39 twisted. Masc. as subst.,  necklace, ἑιυϊείρα,  Νίαβο. 85 ϑυρβῖ.. πεέεξίαεε,
+twisted. ἑιυϊείρα, False eng
+Masc. Νίαβο. False na
+as 85 False eng
+subst., ϑυρβῖ.. False eng
+necklace, πεέεξίαεε, False eng
+# 37 34 37 of twisted metal. See Fig. 43,  p. οὗ ἰΚν|ϑίθα τηϑία]. ὅδες ΕἸρ. 43,  Ρ.
+of οὗ False eng
+twisted ἰΚν|ϑίθα False eng
+metal. τηϑία]. False eng
+ὅδες See True pp
+Fig. ΕἸρ. False na
+43, 43, False na
+p. Ρ. False eng
+# 38 27 28 130,  the figure of Darius. 120,  ἴ[η6 ἤσυτε οἵ [)άτῖι8.
+130, 120, False na
+the ἴ[η6 False eng
+figure ἤσυτε False eng
+of οἵ False eng
+Darius. [)άτῖι8. False na
+# 39 38 37 oxphee,  oTpéyw,  torpepa,  toTpauuat, στρέφ,  στρέψω,  ἔστρεψα,  ἔστραμμαι,
+στρέφω, False na
+στρέψω, oTpéyw, True pp
+ἔστρεψα, torpepa, True pp
+ἔστραμμαι, toTpauuat, True pp
+# 40 35 34 aTpagpny and éorpépOny [bor.,  Eng. στράφην δπὰ ἐστρέφθην [Ὀοτ.,  ΕὩΡ.
+στράφην aTpagpny True pp
+and δπὰ False eng
+ἐστρέφθην éorpépOny True pp
+[bor., [Ὀοτ., False eng
+Eng. ΕὩΡ. False eng
+# 41 37 40 strophe,  apostrophe],  ‘urn,  twist, ΒΊΊΓΟΡΒΘ,  ΔΡΟΒΊΣΟΡΒΘΊ,  2273,  ζιυῖεοέ,
+strophe, ΒΊΊΓΟΡΒΘ, False eng
+apostrophe], ΔΡΟΒΊΣΟΡΒΘΊ, False eng
+turn, 2273, False na
+twist, ζιυῖεοέ, False eng
+# 42 32 37 of cords; intr. and pass.,  furn οὗ οοτάβ; ἱπἴτ,  δηὰ μΡᾶβ85.,  Ζ94721
+of οὗ False eng
+cords; οοτάβ; False eng
+intr. ἱπἴτ, False eng
+and δηὰ False eng
+pass., μΡᾶβ85., False eng
+turn Ζ94721 False na
+# 43 34 38 about,  face about,  countermarch, αὐομζ,  ἥπεεὲ αὐομέ,  τοι: 26 7147 εἰ.
+about, αὐομζ, False eng
+face ἥπεεὲ False eng
+about, αὐομέ, False eng
+countermarch, τοι: False eng
+# 44 18 19 See plan,  p. 102. 566 ρῥΐδῃ,  Ρ. 102.
+See 566 False na
+plan, ρῥΐδῃ, False eng
+p. Ρ. False eng
+102. 102. False na
+
+# 47 38 39 orpovOds,  -o,  6,  7 [bor.,  Eng. os- στρουθός,  -ου,  ὁ,  ἡ [Ῥοτ.,  Ἑηρ. 09-
+στρουθός, orpovOds, True pp
+-ου, -o, True pp
+ὁ, 6, True lex
+ἡ 7 True case
+[bor., [Ῥοτ., False eng
+Eng. Ἑηρ. False eng
+os- 09- False na
+# 48 33 34 trich],  sparrow; 4 peyddn oTpov- {Π΄8},  “ῥαγγοῖυ,  ἡ μεγάλη στρου-
+trich], {Π΄8}, False na
+sparrow; “ῥαγγοῖυ, False eng
+ἡ 4 True case
+μεγάλη peyddn True form
+στρου- oTpov- True half1g
+# 49 16 16 Obs,  ostrich. : θός,  οείγῖεΛ. :
+θός, Obs, True pp
+ostrich. οείγῖεΛ. False eng
+# 50 42 43 orvyvés,  -η,  -6» [cruyéw,  hate],  hate- στυγνός,  -ή,  -όν [στυγέω,  ἀκσ24],  Ζαξε-
+στυγνός, orvyvés, True pp
+-ή, -η, True pp
+-όν -6» True pp
+[στυγέω, [cruyéw, True pp
+hate], ἀκσ24], False eng
+hate- True half1g
+# 51 38 40 ful,  gloomy,  stern. Neut. as subst., “εἰ,  φίοονεγ,  τέεγηε. Νεαῖ. 85 βυθβί.,
+ful, “εἰ, False na
+gloomy, φίοονεγ, False eng
+stern. τέεγηε. False eng
+Neut. Νεαῖ. False na
+as 85 False eng
+subst., βυθβί., False eng
+# 52 10 12 SLETNNESS. σ.6721255. ᾿
+sternness. σ.6721255. False na
+# 53 36 39 Lrvuphhrcos,  -ov [Xripparos,  Stym- Στυμφἅλιος,  -ου [Στύὐμφᾶλος,  «52 »ηι-
+Στυμφάλιος, Lrvuphhrcos, True pp
+-ου -ov True pp
+[Στύμφαλος, [Xripparos, True pp
+Stym- «52 False na
+# 54 37 34 phalus)],  Stymphalian,  a citizen of 2λα με,  διν»ρῥλαέϊαπ,  ἃ οἰΖεπ οὗ
+phalus)], True pp
+Stymphalian, True form
+a διν»ρῥλαέϊαπ, False eng
+citizen ἃ False eng
+of οἰΖεπ False eng
+# 55 35 38 Stymphalus,  a town in northeastern ΘΕγταρῃ δ] 5,  ἃ ἴονῃ ἰῃ πογι βεδβίεσῃ
+Stymphalus, ΘΕγταρῃ False na
+a δ] False eng
+town 5, False eng
+in ἃ False eng
+northeastern ἴονῃ False eng
+# 56 8 8 Arcadia. Ατοδαϊδ.
+Arcadia. Ατοδαϊδ. False na
+# 57 45 43 ob,  cod,  pl.,  bpets,  bud» [originally 7v; σύ,  σοῦ,  Ρ].,  ὑμεῖς,  ὑμῶν [οΥρῖπα!ν τύ;
+σύ, False eng
+σοῦ, False eng
+pl., Ρ]., False eng
+ὑμεῖς, bpets, True lex
+ὑμῶν bud» True form
+[originally [οΥρῖπα!ν False eng
+τύ; False na
+# 58 39 39 cogn.,  Lat. ti,  you,  Eng. thou,  and οορῃ.,  [, ἱ. τὰ,  γοι,  Επρ. ποῦ,  δηὰ
+cogn., οορῃ., False na
+Lat. [, False na
+tu, ἱ. False eng
+you, τὰ, False eng
+Eng. γοι, False eng
+thou, Επρ. False eng
+and ποῦ, False eng
+# 59 38 38 (with duets) you],  pers. pron.,  you. (ἢ ὑμεῖς) γΟο8}},  Ρ6Γβ. Ρσοῃ.,  7202.
+(with (ἢ False eng
+ὑμεῖς) False eng
+you], γΟο8}}, False eng
+pers. Ρ6Γβ. False eng
+pron., Ρσοῃ., False eng
+you. 7202. False eng
+# 60 43 44 ovyyevts,  -¢s [yévos,  race],  of the same συγγενής,  -ές,  [γένος,  γε],  ο7) “ἦε ταν!
+συγγενής, ovyyevts, True lex
+-ές, -¢s True pp
+[γένος, [yévos, True pp
+race], γε], False eng
+of ο7) False eng
+the “ἦε False eng
+same ταν! False eng
+# 61 34 39 family. Masc. as subst.,  kinsman, ͵, ανιῖζν. Μαβο. 85 βυρβῖ.,  ἐέρμδριαρἤ
+family. ͵, False eng
+Masc. ανιῖζν. False na
+as Μαβο. False eng
+subst., 85 False eng
+kinsman, βυρβῖ., False eng
+# 62 9 9 relative. γείαεῖνε.
+relative. γείαεῖνε. False eng
+# 63 34 38 ovyylyvopa [yiyvoua,  become],  be συγγίγνομαι [γίγνομαι,  ὀφεο»! 6],  δὲ
+συγγίγνομαι ovyylyvopa True pp
+[γίγνομαι, [yiyvoua, True pp
+become], ὀφεο»! False eng
+be 6], False eng
+# 64 37 41 with,  have a conference with,  meet, «υἱτὰ,  ἄατυε α το» γγέρες τὐΐζά,  »ιδεῖ,
+with, «υἱτὰ, False eng
+have ἄατυε False eng
+a α False eng
+conference το» False eng
+with, γγέρες False eng
+meet, τὐΐζά, False eng
+# 65 34 38 become acquainted with,  study un- ὄφεον»ὁ αεφιεαιρέεαί τοὶ,  οἕμαΐν τέρ-
+become ὄφεον»ὁ False eng
+acquainted αεφιεαιρέεαί False eng
+with, τοὶ, False eng
+study οἕμαΐν False eng
+un- True half1g
+# 66 34 34 der,  be (sexually) intimate with, εἶν,  δε (βεχυδ}}γ) ἡρερεαξε τὐῖζ,
+der, εἶν, False eng
+be δε False eng
+(sexually) (βεχυδ}}γ) False eng
+intimate ἡρερεαξε False eng
+with, τὐῖζ, False eng
+# 67 9 7 with dat. ν  ἀαῖ.
+with ν False eng
+dat. ἀαῖ. False eng
+# 68 41 42 ovye [ot + y6,  at least],  you at least, σύγε [σύ -ἰ γέ,  αὐ ἐεας],  γοιε αὐ ἠεαΞί,
+σύγε ovye True form
+[σύ False eng
++ -ἰ False na
+γέ, y6, True form
+at αὐ False eng
+least], ἐεας], False eng
+you γοιε False eng
+at αὐ False eng
+least, ἠεαΞί, False eng
+# 69 26 30 you emphasized. Cp. ®ywye. )οτέ ἐτωρμδϑβίζεά,  ( . ἔγωγε.
+you )οτέ False eng
+emphasized. ἐτωρμδϑβίζεά, False eng
+Cp. ( False na
+ἔγωγε. . False na
+# 70 40 38 ovyKadéw [xaréw,  call],  call together, συγκαλέω [καλέω,  εαἰϊ],  αὐ ἐορείδεν,
+συγκαλέω ovyKadéw True pp
+[καλέω, [xaréw, True pp
+call], εαἰϊ], False eng
+call αὐ False eng
+together, ἐορείδεν, False eng
+# 71 9 11 assemble, αε5ο»ηεδέφ.
+assemble, αε5ο»ηεδέφ. False eng
+# 72 33 32 ovyxaraxatw [xaraxalw,  burn up), συγκατακαίω [κατακαίω,  ὀμγπ Φ],
+συγκατακαίω ovyxaraxatw True pp
+[κατακαίω, [xaraxalw, True pp
+burn ὀμγπ False eng
+up], Φ], False eng
+# 73 33 36 burn up with or at the same time. δι᾽, » τ τοῖζά οὐ αἱ ζὰε ταπις ἔη:6.
+burn δι᾽, False eng
+up » False eng
+with τ False eng
+or τοῖζά False eng
+at οὐ False eng
+the αἱ False eng
+same ζὰε False eng
+time. ταπις False eng
+# 74 36 36 cvykatarrpépopar [Kxaracrpépu,  sub- συγκαταστρέφομαι [καταστρέφω,  τ:"ὖ-
+συγκαταστρέφομαι cvykatarrpépopar True pp
+[καταστρέφω, [Kxaracrpépu, True pp
+sub- True half1g
+# 75 34 34 due],  aid in subduing,  with dat. ἄμε1,  αἱα τη «πόαϊμένρ,  ΊΓᾺ ἀαῖ,
+due], ἄμε1, False eng
+aid αἱα False eng
+in τη False eng
+subduing, «πόαϊμένρ, False eng
+with ΊΓᾺ False eng
+dat. ἀαῖ, False eng
+# 76 36 36 cvykirro [xirrw,  kdpw,  Extya,  xé- συγκύπτω [κύπτω,  κύψω,  ἔκῦψα,  κέ-
+συγκύπτω cvykirro True pp
+[κύπτω, [xirrw, True pp
+κύψω, kdpw, True pp
+ἔκυψα, Extya, True pp
+κέ- xé- True half1g
+# 77 36 39 Kuga,  stoop],  draw together,  con- κῦφα,  ε[002},  ἐγαῖυ ἐορείδεγ,  .«05.-
+κυφα, Kuga, True pp
+stoop], ε[002}, False eng
+draw ἐγαῖυ False eng
+together, ἐορείδεγ, False eng
+con- .«05.- False na
+# 78 6 8 verge. ΨΕΡ, ρΈ.
+verge. ΨΕΡ, False eng
+# 79 43 43 ovevos,  -a,  -ov [ots,  hog,  cogn.,  Lat. σύειος,  -α,  -ον [σῦς,  ἄορ,  σορῃ.,  [“ἴ.
+σύειος, ovevos, True pp
+-α, -a, True pp
+-ον -ov True pp
+[σῦς, [ots, True form
+hog, ἄορ, False eng
+cogn., σορῃ., False na
+Lat. [“ἴ. False na
+# 80 41 44 sis,  Aog,  Eng. sow,  swine,  soil],  of 8118,  ἀσρ,  Εηρ. 807,  5.7 116,  8011],  οὗ
+sus, 8118, False eng
+hog, ἀσρ, False na
+Eng. Εηρ. False eng
+sow, 807, False eng
+swine, 5.7 False eng
+soil], 116, False eng
+of 8011], False eng
+# 81 31 35 swine; xpipa aver,  ointment of στοΐμε,; χρῖμα σύειον,  οἱρίμεηξ οὗ
+swine; στοΐμε,; False eng
+χρῖμα xpipa True pp
+σύειον, False eng
+ointment οἱρίμεηξ False eng
+of οὗ False eng
+# 82 10 8 hog’s fat. ἀορς 74.
+hog’s ἀορς False na
+fat. 74. False eng
+# 83 41 43 Lvévveris,  -cos (Ionic gen.),  6,  Syen- Σνέννεσις,  -ἰος (ἸΤσῃῖς ρσεη.),  ὁ,  5)γε-
+Σνέννεσις, False na
+-ιos True pp
+(Ionic (ἸΤσῃῖς False na
+gen.), ρσεη.), False eng
+ὁ, 6, True lex
+Syen- True half1g
+# 84 37 37 nests,  title of the kings of Cilicia πδεῖς,  ὉΠὺΠῸ οὗ τῆς Κίηρβ οἵ ΕἸ] οϊα
+nesis, πδεῖς, False eng
+title ὉΠὺΠῸ False eng
+of οὗ False eng
+the τῆς False eng
+kings Κίηρβ False eng
+of οἵ False eng
+Cilicia ΕἸ] False na
+# 85 37 36 (cp. Pharaoh,  of the Egyptian kings, (οΡ.  λαγαοΐ,  οἴ τε Ἐργρίίδη Κίηρϑ,
+(cp. (οΡ. False eng
+Pharaoh, λαγαοΐ, False na
+of οἴ False eng
+the τε False eng
+Egyptian Ἐργρίίδη False na
+kings, Κίηρϑ, False eng
+# 86 32 31 and Caesar,  of the Roman emper- δὰ Οαέςαν,  οἵ ἴ8ε οϊηδῃ δμροῖ-
+and δὰ False eng
+Caesar, Οαέςαν, False na
+of οἵ False eng
+the ἴ8ε False eng
+Roman οϊηδῃ False na
+emper- True half1g
+# 87 35 35 ors). Xenophon uses it as a proper. οἵβ). Χαπορδοῦ 0865 ἴΐ ἃ5 8 ΡΓΟΡΕΥ,
+ors). οἵβ). False eng
+Xenophon True pp
+uses 0865 False eng
+it ἴΐ False eng
+as ἃ5 False eng
+a 8 False eng
+proper. ΡΓΟΡΕΥ, False eng
+# 88 5 6 name. ΠΔΙΏ6.
+name. ΠΔΙΏ6. False eng
+# 89 35 35 ovAAapBavea [AauBdvw,  fake,  bor., συλλαμβάνω [λαμβάνω,  ἑαξε,; ὌοΥ, ,
+συλλαμβάνω ovAAapBavea True pp
+[λαμβάνω, [AauBdvw, True pp
+take, ἑαξε,; False eng
+bor., ὌοΥ, False eng
+# 90 39 40 Eng. syllable,  syllabus],  sezze,  ar- Επρ. ΒΥ114016,  Βγ114 0.8],  “εἶξε,  47-
+Eng. Επρ. False eng
+syllable, ΒΥ114016, False eng
+syllabus], Βγ114 False eng
+seize, 0.8], False na
+ar- “εἶξε, False na

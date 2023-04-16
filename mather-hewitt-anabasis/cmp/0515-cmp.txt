@@ -1,0 +1,540 @@
+# 0 10 11 VOCABULARY ΝΟΓΑΒΌΙΑΚΒΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΚΒΥ False na
+# 1 33 35 tribe near the southeastern shore {ρα ποᾶσγ τἢς βουϊμβεδβϑίθγῃ β5ἤοσε
+tribe {ρα False eng
+near ποᾶσγ False eng
+the τἢς False eng
+southeastern βουϊμβεδβϑίθγῃ False eng
+shore β5ἤοσε False eng
+# 2 17 17 of the Black Sea. οὔ ἴδε ΒΙδςκ 868.
+of οὔ False eng
+the ἴδε False eng
+Black ΒΙδςκ False na
+Sea. 868. False na
+# 3 43 48 ramevés,  -7},  -d,  low,  humble,  submis- ταπεινός,  -ή,  -όν,  ἰστο,  ἀεέγεδέρ,  τιεόρι5-
+ταπεινός, ramevés, True pp
+-ή, -7}, True pp
+-όν, -d, True pp
+low, ἰστο, False eng
+humble, ἀεέγεδέρ, False eng
+τιεόρι5- submis- True half1g
+# 4 5 5 SIUC. σῖσε.
+SIUC. σῖσε. False na
+# 5 40 40 ramurfjSea,  by crasis for 7a éwirHdeca. τἀπιτήδεια,  ὈΥ οταϑἰ5 ἔογ τὰ ἐπιτήδεια.
+ramurfjSea, τἀπιτήδεια, False na
+by ὈΥ False eng
+crasis οταϑἰ5 False eng
+for ἔογ False eng
+τὰ 7a True pp
+ἐπιτήδεια. éwirHdeca. True form
+# 6 39 37 Trapatrre,  Tapdtiw,  érdpata,  rerdpa- ταράττω,  ταράξω,  ἑἐτάραξα,  τετάρα-
+ταράττω, Trapatrre, True pp
+ταράξω, Tapdtiw, True pp
+ἑἐτάραξα, érdpata, True pp
+τετάρα- rerdpa- True half1g
+# 7 37 38 yuat,  érapdxOnv,  trouble,  stir up, γὙμαι,  ἐταράχθην,  ἐγοιόῤέε,  517 τέ,
+γὙμαι, yuat, True pp
+ἐταράχθην, érapdxOnv, True pp
+trouble, ἐγοιόῤέε, False eng
+stir 517 False eng
+up, τέ, False eng
+# 8 31 34 agitate,  throw into confusion. αρτέαέε,  Ἰάγοτο ἵρο εορμ με 10᾽1.
+agitate, αρτέαέε, False eng
+throw Ἰάγοτο False eng
+into ἵρο False eng
+confusion. εορμ False eng
+# 9 39 37 Tapaxos,  -ov [rapdrrw],  tumult,  con- τάραχος,  -ου [ταράττω],  ἐμ»,  κ0᾽:-
+τάραχος, Tapaxos, True pp
+-ου -ov True pp
+[ταράττω], [rapdrrw], True pp
+tumult, ἐμ», False eng
+κ0᾽:- con- True half1g
+# 10 7 9 Suston. , βιῖονε.
+Suston. , False na
+# 11 37 39 Tapool,  -dv (commonly Tapeés,  -08), Ταρσοί,  -ῶν (σοπιπιοηϊν Ταρσός,  -ου),
+Tapool, Ταρσοί, False na
+-dv -ῶν False na
+(commonly (σοπιπιοηϊν False eng
+Ταρσός, Tapeés, True pp
+-ου), -08), True pp
+# 12 40 41 Tarsus,  the capital of Cilicia,  birth- 7Ζα7 3:5,  [ες σαρ!ῖ4] οὗ (Ἰ]ςοΐα,  Ὀἰτἢ-
+Tarsus, 7Ζα7 False na
+the 3:5, False eng
+capital [ες False eng
+of σαρ!ῖ4] False eng
+οὗ Cilicia, True lex
+birth- (Ἰ]ςοΐα, False na
+# 13 18 18 place of St. Paul. Ρΐαςς οὔ 51. Ραυ].
+place Ρΐαςς False eng
+of οὔ False eng
+St. 51. False na
+Paul. Ραυ]. False na
+# 14 42 41 TaTre,  Tdiw,  érata,  réraxa,  TérTaypat, τάττω,  τάξω,  ἔταξα,  τέταχα,  τέταγμαι,
+τάττω, TaTre, True pp
+τάξω, Tdiw, True pp
+ἔταξα, érata, True pp
+τέταχα, réraxa, True pp
+τέταγμαι, TérTaypat, True pp
+# 15 35 35 érdx@nv [bor.,  Eng. tactics,  tax- ἐτάχθην [Ὁοτ.,  Επρ. ἰδοΐΐο8,  ἰᾶχ-
+ἐτάχθην érdx@nv True pp
+[bor., [Ὁοτ., False eng
+Eng. Επρ. False eng
+tactics, ἰδοΐΐο8, False eng
+tax- ἰᾶχ- False na
+# 16 34 35 idermy],  errange,  draw up,  mar- ἰάθη ν],  σγγαηρέ,  ἄγατυ τ,  7παγ-
+idermy], ἰάθη False na
+errange, ν], False na
+draw σγγαηρέ, False eng
+up, ἄγατυ False eng
+mar- τ, False na
+# 17 37 36 shal,  station; assign,  detail for a σἠαΐ,  εἰαΐΐογ,  ἀϑεῖρη,  ἰδία ἴον ἃ
+shal, σἠαΐ, False na
+station; εἰαΐΐογ, False eng
+assign, ἀϑεῖρη, False eng
+detail ἰδία False eng
+for ἴον False eng
+a ἃ False eng
+# 18 38 39 duty,  order,  mid.,  take a position; ἀπῖγν,  ογαΐν, ,  ταϊά.,  αξο ἃ 20 ο7:,
+duty, ἀπῖγν, False eng
+order, ογαΐν, False eng
+mid., , False eng
+take ταϊά., False eng
+a αξο False eng
+position; ἃ False eng
+# 19 39 38 év To TeTaypéevyp,  in the position as- ἐν τῷ τεταγμένῳ,  ἐ»' 1.4 2οείζονε α5-
+ἐν év True lex
+τῷ To True lex
+τεταγμένῳ, TeTaypéevyp, True form
+in ἐ»' False eng
+the 1.4 False eng
+position 2οείζονε False eng
+α5- as- True half1g
+# 20 22 24 signed him,  162,  27. οἰργισα ἀΐ»ι,  162,  27.
+signed οἰργισα False eng
+him, ἀΐ»ι, False eng
+162, 162, False na
+27. 27. False na
+# 21 43 39 ’ vatpos,  -ov [cogn.,  Lat. taurus,  bull, ᾿ ταῦρος,  -ου [Ἑςορῃ.,  [, Δἴ. πο ὀπὶ,
+’ ᾿ False na
+ταῦρος, vatpos, True pp
+-ου -ov True pp
+[cogn., [Ἑςορῃ., False na
+Lat. [, False na
+taurus, Δἴ. False eng
+bull, πο False eng
+# 22 19 20 Eng. steer],  bull, Επηρ. Βῖθ61],  ὀμδέ,
+Eng. Επηρ. False eng
+steer], Βῖθ61], False eng
+bull, ὀμδέ, False eng
+# 23 30 31 ratrd,  by crasis for ra abrd. ταὐτά,  ὈΥ οταϑβὶς ίογ τὰ αὐτά.
+ταὐτά, ratrd, True pp
+by ὈΥ False eng
+crasis οταϑβὶς False eng
+for ίογ False eng
+ra τὰ False eng
+αὐτά. abrd. True pp
+# 24 40 41 ravry (dat. fem. of obros,  tk2s],  adv. ταύτῃ [ἀΔϊ. ἔξει. οὗ οὗτος,  2115],  αάν.
+ταύτῃ ravry True lex
+(dat. [ἀΔϊ. False eng
+fem. ἔξει. False eng
+of οὗ False eng
+οὗτος, obros, True pp
+tk2s], 2115], False na
+adv. αάν. False eng
+# 25 39 43 (sc. 659,  way),  in this way or direc- (3ς. ὁδῷ,  τυαγ),  ἐγι Ζλὶς τῦᾶγ οὐ αἰΐγεε-
+(sc. (3ς. False eng
+ὁδῷ, 659, True form
+way), τυαγ), False eng
+in ἐγι False eng
+this Ζλὶς False eng
+way τῦᾶγ False eng
+or οὐ False eng
+αἰΐγεε- direc- True half1g
+# 26 39 40 tion; tn this place,  here,  of manner, “οι,  ἐπ λῆς ῥδέαεσ,  ἀδγε,  οἵ ταᾶπποσ,
+tion; “οι, False na
+tn ἐπ False eng
+this λῆς False eng
+place, ῥδέαεσ, False eng
+here, ἀδγε, False eng
+of οἵ False eng
+manner, ταᾶπποσ, False eng
+# 27 22 25 in this way,  in this. ἦγε ζλ1ς τοαν,  ἦρε ἐλ15.
+in ἦγε False eng
+this ζλ1ς False eng
+way, τοαν, False eng
+in ἦρε False eng
+this. ἐλ15. False eng
+# 28 30 29 rauré,  by crasis for 7d adré. ταὐτό,  ὮΥ οτδϑ15 οσ τὸ αὐτό.
+rauré, ταὐτό, False na
+by ὮΥ False eng
+crasis οτδϑ15 False eng
+for οσ False eng
+τὸ 7d True form
+αὐτό. adré. True form
+# 29 39 39 Tacos,  -ov [Odrrw,  bury,  bor.,  Eng. τάφος,  -ου [θάπτω,  ὀμγγ,  Ὀοτ.,  Επρ.
+τάφος, Tacos, True pp
+-ου -ov True pp
+[θάπτω, [Odrrw, True pp
+bury, ὀμγγ, False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False eng
+# 30 36 39 epitaph,  cenotaph ],  /omd,  grave. ΘΡρ ἵδρἢ,  οδποΐδρἘ ],  “ο»ιεό,  ργαυε.
+epitaph, ΘΡρ False eng
+cenotaph ἵδρἢ, False eng
+], οδποΐδρἘ False na
+/omd, ], False na
+grave. “ο»ιεό, False eng
+# 31 37 36 tadpos,  -ov,  7 [cp. rddos],  ditch, τάφρος,  -ου,  ἡ [ρΡ. τάφος,  ἰϊέελ,
+τάφρος, tadpos, True pp
+-ου, -ov, True pp
+ἡ 7 True case
+[cp. [ρΡ. False eng
+τάφος, rddos], True pp
+ditch, ἰϊέελ, False eng
+# 32 7 7 trench. Ζγεμελ.
+trench. Ζγεμελ. False eng
+# 33 42 42 Taxa [raxus], adv.,  guichkly,  forthwith. τάχα [ταχύς],  ἀάν.,  φπέεξν,  γογέλτοϊίά.
+τάχα Taxa True pp
+[ταχύς], [raxus], True lex
+adv., ἀάν., False eng
+guichkly, φπέεξν, False na
+forthwith. γογέλτοϊίά. False eng
+# 34 44 43 wax éws [Taxus],  adv.,  guickly,  speedily, ταχέως [ταχύς],  δάν.,  γπῖεξέν,  ἐῤεεώϊαν,
+wax ταχέως False eng
+[ταχύς], éws True lex
+[Taxus], δάν., False na
+adv., γπῖεξέν, False eng
+guickly, ἐῤεεώϊαν, False na
+speedily, NA False eng
+# 35 8 5 swiftly. συΐν.
+swiftly. συΐν. False eng
+# 36 39 37 7whX0S,  -ous,  75 [raxv’s; bor.,  Eng. τάχος,  -ους,  τό [ταχύς; Ὅοτ.,  Επρ.
+τάχος, 7whX0S, True pp
+-ους, -ous, True pp
+τό 75 True form
+[ταχύς; [raxv’s; True lex
+bor., Ὅοτ., False eng
+Eng. Επρ. False eng
+# 37 32 32 tachometer],  quickness,  speed. ἰδοβοπιθίθγ,  φοεξηιόες,  εῤεεα,
+tachometer], ἰδοβοπιθίθγ, False eng
+quickness, φοεξηιόες, False eng
+speed. εῤεεα, False eng
+# 38 39 39 TaXUS,  -efa,  -U,  Comp. OdrTwy,  sup. ταχύς,  -εἶἴα,  -ύ,  σοηρ. θάττων,  50.
+ταχύς, TaXUS, True lex
+-efa, -εἶἴα, False na
+-ύ, -U, True pp
+Comp. σοηρ. False na
+θάττων, OdrTwy, True pp
+sup. 50. False eng
+# 39 34 34 raxtoros [bor.,  Eng. tachygraphy, τάχιστος [Ὅοτ.,  Επηρ. ΔΒ ΥΡΊΑΡΕΥ,
+τάχιστος raxtoros True pp
+[bor., [Ὅοτ., False eng
+Eng. Επηρ. False eng
+tachygraphy, ΔΒ False eng
+# 40 31 32 tachymeter],  guich,  swift; da ἰδομγιπθίοσγ,  φηίεξ,  “το,  διὰ
+tachymeter], ἰδομγιπθίοσγ, False eng
+guich, φηίεξ, False na
+swift; “το, False eng
+da διὰ False eng
+# 41 38 38 Ttaxéwy,  by quick measures,  quickly; ταχέων,  ὁν ψπῖοξ νισαςγός,  φεῖεξῥίν,
+ταχέων, Ttaxéwy, True pp
+by ὁν False eng
+quick ψπῖοξ False eng
+measures, νισαςγός, False eng
+quickly; φεῖεξῥίν, False eng
+# 42 35 36 Thy taxlorny oddy,  by the quickest τὴν ταχίστην ὁδόν,  ὧν 47}6 φηῖσξεκέ
+τὴν Thy True form
+ταχίστην taxlorny True pp
+ὁδόν, oddy, True form
+by ὧν False eng
+the 47}6 False eng
+quickest φηῖσξεκέ False eng
+# 43 35 39 way; Thy taxlorny,  tn the quickest “47,  τὴν ταχίστην,  1, 1 {ἢ 6 φιίοξεςί
+way; “47, False eng
+τὴν Thy True form
+ταχίστην, taxlorny, True pp
+tn 1, False eng
+the 1 False eng
+quickest {ἢ False eng
+# 44 30 32 way,  as speedily as possible, τυὰγ,  ας τῤεοιίϊέν ας ῥοσειόδε,
+way, τυὰγ, False eng
+as ας False eng
+speedily τῤεοιίϊέν False eng
+as ας False eng
+possible, ῥοσειόδε, False eng
+# 45 6 6 Google (Οοσὶς
+Google (Οοσὶς False na
+# 46 3 3 593 503
+593 503 False na
+# 47 36 36 Neut. acc. as adv.,  rayv,  quickly, Νευῖ. δος. 88 Δάν.,  ταχύ,  ψεϊεξέν,
+Neut. Νευῖ. False na
+acc. δος. False eng
+as 88 False eng
+adv., Δάν., False eng
+ταχύ, rayv, True form
+quickly, ψεϊεξέν, False eng
+# 48 34 39 soon; comp. Oarrov,  more quickly, 5001,  ΠσΟΙΏΡ. θᾶττον,  »ι0γ76 φιῖοξίν,
+soon; 5001, False eng
+comp. ΠσΟΙΏΡ. False eng
+θᾶττον, Oarrov, True pp
+more »ι0γ76 False eng
+quickly, φιῖοξίν, False eng
+# 49 37 41 more swiftly,  quicker,  faster; sup. 1076 στοϊγιν,  φωῖοξεῦ,  γ, αρίεῦ ,  50}.
+more 1076 False eng
+swiftly, στοϊγιν, False eng
+quicker, φωῖοξεῦ, False eng
+faster; γ, False eng
+sup. αρίεῦ False eng
+# 50 38 35 ra4x.oTa,  usually with an adv.,  with τάχιστα,  υὑϑι.4}}γ ἢ δη δάν.,  ψ ἢ
+τάχιστα, ra4x.oTa, True form
+usually υὑϑι.4}}γ False eng
+with ἢ False eng
+an δη False eng
+adv., δάν., False eng
+with ψ False eng
+# 51 36 36 or without a form of d0vayai,  as ws οὐ ψιΠουΐϊ ἃ ἰογῃ οἱ δύναμαι,  ἃ5 ὡς
+or οὐ False eng
+without ψιΠουΐϊ False eng
+a ἃ False eng
+form ἰογῃ False eng
+of οἱ False eng
+δύναμαι, d0vayai, True pp
+as ἃ5 False eng
+ws ὡς False eng
+# 52 32 33 (or 871) rdxtora,  as guickly as (οΥ ὅτι) τάχιστα,  ας φιῖεξίν αἂς
+(or (οΥ False eng
+ὅτι) 871) True lex
+τάχιστα, rdxtora, True form
+as ας False eng
+guickly φιῖεξίν False na
+as αἂς False eng
+# 53 39 38 possible,  y (or brn) ed0varo raxtorTa, 2οΞεἰῤέο,  ἧ (οτ ὅπῃ) ἐδύνατο τάχιστα,
+possible, 2οΞεἰῤέο, False eng
+y ἧ False eng
+(or (οτ False eng
+ὅπῃ) brn) True lex
+ἐδύνατο ed0varo True form
+τάχιστα, raxtorTa, True form
+# 54 35 36 as fast as he could; ws (or éray or ὥς Μιδέ ας ἦέ εοέαϊ,  ὡς (οΥ ἐπὰν ΟΥ
+as ὥς False eng
+fast Μιδέ False eng
+as ας False eng
+he ἦέ False eng
+could; εοέαϊ, False eng
+ws ὡς False eng
+(or (οΥ False eng
+ἐπὰν éray True form
+or ΟΥ False eng
+# 55 30 30 éwevdav) TaXLOTA,  aS S00N as. ἐπειδὰν) τάχιστα,  45 5002: 5.
+ἐπειδὰν) éwevdav) True form
+τάχιστα, TaXLOTA, True form
+aS 45 False na
+S00N 5002: False na
+as. 5. False eng
+# 56 37 40 ré,  by elision and euphony,  7’,  6’ τέ,  ΌΥ εἰϊἰδίοῃ δἂπά δαυρῃοηυ,  τ᾽,  θ᾽
+τέ, ré, True form
+by ΌΥ False eng
+elision εἰϊἰδίοῃ False eng
+and δἂπά False eng
+euphony, δαυρῃοηυ, False eng
+7’, τ᾽, False na
+6’ θ᾽ False na
+# 57 35 36 [cogn.,  Lat. -que,  ad],  enclitic [ςορπ.,  1.4ἴ. -«4π6,  “7:41,  ΘποΙς
+[cogn., [ςορπ., False na
+Lat. 1.4ἴ. False na
+-que, -«4π6, False na
+ad], “7:41, False eng
+enclitic ΘποΙς False eng
+# 58 39 40 conj.,  and,  re... 7é,  Te eal,  Te... ςΟη]).,  απα,  τὲ... τέ,  τὲ καί,  τὲ...
+conj., ςΟη])., False eng
+and, απα, False eng
+re... τὲ... False eng
+τέ, 7é, True form
+Te τὲ False na
+καί, eal, True lex
+Te... τὲ... False na
+# 59 35 37 kai,  both... and,  not only... but καί,  ῥοίά. .. απο,  μοί ογιέν ... ὑπ
+kai, καί, False eng
+both... ῥοίά. False eng
+and, .. False eng
+not απο, False eng
+only... μοί False eng
+but ογιέν False eng
+# 60 36 35 also,  but the first correlative may αέδο,  Ὀὰϊ τῆς ἤγϑὶ σοτγαϊαῖῖνε ΤΔῪ
+also, αέδο, False eng
+but Ὀὰϊ False eng
+the τῆς False eng
+first ἤγϑὶ False eng
+correlative σοτγαϊαῖῖνε False eng
+may ΤΔῪ False eng
+# 61 22 22 often be untranslated. οἴζϊεη θὲ υπίταηϑαῖδα.
+often οἴζϊεη False eng
+be θὲ False eng
+untranslated. υπίταηϑαῖδα. False eng
+# 62 34 33 teOvavar,  TEOvnKke,  see OvifoKw. τεθνάναι,  τέθνηκε,  Ξ5εε θνήσκω.
+τεθνάναι, teOvavar, True form
+τέθνηκε, TEOvnKke, True form
+see Ξ5εε False eng
+θνήσκω. OvifoKw. True pp
+# 63 43 44 téQpurmov,  -ov [7érrapes,  trios,  horse], τέθριππον,  -ου [τέτταρες,  ἵππος,  07, 56],
+τέθριππον, téQpurmov, True pp
+-ου -ov True pp
+[τέτταρες, [7érrapes, True pp
+trios, ἵππος, False eng
+horse], 07, False eng
+# 64 38 41 Sour-horse chartot,  chariot and four. , )»π"γ-ἀογϑε ἐλαγίοί,  ἐλαγτοί αμαἱ 70’.
+Sour-horse , False na
+chartot, )»π"γ-ἀογϑε False na
+chariot ἐλαγίοί, False eng
+and ἐλαγτοί False eng
+four. αμαἱ False eng
+# 65 20 21 See Fig. 33,  p. 92. 58 ὲ ΕἸρ. 33,  Ὀ. 92.
+See 58 False na
+Fig. ὲ False na
+33, ΕἸρ. False na
+p. 33, False eng
+92. Ὀ. False na
+# 66 45 42 telvm,  Teva,  ~érecva,  -Trérakxa,  TéTapat, τείνω,  τενῶ,  ἔτεινα,  -τέτακα,  τέταμαι,
+τείνω, telvm, True pp
+τενῶ, Teva, True pp
+ἔτεινα, ~érecva, True pp
+-τέτακα, -Trérakxa, True pp
+τέταμαι, TéTapat, True pp
+# 67 37 38 éraOnv [cogn.,  Lat. tend6,  stretch, ἐτάθην [οορῃ.,  1.41. ἰοηαδ,  “2,  ἐλ,
+ἐτάθην éraOnv True pp
+[cogn., [οορῃ., False na
+Lat. 1.41. False na
+tend6, ἰοηαδ, False na
+stretch, “2, False eng
+# 68 38 39 tenuis,  ‘iim,  Eng. thin; bor.,  Eng. ἴδη1118,  “2»,  Επρ. τ πϊπ; Ὀοτ.,  Επρ.
+tenuis, ἴδη1118, False eng
+‘iim, “2», False na
+Eng. Επρ. False eng
+thin; τ False eng
+bor., πϊπ; False eng
+Eng. Ὀοτ., False eng
+# 69 34 36 hypotenuse,  tone,  tune (produced πγροίδημϑβο,  ἴοηθ,  ἴ1πη6 (ρτοϊυςεά
+hypotenuse, πγροίδημϑβο, False eng
+tone, ἴοηθ, False eng
+tune ἴ1πη6 False eng
+(produced (ρτοϊυςεά False eng
+# 70 32 35 by stretching the vocal cords or ΌὈΥ “ἐγείολίην ἴἰῃ6 νοσᾶὶ] σογὰβ οὐ
+by ΌὈΥ False eng
+stretching “ἐγείολίην False eng
+the ἴἰῃ6 False eng
+vocal νοσᾶὶ] False eng
+cords σογὰβ False eng
+or οὐ False eng
+# 71 34 35 the strings of a lyre)],  stretch; [ῃη6 5ἰτίηρθ οὗ ἃ ἰγγ6}]},  ϑήγεεᾷ,
+the [ῃη6 False eng
+strings 5ἰτίηρθ False eng
+of οὗ False eng
+a ἃ False eng
+lyre)], ἰγγ6}]}, False eng
+stretch; ϑήγεεᾷ, False eng
+# 72 42 44 intr.,  exert oneself,  hasten,  Lat. con- Ἰηΐγ.,  ἐχεγί ομέσοῦς λακίογι,  Τ1, ῖ. ἐο71-
+intr., Ἰηΐγ., False eng
+exert ἐχεγί False eng
+oneself, ομέσοῦς False eng
+hasten, λακίογι, False eng
+Lat. Τ1, False na
+con- ῖ. False na
+# 73 6 5 tendo. ζερα.
+tendo. ζερα. False eng
+# 74 41 41 Telxos,  -ovs,  76,  wall; fortification, τεῖχος,  -ους,  τό,  τυαίζ,  “ον βοαίίο»,
+τεῖχος, Telxos, True pp
+-ους, -ovs, True pp
+τό, 76, True form
+wall; τυαίζ, False eng
+fortification, “ον False eng
+# 75 9 11 Jortress. , }ογίγεςς.
+Jortress. , False na
+# 76 39 39 Tekpalpopat,  Texuapovuat,  érexunpdunv τεκμαίρομαι,  τεκμαροῦμαι,  ἐτεκμηράμην
+τεκμαίρομαι, Tekpalpopat, True pp
+τεκμαροῦμαι, Texuapovuat, True pp
+ἐτεκμηράμην érexunpdunv True pp
+# 77 36 35 (cp. rexurhpiov],  judge from signs, [ςΡ. τεκμήριον),  7μάρε ἰτοτὰ 5108,
+(cp. [ςΡ. False eng
+τεκμήριον), rexurhpiov], True pp
+judge 7μάρε False eng
+from ἰτοτὰ False eng
+signs, 5108, False eng
+# 78 6 7 anfer. 1)}767.
+anfer. 1)}767. False na
+# 79 42 45 TEKBAPLoV,  -ov,  Sign,  proof,  evidence, τεκμήριον,  -ου,  τἦργι,  27γοοῦ,  ευϊαίργε6.
+τεκμήριον, TEKBAPLoV, True pp
+-ου, -ov, True pp
+Sign, τἦργι, False na
+proof, 27γοοῦ, False eng
+evidence, ευϊαίργε6. False eng
+# 80 21 21 réxvov,  -ov,  child. τέκνον,  -ου,  εὐτία,
+τέκνον, réxvov, True pp
+-ου, -ov, True pp
+child. εὐτία, False eng
+# 81 41 42 Ter€Ow,  poetic,  become,  be,  come out. τελέθω,  ροεῖϊς,  ὀέέονηδ,  ὅδ,  κο»16 οἱ.
+τελέθω, Ter€Ow, True pp
+poetic, ροεῖϊς, False eng
+become, ὀέέονηδ, False eng
+be, ὅδ, False eng
+come κο»16 False eng
+out. οἱ. False eng
+# 82 44 39 TeXevtatos,  -a,  -ov [TedevT7 ],  last,  in τελειταῖος,  -ά,  -ον [τελευτή],  ἐα52,
+τελειταῖος, TeXevtatos, True pp
+-ά, -a, True pp
+-ον -ov True pp
+[τελευτή], [TedevT7 True lex
+], ἐα52, False na
+last, NA False eng
+in NA False eng
+# 83 38 37 the rear. Masc.,  pl. as subst.,  rear 26 γεαγ. Μᾶδβς. Ρ]. 85 βυῤρϑῖ.,  γέαγ
+the 26 False eng
+rear. γεαγ. False eng
+Masc., Μᾶδβς. False na
+pl. Ρ]. False eng
+as 85 False eng
+subst., βυῤρϑῖ., False eng
+rear γέαγ False eng
+# 84 13 15 guard,  rear. φσπμαγα,  γεαν.
+guard, φσπμαγα, False eng
+rear. γεαν. False eng
+# 85 40 39 TeXeuTdw,  Ter\euTHow,  éredevTyCA,  TE- τελευτάω,  τελευτήσω,  ἐτελεύτησα,  τε-
+τελευτάω, TeXeuTdw, True pp
+τελευτήσω, Ter\euTHow, True pp
+ἐτελεύτησα, éredevTyCA, True pp
+τε- TE- True half1g
+# 86 35 34 rerevTnka,  éredeuTHOny [TedevTh ], τελεύτηκα,  ἐτελευτήθην [τελευτή],
+τελεύτηκα, rerevTnka, True pp
+ἐτελευτήθην éredeuTHOny True pp
+[τελευτή], [TedevTh True lex
+], NA False na
+# 87 42 43 finish ,  intr. (sc. rov Blov),  end one’s ηῖδά,  ἵπῖγ,  (8ς. τὸν βίον),  4716] ογιε᾽ς
+finish ηῖδά, False eng
+, ἵπῖγ, False na
+intr. (8ς. False eng
+(sc. τὸν False eng
+βίον), rov True pp
+Blov), 4716] False na
+end ογιε᾽ς False eng
+one’s NA False na
+# 88 41 40 life,  die. Pte. as adv.,  TeXeuTa@y,  at ἐγ),  οἶδ. Ῥῖς. ἂβ δέῖν.,  τελευτῶν,  αἴ
+life, ἐγ), False eng
+die. οἶδ. False eng
+Pte. Ῥῖς. False na
+as ἂβ False eng
+adv., δέῖν., False eng
+τελευτῶν, TeXeuTa@y, True form
+at αἴ False eng
+# 89 26 25 last,  finally; cp. TéXos. ἑαφ 9 πα δέν,  ΟΡ. τέλος.
+last, ἑαφ False eng
+finally; 9 False eng
+cp. πα False eng
+TéXos. δέν, False na
+# 90 42 38 TedeuTh,  -75 [cp. Tédos ],  exd,  with or τελεντή,  -ς [ὁρ. τέλος],  ἐπα,  ΜῊ οὗ
+TedeuTh, τελεντή, False na
+-75 -ς False na
+[cp. [ὁρ. False eng
+τέλος], Tédos True pp
+], ἐπα, False na
+exd, ΜῊ False na
+with οὗ False eng
+or NA False eng

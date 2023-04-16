@@ -1,5 +1,4 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΓΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΚΥ False na
+
 # 1 35 35 awrovddlw,  crovidcoua,  ecroviaca, σπουδάζω,  σπουδάσομαι,  ἐσπούδασα,
 σπουδάζω, awrovddlw, True pp
 σπουδάσομαι, crovidcoua, True pp
@@ -8,7 +7,6 @@ VOCABULARY ΝΟΓΑΒΌΓΑΚΥ False na
 ἐσπούδακα, éorovdaxa, True pp
 ἑἐσπούδασμαι éoroviacuat True pp
 [σπουδή], [omovdy True lex
-], NA False na
 # 3 32 30 make haste,  work with alacrity. ἡαξε ἀαείφ,  τυογξ τυ αἰαεγιν.
 make ἡαξε False eng
 haste, ἀαείφ, False eng
@@ -39,7 +37,7 @@ or οὐ False eng
 earnestly. ἐαγγοοίέν. False eng
 # 9 29 31 orovdh,  -is,  haste,  speed, σπουδή,  -ῆς, ,  λασίε,  ςῥέεώ,
 σπουδή, orovdh, True lex
--is, -ῆς, False na
+-ῆς, False na
 haste, , False eng
 speed, λασίε, False eng
 # 10 42 41 ordédiov,  -ov,  pl. orddia,  rd,  or ord- στάδιον,  -ου,  Ρὶ. στάδια,  τά,  οἵ στά-
@@ -47,16 +45,16 @@ speed, λασίε, False eng
 -ου, -ov, True pp
 pl. Ρὶ. False eng
 στάδια, orddia, True form
-rd, τά, False eng
+τά, False eng
 or οἵ False eng
 στά- ord- True half1g
 # 11 38 37 dior,  of [bor.,  Eng. stadium],  szc- διοι,  οἱ [ὕοτ.,  Επρ. 8[δᾶϊπι,  “2α-
-dior, διοι, False na
+διοι, False na
 of οἱ False eng
 [bor., [ὕοτ., False eng
 Eng. Επρ. False eng
 stadium], 8[δᾶϊπι, False eng
-szc- “2α- False na
+sta- “2α- False na
 # 12 33 45 dium,  stade,  a Greek measure of 4Ζ}1:’721,  οἰααάΐξ,  ἃ (ἀὐτοοῖὶς τηθᾶϑατο οἱ
 dium, 4Ζ}1:’721, False na
 stade, οἰααάΐξ, False eng
@@ -75,7 +73,7 @@ or οὐ False eng
 # 14 36 39 Greek feet,  5824 Eng. feet; stadium Οτεοκ (δεῖ,  οσδ2 Επρ. ἰδεῖ; οἰααἶττέ7ε
 Greek Οτεοκ False na
 feet, (δεῖ, False eng
-5824 οσδ2 False na
+582.5 οσδ2 False na
 Eng. Επρ. False eng
 feet; ἰδεῖ; False eng
 stadium οἰααἶττέ7ε False eng
@@ -92,7 +90,7 @@ race τᾶσθ False eng
 in ἴῃ False eng
 Greek ατζεεὶς False na
 games, σᾶμπηθβ, False eng
-οοσγο- corre- True half1g
+corre- True half1g
 # 17 30 30 sponding to our 100-yard dash. ΒρΡΟπαηρ ἴο οὔὐ ΙΟο-γᾶγὰ ἀΔ5ἢ.
 sponding ΒρΡΟπαηρ False na
 to ἴο False eng
@@ -134,7 +132,7 @@ Introd. Ἰηίτοα. False eng
 ἐστασίασα éoraclaca True pp
 [στά- [ord- True half1g
 # 24 40 43 ows,  faction],  form a faction against, σις,  )αοἴΐο»],  70 γη2 α Μαοίϊογι ρα 1715,
-ows, σις, False na
+σις, False na
 faction], )αοἴΐο»], False eng
 form 70 False eng
 a γη2 False eng
@@ -149,11 +147,10 @@ with νι False eng
 dat. ἢ False eng
 # 26 40 39 oréyar pa,  -aros,  76 [creydfw (oréyn), στέγασμα,  -ατος,  τό[ στεγάζω (στέγη),
 στέγασμα, oréyar True pp
-pa, -ατος, False eng
-τό[ -aros, True form
-στεγάζω 76 True pp
+-ατος, False eng
+τό -aros, True form
+[στεγάζω 76 True pp
 (στέγη), [creydfw True lex
-(oréyn), NA False na
 # 27 34 35 cover],  covering,  tent covering. εον 7],  εονεγῖρ,  ζεγι7 εοὐ δ» ϑρ.
 cover], εον False eng
 covering, 7], False eng
@@ -161,14 +158,14 @@ tent εονεγῖρ, False eng
 covering. ζεγι7 False eng
 # 28 39 40 oréyn,  -ns [cogn.,  Lat. tego,  cover, στέγη,  -ης [ὁοορῃ.,  [, Δἱ. ορῦ,  εὐὐε,
 στέγη, oréyn, True lex
--ns -ης False na
+-ης False na
 [cogn., [ὁοορῃ., False na
 Lat. [, False na
 tego, Δἱ. False na
 cover, ορῦ, False eng
 # 29 36 35 téctum,  7oo/,  Eng. deck,  thatch], ἰδοΐιπ],  γος Ἐπρ. ἄθοκ,  {π4ῖο08],
 téctum, ἰδοΐιπ], False na
-γος 7oo/, True pp
+roof, True pp
 Eng. Ἐπρ. False eng
 deck, ἄθοκ, False eng
 thatch], {π4ῖο08], False eng
@@ -176,14 +173,14 @@ thatch], {π4ῖο08], False eng
 roof, γοΟ, False eng
 house, ἀοτέδό, False eng
 Lat. 1.Αἴ. False na
-¢éctum. ἐδοίιεηε. False na
+téctum. ἐδοίιεηε. False na
 # 31 37 39 ore(Bw,  -dorawa,  éoriBnuat,  tread; στείβω,  -ἐστειψα,  ἐστίβημαι,  ἐγεαά;,
 στείβω, ore(Bw, True pp
 -ἐστειψα, -dorawa, True pp
 ἐστίβημαι, éoriBnuat, True pp
 tread; ἐγεαά;, False eng
 # 32 33 36 ore:Bbuevac ddol,  beaten or fre- στειβόμεναι ὁδοί,  ὀφαϊζε οὐὗ , 27ὲ-
-ore:Bbuevac στειβόμεναι False na
+στειβόμεναι False na
 ὁδοί, ddol, True form
 beaten ὀφαϊζε False eng
 or οὐὗ False eng
@@ -210,10 +207,10 @@ equip. ἐφηεῖ2. False eng
 -όν -dy True pp
 (bor, [Ὀοϊζ, False eng
 Eng. Επρ. False eng
-δἔθῃπορτζα- stenogra- True half1g
+stenogra- True half1g
 # 38 36 40 phy],  zarrow. Neut.,  sing. or pl., ῬὮΥ17,  παγγοτυ. Νεαυῖ, ,  βίην. οἵ Ρ].,
 phy], ῬὮΥ17, False na
-zarrow. παγγοτυ. False na
+narrow. παγγοτυ. False na
 Neut., Νεαυῖ, False na
 sing. , False eng
 or βίην. False eng
@@ -224,11 +221,10 @@ subst., 50 False eng
 pass, 8[., False eng
 defile. 2455, False eng
 # 40 43 42 orevoxwpla,  -ας [crevds,  x Bpos,  place], στενοχωρίᾷ,  -ας [στενός,  χῶρος,  2ἐαεε],
-orevoxwpla, στενοχωρίᾷ, False na
+στενοχωρία, False na
 -ας -ας False na
 [στενός, [crevds, True pp
-x χῶρος, False eng
-Bpos, 2ἐαεε], False na
+χῶρος, False eng
 place], NA False eng
 # 41 13 14 narrow place. ηαγ7οῖυ 2έαεε.
 narrow ηαγ7οῖυ False eng
@@ -244,19 +240,13 @@ love. ὕουε. False eng
 ἐστέρησα, éorépnoa, True pp
 -εστέρηκα, -eorépynxa, True pp
 # 44 36 36 éorépnuat,  dorepyOny (the fut. mid. ἑἐστέρημαι,  ἐστερήθην (ἴπε ἰαϊ. τά.
-ἑἐστέρημαι, éorépnuat, True pp
+ἐστέρημαι, éorépnuat, True pp
 ἐστερήθην dorepyOny True pp
 (the (ἴπε False eng
 fut. ἰαϊ. False eng
 mid. τά. False eng
-# 45 13 14 ANABASIS — 32 ΑΝΑΒΑΒΙΒ -- 32
-ANABASIS ΑΝΑΒΑΒΙΒ False na
-— -- False na
-32 32 False na
-# 46 6 8 Google (ποορσίς
-Google (ποορσίς False na
-# 47 3 3 497 497
-497 497 False na
+
+
 # 48 37 38 is used as pass.),  deprive,  rob of; ἶδ υϑεα 85 ρ455.),  αἐφγῖσνε,  γοῦ οὔ;
 is ἶδ False eng
 used υϑεα False eng
@@ -279,7 +269,7 @@ pass. ρᾶ58. False eng
 στέρομαι orépoat True pp
 with Μ|ῃ False eng
 pf. Ρΐ, False eng
-τηδδη- mean- True half1g
+mean- True half1g
 # 51 40 41 ing,  be deprived of,  be without,  have ἵηρ,  δε ἀεῤγῖίνεα οἵ,  ὁέ τυϊἐλοι,  ἄσνε
 ing, ἵηρ, False eng
 be δε False eng
@@ -305,7 +295,6 @@ see 5ε6 False eng
 # 56 42 41 oreppas [oreppds = orepeds,  stiff,  firm; στερρῶς [στερρός -- στερεός,  “7,  37, 7;
 στερρῶς oreppas True form
 [στερρός [oreppds True pp
-= -- False na
 στερεός, orepeds, True pp
 stiff, “7, False eng
 firm; 37, False eng
@@ -313,7 +302,7 @@ firm; 37, False eng
 bor., Ὀοτ., False eng
 Eng. Επρ. False eng
 stereopticon, ϑίθσεορίίζοοη, False eng
-ϑδίθσθο- stereo- True half1g
+stereo- True half1g
 # 58 28 30 type],  firmly,  resolutely. ἴγρδ)],   γριέν,  γεδοέεεζν, .
 type], ἴγρδ)], False eng
 firmly, γριέν, False eng
@@ -342,7 +331,7 @@ wreath, τυγεαίἦ, False eng
 ἐστεφανώθην dorepavwOnv True pp
 [στέφα- [orépa- True half1g
 # 64 38 43 vos],  crown,  wreathe,; mid.,  put on νο09},  47 οτογῖ,  τυγεαίδέ,  τοϊὰ.,  2 072
-vos], νο09}, False na
+νος], νο09}, False na
 crown, 47 False eng
 wreathe,; οτογῖ, False eng
 mid., τυγεαίδέ, False eng
@@ -353,13 +342,13 @@ a α False eng
 wreath, τυγεαζᾷ. False eng
 # 66 28 29 orivat,  orhods,  see lornu. στῆναι,  στήσᾶς,  5ε6 ἴστημι.
 στῆναι, orivat, True form
-orhods, στήσᾶς, False na
+στήσας, False na
 see 5ε6 False eng
 ἴστημι. lornu. True pp
 # 67 38 38 or(Bos,  -ov [orelBw],  track,  trail. στίβος,  -ου [στείβωΊ,  Ζγαεξ,  ἐγαΐδ,
 στίβος, or(Bos, True pp
 -ου -ov True pp
-[orelBw], [στείβωΊ, False na
+[στείβω], [στείβωΊ, False na
 track, Ζγαεξ, False eng
 trail. ἐγαΐδ, False eng
 # 68 37 39 otidos,  -ovs,  7b,  compact body; of στῖφος,  -ους,  τό,  εονιῥαςΐ ὀοών,  οἵ
@@ -383,7 +372,7 @@ flesh ἐδ False eng
 scraper, δεγαΞό᾽, False eng
 # 71 39 37 Lat. s¢rigzdis,  used by athletes after 1, Αἱ. οἱγιρι 5,  θα ὈΥ δι ῃ]είθβ δου
 Lat. 1, False na
-s¢rigzdis, Αἱ. False na
+strigidis, Αἱ. False na
 used οἱγιρι False eng
 by 5, False eng
 athletes θα False eng
@@ -410,7 +399,7 @@ p. Ρ. False eng
 58. 58. False na
 # 75 41 38 oroAh,  -7s [orédAAw; bor.,  Eng. stole], στολή,  -ς [στέλλω; Ὀοτ.,  Εν. 8[016],
 στολή, oroAh, True lex
--7s -ς False na
+-ῆς False na
 [στέλλω; [orédAAw; True pp
 bor., Ὀοτ., False eng
 Eng. Εν. False eng
@@ -489,7 +478,6 @@ force. 707 False eng
 ἐστράτευκα, éorparevka, True pp
 ἐστράτευμαι éorpadrevyat True pp
 [στρατός], [orpards True pp
-], NA False na
 # 91 35 37 make an expedition,  go on an expe- »εαξέ α1 ἐχ οἰ 101,  φῸ ΟἿΣ α72 ὁχῤέ-
 make »εαξέ False eng
 an α1 False eng

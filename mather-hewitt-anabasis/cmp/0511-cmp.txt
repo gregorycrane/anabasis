@@ -1,0 +1,531 @@
+
+# 1 35 35 rest (cp. the slang use of ‘ gather γεεζ (ΟΡ. ἴδε 5ἴδηρ υδ6 οὗ “ραίδμει
+rest γεεζ False eng
+(cp. (ΟΡ. False eng
+the ἴδε False eng
+slang 5ἴδηρ False eng
+use υδ6 False eng
+of οὗ False eng
+‘gather NA False eng
+# 2 15 16 in’),  capture. ἴπ.᾽),  εαῤέμγε.
+in’), ἴπ.᾽), False na
+capture. εαῤέμγε. False eng
+# 3 43 42 ovadéyo [-A\dyu,  -Adéw,  -éAeka,  -elhoxa, συλλέγω [-λέγω,  -λέξω,  «ἔλεξα,  -είλοχα,
+συλλέγω ovadéyo True pp
+[-λέγω, [-A\dyu, True pp
+-λέξω, -Adéw, True pp
+-έλεξα, -éAeka, True pp
+-είλοχα, -elhoxa, True pp
+# 4 34 33 -elXeyuac and -AéAeypuat,  -edéyny «εἰλεγμαι ἀῃὰ -λέλεγμαι,  -ελέγην
+-είλεγμαι -elXeyuac True pp
+and ἀῃὰ False eng
+-λέλεγμαι, -AéAeypuat, True pp
+-ελέγην -edéyny True pp
+# 5 34 34 and -edéxOnv,  gather,  usually in Δα -εἐλέχθην,  ραϊλεγ,  ἈΒΌΔΙΪΥ ἴῃ
+and Δα False eng
+-ελέχθην, -edéxOnv, True pp
+gather, ραϊλεγ, False eng
+usually ἈΒΌΔΙΪΥ False eng
+in ἴῃ False eng
+# 6 40 39 cpds. in prose],  collect,  gather,  as- σρα5. ἴῃ ῥύοβε],  εοὐδεί,  σαίλεγ,  α5-
+cpds. σρα5. False na
+in ἴῃ False eng
+prose], ῥύοβε], False eng
+collect, εοὐδεί, False eng
+gather, σαίλεγ, False eng
+as- True half1g
+# 7 36 42 semble,  raise an army; pass.,  come σερεόέο,  γαΐδέ ΔῊ ΔΤΙΩΥ; ΡὈΆ55., ) Ζ07716
+semble, σερεόέο, False eng
+raise γαΐδέ False eng
+an ΔῊ False eng
+army; ΔΤΙΩΥ; False eng
+pass., ΡὈΆ55., False eng
+come ) False eng
+# 8 20 21 together,  assemble. ζορείλεγ,  αϑϑοηεὀέρ,
+together, ζορείλεγ, False eng
+assemble. αϑϑοηεὀέρ, False eng
+# 9 38 38 avrAdoyh,  -7s [ovdd\éyw],  gathering; συλλογή,  -ῆς,  [συλλέγω],  ραιλεγέρρ,
+συλλογή, avrAdoyh, True lex
+-ῆς, False na
+[συλλέγω], [ovdd\éyw], True pp
+gathering; ραιλεγέρρ, False eng
+# 10 19 19 of soldiers,  /evy. οὗ 5βο] άἴεγβ,  ἐὺ.
+of οὗ False eng
+soldiers, 5βο] False eng
+levy. άἴεγβ, False na
+# 11 38 40 oupBalva [Balvw,  go],  come together, συμβαίνω [βαίνω,  ρ07,  ἐεο»16 Ἰορείλεγ,
+συμβαίνω oupBalva True pp
+[βαίνω, [Balvw, True pp
+go], ρ07, False eng
+come ἐεο»16 False eng
+together, Ἰορείλεγ, False eng
+# 12 39 41 impers.,  come to pass,  happen; éx T&v ἐτηρθῦβ.,  9076 10 ῥα55,  ἀαῤῥέ»,  ἐκ τῶν
+impers., ἐτηρθῦβ., False eng
+come 9076 False eng
+to 10 False eng
+pass, ῥα55, False eng
+happen; ἀαῤῥέ», False eng
+ἐκ éx True lex
+τῶν T&v True form
+# 13 31 34 oupBdvrwy,  from what happened. συμβάντων,  770»: τυλαΐ λαῤῥεγεεα,
+συμβάντων, oupBdvrwy, True pp
+from 770»: False eng
+what τυλαΐ False eng
+happened. λαῤῥεγεεα, False eng
+# 14 39 37 ovupBddAdw [BdAdw,  throw,  bor.,  Eng. συμβάλλω [βάλλω,  Ζάγοιυ; Ὀοτ.,  Επρ.
+συμβάλλω ovupBddAdw True pp
+[βάλλω, [BdAdw, True pp
+throw, Ζάγοιυ; False eng
+bor., Ὀοτ., False eng
+Eng. Επρ. False eng
+# 15 34 35 symbol],  throw together,  gather; ΒΥΤ1ΌΟ1],  Ζάγοιν “ορείλεγ,  ρωΐδγ,
+symbol], ΒΥΤ1ΌΟ1], False eng
+throw Ζάγοιν False eng
+together, “ορείλεγ, False eng
+gather; ρωΐδγ, False eng
+# 16 37 42 mid.,  contribute,  make suggestions. τοὶϊά.,  εορίγ διείο,  ριξε διιρρεσί10)15.
+mid., τοὶϊά., False eng
+contribute, εορίγ False eng
+make διείο, False eng
+suggestions. ριξε False eng
+# 17 37 36 oupBonPéw [Bondéw,  help],  help with συμβοηθέω [βοηθέω,  ἀε}1,  ἀεί τυττὰ
+συμβοηθέω oupBonPéw True pp
+[βοηθέω, [Bondéw, True pp
+help], ἀε}1, False eng
+help ἀεί False eng
+with τυττὰ False eng
+# 18 23 26 others; jot in helping. ΟἴοΥΒ; 2012: ἐγ; ἀεέῤϊτηρ.
+others; ΟἴοΥΒ; False eng
+join 2012: False eng
+in ἐγ; False eng
+helping. ἀεέῤϊτηρ. False eng
+# 19 38 37 ovupBovredw [Bovretw,  plan],  advise, συμβουλεύω [βουλεύω,  2.α;},  αὐγίσε,
+συμβουλεύω ovupBovredw True pp
+[βουλεύω, [Bovretw, True pp
+plan], 2.α;}, False eng
+advise, αὐγίσε, False eng
+# 20 36 41 give advice,  with dat.; mid.,  con- φίνε αὐὠὐνίεε,  νυν ἢ ἀδῖ.; ταϊά.,  εογ:-
+give φίνε False eng
+advice, αὐὠὐνίεε, False eng
+with νυν False eng
+dat.; ἢ False eng
+mid., ἀδῖ.; False eng
+con- True pp
+# 21 37 36 sult with,  ask advice of,  with dat. ττὐξ τοτὰ,  αδξ αὐὐνίες οὐς ν ἢ ἀαΐ.
+sult ττὐξ False na
+with, τοτὰ, False eng
+ask αδξ False eng
+advice αὐὐνίες False eng
+of, οὐς False eng
+with ν False eng
+dat. ἢ False eng
+# 22 42 41 obpBovros,  -ov [BovrAy,  plan],  adviser, σύμβουλος,  -ου [βουλή,  261],  αὠὐνήξεν,
+σύμβουλος, obpBovros, True pp
+-ου -ov True pp
+[βουλή, [BovrAy, True lex
+plan], 261], False eng
+adviser, αὠὐνήξεν, False eng
+# 23 10 11 counselor. κοηγιϑοίον.
+counselor. κοηγιϑοίον. False eng
+# 24 37 40 cuppavOdvea [uarOdvw,  learn),  learn συμμανθάνω [μανθάνω,  ᾿φα᾽.71],  Ζεα 771
+συμμανθάνω cuppavOdvea True pp
+[μανθάνω, [uarOdvw, True pp
+learn), ᾿φα᾽.71], False eng
+learn Ζεα False eng
+# 25 37 42 with; become familiar with,  get used «υἱτά,  δεεονε γα ρεῖζίαν τυῖίλ,  σοί τδοα
+with; «υἱτά, False eng
+become δεεονε False eng
+familiar γα False eng
+with, ρεῖζίαν False eng
+get τυῖίλ, False eng
+used σοί False eng
+# 26 3 3 Zo. ζο.
+to. ζο. False na
+# 27 43 41 obppaxos,  -o» [udxouat,  fight],  fighting σύμμαχος,  -ον [μάχομαι,  βρλ7),  Ἀρλδίης
+σύμμαχος, obppaxos, True pp
+-ον -o» True pp
+[μάχομαι, [udxouat, True pp
+fight], βρλ7), False eng
+fighting Ἀρλδίης False eng
+# 28 38 39 along with,  allied. Assubst.,  masc., σέο» τυΐἤ,  αὐτά,  Α5 5υῦ5ῖ.,  πγά5ς, ,
+along σέο» False eng
+with, τυΐἤ, False eng
+allied. αὐτά, False eng
+As
+subst., Α5 False na
+masc., 5υῦ5ῖ., False eng
+# 29 37 37 ally; neut. pl.,  helps,  advantages. αὐν; πεαῖ. ρΡ].,  ἀεζῥε,  αὐναμέαρες.
+ally; αὐν; False eng
+neut. πεαῖ. False eng
+pl., ρΡ]., False eng
+helps, ἀεζῥε, False eng
+advantages. αὐναμέαρες. False eng
+# 30 38 39 ouppelyvtpe [pelyrum,  peliw,  Euecta, συμμείγνυμι [μείγνῦμι,  μείξω,  ἔμειξα,
+συμμείγνυμι ouppelyvtpe True pp
+[μείγνῦμι, [pelyrum, True pp
+μείξω, peliw, True pp
+ἔμειξα, Euecta, True pp
+# 31 32 31 péperyuar,  euelxOnv and éulyny, μέμειγμαι,  ἐμείχθην πὰ ἐμίγην,
+μέμειγμαι, péperyuar, True pp
+ἐμείχθην euelxOnv True pp
+and πὰ False eng
+ἐμίγην, éulyny, True pp
+# 32 38 42 mix ],  mix with,  fallin with,  join, »εῖχ],  »εἴχ τοὶ ,  γαϊ {γε τοϊτά,  7οἦ»Ὁ,
+mix »εῖχ], False eng
+], »εἴχ False na
+mix τοὶ False eng
+with, , False eng
+fall
+in γαϊ False na
+with, {γε False eng
+join, τοϊτά, False eng
+# 33 37 39 join battle,  begin battle (cp. slang , 7οἐμ δαρίε,  δερὶγε ὀαίέε (ΠΡ. 5'δῃὴρ
+join , False eng
+battle, 7οἐμ False eng
+begin δαρίε, False eng
+battle δερὶγε False eng
+(cp. ὀαίέε False eng
+slang (ΠΡ. False eng
+# 34 37 33 ‘mix it up with’ any one),  with dat. Ἅ“τὴἶχ ἴἴ ὉΡ ν᾽ δὴν οπ6),  νι ἐδ.
+‘mix Ἅ“τὴἶχ False na
+it ἴἴ False eng
+up ὉΡ False eng
+with’ ν᾽ False na
+any δὴν False eng
+one), οπ6), False eng
+with νι False eng
+dat. ἐδ. False eng
+# 35 39 38 obpras,  -raca,  -wav [was,  all],  all σύμπᾶς,  -πᾶσα,  -πταν [πᾶς,  αἰ],  αὔ
+σύμπᾶς, False na
+-πᾶσα, -raca, True pp
+-παν False na
+[πᾶς, False eng
+all], αἰ], False eng
+all αὔ False eng
+# 36 35 35 taken together,  all. Neut. acc. as αξορ Ἰοροίλεγ,  αἰ. Ναευῖ,  δος. 85
+taken αξορ False eng
+together, Ἰοροίλεγ, False eng
+all. αἰ. False eng
+Neut. Ναευῖ, False na
+acc. δος. False eng
+as 85 False eng
+# 37 36 36 adv.,  7d ctumar,  taking all things δᾶν.,  τὸ σύμπαν,  ἑαξῖηρ αὐῤ ζλῖηρς
+adv., δᾶν., False eng
+τὸ 7d True form
+σύμπαν, ctumar, True form
+taking ἑαξῖηρ False eng
+all αὐῤ False eng
+things ζλῖηρς False eng
+# 38 24 24 together,  on the whole. ἐορείλεν,  ο» 1} τυλοίφ.
+together, ἐορείλεν, False eng
+on ο» False eng
+the 1} False eng
+whole. τυλοίφ. False eng
+# 39 36 42 cuprépre [réurw,  send},  send along συμπέμπω [πέμπω,  56γ14] ,  «ἐ»1α] αἰογιρ'
+συμπέμπω cuprépre True pp
+[πέμπω, [réurw, True pp
+send], 56γ14] False na
+send , False eng
+along «ἐ»1α] False eng
+# 40 37 36 with,  send as escort,  with acc. and «υἱδά,  ξοηπα ας σεεογί,  ἢ ἀοο. δηὰ
+with, «υἱδά, False eng
+send ξοηπα False eng
+as ας False eng
+escort, σεεογί, False eng
+with ἢ False eng
+acc. ἀοο. False eng
+and δηὰ False eng
+# 41 4 4 dat. ἀαί.
+dat. ἀαί. False eng
+# 42 35 34 cuprtrre [rirrw,  fall; bor.,  Eng. συμπίπτω [πίπτω,  κι,  Ὅοτ.,  Επρ.
+συμπίπτω cuprtrre True pp
+[πίπτω, [rirrw, True pp
+fall; κι, False eng
+bor., Ὅοτ., False eng
+Eng. Επρ. False eng
+# 43 38 38 symptom ],  fall together with,  grap- ϑυιρίοπι],  κα  ἐοσείλογ τοῖτλ,  φγαῤ-
+symptom ϑυιρίοπι], False eng
+], True pp
+fall ἐοσείλογ False eng
+together τοῖτλ, False eng
+with, φγαῤ- False eng
+grap- NA False na
+# 44 9 9 ple with. 2ἐ6 ευτί.
+ple 2ἐ6 False na
+with. ευτί. False eng
+
+
+
+# 47 41 37 obvprrews,  -wy [wrréws,  full,  cp. mlp- σύμπλεως,  -ων [πλέως,  Με,  ορ. πίμ-
+σύμπλεως, obvprrews, True pp
+-ων -wy True pp
+[πλέως, [wrréws, True lex
+full, Με, False eng
+cp. ορ. False eng
+πίμ- mlp- True half1g
+# 48 40 43 rAnu,  fill; cogn.,  Lat. plénus,  /2//, πλημι,  ΛΔ,  οορη, ,  1, 4ἴ. ΡΊΙδηυ8,  “πε,
+πλημι, rAnu, True pp
+fill; ΛΔ, False eng
+cogn., οορη, False na
+Lat. , False na
+plénus, 1, False na
+full, 4ἴ. False na
+# 49 36 34 Eng. full],  well filled,  with gen. Επηρ. 1.11],  τοοῤ πὠεα,  σὰ ρσεη.
+Eng. Επηρ. False eng
+full], 1.11], False eng
+well τοοῤ False eng
+filled, πὠεα, False eng
+with σὰ False eng
+gen. ρσεη. False eng
+# 50 11 12 Cp. éxmews. ζν. ἔκπλεως.
+Cp. ζν. False na
+ἔκπλεως. éxmews. True pp
+# 51 40 37 cuprod(fw [-rodliw,  tie the feet],  tie συμποδίζω [-ποδίζω,  216 ὠ[ε γε),  δέ
+συμποδίζω cuprod(fw True pp
+[-ποδίζω, [-rodliw, True pp
+tie 216 False eng
+the ὠ[ε False eng
+feet], γε), False eng
+tie δέ False eng
+# 52 36 35 the feet together,  hamper,  impede. {ἠδ “εεί Τορείάθν,  ἀαεβοῦ,  ἱριεα.
+the {ἠδ False eng
+feet “εεί False eng
+together, Τορείάθν, False eng
+hamper, ἀαεβοῦ, False eng
+impede. ἱριεα. False eng
+# 53 40 37 ouptroAcuéw [rorenéw,  fight],  fight on συμπολεμέω [πολεμέω,  ἤρλ1],  Αρλ ον»
+συμπολεμέω ouptroAcuéw True pp
+[πολεμέω, [rorenéw, True pp
+fight], ἤρλ1], False eng
+fight Αρλ False eng
+on ον» False eng
+# 54 39 40 the same side with,  help in war,  with ζὰες σανιὲ σἱἷδ τυ,  ἀεζῤῥ ἴῃ νναῦ,  τ ἢ
+the ζὰες False eng
+same σανιὲ False eng
+side σἱἷδ False eng
+with, τυ, False eng
+help ἀεζῤῥ False eng
+in ἴῃ False eng
+war, νναῦ, False eng
+with τ False eng
+# 55 6 6 dat. - ααί. .
+dat. ααί. False eng
+# 56 36 35 ouptropedopat [ropevouat,  advance], συμπορεύομαι [πορεύομαι,  αὐνα7:ς],
+συμπορεύομαι ouptropedopat True pp
+[πορεύομαι, [ropevouat, True pp
+advance], αὐνα7:ς], False eng
+# 57 26 26 go along with,  accompany. φῸ αἰογρ τυτἄ,  ἀεεο»βαργ.
+go φῸ False eng
+along αἰογρ False eng
+with, τυτἄ, False eng
+accompany. ἀεεο»βαργ. False eng
+# 58 37 36 cuprparre [mpdrrw,  do],  help in do- συμπράᾶττω [πράττω,  «01,  ἀεῥ ἵν ἐ-
+συμπράττω cuprparre True pp
+[πράττω, [mpdrrw, True pp
+do], «01, False eng
+help ἀεῥ False eng
+in ἵν False eng
+do- ἐ- False na
+# 59 35 35 ing,  codperate with,  with acc. of ἔηρ,  εοδῤογαΐέ τουῖδῆ,  ΜΙ δος. οὗ
+ing, ἔηρ, False eng
+cooperate εοδῤογαΐέ False na
+with, τουῖδῆ, False eng
+with ΜΙ False eng
+acc. δος. False eng
+of οὗ False eng
+# 60 25 26 thing and dat. of person. τὨϊηρ᾽ δηά ἠδῖ. οἵ ρεύβοῃ.
+thing τὨϊηρ᾽ False eng
+and δηά False eng
+dat. ἠδῖ. False eng
+of οἵ False eng
+person. ρεύβοῃ. False eng
+# 61 35 36 cuprpobtpéopar [rpofiudoua,  desire συμπροθυμέομαι [προθυμέομαι,  ἐἶδεὶγ
+συμπροθυμέομαι cuprpobtpéopar True pp
+[προθυμέομαι, [rpofiudoua, True pp
+desire ἐἶδεὶγ False eng
+# 62 37 35 earnestly],  join in earnestly desir- ἐαγοεν},  7οἵμι ἐμ σαγηοείν αἷδ517-
+earnestly], ἐαγοεν}, False eng
+join 7οἵμι False eng
+in ἐμ False eng
+earnestly σαγηοείν False eng
+desir- True half1g
+# 63 37 39 ing,  be equally destrous,  with acc. ἦηρ,  ὅδφ ἐφμαδέν οἰδδῖγοιέ5,  ν ἢ δοο.
+ing, ἦηρ, False eng
+be ὅδφ False eng
+equally ἐφμαδέν False eng
+destrous, οἰδδῖγοιέ5, False na
+with ν False eng
+acc. ἢ False eng
+# 64 8 8 and inf. δηα ἰηΐ.
+and δηα False eng
+inf. ἰηΐ. False eng
+# 65 39 41 cupdépw [dépw,  dear],  bring together, συμφέρω [φέρω,  ὀέεα»},  ὀγτν»ρ ἑορείλεν,
+συμφέρω cupdépw True pp
+[φέρω, [dépw, True pp
+bear], ὀέεα»}, False eng
+bring ὀγτν»ρ False eng
+together, ἑορείλεν, False eng
+# 66 40 41 collect; impers.,  be profitable,  expe- εοὐξεεί, ,  ἱτρθῦβ.,  δ 2γοβίαῤέρ,  6χ26-
+collect; εοὐξεεί, False eng
+impers., , False eng
+be ἱτρθῦβ., False eng
+profitable, δ False eng
+expe- 2γοβίαῤέρ, False na
+# 67 21 20 dient,  advantageous. τη,  αὐναρίαροολδ. .
+dient, τη, False na
+advantageous. αὐναρίαροολδ. False eng
+# 68 43 49 ovv [bor.,  Eng. syl-,  sym-,  -syn-,  sy-, σύν [ὕοτ..,  Επηρ. 8}]1-,  Βγυ11-,  -5γ5-,  85γ-,
+σύν ovv True lex
+[bor., [ὕοτ.., False eng
+Eng. Επηρ. False eng
+syl-, 8}]1-, False na
+sym-, True half1g
+-syn-, True half1g
+sy-, 85γ-, False na
+# 69 36 36 or sys-,  as in syllable,  sympathy, ΟΥ 830Χ8-,  ἃ5 ἴῃ ϑΥ11416,  Βυ Δ ίΥ,
+or ΟΥ False eng
+sys-, 830Χ8-, False na
+as ἃ5 False eng
+in ἴῃ False eng
+syllable, ϑΥ11416, False eng
+sympathy, Βυ False eng
+# 70 35 36 syntax,  system],  prep. with dat., ϑυηίαχ,  βϑυϑίθιι]),  ργερ. ἢ ἀαῖ, ,
+syntax, ϑυηίαχ, False eng
+system], βϑυϑίθιι]), False eng
+prep. ργερ. False eng
+with ἢ False eng
+dat., ἀαῖ, False eng
+# 71 28 29 often used by Xenophon where οἴζεῃ υϑεὰ Ὀν Χεπόρῆοη ΨΏεσΓα
+often οἴζεῃ False eng
+used υϑεὰ False eng
+by Ὀν False eng
+Xenophon Χεπόρῆοη False na
+where ΨΏεσΓα False eng
+# 72 35 33 other Attic prose writers would use οἴμογ Αἰτῖς ργοβε νυϊεῖβ οῦ]α 188
+other οἴμογ False eng
+Attic Αἰτῖς False na
+prose ργοβε False eng
+writers νυϊεῖβ False eng
+would οῦ]α False eng
+use 188 False eng
+# 73 21 21 pera with gen.,  wth. μετά νὴ ροπ.,  τοϊίλ.
+μετά pera True pp
+with νὴ False eng
+gen., ροπ., False eng
+with. τοϊίλ. False na
+# 74 31 31 Idiomatic uses: on the side of, Ταϊοπιδῖις υ565: 0) ἦε οἱαφ οἵ,
+Idiomatic Ταϊοπιδῖις False na
+uses: υ565: False eng
+on 0) False eng
+the ἦε False eng
+side οἱαφ False eng
+of, οἵ, False eng
+# 75 32 32 with the aid of,  in codperation τὐὐ 11ὲ αἴάώ οἱ 1π «οὐῤόγαΐξίο»ε
+with τὐὐ False eng
+the 11ὲ False eng
+aid αἴάώ False eng
+of, οἱ False eng
+in 1π False eng
+codperation «οὐῤόγαΐξίο»ε False na
+# 76 34 36 with,  in (of dress); ol ody airy, τὐΐϊίά,  ἦπ (οἵ ἦτε55); οἱ σὺν αὐτῷ,
+with, τὐΐϊίά, False eng
+in ἦπ False eng
+(of (οἵ False eng
+dress); ἦτε55); False eng
+οἱ False eng
+σὺν ody True form
+αὐτῷ, False eng
+# 77 21 25 his men,  his troops. Δϊς »ιδγ:,  ἀϊς ἐγοοΐς. ᾿
+his Δϊς False eng
+men, »ιδγ:, False eng
+his ἀϊς False eng
+troops. ἐγοοΐς. False eng
+# 78 36 33 In cpds,  it signifies ¢ogether,  or Ιῃ ορά5. Ἢ δἰρῃϊῃεθ δορεῖθόγ,  οὐ
+In Ιῃ False na
+cpds, ορά5. False na
+it Ἢ False eng
+signifies δἰρῃϊῃεθ False eng
+together, δορεῖθόγ, False na
+or οὐ False eng
+# 79 34 33 denotes cotfperation or accompant- ἀεποίεβ εὐδῥόγαΐίορ οὐ αεζομῃαμῖ-
+denotes ἀεποίεβ False eng
+cooperation εὐδῥόγαΐίορ False na
+or οὐ False eng
+accompant- True half1g
+# 80 34 43 ment,  and becomes by assimilation »ι 612,  απὰ Ὀδοοπ)ε5. ΟΥ̓ 8.551 Π}}]δ!]ο ἢ
+ment, »ι False eng
+and 612, False eng
+becomes απὰ False eng
+by Ὀδοοπ)ε5. False eng
+assimilation ΟΥ̓ False eng
+# 81 34 36 or euphony ovy- before labials and ΟΥ̓ ΕἜΡΒΟΩΥ συμ- Ὀείοτε 14 01415 ἃπά
+or ΟΥ̓ False eng
+euphony ΕἜΡΒΟΩΥ False eng
+συμ- ovy- True half1g
+before Ὀείοτε False eng
+labials 14 False eng
+and 01415 False eng
+# 82 39 38 Ht,  ovy- before palatals,  avA- before μ,  σνγ- Ὀεέοτε ραϊδίαϊβ,  συλ- Ὀεΐοτα
+μ, False na
+σνγ- ovy- True half1g
+before Ὀεέοτε False eng
+palatals, ραϊδίαϊβ, False eng
+συλ- avA- True half1g
+before Ὀεΐοτα False eng
+# 83 39 39 A,  sup- before p,  ava- before o@ fol- λ,  συρ- Ὀεΐοτε ρ,  σνσ- Ὀδίοτε σ᾽ [ο]-
+λ, False na
+συρ- sup- True half1g
+before Ὀεΐοτε False eng
+ρ, False eng
+συσ- ava- True half1g
+before Ὀδίοτε False eng
+σ False na
+fol- [ο]- False na
+# 84 35 37 lowed by a vowel,  and ov- before & Ἰονγεὰ Ὀγ ἃ νονψεὶ,  ἀπά συ- Ὀείοτε ᾧ
+lowed Ἰονγεὰ False eng
+by Ὀγ False eng
+a ἃ False eng
+vowel, νονψεὶ, False eng
+and ἀπά False eng
+συ- ov- True half1g
+before Ὀείοτε False eng
+ζ & True form
+# 85 33 37 or o followed by a consonant; cp. ΟΥὙ σ [οἸ]οννεα ὈΥ ἃ σοῃηβοηδηῖΐ; ΟΡ.
+or ΟΥὙ False eng
+σ False eng
+followed [οἸ]οννεα False eng
+by ὈΥ False eng
+a ἃ False eng
+consonant; σοῃηβοηδηῖΐ; False eng
+cp. ΟΡ. False eng
+# 86 32 32 Eng. words (see above) beginning Επρ. ψογάς. (5866. αὔονε) ερί πη
+Eng. Επρ. False eng
+words ψογάς. False eng
+(see (5866. False eng
+above) αὔονε) False eng
+beginning ερί False eng
+# 87 41 48 with syl-,  svm-,  syn-, and sy- OF Sy5-. ψ ἢ σνδη,  51, 21-,  δ} 21-ῷ ΔῈ ἢ δγε ΟΥ 5},  8-
+with ψ False eng
+syl-, True lem
+svm-, σνδη, False na
+syn-, 51, False na
+and 21-, False eng
+sy- δ} False na
+or 21-ῷ False na
+sys-. ΔῈ False na
+# 88 42 41 cuvayelpw [dvyelow,  collect],  gather to- συναγείρω [ἀγείρω,  εοἰῤρεξ],  ραΐδέν 2ο-
+συναγείρω cuvayelpw True pp
+[ἀγείρω, [dvyelow, True pp
+collect], εοἰῤρεξ], False eng
+gather ραΐδέν False eng
+to- 2ο- False na
+# 89 18 18 gether,  assemble, φείλεγ,  αϑρονὀέξ,
+gether, φείλεγ, False eng
+assemble, αϑρονὀέξ, False eng
+# 90 37 42 cuvayw [dyw,  /ead; bor.,  Eng. syna- συνάγω [ἄγω,  “εαὦἱ,  Ὀοτ.,  ΕΠρΡ. Β011πᾶ-
+συνάγω cuvayw True pp
+[ἄγω, [dyw, True pp
+lead; “εαὦἱ, False na
+bor., Ὀοτ., False eng
+Eng. ΕΠρΡ. False eng
+syna- True half1g

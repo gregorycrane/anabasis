@@ -1,0 +1,510 @@
+# 0 3 3 $02 502
+$02 502 False na
+# 1 38 37 odevSovaw [odevidvn],  sling,  use the σφενδονάω [σφενδόνη],  τἰτρ,  τ66 116
+σφενδονάω odevSovaw True pp
+[σφενδόνη], [odevidvn], True lex
+sling, τἰτρ, False eng
+use τ66 False eng
+the 116 False eng
+# 2 6 6 sling. οἔΐηρ.
+sling. οἔΐηρ. False eng
+# 3 43 45 odevdévn,  -ns,  sling,  sling stone,  bul- σφενδόνη,  -ῆς,  σἐϊγιρ,  5ἰϊη0᾽ δίορο,  ὀπέ-
+σφενδόνη, odevdévn, True lex
+-ns, -ῆς, False na
+sling, σἐϊγιρ, False eng
+sling 5ἰϊη0᾽ False eng
+stone, δίορο, False eng
+ὀπέ- bul- True half1g
+# 4 37 39 let. See Introd. § 59,  and Figs. 50, ἐεί. ὅεβ Ιηἴτγοα,  ὃ 59,  8η4 ΕἸΡ5. 50,
+let. ἐεί. False eng
+See ὅεβ False na
+Introd. Ιηἴτγοα, False eng
+§ ὃ False eng
+59, 59, False na
+and 8η4 False eng
+Figs. ΕἸΡ5. False na
+50, 50, False na
+# 5 19 19 51,  pp. 162,  163. 51,  ῬΡ. 162,  163.
+51, 51, False na
+pp. ῬΡ. False eng
+162, 162, False na
+163. 163. False na
+# 6 41 38 odevdovirns,  -ov [opeviovdw ],  slinger. σφενδονήτης,  -οὅ [σφενδονάω],  5171}.
+σφενδονήτης, odevdovirns, True lex
+-ov -οὅ False na
+[σφενδονάω], [opeviovdw True pp
+], 5171}. False na
+slinger. NA False eng
+# 7 37 39 See Introd. §§ 57,  59,  and Fig. 50, ὅες [ηϊγοά,  δὲ 57,  59,  δΔηα ΕἸΡ. 50,
+ὅες See True pp
+Introd. [ηϊγοά, False eng
+§§ δὲ False eng
+57, 57, False na
+59, 59, False na
+and δΔηα False eng
+Fig. ΕἸΡ. False na
+50, 50, False na
+# 8 7 7 p. 162. Ῥ. 162.
+p. Ῥ. False eng
+162. 162. False na
+# 9 17 18 odlor,  see ob. - σφίσι,  5εε οὗ. ες
+σφίσι, odlor, True form
+see 5εε False eng
+ob. οὗ. False eng
+ες - True pp
+# 10 34 35 o65pa [cdodpss,  vehement],  adv., σφόδρα [σφοδρός,  τνελεη!ε»,  δάν.,
+σφόδρα o65pa True lex
+[σφοδρός, [cdodpss, True pp
+vehement], τνελεη!ε», False eng
+adv., δάν., False eng
+# 11 39 40 very,  very much,  implicitly,  exceed- ψ6γ},  σεῦ» ρεεά,  Τριῤέϊεϊ ἐν,  ἐαεέεώ-
+very, ψ6γ}, False eng
+very σεῦ» False eng
+much, ρεεά, False eng
+implicitly, Τριῤέϊεϊ False eng
+ἐν, exceed- True lex
+# 12 6 7 ingly. ζγιρέν.
+ingly. ζγιρέν. False na
+# 13 14 14 addy,  see ob. σφῶν,  Ξεε οὗ.
+addy, σφῶν, False eng
+see Ξεε False eng
+ob. οὗ. False eng
+# 14 29 26 oyxebla,  -ας,  raft,  float. σχεδία,  -ας,  γα,  "οασί.
+σχεδία, oyxebla, True lex
+-ας, -ας, False na
+raft, γα, False eng
+float. "οασί. False eng
+# 15 18 18 42,  pp. 78,  125. 42,  ῬΡ. 78,  125.
+42, 42, False na
+pp. ῬΡ. False eng
+78, 78, False na
+125. 125. False na
+# 16 40 40 oxedév,  adv.,  nearly,  almost,  about, σχεδόν,  δᾶν.,  πεαγέν,  αὐριοσί,  αὐοι,
+σχεδόν, oxedév, True lex
+adv., δᾶν., False eng
+nearly, πεαγέν, False eng
+almost, αὐριοσί, False eng
+about, αὐοι, False eng
+# 17 8 7 chiefly. εἀτοῆν.
+chiefly. εἀτοῆν. False eng
+# 18 40 39 ox ipa,  -aros,  76 [cp. oxhow,  fut. of σχῆμα,  -ατος,  τό [ςρ. σχήσω,  ἴαϊ. οὗ
+ox σχῆμα, False eng
+-ατος, ipa, True pp
+τό -aros, True form
+76 [ςρ. False na
+[cp. σχήσω, False eng
+oxhow, ἴαϊ. False na
+fut. οὗ False eng
+of NA False eng
+# 19 31 34 éxw,  have; bor,  Eng. scheme], ἔχω,  λανε; ὍὈοτ.,  Επρ. 8086Π16],
+ἔχω, éxw, True pp
+have; λανε; False eng
+bor, ὍὈοτ., False eng
+Eng. Επρ. False eng
+scheme], 8086Π16], False eng
+# 20 31 42 form,  arrangement,  formation. , ργηι,  αὐ 7ΩΏ 67 6712,  707,  Ὠέεα71071.
+form, , False eng
+arrangement, ργηι, False eng
+formation. αὐ False eng
+# 21 17 17 ox foe,  see Exw. σχήσει,  Ξεε ἔχω.
+ox σχήσει, False eng
+foe, Ξεε False eng
+see ἔχω. False eng
+Exw. NA False na
+# 22 40 42 ox (Lo,  Zrxica,  éoxloOnv [cogn.,  Lat. σχίζω,  ἔσχισα,  ἐσχίσθην [Ἄσορῃ.,  1, 81.
+ox σχίζω, False eng
+ἔσχισα, (Lo, True pp
+ἐσχίσθην Zrxica, True pp
+éoxloOnv [Ἄσορῃ., False na
+[cogn., 1, False na
+Lat. 81. False na
+# 23 37 33 scind6,  sf/it,  Eng. shed (the verb, βοϊηαδ,  “212 Επρ. 886 (1μὲ νετῦ,
+scind6, βοϊηαδ, False na
+sf/it, “212 False na
+Eng. Επρ. False eng
+shed 886 False eng
+(the (1μὲ False eng
+verb, νετῦ, False eng
+# 24 29 32 and in watershed); bor,  Eng. δὴ ἴῃ τουσίογολεα); Ὅοτ, ,  Επρ.
+and δὴ False eng
+in ἴῃ False eng
+watershed); τουσίογολεα); False eng
+bor, Ὅοτ, False eng
+Eng. , False eng
+# 25 17 17 schism ],  sféz7. ΒΟΒ181}7,  “2211.
+schism ΒΟΒ181}7, False eng
+], “2211. False na
+sféz7. NA False na
+# 26 40 37 oXordLo,  ox dr\aca,  éo x dr\axa[oxoAH; σχολάζω,  ἐσχόλασα,  ἐσχόλακα [σχολή;
+σχολάζω, oXordLo, True pp
+ox ἐσχόλασα, False eng
+ἐσχόλακα dr\aca, True pp
+[σχολή; éo True lex
+x NA False eng
+dr\axa[oxoAH; NA False na
+# 27 39 42 bor.,  Eng. scholastic],  Aave leisure, Ὀοτγ.,  Επρ. 8080 1481. 7,  ἀατε ἰείξπηγε,
+bor., Ὀοτγ., False eng
+Eng. Επρ. False eng
+scholastic], 8080 False eng
+Aave 1481. False na
+leisure, 7, False eng
+# 28 14 16 be at liberty. ὧἐ αὐ ἐϊόφ» γ. ᾿
+be ὧἐ False eng
+at αὐ False eng
+liberty. ἐϊόφ» False eng
+# 29 41 41 wxoAatos,  -a,  -ov [oxodr7],  leisurely, σχολαῖος,  -ά,  -ον [σχολή],  ἠεϊ5:γ εἶν,
+σχολαῖος, wxoAatos, True pp
+-ά, -a, True pp
+-ον -ov True pp
+[σχολή], [oxodr7], True lex
+leisurely, ἠεϊ5:γ False eng
+# 30 5 6 slow. σέοτυ.
+slow. σέοτυ. False eng
+# 31 34 34 oxodalws,  comp. sxodalrepov [axo- σχολαίως,  σὐμρ. σχολαίτερον [σχο-
+σχολαίως, oxodalws, True form
+comp. σὐμρ. False eng
+σχολαίτερον sxodalrepov True pp
+[σχο- [axo- True half1g
+# 32 45 47 Aatos],  adv.,  dezsuerely,  slowly,  lazily. λαῖος],  δάν.,  ἐφ ετεγεῖν,  σἰοτουῖν,  ἐαεῖζν.
+λαῖος], Aatos], True pp
+adv., δάν., False eng
+dezsuerely, ἐφ False na
+slowly, ετεγεῖν, False eng
+lazily. σἰοτουῖν, False eng
+# 33 39 40 oXOAh,  -7s [bor.,  Eng. school,  scho- σχολή,  -ῆς,  [Ὀοτ.,  Επρ. 8000],  8080-
+σχολή, oXOAh, True lex
+-7s -ῆς, False na
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False eng
+school, 8000], False eng
+scho- 8080- False na
+# 34 40 46 lium],  /ezsure,; dat. as adv.,  slowly. 111|Π|},  δείσιεγε,  ἀδῖ. 845 δάν.,  σἐρτουῖν.
+lium], 111|Π|}, False na
+/ezsure,; δείσιεγε, False na
+dat. ἀδῖ. False eng
+as 845 False eng
+adv., δάν., False eng
+slowly. σἐρτουῖν. False eng
+# 35 38 38 cole,  cwow,  towoa,  céowka,  céowuat σῴζω,  σώσω,  ἔσωσα,  σέσωκα,  σέσωμαι
+cole, σῴζω, False eng
+σώσω, cwow, True pp
+ἔσωσα, towoa, True pp
+σέσωκα, céowka, True pp
+σέσωμαι céowuat True pp
+# 36 32 32 and céswopua,  éowOnv [cp. cdos; Δηα σέσωσμαι,  ἐσώθην [ςΡ. σῶος;
+and Δηα False eng
+σέσωσμαι, céswopua, True pp
+ἐσώθην éowOnv True pp
+[cp. [ςΡ. False eng
+σῶος; cdos; True pp
+# 37 38 37 bor.,  Eng. creosote],  save,  rescue; ὑοῦ,  Επρ. ογθοϑοίθ],  σασέ,  γέδεπδ,
+bor., ὑοῦ, False eng
+Eng. Επρ. False eng
+creosote], ογθοϑοίθ], False eng
+save, σασέ, False eng
+rescue; γέδεπδ, False eng
+# 38 38 40 retain,  keep; pass.,  be saved,  save γοίαϊη,  ἔδοβ,  Ῥᾶ55.,  δφ δσασεα,  δαῦέ
+retain, γοίαϊη, False eng
+keep; ἔδοβ, False eng
+pass., Ῥᾶ55., False eng
+be δφ False eng
+saved, δσασεα, False eng
+save δαῦέ False eng
+# 39 24 24 oneself,  return safely, ογϑεοίβ,  γεΐεγ: δα ζεῖ.
+oneself, ογϑεοίβ, False eng
+return γεΐεγ: False eng
+safely, δα False eng
+# 40 39 39 Zwxpdrns,  -ovs,  6,  Socrates,  (1) an Σωκράτης,  -ους,  ὁ,  δοεγῶίες,  (1) δῃ
+Σωκράτης, Zwxpdrns, True lex
+-ους, -ovs, True pp
+ὁ, 6, True lex
+δοεγῶίες, Socrates, True pp
+(1) (1) False na
+an δῃ False eng
+# 41 30 29 Achaean,  one of Cyrus’s Greek Αοἤδοαη,  ομθ οἵ Ογγιϑ5 Οτεοκ
+Achaean, Αοἤδοαη, False na
+one ομθ False eng
+of οἵ False eng
+Cyrus’s Ογγιϑ5 False na
+Greek Οτεοκ False na
+# 42 35 38 generals; (2) the Athenian philoso- βσοπογαῖὶβ; (2) [πε Αἰ πεπίδη ρῃ]]οβο-
+generals; βσοπογαῖὶβ; False eng
+(2) (2) False na
+the [πε False eng
+Athenian Αἰ False na
+philoso- πεπίδη False na
+# 43 30 28 pher,  friend of Xenophon. See ῬΏετ,  τε] οὗ Νεπορῆοη. ὅ668
+pher, ῬΏετ, False na
+friend τε] False eng
+of οὗ False eng
+Xenophon. Νεπορῆοη. False na
+See ὅ668 False na
+# 44 42 44 Introd. §§ 28,  30,  and Fig. 45,  p. 141. Ιηῖτγοί. δὴ 28,  30,  δινά ΕἸΡ. 45,  Ρ. 141.
+Introd. Ιηῖτγοί. False eng
+§§ δὴ False eng
+28, 28, False na
+30, 30, False na
+and δινά False eng
+Fig. ΕἸΡ. False na
+45, 45, False na
+p. Ρ. False eng
+141. 141. False na
+# 45 13 13 See Figs. 25, 566 ΕἸρ5. 25,
+See 566 False na
+Figs. ΕἸρ5. False na
+25, 25, False na
+# 46 6 7 Google (αοορὶς
+Google (αοορὶς False na
+# 47 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝΘ ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝΘ False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 48 41 40 odpa,  -aros,  7b,  body,  life,  person; σῶμα,  -ατος,  τό,  δοάν,  472,  2ε»5ογ;
+σῶμα, odpa, True pp
+-ατος, -aros, True pp
+τό, 7b, True form
+body, δοάν, False eng
+life, 472, False eng
+person; 2ε»5ογ; False eng
+# 49 31 32 owuaTa avdpwy,  men,  211,  14. σώματα ἀνδρῶν,  ἮΙδΉ,  211,  14.
+σώματα owuaTa True form
+ἀνδρῶν, avdpwy, True form
+men, ἮΙδΉ, False eng
+211, 211, False na
+14. 14. False na
+# 50 40 42 oG0s,  -a,  -ov,  safe,  alive and well. σῶος,  -α,  -ον,  δαγέ,  αἰΐυέ αηπα τυοζί.
+σῶος, oG0s, True pp
+-α, -a, True pp
+-ον, -ov, True pp
+safe, δαγέ, False eng
+alive αἰΐυέ False eng
+and αηπα False eng
+well. τυοζί. False eng
+# 51 43 45 Leas,  -cos,  6,  Sdsis,  of Syracuse,  one Σῶσις,  -ἰος,  ὁ,  δ δεῖς,  οἵ ϑγγᾶσυβθ,  ὁμ6
+Σῶσις, Leas, True lem
+-ἰος, -cos, True pp
+ὁ, 6, True lex
+Sdsis, δ False na
+of δεῖς, False eng
+οἵ Syracuse, True form
+one ϑγγᾶσυβθ, False eng
+# 52 26 26 of Cyrus’s Greek generals. οἵ ὑγγυϑ᾽5 σγεβκ ροπεγδίϑ.
+of οἵ False eng
+Cyrus’s ὑγγυϑ᾽5 False na
+Greek σγεβκ False na
+generals. ροπεγδίϑ. False eng
+# 53 42 46 carhp,  -jpos,  6 [ogiw],  savior,  deliv- σωτήρ,  -ῆρος,  ὁ [σῴζω],  Ξταὖϊογ, ,  αἰρδῖυ-
+σωτήρ, carhp, True lex
+-ῆρος, -jpos, True pp
+ὁ 6 True lex
+[σῴζω], [ogiw], True pp
+savior, Ξταὖϊογ, False eng
+deliv- , False na
+# 54 23 21 erer,  a title of Zeus. 477,  ἃ ΌΓῸ6 οὗ Ζουβ.
+erer, 477, False eng
+a ἃ False eng
+title ΌΓῸ6 False eng
+of οὗ False eng
+Zeus. Ζουβ. False na
+# 55 42 42 cwrnpla,  -ας [fem. of cwrypios],  safety, σωτηρίᾳ,  -ας [επι. οἵ σωτήριος],  Ξα)είν,
+cwrnpla, σωτηρίᾳ, False na
+-ας -ας False na
+[fem. [επι. False eng
+of οἵ False eng
+σωτήριος], cwrypios], True pp
+safety, Ξα)είν, False eng
+# 56 12 12 deliverance. εἰοἰυεγαρεε.
+deliverance. εἰοἰυεγαρεε. False eng
+# 57 43 46 Zornpldas,  -ov,  Soferidas,  of Sicyon,  a Σωτηρίδᾶς,  -ου,  δοίεγξείας,  οἵ ϑδ΄᾽ογοη,  ἃ
+Zornpldas, Σωτηρίδᾶς, False na
+-ου, -ov, True pp
+Soferidas, δοίεγξείας, False na
+of οἵ False eng
+Sicyon, ϑδ΄᾽ογοη, False na
+a ἃ False eng
+# 58 30 32 soldier in Cyrus’s Greek army. 501 16 Ὁ ἰῃ Ογγι3᾽5 ατὐεεκ δυηγ.
+soldier 501 False eng
+in 16 False eng
+Cyrus’s Ὁ False na
+Greek ἰῃ False na
+army. Ογγι3᾽5 False eng
+# 59 39 39 woarhpros,  -a,  -ov [cwrhp],  bringing σωτήριος,  -α,  -ον [σωτήρ],  ὀγ1γηρ1»ν
+σωτήριος, woarhpros, True pp
+-α, -a, True pp
+-ον -ov True pp
+[σωτήρ], [cwrhp], True lex
+bringing ὀγ1γηρ1»ν False eng
+# 60 35 38 safety or deliverance. Neut. pl. as δαγείν οὐ αἰἶοἰήνεγαρες. Νεαυῖ. Ρ]. ἃ5
+safety δαγείν False eng
+or οὐ False eng
+deliverance. αἰἶοἰήνεγαρες. False eng
+Neut. Νεαυῖ. False na
+pl. Ρ]. False eng
+as ἃ5 False eng
+# 61 37 39 subst.,  thank-offerings for deliver- 5 υ5ι.,  ζάσρξιοβεγίηρε 7, 07 αἰδέϊυε᾽-
+subst., 5 False eng
+thank-offerings υ5ι., False na
+for ζάσρξιοβεγίηρε False eng
+deliver- 7, False na
+# 62 5 5 ance. αρεε.
+ance. αρεε. False na
+# 63 29 30 cadpocivn,  -7s [cwdpwr (cos, σωφροσύνη,  -ης [σώφρων (σῶος,
+σωφροσύνη, cadpocivn, True lex
+-7s -ης False na
+[σώφρων [cwdpwr True pp
+(cos, (σῶος, False eng
+# 64 34 40 dphv,  mind),  sound-minded,  tem- φρήν,  »"ἴμ0},  σοιερα-»ε ρα ξα,  26)»1-
+φρήν, dphv, True lex
+mind), »"ἴμ0}, False eng
+sound-minded, σοιερα-»ε False na
+tem- ρα False na
+# 65 40 40 perate),  self-control,  prudence,  mod- 2ε»γα[6],  δούεονγγοί,  φγάίφηεε,  »εοα-
+perate), 2ε»γα[6], False na
+self-control, δούεονγγοί, False na
+prudence, φγάίφηεε, False eng
+»εοα- mod- True half1g
+# 66 8 9 eration. ἐγα 1072.
+eration. ἐγα False na
+# 67 1 1 T Ψ
+T Ψ False na
+# 68 10 12 T,  see TE τ΄,  566 τέ.
+T, τ΄, False na
+see 566 False eng
+τέ. TE True form
+# 69 32 32 raya0d,  by crasis for rd dyadd. τἀγαθά,  ὈΥ οταϑὶ5 ίοτ τὰ ἀγαθά.
+τἀγαθά, raya0d, True pp
+by ὈΥ False eng
+crasis οταϑὶ5 False eng
+for ίοτ False eng
+rd τὰ False eng
+ἀγαθά. dyadd. True pp
+# 70 16 15 7T45¢,  see 55e. τάδε,  566 ὅδε.
+τάδε, 7T45¢, True form
+see 566 False eng
+ὅδε. 55e. True lex
+# 71 42 44 tadavrov,  -ov [cogn.,  Lat. toll6,  4/7], τάλαντον,  -ου [ςορῃ.,  [, «Ἃ[. 10110,  17],
+τάλαντον, tadavrov, True pp
+-ου -ov True pp
+[cogn., [ςορῃ., False na
+Lat. [, False na
+toll6, «Ἃ[. False na
+4/7], 10110, False na
+# 72 32 37 scale; weight; talent,  a sum of σεαές,  τουεῖρδ,  Ἰαέομέ,  ἃ βϑυτα οἵ
+scale; σεαές, False eng
+weight; τουεῖρδ, False eng
+talent, Ἰαέομέ, False eng
+a ἃ False eng
+sum βϑυτα False eng
+of οἵ False eng
+# 73 35 37 money (not a coin),  equiv. to 6000 ΤΩΟΠΕΥ͂ (ποῖ ἃ ΠοΪη),  δααῖν. ἴο ὄοοο
+money ΤΩΟΠΕΥ͂ False eng
+(not (ποῖ False eng
+a ἃ False eng
+coin), ΠοΪη), False eng
+equiv. δααῖν. False eng
+to ἴο False eng
+6000 ὄοοο False na
+# 74 29 29 Attic drachmas,  about $1080. Αἴῖϊς ἀγδοῆμδϑ,  δρουΐ διοϑο.
+Attic Αἴῖϊς False na
+drachmas, ἀγδοῆμδϑ, False eng
+about δρουΐ False eng
+$1080. διοϑο. False na
+# 75 31 30 vTaAAa,  by crasis for ra &AXa. τἄλλα,  ὈΥ οταϑὶβ ίου τὰ ἄλλα.
+τἄλλα, vTaAAa, True pp
+by ὈΥ False eng
+crasis οταϑὶβ False eng
+for ίου False eng
+ra τὰ False eng
+ἄλλα. &AXa. True pp
+# 76 40 40 Tapieva,  Tamevow,  Teraplevuac [ raulas ταμιεύω,  ταμιεύσω,  τεταμίευμαι [ταμίας
+ταμιεύω, Tapieva, True pp
+ταμιεύσω, Tamevow, True pp
+τεταμίευμαι Teraplevuac True pp
+[ταμίας [ True lex
+raulas NA False na
+# 77 38 39 (réuvw,  cut),  carver,  steward),  be (τέμνω,  εἴ),  εαγυεγ,  δίειυαγα᾽,  ἐξέ
+(τέμνω, (réuvw, True pp
+cut), εἴ), False eng
+carver, εαγυεγ, False eng
+steward), δίειυαγα᾽, False eng
+be ἐξέ False eng
+# 78 21 21 steward,  parcel out. εἰσιυαγα,  αγεεῖ οτξ.
+steward, εἰσιυαγα, False eng
+parcel αγεεῖ False eng
+out. οτξ. False eng
+# 79 39 42 Tapds,  -0,  6,  Zamos,  an Egyptian in Ταμώς,  -ὦώ,  ὁ,  Ζαηεος,  αὶ Ἐργριίίδη ἴῃ
+Ταμώς, Tapds, True lem
+-0, -ὦώ, False na
+ὁ, 6, True lex
+Ζαηεος, Zamos, True pp
+an αὶ False eng
+Egyptian Ἐργριίίδη False na
+in ἴῃ False eng
+# 80 25 27 command of Cyrus’s fleet. οσοτηηδηᾶ οὗ Ογτγυ᾽5 ἤεξει.
+command οσοτηηδηᾶ False eng
+of οὗ False eng
+Cyrus’s Ογτγυ᾽5 False na
+fleet. ἤεξει. False eng
+# 81 36 36 ravavria,  by crasis for rd évarria. τἀναντία,  ὈΥ οταϑὶ5 ἔογ τὰ ἐναντία.
+ravavria, τἀναντία, False na
+by ὈΥ False eng
+crasis οταϑὶ5 False eng
+for ἔογ False eng
+rd τὰ False eng
+ἐναντία. évarria. True form
+# 82 36 37 ratlapxos,  -ov [rdiis,  Apxw,  com- ταξίαρχος,  “οὐ [τάξις,  ἄρχω,  εο»:-
+ταξίαρχος, ratlapxos, True pp
+-ov “οὐ False na
+[τάξις, [rdiis, True lex
+ἄρχω, Apxw, True pp
+εο»:- com- True half1g
+# 83 33 31 mand ],  commander of @ division. "ρα,  εογεηαηαθν ΟΥ ἃ αἰοϊδίον.
+mand "ρα, False eng
+], εογεηαηαθν False na
+commander ΟΥ False eng
+of ἃ False eng
+αἰοϊδίον. @ True pp
+division. NA False eng
+# 84 34 34 See Introd. § 56,  footnote; § 57. 5ε6 [ηϊτοά. ὶ σό,  ἐοοϊποίδ; ὃ 57.
+See 5ε6 False na
+Introd. [ηϊτοά. False eng
+§ ὶ False eng
+56, σό, False na
+footnote; ἐοοϊποίδ; False eng
+§ ὃ False eng
+57. 57. False na
+# 85 38 39 ragis,  -ews,   [rdrrw],  arrangement, τάξις,  -εωὡς,  ἡ [τάττω],  “77Ω} 676):
+ragis, τάξις, False eng
+-ews, -εωὡς, False na
+ἡ [rdrrw], True case
+arrangement, [τάττω], False eng
+# 86 37 40 order; discipline; rank,  line,  line ογαΐδν,  αἱδεῖῤῥ᾽ης,  γαρξ,  ἤἴρδ,  ἐΐηδ
+order; ογαΐδν, False eng
+discipline; αἱδεῖῤῥ᾽ης, False eng
+rank, γαρξ, False eng
+line, ἤἴρδ, False eng
+line ἐΐηδ False eng
+# 87 39 39 of battle; place assigned,  post,  body ΟΥ̓ ὀακς,  2έασεο αϑϑιρνδα,  οςζ,  ὀοεν
+of ΟΥ̓ False eng
+battle; ὀακς, False eng
+place 2έασεο False eng
+assigned, αϑϑιρνδα, False eng
+post, οςζ, False eng
+body ὀοεν False eng
+# 88 33 39 of soldiers of indefinite number, ΟΥ̓ Ξοὐαϊΐ᾽φγς οἵ ᾿ἰηάοβηῖϊίϊα πυτηδεῖ,
+of ΟΥ̓ False eng
+soldiers Ξοὐαϊΐ᾽φγς False eng
+of οἵ False eng
+indefinite ᾿ἰηάοβηῖϊίϊα False eng
+number, πυτηδεῖ, False eng
+# 89 34 37 division,  Ta dul rates,  factics. εἰχυϊδίο;,  τὰ ἀμφὶ τάξεις,  ἰαεΐϊες.
+division, εἰχυϊδίο;, False eng
+τὰ Ta True pp
+ἀμφὶ dul True form
+rates, τάξεις, False eng
+ἰαεΐϊες. factics. True pp
+# 90 38 40 Tdéoxor,  -wr,  Zadchi,  Taochians,  a Τάοχοι,  -ων,  7Ζαϑελῖ,  7 αοελϊα»ις,  ἃ
+Τάοχοι, Tdéoxor, True lem
+-ων, -wr, True pp
+Zadchi, 7Ζαϑελῖ, False na
+Taochians, 7 False na
+a αοελϊα»ις, False eng

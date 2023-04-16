@@ -1,0 +1,584 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΓΑΒΥ
+VOCABULARY ΝΟΓΑΒΌΓΑΒΥ False na
+# 1 42 43 ttuvos,  -d,  -ov [Tiny],  honorable; hon- τίμιος,  -α,  -ον [τ μή],  λομογαῤίε,  ἀο"-
+τίμιος, ttuvos, True pp
+-α, -d, True pp
+-ον -ov True pp
+[Tiny], [τ False na
+honorable; μή], False eng
+hon- λομογαῤίε, False na
+# 2 22 24 ored,  held in esteem. ογεα,  ἀφία ἐπε ἐπίσοῦε.
+ored, ογεα, False eng
+held ἀφία False eng
+in ἐπε False eng
+esteem. ἐπίσοῦε. False eng
+# 3 35 35 tipwpéw,  rinwphow,  etc. [Tinwpds, τἱμωρέω,  τἱμωρήσω,  εἴς. [τἱμωρός,
+τἱμωρέω, tipwpéw, True pp
+τἱμωρήσω, rinwphow, True pp
+etc. εἴς. False eng
+[τἱμωρός, [Tinwpds, True pp
+# 4 38 41 avenger ],  help,  avenge; mid.,  take αυεγιρ67,  ἀεί,  ανέριρέ ,  ταὶά, ,  ζαξε
+avenger αυεγιρ67, False eng
+ἀεί, ], True lex
+help, ανέριρέ False eng
+avenge; , False eng
+mid., ταὶά, False eng
+take , False eng
+# 5 22 22 vengeance on,  punish, σψεηρεαγες οἢ,  ῥιμδά.
+vengeance σψεηρεαγες False eng
+on, οἢ, False eng
+punish, ῥιμδά. False eng
+# 6 37 42 Tipwpld,  -ds [Tinwpéw],  punishment. τἱμωρίᾶ,  -ας [τἱμωρέω],  2τ:εγε1 5 »εδγ1.
+Tipwpld, τἱμωρίᾶ, False na
+-ds -ας False na
+[τἱμωρέω], [Tinwpéw], True pp
+punishment. 2τ:εγε1 False eng
+# 7 38 39 TiplBafos,  -ov,  Ztridazus,  governor Τιρίβαζος,  -ουὐ,  71γἠῤᾶσεδ,  ῬΟνΕΓΠΟΥ
+Τιρίβαζος, TiplBafos, True pp
+-ov, -ουὐ, False na
+Ztridazus, 71γἠῤᾶσεδ, False na
+governor ῬΟνΕΓΠΟΥ False eng
+# 8 30 33 of western Armenia,  under the οὔ ψοβίοσῃη Ατπιθηῖϊα,  ὑπάεσ [δὲ
+of οὔ False eng
+western ψοβίοσῃη False eng
+Armenia, Ατπιθηῖϊα, False na
+under ὑπάεσ False eng
+the [δὲ False eng
+# 9 15 15 satrap Orontas. βαῖγαρ Οτοῃΐδ8.
+satrap βαῖγαρ False eng
+Orontas. Οτοῃΐδ8. False na
+# 10 42 42 ris,  rl,  gen. rlvos and roi,  interroga- τίς,  τί,  σεη. τίνος Δη4 τοῦ,  Ἰῃϊεγτορα-
+τίς, ris, True lex
+τί, rl, True form
+gen. σεη. False eng
+τίνος rlvos True pp
+and Δη4 False eng
+roi, τοῦ, False eng
+Ἰῃϊεγτορα- interroga- True half1g
+# 11 35 37 tive pron.,  either adj. or subst., εἶνε ῥρύοῃ.,  εἰμεν δα]. οὐ βυβρϑβί.,
+tive εἶνε False na
+pron., ῥρύοῃ., False eng
+either εἰμεν False eng
+adj. δα]. False eng
+or οὐ False eng
+subst., βυβρϑβί., False eng
+# 12 29 35 who? which? what? rl as adv., “ὑλἀο ἢ τυλἼοά ῷ τοἀαέ τί 845 δ(ν.,
+who? “ὑλἀο False na
+ἢ which? True lem
+τυλἼοά what? True pp
+rl ῷ False na
+as τοἀαέ False eng
+adv., τί False eng
+# 13 32 36 why? for what? in what respect ? τυὴγ 2 , 0γ τυλαΐ ἐμ τυλαξ γεεῤεεί ἢ
+why? τυὴγ False na
+for 2 False eng
+what? , False na
+in 0γ False eng
+what τυλαΐ False eng
+respect ἐμ False eng
+? τυλαξ False na
+# 14 5 7 how ? λἄοτυ ἢ
+how λἄοτυ False eng
+ἢ ? True lem
+# 15 43 42 wis,  Ti,  gen. tTivds and rod,  indefinite τὶς,  τὶ,  ρ6η. τινός δῃὰ τοῦ,  Ἰπά εῇηϊϊε
+wis, τὶς, False eng
+Ti, τὶ, False na
+gen. ρ6η. False eng
+τινός tTivds True pp
+and δῃὰ False eng
+rod, τοῦ, False eng
+indefinite Ἰπά False eng
+# 16 40 39 pron.,  enclitic,  as subst.,  aszybody, ΡΓΟΠ.,  ἜΠΟΣ 16,  88 ϑυρ5ῖ.,  αργόοσαν,
+pron., ΡΓΟΠ., False eng
+enclitic, ἜΠΟΣ False eng
+as 16, False eng
+subst., 88 False eng
+aszybody, ϑυρ5ῖ., False na
+# 17 35 39 anything,  somebody,  something,  a αργέλίηρ,  φσορεοδοάγ,  τογιείλἑ, ρ,  ὦ
+anything, αργέλίηρ, False eng
+somebody, φσορεοδοάγ, False eng
+something, τογιείλἑ, False eng
+a ρ, False eng
+# 18 41 49 man,  one; pl.,  some; as adj.,  a,  any, »ΏΩ71,  Ο716,  Ὀἷ.»,  ΣΟ: 6,  ἃ5 84].,  α,  471},
+man, »ΏΩ71, False eng
+one; Ο716, False eng
+pl., Ὀἷ.», False eng
+some; ΣΟ: False eng
+as 6, False eng
+adj., ἃ5 False eng
+a, 84]., False eng
+any, α, False eng
+# 19 32 34 a certain,  a sort of; making an ὦ εὐγίαϊ»,  ὦ 5ογέ οὕ,  ταλκὶηρ δῃ
+a ὦ False eng
+certain, εὐγίαϊ», False eng
+a ὦ False eng
+sort 5ογέ False eng
+of; οὕ, False eng
+making ταλκὶηρ False eng
+an δῃ False eng
+# 20 38 39 adj. or pron. more indefinite,  of wév 84]. οὐ ῥτοῃ. τῆογβ ἱπαδῇβηῖίθ,  οἱ μέν
+adj. 84]. False eng
+or οὐ False eng
+pron. ῥτοῃ. False eng
+more τῆογβ False eng
+indefinite, ἱπαδῇβηῖίθ, False eng
+of οἱ False eng
+μέν wév True lex
+# 21 39 44 Teves,  some few,  moon Tis,  about how τινες,  507, 16 γξῖυ,  πόση τις,  αὐομέ ἀοτυ
+τινες, Teves, True pp
+some 507, False eng
+few, 16 False eng
+moon γξῖυ, False eng
+πόση Tis, True form
+about τις, False eng
+how αὐομέ False eng
+# 22 36 36 ‘large? émwoibv ri,  whatever; Tl as 'ἰαγρε ὁποῖόν τι,  τυλαίευεγ,  τὶ ἃ5
+‘large? 'ἰαγρε False na
+ὁποῖόν émwoibv True form
+τι, ri, True form
+whatever; τυλαίευεγ, False eng
+Tl τὶ False na
+as ἃ5 False eng
+# 23 24 26 adv.,  somewhat,  a bit. δάν.,  “ογεστυλαΐ,  α ὀϊέ.
+adv., δάν., False eng
+somewhat, “ογεστυλαΐ, False eng
+a α False eng
+bit. ὀϊέ. False eng
+# 24 39 38 Tirwadiprns,  -ous,  Tissaphernes,  sa- Τισσαφέρνης,  τους,  715:αλόγγις,  58-
+Τισσαφέρνης, Tirwadiprns, True lex
+τους, -ous, True pp
+Tissaphernes, 715:αλόγγις, False na
+sa- 58- False na
+# 25 37 36 trap of Lydia and Caria,  and in con- {τ} οὗ Πγάϊα ἀπὰ ( τῖα,  δῃά ἴῃ σοη-
+trap {τ} False eng
+of οὗ False eng
+Lydia Πγάϊα False na
+and ἀπὰ False eng
+Caria, ( False na
+and τῖα, False eng
+in δῃά False eng
+ἴῃ con- True form
+# 26 34 36 trol of the Greek cities along the ἴγτοὶ οὐ ἴῃ6 (ὐεοῖκ οἰτἴ65 δἰοπρ ἴΠς
+trol ἴγτοὶ False na
+of οὐ False eng
+the ἴῃ6 False eng
+Greek (ὐεοῖκ False na
+cities οἰτἴ65 False eng
+along δἰοπρ False eng
+the ἴΠς False eng
+# 27 33 34 western coast of Asia Minor; con- ψναβίογη οὐδϑί οὗ Αϑῖα Μιηοῦ; οοπ-
+western ψναβίογη False eng
+coast οὐδϑί False eng
+of οὗ False eng
+Asia Αϑῖα False na
+Μιηοῦ; Minor; True pp
+οοπ- con- True half1g
+# 28 33 30 temporary with Cyrus the younger, [δι ροσᾶυ ἢ Ογγὰ5 ἴἢ6 γουηρεῦ,
+temporary [δι False eng
+with ροσᾶυ False eng
+ἢ Cyrus True lem
+the Ογγὰ5 False eng
+younger, ἴἢ6 False eng
+# 29 33 34 whose plans he tried in every way Ψ Ώοβ6 Ρἷδηβ ἢδ {τἰε ἴῃ ΘΥΟΥΥ νΥΑΥ
+whose Ψ False eng
+plans Ώοβ6 False eng
+he Ρἷδηβ False eng
+tried ἢδ False eng
+in {τἰε False eng
+every ἴῃ False eng
+way ΘΥΟΥΥ False eng
+# 30 35 37 to frustrate,  and whose satrapy he ἴο [τυβίταϊεα,  Δηὰ ψ ῆοβε βδίγαρυ δε
+to ἴο False eng
+frustrate, [τυβίταϊεα, False eng
+and Δηὰ False eng
+whose ψ False eng
+satrapy ῆοβε False eng
+he βδίγαρυ False eng
+# 31 36 37 received after the battle of Cunaxa. τεοεϊνεά δἰϊον ἴῃς θα(:]|6 οὗ (υπᾶχᾶ.
+received τεοεϊνεά False eng
+after δἰϊον False eng
+the ἴῃς False eng
+battle θα(:]|6 False eng
+of οὗ False eng
+Cunaxa. (υπᾶχᾶ. False na
+# 32 34 37 Parysatis,  in revenge for his en- Ῥαγγϑβᾶϊςϊ5,  ἴπ τενεηρε ἴου ἢῖ5. εἢ-
+Parysatis, Ῥαγγϑβᾶϊςϊ5, False na
+in ἴπ False eng
+revenge τενεηρε False eng
+for ἴου False eng
+his ἢῖ5. False eng
+εἢ- en- True half1g
+# 33 37 36 mity to her favorite son,  ultimately ΤἸΥ ἴο Ποῦ [ἀνογίῖε 5οῃ,  Ὁ] πλδῖθ]ν
+mity ΤἸΥ False eng
+to ἴο False eng
+her Ποῦ False eng
+favorite [ἀνογίῖε False eng
+son, 5οῃ, False eng
+ultimately Ὁ] False eng
+# 34 34 34 brought about his death,  395 B.c. Ὀτουρπῖ ἀρουΐ 15 ἄξδαίῃ,  395 Β.Ὁ,
+brought Ὀτουρπῖ False eng
+about ἀρουΐ False eng
+his 15 False eng
+death, ἄξδαίῃ, False eng
+395 395 False na
+B.c. Β.Ὁ, False na
+# 35 38 37 TITPHOKYW,  TPWoW,  ETpwoa,  TETPWUAL, τιτρώσκω,  τρώσω,  ἔτρωσα,  τέτρωμαι,
+τιτρώσκω, TITPHOKYW, True pp
+τρώσω, TPWoW, True pp
+ἔτρωσα, ETpwoa, True pp
+τέτρωμαι, TETPWUAL, True pp
+# 36 16 21 érpwony,  wound, ἐτρώθην,  τυοτεγια, ,
+ἐτρώθην, érpwony, True pp
+wound, τυοτεγια, False eng
+# 37 39 40 tAfpev,  -ov,  gen. -ovos [cp. Tordudw; τλήμων,  -ον,  σεη,  -ονος [(ρΡ. τολμάω;
+τλήμων, tAfpev, True pp
+-ον, -ov, True pp
+gen. σεη, False eng
+-ονος -ovos True pp
+[cp. [(ρΡ. False eng
+τολμάω; Tordudw; True pp
+# 38 38 44 cogn.,  Lat. toll0,  72/7],  emduring, σορτι.,  [, Δἴ. [0110,  22.2],  δριαδπεγῖνν,
+cogn., σορτι., False na
+Lat. [, False na
+toll0, Δἴ. False na
+72/7], [0110, False na
+emduring, 22.2], False na
+# 39 37 38 wretched; ol rhhpoves,  the poor suf- τυγεζελεα,  οἱ τλήμονες,  ἐλ 2007 “10.
+wretched; τυγεζελεα, False eng
+ol οἱ False eng
+τλήμονες, rhhpoves, True pp
+the ἐλ False eng
+poor 2007 False eng
+suf- “10. False na
+# 40 7 7 jerers. 3 γέγ-.
+jerers. 3 False na
+# 41 41 43 rol [ originally ethical dat. of ry = at, τοί [οτἹρίπα}]ν εἰ ἢϊςα] ἀ δῖ. οὗ τύ -Ξ σύ,
+τοί rol True form
+[ [οτἹρίπα}]ν False na
+originally εἰ False eng
+ethical ἢϊςα] False eng
+dat. ἀ False eng
+of δῖ. False eng
+οὗ ry True lex
+= τύ False na
+at, -Ξ False eng
+# 42 40 40 you ],  postpositive enclitic adv.,  you )ο"4],  Ῥοβίροϑβιτίνε δ πο ἰς δάν.,  γος
+you )ο"4], False eng
+], Ῥοβίροϑβιτίνε False na
+postpositive δ False eng
+enclitic πο False eng
+adv., ἰς False eng
+you δάν., False eng
+# 43 39 43 know,  let me tell you,  in truth,  but Ζροτυ,  ἰοέ γ, 16 δέ γον,  ἐγ ἐγιεέά,  ἰγὰῖ
+know, Ζροτυ, False eng
+let ἰοέ False eng
+me γ, False eng
+tell 16 False eng
+you, δέ False eng
+in γον, False eng
+truth, ἐγ False eng
+but ἐγιεέά, False eng
+# 44 34 37 often best translated by emphasis. οἴϊεῃ Ῥεδβὶ ἰταηϑαῖεα ὈΥ δι ρ ἢ 8515.
+often οἴϊεῃ False eng
+best Ῥεδβὶ False eng
+translated ἰταηϑαῖεα False eng
+by ὈΥ False eng
+emphasis. δι False eng
+# 45 6 7 Google (ποορίς
+Google (ποορίς False na
+# 46 3 3 595 505
+595 505 False na
+# 47 38 41 tovyapoby [rol + ydp,  really,  + od», τοιγαροῦν [τοί -Κ γάρ,  γεαῤίν,  -ἰ- οὖν,
+τοιγαροῦν tovyapoby True lex
+[τοί [rol True form
++ -Κ False na
+γάρ, ydp, True lex
+really, γεαῤίν, False eng
++ -ἰ- False na
+οὖν, od», True lex
+# 48 39 40 therefore],  adv. of inference,  and so ζάεγεγογε],  αν. οὗ Ἰηέογεῃος,  Ζηξα᾽ 50
+therefore], ζάεγεγογε], False eng
+adv. αν. False eng
+of οὗ False eng
+inference, Ἰηέογεῃος, False eng
+and Ζηξα᾽ False eng
+so 50 False eng
+# 49 29 30 of course,  and so naturally, Οὗ εονε75ς,  αμα δο παίμγαδέν.
+of Οὗ False eng
+course, εονε75ς, False eng
+and αμα False eng
+so δο False eng
+naturally, παίμγαδέν. False eng
+# 50 40 39 tolvuv [rol + wiv,  then],  postpositive τοίνυν [τοί - νύν,  Ζ27,  ροβίροπίτἷϊνο
+τοίνυν tolvuv True lex
+[τοί [rol True form
++ - False na
+wiv, νύν, False na
+then], Ζ27, False eng
+postpositive ροβίροπίτἷϊνο False eng
+# 51 37 38 adv. of inference,  ¢herefore,  then, δᾶν. οὗ ἱπίεγεῃησθ,  Ζάφγεζογε,  ζάδρ,
+adv. δᾶν. False eng
+of οὗ False eng
+inference, ἱπίεγεῃησθ, False eng
+¢herefore, Ζάφγεζογε, False na
+then, ζάδρ, False eng
+# 52 10 12 well then. «υοὐέ ζάο»:.
+well «υοὐέ False eng
+then. ζάο»:. False eng
+# 53 44 43 rovdobe,  -dde,  -dvde [rotos,  such,  + -de τοιόσδε,  -άδε,  -ὀνδε [τοῖος,  «με,  - -δε
+τοιόσδε, rovdobe, True lex
+-dde, -άδε, False na
+-dvde -ὀνδε False na
+[rotos, [τοῖος, False eng
+such, «με, False eng
++ - False na
+-de -δε False na
+# 54 39 41 (cp. 86€),  here],  dem. adj.,  such as (οΡ. ὅδε),  ἀεγε},  ἄδτα. δα}].,  σβεᾷ ἂς
+(cp. (οΡ. False eng
+ὅδε), 86€), True lex
+here], ἀεγε}, False eng
+dem. ἄδτα. False eng
+adj., δα}]., False eng
+such σβεᾷ False eng
+as ἂς False eng
+# 55 36 33 this (which follows),  about as fol- ζὰς ( Ϊ ἢ [ο]]ον5),  σόοι ἂς 20 -
+this ζὰς False eng
+(which ( False eng
+follows), Ϊ False eng
+about ἢ False eng
+as [ο]]ον5), False eng
+fol- σόοι False na
+# 56 5 6 lows. ἔστυς.
+lows. ἔστυς. False eng
+# 57 44 44 TOLOUTOS,  -av7T7,  -oTo and -ovrov [ rotos, τοιοῦτος,  -αύὐτη,  -οῦτο Δα -οῦτον [ τοῖος,
+τοιοῦτος, TOLOUTOS, True pp
+-av7T7, -αύὐτη, False na
+-oTo -οῦτο False na
+and Δα False eng
+-οῦτον -ovrov True pp
+[ [ False na
+rotos, τοῖος, False eng
+# 58 42 43 such,  obros,  this],  dem. adj.,  such as σπεἦ,  οὗτος,  4415],  ἀετη. 84].,  σκοὰ ἂς
+such, σπεἦ, False eng
+οὗτος, obros, True pp
+this], 4415], False eng
+dem. ἀετη. False eng
+adj., 84]., False eng
+such σκοὰ False eng
+as ἂς False eng
+# 59 33 33 this (which precedes),  of such a ζἀϊς (νΒ] ἢ ρτεοεάθ5),  ολ σμολ ἃ
+this ζἀϊς False eng
+(which (νΒ] False eng
+precedes), ἢ False eng
+of ρτεοεάθ5), False eng
+such ολ False eng
+a σμολ False eng
+# 60 39 37 kind,  such,  to this effect (as stated ἀιραὶ,  σε,  ἐο “λῆς ἐβεοί (85 5ιαϊεά
+kind, ἀιραὶ, False eng
+such, σε, False eng
+to ἐο False eng
+this “λῆς False eng
+effect ἐβεοί False eng
+(as (85 False eng
+stated 5ιαϊεά False eng
+# 61 36 37 above); év rowvry,  in such a criti- ἃΌονΘ); ἐν τοιούτῳ,  1»: «ποῖ ὦ εγ12-
+above); ἃΌονΘ); False eng
+ἐν év True lex
+τοιούτῳ, rowvry, True form
+in 1»: False eng
+such «ποῖ False eng
+a ὦ False eng
+εγ12- criti- True half1g
+# 62 37 36 cal situation,  84,  15; Towovrwy els αὐ οἰἐμαζίον,  84,  15; τοιούτων εἰς
+cal αὐ False eng
+situation, οἰἐμαζίον, False eng
+84, 84, False na
+15; 15; False na
+τοιούτων Towovrwy True pp
+els εἰς False eng
+# 63 38 38 gpirlay,  such grounds for friendship. φιλίαν,  «πεῖ φγομμαΐς 707 “΄1ἐηπεολί.
+φιλίαν, gpirlay, True form
+such «πεῖ False eng
+grounds φγομμαΐς False eng
+for 707 False eng
+friendship. “΄1ἐηπεολί. False eng
+# 64 36 36 ToApdw,  Torujow,  etc. [cp. TAHuwy; τολμάω,  τολμήσω,  εἰς. [ςΡ. τλήμων;
+τολμάω, ToApdw, True pp
+τολμήσω, Torujow, True pp
+etc. εἰς. False eng
+[cp. [ςΡ. False eng
+τλήμων; TAHuwy; True pp
+# 65 42 44 cogn.,  Lat. toll6,  12/7],  endure,  have οορῃ.,  1, Αἴ,  [0116,  2.7],  ἐπάμγε,  ἄανε
+cogn., οορῃ., False na
+Lat. 1, False na
+toll6, Αἴ, False na
+12/7], [0116, False na
+endure, 2.7], False eng
+have ἐπάμγε, False eng
+# 66 28 26 the courage; venture,  dare. δε εργαρέ,  νϑρΐ76,  (476.
+the δε False eng
+courage; εργαρέ, False eng
+venture, νϑρΐ76, False eng
+dare. (476. False eng
+# 67 41 42 TodrplSnys,  -ov,  Zolmides,  of Elis,  a Τολμίδης,  -ου,  7οδριϊαΐες,  οἵ ἘΠ1|5,  ἃ
+Τολμίδης, TodrplSnys, True lem
+-ου, -ov, True pp
+7οδριϊαΐες, Zolmides, True pp
+of οἵ False eng
+Elis, ἘΠ1|5, False na
+a ἃ False eng
+# 68 19 21 noted Greek herald. ποῖξα Οτεεῖὶς Πογϑ]α.
+noted ποῖξα False eng
+Greek Οτεεῖὶς False na
+herald. Πογϑ]α. False eng
+# 69 38 39 Tofeupa,  -aros,  rd [rotedw],  arrow. τόξευμα,  -ατος,  τό [τοξεύω],  αγ7οτυ.
+τόξευμα, Tofeupa, True pp
+-ατος, -aros, True pp
+rd τό False eng
+[τοξεύω], [rotedw], True pp
+arrow. αγ7οτυ. False eng
+# 70 43 42 Tofevw,  -rotevcouat,  érétevoa,  Ter dtev- τοξεύω,  -τοξεύσομαι,  ἐτόξευσα,  τετόξευ-
+τοξεύω, Tofevw, True pp
+-τοξεύσομαι, -rotevcouat, True pp
+ἐτόξευσα, érétevoa, True pp
+τετόξευ- Ter True half1g
+dtev- NA False na
+# 71 40 41 pat,  érokevOny [rbgov],  shoot with the μαι,  ἐτοξεύθην [τόξον],  «ἀοοΐ τοῖζὰ 2{ε
+pat, μαι, False eng
+ἐτοξεύθην érokevOny True pp
+[τόξον], [rbgov], True pp
+shoot «ἀοοΐ False eng
+with τοῖζὰ False eng
+the 2{ε False eng
+# 72 38 41 bow,  shoot arrows,  pass.,  be hit or ὥοτυ,  δάοοΐ ἀ’γοῖυς,  Ῥ855., ) ὧδ ἀϊέ οἵ
+bow, ὥοτυ, False eng
+shoot δάοοΐ False eng
+arrows, ἀ’γοῖυς, False eng
+pass., Ῥ855., False eng
+be ) False eng
+hit ὧδ False eng
+or ἀϊέ False eng
+# 73 19 21 shot with an arrow. σἦοΐ τουῖζὰ ἀρ ἀ7οτυ.
+shot σἦοΐ False eng
+with τουῖζὰ False eng
+an ἀρ False eng
+arrow. ἀ7οτυ. False eng
+# 74 42 46 TofiKcds,  -hy-dv [rdtov; bor.,  Eng. tox- τοξικός,  -ή, ,  -όν [τόξον; Ὀοτ, ,  Επρ. ἴοχ-
+τοξικός, TofiKcds, True pp
+-ή, -hy-dv True pp
+[rdtov; , False na
+bor., -όν False eng
+Eng. [τόξον; False eng
+tox- Ὀοτ, False na
+# 75 36 36 icology,  toxin],  pertaining to the ἸΟΟΙΟΦΎ,  ἰοχίῃ},  2εγαϊηιῖρρ 10 {ῃέ
+icology, ἸΟΟΙΟΦΎ, False na
+toxin], ἰοχίῃ}, False eng
+pertaining 2εγαϊηιῖρρ False eng
+to 10 False eng
+the {ῃέ False eng
+# 76 38 37 bow,  4 rokikh (sc. Téex¥N),  archery. ὀοτο; ἡ τοξική (8ς. τέχνη),  αγελεγ7.
+bow, ὀοτο; False eng
+ἡ 4 True case
+rokikh τοξική False na
+(sc. (8ς. False eng
+τέχνη), Téex¥N), True lex
+archery. αγελεγ7. False eng
+# 77 41 43 Téfov,  -ov,  dow. See Ffys. 4,  32,  49, τόξον,  -ου,  ὁοτυ. ὅεε Εἶν58. 4,  32,  49,
+τόξον, Téfov, True pp
+-ου, -ov, True pp
+dow. ὁοτυ. False eng
+See ὅεε False na
+Ffys. Εἶν58. False na
+4, 4, False na
+32, 32, False na
+49, 49, False na
+# 78 18 18 pp. 36,  89,  161. ΡΡ. 36,  89,  161.
+pp. ΡΡ. False eng
+36, 36, False na
+89, 89, False na
+161. 161. False na
+# 79 40 44 tokérys,  -ov [rétov],  bowman,  archer. τοξότης,  -ου [τόξον],  ὀοτυ»:α471:,  αγεεγ.
+τοξότης, tokérys, True lex
+-ου -ov True pp
+[τόξον], [rétov], True pp
+bowman, ὀοτυ»:α471:, False eng
+archer. αγεεγ. False eng
+# 80 28 28 In the Greek army the bowmen Ιπ τῆς Οατοεῖς δύων (6 Ὀονθη
+In Ιπ False na
+the τῆς False eng
+Greek Οατοεῖς False na
+army δύων False eng
+the (6 False eng
+bowmen Ὀονθη False eng
+# 81 35 33 were chiefly Cretans and Scythians, νγετα Το οΗν Ογείδηβ ἃπα δου 818.
+were νγετα False eng
+chiefly Το False eng
+Cretans οΗν False na
+and Ογείδηβ False eng
+Scythians, ἃπα False na
+# 82 40 43 See Introd. § 57,  and Fig. 49,  p. 161. 566 [ηἰτοῦ,  αὶ 57,  δηά ΕἾρΡ. 49,  Ρ. 161.
+See 566 False na
+Introd. [ηἰτοῦ, False eng
+§ αὶ False eng
+57, 57, False na
+and δηά False eng
+Fig. ΕἾρΡ. False na
+49, 49, False na
+p. Ρ. False eng
+161. 161. False na
+# 83 40 43 Tomo,  -ov [bor.,  Eng. topic,  topogra- τόπος,  -ου [Ὀοτ.,  Επρ. τορίὶο,  Τορορτάᾶ-
+τόπος, Tomo, True pp
+-ου -ov True pp
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False eng
+topic, τορίὶο, False eng
+Τορορτάᾶ- topogra- True half1g
+# 84 42 41 phy,  Utopia),  place,  district,  region. ῬὮΥ,  ὈἱορίΔ 1,  άνες,  αϊεέγῖο,  γερίο».
+phy, ῬὮΥ, False na
+Utopia), ὈἱορίΔ False na
+place, 1, False eng
+district, άνες, False eng
+region. αϊεέγῖο, False eng
+# 85 42 41 tooéa Se,  -75€,  -dvie [tdaos,  so great, τοσόσδε,  -ἤδε,  -όνδε [τόσος,  50 ργεαΐ,
+τοσόσδε, tooéa True lex
+Se, -ἤδε, False na
+-75€, -όνδε False na
+[τόσος, -dvie True pp
+[tdaos, 50 False na
+so ργεαΐ, False eng
+great, NA False eng
+# 86 40 39 + -de (cp. dd€),  here},  lem. adj.,  so  -δε (ορ. ὅδε),  λέγε},  ἀδπ. 84].,  50
++ -δε False na
+-de (ορ. False na
+(cp. ὅδε), False eng
+dd€), λέγε}, False na
+here}, ἀδπ. False na
+lem. 84]., False na
+adj., 50 False eng
+so NA False eng
+# 87 41 46 great,  pl.,  so many,  only so many,  so φαΐ,  Ὀ].» 50 7421},  ογιῖγν 50 771471}, ,  80
+great, φαΐ, False eng
+pl., Ὀ].» False eng
+so 50 False eng
+many, 7421}, False eng
+only ογιῖγν False eng
+so 50 False eng
+many, 771471}, False eng
+so , False eng
+# 88 4 4 few. 7ευ.
+few. 7ευ. False eng
+# 89 40 41 Torotros,  -alrn,  -oUro and -otrop [76- τοσοῦτος,  -αὐτη,  -ουῦτο ἀπά -οῦτον [τό-
+τοσοῦτος, Torotros, True pp
+-alrn, -αὐτη, False na
+-oUro -ουῦτο False na
+and ἀπά False eng
+-οῦτον -otrop True pp
+[τό- [76- True half1g
+# 90 43 45 gos,  so great,  ovTos,  ¢his},  dem,  adj. σος,  50 ργέαΐ,  οὗτος,  ἐλ15},  ἄξει,  86).,
+gos, σος, False eng
+so 50 False eng
+great, ργέαΐ, False eng
+οὗτος, ovTos, True pp
+¢his}, ἐλ15}, False na
+dem, ἄξει, False eng
+adj. 86)., False eng

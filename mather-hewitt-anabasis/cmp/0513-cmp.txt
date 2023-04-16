@@ -1,0 +1,504 @@
+# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΒΥ
+VOCABULARY ΝΟΓΑΒΌΙΑΒΥ False na
+# 1 42 39 TvvonorAdslw [drordiw,  drAoAbEouar,  WAS- συνολολύζω [ὀλολύζω,  ὀλολύξομαι,  ὠλό-
+συνολολύζω TvvonorAdslw True pp
+[ὀλολύζω, [drordiw, True pp
+ὀλολύξομαι, drAoAbEouar, True pp
+ὠλό- WAS- True half1g
+# 2 38 40 Nvéa,  cry aloud,  cogn.,  Lat. ululd, λῦξα,  7») αἰοια,  Ἄσορῃ.,  1, δῖ. 1816,
+λῦξα, Nvéa, True pp
+cry 7») False eng
+aloud, αἰοια, False eng
+cogn., Ἄσορῃ., False na
+Lat. 1, False na
+ululd, δῖ. False na
+# 3 38 40 howl,  ulula,  ow/,  Eng. howl,  owl], ἀοτυέ,  1.14,  οτοί,  Επρ. ΒΟῪΣ,  ΟὟὟ]],
+howl, ἀοτυέ, False eng
+ulula, 1.14, False na
+ow/, οτοί, False na
+Eng. Επρ. False eng
+howl, ΒΟῪΣ, False eng
+owl], ΟὟὟ]], False eng
+# 4 27 32 cry aloud at the same time. .7) αὐοκαΐὶ αὐ {λὲ ξανιό Ζ1»2:6.
+cry .7) False eng
+aloud αὐοκαΐὶ False eng
+at αὐ False eng
+the {λὲ False eng
+same ξανιό False eng
+time. Ζ1»2:6. False eng
+# 5 38 39 cuvoporoyéw [duoroyew,  agree],  agree συνομολογέω [ὁμολογέω,  αργ7εε},  αρ7έέ
+συνομολογέω cuvoporoyéw True pp
+[ὁμολογέω, [duoroyew, True pp
+agree], αργ7εε}, False eng
+agree αρ7έέ False eng
+# 6 38 37 with or to,  consent to,  with acc. of “οὐίὰ οὐ ο,  εομδορεζ ζο,  ΜῊ δος. οὗ
+with “οὐίὰ False eng
+or οὐ False eng
+to, ο, False eng
+consent εομδορεζ False eng
+to, ζο, False eng
+with ΜῊ False eng
+acc. δος. False eng
+of οὗ False eng
+# 7 6 6 thing. τδίηρ.
+thing. τδίηρ. False eng
+# 8 40 41 wuvopdw [dpdw,  see],  see all together, συνοράω [ὁράω,  5:6],  5:6 αὐῤ Ἰορείλενγ,
+συνοράω wuvopdw True pp
+[ὁράω, [dpdw, True pp
+see], 5:6], False eng
+see 5:6 False eng
+all αὐῤ False eng
+together, Ἰορείλενγ, False eng
+# 9 29 31 see at a glance; with dddous, δέέΖ αὐ α ρίαπεο,  Μὴ ἀλλήλους,
+see δέέΖ False eng
+at αὐ False eng
+a α False eng
+glance; ρίαπεο, False eng
+with Μὴ False eng
+ἀλλήλους, dddous, True pp
+# 10 17 19 watch each other. «τυαἰοά ἐαεὰ οἱἠέγ.
+watch «τυαἰοά False eng
+each ἐαεὰ False eng
+other. οἱἠέγ. False eng
+# 11 43 38 ovvove la,  -ας [cuveru,  be with ],  being συνουσία,  -ας [σύνειμι,  δὲ τυ,  δεῖν
+συνουσία, ovvove True lex
+la, -ας False eng
+[σύνειμι, -ας True pp
+δὲ [cuveru, True form
+be τυ, False eng
+with δεῖν False eng
+], NA False na
+being NA False eng
+# 12 36 43 together,  intercourse,  conference. ζοροίλεγ, ,  ἐμ267 0147.56,  4071767 67:66.
+together, ζοροίλεγ, False eng
+intercourse, , False eng
+conference. ἐμ267 False eng
+# 13 33 33 cuvrarrea [rdrrw,  draw up; bor., συντάττω [τάττω,  ογατν τ,  Ὅοτ.,
+συντάττω cuvrarrea True pp
+[τάττω, [rdrrw, True pp
+draw ογατν False eng
+up; τ, False eng
+bor., Ὅοτ., False eng
+# 14 34 37 Eng. syntax],  draw up together or Επηρ. ΒγηΐίαχΊ,  αγατυ τὸ Ἰορείδεῦ οτ
+Eng. Επηρ. False eng
+syntax], ΒγηΐίαχΊ, False eng
+draw αγατυ False eng
+up τὸ False eng
+together Ἰορείδεῦ False eng
+or οτ False eng
+# 15 34 37 in line of battle,  arrange,  mar- ἐς ἐΐιό οΥΓ δαϊέε,  αγγαρρέ,  »9147΄-
+in ἐς False eng
+line ἐΐιό False eng
+of οΥΓ False eng
+battle, δαϊέε, False eng
+arrange, αγγαρρέ, False eng
+mar- »9147΄- False na
+# 16 39 38 shal; wmid.,  form in line or tn battle σλαί; ταῖά.,  , ογῆηε 1 ἐμὲ οὐ ἐμ δα 6
+shal; σλαί; False na
+ταῖά., wmid., True pp
+form , False eng
+in ογῆηε False eng
+line 1 False eng
+or ἐμὲ False eng
+tn οὐ False eng
+battle ἐμ False eng
+# 17 6 8 array. αγ7γ4}7.
+array. αγ7γ4}7. False eng
+# 18 36 37 ovvrlOnpe [7lOnu,  put,  bor.,  Eng. σνυντίθημι [τίθημι,  δι; Ὅοτ, ,  Επρ.
+σνυντίθημι ovvrlOnpe True pp
+[τίθημι, [7lOnu, True pp
+put, δι; False eng
+bor., Ὅοτ, False eng
+Eng. , False eng
+# 19 34 36 synthesis],  put logether,; mitl., ΒΥΠΙΠ65157,  2πή τορείδεγ ,  ταῖϊὰ.,
+synthesis], ΒΥΠΙΠ65157, False eng
+put 2πή False eng
+logether,; τορείδεγ False na
+mitl., , False na
+# 20 29 30 make @ covenant or agreement, »αζέ ὦ «οὐόηαρέ οὐ ἀργεεηιδηέ;
+make »αζέ False eng
+ὦ @ True lex
+covenant «οὐόηαρέ False eng
+or οὐ False eng
+agreement, ἀργεεηιδηέ; False eng
+# 21 9 10 agree on. ἄργεξ 072.
+agree ἄργεξ False eng
+on. 072. False eng
+# 22 41 43 coivropos,  -ov [réuvw,  cut; bor.,  Eng. σύντομος,  -ο»ν [τέμνω,  ετε7; Ὀοτγ.,  Επρ.
+σύντομος, coivropos, True pp
+-ov -ο»ν False na
+[τέμνω, [réuvw, True pp
+cut; ετε7; False eng
+bor., Ὀοτγ., False eng
+Eng. Επρ. False eng
+# 23 36 38 atom,  epitome],  cut short,  short. δἴομι,  δρ᾽ζοι 6],  ἐτΖ σλογέ,  σλογέ,
+atom, δἴομι, False eng
+epitome], δρ᾽ζοι False eng
+cut 6], False eng
+short, ἐτΖ False eng
+short. σλογέ, False eng
+# 24 37 36 cuvTpamefos,  -ov [Tpdrega,  sfadle], συντράπεζος,  -ου [τράπεζα,  ἑαῤῥε],
+συντράπεζος, cuvTpamefos, True pp
+-ου -ov True pp
+[τράπεζα, [Tpdrega, True lex
+sfadle], ἑαῤῥε], False na
+# 25 33 39 fable companion; see dporpdmesos. εἰαὐῤές εογεῤῥαμίορε,  866 ὁμοτράπεζος.
+fable εἰαὐῤές False eng
+companion; εογεῤῥαμίορε, False eng
+see 866 False eng
+ὁμοτράπεζος. dporpdmesos. True pp
+# 26 38 38 ouvrptBw [rpisw,  rptyw,  erpipa,  ré- συντρίβω [τρίβω,  τρίψω,  ἔτριψα,  τέ-
+συντρίβω ouvrptBw True pp
+[τρίβω, [rpisw, True pp
+τρίψω, rptyw, True pp
+ἔτριψα, erpipa, True pp
+τέ- ré- True half1g
+# 27 38 37 Tpipa,  TéTpimpat,  érpipOny and érpl- τριφα,  τέτρίμμαι,  ἐτρίφθην πὰ ἐτρί-
+τριφα, Tpipa, True pp
+τέτρίμμαι, TéTpimpat, True pp
+ἐτρίφθην érpipOny True pp
+and πὰ False eng
+ἐτρί- érpl- True half1g
+# 28 34 31 Bnv,  rub],  rub together,  crush. βην,  γε],  γό Ἰορεοίλεν,  ἐγ].
+βην, Bnv, True pp
+rub], γε], False eng
+rub γό False eng
+together, Ἰορεοίλεν, False eng
+crush. ἐγ]. False eng
+# 29 37 36 cuvTrvyxave [ruyxdvw,  happen],  hap- συντυγχάνω [τυγχάνω,  λαῤῥεη7],  λα-
+συντυγχάνω cuvTrvyxave True pp
+[τυγχάνω, [ruyxdvw, True pp
+happen], λαῤῥεη7], False eng
+λα- hap- True half1g
+# 30 37 37 pen upon,  fall in with,  meet,  with 2εηπ τῤορ,  μα ἐμ τοῦτ,  νιδεί,  νι ἢ
+pen 2εηπ False eng
+upon, τῤορ, False eng
+fall μα False eng
+in ἐμ False eng
+with, τοῦτ, False eng
+meet, νιδεί, False eng
+with νι False eng
+# 31 4 4 dat. ἀδί.
+dat. ἀδί. False eng
+# 32 38 40 ovvodedig [wperéw,  help],  contribute συνωφελέῳ [ὠφελέω,  λε{Ρ],  εογιέγἐὀτείε
+ovvodedig συνωφελέῳ False na
+[ὠφελέω, [wperéw, True pp
+help], λε{Ρ], False eng
+contribute εογιέγἐὀτείε False eng
+# 33 8 7 to help. 2ο ἀεζ.
+to 2ο False eng
+help. ἀεζ. False eng
+# 34 36 37 Lvpakdsaros,  -ov [Zupdxovea,  Syra- Συρᾶκόσιος,  “οὐ [Συράκουσαι,  .5γγα-
+Συρᾶκόσιος, Lvpakdsaros, True pp
+-ov “οὐ False na
+[Συράκουσαι, [Zupdxovea, True lex
+.5γγα- Syra- True half1g
+# 35 38 40 cuse],  Syracisan,  a citizen of Syra- κ256],  5 γγασήεαρ,  ἃ οἰτζεη οὗ ϑὅ'υγα-
+cuse], κ256], False na
+Syracisan, 5 False na
+a γγασήεαρ, False eng
+citizen ἃ False eng
+of οἰτζεη False eng
+οὗ Syra- True lex
+# 36 36 36 cuse,  an important city on the east οὐυ56,  8 ἱπηροτίδηϊ ΟἿ οἡ ἴῃς δαϑβί
+cuse, οὐυ56, False na
+an 8 False eng
+important ἱπηροτίδηϊ False eng
+city ΟἿ False eng
+on οἡ False eng
+the ἴῃς False eng
+east δαϑβί False eng
+# 37 16 16 coast of Sicily. ςοδϑί οὗ 5] ἸΪγ.
+coast ςοδϑί False eng
+of οὗ False eng
+Sicily. 5] False na
+# 38 40 40 Lupla,  -ds,  Syria,  a country in Asia, Συρία,  -ας,  δγγία,  ἃ σουπίτυ ἴῃ Αϑἰδ,
+Συρία, Lupla, True lex
+-ds, -ας, False na
+Syria, δγγία, False na
+a ἃ False eng
+country σουπίτυ False eng
+in ἴῃ False eng
+Asia, Αϑἰδ, False na
+# 39 38 36 including the territory south of Cili- ἱποϊααϊηρ ἴῃς ἰογγιτουυ βου οἵ (Π]]-
+including ἱποϊααϊηρ False eng
+the ἴῃς False eng
+territory ἰογγιτουυ False eng
+south βου False eng
+of οἵ False eng
+Cili- (Π]]- False na
+# 40 33 36 cia and the Euphrates,  as far as οἷα ἀπά ἴμῃε Εὐρἢῃτγαῖοβ,  ἃ5 ἴαγ 85
+cia οἷα False eng
+and ἀπά False eng
+the ἴμῃε False eng
+Euphrates, Εὐρἢῃτγαῖοβ, False na
+as ἃ5 False eng
+far ἴαγ False eng
+as 85 False eng
+# 41 36 40 Arabia,  except Phoenicia and Pales- Ατδῦΐϊα,  εχοερὶ Γμοεπηίοῖϊα ἀπηα Ρα]65-
+Arabia, Ατδῦΐϊα, False na
+except εχοερὶ False eng
+Phoenicia Γμοεπηίοῖϊα False na
+and ἀπηα False eng
+Ρα]65- Pales- True half1g
+# 42 32 32 tine on the Mediterranean coast. πο οὐ ἴδε Μεηήϊιογγαπθδη οοδϑβῖ.
+tine πο False eng
+on οὐ False eng
+the ἴδε False eng
+Mediterranean Μεηήϊιογγαπθδη False na
+coast. οοδϑβῖ. False eng
+# 43 33 36 Xenophon applies the name also to ΧοπορΡἤοπ ΔρΡ]1ε5 [ΠῈ πᾶπὶα αἶβθο ἴο
+Xenophon ΧοπορΡἤοπ False na
+applies ΔρΡ]1ε5 False eng
+the [ΠῈ False eng
+name πᾶπὶα False eng
+also αἶβθο False eng
+to ἴο False eng
+# 44 22 23 Mesopotamia,  74,  23. Μεβοροίδπηϊα,  74,  23.
+Mesopotamia, Μεβοροίδπηϊα, False na
+74, 74, False na
+23. 23. False na
+# 45 6 7 Google (οορσίς
+Google (οορσίς False na
+# 46 3 3 501 5ΟΙ
+501 5ΟΙ False na
+# 47 37 39 Lipros,  -a,  -ov [Zupos],  of Syria, Σύριος,  -ά,  -ον [Σύρος],  ο77 .5γγ1α,
+Σύριος, Lipros, True pp
+-ά, -a, True pp
+-ον -ov True pp
+[Σύρος], [Zupos], True pp
+of ο77 False eng
+Syria, .5γγ1α, False na
+# 48 7 7 Syrian. ͵γγῖαη.
+Syrian. ͵γγῖαη. False na
+# 49 39 39 Zvpos,  -ov,  Syrian,  an inhabitant of Σύρος,  -ου,  .5γγέαρ,  Δ ἸΠΠΔΡὶϊδηΐ οὗ
+Σύρος, Zvpos, True pp
+-ου, -ov, True pp
+Syrian, .5γγέαρ, False na
+an Δ False eng
+inhabitant ἸΠΠΔΡὶϊδηΐ False eng
+of οὗ False eng
+# 50 8 5 Syria. . τᾶ. .
+Syria. τᾶ. False na
+. . False na
+# 51 38 39 ovppte [péw,  flow],  stream together, συρρέω [ῥέω,  Μοιυ),  «ἰγέανε Τορεζάεν,
+συρρέω ovppte True pp
+[ῥέω, [péw, True pp
+flow], Μοιυ), False eng
+stream «ἰγέανε False eng
+together, Τορεζάεν, False eng
+# 52 15 16 flock together. , Μοεξ ἐορείλέ᾽.
+flock , False eng
+together. Μοεξ False eng
+# 53 39 38 ovoKxevafo [oxevdatw,  oxevdow,  érxed- σνυσκενάζω [σκευάζω,  σκευάσω,  ἐσκεύ-
+σνυσκενάζω ovoKxevafo True pp
+[σκευάζω, [oxevdatw, True pp
+σκευάσω, oxevdow, True pp
+ἐσκεύ- érxed- True half1g
+# 54 37 38 aga,  éoxevacuat,  -erxevdoOny,  pre- ασα,  ἐσκεύασμαι,  -εσκενάσθην,  2γεέ-
+aga, ασα, False eng
+ἐσκεύασμαι, éoxevacuat, True pp
+-εσκενάσθην, -erxevdoOny, True pp
+2γεέ- pre- True half1g
+# 55 38 38 - pare),  get together; mid.,  pack up . 2αγε],  ρεί ορείλεγ,  ταϊά.,  φαβξ τ
+- . False na
+pare), 2αγε], False eng
+get ρεί False eng
+together; ορείλεγ, False eng
+mid., ταϊά., False eng
+pack φαβξ False eng
+up τ False eng
+# 56 17 16 one’s own things. ΟὨΘἶΒ ον [Π͵ΠΡ5.
+one’s ΟὨΘἶΒ False na
+own ον False eng
+things. [Π͵ΠΡ5. False eng
+# 57 38 40 cvordea [ordw,  draw),  draw together, συσπάω [σπάω,  ἀγατυ],  ἰγατου ἐορείδον,
+συσπάω cvordea True pp
+[σπάω, [ordw, True pp
+draw), ἀγατυ], False eng
+draw ἰγατου False eng
+together, ἐορείδον, False eng
+# 58 13 15 sew together. σευ ἐορείλεν, .
+sew σευ False eng
+together. ἐορείλεν, False eng
+# 59 36 36 ovowepdopat,  cuvecmelpauat,  ocuve- συσπειράομαι,  συνεσπείρᾶμαι,  συνε-
+συσπειράομαι, ovowepdopat, True pp
+συνεσπείρᾶμαι, cuvecmelpauat, True pp
+συνε- ocuve- True half1g
+# 60 34 36 owepadny [oretpdoua,  be coiled or σπειράθην [σπειράομαι,  ὁξ εοἱϊεα οτ
+σπειράθην owepadny True pp
+[σπειράομαι, [oretpdoua, True pp
+be ὁξ False eng
+coiled εοἱϊεα False eng
+or οτ False eng
+# 61 41 42 folded ],  be rolled together; of troops, , ρμϊε1,  δε γο ει Τορείλεν ,  οἵ ἴτοορϑβ,
+folded , False eng
+], ρμϊε1, False na
+be δε False eng
+rolled γο False eng
+together; ει False eng
+of Τορείλεν False eng
+troops, , False eng
+# 62 22 24 be in close formation. ὧδε ἐγε εἰοδϑ γ0γιωΖ072.
+be ὧδε False eng
+in ἐγε False eng
+close εἰοδϑ False eng
+formation. γ0γιωΖ072. False eng
+# 63 36 36 overovdalw [cmrovddtw,  make haste], συσπονδάζω [σπουδάζω,  »ιαξε λας(ε],
+συσπονδάζω overovdalw True pp
+[σπουδάζω, [cmrovddtw, True pp
+make »ιαξε False eng
+haste], λας(ε], False eng
+# 64 35 37 make haste with,  join in eager ac- »παζε δασίε τυΐά,  7ορ ἐρε δαρὸν» ἀε-
+make »παζε False eng
+haste δασίε False eng
+with, τυΐά, False eng
+join 7ορ False eng
+in ἐρε False eng
+eager δαρὸν» False eng
+ac- ἀε- False na
+# 65 7 6 tivity. ζυϊέγ.
+tivity. ζυϊέγ. False na
+# 66 34 35 ovorparetvopa. [orparetw,  make an συστρατεύομαι [στρατεύω,  »πμαξέ αὉ
+συστρατεύομαι ovorparetvopa. True pp
+[στρατεύω, [orparetw, True pp
+make »πμαξέ False eng
+an αὉ False eng
+# 67 36 32 expedition),  join in an expedition. 44 1102,  7οἵρι ἐπε απ δε 2107:.
+expedition), 44 False eng
+join 1102, False eng
+in 7οἵρι False eng
+an ἐπε False eng
+expedition. απ False eng
+# 68 36 36 cvoerparnyos,  -ov [orparnyss,  gen- συστράτηγος,  -ου [στρατηγός,  ρέ72-
+συστράτηγος, cvoerparnyos, True pp
+-ου -ov True pp
+[στρατηγός, [orparnyss, True pp
+ρέ72- gen- True half1g
+# 69 24 26 eval ],  fellow-general. ἐγα 1,  κε ἑοτυ-ρεγι6γ αὐ.
+eval ἐγα False eng
+], 1, False na
+fellow-general. κε False na
+# 70 39 38 cvoerpatriotns,  -ov [orpariirys,  soé- συστρατιώτης,  -ουὐ [στρατιώτης,  50ἐ-
+συστρατιώτης, cvoerpatriotns, True lex
+-ov -ουὐ False na
+[στρατιώτης, [orpariirys, True lex
+soé- 50ἐ- False na
+# 71 33 36 dier),  fellow-soldter,  comrade. 4167],  κε ἐοτυ-Ξ οὐδ,  ἐο»17,  “αἴ.
+dier), 4167], False eng
+fellow-soldter, κε False na
+comrade. ἐοτυ-Ξ False eng
+# 72 32 32 ovotparomedevopar [orparorededw, συστρατοπεδεύομαι [στρατοπεδεύω,
+συστρατοπεδεύομαι ovotparomedevopar True pp
+[στρατοπεδεύω, [orparorededw, True pp
+# 73 37 34 encamp ],  encamp with,  with ovv and ἐγ: εαρῃ ],  ἐηιεαρ εὐ,  ψ σύν ἀηὰ
+encamp ἐγ: False eng
+], εαρῃ False na
+encamp ], False eng
+with, ἐηιεαρ False eng
+with εὐ, False eng
+ovv ψ False na
+and σύν False eng
+# 74 6 6 dat. - ἀδί. “
+dat. ἀδί. False eng
+- “ False na
+# 75 40 41 ouxvds,  -4,  -bv,  considerable,  long. συχνός,  -ή,  -όν,  εομοϊαδγαδίο,  Ζογιρ.
+συχνός, ouxvds, True pp
+-ή, -4, True pp
+-όν, -bv, True pp
+considerable, εομοϊαδγαδίο, False eng
+long. Ζογιρ. False eng
+# 76 36 37 Neut. acc. as adv.,  dcadelrovra ov- Ναυῖ,  δος. 45 δάν.,  διαλείποντα συ-
+Neut. Ναυῖ, False na
+acc. δος. False eng
+as 45 False eng
+adv., δάν., False eng
+διαλείποντα dcadelrovra True form
+συ- ov- True half1g
+# 77 33 34 xv6v,  at considerable intervals. χνόν,  αὐ εογ»οῖοδγαῤίο ἐμζεγναΐς.
+xv6v, χνόν, False na
+at αὐ False eng
+considerable εογ»οῖοδγαῤίο False eng
+intervals. ἐμζεγναΐς. False eng
+# 78 32 32 ohayidfopar,  dopayiacduny [opd- σφαγιάζομαι,  ἐσφαγιασάμην [σφά-
+σφαγιάζομαι, ohayidfopar, True pp
+ἐσφαγιασάμην dopayiacduny True pp
+[σφά- [opd- True half1g
+# 79 40 42 yiov],  sacrifice a victim,  make a pro- γιον],  δαεζίβεες α υἹοίῖνι,  νπαξό ἃ 270-
+γιον], yiov], True pp
+sacrifice δαεζίβεες False eng
+a α False eng
+victim, υἹοίῖνι, False eng
+make νπαξό False eng
+a ἃ False eng
+pro- 270- False na
+# 80 21 21 pitiatory offering. ' 21: αέον»} οὔέγῖηρ. "
+pitiatory 21: False na
+offering. αέον»} False eng
+' οὔέγῖηρ. False na
+# 81 40 41 odayrov,  -ov [cp. opdrrw],  sacrificial σφάγιον,  -ου [ςρΡ. σφάττω],  ἐεαεγὶβεῖαῖ
+σφάγιον, odayrov, True pp
+-ου -ov True pp
+[cp. [ςρΡ. False eng
+σφάττω], opdrrw], True pp
+sacrificial ἐεαεγὶβεῖαῖ False eng
+# 82 38 39 victim; pl.,  sacrifice,  usually made σὲοίνε, ,  Ὀ].,  δαςγίβεξ,  Ἀϑ8}}}γ τάς
+victim; σὲοίνε, False eng
+pl., , False eng
+sacrifice, Ὀ]., False eng
+usually δαςγίβεξ, False eng
+made Ἀϑ8}}}γ False eng
+# 83 34 34 to propitiate a deity; omens,  xal ἴο Ργτορ ταῖς ἃ ἀθῖγ; ογεϑρς,  καὶ
+to ἴο False eng
+propitiate Ργτορ False eng
+a ταῖς False eng
+deity; ἃ False eng
+omens, ἀθῖγ; False eng
+xal ογεϑρς, False na
+# 84 36 37 Ta lepa Kaha kal Ta ofdyta Kad,  the τὰ ἱερὰ καλὰ καὶ τὰ σφάγια καλά,  2ἦε
+τὰ Ta True pp
+lepa ἱερὰ False eng
+καλὰ Kaha True form
+kal καὶ False eng
+τὰ Ta True pp
+σφάγια ofdyta True form
+καλά, Kad, True pp
+the 2ἦε False eng
+# 85 35 38 omens not only from the regular but ο»!δη15 μοί ομέν 7γ0» 166 γοριεέαν ὀμέ
+omens ο»!δη15 False eng
+not μοί False eng
+only ομέν False eng
+from 7γ0» False eng
+the 166 False eng
+regular γοριεέαν False eng
+but ὀμέ False eng
+# 86 39 41 also from the special propitiatory sac- σίδο γγοηε ἐλ ς»ρεεῖα  2γοῤτέϊαον, » 5αἐ-
+also σίδο False eng
+from γγοηε False eng
+the ἐλ False eng
+special ς»ρεεῖα False eng
+propitiatory 2γοῤτέϊαον, False eng
+sac- » False na
+# 87 36 39 rifice were favorable,  91,  23. Cp. γίβες τῦῦργό γανογαῤίρ,  961,  23. (ΟΥ.
+γίβες rifice True pp
+were τῦῦργό False eng
+favorable, γανογαῤίρ, False eng
+91, 961, False na
+23. 23. False na
+Cp. (ΟΥ. False na
+# 88 33 32 lepds,  and see p. 45,  footnote. ἱερός,  τι 866 Ὁ. 45,  ἰοοϊποῖδ.
+ἱερός, lepds, True pp
+and τι False eng
+see 866 False eng
+p. Ὁ. False eng
+45, 45, False na
+footnote. ἰοοϊποῖδ. False eng
+# 89 33 32 tro,  opdiw,  téopata,  erpaypat, ττω,  σφάξω,  ἔσφαξα,  ἔσφαγμαι,
+ττω, tro, True pp
+σφάξω, opdiw, True pp
+ἔσφαξα, téopata, True pp
+ἔσφαγμαι, erpaypat, True pp
+# 90 27 26 éopayny,  slaughter,  kill. ἐσφάγην,  Ξτἐατερήεγ,  τέ,
+ἐσφάγην, éopayny, True pp
+slaughter, Ξτἐατερήεγ, False eng
+kill. τέ, False eng

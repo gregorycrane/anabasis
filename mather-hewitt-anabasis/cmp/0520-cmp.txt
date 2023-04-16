@@ -1,0 +1,523 @@
+# 0 3 3 508 σοῦ
+σοῦ 508 True pp
+# 1 37 37 a shield (dowls)],  shield bearer,  a α τἀϊείάα (ἀσπίς),  φελϊεία ὅφα᾽Ε,  ἃ
+a α False eng
+shield τἀϊείάα False eng
+(ἀσπίς), (dowls)], True lex
+shield φελϊεία False eng
+bearer, ὅφα᾽Ε, False eng
+a ἃ False eng
+# 2 31 30 slave attending an officer or a οἷανε αἰϊοπαϊηρ δὴ οὔϊοεῦ οὐ ἃ
+slave οἷανε False eng
+attending αἰϊοπαϊηρ False eng
+an δὴ False eng
+officer οὔϊοεῦ False eng
+or οὐ False eng
+a ἃ False eng
+# 3 20 21 heavy-armed soldier. Βεδνγ-διτηεαά 50] 16.
+Βεδνγ-διτηεαά heavy-armed True pp
+soldier. 50] False eng
+# 4 37 40 Greer [elul,  be],  be under,  be un- ὕπειμι [εἰμί,  δε1,  ὁε τμαἶδγ,  ὧδ 1|7-
+ὕπειμι Greer True pp
+[elul, [εἰμί, False eng
+be], δε1, False eng
+be ὁε False eng
+under, τμαἶδγ, False eng
+be ὧδ False eng
+un- 1|7- False na
+# 5 9 10 derneath, ἔργ ηεαζά.
+derneath, ἔργ False na
+# 6 39 41 omép [cogn.,  Lat. super,  above,  Eng. ὑπέρ [οορῃ.,  [, Αἱ. ΒΌΡΕΙ,  σόουε,  ἘΠΡ.
+ὑπέρ omép True lex
+[cogn., [οορῃ., False na
+Lat. [, False na
+super, Αἱ. False eng
+above, ΒΌΡΕΙ, False eng
+Eng. σόουε, False eng
+# 7 33 32 over; bor.,  Eng. hyperbola,  hy- ΟΥ̓́Τ; ὕοτ.,  Επρ. γροτθοῖα,  γ-
+over; ΟΥ̓́Τ; False eng
+bor., ὕοτ., False eng
+Eng. Επρ. False eng
+hyperbola, γροτθοῖα, False eng
+hy- γ- False na
+# 8 37 33 perbole,  hypercritical],  prep. with ῬδΙΌΟΪ6,  μυρϑτου 1041},  Ρτερ. ἢ
+perbole, ῬδΙΌΟΪ6, False na
+hypercritical], μυρϑτου False eng
+prep. 1041}, False eng
+with Ρτερ. False eng
+# 9 20 24 gen. or acc.,  over. δεῃ. οΥ 8ςο6., ) 97 67΄.
+gen. δεῃ. False eng
+or οΥ False eng
+acc., 8ςο6., False eng
+over. ) False eng
+# 10 34 32 With gen.,  over,  above,  beyond; ΜΙ σεη.,  ονόῦ,  αὖουε,  δενο»α,
+With ΜΙ False na
+gen., σεη., False eng
+over, ονόῦ, False eng
+above, αὖουε, False eng
+beyond; δενο»α, False eng
+# 11 40 43 down over; in behalf of,  in defense of. ἴρτυγι οὐδ; ἴηι ὀελα 7 οἵ,  ἕρι α6767156 ο.
+down ἴρτυγι False eng
+over; οὐδ; False eng
+in ἴηι False eng
+behalf ὀελα False eng
+of, 7 False eng
+in οἵ, False eng
+defense ἕρι False eng
+of. α6767156 False eng
+# 12 19 16 With acc.,  beyond. ἍΜ δος.,  δεγορ,
+With ἍΜ False na
+acc., δος., False eng
+beyond. δεγορ, False eng
+# 13 33 32 In cpds.,  over,  above,  exceed- Ιῃ οράβ.,  οὐδ,  αδοῦε,  ἐχεύεί-
+In Ιῃ False na
+cpds., οράβ., False na
+over, οὐδ, False eng
+above, αδοῦε, False eng
+ἐχεύεί- exceed- True half1g
+# 14 36 38 ingly,  in behalf of; cp. Eng. words ἐηιοῖν,  ἐρι ὀελα οὕ,  ορ. Ἐπρ. ννογάβ
+ingly, ἐηιοῖν, False na
+in ἐρι False eng
+behalf ὀελα False eng
+of; οὕ, False eng
+cp. ορ. False eng
+Eng. Ἐπρ. False eng
+words ννογάβ False eng
+# 15 34 35 (see above) beginning with AyZer-. (566 δῦονβ) θερίπηΐϊηρ ΜΠ Ὡ ἀ}267-.
+(see (566 False eng
+above) δῦονβ) False eng
+beginning θερίπηΐϊηρ False eng
+with ΜΠ False eng
+AyZer-. Ὡ False na
+# 16 37 34 trrepBdAAwW [BarrAwW,  “hrow],  throw ὑπερβάλλω [βάλλω,  2λν τυ},  “ἄγοι
+ὑπερβάλλω trrepBdAAwW True pp
+[βάλλω, [BarrAwW, True pp
+“hrow], 2λν False na
+throw τυ}, False eng
+# 17 37 41 over » pass over,  Cross OVE,  CFOSS. Οὐδ7ῦ ,  2455 οὐ’,  47.055 ΟΨΕ7, ,  4755.
+over Οὐδ7ῦ False eng
+» , False na
+pass 2455 False eng
+over, οὐ’, False eng
+Cross 47.055 False na
+OVE, ΟΨΕ7, False na
+CFOSS. , False na
+# 18 43 39 SrrepBor ‘4,  -ijs [UmrepBdddw; bor.,  Eng. ὑπερβολή,  -ῆς,  [ὑπερβάλλω; Ὀοτ.,  ΒΡ.
+ὑπερβολή, SrrepBor True lex
+‘4, -ῆς, False na
+[ὑπερβάλλω; -ijs True pp
+[UmrepBdddw; Ὀοτ., False na
+bor., ΒΡ. False eng
+Eng. NA False eng
+# 19 34 37 hyperbola,  hyperbole],  crosszng, ἘΥΡΟΙΌΟΪΔ,  ΒΥΡΘΙΌΟΪΘ],  47 055 1710.
+hyperbola, ἘΥΡΟΙΌΟΪΔ, False eng
+hyperbole], ΒΥΡΘΙΌΟΪΘ], False eng
+crosszng, 47 False na
+# 20 23 24 passage; mountain Jass. 2αφεαρέ; τηουπίδϊη 2655.
+passage; 2αφεαρέ; False eng
+mountain τηουπίδϊη False eng
+Jass. 2655. False na
+# 21 44 42 trrepSéftos,  -ov [de&bs,  right],  above or ὑπερδέξιος,  -ον [δεξιός,  γίρλ],  αὖον οἵ
+ὑπερδέξιος, trrepSéftos, True pp
+-ον -ov True pp
+[δεξιός, [de&bs, True pp
+right], γίρλ], False eng
+above αὖον False eng
+or οἵ False eng
+# 22 36 35 high on the right,  high,  elevated. ἀϊρά οι ἕλε γίρἠ,  ἀϊρά,  οἰουαίοα,
+high ἀϊρά False eng
+on οι False eng
+the ἕλε False eng
+right, γίρἠ, False eng
+high, ἀϊρά, False eng
+elevated. οἰουαίοα, False eng
+# 23 37 37 brepépxopat [%pxouat,  go},  go over, ὑπερέρχομαι [ἔρχομαι,  901,  50 οὐε7,
+ὑπερέρχομαι brepépxopat True pp
+[ἔρχομαι, [%pxouat, True pp
+go}, 901, False na
+go 50 False eng
+over, οὐε7, False eng
+# 24 10 10 pass over. 24:5 οὐέγ.
+pass 24:5 False eng
+over. οὐέγ. False eng
+# 25 42 44 brepexo (Zw,  have,  be],  be above,  pro- ὑπερέχω [ἔχω,  λανε,  δε],  ὅς αὐουε,  27γ0-
+ὑπερέχω brepexo True pp
+[ἔχω, (Zw, True pp
+have, λανε, False eng
+be], δε], False eng
+be ὅς False eng
+above, αὐουε, False eng
+27γ0- pro- True half1g
+# 26 16 15 ject,  overhang. 7:ἴ,  ουεγἠαηρ.
+ject, 7:ἴ, False na
+overhang. ουεγἠαηρ. False eng
+# 27 36 41 tarepbev [dmdp],  adv.,  from above, ὕπερθεν [ὑπέρ],  δάν.,  , 2539οο»Ὲ αὖοῦε,
+ὕπερθεν tarepbev True lex
+[ὑπέρ], [dmdp], True lex
+adv., δάν., False eng
+from , False eng
+above, 2539οο»Ὲ False eng
+# 28 6 6 above. αὐουε.
+above. αὐουε. False eng
+# 29 41 40 brepiwndros,  -o» [iynA0bs],  exceedingly ὑπερύψηλος,  -ον [ὑψηλός],  ἐχεεεαϊἑγρὶν
+ὑπερύψηλος, brepiwndros, True pp
+-ον -o» True pp
+[ὑψηλός], [iynA0bs], True pp
+exceedingly ἐχεεεαϊἑγρὶν False eng
+# 30 5 5 high. ἀϊρλ.
+high. ἀϊρλ. False eng
+# 31 30 27 taréoyero,  see tric x véouat. ὑπέσχετο,  5εε ὑπισχνέομαι.
+ὑπέσχετο, taréoyero, True form
+see 5εε False eng
+ὑπισχνέομαι. tric True pp
+x NA False eng
+véouat. NA False na
+# 32 41 42 bafxoos,  -ov [bmaxovw],  obedient,  sub- ὑπήκοος,  -ον [ὑπακούω],  οὐδαϊεγιέ,  σεὖ-
+ὑπήκοος, bafxoos, True pp
+-ον -ov True pp
+[ὑπακούω], [bmaxovw], True pp
+obedient, οὐδαϊεγιέ, False eng
+σεὖ- sub- True half1g
+# 33 19 17 ject to,  with dat. 76εἰ ἐο,  ΤᾺ ἀαῖ.
+ject 76εἰ False na
+to, ἐο, False eng
+with ΤᾺ False eng
+dat. ἀαῖ. False eng
+# 34 41 39 banperéo,  Urnper iow,  banpér nga,  Ur7- ὑπηρετέω,  ὑπηρετήσω,  ὑπηρέτησα,  ὑπη-
+ὑπηρετέω, banperéo, True pp
+ὑπηρετήσω, Urnper True pp
+ὑπηρέτησα, iow, True pp
+ὑπη- banpér True half1g
+nga, NA False na
+Ur7- NA False na
+# 35 30 31 pérnxa,  vanpérnua [omnpérns], ρέτηκα,  ὑπηρέτημαι [ὑπηρέτης],
+ρέτηκα, pérnxa, True pp
+ὑπηρέτημαι vanpérnua True pp
+[ὑπηρέτης], [omnpérns], True lex
+# 36 36 31 serve,  help,  supply,  with dat. of σεγυε,  ἀεζ,  σεῤῥίν,   ἀαῖ. οὗ
+serve, σεγυε, False eng
+help, ἀεζ, False eng
+supply, σεῤῥίν, False eng
+with ἀαῖ. False eng
+dat. οὗ False eng
+of NA False eng
+# 37 7 7 person. ΡεΥβοῃ.
+person. ΡεΥβοῃ. False eng
+# 38 37 41 Sanpérns,  -ov [épérrw,  row] (under- ὑπηρέτης,  -ου [ἐρέττω,  γοτ0] (24716{67-
+ὑπηρέτης, Sanpérns, True lex
+-ου -ov True pp
+[ἐρέττω, [épérrw, True pp
+row] γοτ0] False eng
+(under- (24716{67- False na
+# 39 29 29 rower),  assistant,  servant, γοῖυε7),  αϑ51εία, ,  6 α718,
+rower), γοῖυε7), False eng
+assistant, αϑ51εία, False eng
+servant, , False eng
+# 40 34 35 Smoyvéopat,  vrocxjoopat,  drerxs- ὑπισχνέομαι,  ὑποσχήσομαι,  ὑπεσχό-
+ὑπισχνέομαι, Smoyvéopat, True pp
+ὑποσχήσομαι, vrocxjoopat, True pp
+ὑπεσχό- drerxs- True half1g
+# 41 33 34 pny,  bréoxnuat [cp. exw,  have), μὴν,  ὑπέσχημαι [ςΡ. ἔχω,  ἢλανε],
+μὴν, pny, True form
+ὑπέσχημαι bréoxnuat True pp
+[cp. [ςΡ. False eng
+ἔχω, exw, True pp
+have), ἢλανε], False eng
+# 42 33 41 hold oneself under an engagement, λοίώ ογμεδο τερηἿ27 471. Φρρ 6.967) 6717,
+hold λοίώ False eng
+oneself ογμεδο False eng
+under τερηἿ27 False eng
+an 471. False eng
+engagement, Φρρ False eng
+# 43 35 35 promise,  with dat. of person,  and 2γονεῖξο,  Μὴ ἀαῖ. οὗ ρῬδύβοῃ,  δηά
+promise, 2γονεῖξο, False eng
+with Μὴ False eng
+dat. ἀαῖ. False eng
+of οὗ False eng
+person, ρῬδύβοῃ, False eng
+and δηά False eng
+# 44 26 25 acc. of thing or fut. inf, δος. οὗ {πὴρ οὐ [μἴ. 1ηἴς
+acc. δος. False eng
+of οὗ False eng
+thing {πὴρ False eng
+or οὐ False eng
+fut. [μἴ. False eng
+inf, 1ηἴς False eng
+# 45 6 7 Google (ποορὶς
+Google (ποορὶς False na
+# 46 19 18 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝ5 ΑΝΑΒΑΘΙ5
+XENOPHON’S ΧΕΝΟΡΗΟΝ5 False na
+ANABASIS ΑΝΑΒΑΘΙ5 False na
+# 47 42 45 Sarvos,  -ov [cogn.,  Lat. sopor,  somnus, ὕπνος,  -ον [ςορὩ.,  [.Δ[. ΒΟΡΟΥ͂,  ΒΟΠῚΠ118,
+ὕπνος, Sarvos, True pp
+-ον -ov True pp
+[cogn., [ςορὩ., False na
+Lat. [.Δ[. False na
+sopor, ΒΟΡΟΥ͂, False eng
+somnus, ΒΟΠῚΠ118, False eng
+# 48 36 36 sleep; bor.,  Eng. hypnosis,  hypno- σἰοοῤ; Ὁοτ.,  Επρ. ἈΥΡΏΟΒΙ8,  ΠΥΡΠΟ-
+sleep; σἰοοῤ; False eng
+bor., Ὁοτ., False eng
+Eng. Επρ. False eng
+hypnosis, ἈΥΡΏΟΒΙ8, False eng
+hypno- ΠΥΡΠΟ- False na
+# 49 15 14 tism ],  s/eep. ἰ8π|1,  σἰδεῤ.
+tism ἰ8π|1, False na
+], σἰδεῤ. False na
+s/eep. NA False na
+# 50 33 35 ié,  by elision and euphony dw or ὑπό,  ὈΥ εἰϊβίοπ δῃᾶ ΘὈΡΒΟΠΥ ὑπ᾽ οΥ
+ὑπό, ié, True lex
+by ὈΥ False eng
+elision εἰϊβίοπ False eng
+and δῃᾶ False eng
+euphony ΘὈΡΒΟΠΥ False eng
+dw ὑπ᾽ False na
+or οΥ False eng
+# 51 35 44 ig [cogn.,  Lat. sub,  wader; bor., ὑφ᾽ [οορπ.,  [, 8ἴ. 8110,  φερα67,  ,  ὈΟΥ.,
+ig ὑφ᾽ False na
+[cogn., [οορπ., False na
+Lat. [, False na
+sub, 8ἴ. False eng
+wader; 8110, False eng
+bor., φερα67, False eng
+# 52 33 34 Eng. hypocrite,  hypodermic,  hy- Επρ. Βυροοσίῖθ,  μυροᾶοσμιῖο,  γΥ-
+Eng. Επρ. False eng
+hypocrite, Βυροοσίῖθ, False eng
+hypodermic, μυροᾶοσμιῖο, False eng
+γΥ- hy- True half1g
+# 53 39 37 pothesis],  prep. with gen.,  dat.,  or Ῥοί 6818],  ργερ. νὰ ρεη.,  ἀδῖ.,  οἵ
+pothesis], Ῥοί False na
+prep. 6818], False eng
+with ργερ. False eng
+gen., νὰ False eng
+dat., ρεη., False eng
+or ἀδῖ., False eng
+# 54 15 20 _ acc.,  “mder. ο 80ο, ,  ΨΜ7242127.
+_ ο False na
+acc., 80ο, False eng
+“mder. , False na
+# 55 31 30 With gen.,  of agency or cause, ΜΙ ρσοη.,  οὗ ΡΘΠΟΥ͂ ΟΥ οδυ56,
+With ΜΙ False na
+gen., ρσοη., False eng
+of οὗ False eng
+agency ΡΘΠΟΥ͂ False eng
+or ΟΥ False eng
+cause, οδυ56, False eng
+# 56 36 38 by,  from,  at the hands of; bwd pa- ὧν,  3ονι,  αὐ ζλε λαμας οὔ,  ὑπὸ. μα-
+by, ὧν, False eng
+from, 3ονι, False eng
+at αὐ False eng
+the ζλε False eng
+hands λαμας False eng
+of; οὔ, False eng
+ὑπὸ. bwd True form
+μα- pa- True half1g
+# 57 25 27 orlywyv,  under the lash. στίγων,  τι6167,  116 ἠα5}.
+στίγων, orlywyv, True pp
+under τι6167, False eng
+the 116 False eng
+lash. ἠα5}. False eng
+# 58 30 30 With dat.,  depending on verbs ΜΙ ἀαὶ.,  ἀδραπάϊηρσ οὐ νϑγρβ8
+With ΜΙ False na
+dat., ἀαὶ., False eng
+depending ἀδραπάϊηρσ False eng
+on οὐ False eng
+verbs νϑγρβ8 False eng
+# 59 34 40 ‘of rest,  wnder,  at the foot of. ᾿οἵ τεϑβί,  τρμιαἷϑγ',  αὐ ἐδφ γ)οοΐ ογῥ
+‘of ᾿οἵ False na
+rest, τεϑβί, False eng
+wnder, τρμιαἷϑγ', False na
+at αὐ False eng
+the ἐδφ False eng
+foot γ)οοΐ False eng
+of. ογῥ False eng
+# 60 30 29 With acc.,  depending on verbs ὙΠ δςς.,  ἀδερεπάϊηρ οὐ νετὺβ
+With ὙΠ False na
+acc., δςς., False eng
+depending ἀδερεπάϊηρ False eng
+on οὐ False eng
+verbs νετὺβ False eng
+# 61 35 37 expressing or implying motion,  z7- Ἔχργαβϑίηρ ΟΥ̓ΙΤΩΡΙ Υ]ΠΡ τι Ο,  267:-
+expressing Ἔχργαβϑίηρ False eng
+or ΟΥ̓ΙΤΩΡΙ False eng
+implying Υ]ΠΡ False eng
+motion, τι False eng
+z7- Ο, False na
+# 62 30 31 der,  at or along the foct of. εἴ67,  αὐ οὐ αἰορρ ἦε γ)οοέ οὔῪ
+der, εἴ67, False eng
+at αὐ False eng
+or οὐ False eng
+along αἰορρ False eng
+the ἦε False eng
+foct γ)οοέ False na
+of. οὔῪ False eng
+# 63 33 35 In cpds.,  under,  underhandedly, Ιῃ οράϑβ.,  ππώέγ,  τηαργλαμαάφαϊν,
+In Ιῃ False na
+cpds., οράϑβ., False na
+under, ππώέγ, False eng
+underhandedly, τηαργλαμαάφαϊν, False eng
+# 64 35 35 somewhat,  slightly; cp. Eng. words σογεοτυλαΐ,  δἐλρήν; ορ. Επρ. ψοτὰβ
+somewhat, σογεοτυλαΐ, False eng
+slightly; δἐλρήν; False eng
+cp. ορ. False eng
+Eng. Επρ. False eng
+words ψοτὰβ False eng
+# 65 33 31 (see above) beginning with AyZo-. (866 8Δδονθὴ) Ῥερϊηπίηρ ἢ ἀ7ο-.
+(see (866 False eng
+above) 8Δδονθὴ) False eng
+beginning Ῥερϊηπίηρ False eng
+with ἢ False eng
+AyZo-. ἀ7ο-. False na
+# 66 42 41 brobens,  -és [Séw,  Jack],  found only in ὑποδεής,  -ές [δέω,  4:5},  ἰοαπα ΟὨΪΥ ἷπ
+ὑποδεής, brobens, True lex
+-ές -és True pp
+[δέω, [Séw, True pp
+Jack], 4:5}, False na
+found ἰοαπα False eng
+only ΟὨΪΥ False eng
+in ἷπ False eng
+# 67 35 38 comp. trodedorepos,  somewhat tnfe- σΟΙΏΡ. ὑποδεέστερος,  5ογηδιυλαΐ ἐγ76-
+comp. σΟΙΏΡ. False eng
+ὑποδεέστερος, trodedorepos, True pp
+somewhat 5ογηδιυλαΐ False eng
+ἐγ76- tnfe- True half1g
+# 68 21 24 rior,  of lower rank. γ.107, ,  ο7 ἐοτυε᾽ γαρ,
+rior, γ.107, False na
+of , False eng
+lower ο7 False eng
+rank. ἐοτυε᾽ False eng
+# 69 40 40 troSéxopar [Séxouat,  receive],  recetve ὑποδέχομαι [δέχομαι,  γεεεῖυε],  γέεεῖνε
+ὑποδέχομαι troSéxopar True pp
+[δέχομαι, [Séxouat, True pp
+receive], γεεεῖυε], False eng
+recetve γέεεῖνε False na
+# 70 38 39 under protection,  receive hospitably, 71.127 2γοϊεείο»!,  γεσοῖνε ἀοςρῥίαῤέν,
+under 71.127 False eng
+protection, 2γοϊεείο»!, False eng
+receive γεσοῖνε False eng
+hospitably, ἀοςρῥίαῤέν, False eng
+# 71 8 10 welcome. τὐείοο716.
+welcome. τὐείοο716. False eng
+# 72 37 37 brodto [déw,  Jind],  bind under,  of ὑποδέω [δέω,  δέρμα,  δίκα] πραγ,  οἵ
+ὑποδέω brodto True pp
+[δέω, [déw, True pp
+δέρμα, Jind], True pp
+bind δίκα] False eng
+under, πραγ, False eng
+of οἵ False eng
+# 73 36 37 sandals or shoes,  put on,  vrodede- ΘΔ 4α]5 οὐ 58065,  222 ο72,  ὑποδεδε-
+sandals ΘΔ False eng
+or 4α]5 False eng
+shoes, οὐ False eng
+put 58065, False eng
+on, 222 False eng
+vrodede- ο72, False na
+# 74 33 35 pévot,  with shoes on,  204,  17. μένοι,  τοῖτὰ οἦοΊξ 072,  204,  17.
+μένοι, pévot, True form
+with τοῖτὰ False eng
+shoes οἦοΊξ False eng
+on, 072, False eng
+204, 204, False na
+17. 17. False na
+# 75 40 41 ordSypa,  -aros,  7b [brodéw]),  sandal, ὑπόδημα,  -ατος,  τό [ὑποδέω],  τα»παΐαΐ,
+ὑπόδημα, ordSypa, True pp
+-ατος, -aros, True pp
+τό 7b True form
+[ὑποδέω], [brodéw]), True pp
+sandal, τα»παΐαΐ, False eng
+# 76 37 39 shoe,  of wood or leather,  sometimes “ἀοε,  οἵ ψοοά οἵ Ἰεδῖπεσ,  βοτῃείτηθϑ8
+shoe, “ἀοε, False eng
+of οἵ False eng
+wood ψοοά False eng
+or οἵ False eng
+leather, Ἰεδῖπεσ, False eng
+sometimes βοτῃείτηθϑ8 False eng
+# 77 37 38 with a narrow strip of leather on the ΜἸὮ ἃ πᾶττον 5ἰτῖρ οὗ Ἰεαῖ πεσ οα ἴμ 8
+with ΜἸὮ False eng
+a ἃ False eng
+narrow πᾶττον False eng
+strip 5ἰτῖρ False eng
+of οὗ False eng
+leather Ἰεαῖ False eng
+on πεσ False eng
+the οα False eng
+# 78 34 34 front or sides,  and fastened with ττοπὶ οὐ 5465,  δῃὰ ἰαδβίεποα στ ἢ
+front ττοπὶ False eng
+or οὐ False eng
+sides, 5465, False eng
+and δῃὰ False eng
+fastened ἰαδβίεποα False eng
+with στ False eng
+# 79 38 39 thongs,  as shown in Fig. 67,  p. 204. [Ὠοπρ5,  88 βϑβονῃ ἱπ ΕἸρ. 67,  Ρ. 204.
+thongs, [Ὠοπρ5, False eng
+as 88 False eng
+shown βϑβονῃ False eng
+in ἱπ False eng
+Fig. ΕἸρ. False na
+67, 67, False na
+p. Ρ. False eng
+204. 204. False na
+# 80 37 37 bwolbyrov,  -ov [brd fvyy,  under the ὑποζύγιον,  -ον [ὑπὸ ζυγῷ,  πραΐεγ 7.
+ὑποζύγιον, bwolbyrov, True pp
+-ον -ov True pp
+[ὑπὸ [brd True form
+fvyy, ζυγῷ, False na
+under πραΐεγ False eng
+the 7. False eng
+# 81 36 39 yoke),  beast under the yoke,  beast γοξεἼ,  δεαοέ τγ6127) 1266 γοῖε,  δεαςέ
+yoke), γοξεἼ, False eng
+beast δεαοέ False eng
+under τγ6127) False eng
+the 1266 False eng
+yoke, γοῖε, False eng
+beast δεαςέ False eng
+# 82 36 38 of burden; pl.,  pack animals,  bag- ο7 ὀπγάενε,  Ὁ].. ῥαοξ αμίφιαίς,  ὀαρ-
+of ο7 False eng
+burden; ὀπγάενε, False eng
+pl., Ὁ].. False eng
+pack ῥαοξ False eng
+animals, αμίφιαίς, False eng
+ὀαρ- bag- True half1g
+# 83 13 16 gage animals. φαρε αγῖγαίξ,  ΄
+gage φαρε False eng
+animals. αγῖγαίξ, False eng
+# 84 35 34 trokapBdvew [AauBdvw,  fake],  take ὑπολαμβάνω [λαμβάνω,  ἠαζε),  ἑαξε
+ὑπολαμβάνω trokapBdvew True pp
+[λαμβάνω, [AauBdvw, True pp
+fake], ἠαζε), False eng
+take ἑαξε False eng
+# 85 33 39 under one’s protection; take up a 2471, 1607 ογιεἷΣ 2γοϊδοίο,  ἑαζεέ Μ2 α
+under 2471, False eng
+one’s 1607 False na
+protection; ογιεἷΣ False eng
+take 2γοϊδοίο, False eng
+up ἑαζεέ False eng
+a Μ2 False eng
+# 86 36 38 conversation,  answer,  peratd) bwo- εοηῃυεγεαζίο»,  αρϑτυθῦ ,  μεταξὺ ὑπο-
+conversation, εοηῃυεγεαζίο», False eng
+answer, αρϑτυθῦ False eng
+peratd) , False na
+μεταξὺ bwo- True form
+# 87 21 20 AaBwr,  interrupting. λαβών,  ἐρεγγηῤίιηρ.
+λαβών, AaBwr, True form
+interrupting. ἐρεγγηῤίιηρ. False eng
+# 88 39 40 brodelmw [elrw,  leave],  leave behind, ὑπολείπω [λείπω,  ἐεανε],  ἠεατς ὀελῖ»α,
+ὑπολείπω brodelmw True pp
+[λείπω, [elrw, True pp
+leave], ἐεανε], False eng
+leave ἠεατς False eng
+behind, ὀελῖ»α, False eng
+# 89 37 38 brod¥w [Abw,  loosel,  loose beneath; ὑπολύω [λύω,  δρο:61,  ἐουδε ὀεγμεαζᾷ;
+ὑπολύω brod¥w True pp
+[λύω, [Abw, True pp
+loosel, δρο:61, False na
+loose ἐουδε False eng
+beneath; ὀεγμεαζᾷ; False eng
+# 90 39 40 mid.,  cake off one’s sandals or shoes. ταϊα.,  ξαξζέ οὗ ομε'ς ξαπάαῖς οτ “ἦοες.
+mid., ταϊα., False eng
+cake ξαξζέ False eng
+off οὗ False eng
+one’s ομε'ς False na
+sandals ξαπάαῖς False eng
+or οτ False eng
+shoes. “ἦοες. False eng
