@@ -1,15 +1,13 @@
-# 0 3 3 506 κού
-506 κού False na
+
 # 1 36 34 so great,  so much,  yl. so many s | :ὸ σγεα,  “0 »ηφολ,  }}}.,  50 αν}
 so :ὸ False eng
 great, σγεα, False eng
 so “0 False eng
 much, »ηφολ, False eng
-yl. }}}., False na
+pl. }}}., False na
 so 50 False eng
-many αν} False eng
-s NA False eng
-| NA False na
+many; αν} False eng
+
 # 2 36 37 that great,  182,  12; only so much, ἀμ  χγέαΐ,  182,  12; ομέν το με μολη
 that ἀμ False eng
 great, χγέαΐ, False eng
@@ -33,7 +31,7 @@ to ςοβ, False eng
 # 5 33 35 what follows; rogourw with comp., ναὶ (ΟἸ]ὺν 5; τοσούτῳ νν]ἢ ςὐΠῚΡ.»,
 what ναὶ False eng
 follows; (ΟἸ]ὺν False eng
-rogourw 5; False na
+τοσούτῳ 5; False na
 with τοσούτῳ False eng
 comp., νν]ἢ False eng
 # 6 34 36 the,  so much the. Neut. as subst. (ἀε,  τὸ νι «ἀ “ες. Νουῖ,  ἃ5 βυρπῖ.
@@ -41,7 +39,7 @@ the, (ἀε, False eng
 so τὸ False eng
 much νι False eng
 the. «ἀ False eng
-“ες. Neut. True pp
+Neut. True pp
 as Νουῖ, False eng
 subst. ἃ5 False eng
 # 7 37 32 such a distance,  173,  4. Neut. acc. «ἡ α ἀναμε,  173. 4. Νευῖ,  δος,
@@ -61,12 +59,12 @@ So “εὐ, False na
 far. δὺ False eng
 # 9 43 45 Tore,  alv.,  at that time,  then; ol rbre, τότε,  αιἷν.,  αὐ {πὰς ἐέριόν ἑλδρ,  οἱ τότε,
 τότε, Tore, True lex
-alv., αιἷν., False na
+adv., αιἷν., False na
 at αὐ False eng
 that {πὰς False eng
 time, ἐέριόν False eng
 then; ἑλδρ, False eng
-ol οἱ False eng
+οἱ False eng
 τότε, rbre, True lex
 # 10 21 21 the men of that time. “ἀκ μὸν ο7 ἐλαΐ ἐνιέ.
 the “ἀκ False eng
@@ -74,38 +72,24 @@ men μὸν False eng
 of ο7 False eng
 that ἐλαΐ False eng
 time. ἐνιέ. False eng
-# 11 37 38 rotpwadwy,  by crasis for 7d Zuwadcy, τοὔμπαλιν,  υκν οταπὶβ ίογ τὸ ἔμπαλιν.
-rotpwadwy, τοὔμπαλιν, False na
-by υκν False eng
-crasis οταπὶβ False eng
-for ίογ False eng
-τὸ 7d True form
-ἔμπαλιν. Zuwadcy, True lex
-# 12 36 34 rotmoev,  by crasis for 7d dria dev, τοὔπισθεν,  ὃν ταὶς ον τὸ ὄπισθεν.
-rotmoev, τοὔπισθεν, False na
-by ὃν False eng
-crasis ταὶς False eng
-for ον False eng
-τὸ 7d True form
-ὄπισθεν. dria True lex
-dev, NA False eng
+
+
 # 13 38 39 tpdynpa,  -aros,  7b [rpwyw,  niddle], τράγημα,  -ατος,  τό [τρώγω,  γ:1ὀὐέε],
 τράγημα, tpdynpa, True pp
 -ατος, -aros, True pp
 τό 7b True form
 [τρώγω, [rpwyw, True pp
-niddle], γ:1ὀὐέε], False eng
+nibble], γ:1ὀὐέε], False eng
 # 14 38 41 commonly pl.,  stveetmeats,  dainties. σοπιπιοηὶν οἷ].,  στυέέῤρεαΐς,  ἀκ η4165.
 commonly σοπιπιοηὶν False eng
 pl., οἷ]., False eng
-stveetmeats, στυέέῤρεαΐς, False na
+sweetmeats, στυέέῤρεαΐς, False na
 dainties. ἀκ False eng
 # 15 45 44 TpdrAdras,  -ewr,  al,  7 readies,  a city in Τράλλεις,  -εων,  αἱ,  7 ᾿γαϊίοε,  ἃ οἰϊγ ἴῃ
 Τράλλεις, TpdrAdras, True lex
 -εων, -ewr, True pp
-al, αἱ, False eng
-7 7 False na
-readies, ᾿γαϊίοε, False eng
+αἱ, False eng
+Tralles, ᾿γαϊίοε, False eng
 a ἃ False eng
 city οἰϊγ False eng
 in ἴῃ False eng
@@ -135,21 +119,21 @@ legs. Ἰαρ8. False eng
 # 20 38 39 Tpamefovvrios,  -av,  7rapezuntian,  a Τραπεζούντιος,  -ου,  7 γαῤετιεγίαρ,  ἃ
 Τραπεζούντιος, Tpamefovvrios, True pp
 -ου, -av, True pp
-7rapezuntian, 7 False na
+Trapezuntian, 7 False na
 a γαῤετιεγίαρ, False eng
 # 21 20 19 citizen of Trapézus. σἰίζεη οἱ Τταρδζυβ.
 citizen σἰίζεη False eng
 of οἱ False eng
 Trapézus. Τταρδζυβ. False na
 # 22 41 41 TparelLois,  -obvros,  7,  Trapézus,  the ἸΤραπεζοῦς,  -οῦντος,  ἡ,  7 γαῤδηι,  ἴῃς
-TparelLois, ἸΤραπεζοῦς, False na
+Τραπεζοῦς, False na
 -οῦντος, -obvros, True pp
 ἡ, 7, True case
 Trapézus, 7 False na
 the γαῤδηι, False eng
 # 23 32 35 modern ‘Trebizond,  an important Ἰποάθγῃ Γτγεθίζοημα,  δὴ ἱπηροτίαηί
 modern Ἰποάθγῃ False eng
-Γτγεθίζοημα, ‘Trebizond, True pp
+Trebizond, True pp
 an δὴ False eng
 important ἱπηροτίαηί False eng
 # 24 30 29 Greek city on the southeastern Οτοεκ ΟἿ οὐ ἴδε ϑουϊζῃεδβίογῃ
@@ -181,7 +165,7 @@ throat, ἐφγοαξ, False eng
 # 29 40 41 Tpaxvs,  -efa,  -¥ [bor.,  Eng. trachea, τραχύς,  -εῖα,  -ύὐ [Ὀοτ.,  Επρ. ἘΥΔΟΒΘ8,
 τραχύς, Tpaxvs, True lex
 -εῖα, -efa, True pp
--¥ -ύὐ False na
+-ύ False na
 [bor., [Ὀοτ., False eng
 Eng. Επρ. False eng
 trachea, ἘΥΔΟΒΘ8, False eng
@@ -189,7 +173,7 @@ trachea, ἘΥΔΟΒΘ8, False eng
 trachoma], ΚττΔΟΒο41, False eng
 rough, γοκρλ, False eng
 harsh; ἀαγεᾷ, False eng
-h ἡ False eng
+ἡ False eng
 τρα- Tpa- True half1g
 # 31 29 25 xeta (sc. y9),  rough ground. χεῖα (3. γῆ),  γοπρἦ οι»,
 χεῖα xeta True pp
@@ -206,37 +190,36 @@ gen. ρεη. False eng
 Lat. [, False na
 # 33 42 41 tres,  “hree,  Eng. three],  three,  rpets ἴτ88,  ζάγέφ,  ἔπρ. ἴΠΓ66],  δάγεε; τρεῖς
 tres, ἴτ88, False eng
-“hree, ζάγέφ, False na
+three, ζάγέφ, False na
 Eng. ἔπρ. False eng
 three], ἴΠΓ66], False eng
 three, δάγεε; False eng
 τρεῖς rpets True lex
 # 34 20 21 kal déxa,  thirteen. καὶ δέκα,  {ἀ1γίέεο».
-kal καὶ False eng
+καὶ False eng
 δέκα, déxa, True pp
 thirteen. {ἀ1γίέεο». False eng
 # 35 36 38 Thre,  Tpépw,  Erpeva and érpardunp, ς τρέπω,  τρέψω,  ἔτρεψα πα ἐτραπόμην,
-Thre, ς False na
 τρέπω, Tpépw, True pp
 τρέψω, Erpeva True pp
-and ἔτρεψα False eng
-érpardunp, πα False na
+ 
+ἔτρεψα False eng
+and
+ἐτραπόμην, πα False na
 # 36 36 34 —~ ‘rérpopa and rérpaga,  rérpaupat, τ τέτροφα Δ 4 τέτραφα,  τέτραμμαι,
-—~ τ False na
 τέτροφα ‘rérpopa True pp
 and Δ False eng
-rérpaga, 4 False na
 τέτραφα, rérpaupat, True pp
+τέτραμμαι,
 # 37 38 37 ér pépOnv and érpamny,  turn,  divert; ἐτρέφθην διὰ ἐτράπην,  7422,  αυσγέ;,
 ἐτρέφθην ér True pp
-διὰ pépOnv True form
 and ἐτράπην, False eng
-érpamny, 7422, False na
+ἐτράπην, 7422, False na
 turn, αυσγέ;, False eng
 divert; NA False eng
 # 38 37 36 with els puyyv,  put to flight; mid., ΜΙ εἰς φυγήν,  2ηὲ 1Ὲ0 Μὶσλξ,  υϊα.,
 with ΜΙ False eng
-els εἰς False eng
+εἰς False eng
 φυγήν, puyyv, True form
 put 2ηὲ False eng
 to 1Ὲ0 False eng
@@ -252,7 +235,7 @@ of 2, False eng
 a οὗ False eng
 # 40 20 21 road,  £0, 177,  26. ΤοΔά,  ρΌ,  177,  26.
 road, ΤοΔά, False eng
-£0, ρΌ, False na
+go, ρΌ, False na
 177, 177, False na
 26. 26. False na
 # 41 42 42 Tpthw,  Opéyw,  2Opeva,  Térpoda,  TéOpap- τρέφω,  θρέψω,  ἔθρεψα,  τέτροφα,  τέθραμ-
@@ -274,44 +257,38 @@ prose) Ῥίοβε) False eng
 and δης False eng
 ἐτράφην, érpdgdyy, True pp
 nourish; ηοιγῖσά, False eng
-»α1- main- True half1g
+main- main- True half1g
 # 44 30 32 fain,  support,  rear,  raise. ζαῖγι,  σιέῤῥογέ,  γεαῦ,  γα δέ.
-fain, ζαῖγι, False eng
+tain, ζαῖγι, False eng
 support, σιέῤῥογέ, False eng
 rear, γεαῦ, False eng
 raise. γα False eng
-# 45 6 8 Google (ΠΘοοοῖς
-Google (ΠΘοοοῖς False na
-# 46 19 19 XENOPHON’S ANABASIS ΧΕΝΟΡΗΟΝῚΘ ΑΝΑΒΑΘΙΘ
-XENOPHON’S ΧΕΝΟΡΗΟΝῚΘ False na
-ANABASIS ΑΝΑΒΑΘΙΘ False na
+
 # 47 39 37 w@,  Spapotpuar,  €5papoy,  -dedpdunxa, ὠ,  δραμοῦμαι,  ἔδραμον,  -δεδράμηκα,
-w@, ὠ, False na
+τρέχω, False na
 δραμοῦμαι, Spapotpuar, True pp
 ἔδραμον, €5papoy, True pp
 -δεδράμηκα, -dedpdunxa, True pp
 # 48 19 17 ce copd nuns,  run. ΡΝ οράμημαι,  γέ.
-ce ΡΝ False eng
-οράμημαι, copd True pp
-nuns, γέ. False eng
+-δεδράμημαι, copd True pp
 run. NA False eng
 # 49 41 46 tplw,  érpeca [cogn.,  Lat. trem6,  ¢rem- τρέω,  ἔτρεσα [ςορῃ.,  1, 31. ἰχοπιῦ,  2’ ἐ»:-
 τρέω, tplw, True pp
 ἔτρεσα érpeca True pp
 [cogn., [ςορῃ., False na
 Lat. 1, False na
-trem6, 31. False na
-¢rem- ἰχοπιῦ, False na
+tremo, 31. False na
+trem- ἰχοπιῦ, False na
 # 50 41 42 ble,  terred,  frighten),  tremble; tran- ὀέε,  ἰογτοῦ,  “ράσο,  ἐσ εριόέφ, ,  ἴταπ-
 ble, ὀέε, False na
-ἰογτοῦ, terred, True pp
+terreo, True pp
 frighten), “ράσο, False eng
 tremble; ἐσ False eng
 tran- εριόέφ, False na
 # 51 34 34 Silive,  shrink jrone,  flee from. βδἰτῖνο,  σφάγια γγονὲ,  δε 7γονι.
-Silive, βδἰτῖνο, False na
+sitive, βδἰτῖνο, False na
 shrink σφάγια False eng
-jrone, γγονὲ, False na
+from, γγονὲ, False na
 flee δε False eng
 from. 7γονι. False eng
 # 52 17 17 Tpla,  set Tpeis. τρία,  5εὲ τρεΐς.
@@ -326,16 +303,16 @@ Lat. [, False na
 tri- 8ἰ. False na
 # 54 33 35 ginta,  c2zrty],  indecl.,  irty. σἰηῖδ,  ζ1γιν}},  ἰπάεο].,  δ ἐγίν.
 ginta, σἰηῖδ, False na
-c2zrty], ζ1γιν}}, False na
+thirty], ζ1γιν}}, False na
 indecl., ἰπάεο]., False eng
-irty. δ False na
+thirty. δ False na
 # 55 42 43 Tpiixdorot,  -a:,  -a [Tpets],  three hun- τριδκόσιοι,  -αι,  -α [τρεῖς],  Ζ4γεε ἀπρ:-
-Tpiixdorot, τριδκόσιοι, False na
+τριακόσιοι, False na
 -αι, -a:, True pp
 -α -a True pp
 [τρεῖς], [Tpets], True lex
 three Ζ4γεε False eng
-ἀπρ:- hun- True half1g
+hun- True half1g
 # 56 5 7 dred. ἐγεώ, .
 dred. ἐγεώ, False na
 # 57 48 47 TPLhpNS,  -ovs,  7 [ Tpets,  cp. épérTw,  row ], τριήρης,  -ους,  ἡ [τρεῖς,  ΟΡ. ἐρέττω,  γοτυ],
@@ -343,16 +320,15 @@ dred. ἐγεώ, False na
 -ους, -ovs, True pp
 ἡ 7 True case
 [τρεῖς, [ True lex
-Tpets, ΟΡ. False na
 cp. ἐρέττω, False eng
-épérTw, γοτυ], False na
+ἐρέττω, γοτυ], False na
 row NA False eng
 ], NA False na
 # 58 36 43 trireme,  man-of-war,  a \ong narrow 4γ17.47916,  γεαγι- οὐ σα",  ἃ ἸΟΘῸΡ ἩδύγΟν
 trireme, 4γ17.47916, False eng
-γεαγι- man-of-war, True half1g
+man-of-war, True half1g
 a οὐ False eng
-\ong σα", False na
+long σα", False na
 narrow ἃ False eng
 # 59 37 35 galley with three banks of oars,  and ρΆ]]εγ ψἸ ἄχος ὕδη ΚΒ οἱ οἂτβ,  ἂπά
 galley ρΆ]]εγ False eng
@@ -372,13 +348,14 @@ or οὐ False eng
 just υ5ῖ False eng
 below Ὀεϊον False eng
 # 61 34 30 the'water line. The crew of a tri- {πὸ ναῖογ πὸ. δε οτὸν οὗ ἃ [Π-
-the'water {πὸ False na
+the
+water {πὸ False na
 line. ναῖογ False eng
 The πὸ. False na
 crew δε False eng
 of οτὸν False eng
 a οὗ False eng
-ἃ tri- True lex
+a tri- True lex
 # 62 31 35 reme numbered about 200 men; of τεῖηα πυπιυοτεα δρουῦΐ 200 πηξῃ; οὗ
 reme τεῖηα False na
 numbered πυπιυοτεα False eng
@@ -392,7 +369,7 @@ these ἴπ656 False eng
 were ψεγε False eng
 oarsmen, οδύϑῃγθι, False eng
 who ψῇῆο False eng
-ῬτγοῦὈ- prob- True half1g
+prob- True half1g
 # 64 36 38 ably rowed in three shifts of 50 men ΔΌΪΥ τοννεά ἴῃ ἴῆγεε 5}1{{8 οὗ 50 πηδῃ
 ably ΔΌΪΥ False eng
 rowed τοννεά False eng
@@ -425,28 +402,26 @@ pp. ΡΡ. False eng
 Cp. Ο. False na
 ναῦς. vais. True lex
 # 68 41 42 tplanyxus,  -v [Tpets,  rxus,  cudit (=14 τρίπηχνς,  οὖ [τρεῖς,  πῆχυς,  εκόϊέ (Ξετὰ
-tplanyxus, τρίπηχνς, False na
-οὖ -v True lex
+τρίπηχυς, False na
+-υ True lex
 [τρεῖς, [Tpets, True lex
 πῆχυς, rxus, True lex
-cudit εκόϊέ False na
-(Ξετὰ (=14 True pp
+cubit εκόϊέ False na
+(=1.5 True pp
 # 69 28 25 feet) ],  three cubits long. ἔε6ι)7,  ζάγες σός ἐογερ.
-feet) ἔε6ι)7, False eng
-ζάγες ], True pp
+feet)], ἔε6ι)7, False eng
 three σός False eng
 cubits ἐογερ. False eng
 long. NA False eng
 # 70 47 45 Tpiordo pevos,  -η,  -ov [Tpls,  thrice,  dope- τρισάσμενος,  -ή,  -ον [τρίς,  ἐλγίεε,  ἄσμε-
 τρισάσμενος, Tpiordo True pp
--ή, pevos, True pp
+-η, pevos, True pp
 -ον -η, True pp
 [τρίς, -ov True lex
-[Tpls, ἐλγίεε, False na
 thrice, ἄσμε- False eng
-dope- NA False na
+ἄσμε-- NA False na
 # 71 37 40 vos,  glad ],  thrice glad,  with the γος,  ρἰαα77,  {άγίοεέ ρίαά,  «εὐἱξὰ 1{ε
-γος, vos, True pp
+νος, vos, True pp
 glad ρἰαα77, False eng
 ], {άγίοεέ False na
 thrice ρίαά, False eng
@@ -470,7 +445,7 @@ three {ἀοπδαγιώ, False eng
 thousand, NA False eng
 # 75 44 45 tplros,  -n,  -ov [Tpets],  third,  tplry or τρίτος,  -ή,  -ον [τρεῖς],  “ἀϊγα,; τρίτῃ οΥἵ
 τρίτος, tplros, True pp
--ή, -n, True pp
+-η, -n, True pp
 -ον -ov True pp
 [τρεῖς], [Tpets], True lex
 third, “ἀϊγα,; False eng
@@ -488,7 +463,7 @@ third τἀϊγά False eng
 day; αν, False eng
 ἐπὶ éwir@ True form
 τῷ tplry, True lex
-at τρίτῳ, False eng
+τρίτῳ, False eng
 the αἱ False eng
 third ἐἀε False eng
 blast; “ιτγω False eng
@@ -507,10 +482,10 @@ threefold, ζἀγεεγοία, False eng
 in ἐπ False eng
 three ζάγεε False eng
 # 80 10 11 aivisions. αἸυϊ510᾽15.
-aivisions. αἸυϊ510᾽15. False na
+divisions. αἸυϊ510᾽15. False na
 # 81 40 40 tplxivos,  -η,  -ov [Oplt,  gen. rpcxés, τρίχινος,  -ή,  -ον [θρίξ,  ρεη. τριχός,
 τρίχινος, tplxivos, True pp
--ή, -η, True pp
+-η, True pp
 -ον -ov True pp
 [θρίξ, [Oplt, True lex
 gen. ρεη. False eng
@@ -524,7 +499,8 @@ tri- ΟΒΙΠο818, False na
 # 83 34 35 chology ],  ofhair,  made of hair. ΟΒΟΙΟΦΥΊ,  ογλαϊν,  »ιααΐς οΓ λαϊν.
 chology ΟΒΟΙΟΦΥΊ, False na
 ], ογλαϊν, False na
-ofhair, »ιααΐς False na
+of
+hair, »ιααΐς False na
 made οΓ False eng
 of λαϊν. False eng
 hair. NA False eng
@@ -534,16 +510,16 @@ hair. NA False eng
 [τροπή; [Tpor}; True lex
 bor., ὕοτ., False eng
 Eng. Εηρ. False eng
-ἔσο- tro- True half1g
+tro- True half1g
 # 85 38 41 phy ],  zvophy,  a memorial of the en- ῬΒΥΠ1,  Φζοῤάν,  ἃ ταετρουϊαὶ οὗ ἴῃ 6 εἢ-
 phy ῬΒΥΠ1, False na
 ], Φζοῤάν, False na
-ἃ zvophy, True lex
+trophy, True lex
 a ταετρουϊαὶ False eng
 memorial οὗ False eng
 of ἴῃ False eng
 the 6 False eng
-εἢ- en- True half1g
+en- True half1g
 # 86 37 37 emy’s defeat,  consisting of captured ΕἸ 5 ἀεἰεδί,  οσοπϑδιβιϊηρ οὗ σἀρυτοα
 emy’s ΕἸ False na
 defeat, 5 False eng
@@ -575,7 +551,7 @@ the (ἢ6 False eng
 enemy ΠΟΥ False eng
 turned τυγηεα False eng
 in ἴῃ False eng
-flivht Βιυἢϊ False na
+flight Βιυἢϊ False na
 # 90 32 32 (whence the name). Such trophies (νΒεηςς {με πδπλ6). ϑυοῃ ἱτορϊε5
 (whence (νΒεηςς False eng
 the {με False eng
