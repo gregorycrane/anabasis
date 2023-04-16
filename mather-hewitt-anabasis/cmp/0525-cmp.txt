@@ -1,0 +1,514 @@
+# 0 14 16 VOCABULARY 513 ΝνΟσΑΒυΠΑΚΥ͂ 513
+VOCABULARY ΝνΟσΑΒυΠΑΚΥ͂ False na
+
+# 2 42 40 XarSaton,  -wr,  of,  Chaldeans,  an inde- ΣΧ αλδαῖοι,  -ων,  οἱ,  (λα αι,  αὶ πη6-
+Χαλδαῖοι, False na
+-ων, False eng
+οἱ, 
+Chaldeans, True pp
+an (λα False eng
+inde- αι, False na
+# 3 33 35 pendent tribe in the mountains of Ραπήεηϊξ {τἰῦ6 ἴθ {πὲ πιουηίδιη5 οὗ
+pendent Ραπήεηϊξ False eng
+tribe {τἰῦ6 False eng
+in ἴθ False eng
+the {πὲ False eng
+mountains πιουηίδιη5 False eng
+of οὗ False eng
+# 4 33 32 Armenia,  thought to have been of Ατιεηΐα,  πουρῆϊ ἴο μᾶνα "εεὴ οἱ
+Armenia, Ατιεηΐα, False na
+thought πουρῆϊ False eng
+to ἴο False eng
+have μᾶνα False eng
+been "εεὴ False eng
+of οἱ False eng
+# 5 32 33 the same stock as the Babylonian [ῃ6 βαὴβ δίοοκ δ ἴῃς Βαρυ)])οηῖδη
+the [ῃ6 False eng
+same βαὴβ False eng
+stock δίοοκ False eng
+as δ False eng
+the ἴῃς False eng
+Babylonian Βαρυ)])οηῖδη False na
+# 6 34 34 Chaldaeans; possibly the same peo- (Βαϊ ἀδεδηβ; ροβϑιὶν (6 βᾶπηὲ Ρ6ο-
+Chaldaeans; (Βαϊ False na
+possibly ἀδεδηβ; False eng
+the ροβϑιὶν False eng
+same (6 False eng
+peo- βᾶπηὲ False na
+# 7 20 16 ple as the Chalybes. ὈΪς 85 μὲ ῇδ 65.
+ple ὈΪς False na
+as 85 False eng
+the μὲ False eng
+Chalybes. ῇδ False na
+# 8 34 33 Xarerralvw,  xarerava,  éxarérnva, χαλεπαίνω,  χαλεπανῶ,  ἐχαλέπηνα,
+χαλεπαίνω, Xarerralvw, True pp
+χαλεπανῶ, xarerava, True pp
+ἐχαλέπηνα, éxarérnva, True pp
+# 9 34 33 éxadkerdvOnv [yarerds],  be harsh, ἐχαλεπάνθην [χαλεπός),  ὧὲ ἤαγεὴ,
+ἐχαλεπάνθην éxadkerdvOnv True pp
+[χαλεπός), [yarerds], True pp
+be ὧὲ False eng
+harsh, ἤαγεὴ, False eng
+# 10 35 38 be angry or provoked,  be angry at, ὧδ 4197.» ΟΥ̓ γονοῖοω, ,  δ ἀπρ}.} αἵ,
+be ὧδ False eng
+angry 4197.» False eng
+or ΟΥ̓ False eng
+provoked, γονοῖοω, False eng
+be , False eng
+angry δ False eng
+at, ἀπρ}.} False eng
+# 11 17 13 abs. or with dat. ΔῸ5. οὐ ἢ δι.
+abs. ΔῸ5. False eng
+or οὐ False eng
+with ἢ False eng
+dat. δι. False eng
+# 12 45 43 x arerds,  -4,  -dv,  hard,  difficult: pain- χαλεπός,  -ἤ,  -όν,  λαγω,  ὡὐὐειίξ,  γα »-
+χαλεπός, False eng
+-ή, False na
+-όν, -4, True pp
+hard, ὡὐὐειίξ, False eng
+difficult: γα False eng
+pain- »- False na
+# 13 43 47 ful,  inaccessible» harsh,  stern,  bitter. Με,  ἱπαεεεσεῖῤέο,  ἀαγϑῆ,  οέογ γι,  ὀϊέζο)" 6
+ful, Με, False na
+inaccessible; ἱπαεεεσεῖῤέο, False na
+harsh, ἀαγϑῆ, False eng
+stern, οέογ False eng
+bitter. γι, False eng
+# 14 39 45 Neut. as subst.,  stersness,  severity. Νευῖ,  ἂἃ5 ϑυρβῖ.,  5222.2111655,  56: 6716}.
+Neut. Νευῖ, False na
+as ἂἃ5 False eng
+subst., ϑυρβῖ., False eng
+sternness, 5222.2111655, False na
+severity. 56: False eng
+# 15 38 37 XaArerds [xarerds],  adv.,  wth diffi- χαλεπῶ: [χαλεπός],  διῖν.,  εὐ ἐὐϊγ)-
+χαλεπῶς XaArerds True pp
+[χαλεπός], [xarerds], True pp
+adv., διῖν., False eng
+wth εὐ False na
+diffi- ἐὐϊγ)- False na
+# 16 33 33 culty; painfully; xareras pépecy, εἰν,  ῥαϊπαγρέν,  χαλεπῶς φέρειν,
+culty; εἰν, False na
+painfully; ῥαϊπαγρέν, False eng
+χαλεπῶς xareras True lex
+φέρειν, pépecy, True form
+# 17 26 26 take tt hard,  be grieved. {ξε 1 ἀαγωΐ,  δὲ ρΥἹοσνεω,
+take {ξε False eng
+it 1 False na
+hard, ἀαγωΐ, False eng
+be δὲ False eng
+grieved. ρΥἹοσνεω, False eng
+# 18 35 34 Xarjtvew,  éxartpwoa,  -Kexarivwuac χαλϊνόω,  ἐχαλίνωσα,  -κεχαλένωμαι
+χαλινόω, Xarjtvew, True pp
+ἐχαλίνωσα, éxartpwoa, True pp
+-κεχαλένωμαι -Kexarivwuac True pp
+# 19 37 35 [xanrives,  bridle],  bridle a horse. [χαλῖνός,  ὀγτὠ 1,  ὀγϊώό αὶ ἈούδΕ.
+[χαλινός, [xanrives, True pp
+bridle], ὀγτὠ False eng
+bridle 1, False eng
+a ὀγϊώό False eng
+horse. αὶ False eng
+# 20 37 39 XaAkés,  -ot,  bronze,  a compound of χαλκός,  -ου,  ὀγογι2θ,  ἃ σοιῃρουηα οὗ
+χαλκός, XaAkés, True pp
+-ου, -ot, True pp
+bronze, ὀγογι2θ, False eng
+a ἃ False eng
+compound σοιῃρουηα False eng
+of οὗ False eng
+# 21 15 16 copper and tin. σΟρΡΡεοΐ δῃὰ ἴπ.
+copper σΟρΡΡεοΐ False eng
+and δῃὰ False eng
+tin. ἴπ. False eng
+# 22 38 38 -XaAKots,  -η,  -obv,  contracted from “χαλκοῦς,  -ἢ,  -οῦν,  οοπίταοςϊο [τότ
+χαλκοῦς, False na
+-ῆ, -ἢ, False na
+-οῦν, False na
+contracted οοπίταοςϊο False eng
+from [τότ False eng
+# 23 40 41 xaAKeos,  -4,  -ov [xarkds],  of bronze, χάλκεος,  -α,  -ον [χαλκός],  ο7 ὀγο)ιτὲ,
+χάλκεος, xaAKeos, True pp
+-α, -4, True pp
+-ον -ov True pp
+[χαλκός], [xarkds], True pp
+of ο7 False eng
+bronze, ὀγο)ιτὲ, False eng
+# 24 7 8 brazen. ὀγωφέ2:.
+brazen. ὀγωφέ2:. False eng
+# 25 38 38 XGAKwpa,  -aros,  76 [xarkdw (xarkés), χάλκωμα,  -ατος,  τό [χαλκόω (χαλκός),
+χάλκωμα, XGAKwpa, True pp
+-ατος, -aros, True pp
+τό 76 True form
+[χαλκόω [xarkdw True pp
+(χαλκός), (xarkés), True pp
+# 26 35 37 make in bronze],  bronze utensil or »αἦό 171 ὄγο»5ε 1,  ὀγονϑὲ τὐῤηε]ἐ ΟΥ
+make »αἦό False eng
+in 171 False eng
+bronze], ὄγο»5ε False eng
+bronze 1, False eng
+utensil ὀγονϑὲ False eng
+or τὐῤηε]ἐ False eng
+# 27 7 8 vessel. τ ϑςϑοέ,
+vessel. τ False eng
+# 28 39 40 XdXos,  -ov,  Cha/us, a river of north- ΣΧάλος,  -ου,  (λας,  ἃ τἰνονῦ οἵ ποτίῃ-
+Χάλος, XdXos, True pp
+-ου, -ov, True pp
+Chalus, (λας, False na
+a ἃ False eng
+river τἰνονῦ False eng
+of οἵ False eng
+north- True half1g
+# 29 10 9 ern Syria. ΘΥῚ υτῖᾶ.
+ern ΘΥῚ False eng
+Syria. υτῖᾶ. False na
+# 30 42 42 XarvPes,  -wy,  ol,  Chalpbes,  a tribe on “ΧΧάλυβες,  -ων,  οἱ,  (λα όες,  αὶ {τε οἡ
+Χάλυβες, XarvPes, True pp
+-ων, -wy, True pp
+οἱ, False eng
+Chalpbes, True pp
+a όες, False eng
+tribe αὶ False eng
+on {τε False eng
+# 31 33 33 the northern frontier of Armenia. 1ἢε ποτίμεγη ἐγουίῖοσ οὗ Αυτοηΐδ,
+the 1ἢε False eng
+northern ποτίμεγη False eng
+frontier ἐγουίῖοσ False eng
+of οὗ False eng
+Armenia. Αυτοηΐδ, False na
+# 32 41 48 Xapas)pa,  -ας,  ded of a mountuin stream χαράδρα,  -ας,  ὀειΐ ο7᾽ ἃ »οτεγηέω 171 δ) δι 2)
+χαράδρα, Xapas)pa, True lex
+-ας, -ας, False na
+bed ὀειΐ False na
+of ο7᾽ False eng
+a ἃ False eng
+mountain True pp
+stream 171 False eng
+# 33 27 27 left dry in summer,  gorvy. εἴ ατν ἴῃ ϑυσηπηοσ,  ψόγον.
+left εἴ False eng
+dry ατν False eng
+in ἴῃ False eng
+summer, ϑυσηπηοσ, False eng
+gorge. gorvy. True pp
+# 34 42 42 Xaples,  -lecoa,  -lev [xdpis],  graceful, χαρίεις,  -ἰεσσα,  -ἰεν [χάρις],  σγαςοεῖ,
+χαρίεις, Xaples, True lex
+-ίεσσα, -lecoa, True pp
+-ίev -ἰεν False na
+[χάρις], [xdpis], True lex
+graceful, σγαςοεῖ, False eng
+# 35 17 17 elegant,  clever, εἰοσαρζ,  εἰθυέ7.
+elegant, εἰοσαρζ, False eng
+clever, εἰθυέ7. False eng
+# 36 34 35 xaplfopar,  yapiotua,  éxapioduny, χαρίζομαι,  χαριοῦμαι,  ἐχαρισάμην,
+χαρίζομαι, xaplfopar, True pp
+χαριοῦμαι, yapiotua, True pp
+ἐχαρισάμην, éxapioduny, True pp
+# 37 35 38 Kexdpiopat [xapis],  shor kindness, κεχάρισμαι [χάρις],  σἦοτὸ ἀἰγιεἶ 655,
+κεχάρισμαι Kexdpiopat True pp
+[χάρις], [xapis], True lex
+show σἦοτὸ False eng
+kindness, ἀἰγιεἶ False eng
+# 38 41 43 do favors,  be obliging,  gratify,  abs., ὧο ματος,  ἠέ οὐῤίσίηο,  ργασι, , ,  αἰνϑ.»
+do ὧο False eng
+favors, ματος, False eng
+be ἠέ False eng
+obliging, οὐῤίσίηο, False eng
+gratify, ργασι, False eng
+abs., , False eng
+# 39 35 38 with dat. of person,  cogn. acc. of νι ἢ ἐδαΐ. οἱ ρέτβου,  οὐρη,  ἀος,  οὗ
+with νι False eng
+dat. ἢ False eng
+of ἐδαΐ. False eng
+person, οἱ False eng
+cogn. True pp
+acc. οὐρη, False eng
+of ἀος, False eng
+# 40 6 7 thing. {πῖπηρ.
+thing. {πῖπηρ. False eng
+# 41 42 43 Xapts,  -cros,  7 [xalpw,  refoice; cogn., χάρις,  -ἰτος,  ἡ [χαίρω,  γογοΐτσ,  σορῃ.,
+χάρις, Xapts, True lex
+-ιτος, -cros, True pp
+ἡ 7 True case
+[χαίρω, [xalpw, True pp
+refoice; γογοΐτσ, False na
+cogn., σορῃ., False na
+# 42 33 36 Lat. gratus,  pleasing: bor. Eng. 1.Ἃἱ. σταίυ8,  ῥα ασῖησ. Ἰγοτι,  ἔπ.
+Lat. 1.Ἃἱ. False na
+gratus, σταίυ8, False na
+pleasing: ῥα False eng
+bor. ασῖησ. False eng
+Eng. Ἰγοτι, False eng
+# 43 41 37 eucharist ],  402/ne55,  favor ,  thanks, ΘΒ τϑ[],  δ1γεεύγοσς,  μα»,  Τπαηιάς,
+eucharist ΘΒ False eng
+], τϑ[], False na
+kindness, δ1γεεύγοσς, False na
+favor μα», False eng
+; Τπαηιάς, False na
+thanks, NA False eng
+
+# 46 35 35 gratitude ,  Xdpew elddvac or exer, σγαύἐμαῖρ ᾽ χάριν εἰδέναι οὐ ἔχειν,
+gratitude σγαύἐμαῖρ False eng
+; ᾽ False na
+χάριν Xdpew True lex
+εἰδέναι elddvac True form
+or οὐ False eng
+ἔχειν, exer, True form
+# 47 41 43 be grateful,  feel gratitude,  with dat.; ὁὲ ο»γαιογεί,  , οεἰ ργαζίἐμιε,  νυ ἢ ἄαῖ.;
+be ὁὲ False eng
+grateful, ο»γαιογεί, False eng
+feel , False eng
+gratitude, οεἰ False eng
+with ργαζίἐμιε, False eng
+dat.; νυ False eng
+# 48 35 35 Xdpevy drodidovat,  return a favor, χάριν ἀποδιδόναι,  γεἴ177: ὦ γωνοῦ,
+χάριν Xdpevy True lex
+ἀποδιδόναι, drodidovat, True form
+return γεἴ177: False eng
+a ὦ False eng
+favor, γωνοῦ, False eng
+# 49 9 7 with dat. ψ  ἀδί.
+with ψ False eng
+dat. ἀδί. False eng
+# 50 38 41 Xappavin,  -ys,  Charmande,  a city of ΣΧαρμάνδη,  -ης,  (λαγνριααῖρ,  ἃ ΟἸΕΥ οὗ
+Χαρμάνδη, False na
+-ης, False na
+Charmande, (λαγνριααῖρ, False na
+a ἃ False eng
+city ΟἸΕΥ False eng
+of οὗ False eng
+# 51 26 25 Arabia,  on the Euphrates. Ατδρία,  οα ἴῃ6 ᾿ὰριᾶίο5.
+Arabia, Ατδρία, False na
+on οα False eng
+the ἴῃ6 False eng
+Euphrates. ᾿ὰριᾶίο5. False na
+# 52 43 46 XElpov,  -Gvos,  6 (cp. Xuwy,  snow],  wir- χειμών,  -ὥνος,  ὁ [ὁρ. χιών,  ςγ1τὐ],  τυΐ»1-
+χειμών, XElpov, True lex
+-ῶνος, -Gvos, True pp
+ὁ 6 True lex
+[cp. [ὁρ. False eng
+χιών, Xuwy, True lex
+snow], ςγ1τὐ], False eng
+win- True half1g
+# 53 19 24 ter,  cold,  storm. ζ67.,  εοὐω,  φ(07,  21.
+ter, ζ67., False eng
+cold, εοὐω, False eng
+storm. φ(07, False eng
+# 54 39 41 xelp,  xepds,  7 [bor.,  Eng. chirogra- χείρ,  χειρός,  ἡ [Ὅοτ, ,  Επρ. σδἰτορτα-
+χείρ, xelp, True lex
+χειρός, xepds, True pp
+ἡ 7 True case
+[bor., [Ὅοτ, False eng
+Eng. , False eng
+chirogra- Επρ. False na
+# 55 35 36 phy,  chiromancy,  chiropody,  sur- ῬὮΥ,  ΟΠΙΣΟΠΊΔΠΟΥ,  ΟΒΙΤΟΡΟΑ͂Υ,  5ι-
+phy, ῬὮΥ, False na
+chiromancy, ΟΠΙΣΟΠΊΔΠΟΥ, False eng
+chiropody, ΟΒΙΤΟΡΟΑ͂Υ, False eng
+sur- 5ι- False na
+# 56 30 28 geon (originally chirurgeon)], ϑε0η (οτίρί αν ΟΒΙΤΌΓΡΘΟΙ}7,
+geon ϑε0η False eng
+(originally (οτίρί False eng
+chirurgeon)], αν False eng
+# 57 36 40 hand,  wrist,  eis xetpas,  in or to δωμεΐ,  τοὐγῖσέ,  εἰς χεῖρας,  12 ΟΥ̓ ΖῸ
+hand, δωμεΐ, False eng
+wrist, τοὐγῖσέ, False eng
+εἰς eis True pp
+χεῖρας, xetpas, True form
+in 12 False eng
+or ΟΥ̓ False eng
+to ΖῸ False eng
+# 58 38 36 hand-to-hand confitct,  into the power ἀα»α-ο-λαπα κου έο,  ᾿ηὲο 114 οτυο):
+hand-to-hand ἀα»α-ο-λαπα False na
+conflict, True pp
+into έο, False eng
+the ᾿ηὲο False eng
+power 114 False eng
+# 59 23 21 of,  abs,  or with dat. οἵ,  αἰ). οὐ ΜΊ ἢ δῖ.
+of, οἵ, False eng
+abs, αἰ). False eng
+or οὐ False eng
+with ΜΊ False eng
+dat. ἢ False eng
+# 60 39 41 Xeplrodos,  -ov,  CAirisdphus,  a Spar- Χειρίσοφος,  -ου,  (ἡ 1γίεὔλλις,  ἃ ϑρατ-
+Χειρίσοφος, Xeplrodos, True pp
+-ου, -ov, True pp
+ἡ CAirisdphus, True case
+a 1γίεὔλλις, False eng
+Spar- True lex
+# 61 36 38 tan general,  sent by his government ἴλη βοπετῖγαΐ,  δεηῖ ὃν 15 σονοτημηθηΐ
+tan ἴλη False eng
+general, βοπετῖγαΐ, False eng
+sent δεηῖ False eng
+by ὃν False eng
+his 15 False eng
+government σονοτημηθηΐ False eng
+# 62 34 31 to aid Cyrus. After the entrapping ἴο 4 νγι5,  Αἰοῦ {ΠἸὸ ἐπίγαθρης
+to ἴο False eng
+aid 4 False eng
+Cyrus. νγι5, False na
+After True pp
+the {ΠἸὸ False eng
+entrapping ἐπίγαθρης False eng
+# 63 35 33 of the generals at the Zapatas,  he οἔ [6 ροῃογαὶβ δ ἴῃ. Ζαρᾶϊακ,  ἢς
+of οἔ False eng
+the [6 False eng
+generals ροῃογαὶβ False eng
+at δ False eng
+the ἴῃ. False eng
+Zapatas, Ζαρᾶϊακ, False na
+he ἢς False eng
+# 64 33 35 and Xenophon were the chief lead- απ Χεποόορῆοη νοτὰ [ἢς ομ] εἴ Ἰεδς-
+and απ False eng
+Xenophon Χεποόορῆοη False na
+were νοτὰ False eng
+the [ἢς False eng
+chief ομ] False eng
+lead- True form
+# 65 16 16 ers of the army. εἴ οὔ [6 ἅγιυγν.
+ers εἴ False eng
+of οὔ False eng
+the [6 False eng
+army. ἅγιυγν. False eng
+# 66 38 36 XetpoTrAnOys,  -¢és [xelp,  mAjOw,  be χειροπληθής,  -ἔς [χείρ,  πλήθω,  ὁὲ
+χειροπληθής, XetpoTrAnOys, True lex
+-ές False na
+[χείρ, [xelp, True lex
+πλήθω, mAjOw, True pp
+be ὁὲ False eng
+# 67 40 36 full),  hand-flling,  as large as can be μη],  λαμως β έν,  ἂς ἐατρε ας κα) δ
+full], μη], False eng
+hand-filling, λαμως False na
+as β False eng
+large έν, False eng
+as ἂς False eng
+can ἐατρε False eng
+be ας False eng
+# 68 17 16 held in the hand. ἀείῤω τη 16 λαπ.
+held ἀείῤω False eng
+in τη False eng
+the 16 False eng
+hand. λαπ. False eng
+# 69 42 42 XEtpotrolyntos,  -ov [ xelp,  mow,  make], χειροποίητος,  -ον [ χείρ,  ποιέω,  »αξε7,
+χειροποίητος, XEtpotrolyntos, True pp
+-ον -ov True pp
+[ [ False na
+χείρ, xelp, True lex
+ποιέω, False eng
+make], »αξε7, False eng
+# 70 26 25 made by hand,  artificial, για ὧν λαρμπώ,  αγέϊεῖας,
+made για False eng
+by ὧν False eng
+hand, λαρμπώ, False eng
+artificial, αγέϊεῖας, False eng
+# 71 36 35 Xeppdévymos,  -ov,  7 [xéppos (older Χερρόνησος,  -ουὐ,  ἡ [χέρρος (οἷον
+Χερρόνησος, Xeppdévymos, True pp
+-ου, False na
+ἡ 7 True case
+[χέρρος [xéppos True pp
+(older (οἷον False eng
+# 72 32 30 form xépoos),  mainland,  vioos, ἰογη χέρσος),  »ιαϊη απ νῆσος,
+form ἰογη False eng
+χέρσος), xépoos), True pp
+mainland, »ιαϊη False eng
+vioos, απ False na
+# 73 38 33 island),  peninsula,  in the .drabasis ᾿εα 7,  δε πσέα , ν τῆς ἡ παῤαςῖς
+island], ᾿εα False eng
+peninsula, 7, False eng
+in δε False eng
+the πσέα False eng
+Anabasis , False na
+# 74 32 35 only of the Thracian Chersonése, οἠϊν οὐ τῆς: ΤΠτασαη. Οὐόγεού, δδο,
+only οἠϊν False eng
+of οὐ False eng
+the τῆς: False eng
+Thracian ΤΠτασαη. False na
+Chersonése, Οὐόγεού, False na
+# 75 33 30 which extends along the north and ψ ΙΟἢ οχίθπεβ αοηρσ [6 ποῖ δηΐ
+which ψ False eng
+extends ΙΟἢ False eng
+along οχίθπεβ False eng
+the αοηρσ False eng
+north [6 False eng
+and ποῖ False eng
+# 76 23 23 west of the Hellespont. ννεβῖ οἵ ἴῃς Ηε]]προπί.
+west ννεβῖ False eng
+of οἵ False eng
+the ἴῃς False eng
+Hellespont. Ηε]]προπί. False na
+# 77 40 43 xHv,  xnvés,  6,  9 [cogn.,  Lat. anser, χήν,  χηνός,  ὁ,  ἡ [οὐρη.,  1, 4. 8ΠΒ56ΓΙ,
+χήν, xHv, True lex
+χηνός, xnvés, True pp
+ὁ, 6, True lex
+ἡ 9 True case
+[cogn., [οὐρη., False na
+Lat. 1, False na
+anser, 4. False eng
+# 78 35 33 goose,  German Gans,  I‘ng. gander, φόοςο,  οτδη ΟΔ4η8,  Πρ. ρᾶΠΑ͂ΘΥ,
+goose, φόοςο, False eng
+German οτδη False na
+Gans, ΟΔ4η8, False na
+Eng. Πρ. False na
+gander, ρᾶΠΑ͂ΘΥ, False eng
+# 79 16 14 goose ],  gouse. 90086,  ρύοφὲ.
+goose 90086, False eng
+], ρύοφὲ. False na
+goose. NA False na
+# 80 30 31 xXtAvon,  -at,  -a,  shousand. χίλιοι,  -αι,  -α,  ἡλοτεδα γε,
+χίλιοι, xXtAvon, True lex
+-αι, -at, True pp
+-α, -a, True pp
+thousand. ἡλοτεδα False na
+# 81 42 40 XtAds,  -00,  green fodder,  forage; x dds χῖλός,  -ου,  ργεε)ι γι 7,  ογαρε; χιλὸς
+χιλός, XtAds, True pp
+-ου, -00, True pp
+green ργεε)ι False eng
+fodder, γι False eng
+forage; 7, False eng
+χιλὸς dds True form
+# 82 12 12 Enpds,  hay. ξηρός,  ἦα».
+ξηρός, Enpds, True pp
+hay. ἦα». False eng
+# 83 41 42 X(patpa,  -ας [bor.,  Eng. chimera,  chi- χίμαιρα,  -ας [οτ.,  Επρ,  σμίπιοτα,  ΟὨΪ-
+χίμαιρα, X(patpa, True lex
+-ας -ας False na
+[bor., [οτ., False eng
+Eng. Επρ, False eng
+chimera, σμίπιοτα, False eng
+chi- ΟὨΪ- False na
+# 84 20 21 merical],  she-voat. Τη6 1104],  “7 ἐ- οὐ.
+merical], Τη6 False na
+she-goat. 1104], False na
+# 85 39 39 Xios,  -ov,  Chian,  a native of Chios, Χῖος,  -ου,  Οὐία»,  ἃ παῖϊνε οὗ (ἬΪο5,
+Χῖος, Xios, True pp
+-ου, -ov, True pp
+Chian, Οὐία», False na
+a ἃ False eng
+native παῖϊνε False eng
+of οὗ False eng
+Chios, (ἬΪο5, False na
+# 86 35 34 an island in the Aegcan Sea off the Δῃ ἰϑίαπα ἴθ τῆς Δορόδη ὅρα οἵ (ἢε
+an Δῃ False eng
+island ἰϑίαπα False eng
+in ἴθ False eng
+the τῆς False eng
+Aegean Δορόδη False na
+Sea True form
+off οἵ False eng
+the (ἢε False eng
+# 87 15 15 coast of Lydia. σοδδί οἵ [νι]ὰ.
+coast σοδδί False eng
+of οἵ False eng
+Lydia. [νι]ὰ. False na
+# 88 41 46 Xttv,  -Ovos,  6,  wsndergarment,  shirt, χιτῶν,  -ὦνος,  ὁ,  τε)εὐργρῸ 210 712,  δἠϊγέ,
+χιτῶν, False na
+-ῶνος, -Ovos, True pp
+ὁ, 6, True lex
+undergarment, τε)εὐργρῸ False na
+shirt, 210 False eng
+# 89 38 39 tunic. See ligs. 11,  14, 59,  pp- 55s ἀέρος,  ὅδ ΓΊρθ. 11,  14,  59,  ΡΡ. 55»
+tunic. ἀέρος, False eng
+See ὅδ False na
+Figs. ΓΊρθ. False na
+11, 11, False na
+14, 14, False na
+59, 59, False na
+pp. ΡΡ. False na
+55, 55» False na

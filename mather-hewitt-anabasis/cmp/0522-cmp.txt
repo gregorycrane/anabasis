@@ -1,0 +1,540 @@
+# 0 3 3 510 510
+510 510 False na
+# 1 38 40 it was clear that he did not envy,  he ἐξ τυας εἰεαν {λαΐ ἦς αἰϊώ ποΐ ἐηὺγ,  δέ
+it ἐξ False eng
+was τυας False eng
+clear εἰεαν False eng
+that {λαΐ False eng
+he ἦς False eng
+did αἰϊώ False eng
+not ποΐ False eng
+envy, ἐηὺγ, False eng
+he δέ False eng
+# 2 33 32 evidently did not envy,  98,  12. ευϊεη εν αἱα πο ἐπῦὺγ,  ο8,  12.
+evidently ευϊεη False eng
+did εν False eng
+not αἱα False eng
+envy, πο False eng
+98, ἐπῦὺγ, False na
+12. ο8, False na
+# 3 38 40 dddrayé,  -uyyos,  » [bor.,  Eng. pha- φάλαγξ,  -αγγος,  ἡ [ὈῬοτ.,  Επηρ. ῬὑΠ8-
+φάλαγξ, dddrayé, True lex
+-αγγος, -uyyos, True pp
+ἡ » True case
+[bor., [ὈῬοτ., False eng
+Eng. Επηρ. False eng
+pha- ῬὑΠ8- False na
+# 4 40 40 lanx ),  phalanx,  line of battle,  Lat. 14ηΧ],  2λαέαμα,  ἐΐη6 77 ῥαείές,  Τιδὶ.
+lanx 14ηΧ], False eng
+phalanx, ἐΐη6 False eng
+line 77 False eng
+of ῥαείές, False eng
+battle, Τιδὶ. False eng
+Lat. NA False na
+# 5 37 38 aciés; érl pddayyos,  in line of bat- αεῖδε; ἐπὶ φάλαγγος,  1; ἐΐγ:6 οὗ δαΐ-
+aciés; αεῖδε; False na
+ἐπὶ érl True form
+φάλαγγος, pddayyos, True pp
+in 1; False eng
+line ἐΐγ:6 False eng
+of οὗ False eng
+bat- True half1g
+# 6 32 39 tie; sometimes,  main body of an “ἐς,  βοιπείϊτηθϑ,  γπαΐϊε2. ὀοαν οἵ δὴ
+tle; “ἐς, False eng
+sometimes, βοιπείϊτηθϑ, False eng
+main γπαΐϊε2. False eng
+body ὀοαν False eng
+of οἵ False eng
+an δὴ False eng
+# 7 31 35 army,  on the march or in camp. ΔΥΙΏΥ,  ΟἹ ἴῃ6 τηδύο ἢ ΟΥ ἴῃ ΟΔΙΏΡ.
+army, ΔΥΙΏΥ, False eng
+on ΟἹ False eng
+the ἴῃ6 False eng
+march τηδύο False eng
+or ἢ False eng
+in ΟΥ False eng
+camp. ἴῃ False eng
+# 8 17 17 See Introd. § 66. 566 [πίτοα. ὃ 66.
+See 566 False na
+Introd. [πίτοα. False eng
+§ ὃ False eng
+66. 66. False na
+# 9 39 39 @PaXivos,  -ov,  Phalinus,  a Greek in- Φαλῖνος,  -ου,  ἐῥαϊιρεέ5,  ἃ Οταοῖ ἴη-
+Φαλῖνος, @PaXivos, True pp
+-ου, -ov, True pp
+Phalinus, ἐῥαϊιρεέ5, False na
+a ἃ False eng
+Greek Οταοῖ False na
+in- ἴη- False na
+# 10 39 37 structor in tactics,  in the service of δἰγαοοτ ἴῃ ἰδοίϊοβ,  ἰὴ [86 βϑνῖος οἵ
+structor δἰγαοοτ False na
+in ἴῃ False eng
+tactics, ἰδοίϊοβ, False eng
+in ἰὴ False eng
+the [86 False eng
+service βϑνῖος False eng
+of οἵ False eng
+# 11 13 13 Tissaphernes. ΤΊΒΘΑΡΠΘΓΏ68.
+Tissaphernes. ΤΊΒΘΑΡΠΘΓΏ68. False na
+
+
+# 13 40 43 davepds,  d,  dv [falvw],  open to view, φανερός,  ἅ,  ὁὀν [φαίνω],  οῤενε 10 υἵετυ,
+φανερός, davepds, True pp
+-ά, False eng
+-όν False na
+[φαίνω], [falvw], True pp
+open οῤενε False eng
+to 10 False eng
+view, υἵετυ, False eng
+# 14 42 41 visible,  manifest,  in plain sight,  with σηεῖῤέε,  »ιαρῖγεοί,  ἐηε 2 αἴ εἰρλί,  ΤᾺ
+visible, σηεῖῤέε, False eng
+manifest, »ιαρῖγεοί, False eng
+in ἐηε False eng
+plain 2 False eng
+sight, αἴ False eng
+with εἰρλί, False eng
+# 15 39 40 supplementary ptc.,  often to be trans- ΒΌΡΡΙΕπηθηΐδτΥ μίο.,  οἴζδη ἴο Ὀ6 ἰγδη5-
+supplementary ΒΌΡΡΙΕπηθηΐδτΥ False eng
+ptc., μίο., False na
+often οἴζδη False eng
+to ἴο False eng
+be Ὀ6 False eng
+trans- True half1g
+# 16 38 40 ‘ lated impersonally,  as ér:BoudAedwy ᾿ ]Ἰαῖεα Ππηρεγβοηδ νυν,  85 ἐπιβουλεύων
+lated ]Ἰαῖεα False eng
+impersonally, Ππηρεγβοηδ False eng
+as νυν, False eng
+ἐπιβουλεύων 85 False na
+# 17 34 38 davepos yéyovas,  tt has been made φανερὸς γέγονας,  14 ἦας ὀδορΣ 7114εἷδ
+φανερὸς davepos True form
+γέγονας, yéyovas, True form
+ιt 14 False na
+has ἦας False eng
+been ὀδορΣ False eng
+made 7114εἷδ False eng
+# 18 38 42 clear that you are plotting,  82,  11; εἶτα» ἐλαΐξ γοτέ αγό φέοέέὝηριρ,  82,  11;
+clear εἶτα» False eng
+that ἐλαΐξ False eng
+you γοτέ False eng
+are αγό False eng
+plotting, φέοέέὝηριρ, False eng
+82, 82, False na
+11; 11; False na
+# 19 22 22 év rm pavepy,  openly. ἐν τῷ φανερῷ,  οῤενέν.
+ἐν év True lex
+τῷ False eng
+φανερῷ, pavepy, True form
+openly. οῤενέν. False eng
+# 20 35 36 davepas [pavepds ],  adv.,  openly. φανερῶς [φανερός],  δαν.,  οδΖέγεΖν.
+φανερῶς davepas True form
+[φανερός], [pavepds True pp
+adv., οδΖέγεΖν. False eng
+openly. NA False eng
+
+# 22 23 24 dapérpa,  -ας,  guzver. φαρέτρα,  -ας,  φεεῖνεγ.
+φαρέτρα, dapérpa, True lex
+-ας, -ας, False na
+quιver. φεεῖνεγ. False na
+# 23 7 7 p- 200. Ρ. 20ο.
+p. Ρ. False na
+200. 20ο. False na
+# 24 38 35 dappakorrog (a,  -ας [ddppaxov (whence φαρμακοποσίᾷ,  -ας [φάρμακον (σεποα
+φαρμακοποσία, False na
+-ας False eng
+[φάρμακον -ας True pp
+(whence NA False eng
+# 25 37 40 is bor. Eng. pharmacy),  drug,  rivw, 5 θοῦ. Επ ρ΄. ῬΒΔΥΠΊΔΟΥ.),  ογπρ,  πίνω,
+is 5 False eng
+bor. θοῦ. False eng
+Eng. Επ False eng
+pharmacy), ρ΄. False eng
+drug, ῬΒΔΥΠΊΔΟΥ.), False eng
+πίνω, ογπρ, False na
+# 26 34 38 drink],  taking poison,  drugging. εἶγί» 5,  ἑακίγερ' ῥοΐξογι,  αγερρί»ρ.
+drink], εἶγί» False eng
+taking 5, False eng
+poison, ἑακίγερ' False eng
+drugging. ῥοΐξογι, False eng
+# 27 36 35 Paiorivol,  -dvy [Pacis; bor.,  Eng. Φασιᾶνοί,  -ῶὧν [Φᾶσις; ὕὈοτ.,  Ερ.
+Φασιᾶνοί, False na
+-ῶν False na
+[Φᾶσις; [Pacis; True lex
+bor., ὕὈοτ., False eng
+Eng. Ερ. False eng
+# 28 36 30 pheasant ],  Piasiadni,  an Armenian Ῥμοδβδηΐ],  λας,  αὶ Αὐτηθπίδη
+pheasant Ῥμοδβδηΐ], False eng
+], λας, False na
+Phasiani, αὶ False na
+an Αὐτηθπίδη False eng
+Armenian NA False na
+# 29 38 35 tribe,  living along the Phasis River. {{106,  νην δοηρ ἴῃς Ῥἢαδϑὶβ Εἴνοσ.
+tribe, {{106, False eng
+living νην False eng
+along δοηρ False eng
+the ἴῃς False eng
+Phasis Ῥἢαδϑὶβ False na
+River. Εἴνοσ. False na
+
+
+# 31 44 46 Pars,  -cos,  6,  Phasis,  the upper Araxes, ᾧΦᾶσις,  -ἰος,  ὁ,  δλαςεῖς,  [8 ΡρδΥ Ατὐᾶχεβ,
+Φᾶσις, False na
+-ιος, -cos, True pp
+ὁ, 6, True lex
+Phasis, δλαςεῖς, False na
+the [8 False eng
+upper ΡρδΥ False eng
+Araxes, Ατὐᾶχεβ, False na
+# 32 32 33 a river in northeastern Armenia, ἃ τἰνεύ ἴῃ ποιίῃοαβίοσῃ Ατηγθηΐδ,
+a ἃ False eng
+river τἰνεύ False eng
+in ἴῃ False eng
+northeastern ποιίῃοαβίοσῃ False eng
+Armenia, Ατηγθηΐδ, False na
+# 33 29 30 flowing into the Caspian Sea. βοντηρ ᾿πίο ἴῃς (ἰἀϑρίδη 8568,
+flowing βοντηρ False eng
+into ᾿πίο False eng
+the ἴῃς False eng
+Caspian (ἰἀϑρίδη False na
+Sea. 8568, False na
+# 34 38 40 ddokw [Pyul],  assert; allege,  claim. φάσκω [φημί],  “6εεγ:,  αἰΐόρε,  εἰαῖηη.
+φάσκω ddokw True pp
+[φημί], [Pyul], True lex
+assert; “6εεγ:, False eng
+allege, αἰΐόρε, False eng
+claim. εἰαῖηη. False eng
+# 35 39 38 hépw,  olow,  Fveyxa and Hveyxov,  évi- φέρω,  οἴσω,  ἤνεγκα ἀπ ἤνεγκον,  ἐνή-
+φέρω, hépw, True pp
+οἴσω, olow, True pp
+ἤνεγκα Fveyxa True pp
+and ἀπ False eng
+ἤνεγκον, Hveyxov, True pp
+ἐνή- évi- True half1g
+# 36 34 35 voxa,  éviveypat,  yvéxOnv [cogn., γοχα,  ἐνήνεγμαι,  ἠνέχθην [΄ορῃ, ,
+γοχα, voxa, True pp
+ἐνήνεγμαι, éviveypat, True pp
+ἠνέχθην yvéxOnv True pp
+[cogn., [΄ορῃ, False na
+# 37 35 38 Lat. fer0,  dear,  Eng. bear; bor., 1, Δῖ. Τοτῦ,  ὁδαγ,  Ἐπρ. ὈΘΑΓ; βοτ, ,
+Lat. 1, False na
+fero, Δῖ. False na
+bear, Τοτῦ, False eng
+Eng. ὁδαγ, False eng
+bear; Ἐπρ. False eng
+bor., ὈΘΑΓ; False eng
+# 38 35 40 Eng. metaphor,  phosphorus,  Chris- Εηρ. τηϑίδρ ΒΟΥ,  ῬΒΟΘΡ ΒΟΟΣ 5,  ΟἿΣ] 8-
+Eng. Εηρ. False eng
+metaphor, τηϑίδρ False eng
+phosphorus, ΒΟΥ, False eng
+Chris- ῬΒΟΘΡ False na
+# 39 38 41 topher],  dear,  bring,  carry,  carry [ΟΡΒΘΙ],  ὀσα»,  ὀγῖϑγιρ,  2477),  “4 77}
+topher], [ΟΡΒΘΙ], False na
+dear, ὀσα», False eng
+bring, ὀγῖϑγιρ, False eng
+carry, 2477), False eng
+carry “4 False eng
+# 40 5 6 away. ατυαγ.
+away. ατυαγ. False eng
+# 41 33 32 Idiomatic uses: of a road,  lead; Ιαϊοτηδίϊο 565 : οὗ ἃ τοδῇ,  εασ
+Idiomatic Ιαϊοτηδίϊο False na
+uses: 565 False eng
+of : False eng
+a οὗ False eng
+road, ἃ False eng
+lead; τοδῇ, False eng
+# 42 35 41 draw pay; produce crops; bear,  en- αἴγατο ῬΆΥ; 2γουΐμεθ σΥΟΡΒ; ὀεαΐ, ,  671-
+draw αἴγατο False eng
+pay; ῬΆΥ; False eng
+produce 2γουΐμεθ False eng
+crops; σΥΟΡΒ; False eng
+bear, ὀεαΐ, False eng
+en- , False na
+# 43 35 35 dure; Bapéws or xaderds péperv,  be ἄμγε,  βαρέως οὐ χαλεπῶς φέρειν,  δ
+dure; ἄμγε, False eng
+βαρέως Bapéws True form
+or οὐ False eng
+χαλεπῶς xaderds True lex
+φέρειν, péperv, True form
+be δ False eng
+# 44 34 36 heavy at heart,  be grieved; pépev ἀέαυν αὐ ἀδαγί,  δέ σγίουεα,  φέρειν
+heavy ἀέαυν False eng
+at αὐ False eng
+heart, ἀδαγί, False eng
+be δέ False eng
+grieved; σγίουεα, False eng
+φέρειν pépev True form
+# 45 12 14 See Fig. 64, 566. ΕἸρσ. 64,
+See 566. False na
+Fig. ΕἸρσ. False na
+64, 64, False na
+
+# 48 35 42 kal yew,  plunder,  see dyw; pass., καὶ ἄγειν,  φἐμγεἾ27,  8586ε66 ἄγω; ΡΆ55.,
+καὶ False eng
+ἄγειν, False eng
+plunder, φἐμγεἾ27, False eng
+see 8586ε66 False eng
+ἄγω; dyw; True pp
+pass., ΡΆ55., False eng
+# 49 31 34 be borne,  be thrown,  rush on. ὁέε ὀογηε,  ὁς ζάγοτυ;»,  γδλ ο᾽:.
+be ὁέε False eng
+borne, ὀογηε, False eng
+be ὁς False eng
+thrown, ζάγοτυ;», False eng
+rush γδλ False eng
+on. ο᾽:. False eng
+# 50 36 36 debyw,  pevtoua and gevtoduar,  Epu- φεύγω,  φεύξομαι πὰ φευξοῦμαι,  ἔφυ-
+φεύγω, debyw, True pp
+φεύξομαι pevtoua True pp
+and πὰ False eng
+φευξοῦμαι, gevtoduar, True pp
+ἔφυ- Epu- True half1g
+# 51 35 35 yov,  wmépevya [cogn.,  Lat. fugid, γον,  πέφευγα ἴτορῃ.,  [, Αἱ. ἔαρι,
+γον, yov, True pp
+πέφευγα False na
+[cogn., ἴτορῃ., False na
+Lat. [, False na
+fugio, Αἱ. False na
+# 52 41 37 flee),  flee,  run away; flee from,  with 3466],  3εε,  γε ατυαν ,  3ἴεε 2»,  ἢ
+flee], 3466], False eng
+flee, 3εε, False eng
+run γε False eng
+away; ατυαν False eng
+flee , False eng
+from, 3ἴεε False eng
+with 2», False eng
+# 53 38 41 acc.; flee from one’s country,  be ex- δος.; ες 7 ογ)91 ογεδ᾽ 5 ἐοτόηζγγ,  ἐδ ἐ-
+acc.; δος.; False eng
+flee ες False eng
+from 7 False eng
+one’s ογ)91 False na
+country, ογεδ᾽ False eng
+be 5 False eng
+ex- ἐοτόηζγγ, False na
+# 54 18 19 tled or- banished. ἐδεα οτ. ὀαρετελεω,
+iled ἐδεα False na
+or- οτ. False na
+banished. ὀαρετελεω, False eng
+# 55 37 37 oynpl,  djow,  Epyoa,  common only in φημί,  φήσω,  ἔφησα,  σοπιηοη ΟἿΪΥ ἴῃ
+φημί, oynpl, True lex
+φήσω, djow, True pp
+ἔφησα, Epyoa, True pp
+common σοπιηοη False eng
+only ΟἿΪΥ False eng
+in ἴῃ False eng
+# 56 35 37 ‘pres. and impf. [cogn,  Lat. fari, Ρίεβ. δῃηᾷ ἱηρῇ,  σορη,  [, 4ἱ. Ἐδτῖ,
+pres. Ρίεβ. False na
+and δῃηᾷ False eng
+impf. ἱηρῇ, False eng
+[cogn, σορη, False na
+Lat. [, False na
+fari, 4ἱ. False na
+# 57 30 30 speak,  bor.,  Eng. euphemism, σεαξ,  Ὅοτ.,  Επρ. ΘΌΡΠΘΙ 51),
+speak, σεαξ, False eng
+bor., Ὅοτ., False eng
+Eng. Επρ. False eng
+euphemism, ΘΌΡΠΘΙ False eng
+# 58 44 44 prophet ],  szy,  assert,  abs.,  with inf., ῬΙΌΟΡΒΟΙΊ,  σα»,  α55672,  ΑΌ5.,   ἸῊ ἱπέ, ,
+prophet ῬΙΌΟΡΒΟΙΊ, False eng
+], σα», False na
+say, α55672, False na
+assert, ΑΌ5., False eng
+abs., ἸῊ False eng
+with ἱπέ, False eng
+inf., , False eng
+# 59 32 38 acc. and inf.,  or nom. and inf. 8Δ.ο,  Δη4 ᾿ἴηΐ, ,  ΟΥὙ ΠοΙη. 8η6 ἰηξ,
+acc. 8Δ.ο, False eng
+and Δη4 False eng
+inf., ᾿ἴηΐ, False eng
+or , False eng
+nom. ΟΥὙ False eng
+and ΠοΙη. False eng
+inf. 8η6 False eng
+# 60 32 36 Idiomatic uses: in answers,  as- Ιαϊοιηδῖϊος 865: 1ἷὮ δῆβννοιϑβ,  25-
+Idiomatic True pp
+uses: 865: False eng
+in 1ἷὮ False eng
+answers, δῆβννοιϑβ, False eng
+as- 25- False na
+# 61 40 42 sent,  say yes,  with neg.,  say no,  ob 567, 2,  54)» γέ5,  ἸΏ πδρ.,  55») πὸ,  οὔ
+sent, 567, False eng
+say 2, False eng
+yes, 54)» False eng
+with γέ5, False eng
+neg., ἸΏ False eng
+say πδρ., False eng
+no, 55») False eng
+οὔ πὸ, False eng
+# 62 38 34 on ue with inf,  say that... not (pnul ᾿φηλι ΜΊ 1π’., 56} λας... πο (φημί
+φημι False eng
+with 1π’., False eng
+inf, 56} False eng
+say λας... False eng
+that... πο False eng
+not (φημί False eng
+(φημί NA False na
+# 63 35 36 regularly takes the neg.,  which in ταρΌΪΑΥΥ ἴακεβ [86 πορ.,  ψ ῃϊο ἢ ἴῃ
+regularly ταρΌΪΑΥΥ False eng
+takes ἴακεβ False eng
+the [86 False eng
+neg., πορ., False eng
+which ψ False eng
+in ῃϊο False eng
+# 64 28 25 Eng. goes with the dependent Εῃρ. ροε8 σῇ [6 ἀερεπάεπί
+Eng. Εῃρ. False eng
+goes ροε8 False eng
+with σῇ False eng
+the [6 False eng
+dependent ἀερεπάεπί False eng
+# 65 34 37 verb),  deny,  refuse,  Lat. nego. νογὈ),  αἴε7:},  γέζέδε,  1, Αἱ. περ.
+verb), νογὈ), False eng
+deny, αἴε7:}, False eng
+refuse, γέζέδε, False eng
+Lat. 1, False na
+nego. Αἱ. False na
+
+# 67 37 36 | p0dva,  PO%joonac and rarely pbdow, 1 φθάνω,  φθήσομαι δηὰ τἌτεῖγ φθάσω,
+φθάνω, p0dva, True pp
+φθήσομαι PO%joonac True pp
+and δηὰ False eng
+rarely τἌτεῖγ False eng
+φθάσω, pbdow, True pp
+# 68 36 39 Epbaca and EpOny,  come or do before ἔφθασα ἀπιὰ ἔφθην,  εον:6 οἵ «ἴο ὀε7ογέ
+ἔφθασα Epbaca True pp
+and ἀπιὰ False eng
+ἔφθην, EpOny, True pp
+come εον:6 False eng
+or οἵ False eng
+do «ἴο False eng
+before ὀε7ογέ False eng
+# 69 41 40 some one else,  anticipate,  getahead of, ΒΟΙῺΘ ΟἿ ΕΪ56,  σρΖἑεῖβαζε,  ρεέαλεασοῦ,
+some ΒΟΙῺΘ False eng
+one ΟἿ False eng
+else, ΕΪ56, False eng
+anticipate, σρΖἑεῖβαζε, False eng
+getahead True pp
+of, NA False eng
+# 70 34 37 with acc. of the person (sometimes ΨῈ δος. οὗ (Π6 Ρεύβοῃ (ϑβοσγηείϊ πη65
+with ΨῈ False eng
+acc. δος. False eng
+of οὗ False eng
+the (Π6 False eng
+person Ρεύβοῃ False eng
+(sometimes (ϑβοσγηείϊ False eng
+# 71 34 36 omitted) and supplementary ptc. of οἵηἱ64) ἃπα ΒυρΡΙ]ετηδπίδγυ ρΡίς. οὗ
+omitted) οἵηἱ64) False eng
+and ἃπα False eng
+supplementary ΒυρΡΙ]ετηδπίδγυ False eng
+ptc. ρΡίς. False na
+of οὗ False eng
+# 72 38 37 the action,  as d0d vey karadaBdérres, [86 δοίίοῃ,  ἃ5 φθάνειν καταλαβόντες,
+the [86 False eng
+action, δοίίοῃ, False eng
+as ἃ5 False eng
+φθάνειν d0d True form
+καταλαβόντες, vey True pp
+karadaBdérres, NA False na
+# 73 41 42 anticipate in seizing,  seize first; pOd- αρἕέεΐβαζέ ἐγε δοΐ χέρι,  ςεῖχ ἤγεΐ,  φθά-
+anticipate αρἕέεΐβαζέ False eng
+in ἐγε False eng
+seizing, δοΐ False eng
+seize χέρι, False eng
+first; ςεῖχ False eng
+φθανουσιν ἤγεΐ, False na
+# 74 33 34 vouowy érl r@ Expy yevduevor rods γνουσιν ἐπὶ τῷ ἄκρῳ γενόμενοι τοὺς
+ἐπὶ érl True form
+τῷ r@ True lex
+ἄκρῳ Expy True form
+γενόμενοι yevduevor True form
+τοὺς False eng
+# 75 37 35 woneulous,  they arrive on the height πολεμίους,  δεν αγγῖνε ο»ς δε Ζεῖρλ
+πολεμίους, woneulous, True pp
+they δεν False eng
+arrive αγγῖνε False eng
+on ο»ς False eng
+the δε False eng
+height Ζεῖρλ False eng
+# 76 34 35 before the enemy,  175,  13; often δέγογό 116 φρμδρῃγ,  175. 13; οἴξῃη
+before δέγογό False eng
+the 116 False eng
+enemy, φρμδρῃγ, False eng
+175, 175. False na
+13; 13; False na
+often οἴξῃη False eng
+# 77 38 34 with mwply and inf. clause,  get akead ΜΙ πρίν ἀπ Ἰηΐ. οἶδυ56,  ρεζ αλεαά
+with ΜΙ False eng
+πρίν mwply True lex
+and ἀπ False eng
+inf. Ἰηΐ. False eng
+clause, οἶδυ56, False eng
+get ρεζ False eng
+ahead True pp
+# 78 34 35 before; pOdca mplv wadetv,  strike ὀέγογε,  φθάσαι πρὶν παθεῖν,  τέγξέ
+before; ὀέγογε, False eng
+φθάσαι pOdca True form
+πρὶν mplv True form
+παθεῖν, wadetv, True form
+strike τέγξέ False eng
+# 79 38 40 the first blow,  126, 19; dprdcat péd- ἐδ 3, γεέ ὀέοτυ,  126,  το; ἁρπάσαι φθά-
+the ἐδ False eng
+first 3, False eng
+blow, γεέ False eng
+126, ὀέοτυ, False na
+19; 126, False na
+ἁρπάσαι péd- True form
+φθά-
+# 80 37 38 gavras,  to capture in advance,  211, σαντας,  0 εαξζΨτό ἔρ σαγανιεξ,  21ΤῚ,
+σαντας, False na
+to 0 False eng
+capture εαξζΨτό False eng
+in ἔρ False eng
+advance, σαγανιεξ, False eng
+211, 21ΤῚ, False na
+# 81 3 3 19. 19.
+19. 19. False na
+# 82 34 35 Pbeyyopar,  POeyEoua,  epbeyiduny, φθέγγομαι,  φθέγξομαι,  ἐφθεγξάμην,
+φθέγγομαι, Pbeyyopar, True pp
+φθέγξομαι, POeyEoua, True pp
+ἐφθεγξάμην, epbeyiduny, True pp
+# 83 33 34 épbeyuat [bor.,  Eng. diphthong], ἔφθεγμαι [Ὅοτ.,  Επρ. αϊΡΒΊΠΟΠΡ ],
+ἔφθεγμαι épbeyuat True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False eng
+diphthong], αϊΡΒΊΠΟΠΡ False eng
+# 84 37 39 utter a sound,  shout,  of a trumpet, “2167,  ὦ δορά,  σλομζ,  οἵ ἃ ἰτυτηρεῖ,
+utter “2167, False eng
+a ὦ False eng
+sound, δορά, False eng
+shout, σλομζ, False eng
+of οἵ False eng
+a ἃ False eng
+trumpet, ἰτυτηρεῖ, False eng
+# 85 6 7 sound, σο γαῖ,
+sound, σο False eng
+# 86 38 37 H0clpw,  POepd,  FPOerpa,  ~POapxa and φθείρω,  φθερῶ,  ἔφθειρα,  ἔφθαρκα πὰ
+φθείρω, H0clpw, True pp
+φθερῶ, POepd, True pp
+ἔφθειρα, False na
+ἔφθαρκα ~POapxa True pp
+and πὰ False eng
+# 87 39 41 -€pOopa,  EpOappat,  €POdpny,  destroy, -«έφθορα,  ἔφθαρμαι,  ἐφθάρην,  ἐἰε:270},
+-έφθορα, False na
+ἔφθαρμαι, EpOappat, True pp
+ἐφθάρην, €POdpny, True pp
+destroy, ἐἰε:270}, False eng
+# 88 10 11 lay waste. ἦα» τυαεέδ.
+lay ἦα» False eng
+waste. τυαεέδ. False eng
+# 89 38 38 Bovéw,  DOoviow,  EpOdvnoa,  EpOoviOnp θονέω,  φθονήσω,  ἐφθόνησα,  ἐφθονήθην
+φθονέω, Bovéw, True pp
+φθονήσω, DOoviow, True pp
+ἐφθόνησα, EpOdvnoa, True pp
+ἐφθονήθην EpOoviOnp True pp
+# 90 35 37 vos,  envy],  be jealous of,  envy, Ῥὸς,  6η0.}).},  ὧε 76αὐοτε5 οὐ» ἐφ»,
+[φθόνος, Ῥὸς, False na
+envy], 6η0.}).}, False eng
+be ὧε False eng
+jealous 76αὐοτε5 False eng
+of, οὐ» False eng
+envy, ἐφ», False eng
+# 91 9 7 with dat. ΨῚ ἀαί,
+with ΨῚ False eng
+dat. ἀαί, False eng

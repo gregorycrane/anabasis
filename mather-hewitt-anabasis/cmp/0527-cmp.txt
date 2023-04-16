@@ -1,0 +1,517 @@
+
+515 δ15 False na
+# 1 36 36 pseudonym],  rare in act.,  deceive; Ῥϑουδοην7,  τατα ἴῃ δοῖ.,  αἰξεεῖσε,
+pseudonym], Ῥϑουδοην7, False eng
+rare τατα False eng
+in ἴῃ False eng
+act., δοῖ., False eng
+deceive; αἰξεεῖσε, False eng
+# 2 42 46 mid.,  He,  deceive,  be deceitful; pass., τοϊὰ, ,  ἐξέ,  αἰδεεῖνε,  δε ἐφεεί γε,  Ρά58.,
+mid., τοϊὰ, False eng
+lie, , False na
+deceive, ἐξέ, False eng
+be αἰδεεῖνε, False eng
+deceitful; δε False eng
+pass., ἐφεεί False eng
+# 3 39 42 be deceived,  be mistaken,  abs.,  with ὧξ ἐἰδεεῖνεα, ,  ὧς »εῖείαξεε,  δΌ5.,  1 ἢ
+be ὧξ False eng
+deceived, ἐἰδεεῖνεα, False eng
+be , False eng
+mistaken, ὧς False eng
+abs., »εῖείαξεε, False eng
+with δΌ5., False eng
+# 4 32 34 acc. or mpés and acc. of person, 8οο. Οἵ πρός δῃὰ δος. οἵ ρΡέεσβοῃ,
+acc. 8οο. False eng
+or Οἵ False eng
+πρός mpés True pp
+and δῃὰ False eng
+acc. δος. False eng
+of οἵ False eng
+person, ρΡέεσβοῃ, False eng
+# 5 20 19 cogn. acc. of thing. οΟΡ. δος. οὗ [Ὠΐηρ.
+cogn. οΟΡ. False na
+acc. δος. False eng
+of οὗ False eng
+thing. [Ὠΐηρ. False eng
+# 6 34 35 Wadllopar,  Ynpioiua,  épndicduny, Ψηφίζομαι,  ψηφιοῦμαι,  ἐψηφισάμην,
+ψηφίζομαι, Wadllopar, True pp
+ψηφιοῦμαι, Ynpioiua, True pp
+ἐψηφισάμην, épndicduny, True pp
+# 7 37 35 éeyigirpar,  epndlo@nv [Yijdos,  peb- ἐψήφισμαι,  ἐψηφίσθην [ψῆφος,  2εὐ-
+ἐψήφισμαι, éeyigirpar, True pp
+ἐψηφίσθην epndlo@nv True pp
+[ψῆφος, [Yijdos, True pp
+peb- True half1g
+# 8 41 42 ble,  used in voting],  vote,  vote upon, ὀέε,  αββὰ ἴῃ νοϊἹῃρ],  ψοΐδ,  σοΐς 1420],
+ble, ὀέε, False na
+used αββὰ False eng
+in ἴῃ False eng
+voting], νοϊἹῃρ], False eng
+vote, ψοΐδ, False eng
+vote σοΐς False eng
+upon, 1420], False eng
+# 9 7 7 decide. αἰφεϊε.
+decide. αἰφεϊε. False eng
+# 10 41 41 Wirds,  -4,  -6y [cp. epsilon,  upsilon], ψῖλός,  -ή,  -όν [οΡ. ΘΡΒΙΙΟΠ,  Ὁ} 8110],
+ψιλός, Wirds, True pp
+-ή, -4, True pp
+-όν -6y True pp
+[cp. [οΡ. False eng
+epsilon, ΘΡΒΙΙΟΠ, False eng
+upsilon], Ὁ} False eng
+# 11 36 44 bare,  barren; unprotected,  without ὀαγέ,  ὁα᾽77ε71,  τρρη2γοίεοίεαί,  τυϊέλοιεί
+bare, ὀαγέ, False eng
+barren; ὁα᾽77ε71, False eng
+unprotected, τρρη2γοίεοίεαί, False eng
+without τυϊέλοιεί False eng
+# 12 16 20 defensive armor. αἰεγζεμεῖνε 477, 07.
+defensive αἰεγζεμεῖνε False eng
+armor. 477, False eng
+# 13 35 37 Wrdw,  Yirdow,  eptrwoa,  epidwuat, Ψψιλόω,  ψιλώσω,  ἐψίλωσα,  ἐψίλωμαι,
+ψιλόω, Wrdw, True pp
+ψιλώσω, Yirdow, True pp
+ἐψίλωσα, eptrwoa, True pp
+ἐψίλωμαι, epidwuat, True pp
+# 14 38 38 épinwOnv [pirds],  strip dare,  clear, ἐψτλώθην [ψιλός],  5, 12 ὀαγέ,  εἰέαγ,
+ἐψιλώθην épinwOnv True pp
+[ψιλός], [pirds], True pp
+strip 5, False eng
+dare, 12 False eng
+clear, ὀαγέ, False eng
+# 15 9 6 with gen. ψ ραη.
+with ψ False eng
+gen. ραη. False eng
+# 16 32 33 Wodéw,  d/ddnca [yddos],  make a ψοφέω,  ἐψόφησα [ψόφος],  »ιαξέ ὦ
+ψοφέω, Wodéw, True pp
+ἐψόφησα d/ddnca True pp
+[ψόφος], [yddos], True pp
+make »ιαξέ False eng
+a ὦ False eng
+# 17 13 12 noise,  ring. ρος,  γῖγιρ.
+noise, ρος, False eng
+ring. γῖγιρ. False eng
+# 18 19 20 Wédos,  -ov,  2075. Ψόφος,  -ου,  ποΐξέ.
+ψόφος, Wédos, True pp
+-ου, -ov, True pp
+noisd. ποΐξέ. False na
+# 19 41 45 Wix 4,  -7s [Wbxw,  blow,  breathe; bor., ψυχή,  -ῆς,  [ψύχω,  ὀίοτου,  ὀγεαίλε,  Ὅοτ.,
+ψυχή, Wix True lex
+-ῆς, False na
+[ψύχω, -7s True pp
+blow, ὀγεαίλε, False eng
+breathe; Ὅοτ., False eng
+bor., NA False eng
+# 20 35 36 Eng. Psyche,  psychic,  psychology, Εηρ. Ῥ3ΒγΟΒΘ,  Ῥϑυομῖο,  ῬΒΥΟΒΟΙΟΨΥ,
+Eng. Εηρ. False eng
+Psyche, Ῥ3ΒγΟΒΘ, False na
+psychic, Ῥϑυομῖο, False eng
+psychology, ῬΒΥΟΒΟΙΟΨΥ, False eng
+# 21 40 40 psychotherapy ],  breath of life,  life, ῬϑΥΟΒΟΓΒΟΙΔΑΡΥ ],  ὀγεαίά ο7 ἐϊγξ,  ἐϊ7,
+psychotherapy ῬϑΥΟΒΟΓΒΟΙΔΑΡΥ False eng
+], ], False na
+breath ὀγεαίά False eng
+of ο7 False eng
+life, ἐϊγξ, False eng
+life, ἐϊ7, False eng
+# 22 14 14 soul,  spirit. σοι,  517, 12.
+soul, σοι, False eng
+spirit. 517, False eng
+# 23 39 41 Wixos,  -ous,  Th [Pbxw,  blow],  cold, Ψῦχος,  -ους,  τό [Ψψύχω,  ὀίοτυ],  εοἱά,
+ψῦχος, Wixos, True pp
+-ους, -ous, True pp
+τό Th True form
+[ψύχω, [Pbxw, True pp
+blow], ὀίοτυ], False eng
+cold, εοἱά, False eng
+# 24 22 20 pl.,  seasons of cold, ΡΪ.» δεαςο»5 ο7 «οἰ,
+pl., ΡΪ.» False eng
+seasons δεαςο»5 False eng
+of ο7 False eng
+cold, «οἰ, False eng
+
+
+# 26 42 39 %,  interjection,  O,  usually with a voc- ὦ,  ἱπιει]δοϊίοι,  Ο,  αι }γ ψ ἢ ἃ νοο-
+ὦ, %, True lex
+interjection, ἱπιει]δοϊίοι, False eng
+O, Ο, False na
+usually αι False eng
+with }γ False eng
+a ψ False eng
+voc- True lem
+# 27 31 31 ative and not to be translated. δἴϊνε δηὰ ποῖ ἴο ὑε ἰγδῃβ]αῖθά,
+ative δἴϊνε False na
+and δηὰ False eng
+not ποῖ False eng
+to ἴο False eng
+be ὑε False eng
+translated. ἰγδῃβ]αῖθά, False eng
+
+
+# 29 44 47 we [3d¢,  this],  adv.,  2m this way,  thus; ὧδε [ὅδε,  Ζἀ1:],  ἀἄν.,  ἐγ: ζδτς τὐαν,  άτες,
+ὧδε False eng
+[ὅδε, [3d¢, True lex
+this], Ζἀ1:], False eng
+adv., ἀἄν., False eng
+in ἐγ: False na
+this ζδτς False eng
+way, τὐαν, False eng
+thus; άτες, False eng
+# 30 33 35 usually referring to what follows ἸὈΞΌΔΙΪΥ τοίογτηρ ἴο ψνῆαϊ [ο]]οννθ
+usually ἸὈΞΌΔΙΪΥ False eng
+referring τοίογτηρ False eng
+to ἴο False eng
+what ψνῆαϊ False eng
+follows [ο]]οννθ False eng
+# 31 41 44 (see 85€),  as follows,  in the following (386ες ὅδε),  “5 γοέλοτυς,  γι τζ6 γοέοευΐϑρ
+(see (386ες False eng
+ὅδε), 85€), True lex
+as “5 False eng
+follows, γοέλοτυς, False eng
+in γι False eng
+the τζ6 False eng
+following γοέοευΐϑρ False eng
+# 32 7 11 manner. 7:4 Ή2267..
+manner. 7:4 False eng
+# 33 40 41 #54,  -fs [Gdw,  sing,  bor.,  Eng. ode, φδή,  -ῆς [ἄδω,  εἰγσ,  Ὅοτ.,  Εηρ. οὁἅθ,
+ᾠδή, False na
+-ῆς False na
+[ᾄδω, [Gdw, True pp
+sing, εἰγσ, False eng
+bor., Ὅοτ., False eng
+Eng. Εηρ. False eng
+ode, οὁἅθ, False eng
+# 34 33 35 melody,  prosody,  comedy,  trag- ΤΠ6]0αὙ,  Ῥτοϑοᾶν,  οομιθαγ,  ἰτᾶρ-
+melody, ΤΠ6]0αὙ, False eng
+prosody, Ῥτοϑοᾶν, False eng
+comedy, οομιθαγ, False eng
+trag- True half1g
+# 35 13 13 edy ],  song. Θαγ1,  σογιρ.
+edy Θαγ1, False na
+], σογιρ. False na
+song. NA False eng
+
+# 37 35 36 oOo,  dow,  ~woa,  ~wouat,  edcOny, ὠθέω,  ὥσω,  ἕωσα,  ἔωσμαι,  ἐώσθην,
+ὠθέω, oOo, True pp
+ὥσω, False eng
+ἕωσα, ~woa, True pp
+ἔωσμαι, ~wouat, True pp
+ἐώσθην, edcOny, True pp
+# 38 31 37 push; mid.,  push from oneself. 2τ:δλ,  ταἱά, ,  2ιδὶ ἴτοτῃ οπϑϑβεϊξ.
+push; 2τ:δλ, False eng
+mid., ταἱά, False eng
+push , False eng
+from 2ιδὶ False eng
+oneself. ἴτοτῃ False eng
+# 39 44 44 wpoBdetos,  -2,  -ov [wuds,  Bois,  ox],  of ὠμοβόειος,  -ά,  -ον [ὠμός,  βοῦς,  οχἽ,  οἵ
+ὠμοβόειος, wpoBdetos, True pp
+-α, -2, True pp
+-ον -ov True pp
+[ὠμός, [wuds, True pp
+βοῦς, Bois, True lex
+ox], οχἽ, False eng
+of οἵ False eng
+# 40 27 30 or covered with raw oxhide. οὐ ερὐφγεαΐ τυ ὦ γατυ οχἬλῖῆε,
+or οὐ False eng
+covered ερὐφγεαΐ False eng
+with τυ False eng
+raw ὦ False eng
+oxhide. γατυ False eng
+# 41 38 40 wpds,  -η,  -dv,  raw; rough,  savage, ὠμός,  -ἤ,  -όν,  γατυ,  γοπρά,  δαυαρέ,
+ὠμός, wpds, True pp
+-ή, -ἤ, False na
+-όν, -dv, True pp
+raw; γατυ, False eng
+rough, γοπρά, False eng
+savage, δαυαρέ, False eng
+# 42 6 4 gruff. ὅγε.
+gruff. ὅγε. False eng
+
+#
+# 47 40 40 avéonat,  orvicona,  erpiduny,  édynuat, ὠνέομαι,  ὠνήσομαι,  ἐπριάμην,  ἐώνημαι,
+ὠνέομαι, avéonat, True pp
+ὠνήσομαι, orvicona, True pp
+ἐπριάμην, erpiduny, True pp
+ἐώνημαι, édynuat, True pp
+# 48 29 28 éwriOnv [dvos,  price],  buy. ἐωνήθην [ὦνος,  2714],  δπγ.
+ἐωνήθην éwriOnv True pp
+[ὦνος, [dvos, True pp
+price], 2714], False eng
+buy. δπγ. False eng
+# 49 43 40 @viog,  -d,  -ov [dvos,  price],  for sale; ὦνιος,  -α,  -ον [ὦνος,  γε),  207 βαΐδ,
+ὤνιος, @viog, True pp
+-α, -d, True pp
+-ον -ov True pp
+[ὦνος, [dvos, True pp
+price], γε), False eng
+for 207 False eng
+sale; βαΐδ, False eng
+# 50 32 35 Ta Ona,  goods for sale,  wares. τὰ ὥνια,  ροοαῖς 707 Ξαέξ,  τυαγές.
+τὰ Ta True pp
+ὤνια, False na
+goods ροοαῖς False eng
+for 707 False eng
+sale, Ξαέξ, False eng
+wares. τυαγές. False eng
+# 51 48 49 "Oars,  -cdos,  4,  Ofzs,  a city of Assyria,  _ Ὦπις,  -ίδος, ,  ἡ,  Οῤὲς,  ἃ οἰζγ οἵ Αββγτία,  ὁ
+Ὦπις, "Oars, True lem
+-ιδος, -cdos, True pp
+ἡ, Ofzs, True case
+Opis,
+a False eng
+city ἃ False eng
+of οἰζγ False eng
+Assyria, True form
+# 52 15 14 on the Physcus, οὨ (6 Ῥῆγθουβ.
+on οὨ False eng
+the (6 False eng
+Physcus, Ῥῆγθουβ. False na
+# 53 37 36 dpa,  -ads [cogn.,  Eng. year;  bor., ὥρᾶ,  -ας [ὁοορη.,  ΕὩρ. Υοδσ; δοτ.,
+ὥρα, False na
+-ads -ας False na
+[cogn., [ὁοορη., False na
+Eng. ΕὩρ. False eng
+year; Υοδσ; False eng
+bor., δοτ., False eng
+# 54 36 37 Lat. hora,  4our,  Eng. hour,  horo- [, ἱ. μῦτα,  ἀοωγ,  Επρ. ΒουΓ,  ΒοΙο-
+Lat. [, False na
+hora, ἱ. False eng
+hour, μῦτα, False na
+Eng. ἀοωγ, False eng
+hour, Επρ. False eng
+horo- ΒουΓ, False na
+# 55 38 42 scope ],  season of the year,  Zzme of Β0Ο0Ρ61,  δέ75022 οὗ ἴμ6 γϑδγ,  217216 οὗἉ
+scope Β0Ο0Ρ61, False eng
+], δέ75022 False na
+season οὗ False eng
+of ἴμ6 False eng
+the γϑδγ, False eng
+year, 217216 False eng
+time οὗἉ False na
+of NA False eng
+# 56 36 37 day,  hour,  proper time,  the time, ἄαγ,  ἀσμ,  Ῥτόροῦ Ζζγηθ,  ἦε Ζὴρρε6,
+day, ἄαγ, False eng
+hour, ἀσμ, False eng
+proper Ῥτόροῦ False eng
+time, Ζζγηθ, False eng
+the ἦε False eng
+time, Ζὴρρε6, False eng
+# 57 37 36 opportunity,  with inf. or dat. and _ οῤῥογώφηῖίν,  ΜᾺ ἰηΐ, . οὐ ἀ4ἴ. δῃά:
+opportunity, οῤῥογώφηῖίν, False eng
+with ΜᾺ False eng
+inf. ἰηΐ, False eng
+or . False eng
+dat. οὐ False eng
+and ἀ4ἴ. False eng
+# 58 7 6 inf,  ’ 1ηΐ. ᾿
+inf, 1ηΐ. False eng
+
+# 59 40 41 @patos,  -a,  -ov [dpa],  tn season,  in ὡραῖος,  -ά,  -ον [ὥρᾷ],  ἐγ: Ξεαςογ:,  ἢ
+ὡραῖος, @patos, True pp
+-α, -a, True pp
+-ον -ov True pp
+[ὥρα], False na
+in ἐγ: False eng
+season, Ξεαςογ:, False eng
+in ἢ False eng
+# 60 19 20 the bloom of youth. ζ.ε ὀέρογε οΥ γοτέλ.
+the ζ.ε False eng
+bloom ὀέρογε False eng
+of οΥ False eng
+youth. γοτέλ. False eng
+# 61 41 44 ws [ds,  who],  rel. adv. and conj.,  as, ὡς [ὅς,  τυλο],  τε]. δάν.,  δηά οοῃ͵.,  “5,
+ὡς False eng
+[ὅς, False eng
+who], τυλο], False eng
+rel. τε]. False eng
+adv. δάν., False eng
+and δηά False eng
+conj., οοῃ͵., False eng
+as, “5, False eng
+# 62 4 5 how. ἦοτυ.
+how. ἦοτυ. False eng
+# 63 35 34 As adv.,  as,  how,  as if,  appar- Α5 δᾶν.,  ἂς,  ἄοτνυ,  ἂς τ αῤῥαγ-
+As Α5 False na
+adv., δᾶν., False eng
+as, ἂς, False eng
+how, ἄοτνυ, False eng
+as ἂς False eng
+if, τ False eng
+appar- True half1g
+# 64 39 38 ently,  ostensibly,  as he (they) said, οηἶν,  οείεμοιδέν,  ας ἦξ (Τ{ὲν) βαϊα,
+ently, οηἶν, False na
+ostensibly, οείεμοιδέν, False eng
+as ας False eng
+he ἦξ False eng
+(they) (Τ{ὲν) False eng
+said, βαϊα, False eng
+# 65 35 35 alleging that,  on the ground that, αἰϊορέτερ ἐλαΐ,  ογε ἐπ ργομηα λαΐ,
+alleging αἰϊορέτερ False eng
+that, ἐλαΐ, False eng
+on ογε False eng
+the ἐπ False eng
+ground ργομηα False eng
+that, λαΐ, False eng
+# 66 35 37 thinking that,  with the avowed in- φἀλῖηπξίηρ “αΐ,  τυ 116 αυοτυεα ζ), -
+thinking φἀλῖηπξίηρ False eng
+that, “αΐ, False eng
+with τυ False eng
+the 116 False eng
+avowed αυοτυεα False eng
+in- ζ), False na
+# 67 37 39 tention,  often with a circumstantial ζοη 2102,  οἴἴδθηῃη ἢ ἃ οἰγουπηβίδηϊ αὶ
+tention, ζοη False eng
+often 2102, False eng
+with οἴἴδθηῃη False eng
+a ἢ False eng
+circumstantial ἃ False eng
+# 68 34 38 ptc. of cause or purpose,  showing Ρῖςο. οὗ σαυ86 οΥὁἩ ΡυΓΡοΟβΘ,  5Πον]ηρ
+ptc. Ρῖςο. False na
+of οὗ False eng
+cause σαυ86 False eng
+or οΥὁἩ False eng
+purpose, ΡυΓΡοΟβΘ, False eng
+showing 5Πον]ηρ False eng
+# 69 39 39 that the ptc. states the real,  or pre- (ηδἰ [6 ρίς. βίαϊε5 [Π6 τϑαὶ,  Οὐὁ ῥτε-
+that (ηδἰ False eng
+the [6 False eng
+ptc. ρίς. False na
+states βίαϊε5 False eng
+the [Π6 False eng
+real, τϑαὶ, False eng
+or Οὐὁ False eng
+pre- True half1g
+# 70 37 40 tended,  reason or purpose as given , ἰεπαἀ64,  γεᾶϑοῃ ΟΥὐἨἁ Ῥυγροβα 85 ρίνθῃ,
+tended, ἰεπαἀ64, False eng
+reason γεᾶϑοῃ False eng
+or ΟΥὐἨἁ False eng
+purpose Ῥυγροβα False eng
+as 85 False eng
+given ρίνθῃ, False eng
+# 71 30 32 out by the subject of the main ουἱὐ ΌΥ ἴῃς βυῦ]εοῖ οὗ [Π6 τηδὶῃ
+out ουἱὐ False eng
+by ΌΥ False eng
+the ἴῃς False eng
+subject βυῦ]εοῖ False eng
+of οὗ False eng
+the [Π6 False eng
+main τηδὶῃ False eng
+# 72 34 31 verb or of somebody else mentioned ψΘΥ οὐ οὗ ΒΟ ὈΟΟΥ εἶ56 πες οηθά
+verb ψΘΥ False eng
+or οὐ False eng
+of οὗ False eng
+somebody ΒΟ False eng
+else ὈΟΟΥ False eng
+mentioned εἶ56 False eng
+# 73 36 36 prominently in the context,  but not ΡτοΙΠΘηΪν ἴῃ ἴῃ6 σοπίεαχί,  θυαΐ ποῖ
+prominently ΡτοΙΠΘηΪν False eng
+in ἴῃ False eng
+the ἴῃ6 False eng
+context, σοπίεαχί, False eng
+but θυαΐ False eng
+not ποῖ False eng
+# 74 35 36 implying that the writer or speaker ᾿ρ] γίηρ {μαὶ [Π6 νυυῖῖευ οὐ βρεακεῦ
+implying ᾿ρ] False eng
+that γίηρ False eng
+the {μαὶ False eng
+writer [Π6 False eng
+or νυυῖῖευ False eng
+speaker οὐ False eng
+# 75 37 37 asserts it to be the actual reason ot δϑϑογίβ ἴἴ ἴο θὲ [68 δοῖυδ] γεδβοη οἵ
+asserts δϑϑογίβ False eng
+it ἴἴ False eng
+to ἴο False eng
+be θὲ False eng
+the [68 False eng
+actual δοῖυδ] False eng
+reason γεδβοη False eng
+or οἵ False eng
+# 76 31 30 purpose; so with gen. abs. or a ΡυΓΡοΟΒα; 50 ΜΠ ρεη. 05. ουὐ ἃ
+purpose; ΡυΓΡοΟΒα; False eng
+so 50 False eng
+with ΜΠ False eng
+gen. ρεη. False eng
+abs. 05. False eng
+or ουὐ False eng
+a ἃ False eng
+# 77 33 34 prepositional phrase; with numer- ΡῬγαροβιζίομδὶ ρῆγαβα; ΜῈ πυμπηεῖ-
+prepositional ΡῬγαροβιζίομδὶ False eng
+phrase; ρῆγαβα; False eng
+with ΜῈ False eng
+numer- True half1g
+# 78 33 33 als,  about,  with sup. (cp. Lat. 815,  αὐομέ,  ΜΕ 500. (οΡ. [1.Δῖ.
+als, 815, False eng
+about, αὐομέ, False eng
+with ΜΕ False eng
+sup. 500. False eng
+(cp. (οΡ. False eng
+Lat. [1.Δῖ. False na
+# 79 33 35 guam),  ws padora,  with or with- Φη 4, 1),  ὡς μάλιστα,  ΜΙ οὐ ΜΙ Ὦ-
+quam), Φη False eng
+ὡς False eng
+μάλιστα, False eng
+with- ΜΙ False na
+# 80 34 35 out a form of dvvayat,  as much as ουΐ ἃ ἔοτῃι οὗ δύναμαι,  ας »ιεῖ ας
+out ουΐ False eng
+a ἃ False eng
+form ἔοτῃι False eng
+of οὗ False eng
+δύναμαι, dvvayat, True pp
+as ας False eng
+much »ιεῖ False eng
+as ας False eng
+# 81 37 37 possible,  ws taxtcTa,  as guickly as 2οϑεϊδίο,  ὡς τάχιστα,  ας φεῖοξέν ας
+possible, 2οϑεϊδίο, False eng
+ὡς False eng
+τάχιστα, taxtcTa, True form
+as ας False eng
+quickly φεῖοξέν False na
+as ας False eng
+# 82 39 42 possible» ws ébvvaro,  as besthe could, 2οεειδέο,; ὡς ἐδύνατο,  ας ὑδεέ ἀξ εομ ἐν;
+possible; 2οεειδέο,; False na
+ὡς False eng
+ἐδύνατο, ébvvaro, True form
+as ας False eng
+best
+he ὑδεέ False na
+could, ἀξ False eng
+# 83 33 36 ws él Td mod,  as a rule,  gener- ὡς ἐπὶ τὸ πολύ,  ας ὦ γεέρ,  ρέ7167-
+ὡς False eng
+ἐπὶ él True form
+τὸ Td True form
+πολύ, False eng
+as ας False eng
+a ὦ False eng
+rule, γεέρ, False eng
+gener- True half1g
+# 84 36 36 ally; ws ouveddvte elwetv,  to speak αὐν,  ὡς συνελόντι εἰπεῖν,  ἔο “ῥέα!
+ally; αὐν, False eng
+ὡς False eng
+συνελόντι ouveddvte True form
+εἰπεῖν, elwetv, True form
+to ἔο False eng
+speak “ῥέα! False eng
+# 85 35 33 concisely,  AS prep.,  only of per- εομεῖδείν. ΑΒ. ῬΓΕΡ.,  ον οἵ ρεῖ-
+concisely, εομεῖδείν. False eng
+As ΑΒ. False na
+prep., ῬΓΕΡ., False eng
+only ον False eng
+of οἵ False eng
+per- per- True half1g
+# 86 10 10 sons,  Zo. 50Π5,  Ζο.
+sons, 50Π5, False eng
+to. Ζο. False na
+# 87 36 38 As conj.,  as,  that; of cause,  as, ΑΞ5 σοπ].,  ὧς,  λωέ,  οἵ οσδυδο,  α5,
+As ΑΞ5 False na
+conj., σοπ]., False eng
+as, ὧς, False eng
+that; λωέ, False eng
+of οἵ False eng
+cause, οσδυδο, False eng
+as, α5, False eng
+# 88 35 34 since; of time,  when,  ws TaxoTAa, σης,  οὗ της,  τοὐόη,  ὡς τάχιστα,
+since; σης, False eng
+of οὗ False eng
+time, της, False eng
+when, τοὐόη, False eng
+ὡς False eng
+τάχιστα, TaxoTAa, True form

@@ -1,0 +1,460 @@
+
+# 1 36 36 tropadak(fLopar [uaraxlfoua,  éuada- ὑπομαλακίζομαι [μαλακίζομαι,  ἐμαλα-
+ὑπομαλακίζομαι tropadak(fLopar True pp
+[μαλακίζομαι, [uaraxlfoua, True pp
+ἐμαλα- éuada- True half1g
+# 2 37 39 kiodunv,  éuarakloOnv,  be softened}, κισάμην,  ἐμαλακίσθην,  ὧε :ογέεγεα) ),
+κισάμην, kiodunv, True pp
+ἐμαλακίσθην, éuarakloOnv, True pp
+be ὧε False eng
+softened}, :ογέεγεα) False na
+# 3 39 36 grow soft a lettle,  lose courage some- φ7οτυ τοέ α ἐϊέρ,  ἰο5 «ογαρέ 50716-
+grow φ7οτυ False eng
+soft τοέ False eng
+a α False eng
+little, ἐϊέρ, False na
+lose ἰο5 False eng
+courage «ογαρέ False eng
+some- 50716- False na
+# 4 5 6 what, τυδαΐ.
+what, τυδαΐ. False eng
+# 5 39 37 trropévw [udvw,  remain],  stay behind, ὑπομένω [μένω,  γενιαῖ,  δίαν ὀολίμα,
+ὑπομένω trropévw True pp
+[μένω, [udvw, True pp
+remain], γενιαῖ, False eng
+stay δίαν False eng
+behind, ὀολίμα, False eng
+# 6 32 33 wait,  stop,  stand ones ground; τυαϊξ,  οἰοῤ,  τίαμα ομδς ργοφηα,
+wait, τυαϊξ, False eng
+stop, οἰοῤ, False eng
+stand τίαμα False eng
+ones ομδς False eng
+ground; ργοφηα, False eng
+# 7 22 28 transitive,  wazt for. ἰγδηϑβιτἷϊνςα,  τυαὶξ 707. ὁ
+transitive, ἰγδηϑβιτἷϊνςα, False eng
+wait τυαὶξ False na
+for. 707. False eng
+# 8 41 40 brépynpa,  -aros,  76 [ tromprijoKw,  re- ὑπόμνημα,  -ατος,  τό [ὑπομιμνήσκω,  γέ-
+ὑπόμνημα, brépynpa, True pp
+-ατος, -aros, True pp
+τό 76 True form
+[ὑπομιμνήσκω, [ True pp
+re- NA False na
+# 9 18 23 mind ],  reminder. »ε171641,  γ6)»171:27΄.
+mind »ε171641, False eng
+], γ6)»171:27΄. False na
+reminder. NA False eng
+# 10 33 32 trétreparos (verbal of vroréurw), ὑπόπεμπτος (νεῖραὶ οἵ ὑποπέμπω),
+ὑπόπεμπτος trétreparos True pp
+(verbal (νεῖραὶ False eng
+of οἵ False eng
+ὑποπέμπω), vroréurw), True pp
+# 11 34 34 sent underhandedly,  treacherously σε φτρραργλαμαφαν,  ἐγεαςσλεγοιδέν
+sent σε False eng
+underhandedly, φτρραργλαμαφαν, False eng
+treacherously ἐγεαςσλεγοιδέν False eng
+# 12 5 5 sent. 6671.
+sent. 6671. False eng
+# 13 39 42 troréptre [réurw,  send ],  send under- ὑποπέμπω [πέμπω,  5614],  56για] 14716127-
+ὑποπέμπω troréptre True pp
+[πέμπω, [réurw, True pp
+send 5614], False eng
+], 56για] False na
+send 14716127- False eng
+under- NA False na
+# 14 35 35 handedly or secretly,  send with oY ἀαρεαίφαν οὐ σε.) ον,  σομαΐ τοϊί Ὁ
+handedly ἀαρεαίφαν False eng
+or οὐ False eng
+secretly, σε.) False eng
+send ον, False eng
+with σομαΐ False eng
+oY τοϊί False na
+# 15 7 9 entent. 2γ:{6721.
+entent. 2γ:{6721. False na
+# 16 34 33 tromtetw,  irorreicw,  vUrdmrevoa, ὑποπτεύω,  ὑποπτεύσω,  ὑπώπτευσα,
+ὑποπτεύω, tromtetw, True pp
+ὑποπτεύσω, irorreicw, True pp
+ὑπώπτευσα, vUrdmrevoa, True pp
+# 17 31 30 drwnrevdnvy [vmomros (verbal of ὑπωπτεύθην [ὕποπτος (νεῖραὶ οἵ
+ὑπωπτεύθην drwnrevdnvy True pp
+[ὕποπτος [vmomros True pp
+(verbal (νεῖραὶ False eng
+of οἵ False eng
+# 18 38 40 Upopdw),  suspected ],  view with sus- ὑφοράω),  Ξτε5ῤέείεα 1,  νΐφου τοὐὰ σιι-
+ὑφοράω), Upopdw), True pp
+suspected Ξτε5ῤέείεα False eng
+], 1, False na
+view νΐφου False eng
+with τοὐὰ False eng
+sus- True half1g
+# 19 40 42 picion,  suspect,  apprehend,  with acc. 21εἴο»,  σεδῥεεί,  αδῥγελεγια!,  νν ἢ δου.
+picion, 21εἴο», False na
+suspect, σεδῥεεί, False eng
+apprehend, αδῥγελεγια!, False eng
+with νν False eng
+acc. ἢ False eng
+# 20 35 35 or acc. and inf.;. de apprehensive, οἵ ἃςο. Δπά [ἰπΐ.; ἐὲ αῤῥγελεμεῖνε,
+or οἵ False eng
+acc. ἃςο. False eng
+and Δπά False eng
+inf.;. [ἰπΐ.; False eng
+be ἐὲ False eng
+apprehensive, αῤῥγελεμεῖνε, False eng
+# 21 23 24 fear,  with «4 and opt. , )α»γ,  νὶτἢ μή πὰ ορί.
+fear, , False eng
+with )α»γ, False eng
+μή νὶτἢ False na
+and μή False eng
+opt. πὰ False eng
+
+# 23 33 33 troorpatnyos,  -ov [imd orparnyy, ὑποστράτηγος,  -ου [ὑπὸ στρατηγῷ,
+ὑποστράτηγος, troorpatnyos, True pp
+-ου -ov True pp
+[ὑπὸ [imd True form
+στρατηγῷ, orparnyy, True form
+# 24 35 32 under a general ],  lieutenant gen- 27:27 ὦ ρεργα ,  ἐϊειέριαμ ρέ7ι-
+under 27:27 False eng
+a ὦ False eng
+general ρεργα False eng
+], , False na
+lieutenant ἐϊειέριαμ False eng
+gen- True half1g
+# 25 24 25 eval,  See Introd. § 54. εγαί. 8866 [πίτοάα. ὃ 54.
+eral, εγαί. False eng
+See 8866 False na
+Introd. [πίτοάα. False eng
+§ ὃ False eng
+54. 54. False na
+# 26 32 35 troctpépw [orpépw,  turn],  turn ὑποστρέφω [στρέφω,  2.721],  Ζ24772
+ὑποστρέφω troctpépw True pp
+[στρέφω, [orpépw, True pp
+turn], 2.721], False eng
+turn Ζ24772 False eng
+# 27 33 36 round unexpectedly; make a clever γοτηα τρμεχ ῥέείοαϊν; νιαξε ἃ εἰδυέγ
+round γοτηα False eng
+unexpectedly; τρμεχ False eng
+make ῥέείοαϊν; False eng
+a νιαξε False eng
+clever ἃ False eng
+# 28 20 20 turn,  avoid a trap. ζηγ,  αὐοϊαὶ ἃ ἔγαξ.
+turn, ζηγ, False eng
+avoid αὐοϊαὶ False eng
+a ἃ False eng
+trap. ἔγαξ. False eng
+
+# 31 33 32 trodalvw [dalww],  show a little; ὑποφαίνω [φαίνω],  τἄοτν « ἐμέο,
+ὑποφαίνω trodalvw True pp
+[φαίνω], [dalww], True pp
+show τἄοτν False eng
+a « False eng
+little; ἐμέο, False eng
+# 32 21 21 intr.,  dawn,  break. 1ηἰ{.,  σευ»,  ὀγεαξ.
+intr., 1ηἰ{., False eng
+dawn, σευ», False eng
+break. ὀγεαξ. False eng
+# 33 40 40 vrodelSopar [peidouar,  peloouat,  eper- ὑποφείδομαι [φείδομαι,  φείσομαι,  ἐφει-
+ὑποφείδομαι vrodelSopar True pp
+[φείδομαι, [peidouar, True pp
+φείσομαι, peloouat, True pp
+ἐφει- eper- True half1g
+# 34 32 29 cdunv,  spare),  spare a little. σάμην,  5476],  5ῤαγε α ἐηέσ,
+σάμην, cdunv, True pp
+spare], 5476], False eng
+spare 5ῤαγε False eng
+a α False eng
+little. ἐηέσ, False eng
+# 35 39 40 brroxelptos,  -ov [imd yepl,  under the ὑποχείριος,  -ον [ὑπὸ χειρί,  τ16}0» ζἤ6
+ὑποχείριος, brroxelptos, True pp
+-ον -ov True pp
+[ὑπὸ [imd True form
+χειρί, yepl, True form
+under τ16}0» False eng
+the ζἤ6 False eng
+# 36 34 35 hand in the power of,  subject to, λαμα] ρει δε 2οτυοῦ οὐ,  σὀζοοί ζο,
+hand λαμα] False eng
+in ρει False eng
+the δε False eng
+power 2οτυοῦ False eng
+of, οὐ, False eng
+subject σὀζοοί False eng
+to, ζο, False eng
+# 37 9 9 with dat. νὴ ἢ ἀδί.
+with νὴ False eng
+dat. ἢ False eng
+# 38 39 40 troxos,  -ov [éxw,  have],  subject to, ὕποχος,  -ον [ἔχω,  ἀανε],  τωμὐγεεί Ζο,
+ὕποχος, troxos, True pp
+-ον -ov True pp
+[ἔχω, [éxw, True pp
+have], ἀανε], False eng
+subject τωμὐγεεί False eng
+to, Ζο, False eng
+# 39 32 32 under the control of,  with dat. 2426127,  {6 εογέγοΐ οὐς νυ ἀαΐ,
+under 2426127, False eng
+the {6 False eng
+control εογέγοΐ False eng
+of, οὐς False eng
+with νυ False eng
+dat. ἀαΐ, False eng
+# 40 36 38 troxapéo [xwpéw,  give way],  retire ὑποχωρέω [χωρέω,  ρἶνε τυα}},  γε717 6
+ὑποχωρέω troxapéo True pp
+[χωρέω, [xwpéw, True pp
+give ρἶνε False eng
+way], τυα}}, False eng
+retire γε717 False eng
+# 41 37 40 gradually,  make way,  retreat,  abs. ε᾽ασμαΐῤέν,  νιαζο εὐαγ,  γείγεαί,  Δ 5.
+gradually, ε᾽ασμαΐῤέν, False eng
+make νιαζο False eng
+way, εὐαγ, False eng
+retreat, γείγεαί, False eng
+abs. Δ False eng
+# 42 12 11 or with dat. οΥγ ΜῈ ἀαί.
+or οΥγ False eng
+with ΜῈ False eng
+dat. ἀαί. False eng
+# 43 40 40 tropla,  -ας [cp. drorredw],  suspicion, ὑποψία,  -ας [(ρ. ὑποπτεύω],  45 1ε1072,
+ὑποψία, tropla, True lex
+-ας -ας False na
+[cp. [(ρ. False eng
+ὑποπτεύω], drorredw], True pp
+suspicion, 45 False eng
+# 44 9 6 distrust. (1575.
+distrust. (1575. False eng
+
+
+# 47 46 44 torrepatos,  -a,  -ov [vorepos],  later,  Jol- ὑστεραῖος,  -α,  -ον [ὕστερος],  ἠαϊέν,  , ε
+ὑστεραῖος, torrepatos, True pp
+-α, -a, True pp
+-ον -ov True pp
+[ὕστερος], [vorepos], True pp
+later, ἠαϊέν, False eng
+fol- , False na
+# 48 34 37 lowing; TQ borepaig (sc. nuépe) or ἐρτυΐγιρ,  τῇ ὑστεραίᾳ (3ς. ἡμέρᾳ) οἵ
+lowing; ἐρτυΐγιρ, False eng
+τῇ TQ True lex
+ὑστεραίᾳ borepaig True form
+(sc. (3ς. False eng
+ἡμέρᾳ) nuépe) True form
+or οἵ False eng
+# 49 36 39 els Thy vorepalay,  on the following εἰς τὴν ὑστεραίαν,  ο7; {16 γοῤοιυέγῃρ'
+εἰς False eng
+τὴν Thy True form
+ὑστεραίαν, vorepalay, True form
+on ο7; False eng
+the {16 False eng
+following γοῤοιυέγῃρ' False eng
+# 50 32 32 day,  on the next day; rhv tore- αν,  ο» (ἦς πέχέ (αγ,  τὴν ὕστε-
+day, αν, False eng
+on ο» False eng
+the (ἦς False eng
+next πέχέ False eng
+day; (αγ, False eng
+τὴν rhv True form
+ὕστε- tore- True half1g
+# 51 28 31 palav,  during the next day. ραίαν,  πε γ1ιρ᾽ τἀε τιεχέ 44}.
+ραίαν, False na
+during πε False eng
+the γ1ιρ᾽ False eng
+next τἀε False eng
+day. τιεχέ False eng
+# 52 36 36 torepéo,  vorépnoa,  borépyxa [vore- ὑστερέω,  ὑστέρησα,  ὑστέρηκα [ὕστε-
+ὑστερέω, torepéo, True pp
+ὑστέρησα, vorépnoa, True pp
+ὑστέρηκα borépyxa True pp
+[ὕστε- [vore- True half1g
+# 53 36 39 pos],  be later,  come too late for, ρος],  ὅε ἐα{ε7, ,  φοηὶΦ 200 ἐαίε 70’,
+pos], ρος], False eng
+be ὅε False eng
+later, ἐα{ε7, False eng
+come , False eng
+too φοηὶΦ False eng
+late 200 False eng
+for, ἐαίε False eng
+# 54 9 8 with gen. νυ ρσϑη.
+with νυ False eng
+gen. ρσϑη. False eng
+# 55 37 36 torepos,  -a,  -ov [cogn.,  Eng. out, ὕστερος,  -ά,  -ον [οὐρῃ.,  Επρ. οὐ,
+ὕστερος, torepos, True pp
+-α, -a, True pp
+-ον -ov True pp
+[cogn., [οὐρῃ., False na
+Eng. Επρ. False eng
+out, οὐ, False eng
+# 56 38 39 utter],  /ater,  behind. Neut. acc. as ἰοῦ],  ἐαίθν,  ὀελιγρά,  Νεαΐ. δος,  ἃς
+utter], ἰοῦ], False eng
+later, ἐαίθν, False na
+behind. ὀελιγρά, False eng
+Neut. Νεαΐ. False na
+acc. δος, False eng
+as ἃς False eng
+# 57 38 38 adv.,  later,  afterwards,  with gen., δάν.,  ἐαίεγ,  αγίεγιυαγαῖς,  ΜΙ σδη.,
+adv., δάν., False eng
+later, ἐαίεγ, False eng
+afterwards, αγίεγιυαγαῖς, False eng
+with ΜΙ False eng
+gen., σδη., False eng
+# 58 6 4 after. αἴθ.
+after. αἴθ. False eng
+# 59 36 37 tonyéopar [ayéouar,  lead],  lead on ὑφηγέομαι [ἡγέομαι,  ἐεαα]],  ἐεαα ο»
+ὑφηγέομαι tonyéopar True pp
+[ἡγέομαι, [ayéouar, True pp
+lead], ἐεαα]], False eng
+lead ἐεαα False eng
+on ο» False eng
+# 60 7 9 slowly. δσἐρτυέν.
+slowly. δσἐρτυέν. False eng
+
+# 62 40 42 votype [inut,  send],  let down,  yield; ὑφίημι [ἴημι,  :ἐγ],  ἐεξ ἐἴστυν»;,  γέφζα
+ὑφίημι votype True pp
+[ἴημι, [inut, True pp
+send], :ἐγ], False eng
+let ἐεξ False eng
+down, ἐἴστυν»;, False eng
+yield; γέφζα False eng
+# 63 35 36 concede,  with acc. and inf.; mid., εογιεεασ,  ΜΊ δος. δηα ᾿πΐ; ηνἱά, .,
+concede, εογιεεασ, False eng
+with ΜΊ False eng
+acc. δος. False eng
+and δηα False eng
+inf.; ᾿πΐ; False eng
+mid., ηνἱά, False eng
+# 64 17 17 give up,  submit. δῖνο τ,  δε γετέ.
+give δῖνο False eng
+up, τ, False eng
+submit. δε False eng
+# 65 35 38 Udlornpe [lornut,  cause fo stand), ὑφίστημι [ἵἴστημι,  εαμδέ 10 σἰαηα] 7,
+ὑφίστημι Udlornpe True pp
+[ἵστημι, [lornut, True pp
+cause εαμδέ False eng
+fo 10 False eng
+stand], σἰαηα] False eng
+# 66 37 43 station secretly; intr.,  in mid. and σζαζίογε δϑεγολέν, ,  ᾿πῖτγ., ) ἴῃ τϊή. δηά
+station σζαζίογε False eng
+secretly; δϑεγολέν, False eng
+intr., , False eng
+in ᾿πῖτγ., False eng
+mid. ) False eng
+and ἴῃ False eng
+# 67 40 39 2 aor. act.,  offer oneself,  volunteer; 2 δοῦ. δοῖ.,  ογ.7 ογδεοῦς τοηεγι δ 7 ᾧ
+2 2 False na
+aor. δοῦ. False eng
+act., δοῖ., False eng
+offer ογ.7 False eng
+oneself, ογδεοῦς False eng
+volunteer; τοηεγι False eng
+# 68 19 18 Stand one’s ground, σἠαηα ομες ργοφηα,
+stand σἠαηα False na
+ομες one’s True pp
+ground, ργοφηα, False eng
+# 69 38 39 bhopdw [dpdw,  see],  view with suspi- ὑφοράω [ὁράω,  566},  υἵδτυ τοῦτ τιδῤί-
+ὑφοράω bhopdw True pp
+[ὁράω, [dpdw, True pp
+see], 566}, False eng
+view υἵδτυ False eng
+with τοῦτ False eng
+suspi- True half1g
+# 70 15 16 cion,  suspect. εἴο»,  δι ϑῤεοῖ.
+cion, εἴο», False eng
+suspect. δι False eng
+# 71 39 40 bynrds,  -η,  -6» [tos],  high,  lofty. ὑψηλός,  -ή,  -όν [ὕψος],  ἀζρᾷ,  δογῆν.
+ὑψηλός, bynrds, True pp
+-ή, -η, True pp
+-όν -6» True pp
+[ὕψος], False eng
+high, ἀζρᾷ, False eng
+lofty. δογῆν. False eng
+# 72 25 26 Neut. as subst.,  Aezghe. Ναεαῖ,  85 βυρϑῖ.,  ἀεζρά.
+Neut. Ναεαῖ, False na
+as 85 False eng
+subst., βυρϑῖ., False eng
+height. True pp
+# 73 44 44 ios,  -ous,  76 [cp. drdp,  above),  height. ὕψος,  -ους,  τό [ςρ. ὑπέρ,  αδονεἼ,  ἀεῖρέ.
+ὕψος, False eng
+-ους, -ous, True pp
+τό 76 True form
+[cp. [ςρ. False eng
+ὑπέρ, drdp, True lex
+above], αδονεἼ, False eng
+height. ἀεῖρέ. False eng
+
+
+
+# 76 40 40 daripds,  -d,  -dv [cp. paiww],  bright, φαιδρός,  -ά,  -όν [ορ. φαίνω],  ὀγίρἀὲ,
+φαιδρός, daripds, True pp
+-ά, -d, True pp
+-όν -dv True pp
+[cp. [ορ. False eng
+φαίνω], paiww], True pp
+bright, ὀγίρἀὲ, False eng
+# 77 17 17 beaming,  cheery. ὀεα»εῖηρ,  ἐἰδεν.
+beaming, ὀεα»εῖηρ, False eng
+cheery. ἐἰδεν. False eng
+#
+# 79 34 35 dalvw,  gavd,  pnva,  -répayxa and φαίνω,  φανῶ,  ἔφηνα,  -πέφαγκα δπὰ
+φαίνω, dalvw, True pp
+φανῶ, gavd, True pp
+ἔφηνα, pnva, True pp
+-πέφαγκα -répayxa True pp
+and δπὰ False eng
+# 80 38 36 Twépnva,  répac pat,  epdvOnv and édd- πέφηνα,  πέφασμαι,  ἐφάνθην διὰ ἐφά-
+πέφηνα, Twépnva, True pp
+πέφασμαι, répac True pp
+ἐφάνθην False eng
+and 
+ἐφά- False eng
+# 81 34 34 ynv [bor.,  Eng. phase,  phantasm, νην [Ὅοτ.,  Επρ. 1486,  ῬμδηΐδβΠ),
+νην ynv True pp
+[bor., [Ὅοτ., False eng
+Eng. Επρ. False eng
+phase, 1486, False eng
+phantasm, ῬμδηΐδβΠ), False eng
+# 82 31 32 fantastic,  fancy,  phenomenon, ζαπίδϑίϊο,  ἔδηον,  ῬΠΘΠΟΠΊΘΏΟΙ,
+fantastic, ζαπίδϑίϊο, False eng
+fancy, ἔδηον, False eng
+phenomenon, ῬΠΘΠΟΠΊΘΏΟΙ, False eng
+# 83 33 37 diaphanous],  make appear,  show. ἀϊδρ β8ηοι81,  γα ξό αῤῥέανγ,  δάοτυ.
+diaphanous], ἀϊδρ False eng
+make β8ηοι81, False eng
+appear, γα False eng
+show. ξό False eng
+# 84 30 32 Idiomatic uses: intr.,  shine, Ταϊοπιαῖῖς υ865: ἰπηΐτ.,  «ἀϊη6,
+Idiomatic Ταϊοπιαῖῖς False na
+uses: υ865: False eng
+intr., ἰπηΐτ., False eng
+shine, «ἀϊη6, False eng
+# 85 41 43 mid.,  pass.,  and 2 pf. act.,  de shown, τηϊά.,  Ρ855.,  Δηα 2 ρ΄. δοῖ.,  δέ σἀοτυρ,
+mid., τηϊά., False eng
+pass., Ρ855., False eng
+and Δηα False eng
+2 2 False na
+pf. ρ΄. False eng
+act., δοῖ., False eng
+be δέ False eng
+shown, σἀοτυρ, False eng
+# 86 39 42 show oneself,  be seen,  seem,  appear; σἦοτυ ογιοδοίς ὅδ 5 6671,  5667),  αῤῥέαγ;
+show σἦοτυ False eng
+oneself, ογιοδοίς False eng
+be ὅδ False eng
+seen, 5 False eng
+seem, 6671, False eng
+appear; 5667), False eng
+# 87 36 32 with supplementary ptc.,  not of ap- ἢ ΒΡ] πη πίαγυ ρίς.,  ποῖ οὗ δρ-
+with ἢ False eng
+supplementary ΒΡ] False eng
+ptc., True lex
+not πίαγυ False eng
+of ρίς., False eng
+ap- True lex
+# 88 32 34 pearances,  but of what is mani- Ῥθαύδησαβ,  Ρυΐ οὗ νψμαῖ 15 τηδῃ]-
+pearances, Ῥθαύδησαβ, False na
+but Ρυΐ False eng
+of οὗ False eng
+what νψμαῖ False eng
+is 15 False eng
+mani- True half1g
+# 89 36 34 festly true,  as ov POovay épalvero, αβιγ ἴγιθ,  ἃ5 οὐ φθονῶν ἐφαίνετο,
+festly αβιγ False na
+true, ἴγιθ, False eng
+as ἃ5 False eng
+οὐ ov True lex
+φθονῶν POovay True form
+ἐφαίνετο, épalvero, True form

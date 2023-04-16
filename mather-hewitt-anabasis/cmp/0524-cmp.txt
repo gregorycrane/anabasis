@@ -1,0 +1,479 @@
+
+# 1 33 36 made from the juice of the dates. πιδοῖς ἔγοπι τῆς Ἰυϊος οὗ τῆς ἠαῖα8.
+made πιδοῖς False eng
+from ἔγοπι False eng
+the τῆς False eng
+juice Ἰυϊος False eng
+of οὗ False eng
+the τῆς False eng
+dates. ἠαῖα8. False eng
+# 2 33 33 ‘Lhe cabbape (éyxépados) was edi- Ἴἢς σαῦῦαμε (ἐγκέφαλος) ν᾽ᾶ5 οαϊ-
+The Ἴἢς False na
+cabbage σαῦῦαμε False na
+(ἐγκέφαλος) (éyxépados) True pp
+was ν᾽ᾶ5 False eng
+edi- True half1g
+# 3 4 4 ble. 0]ς.
+ble. 0]ς. False na
+# 4 44 47 Poive,  -ixos,  6,  Phoenician,  a native of Φοῖνιξ,  -ἴἶκος,  ὁ,  “ λοερ εἴα,  ἃ παιϊὶνς οὗ
+Φοῖνιξ, Poive, True lex
+-ικος, -ixos, True pp
+ὁ, 6, True lex
+Phoenician, “ False na
+a λοερ False eng
+native εἴα, False eng
+of ἃ False eng
+# 5 10 8 Phoenicia. ῬΠώς 18.
+Phoenicia. ῬΠώς False na
+# 6 38 37 dople,  popycw,  épdpnoa,  -wepdbpnka, φορέω,  φορήσω,  ἐφόρησα,  -πεφόρηκα,
+φορέω, dople, True pp
+φορήσω, popycw, True pp
+ἐφόρησα, épdpnoa, True pp
+-πεφόρηκα, -wepdbpnka, True pp
+# 7 32 32 wepdpnuat,  -epopndny [cp. pépw, πεφόρημαι,  -εφορήϑην [ὡΡ. φέρω,
+πεφόρημαι, wepdpnuat, True pp
+-εφορήϑην -epopndny True pp
+[cp. [ὡΡ. False eng
+φέρω, pépw, True pp
+# 8 38 34 bear),  bear or carry habitually ,  of ὁσα» },  ὀέαν οὐ ἐὰν) ἀαῤἠ αν,  οἵ
+bear], ὁσα» False eng
+bear }, False eng
+or ὀέαν False eng
+carry οὐ False eng
+habitually ἐὰν) False eng
+, ἀαῤἠ False na
+of αν, False eng
+# 9 15 19 clothes,  wear. ἙΟσἸ τ ἢ 5,  τυεΩν.
+clothes, ἙΟσἸ False eng
+wear. τ False eng
+# 10 38 39 dpalw,  dpdow,  Eppaca,  wéppaxa,  wé- φράζω,  φράσω,  ἕφρασα,  πέῴφρακα,  πέ-
+φράζω, dpalw, True pp
+φράσω, dpdow, True pp
+ἕφρασα, Eppaca, True pp
+πέφρακα, wéppaxa, True pp
+πέ- wé- True half1g
+# 11 32 31 dpacuar,  éppdobnvy [bor.,  Eng. ῴρασμαι,  ἐφράσθην [ὕοτ.,  Επρ.
+φρασμαι, dpacuar, True pp
+ἐφράσθην éppdobnvy True pp
+[bor., [ὕοτ., False eng
+Eng. Επρ. False eng
+# 12 37 37 phrase,  paraphrase,  periphrastic }, ῬΏτγΑΒο,  ῬΑΓΑΡΓΑ86,  ῬΟΙΙΡΏΓΣΑΒΙΪΟ],
+phrase, ῬΏτγΑΒο, False eng
+paraphrase, ῬΑΓΑΡΓΑ86, False eng
+periphrastic ῬΟΙΙΡΏΓΣΑΒΙΪΟ], False eng
+}, NA False na
+# 13 41 42 tell,  show,  direct,  bid,  with dat. of ἠρ έ,  τάοτο,  ὐτγοω,  ὀϊαῖ,  νυ ἀδῖ, . οἱ
+tell, ἠρ False eng
+show, έ, False eng
+direct, τάοτο, False eng
+bid, ὐτγοω, False eng
+with ὀϊαῖ, False eng
+dat. νυ False eng
+of ἀδῖ, False eng
+# 14 23 23 person,  acc. of thing. Ῥόγβοῃ,  δος. οὐ τπτην.
+person, Ῥόγβοῃ, False eng
+acc. δος. False eng
+of οὐ False eng
+thing. τπτην. False eng
+# 15 28 30 dpéap,  ppdaros,  76,  well, ᾧΦρέαρ,  φρέατος,  τό,  τυείΐ,
+φρέαρ, False na
+φρέατος, ppdaros, True pp
+τό, 76, True form
+well, τυείΐ, False eng
+# 16 40 39 dpoviw,  ppovicw,  éppdynoa,  reppbyynka φρονέω,  φρονήσω,  ἐφρόνησα,  πεφρόνηκα
+φρονέω, dpoviw, True pp
+φρονήσω, ppovicw, True pp
+ἐφρόνησα, éppdynoa, True pp
+πεφρόνηκα reppbyynka True pp
+# 17 38 39 (ppnv,  mind),  think,  be wise,  have [φρήν,  »ενα],  “λτριξ,  φ τοῖφο,  ἀαῦε
+[φρήν, (ppnv, True lex
+mind], »ενα], False eng
+think, “λτριξ, False eng
+be φ False eng
+wise, τοῖφο, False eng
+have ἀαῦε False eng
+# 18 32 37 understanding,  péya ppovioas én τ21ὲ0ἐγ}ε πη ὐ ιν,  μέγα φρονήσας ἐπὶ
+understanding, τ21ὲ0ἐγ}ε False eng
+μέγα 
+φρονήσας 
+ἐπὶ
+# 19 34 34 ToUTy,  being greatly puffed up at τούτῳ,  ὀεῖνηρ ργεα τίν ῥωβέα τ αἱ
+τούτῳ, ToUTy, True form
+being ὀεῖνηρ False eng
+greatly ργεα False eng
+puffed τίν False eng
+up ῥωβέα False eng
+at τ False eng
+# 20 5 5 this. “λὶς.
+this. “λὶς. False eng
+# 21 42 41 dpdvynpa,  -aros,  7d [ ppovéw],  thought, φρόνημα,  -ατος,  τό [φρονέω],  ζλοιερήέ,
+φρόνημα, dpdvynpa, True pp
+-ατος, -aros, True pp
+τό 7d True form
+[φρονέω], [ True pp
+ppovéw], ζλοιερήέ, False na
+# 22 20 18 spirit,  confidence. οδίγδ,  το ωώοηεό.
+spirit, οδίγδ, False eng
+confidence. το False eng
+# 23 42 45 dpdvipos,  -ov [ ppv,  mind ],  sagacious, φρόνιμος,  -ον [φρήν,  »"176}],  Ξαραξσῖίοης,
+φρόνιμος, dpdvipos, True pp
+-ον -ov True pp
+[φρήν, [ True lex
+mind Ξαραξσῖίοης, False eng
+], NA False na
+sagacious, NA False eng
+# 24 19 21 sensible,  prudent, σεμσιὀδο,  27 1εὐεη1,
+sensible, σεμσιὀδο, False eng
+prudent, 27 False eng
+# 25 41 40 dpovrifw,  ppovTid,  éppdvrica,  weppdby- φροντίζω,  φροντιῶ,  ἐφρόντισα,  πεφρόν-
+φροντίζω, dpovrifw, True pp
+φροντιῶ, ppovTid, True pp
+ἐφρόντισα, éppdvrica, True pp
+πεφρόν- weppdby- True half1g
+# 26 35 34 Tia [@povrls,  thousht,  care],  be τικα [φροντίς,  Τλοιἦδ κα 76],  δὲ
+τικα Tia True pp
+[φροντίς, [@povrls, True lex
+thought, Τλοιἦδ False na
+care], κα False eng
+be 76], False eng
+# 27 37 31 thoughtful or anxious,  think,  think Ζοιρη με οὐ ἀπχίοις,  ἀέρι,  ἀμ
+thoughtful Ζοιρη False eng
+or με False eng
+anxious, οὐ False eng
+think, ἀπχίοις, False eng
+think ἀέρι, False eng
+# 28 33 33 out,  contrive,  abs. or wih dws. οἵ,  εὐπιέγίτο,  αὈϑ. Οἵ νυ ὅπως.
+out, οἵ, False eng
+contrive, εὐπιέγίτο, False eng
+abs. αὈϑ. False eng
+or Οἵ False eng
+with True lex
+ὅπως. dws. True lex
+# 29 37 37 dpovpapxos,  -ov [ppouvpd,  garrison, φρούραρχος,  -ουὐ [φρουρὰ,  κα» 5071,
+φρούραρχος, dpovpapxos, True pp
+-ου False na
+[φρουρά, [ppouvpd, True form
+garrison, κα» False eng
+# 30 32 38 Epxw,  command),  command+r of a ἄρχω,  εο»ε»ια»α 1,  εο»ερεαγαἶ 7 οὗ ἃ
+ἄρχω, Epxw, True pp
+command], εο»ε»ια»α False eng
+commander 1, False na
+of εο»ερεαγαἶ False eng
+a 7 False eng
+# 31 9 10 Larrison, ξα6 7150).
+garrison, ξα6 False na
+# 32 38 37 dpovpéw,  Ppovpijcw,  eppovpnoa,  -we- φρουρέω,  φρουρήσω,  ἐφρούρησα,  -τε-
+φρουρέω, dpovpéw, True pp
+φρουρήσω, Ppovpijcw, True pp
+ἐφρούρησα, eppovpnoa, True pp
+-τε- -we- True half1g
+# 33 31 31 ppovpnua,  éppovpyOnv  [dpoupds φρούρημαι,  ἐφρουρήθην [φρουρός
+φρούρημαι, ppovpnua, True pp
+ἐφρουρήθην éppovpyOnv True pp
+[φρουρός [dpoupds True pp
+# 34 33 33 (3pd,  in front of,  dpdw,  see), (πρό,  μι. χγοριέ οὐ ὁράω,  566),
+(πρό, (3pd, True lex
+in μι. False eng
+front χγοριέ False eng
+of, οὐ False eng
+ὁράω, dpdw, True pp
+see), 566), False eng
+# 35 37 41 watcher),  keep watch,  guard; pass., τυαίελς7},  ξεοῤ τυαϊοὶ,  ραγ αἱ,  Ῥᾶ55.»
+watcher], τυαίελς7}, False eng
+keep ξεοῤ False eng
+watch, τυαϊοὶ, False eng
+guard; ραγ False eng
+pass., αἱ, False eng
+# 36 15 17 be under guard. ὧξ τ »ιὐδγ σμαγε,
+be ὧξ False eng
+under τ False eng
+guard. »ιὐδγ False eng
+# 37 38 40 povprov,  -ov [Ppoupds,  watcher,  cp. φρούριον,  -ου [φρουρός,  τυαΐελεγ,  ςΡ.
+φρούριον, povprov, True pp
+-ου -ov True pp
+[φρουρός, [Ppoupds, True pp
+watcher, τυαΐελεγ, False eng
+cp. ςΡ. False eng
+# 38 37 38 ppovpéw],  garrisoned position,  gar- φρονυρέω],  ραγγίδομεα ῥοσίζίοη,  ρα7-
+φρουρέω], ppovpéw], True pp
+garrisoned ραγγίδομεα False eng
+position, ῥοσίζίοη, False eng
+gar- True half1g
+# 39 6 6 vison. γίξο).
+rison. γίξο). False eng
+# 40 40 40 dptyava,  -w»,  rd [Pptyw,  roast],  dry φρύγανα,  -ων,  τά [φρύγω,  γοαςἴ],  ἀν»
+φρύγανα, dptyava, True pp
+-ων, -w», True pp
+τά False eng
+[φρύγω, [Pptyw, True pp
+roast], γοαςἴ], False eng
+dry ἀν» False eng
+# 41 19 21 sticks,  brushwood. ο“ἠεξς,  ὀγιφελιυοοί,
+sticks, ο“ἠεξς, False eng
+brushwood. ὀγιφελιυοοί, False eng
+# 42 41 41 Ppvyla,  -ας [Ppvt],  Phrygia,  a Persian Φρυγία,  -ας [Φρύξ],  δάγγρία,  ἃ Ῥετοίδῃ
+Φρυγία, Ppvyla, True lex
+-ας -ας False na
+[Φρύξ], [Ppvt], True lex
+Phrygia, δάγγρία, False na
+a ἃ False eng
+Persian Ῥετοίδῃ False na
+# 43 35 33 province,  part of Cyrus’s satrapy, Ργονίποθ,  ρα οὐ Ονγιιϑβ βδίγαρυ,
+province, Ργονίποθ, False eng
+part ρα False eng
+of οὐ False eng
+Cyrus’s Ονγιιϑβ False na
+satrapy, βδίγαρυ, False eng
+# 44 32 33 in the west central part of Asia ἰπ {π6 νεβὶ οεηΐῖγαὶ ρατὶ οὔ Αϑία
+in ἰπ False eng
+the {π6 False eng
+west νεβὶ False eng
+central οεηΐῖγαὶ False eng
+part ρατὶ False eng
+of οὔ False eng
+Asia Αϑία False na
+
+# 48 35 34 Minor,  called Spuyla 4% peyddrn to Μίποτ,  Το4]].ἃ Φρυγία ἡ μεγάλη ἴο
+Minor, Μίποτ, False na
+called Το4]].ἃ False eng
+Φρυγία Spuyla True lex
+ἡ 4% True case
+μεγάλη peyddrn True form
+to ἴο False eng
+# 49 34 38 distinguish it from Lesser Phrygia ἀἸσ  σαἸ5ἢ ἴἴ ἔγοιῃ 1, Ἐβϑοῦ ΡΒ τνριβα
+distinguish ἀἸσ False eng
+it σαἸ5ἢ False eng
+from ἴἴ False eng
+Lesser ἔγοιῃ False na
+Phrygia 1, False na
+# 50 33 35 on the southern shore of the Pro- οὐ ἴδε βουϊβεγῃ 5δοσζςε οὗ (ἢε Ριο-
+on οὐ False eng
+the ἴδε False eng
+southern βουϊβεγῃ False eng
+shore 5δοσζςε False eng
+of οὗ False eng
+the (ἢε False eng
+Pro- True half1g
+# 51 7 7 pontis. ΡΟΠΙΙ8.
+pontis. ΡΟΠΙΙ8. False na
+# 52 42 42 Ppvé,  hpvyds,  6,  Phrygian,  a native of Φρύξ,  Φρυγός,  ὁ,  δάγγρία»,  ἃ παῖϊνε οὗ
+Φρύξ, Ppvé, True lex
+Φρυγός, hpvyds, True pp
+ὁ, 6, True lex
+Phrygian, δάγγρία», False na
+a ἃ False eng
+native παῖϊνε False eng
+of οὗ False eng
+# 53 8 9 Phrygia. ΡΒτγυρίδ.
+Phrygia. ΡΒτγυρίδ. False na
+# 54 34 33 dvyds,  -d50s,  6 [pevyw],  exile. φυγάς,  -άδος,  ὁ [φεύγω],  ἐχέζ.
+φυγάς, dvyds, True lex
+-άδος, -d50s, True pp
+ὁ 6 True lex
+[φεύγω], [pevyw], True pp
+exile. ἐχέζ. False eng
+# 55 24 26 duyh,  As [dere],  fight φυγή,  -ῆς [φεύγω],  Μίρλε
+φυγή, duyh, True lex
+-ῆς False na
+[φεύγω], [φεύγω], False eng
+flight Μίρλε False eng
+
+# 57 41 42 ovrach,  -7s [GuAdrrw]),  euard,  detach- φνλακή,  -ς- [φυλάττω],  σπαγά,  αἰδίαεζ--
+φνλακή, False na
+-ῆς- False na
+[φυλάττω], [GuAdrrw]), True pp
+guard, True pp
+detach- True half1g
+# 58 36 39 ment of guards,  bedy guard,  garri- »ποηὲ ο7 ρα αἷς,  σαν ρμεαγε,  ρα»7:1--
+ment »ποηὲ False eng
+of ο7 False eng
+guards, ρα False eng
+body True form
+guard, σαν False eng
+garri- ρμεαγε, False na
+# 59 39 45 son ,  guard duty,  picket duty; watch, σορ,  ρμαγα ἀμίν,  δίεξεί αἰκεέν , ,  τυαζεζ,
+son σορ, False eng
+, ρμαγα False na
+guard ἀμίν, False eng
+duty, δίεξεί False eng
+picket αἰκεέν False eng
+duty; , False eng
+watch, , False eng
+# 60 38 37 a third part of the night (see Introd. ἃ [Πϊγὰ ρατί οὗ ἴῃ π!ρῃϊ (5εε [πίτοα,
+a ἃ False eng
+third [Πϊγὰ False eng
+part ρατί False eng
+of οὗ False eng
+the ἴῃ False eng
+night π!ρῃϊ False eng
+(see (5εε False eng
+Introd. [πίτοα, False eng
+# 61 6 6 § 65). ἢ 65).
+§ ἢ False eng
+65). 65). False na
+# 62 40 44 vAak,  -axos, d [puddrrw],  guard,  sen- φύλαξ,  -ακος,  ὁ [φυλάττω],  μα’ αἵ,  :ε7:-
+φύλαξ, vAak, True lex
+-ακος, -axos, True pp
+ὁ False eng
+[φυλάττω], [puddrrw], True pp
+guard, μα’ False eng
+sen- True form
+# 63 15 14 tinel,  picket. “ἐπε,  δίεξεί.
+tinel, “ἐπε, False na
+picket. δίεξεί. False eng
+# 64 35 35 dur\drre,  gurdiw,  epvrata,  -wep- φυλάττω,  φυλάξω,  ἐφύλαξα,  -πεφύ-
+φυλάττω, dur\drre, True pp
+φυλάξω, gurdiw, True pp
+ἐφύλαξα, epvrata, True pp
+-πεφύ- -wep- True half1g
+# 65 39 36 haya,  reptrAaypuat,  Epurdx Ony [bor., λαχα,  πεφύλαγμαι,  ἐφυλάχθην [Ὅοτ.,
+λαχα, False eng
+πεφύλαγμαι, reptrAaypuat, True pp
+ἐφυλάχθην Epurdx True pp
+[bor., NA False eng
+# 66 32 31 Eng. phylactery,  prophylactic], Επρ. Ῥδνϊδοίοσν,  Ῥσορυ]δοῖὶο],
+Eng. Επρ. False eng
+phylactery, Ῥδνϊδοίοσν, False eng
+prophylactic], Ῥσορυ]δοῖὶο], False eng
+# 67 38 41 keep guard,  be on guard,  guard,  de- ἄτερ ρμαγά,  ἐξ ο» ρμαγαὶ,  ρεαγαϊ,  ὅε--
+keep ἄτερ False eng
+guard, ρμαγά, False eng
+be ἐξ False eng
+on ο» False eng
+guard; ρμαγαὶ, False eng
+guard, ρεαγαϊ, False eng
+de- True half1g
+# 68 36 39 fend,  watch; pudaxas duddrreEy,  do 7 μα,  τυοαμιἦ,  φνλακὰς φυλάττειν,  αὐ
+fend, 7 False eng
+watch; μα, False eng
+φνλακὰς 
+φυλάττειν
+do φυλάττειν, False eng
+# 69 37 44 guard duty; mid.,  be on one’s guard, φμαγα εὐμίν ,  ταϊὰ.,  ξ ογὲ ογιοῖΣ ριεαγαΐ,
+guard φμαγα False eng
+duty; εὐμίν False eng
+mid., , False eng
+be ταϊὰ., False eng
+on ξ False eng
+one’s ογὲ False na
+guard, ογιοῖΣ False eng
+# 70 34 34 defend oneself,  be on one’s guard αεγερα ογεροῦς ὧδ ο72 ογιδὶΣ ρμαγα
+defend αεγερα False eng
+oneself, ογεροῦς False eng
+be ὧδ False eng
+on ο72 False eng
+one’s ογιδὶΣ False na
+guard ρμαγα False eng
+# 71 38 35 against,  keep an eye on,  abs.,  with αραϊμε,  ἐεε απὸ 6}6 ο»1,  805.,  ψ
+against, αραϊμε, False eng
+keep ἐεε False eng
+an απὸ False eng
+eye 6}6 False eng
+on, ο»1, False eng
+abs., 805., False eng
+with ψ False eng
+# 72 18 16 acc.,  or with pH. ἃςο.,  οὗ ΜΙ μή.
+acc., ἃςο., False eng
+or οὗ False eng
+with ΜΙ False eng
+μή. pH. True lex
+# 73 35 35 diode,  repbonuat,  epicHOny [pica, φυσάω,  πεφύσημαι,  ἐφυσήθην [φῦσα,
+φυσάω, False eng
+πεφύσημαι, repbonuat, True pp
+ἐφυσήθην epicHOny True pp
+[φῦσα, False eng
+# 74 30 30 bellows ],  blow up,  inflate. ὀοδέοτυς 1,  δέοτυ τ,  ἐφ αίε.
+bellows ὀοδέοτυς False eng
+], 1, False na
+blow δέοτυ False eng
+up, τ, False eng
+inflate. ἐφ False eng
+# 75 39 39 Pioos,  -ov,  Physcus,  a river flowing Φύσκος,  -ου,  ῥάγδειξ,  ἃ τῖνεσ βονίησ
+Φύσκος, Pioos, True pp
+-ου, -ov, True pp
+Physcus, ῥάγδειξ, False na
+a ἃ False eng
+river τῖνεσ False eng
+flowing βονίησ False eng
+# 76 16 16 into the Tigris. ἱπῖο ἴῃς ΤΊρτίβ.
+into ἱπῖο False eng
+the ἴῃς False eng
+Tigris. ΤΊρτίβ. False na
+# 77 36 36 ota,  ptow,  tpioa and edvv,  répixa φύω,  φύσω,  ἔφῦσα διὰ ἔφῦν,  πέφῦκα
+φύω, ota, True pp
+φύσω, ptow, True pp
+ἔφυσα tpioa True pp
+and διὰ False eng
+ἔφυν, False na
+πέφυκα répixa True pp
+# 78 36 38 [cogn.,  Lat. fui,  J was,  Eng. be; [οορῃ.,  1.41. δπιΐ,  7 τας,  Επρ. ὍΘ;
+[cogn., [οορῃ., False na
+Lat. 1.41. False na
+fui, δπιΐ, False na
+I 7 False na
+was, τας, False eng
+Eng. Επρ. False eng
+be; ὍΘ; False eng
+# 79 32 37 bor.,  Eng. physics,  neophyte], Ὀοτ.,  Επῃρ. ῬΏΥΒ1085,  πΠΘΟΡΒΨίορΊ],
+bor., Ὀοτ., False eng
+Eng. Επῃρ. False eng
+physics, ῬΏΥΒ1085, False eng
+neophyte], πΠΘΟΡΒΨίορΊ], False eng
+# 80 22 21 bring forth,  produce. ὀγῖρρ γον»,  2γοάπεε.
+bring ὀγῖρρ False eng
+forth, γον», False eng
+produce. 2γοάπεε. False eng
+# 81 36 41 Pexats,  -l50s,  7,  Phocacan woman, Φωκαῖς,  -ίδος, ,  ἡ,  άοεαεανε τυο»» 4},
+Φωκαῖς, False na
+-ίδος, -l50s, True pp
+ἡ, Phocacan True case
+woman, άοεαεανε False eng
+# 82 34 37 from Phocaea,  a Greek city on the ἔτοτη Ῥδοοδθϑα,  ἃ Οσεαῖκ οἷἵγ οὐ ἴδε
+from ἔτοτη False eng
+Phocaea, Ῥδοοδθϑα, False na
+a ἃ False eng
+Greek Οσεαῖκ False na
+city οἷἵγ False eng
+on οὐ False eng
+the ἴδε False eng
+# 83 32 32 coast of Asia Minor northwest of οοαϑῖ οὗ Αϑὶὰα Μίπον ποι νεβὶ οὗ
+coast οοαϑῖ False eng
+of οὗ False eng
+Asia Αϑὶὰα False na
+Minor True pp
+northwest ποι False eng
+of νεβὶ False eng
+# 84 7 8 Smyrna, ΘΙΏΥΓηΔ.
+Smyrna, ΘΙΏΥΓηΔ. False na
+# 85 32 35 dovh,  -7s [cp. g@yul; bor. Eng. φωνή,  -ῆς,  [οΡ. φημί; Ὅοτ.,  Εηρ.
+φωνή, dovh, True lex
+-ῆς, False na
+[cp. [οΡ. False eng
+φημί; g@yul; True lex
+bor. Ὅοτ., False eng
+Eng. Εηρ. False eng
+# 86 32 32 euphony,  phonetic,  phonograph, ΘΌΡΒΟΣΥ,  Ῥμοποίϊο,  ῬΒΟΠΟΖΥΔΡΆ,
+euphony, ΘΌΡΒΟΣΥ, False eng
+phonetic, Ῥμοποίϊο, False eng
+phonograph, ῬΒΟΠΟΖΥΔΡΆ, False eng
+# 87 32 34 microphone,  telephone],  voice; ΤᾺΪΟΤΟΡΏΟΠΘ,  ἴθίθρῃοηθ),  σψοΐε,;
+microphone, ΤᾺΪΟΤΟΡΏΟΠΘ, False eng
+telephone], ἴθίθρῃοηθ), False eng
+voice; σψοΐε,; False eng
+# 88 19 18 language,  dialect. ἐσηραρε,  αἱαίεεξ.
+language, ἐσηραρε, False eng
+dialect. αἱαίεεξ. False eng
+# 89 42 44 das,  pwrds,  76 [cp. palyw,  show,  bor., φῶς,  φωτός,  τό [ςρΡ. φαίνω,  «ἄσοτῦ; Ὅοτ.,
+φῶς, False eng
+φωτός, pwrds, True pp
+τό 76 True form
+[cp. [ςρΡ. False eng
+φαίνω, palyw, True pp
+show, «ἄσοτῦ; False eng
+bor., Ὅοτ., False eng
+# 90 30 30 Eng. phosphorus,  photograph], Επρ. ῬΒΟΒΡΒΟΓΌδ,  ῬΒΟ[ΟΣΙΔΡΕΊ,
+Eng. Επρ. False eng
+phosphorus, ῬΒΟΒΡΒΟΓΌδ, False eng
+photograph], ῬΒΟ[ΟΣΙΔΡΕΊ, False eng
+# 91 6 6 light. ἐξρῪέ-
+light. ἐξρῪέ- False eng

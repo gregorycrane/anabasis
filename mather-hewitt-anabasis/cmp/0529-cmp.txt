@@ -1,0 +1,14 @@
+# 0 5 18 ng ee . ---.-..., .“.---
+ng . False eng
+ee ---.-..., False eng
+# 1 19 21 Digitized by Google Ὀἱ αἰ τεα Όγ (ὡοορίςο
+Digitized Ὀἱ False na
+by αἰ False eng
+Google τεα False na
+# 2 13 12 Original from [9115 119}}}
+Original [9115 False na
+from 119}}} False eng
+# 3 24 24 UNIVERSITY OF CALIFORNIA ΟΝΙΝΕΒΘΙΤῪ ΟΕ ΓΑΙΙΕΟΆΝΙΑ
+UNIVERSITY ΟΝΙΝΕΒΘΙΤῪ False na
+OF ΟΕ False na
+CALIFORNIA ΓΑΙΙΕΟΆΝΙΑ False na

@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΙΑΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΙΑΥ False na
+
 # 1 37 38 (see Fig. 71,  p. 214) were of course (5ες Εἰἷρ. 71,  Ρ. 214) ψεῖα οὗ ουυγβα
 (see (5ες False eng
 Fig. Εἰἷρ. False na
@@ -32,7 +31,7 @@ and δῃπὰ False eng
 deposited ἀεροβίϊεα False eng
 as 85 False eng
 votive νοῖϊνε False eng
-οἥετ- offer- True half1g
+offer- True half1g
 # 6 30 31 ings in temples; see 152,  23. 1ῃρ8 ἴῃ [ἸΏ ρ|65; 566 152,  23.
 ings 1ῃρ8 False na
 in ἴῃ False eng
@@ -42,7 +41,7 @@ see ρ|65; False eng
 23. 152, False na
 # 7 39 40 tpoTth,  -7s [Tpérw,  turn; bor.,  Eng. τροπή,  -ῆς,  [τρόπω,  “75,  Ὀοτ.,  Επρ.
 τροπή, tpoTth, True lex
--7s -ῆς, False na
+-ῆς, False na
 [τρόπω, [Tpérw, True pp
 turn; “75, False eng
 bor., Ὀοτ., False eng
@@ -50,7 +49,7 @@ Eng. Επρ. False eng
 # 8 37 39 tropic,  heliotrope],  ‘urning of the ἰτορίςο,  Β6Ι]]ΟἾΤΟΡΘ],  ἐεγηῖρρ οἵ τὴς
 tropic, ἰτορίςο, False eng
 heliotrope], Β6Ι]]ΟἾΤΟΡΘ], False eng
-‘urning ἐεγηῖρρ False na
+turning ἐεγηῖρρ False na
 of οἵ False eng
 the τὴς False eng
 # 9 22 19 enemy,  flight,  rout. δον,  Μηρά!,  γοιο.
@@ -60,7 +59,7 @@ rout. γοιο. False eng
 # 10 43 42 TpPStTros,  -ov [rpéww,  turn,  bor.,  Eng. τρόπος,  -ου ἰτρέπω,  “πεγρ,  ὍὈοτ.,  Επρ.
 τρόπος, TpPStTros, True pp
 -ου -ov True pp
-ἰτρέπω, [rpéww, True pp
+[τρέπω, [rpéww, True pp
 turn, “πεγρ, False eng
 bor., ὍὈοτ., False eng
 Eng. Επρ. False eng
@@ -93,27 +92,26 @@ after αὐίε»" False eng
 a ὦἃ False eng
 # 15 35 37 fashion; rovie rdov rpbwov,  in the , αεάϊονι,  τόνδε τὸν τρόπον,  ζ» 206
 fashion; , False eng
-rovie αεάϊονι, False na
 τόνδε rdov True form
 τὸν rpbwov, True form
-in τρόπον, False eng
+τρόπον, False eng
+in
 the ζ» False eng
 # 16 17 19 following manner. , 7οὠοειυῖτρ νι 67.
 following , False eng
 manner. 7οὠοειυῖτρ False eng
 # 17 35 39 tpoph,  -7s [Tpépw,  nourish; bor., τροφή,  -ς [τρέφω,  »ιομεγίσλ,  ὍὌοτ, ,
 τροφή, tpoph, True lex
--7s -ς False na
+-ῆς False na
 [τρέφω, [Tpépw, True pp
 nourish; »ιομεγίσλ, False eng
 bor., ὍὌοτ, False eng
 # 18 34 35 —~Eng. atrophy,  hypertrophy],  s- ΣΈΤΡ. δίσορυ,  ΒΥΡΘΙΓΓΟΡΕΥΊ],  “"ῃ-
-—~Eng. ΣΈΤΡ. False na
+Eng. ΣΈΤΡ. False na
 atrophy, δίσορυ, False eng
 hypertrophy], ΒΥΡΘΙΓΓΟΡΕΥΊ], False eng
-s- “"ῃ- False na
 # 19 19 21 port,  maintenance. 2ογέ,  τπαξρίοραηεέξ.
-port, 2ογέ, False eng
+support, 2ογέ, False eng
 maintenance. τπαξρίοραηεέξ. False eng
 # 20 37 34 tTpimrdw,  rerpbrnyat ([tpbrn,  hole; τρυπάω,  τετρύπημαι [τρύπη,  Ζοίέ,
 τρυπάω, tTpimrdw, True pp
@@ -130,7 +128,7 @@ pierce; 2167, False eng
 # 22 35 38 Ora rerpurnuat,  [ have had my ears ὦτα τετρύπημαι,  7 ἄανε ἀααὶ ἢ1γ} Φ475
 ὦτα Ora True form
 τετρύπημαι, rerpurnuat, True pp
-[ 7 False na
+I False na
 have ἄανε False eng
 had ἀααὶ False eng
 my ἢ1γ} False eng
@@ -154,7 +152,6 @@ vulnerable. τερον False eng
 τεύξομαι, reviouat, True pp
 ἔτυχον, Ervxov, True pp
 τετύχηκα, TeTUX True pp
-KA, NA False na
 # 27 42 39 hit,  obtain,  get,  secure,  find,  meet, ἀϊ4,  οὐΐαΐ»,  ρεΐ,  δες,  ρα,  τρεφεΐ,
 hit, ἀϊ4, False eng
 obtain, οὐΐαΐ», False eng
@@ -175,7 +172,7 @@ ptc., ΘῸΡΡΙ False na
 which εἰ False eng
 may ηΐδγυ False eng
 # 30 37 37 ‘often be translated as the main verb ᾿ οἴζεη ὃς ἐτδῃβαίεα δ5 [ἢ τηδῖη νετῦ
-‘often ᾿ False na
+often ᾿ False na
 be οἴζεη False eng
 translated ὃς False eng
 as ἐτδῃβαίεα False eng
@@ -184,13 +181,13 @@ main [ἢ False eng
 verb τηδῖη False eng
 # 31 33 32 while ruyxdvyw is rendered adver- Ψ ΏΠ6 τυγχάνω 15 τοηάετεα δάνοτ-
 while Ψ False eng
-ruyxdvyw ΏΠ6 False na
+τυγχάνω ΏΠ6 False na
 is τυγχάνω False eng
 rendered 15 False eng
 adver- τοηάετεα False na
 # 32 36 36 bially,  dy chance,  as it happened, ὈΙΑΠΪγ,  ὅν εἔαρεῦ,  ας 1 ἀαῤῥεοροί,
 bially, ὈΙΑΠΪγ, False na
-dy ὅν False eng
+by ὅν False eng
 chance, εἔαρεῦ, False eng
 as ας False eng
 it 1 False eng
@@ -203,7 +200,7 @@ he ἦδ False eng
 was τυας False eng
 pres- 2765- False na
 # 34 33 34 ent by chance,  he happened to be ἐμέ ὃν εἦαμεῦ,  ἦς ἀαῤῥόηεαῖ 10 δὲ
-ἐμέ ent True form
+ent True form
 by ὃν False eng
 chance, εἦαμεῦ, False eng
 he ἦς False eng
@@ -213,9 +210,9 @@ be δὲ False eng
 # 35 8 9 present, 27 ἐ5εης.
 present, 27 False eng
 # 36 38 42 Truptdaov,  -ov,  Zyriaéum,  a city of . Τπριάειον,  -ουὐ,  7γγίαξιενε,  ἃ ΟἿ οὗἉ
-Truptdaov, . False na
-Τπριάειον, -ov, True pp
-Zyriaéum, -ουὐ, False na
+Τπριάειον,
+-ου -ov, True pp
+Tyriaéum, -ουὐ, False na
 a 7γγίαξιενε, False eng
 city ἃ False eng
 of ΟἿ False eng
@@ -226,7 +223,7 @@ Phrygia. Πότ False na
 τυρός, TUpés, True pp
 -ου -o8 True pp
 [from [ἰτογη False eng
-βούτῦρον, Botvripoy, True pp
+βούτυρον, Botvripoy, True pp
 cow-cheese, εοτυ-εἦδέθε, False na
 # 39 30 33 is bor. Eng. butter],  cheese. 15 ὑ"οτ,  Επρ,  ὈπΓΓΘΙ],  οὐδέβε.
 is 15 False eng
@@ -236,7 +233,7 @@ butter], ὈπΓΓΘΙ], False eng
 cheese. οὐδέβε. False eng
 # 40 39 40 ripots,  -cos,  7 [cogn.,  Lat. turris, τύρσις,  -ἰος,  ἡ [οορῃ.,  [, ἴ.,  Ἐπ 8,
 τύρσις, ripots, True lex
--ἰος, -cos, True pp
+-ιος, -cos, True pp
 ἡ 7 True case
 [cogn., [οορῃ., False na
 Lat. [, False na
@@ -245,26 +242,14 @@ turris, ἴ., False na
 tower], οτυε False eng
 tower, 7, False eng
 turret. ἑοτοῦγ, False eng
-# 42 21 22 TuXElv,  see TUYXAYW. τυχεῖν,  Ξεαε τυγχάνω.
-τυχεῖν, TuXElv, True form
-see Ξεαε False eng
-τυγχάνω. TUYXAYW. True pp
+
 # 43 40 41 tbxn,  -ns [Tuyxdvw],  fortune,  chance. τύχη,  -ης [τυγχάνω],  , ογάφηε,  ἐλαηεε.
 τύχη, tbxn, True lex
--ns -ης False na
+-ης False na
 [τυγχάνω], [Tuyxdvw], True pp
 fortune, , False eng
 chance. ογάφηε, False eng
-# 44 13 13 Ty,  see Tls. τῳ,  566 τὶς.
-τῳ, Ty, True form
-see 566 False eng
-Tls. τὶς. False na
-# 45 6 9 Google (ποορσίςο
-Google (ποορσίςο False na
-# 46 3 3 5°7 507
-5°7 507 False na
-# 47 1 1 Y Υ
-Y Υ False na
+
 # 48 40 40 UBpl{e,  WBp.d,  UBpica,  UBpixa,  tBpr- ὑβρίζω,  ὑβριῶ,  ὕβρισα,  ὕβρικα,  ὕβρι-
 ὑβρίζω, UBpl{e, True pp
 ὑβριῶ, WBp.d, True pp
@@ -278,14 +263,14 @@ Y Υ False na
 be ἐξ False eng
 insolent, ἐριποζερι, False eng
 # 50 28 27 tnsult,  maltreat,  outrage. ἐρστ,  νιαἠγζεαί,  οτέγωρε.
-tnsult, ἐρστ, False na
+ιnsult, ἐρστ, False na
 maltreat, νιαἠγζεαί, False eng
 outrage. οτέγωρε. False eng
 # 51 40 42 UBpts,  -ews,  7,  tnsolence,  violence. ὕβρις,  -εως,  ἡ,  “γδοέδγεες,  υἹοίφριεδ.
 ὕβρις, UBpts, True lex
 -εως, -ews, True pp
 ἡ, 7, True case
-“γδοέδγεες, tnsolence, True pp
+ιnsolence, True pp
 violence. υἹοίφριεδ. False eng
 # 52 39 41 byalve,  iylava [iyiys,  healthy; bor., ὑγιαίνω,  ὑγίᾶνα [ὑγιής,  ἀεξαλάν; Ὅοτ, ,
 ὑγιαίνω, byalve, True pp
@@ -307,10 +292,10 @@ carry “α7, False eng
 water. }) False eng
 # 55 38 35 Udpoddpos,  “ov [vdwp,  pepu,  carry), ὑδροφόρος,  Ὃν [ὕδωρ,  φέρω,  477},
 ὑδροφόρος, Udpoddpos, True pp
-“ov Ὃν False na
+-ον Ὃν False na
 [ὕδωρ, [vdwp, True lex
 φέρω, pepu, True pp
-carry), 477}, False eng
+carry], 477}, False eng
 # 56 30 31 carrying water. Masc. and fem, καγγγηρ τοαΐέγ. Μαβο. δῃὰ ἔεχη.
 carrying καγγγηρ False eng
 water. τοαΐέγ. False eng
@@ -330,7 +315,6 @@ carrier. τυῶ False eng
 Lat. [, False na
 unda, Αἴ. False na
 # 59 34 35 . wave,  Eng. water,  wet,  otter; . τύαυέ,  ἕπρ. Μδῖρσ,  νοΐ,  οζίοτ;
-. . False na
 wave, τύαυέ, False eng
 Eng. ἕπρ. False eng
 water, Μδῖρσ, False eng
@@ -347,29 +331,24 @@ draulic, ἄτδιϊο, False na
 hydrophobia ΒΥ False eng
 ], ἀσοΡ False na
 water; ΒΟ False eng
-viwp ίΔ False na
+ὕδωρ ίΔ False na
 # 62 20 17 €& ovpavod,  rain. . ἐξ οὐρανοῦ,  γα».
 ἐξ €& True form
 οὐρανοῦ, ovpavod, True pp
 rain. γα». False eng
-. NA False na
 # 63 40 44 vAn,  -ns [cogn.,  Lat. silva,  fores?], ὕλη,  -ῆς,  [οορῃ.,  [«ἴ.,  δἰϊνα,  , “γεεῖ,
 ὕλη, vAn, True lex
--ns -ῆς, False na
+-ης, False na
 [cogn., [οορῃ., False na
 Lat. [«ἴ., False na
 silva, δἰϊνα, False eng
-fores?], , False na
+forest], , False na
 # 64 29 32 forest,  wood,  shrub,  bush, , )»γεεί,  τυοοί,  εἀγεό,  ὀτδῆ.
 forest, , False eng
 wood, )»γεεί, False eng
 shrub, τυοοί, False eng
 bush, εἀγεό, False eng
-# 65 22 22 Dpds,  vpets,  see ov. ὑμᾶς,  ὑμεῖς,  566 σύ.
-ὑμᾶς, Dpds, True form
-ὑμεῖς, vpets, True lex
-see 566 False eng
-σύ. ov. True lex
+
 # 66 43 44 Dpérepos,  -d,  -ov [tpeis],  your,  yours. ὑμέτερος,  -α,  -ον [ὑμεῖς],  γον»,  γο1675.
 ὑμέτερος, Dpérepos, True pp
 -α, -d, True pp
@@ -387,7 +366,7 @@ son. 5072. False eng
 # 68 39 45 trdyw [dyw,  lead),  lead under; intr., ὑπάγω [ἄγω,  ἐεαα]],  ἐξααὶ τεγι6107,; Ἰη{1.»
 ὑπάγω trdyw True pp
 [ἄγω, [dyw, True pp
-lead), ἐεαα]], False eng
+lead], ἐεαα]], False eng
 lead ἐξααὶ False eng
 under; τεγι6107,; False eng
 intr., Ἰη{1.» False eng
@@ -403,7 +382,7 @@ lead ἐσαά False eng
 on ορ False eng
 craftily, εγαζέζν, False eng
 induce, ἱπαάμες, False eng
-5τρ- sug- True half1g
+ug- True half1g
 # 71 14 14 gest craftily. δεεέ οζαζέε, .
 gest δεεέ False eng
 craftily. οζαζέε, False eng
@@ -416,7 +395,7 @@ re- 5166], False na
 # 73 37 41 sponsible,  accountable; tralridy Tt, “)ογριδίδέφ,  ἀεζομημζαῤέο,  ὑπαίτιόν τι,
 sponsible, “)ογριδίδέφ, False eng
 accountable; ἀεζομημζαῤέο, False eng
-tralridy ὑπαίτιόν False na
+ὑπαίτιόν False na
 τι, Tt, True form
 # 74 37 38 a thing to be accounted for,  a cause α ἐλίηρ το ὧξ πεεοϑρίξαὶ 707,  ἃ “ατδὲ
 a α False eng
@@ -435,7 +414,7 @@ blame. »» False eng
 [ἀκούω, [dxotw, True pp
 hear], ἀεα7], False eng
 hear ἀεα7 False eng
-εμδ᾽115- submis- True half1g
+submis- True half1g
 # 77 30 29 sively,  listen to,  with gen. εἵνεῖν,  ἐϊοίερε 10,  ἸῊ σαη.
 sively, εἵνεῖν, False na
 listen ἐϊοίερε False eng
@@ -446,11 +425,10 @@ gen. σαη. False eng
 ὑπαναχωρέω travaxwplw True pp
 [ἀναχωρέω, [drvaxwpéw, True pp
 retire], γε71741, False eng
-γέ- re- True half1g
+re- True half1g
 # 79 14 14 tire slowly. | Ζ1γ6 εἰοτυῖν..
 tire Ζ1γ6 False eng
 slowly. εἰοτυῖν.. False eng
-| NA False na
 # 80 36 37 travrde [dvrdw,  meet],  go to meet. ὑπαντάω [ἀντάω,  »:ἐε],  ρῸ ἐο τιφεί.
 ὑπαντάω travrde True pp
 [ἀντάω, [dvrdw, True pp
@@ -463,7 +441,7 @@ meet. τιφεί. False eng
 -ου -ov True pp
 [ἄρχω, [dpxw, True pp
 rule], γηέε], False eng
-τ4714127- under- True half1g
+under- True half1g
 # 82 37 39 officer,  lieutenant; lieutenant gov- ΟἹ εθγ,  ἐϊειρίογιαγέ,  ἐϊοτίεηαρέ ροῦ-
 officer, ΟἹ False eng
 lieutenant; εθγ, False eng
@@ -486,7 +464,7 @@ lead, ἐεαα, False eng
 with ΜΠ False eng
 supplementary ΒυρρΙτηεηΐαγυ False eng
 ptc.; Ρῥῖς.; False na
-δέ d¢ True lex
+be d¢ True lex
 # 86 38 38 at the beginning,  be at hand,  extst; αὐ 1ἤ δεορίγιγγρ,  ὧέ αὐ λαρα,  ἐχτοί»
 at αὐ False eng
 the 1ἤ False eng
@@ -494,7 +472,7 @@ beginning, δεορίγιγγρ, False eng
 be ὧέ False eng
 at αὐ False eng
 hand, λαρα, False eng
-extst; ἐχτοί» False na
+exist; ἐχτοί» False na
 # 87 38 37 be devoted to,  favor,  support,  with ὁὲ ἐἰρυοίξα 10,  γανον,  σεῤῥογέ,  ΜῈ
 be ὁὲ False eng
 devoted ἐἰρυοίξα False eng

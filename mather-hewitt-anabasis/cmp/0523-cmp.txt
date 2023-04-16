@@ -1,0 +1,505 @@
+
+# 1 38 39 téAn,  -ns [bor.,  Eng. phial,  vial], φιάλη,  -ης [Ὀοτ.,  Επρ. Ῥδίάϊ,  γ]41],
+φιάλη, téAn, True lex
+-ης False na
+[bor., [Ὀοτ., False eng
+Eng. Επρ. False eng
+phial, Ῥδίάϊ, False eng
+vial], γ]41], False eng
+# 2 38 41 cup,  resembling a large saucer,  hav- ἐπε,  τοϑετ Ὀ] ]ηρ᾽ ἃ ἰαῖρε βδυσθγ,  ἢᾶν-
+cup, ἐπε, False eng
+resembling τοϑετ False eng
+a Ὀ] False eng
+large ]ηρ᾽ False eng
+saucer, ἃ False eng
+hav- ἰαῖρε False na
+# 3 33 33 ing no handles or base,  used for ἱῃρ πὸ Βδηῃά]εβ οὐ 856,  υϑ64 ἴοῦ
+ing ἱῃρ False eng
+no πὸ False eng
+handles Βδηῃά]εβ False eng
+or οὐ False eng
+base, 856, False eng
+used υϑ64 False eng
+for ἴοῦ False eng
+# 4 34 35 drinking and esp. for libations to ἀπ κΚὶηρ δηα 6βρ. ἔογ ᾿ἰραϊίοηθ. ἴο
+drinking ἀπ False eng
+and κΚὶηρ False eng
+esp. δηα False eng
+for 6βρ. False eng
+libations ἔογ False eng
+to ᾿ἰραϊίοηθ. False eng
+# 5 31 34 the gods. See Fig. 73,  p. 219. {πὸ ροάβ8.,  866 ΕἸρ. 73,  Ρ. 219.
+the {πὸ False eng
+gods. ροάβ8., False eng
+See 866 False na
+Fig. ΕἸρ. False na
+73, 73, False na
+p. Ρ. False eng
+219. 219. False na
+
+# 7 38 37 drrée,  girjow,  Epirnoa,  weplrAnuat, φιλέω,  φιλήσω,  ἐφίλησα,  πεφίλημαι,
+φιλέω, drrée, True pp
+φιλήσω, girjow, True pp
+ἐφίλησα, Epirnoa, True pp
+πεφίλημαι, weplrAnuat, True pp
+# 8 26 23 EptrAHOnv [Plros ],  love. ἐφιλήθην [φίλος],  ουε.
+ἐφιλήθην EptrAHOnv True pp
+[φίλος], [Plros True pp
+], ουε. False na
+love. NA False eng
+# 9 40 38 Pirtiovos,  -ov,  Philesius,  of Achaea, Φιλήσιος,  -ου,   λήλεῖπς,  οἵ Αοἤδθβ,
+Φιλήσιος, Pirtiovos, True pp
+-ου, -ov, True pp
+Philesius, λήλεῖπς, False na
+of οἵ False eng
+Achaea, Αοἤδθβ, False na
+# 10 30 31 elected a general in the Greek εἰεοῖϊεα 4 ρεέῆειὶ ἴῃ [86 Οτεεκ
+elected εἰεοῖϊεα False eng
+a 4 False eng
+general ρεέῆειὶ False eng
+in ἴῃ False eng
+the [86 False eng
+Greek Οτεεκ False na
+# 11 5 6 army. ΔΥΤΩΥ.
+army. ΔΥΤΩΥ. False eng
+# 12 39 42 Ala,  -ας [fem. of Piros],  friendship. φιλία,  -ας [ἔεπι. οὗ φίλιος],  2 1εγαἰλτ.
+φιλία, Ala, True lex
+-ας -ας False na
+[fem. [ἔεπι. False eng
+of οὗ False eng
+φίλιος], Piros], True pp
+friendship. 2 False eng
+# 13 40 38 grrtxds,  -4,  -dy [pldos],  defitting a φιλικός,  -ή,  -όν [φίλος],  ὀομί»ρ᾽ ἃ
+φιλικός, grrtxds, True pp
+-ή, -4, True pp
+-όν -dy True pp
+[φίλος], [pldos], True pp
+befitting ὀομί»ρ᾽ False na
+a ἃ False eng
+# 14 18 20 friend,  friendly. , ρΊορα,  γε Ἰοηαίν.
+friend, , False eng
+friendly. ρΊορα, False eng
+# 15 40 41 puruads [pirixds],  adv.,  2z a friendly φιλικῶς [φιλικός],  δᾶν, ,  ἐκ ὦ 7γγϊεηαν
+φιλικῶς puruads True form
+[φιλικός], [pirixds], True pp
+adv., δᾶν, False eng
+in , False na
+a ἐκ False eng
+friendly ὦ False eng
+# 16 31 35 way; girikds StaxetcOar,  be on “ὐαγ7,; φιλικῶς διακεῖσθαι,  δέ ο᾽:
+way; “ὐαγ7,; False eng
+φιλικῶς girikds True form
+διακεῖσθαι, StaxetcOar, True form
+be δέ False eng
+on ο᾽: False eng
+# 17 31 35 friendly terms with,  with dat. 721 ορπ αν ἐεγηνες τοὶ ἐλ,  ν ἢ δῖ,
+friendly 721 False eng
+terms ορπ False eng
+with, αν False eng
+with ἐεγηνες False eng
+dat. τοὶ False eng
+# 18 39 43 dos,  -d, -ov[Piros],  friendly. Fem. | φίλιος,  -α,  -ον [φίλος],  “1εναν. Ἑετα. ἢ
+φίλιος, False eng
+-α, -d, True pp
+-ον -ov[Piros], True pp
+friendly. [φίλος], False eng
+Fem. “1εναν. False na
+# 19 29 33 as subst.,  frzendly country. 85 50 8ϊῖ.,  1 ἐραἷζν εο1ε;}7, }.
+as 85 False eng
+subst., 50 False eng
+friendly 8ϊῖ., False na
+country. 1 False eng
+# 20 39 36 bQXumrmos,  -ov [dldos,  ixmos,  horse, φίλιππος,  -ον [φίλος,  ἵππος,  λογ,
+φίλιππος, bQXumrmos, True pp
+-ον -ov True pp
+[φίλος, [dldos, True pp
+ἵππος, ixmos, True pp
+horse, λογ, False eng
+# 21 37 34 bor.,  Eng. Philip],  fond of horses. Ὀοτ.,  Εηρ. ῬΕΣ1Ρ),  μη οΥ ἀογεές,
+bor., Ὀοτ., False eng
+Eng. Εηρ. False eng
+Philip], ῬΕΣ1Ρ), False na
+fond μη False eng
+of οΥ False eng
+horses. ἀογεές, False eng
+# 22 39 40 Hr46Onpos,  -ov [plrosy Opa,  hunting’, φιλόθηρος,  -ον [φίλος θήρᾶ,  ἀμεγιϊγιρ,
+φιλόθηρος, Hr46Onpos, True pp
+-ον -ov True pp
+[φίλος [plrosy True pp
+θήρα, False na
+hunting], ἀμεγιϊγιρ, False na
+# 23 16 21 Jond of hunting. , ρ»κπαὶ οἵ δτερελγρ.
+fond , False na
+of ρ»κπαὶ False eng
+hunting. οἵ False eng
+# 24 41 37 drroKepSéw [ pidoxepdrjs (xépdos,  gain), φιλοκερδέω [φιλοκερδής (κέρδος,  ρα),
+φιλοκερδέω drroKepSéw True pp
+[φιλοκερδής [ True lex
+(κέρδος, pidoxepdrjs True pp
+gain), NA False eng
+# 25 34 35 fond of gain),  be eager for gain. , ρ»πά ογραΐη),  δὲ ξαρθῦ 707 ξαῖ».
+fond , False eng
+of ρ»πά False eng
+gain), ογραΐη), False eng
+be δὲ False eng
+eager ξαρθῦ False eng
+for 707 False eng
+gain. ξαῖ». False eng
+# 26 44 46 drroKlvbivos,  -o» [ pidos,  xivdivos,  dan- φιλοκίνδῦνος,  -ον [ φίλος,  κίνδῦνος,  αα71:-
+φιλοκίνδυνος, drroKlvbivos, True pp
+-ον -o» True pp
+[ [ False na
+φίλος, pidos, True pp
+κίνδυνος, xivdivos, True pp
+dan- True half1g
+# 27 36 40 ger],  fond of danger,  venturesome. 547},  “πα οΥ ἀαηρ67,  σδγι{147 6507716.
+ger], 547}, False eng
+fond “πα False eng
+of οΥ False eng
+danger, ἀαηρ67, False eng
+venturesome. σδγι{147 False eng
+# 28 41 41 drropalh,  -és [Pliros,  pavOdvw,  learn; φιλομαθής,  -ές [φίλος,  μανθάνω,  ἐφαγ»,
+φιλομαθής, drropalh, True lex
+-ές -és True pp
+[φίλος, [Pliros, True pp
+μανθάνω, pavOdvw, True pp
+learn; ἐφαγ», False eng
+# 29 31 29 bor.,  Eng. philomath],  ond of Ῥογ.,  Εῃρ. ῬΒΠοδί ἢ},  μη οὗ
+bor., Ῥογ., False eng
+Eng. Εῃρ. False eng
+philomath], ῬΒΠοδί False eng
+fond ἢ}, False na
+of μη False eng
+# 30 26 28 learning,  eager to learn. ἐεαγμΐριρ,  ξαρεγ 10 ἐδα7}1.
+learning, ἐεαγμΐριρ, False eng
+eager ξαρεγ False eng
+to 10 False eng
+learn. ἐδα7}1. False eng
+# 31 40 40 drrtovixla,  -ds [piddvixos (vixn,  vic- φιλονϊκία,  -ας [φιλόνϊῖκος (νίκη,  υἱε-
+φιλονικία, False na
+-ας False na
+[φιλόνικος [piddvixos True pp
+(νίκη, (vixn, True lex
+vic- True half1g
+# 32 40 42 tory),  fond of victory},  eagerness for 207}). , οπα] ογυϊείονγ },  δα ρ γηδ55 707
+tory), 207}). False eng
+fond , False eng
+of οπα] False eng
+victory], ογυϊείονγ False na
+eagerness }, False eng
+for δα False eng
+# 33 18 16 victory,  rivalry, νον»,  γῖνα ἐν}.
+victory, νον», False eng
+rivalry, γῖνα False eng
+# 34 25 25 grroméAepos,  -ov [dldos, φιλοπόλεμος,  -ον [φίλος,
+φιλοπόλεμος, grroméAepos, True pp
+-ον -ov True pp
+[φίλος, [dldos, True pp
+# 45 8 8 wdXELOs, πόλεμος,
+πόλεμος, wdXELOs, True pp
+
+# 35 19 26 war],  fond of war. τυ47],  , )ο»ια] ο7 τυαν΄.
+war], τυ47], False eng
+fond , False eng
+of )ο»ια] False eng
+war. ο7 False eng
+# 36 40 43 Qos,  -η,  -ov,  comp. gtAalrepos [bor., φίλος,  -ή,  -ον,  ςοπΊΡ. φιλαίτερος [Ὀοτ.»
+φίλος, Qos, True pp
+-η, True pp
+-ον, -ov, True pp
+comp. ςοπΊΡ. False eng
+φιλαίτερος gtAalrepos True pp
+[bor., [Ὀοτ.» False eng
+# 37 36 35 Eng. philanthropy,  philately,  phi- Ἑπῃρ. ΡΒ1ΠΔΠΙΒΤΟΡΥ,  ΡΣ] ἴον,  Ρμ]-
+Eng. Ἑπῃρ. False eng
+philanthropy, ΡΒ1ΠΔΠΙΒΤΟΡΥ, False eng
+philately, ΡΣ] False eng
+phi- True pp
+# 38 41 36 lology ],  friendly,  devoted,  attached, ἸΟΙΟσΥ],  “1 ραν,  ἀρυοίοο,  αὐαςλφ,
+lology ἸΟΙΟσΥ], False na
+], “1 False na
+friendly, ραν, False eng
+devoted, ἀρυοίοο, False eng
+attached, αὐαςλφ, False eng
+# 39 36 32 with dat. Masc. as subst.,  frzevzd, ἢ ἀαι. Μᾶβο. 85 βυῦβῖ.,  2΄2εμω,
+with ἢ False eng
+dat. ἀαι. False eng
+Masc. Μᾶβο. False na
+as 85 False eng
+subst., βυῦβῖ., False eng
+friend, frzevzd, True pp
+# 40 9 12 adherent. ααἶλεγ 6711.
+adherent. ααἶλεγ False eng
+# 41 42 41 dirSaogo0s [Pldos,  codpéds,  wise,  bor., φιλόσοφος [φίλος,  σοφός,  τυΐξε,  Ὀοτ, ,
+φιλόσοφος dirSaogo0s True pp
+[φίλος, [Pldos, True pp
+σοφός, codpéds, True pp
+wise, τυΐξε, False eng
+bor., Ὀοτ, False eng
+# 42 32 33 Eng. philosopher],  over of wis- Εῃρ. ῬΕΙΟΒΟΡΒΘΙ],  ρυεγ ΟΥ̓ τυΐς-
+Eng. Εῃρ. False eng
+philosopher], ῬΕΙΟΒΟΡΒΘΙ], False eng
+lover ρυεγ False eng
+of ΟΥ̓ False eng
+wis- True half1g
+# 43 18 17 dom,  philosopher. ονι,  ῥλϊἑοεοῤλέ.
+dom, ονι, False eng
+philosopher. ῥλϊἑοεοῤλέ. False eng
+# 44 37 38 proripiopar,  Pidoriujoouar,  meptdo- φιλοτίμέομαι,  φιλοτίμήσομαι,  πεφιλο-
+φιλοτιμέομαι, proripiopar, True pp
+φιλοτιμήσομαι, Pidoriujoouar, True pp
+πεφιλο- meptdo- True half1g
+
+
+
+
+
+τίμημαι, Tlunuat, True pp
+ἐφιλοτὶμήθην edirorinnOny True pp
+[φιλότιμος [pidAbriuos True pp
+# 49 37 38 (riuy,  honor),  loving honor],  love (τιμή,  ἀομο7.),  ἑουΐηρ ἀομογ],  ἠοτέ
+(τιμή, (riuy, True lex
+honor), ἀομο7.), False eng
+loving ἑουΐηρ False eng
+honor], ἀομογ], False eng
+love ἠοτέ False eng
+# 50 40 41 honor,  be ambitious,  be jealous,  feel ἦομοῦ,  ὁφ αγεοϊξίοιδ,  δ 7εαίοτές,  γεεἶ
+honor, ἦομοῦ, False eng
+be ὁφ False eng
+ambitious, αγεοϊξίοιδ, False eng
+be δ False eng
+jealous, 7εαίοτές, False eng
+feel γεεἶ False eng
+# 51 7 7 piqued. 2ϊ1φεε.
+piqued. 2ϊ1φεε. False eng
+# 52 34 35 drodpovdopar,  épidompornoduny and φιλοφρονέομαι,  ἐφιλοφρονησάμην δπᾶ
+φιλοφρονέομαι, drodpovdopar, True pp
+ἐφιλοφρονησάμην épidompornoduny True pp
+and δπᾶ False eng
+# 53 30 30 EpiroppovhOny [pirdppwv (dpyy, ἐφιλοφρονήθην [φιλόφρων (φρήν,
+ἐφιλοφρονήθην EpiroppovhOny True pp
+[φιλόφρων [pirdppwv True pp
+(φρήν, (dpyy, True lex
+# 54 31 30 mind),  kindly disposed),  feel ρα),  ἀϊμαδν αἰϊεῥοσεα ,  , εε
+mind), ρα), False eng
+kindly ἀϊμαδν False eng
+disposed], αἰϊεῥοσεα False eng
+feel , False eng
+# 55 33 35 jriendly,  be in a friendly mood; "η|τμαδν»,  ό ἐπ ἃ , ϊοερμαν »ιοοά;
+friendly, "η|τμαδν», False na
+be ό False eng
+in ἐπ False eng
+a ἃ False eng
+friendly , False eng
+mood; ϊοερμαν False eng
+# 56 28 25 with acc.,  greet cordially, ἢ δος.,  ργεεζ εογ αὐ έν.
+with ἢ False eng
+acc., δος., False eng
+greet ργεεζ False eng
+cordially, εογ False eng
+# 57 36 33 prAvapiwo,  Prvapjow [cp. Pdrvapla], φλνδρέω,  φλυᾶρήσω [ςΡ. φλυαρία],
+φλυαρέω, prAvapiwo, True pp
+φλυαρήσω Prvapjow True pp
+[cp. [ςΡ. False eng
+φλυαρία], Pdrvapla], True lex
+# 58 14 14 talk nonsense. ζα δ πορδο156.
+talk ζα False eng
+nonsense. δ False eng
+# 59 43 42 pdrva pla,  -ας [cp. prvapéw],  silly talk, φλναρίᾶ,  -ας [ςΡ. φλυδρέω],  εἱδέἔν ἑαδξ,
+φλναρία, False na
+-ας [ςΡ. False na
+[cp. φλυαρέω], False eng
+silly ἑαδξ, False eng
+talk, NA False eng
+# 60 38 51 nonsense; pl.,  senseless suggestions. 710715 6 7156 , ,  ΤΪ.,  5671:56:255 δι ρρΈ5710715.
+nonsense; 710715 False eng
+pl., 6 False eng
+senseless 7156 False eng
+suggestions. , False eng
+# 61 37 40 hoPepds,  -4,  -dy [Gb8os],  fearful, φοβερός,  -ά,  -όν [φόβος),  Μμεαγγχιεὶ,
+φοβερός, hoPepds, True pp
+-ά, -4, True pp
+-όν -dy True pp
+[φόβος], [Gb8os], True pp
+fearful, Μμεαγγχιεὶ, False eng
+# 62 20 22 dreadful,  alarming. “γεαυύ χε,  αἰαγηεῖτρ.
+dreadful, “γεαυύ False eng
+alarming. χε, False eng
+# 63 32 33 oPiv,  gohtow,  epsnoa [gé6fos], φοβέω,  φοβήσω,  ἐφόβησα [φόβο:],
+φοβέω, oPiv, True pp
+φοβήσω, gohtow, True pp
+ἐφόβησα epsnoa True pp
+[φόβος], False na
+# 64 25 27 Jrighten,  frighten away. , 2η1ρλέρρ,  , ιρλέοη ατυα.
+frighten, , False na
+frighten 2η1ρλέρρ, False eng
+away. , False eng
+# 65 32 32 Pass. deponent goBéouat,  pofBh- Ῥαββ. ἀδροηξδηΐ φοβέομαι,  φοβή-
+Pass. Ῥαββ. False na
+deponent ἀδροηξδηΐ False eng
+φοβέομαι, goBéouat, True pp
+φοβή- pofBh- True half1g
+# 66 41 40 gouat,  wepdPnuat,  EpoBHOn»y,  fear,  be σομαι,  πεφόβημαι,  ἐφοβήθην,  γεα7,  ὁέ
+σομαι, gouat, True pp
+πεφόβημαι, wepdPnuat, True pp
+ἐφοβήθην, EpoBHOn»y, True pp
+fear, γεα7, False eng
+be ὁέ False eng
+# 67 40 32 afraid,  abs.,  with acc.,  with «7,  or αγγαϊα,  αὖ5.,  ἢ δος.,  μή,  οΥ
+afraid, αγγαϊα, False eng
+abs., αὖ5., False eng
+with ἢ False eng
+acc., δος., False eng
+with μή, False eng
+μή, οΥ False na
+or NA False eng
+# 68 9 7 with inf. ψ ἢ 1η.
+with ψ False eng
+inf. ἢ False eng
+# 69 37 39 éBos,  -ov [bor.,  Eng. hydrophobia], φόβος,  -ου [ὍὈοτ.,  Εηρ. ὨγαΙΟΡΒΟΙΔ41,
+φόβος, éBos, True pp
+-ου -ov True pp
+[bor., [ὍὈοτ., False eng
+Eng. Εηρ. False eng
+hydrophobia], ὨγαΙΟΡΒΟΙΔ41, False eng
+# 70 39 38 _ fear,  terror,  panic; pl.,  threats, αν,  {2γ77γ0»γ,  δαρῖς,  Ρ].,  Ζάγεαξ,
+fear, {2γ77γ0»γ, False eng
+terror, δαρῖς, False eng
+panic; Ρ]., False eng
+pl., Ζάγεαξ, False eng
+threats, NA False eng
+# 71 8 7 183,  I. 183, 1.
+183, 183, False na
+1. False na
+# 72 35 35 Powtky,  -ns [gpotmét,  palm] (Palm Φοινέκη,  -ης [φοῖνιξ,  2»: (δα ύρε
+Φοινίκη, False na
+-ns -ης False na
+[φοῖνιξ, [gpotmét, True lex
+palm] 2»: False eng
+(Palm (δα False na
+# 73 34 32 land),  Phoenicia,  the name given ἰα»α),  λοφρῖεῖα,  [6 πᾶτης γίνῃ
+land), ἰα»α), False eng
+Phoenicia, True pp
+the [6 False eng
+name πᾶτης False eng
+given γίνῃ False eng
+# 74 36 39 by the Greeks to the central portion ὈγΥ ἴῃς ατγεεκβ ἴο ἴῃς σεπίγδὶ ροσγίϊοῃ
+by ὈγΥ False eng
+the ἴῃς False eng
+Greeks ατγεεκβ False na
+to ἴο False eng
+the ἴῃς False eng
+central σεπίγδὶ False eng
+portion ροσγίϊοῃ False eng
+# 75 36 35 of the Syrian coast country contain- οὔ [ῃ6 ϑυτίδῃ οοδβῖ σου ΓΥ σοπίδιη-
+of οὔ False eng
+the [ῃ6 False eng
+Syrian ϑυτίδῃ False na
+coast οοδβῖ False eng
+country σου False eng
+contain- ΓΥ False na
+# 76 19 20 ing Tyre and Sidon. ἴηρ Τγτε δπῃὰ δίάοῃ.
+ing ἴηρ False eng
+Tyre Τγτε False na
+and δπῃὰ False eng
+Sidon. δίάοῃ. False na
+# 77 33 35 howikirrhs,  -o8 [cp. goevixods], φοινϊκιστής,  -οὗ [ςρΡ. φοινϊκοῦς],
+φοινϊκιστής, False na
+-οῦ False na
+[cp. [ςρΡ. False eng
+φοινικοῦς], False na
+# 78 33 36 wearer of the purple (or crimson, τὐθα7 67 ΟΥὙ 16 2ιεγδίο (οὐ εῖριδο),
+wearer τὐθα7 False eng
+of 67 False eng
+the ΟΥὙ False eng
+purple 16 False eng
+(or 2ιεγδίο False eng
+crimson, (οὐ False eng
+# 79 35 35 see gowvixods),  a Persian noble of 566 φοινικοῦς),  ἃ Ῥεγδῖδῃ 000]. οὗ
+see 566 False eng
+φοινικοῦς), gowvixods), True form
+a ἃ False eng
+Persian Ῥεγδῖδῃ False na
+noble 000]. False eng
+of οὗ False eng
+# 80 32 35 high rank. Some authorities take ΒΙΡῊ ταῦκ. ϑοῖμε διυίῃουι165. ἴδ]κα
+high ΒΙΡῊ False eng
+rank. ταῦκ. False eng
+Some ϑοῖμε False na
+authorities διυίῃουι165. False eng
+take ἴδ]κα False eng
+# 81 41 33 it for purple dyer,  an officer in charge ἰοῦ 2 γέ ἄγε,  τὶ οἴποου ἴῃ μαῦρα
+it ἰοῦ False eng
+for 2 False eng
+purple γέ False eng
+dyer, ἄγε, False eng
+an τὶ False eng
+officer οἴποου False eng
+in ἴῃ False eng
+charge μαῦρα False eng
+# 82 33 32 of the royal purple fisheries and οὗ τῃς τογὰὶ ρυγρὶς ββηεγίεβ δπὰ
+of οὗ False eng
+the τῃς False eng
+royal τογὰὶ False eng
+purple ρυγρὶς False eng
+fisheries ββηεγίεβ False eng
+and δπὰ False eng
+# 83 10 10 dyehouses. ἀγεῃουβ65.
+dyehouses. ἀγεῃουβ65. False na
+# 84 38 39 dowvixots,  -η,  -oy,  contracted from φοινϊκοῦς,  -ἢ,  -οῦν,  σοηϊταοῖε ἰγοτὴ
+φοινικοῦς, False na
+-ῆ, False na
+-οῦν, False na
+contracted σοηϊταοῖε False eng
+from ἰγοτὴ False eng
+# 85 38 41 gpouvixeos,  -f,  -ov [Potmt,  Phoent- φοινίκεος,  -ά,  -ον [ Φοῖνιξ,  }λοο»γιῖ-
+φοινίκεος, gpouvixeos, True pp
+-α, -f, True pp
+-ον -ov True pp
+[Φοῖνιξ, 
+Phoeni- True lex
+# 86 37 37 ctan ],  purple,  or rather dark red, εἴα)1},  φιεγῥίε,  οὐ ταῖμεσ οαγά γε,
+cian εἴα)1}, False na
+], φιεγῥίε, False na
+purple, οὐ False eng
+or ταῖμεσ False eng
+rather οαγά False eng
+dark γε, False eng
+red, NA False eng
+# 87 35 38 crimson. The discovery of the color εγίνιδσομ. ὙΤὨΕ ἀϊβοονοῦυ οὔ ἴΠῈ ΘΟ]οῦ
+crimson. εγίνιδσομ. False eng
+The ὙΤὨΕ False na
+discovery ἀϊβοονοῦυ False eng
+of οὔ False eng
+the ἴΠῈ False eng
+color ΘΟ]οῦ False eng
+# 88 28 28 was ascribed to Phoenicians, νγὰ5 βου δεῖ ἴο ῬΠΟΕΠΙΟΙΔΠ8.
+was νγὰ5 False eng
+ascribed βου False eng
+to δεῖ False eng
+Phoenicians, ἴο False na
+# 89 42 47 doiuk,  -txos,  0,  dale palm,  palm tree; φοῖνιξ,  -ἴκος,  ὁ,  «αἰό  αΐνι,  δα ἐτὲ ζγ δε,
+φοῖνιξ, doiuk, True lex
+-ικος, -txos, True pp
+ὁ, 0, True lex
+date «αἰό False eng
+palm, αΐνι, False eng
+palm δα False eng
+tree; ἐτὲ False eng
+# 90 35 37 olvos povikwv,  palm wine,  made of οἶνος φοινίκων,  ῥαδνι τοῦϑθ,  ταὶ οὗ
+οἶνος olvos True pp
+φοινίκων, povikwv, True pp
+palm ῥαδνι False eng
+wine, τοῦϑθ, False eng
+made ταὶ False eng
+of οὗ False eng
+# 91 37 37 the sap of the tree; a drink was also [86 5880 οὔ [Πε ἴγβϑ; ἃ ἀπηκ ννᾶ5 450
+the [86 False eng
+sap 5880 False eng
+of οὔ False eng
+the [Πε False eng
+tree; ἴγβϑ; False eng
+a ἃ False eng
+drink ἀπηκ False eng
+was ννᾶ5 False eng
+also 450 False eng

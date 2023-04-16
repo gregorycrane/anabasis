@@ -1,0 +1,147 @@
+# 0 22 23 THE UNIVERSITY LIBRARY ΤΗΕ ὑΝΙΝΕΚΘΙΤΥῪ ΕΙΒΚΑΒῪ
+THE ΤΗΕ False na
+UNIVERSITY ὑΝΙΝΕΚΘΙΤΥῪ False na
+LIBRARY ΕΙΒΚΑΒῪ False na
+# 1 37 37 UNIVERSITY OF CALIFORNIA,  SANTA CRUZ υΝΙΝΕΚΘΙΤΥ ΟΡ ΓΑΙΙΡΟΕΝΙΑ,  ΘΑΝΤΑ ΤμυΖ
+UNIVERSITY υΝΙΝΕΚΘΙΤΥ False na
+OF ΟΡ False na
+CALIFORNIA, ΓΑΙΙΡΟΕΝΙΑ, False na
+SANTA ΘΑΝΤΑ False na
+CRUZ ΤμυΖ False na
+# 2 2 2 x, Ὰ,
+x, Ὰ, False eng
+# 3 1 16 a ἐπυσανπτα τι". Δ
+a ἐπυσανπτα False eng
+# 4 48 51 This book is due on the last DATE stamped below. ΤΗΙς ὈοοΚ ἰ5ς ἄυδ οη [μ8 ἰαεὶ ΘΑΤΕ «ἰαπιροα Ροίονν.
+This ΤΗΙς False na
+book ὈοοΚ False eng
+is ἰ5ς False eng
+due ἄυδ False eng
+on οη False eng
+the [μ8 False eng
+last ἰαεὶ False eng
+DATE ΘΑΤΕ False na
+stamped «ἰαπιροα False eng
+below. Ροίονν. False eng
+# 5 33 35 To renew by phone,  call 429-2756 Το γθπϑνν Ὁγ ρῆοποϑ,  ςαἱ! 429.2756
+To Το False na
+renew γθπϑνν False eng
+by Ὁγ False eng
+phone, ρῆοποϑ, False eng
+call ςαἱ! False eng
+429-2756 429.2756 False na
+# 6 46 49 Books not returned or renewed within 14 days . Βοος: ποῖ γοίυγηθα οἵ γϑπϑυνϑα υνΠἰπ 14 ἐαγϑς ἣν:
+Βοος: Books True pp
+not ποῖ False eng
+returned γοίυγηθα False eng
+or οἵ False eng
+renewed γϑπϑυνϑα False eng
+within υνΠἰπ False eng
+14 14 False na
+days ἐαγϑς False eng
+ἣν: . True form
+# 7 40 35 after due date are subject to billing. : αἴον ὅυθ ἀαἴθ αγϑ ευδήος! ἰο ΗΠ πο.
+after αἴον False eng
+due ὅυθ False eng
+date ἀαἴθ False eng
+are αγϑ False eng
+subject ευδήος! False eng
+to ἰο False eng
+billing. ΗΠ False eng
+: πο. False na
+# 8 2 4 nw ς ο.
+nw ς False na
+# 9 1 1 < “
+< “ False na
+# 10 1 2 i ᾿-
+i ᾿- False eng
+# 11 1 3 ~ -ο᾿
+~ -ο᾿ False na
+# 12 2 1 Ld Ρ
+Ld Ρ False na
+# 13 5 8 ted ‘ ν 47 0 ψ
+ted ν False eng
+‘ 47 False na
+# 14 18 14 bat? fe Dobe feet; ἐλ ἘΠ Ὁ τ ἐπε;
+bat? ἐλ False na
+fe ἘΠ False eng
+Dobe Ὁ False na
+feet; τ False eng
+# 15 3 4 t “ γ᾿ Ἄ
+t γ᾿ False eng
+“ Ἄ False na
+# 16 1 1 » ᾿
+» ᾿ False na
+# 17 1 1 b »
+b » False eng
+# 18 1 1 - δ
+- δ False na
+# 19 12 14 FEB 0 4 1997 ΕΕΒ 0 4 1997 :
+FEB ΕΕΒ False na
+0 0 False na
+4 4 False na
+1997 1997 False na
+# 20 4 4 : to ὶ ες
+: ὶ False na
+to ες False eng
+# 21 17 19 FEB 18 1997 pre : ΓΕΒ 18 1567 γΓρ' ο'
+FEB ΓΕΒ False na
+18 18 False na
+1997 1567 False na
+pre γΓρ' False eng
+: ο' False na
+# 22 15 11 8 Wat wor i - p 8 ῳ΄- ἰ [ Ι
+8 8 False na
+Wat ῳ΄- False na
+wor ἰ False na
+i [ False eng
+- Ι False na
+p NA False eng
+# 23 1 1 : .
+: . False na
+# 24 1 1 % Ὁ
+% Ὁ False na
+# 25 1 1 K κ
+K κ False na
+# 26 1 1 S 5
+S 5 False na
+# 27 2 2 4, .,
+4, ., False na
+# 28 1 1 , ε
+, ε False na
+# 29 2 1 he "
+he " False eng
+# 30 12 15 mo a 2 4 wen ες τυ ᾿ ἣ Ὡνιοο
+mo ες False eng
+a τυ False eng
+2 ᾿ False na
+ἣ 4 True form
+wen Ὡνιοο False eng
+# 31 12 11 Ba - nd ae > τι Ε ΞΔ Ὁ Σ
+τι Ba True form
+- Ε False na
+nd ΞΔ False eng
+ae Ὁ False eng
+> Σ False na
+# 32 9 14 oe ee = O Ὅ σφιν ον Ἷ Σὰ
+oe Ὅ False eng
+ee σφιν False eng
+ον = True pp
+O Ἷ False na
+# 33 11 10 ,  “4 4 Nit ' Ἴχι 4 γς
+, ' False na
+“4 Ἴχι False na
+4 4 False na
+Nit γς False na
+# 34 10 12 Go ge  " : ο οἷς νι ἢ :
+Go ο False na
+ge οἷς False eng
+" νι False na
+ἢ : True lem
+# 35 3 4 a = “᾿ Ν
+a “᾿ False eng
+= Ν False na
+# 36 2 2 <2 τς
+<2 τς False na
+# 37 1 2 A το
+A το False na

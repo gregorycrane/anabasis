@@ -1,0 +1,84 @@
+# 0 1 2 = Ξε
+= Ξε False na
+# 1 2 3 Se Ξπ-
+Se Ξπ- False na
+# 2 1 6 = [ΞΞΞῚῸ
+= [ΞΞΞῚῸ False na
+# 3 10 10 < -NMOEMIT ὲ ἹΜΠΠΜΜΜ1
+< ὲ False na
+-NMOEMIT ἹΜΠΠΜΜΜ1 False na
+# 4 15 19 4 3 2106 wee 78 : ς 2 3 2106 ὐνὰ 78
+4 : False na
+3 ς False na
+2106 2 False na
+wee 3 False eng
+78 2106 False na
+# 5 4 3 ny a Ὰ “
+ny Ὰ False eng
+a “ False eng
+# 6 5 5 w & y δ “ 2
+w δ False eng
+& “ False na
+y 2 False eng
+# 7 6 5 v 2. & δ Φ “
+v δ False eng
+2. Φ False na
+& “ False na
+# 8 10 8 sy of,  47 Ἃν ὰ , »
+sy Ἃν False na
+of, ὰ False eng
+47 , False na
+# 9 7 7 ow Cc 4 «Νὰ . “
+ow «Νὰ False eng
+Cc . False na
+4 “ False na
+# 10 1 3 a τας
+a τας False eng
+# 11 5 5 SESSA πτςςς
+SESSA πτςςς False na
+# 12 1 1 / ,
+/ , False na
+# 13 1 2 t Υ̓
+t Υ̓ False eng
+# 14 1 1 4 .
+4 . False na
+# 15 1 1 y δ
+y δ False eng
+# 16 2 1 >, »
+>, » False na
+# 17 1 1 ’ ,
+’ , False na
+# 18 12 10 I G Yi) Ai t ᾿ ( ἡ ΝᾺ !
+I ᾿ False na
+G ( False na
+ἡ Yi) True case
+Ai ΝᾺ False na
+t ! False eng
+# 19 9 11 = } v) fy τ: ) ΝτῚ ἐς
+= τ: False na
+} ) False na
+v) ΝτῚ False eng
+fy ἐς False eng
+# 20 2 2 Yr ἤν
+ἤν Yr True lex
+# 21 4 4 is ) ἤν ἢ
+is ἤν False eng
+ἢ ) True lem
+# 22 1 1 % 4
+% 4 False na
+# 23 18 21 fe Origitabérour a ... οἠ οἰ παφέσω "Ἢ Ψ
+fe ... False eng
+Origitabérour οἠ False na
+a οἰ False eng
+# 24 28 31 CWIVERSITY OF'CALIFORNIA wy, ΟἸΙΝΕΆΞΙΤΥῪ ΟΕ ΞΑΙΠΙΡΕΟΆΝΙΑ οὔ;
+CWIVERSITY ΟἸΙΝΕΆΞΙΤΥῪ False na
+OF'CALIFORNIA ΟΕ False na
+wy, ΞΑΙΠΙΡΕΟΆΝΙΑ False eng
+# 25 22 23 . Digitized by Gox gle ᾿: ὈΙρ  ἸΖοα ΡΥ (οι σὶς
+. ᾿: False na
+Digitized ὈΙρ False na
+by ἸΖοα False eng
+Gox ΡΥ False na
+gle (οι False na
+# 26 1 2 * Ἃὰ
+* Ἃὰ False na
