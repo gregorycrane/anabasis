@@ -38,7 +38,7 @@ uncover, True lex
 of NA False eng
 # 8 36 32 a shicld taken from the leather case ἃ 51} τακτη ἴσοι (ἢ Ἰοαι ογ σᾶ5ὲ
 a ἃ False eng
-shicld 51} False na
+shiεld 51} False na
 taken τακτη False eng
 from ἴσοι False eng
 the (ἢ False eng

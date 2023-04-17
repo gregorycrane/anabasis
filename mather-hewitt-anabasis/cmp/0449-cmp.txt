@@ -52,15 +52,8 @@ or, .. False eng
 Lat. 07, False na
 sive... [, False na
 sive. Δἴ. False na
-# 10 16 16 elxov,  see Exw. εἶχον,  5ε6 ἔχω.
-εἶχον, elxov, True pp
-see 5ε6 False eng
-ἔχω. Exw. True pp
-# 11 17 15 efwv,  see édw. | εἴων,  Ξε6 ἐάω.
-εἴων, efwv, True form
-see Ξε6 False eng
-ἐάω. édw. True pp
-| NA False na
+
+
 # 12 43 46 éx,  before vowels é& [cogn.,  Lat. é,  ex, ἐκ,  Ρείογε νονεἶὶβ ἐξ [οορπ.,  [, Αἱ. ὃ,  ΟΧ,
 ἐκ, éx, True lex
 before Ρείογε False eng
@@ -271,7 +264,7 @@ any ΔΌΥ False eng
 number, ΠυτΊΌΘΥ, False eng
 # 43 32 37 Lat. gutsque; cp. éxdrepos); pl. 1, Δῖ. φιεῖσφμδ,; ορ. ἑκάτερος); Ὁ].»
 Lat. 1, False na
-quissque; Δῖ. False na
+quisque; Δῖ. False na
 cp. φιεῖσφμδ,; False eng
 ἑκάτερος); ορ. False na
 pl. ἑκάτερος); False eng
@@ -504,7 +497,7 @@ that ζλαΐ False eng
 place. έαεε. False eng
 # 84 45 45 &xetvos,  -7,  -o [éxet],  dem. pron.,  chat, ἐκεῖνος,  -ή -ο [ἐκεῖ],  ἄεπι. ρτγοῃ.,  δέαὐ,
 ἐκεῖνος, &xetvos, True lex
--ή -7, True pp
+-η -7, True pp
 -ο -ο False na
 [ἐκεῖ], [éxet], True lex
 dem. ἄεπι. False eng
