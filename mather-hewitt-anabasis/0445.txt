@@ -1,4 +1,3 @@
-VOCABULARY
 
 δοκέω, δόξω, ἔδοξα, δέδογμαι, ἐδόχθην,
 think, suppose; seem, appear, be
@@ -23,14 +22,14 @@ decided upon, 181, 7.
 
 δοκιμάζω, δοκιμάσω, δεδοκίμασμαι, ἐδο-
 
-κιμάσθην [ δόκιμος, tested] |, test, ap-
+κιμάσθην [ δόκιμος, tested], test, ap-
 
 prove, examine and accept; the
 regular word at Athens for examin-
 ing and passing candidates for pub-
 lic office or for the cavalry.
 
-δόλιχος, -οὐ, long race, varying from
+δόλιχος, -ου, long race, varying from
 six to twenty-four stadia (from
 about 2/3 of a mile to 2 2/3 miles).
 
@@ -68,14 +67,14 @@ Introd. § 58, and Figs. 11, 72, pp.
 δουλεύω, δουλεύσω, etc. [δοῦλος], be a
 slave.
 
-δοῦλος, -ov, slave.
+δοῦλος, -ου, slave.
 
 
 δουπέω, ἐδούπησα [δοῦπος], poetic,
 strike heavily so as to make a loud
 noise, clash,
 
-δοῦπος, του, poetic, any heavy sound,
+δοῦπος, -ου, poetic, any heavy sound,
 din, uproar.
 
 Δρακόντιος, -ου, Dracontius, a Spartan
@@ -87,7 +86,7 @@ bear], scythe-bearing, armed with
 scythes, of chariots. See Introd.
 § 51 and Fig. 27, p. 85.
 
-δρέπανον, -οὄὐ [δρέπω, pluck], scythe,
+δρέπανον, -ου [δρέπω, pluck], scythe,
 curved blade.
 
 δρόμος, -ου [ἔδραμον, 2 aor. of τρέχω,
@@ -98,7 +97,7 @@ edary], running; race course;
 δύναμαι, δυνήσομαι, δεδύνημαι, ἐδυνή-
 θην, be able, can, have power;
 amount to, be worth, οἱ μέγιστα
-Suvdevot, the most powerful; τὰ μὴ
+δυνάμενοι, the most powerful; τὰ μὴ
 δυνάμενα τῶν ὑποζνγίων, those of the
 pack animals that were disabled;
 often with rel. words, esp. as and

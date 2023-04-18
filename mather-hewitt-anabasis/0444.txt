@@ -1,4 +1,3 @@
-#432 XENOPHON’S ANABASIS
 
 through; impers., κάτω διεχώρει
 αὐτοῖς, they had diarrhoea.
@@ -10,7 +9,7 @@ through; impers., κάτω διεχώρει
 didactic ], each, show, inform.
 
 δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι,
-ἐδόθην [cong., Lat. do, gz\ave, bor.,
+ἐδόθην [cong., Lat. do, give, bor.,
 Eng. anecdote, antidote, dose],
 etc, grant, permit, allow; pay.
 
@@ -48,11 +47,11 @@ act., stand apart, station themselves
 at intervals, open ranks, open up
 gaps.
 
-δίκαιος, -ἃ, -ον [δίκη], right, just.
+δίκαιος, -α, -ον [δίκη], right, just.
 Neut. as subst., justice, ἐκ τοῦ δι-
 καίου, by just means.
 
-δικαιοσύνη, -ἡς [δίκαιος], justice.
+δικαιοσύνη, -ης [δίκαιος], justice.
 
 δικαιότης, -ητος, ἡ [δίκαιος], justice.
 
@@ -68,7 +67,7 @@ article, deserved punishment, de-
 serts, δίκην διδόναι, pay a penalty,
 suffer punishment.
 
-διό [δι ὅ, on account of which), adv,
+διό [δι' ὅ, on account of which], adv,
 wherefore, therefore, for this reason.
 
 
@@ -77,13 +76,14 @@ wherefore, therefore, for this reason.
 account, namely, because], conj., be-
 cause, since.
 
-Slernxus, -v [dvo0, two, wijxus, cubit
-(14 Eng. feet), two cubits long.
-διπλάσιος, -ἃ, -ον [δύο, two, cp. lu
-πλημι, ΛΑ], πυΐες as many, double.
-Neut. acc. as adv., fwzce as far.
+δίπηχυς, -υ [δύο, two, πῆχυς, cubit
+(1.5 Eng. feet)], two cubits long.
 
-δίπτηχνυς, -υ [δύο, two, πλέθρον,
+διπλάσιος, -α, -ον [δύο, two, cp. 
+πίμπλημι, fill], twice as many, double.
+Neut. acc. as adv., twice as far.
+
+δίπλεθρος, -ον [δύο, two, πλέθρον,
 plethron (about 97 Eng. feet) ], of
 two plethra.
 
@@ -101,7 +101,7 @@ pépw, carry), carrying two, warrior
 and driver], body of a chariot.
 
 διψάω, διψήσω, ἐδίψησα [ δίψα, thirst;
-bor., Eng. dipsomania ], de thirsty.
+bor., Eng. dipsomania ], be thirsty.
 
 διωκτέον (verbal of διώκω), necessary
 to pursue.

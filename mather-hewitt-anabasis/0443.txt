@@ -1,8 +1,8 @@
-VOCABULARY
+
 
 διαλέγομαι, διαλέξομαι, διείλεγμαι, διε-
 
-λέχθην [ λέγω, speak; hbor., Eng.
+λέχθην [ λέγω, speak; bor., Eng.
 dialogue, dialect], speak with, con-
 verse with, with dat.; talk about,
 with acc.
@@ -32,7 +32,7 @@ pass. dep., pass through, traverse.
 διαπράττω [πράττω, do], commonly
 in mid., accomplish, effect, bring
 about, secure, obtain, with acc.,
-inf, or acc. and inf.; gait one’s
+inf, or acc. and inf.; gain one’s
 point, stipulate.
 
 διαρπάζω [ἁρπάζω, seize], seize and
@@ -46,7 +46,7 @@ indicate, disclose.
 camp separately, go into separate
 quarters.
 
-διασκηνητέον (verbal διασκηνέω),
+διασκηνητέον (verbal of διασκηνέω),
 Impers., necessary to take separate
 quarters.
 
@@ -92,7 +92,7 @@ arrange; of persons, treat.
 thoroughly, support.
 
 διατρίβω [τρίβω, τρίψω, ἔτριψα, τέ-
-τριῴφα, τέτρίμμαι, ἐτρίφθην or more
+τριφα, τέτρίμμαι, ἐτρίφθην or more
 commonly ἐτρίβην, rub, bor., Eng.
 diatribe], rub through, rub away ;
 esp. of time, waste, spend, so with
@@ -102,7 +102,7 @@ time, delay.
 διαφερόντως [διαφέρω], adv., differ-
 ently; especially, preéminently,
 
-διαφέρω [φέρω, dear, cogn., Lat.
+διαφέρω [φέρω, bear, cogn., Lat.
 differ, differ], bear apart, differ
 from; excel, be better than; differ
 with, dispute; with inf. as subject,
