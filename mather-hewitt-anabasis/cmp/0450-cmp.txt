@@ -83,7 +83,7 @@ assembly. Δοϑεπλ False eng
 # 15 41 41 éxAldny and -exrAlyny,  bend ],  bend out ἐκλίθην αὶ -εκλένην,  ὀεγη.}],  ὀφρα οτδζ
 ἐκλίθην éxAldny True pp
 and αὶ False eng
--εκλένην, False na
+-εκλίνην, False na
 bend ὀεγη.}], False eng
 ], ὀφρα False na
 bend οτδζ False eng
@@ -164,7 +164,7 @@ out, 2: False eng
 # 29 37 37 éxAXelrrw =[elrw,  eave,  bor.,  Eng. ἐκλείπω [λείπω,  ἐρανε,  Ὅοτ, ,  Επρ.
 ἐκλείπω éxAXelrrw True pp
 [λείπω, =[elrw, True pp
-eave, ἐρανε, False eng
+leave, ἐρανε, False eng
 bor., Ὅοτ, False eng
 Eng. , False na
 # 30 42 39 eclipse ],  eave,  abandon ,; intr.,  dis- 6011086,  ατε,  αὐαρμ αν,  τυῖτ,  οἷΐδ-
@@ -252,7 +252,7 @@ cp. ορ. False eng
 πίμ- False na
 # 50 40 39 wAnum,  fll,  cogn.,  Lat. plénus,  fu/, πλημι,  Μ,  σορῃ.,  [, Αἴ. ΡΙδηπ8,  μος
 πλημι, False na
-fll, Μ, False eng
+fill, Μ, False eng
 cogn., σορῃ., False na
 Lat. [, False na
 plénus, Αἴ. False na
@@ -288,6 +288,7 @@ bor., Ὀοτ., False eng
 Eng. Επρ. False na
 apoplexy ΔΡΟΡΙΟΧΥΊ], False eng
 ], τσ False na
+to
 strike ξε False eng
 # 57 31 32 out of one’s senses; pass.,  é¢ οί 07 Οὔε᾽Θ 56η565; Ρρᾶϑ85.,  ὁξ
 out οί False eng
@@ -355,7 +356,7 @@ of, οὐ, False eng
 with νυ False eng
 gen. ἢ False eng
 # 67 35 35 dxtrpérw [Teérw,  turn],  turn out; ἐκτρέτω [τρέπω,  2471],  Ζπ|722 Ομ;
-ἐκτρέτω dxtrpérw True pp
+ἐκτρέπω dxtrpérw True pp
 [τρέπω, [Teérw, True pp
 turn], 2471], False eng
 turn Ζπ|722 False eng
@@ -368,10 +369,7 @@ aor. δΟΥ. False eng
 mid., τη]4., False eng
 turn 2247: False eng
 aside. 5162. False eng
-# 69 22 23 éxravro,  see xrdopat. ἐκτῶντο,  3866 κτάομαι.
-ἐκτῶντο, éxravro, True form
-see 3866 False eng
-κτάομαι. xrdopat. True pp
+
 # 70 35 39 edalve [dalww,  show],  show forth; ἐκφαίνω [φαίνω,  «ἀοτυ],  σάοτυ γογίά;͵
 ἐκφαίνω edalve True pp
 [φαίνω, [dalww, True pp
@@ -386,7 +384,7 @@ open οὐδ᾽: False eng
 war. τῦὰν΄. False eng
 # 72 38 41 éxdépw [pépw,  bear],  carry out; dis. ἐκφέρω [φέρω,  ὀεα»,  “α7Ώ, }» οτ,; εἦἿδ.
 ἐκφέρω éxdépw True pp
-[φέρω, [pépw, True pp
+[φέρω, pépw, True pp
 bear], ὀεα», False eng
 carry “α7Ώ, False eng
 out; }» False eng

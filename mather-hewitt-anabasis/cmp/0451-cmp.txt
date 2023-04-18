@@ -33,11 +33,8 @@ light-footed, ἐρλιιγοοίεαι, False na
 agile, αρὶΐε, False eng
 # 7 7 7 nimble. μῖεῤέρ,
 nimble. μῖεῤέρ, False eng
-# 8 23 25 &dxtoros,  see éAdr rw, ἐλάχιστος,  5Ξε6 ἐλάττων.
-ἐλάχιστος, &dxtoros, True lex
-see 5Ξε6 False eng
-ἐλάττων. éAdr True form
-rw, NA False na
+
+
 # 9 37 37 déyyw,  ehdvyéw,  Previa,  éAjAeyuas, ἐλέγχω,  ἐλέγξω,  ἤλεγξα,  ἐλήλεγμαι,
 ἐλέγχω, déyyw, True pp
 ἐλέγξω, ehdvyéw, True pp
@@ -60,10 +57,7 @@ guilty γεν False eng
 of, οὐ, False eng
 with » False eng
 ptc. ἸῺ False na
-# 13 16 19 civ,  see alpéw. ἑλεῖν,  5Ξε6 αἱρέω.
-ἑλεῖν, False eng
-see 5Ξε6 False eng
-αἱρέω. alpéw. True pp
+
 # 14 42 41 YWerLo,  prAdAcEa,  poetic,  cry édeded (a ἐλελίζω,  ἠλέλιξα,  ροεῖϊς,  εν ἐλελεῦ (α
 ἐλελίζω, YWerLo, True pp
 ἠλέλιξα, prAdAcEa, True pp
@@ -98,7 +92,7 @@ free. 33:6. False eng
 see λέγω. False eng
 # 24 44 44 Ako,  ~rEw,  efAxvoa,  efAxuKa,  eYAkvo pat, ἕλκω,  ἔλξω,  εἵλκυσα,  εἵλκυκα,  εἵλκυσμαι,
 ἕλκω, Ako, True pp
-ἔλξω, ~rEw, True pp
+ἕλξω, ~rEw, True pp
 εἵλκυσα, efAxvoa, True pp
 εἵλκυκα, efAxuKa, True pp
 εἵλκυσμαι, eYAkvo True pp
