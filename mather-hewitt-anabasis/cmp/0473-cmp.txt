@@ -126,7 +126,7 @@ the [86 False eng
 Greek ατεεκ False na
 army. ἅγηγ. False eng
 # 24 38 38 KAéapxos,  -ov,  Clearchus,  the fore- Ἐλέαρχος,  -ου,  Οὐεαγεάτο,  ἴῃ6 ἔοτο-
-Κέαρχος, False na
+Κλέαρχος, False na
 -ου, -ov, True pp
 Clearchus, Οὐεαγεάτο, False na
 the ἴῃ6 False eng

@@ -21,7 +21,6 @@ clothes. εἰοίλεε. False eng
 ἔφαγον, Zd5ouat, True pp
 ἐδήδοκα, Eparyor, True pp
 -εδήδε- False na
--€575€- NA False na
 # 6 38 40 —opat,  H5écOnv [rout 6d; cogn.,  Lat. “ σμαι,  ἠδέσθην [τουῖ εδ; ἕσορπ, ,  [1.
 σμαι, H5écOnv True pp
 [root ἠδέσθην False eng
@@ -45,10 +44,7 @@ gus], 081], False eng
 eat, εαΐ, False eng
 live ἔνε False eng
 on. 071. False eng
-# 10 19 19 Ecovrat,  see elul. ἔσονται,  566 εἰμί.
-ἔσονται, Ecovrat, True form
-see 566 False eng
-εἰμί. False eng
+
 # 11 40 42 tomépa,  -ας [cogn.,  Lat. vesper,  eve- ἑσπέρα,  -ας [οορῃ.,  1, 8. γΘΒΡΘΥ,  ἐεὐε-
 ἑσπέρα, tomépa, True lex
 -ας -ας False na
@@ -65,15 +61,7 @@ evening; ἐυθηεῖ;, False eng
 the Ζ.ε False eng
 west, τυεεΐ, False eng
 westward. τυεεπυαγά, False eng
-# 14 24 25 éoradpévos,  see o7éAdw. ἐσταλμένος,  ΞεἜε στέλλω.
-ἐσταλμένος, éoradpévos, True form
-see ΞεἜε False eng
-στέλλω. o7éAdw. True pp
-# 15 31 31 tordvat,  trracav,  see lornut. ἑστάναι,  ἕστασαν,  5εε ἵστημι.
-ἑστάναι, tordvat, True form
-ἕστασαν, trracav, True form
-see 5εε False eng
-ἵστημι. lornut. True pp
+
 # 16 35 36 fore (rare in prose except in Xeno- ἔστε (τᾶγε ἰπ ρύοβα δχοθρῖ 'ἰπ Χεπο-
 ἔστε False eng
 (rare (τᾶγε False eng
@@ -166,10 +154,7 @@ in ἦρι False eng
 the τἀ False eng
 highest ἀξρλεεί False eng
 degree. αἰφρ᾽ False eng
-# 34 15 15 €oXe,  see Exw. ἔσχε,  566 ἔχω.
-ἔσχε, €oXe, True form
-see 566 False eng
-ἔχω. Exw. True pp
+
 # 35 40 40 érwbev (Zow (cp. claw),  within],  adv., ἔσωθεν [ἔσω (ορ. εἴσω),  τυΐζ 41,  δάν.;
 ἔσωθεν érwbev True lex
 [ἔσω (Zow True pp
@@ -235,10 +220,7 @@ alius; αγοζἧφν, False na
 pl., Ρ]., False eng
 other, οζάτγ, False eng
 others. οἵλε7-. False eng
-# 50 25 24 érérpwro,  see TiTpwWoKW, ἐτέτρωτο,  566 τιτρώσκω.
-ἐτέτρωτο, érérpwro, True form
-see 566 False eng
-τιτρώσκω. TiTpwWoKW, True pp
+
 # 51 42 38 ért,  adv.,  yet,  stid/; with negs.,  any ἔτι,  αήν.,  γεΐ,  οὐδέ,  ἢ πορϑ.,  αν
 ἔτι, ért, True lex
 adv., αήν., False eng
@@ -295,10 +277,7 @@ vetus, Αἵ, False eng
 old], νοία8, False na
 # 59 5 5 year. )εαγ.
 year. )εαγ. False eng
-# 60 21 21 érpdmero,  see Tpérw. ἐτράπετο,  566 τρέπω.
-ἐτράπετο, érpdmero, True form
-see 566 False eng
-τρέπω. Tpérw. True pp
+
 # 64 41 41 e} [neut. of epic adj. évs,  good,  bor., εὖ [πευϊ. οὗ ερὶς δά]. ἐύς,  ροοαῖ; Ὅοτ.,
 εὖ e} True lex
 [neut. [πευϊ. False eng

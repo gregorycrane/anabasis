@@ -133,7 +133,7 @@ with νι False eng
 fear, ἔεατ, False eng
 terrify. 2ε7717ν. False eng
 # 29 34 35 katamparra [xpdrrw,  do],  do com- καταπράᾶττω [πράττω,  ἀρ,  αο εο»1-
-καταπράᾶττω katamparra True pp
+καταπράττω katamparra True pp
 [πράττω, [xpdrrw, True pp
 do], ἀρ, False eng
 do αο False eng
@@ -152,7 +152,7 @@ or οὐ False eng
 carefully, εαγεζείζν, False eng
 inspect. ἱηποῤεεί. False eng
 # 33 35 33 katackevafo  [ocxevdtw,  ocKxevdow, κατασκευνάζω ἰ[σκευάζω,  σκευάσω,
-κατασκευνάζω katackevafo True pp
+κατασκευάζω katackevafo True pp
 [σκευάζω, [ocxevdtw, True pp
 σκευάσω, ocKxevdow, True pp
 # 34 36 36 éoxevaca,  éoxevaruat,  -erxevdcOnp, ἐσκεύασα,  ἐσκεύασμαι,  -εσκευάσθην,
@@ -208,10 +208,11 @@ down. ἄστυ». False eng
 
 
 # 47 35 33 xaraotparomwedeGopar [orparomedet'- καταστρατοπεδεύομαι [στρατοπεδεύ-
-καταστρατοπεδεύομαι xaraotparomwedeGopar True pp
+καταστρατοπεδεύω xaraotparomwedeGopar True pp
 [στρατοπεδεύ- False na
 # 48 37 37 oat,  encamp ],  settle down in camp, ομαι,  ἐμ .α»},  σεἰζίς ἄρτου ἐμ εα»,
 ομαι, False eng
+mid.,
 encamp ἐμ False eng
 ], .α»}, False na
 settle σεἰζίς False eng
@@ -235,8 +236,8 @@ mid., τῇ False eng
 overthrow, ϊ)., False eng
 subdue. συεγίλγοτου, False eng
 # 53 37 37 katacoarro [opdrry,  slaughter),  cut κατασφάττω [σφάττω,  «ἠατρλτε;},  ἐπε
-κατασφάττω katacoarro True pp
-[σφάττω, [opdrry, True pp
+κατασφάζω katacoarro True pp
+[σφάζω, [opdrry, True pp
 slaughter), «ἠατρλτε;}, False eng
 cut ἐπε False eng
 # 54 14 15 down,  kell. ’ ἄοτυ»,  ξεΐ,  ΄

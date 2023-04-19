@@ -174,10 +174,7 @@ of οὐγεεΐ False eng
 envy. ἔην. False eng
 
 
-# 57 14 14 Lav,  see Cdw. ζῆν,  566 ζάω.
-ζῆν, Lav, True form
-see 566 False eng
-ζάω. Cdw. True pp
+
 # 58 43 43 Intéw,  (nTHow,  etc.,  seek,  inguire for. ζητέω,  ζητήσω,  εἴο.,  σέδῆ,  ἐγιφιῖνε 77.
 ζητέω, Intéw, True pp
 ζητήσω, (nTHow, True pp
@@ -210,7 +207,7 @@ by ὈΥ False eng
 men θη False eng
 and δηα False eng
 women; ψοσηθῃ; False eng
-els εἰς False eng
+etc. εἰς False eng
 # 63 39 44 Cavnr,  for her girdle,  for pin money. ζώνην,  207 ἀε» ρΊγαΐζε,  γ0»7 2192 φιοἤ εν.
 ζώνην, Cavnr, True form
 for 207 False eng
@@ -232,30 +229,27 @@ see 566 False eng
 # 66 44 43 Lwds,  -7),  -6v [fdw; bor.,  Eng. zodlogy], ζωός,  -ή,  -ὀν [ζάω; Ὀοτ.,  ΕὩΡ. ΖΟΘΙ]ΟΦΥ,
 ζωός, Lwds, True lex
 -ή, -7), True pp
--6v -ὀν False na
+-όν False na
 [ζάω; [fdw; True pp
 bor., Ὀοτ., False eng
 Eng. ΕὩΡ. False na
 zodlogy], ΖΟΘΙ]ΟΦΥ, False na
 # 67 10 5 alive . .« αἶζυ.
-alive αἶζυ. False eng
-. NA False na
-.« NA False na
-# 68 1 1 H Η
-H Η False na
+alive. αἶζυ. False eng
+
 # 69 39 41 H,  conj.,  (1) ov,  Lat. auf or vel; 9 ἥ,  σοη].,  (1) ογ,  1[, Αἴ. σε οΥ σε,  ἢ
-ἥ, H, True form
+ἤ, H, True form
 conj., σοη]., False eng
 (1) (1) False na
-ov, ογ, False na
+or, ογ, False na
 Lat. 1[, False na
-auf Αἴ. False eng
+aut Αἴ. False eng
 or σε False eng
 vel; οΥ False eng
-σε, 9 True lem
+ἤ 9 True lem
+...
+ἤ, ... True lex
 # 70 31 31 ... 4,  either... or; in double ...ἤ,  οἶον... οΥ, ,  ἴῃ ἀουθῖς
-...ἤ, ... True lex
-οἶον... 4, True pp
 either... οΥ, False eng
 or; , False eng
 in ἴῃ False eng
@@ -269,6 +263,7 @@ questions, φαεβιοηδ, False eng
 
 # 29 31 35 -.- ,  el... H,  whether... or, ..«.«ἥ,  εἰ... ἤ,  τυλείλεγ. .. ὁ»,
 ... «.«ἥ, False na
+ἤ,
 εἰ... , True lex
 ἤ, False eng
 whether... .. False eng
@@ -286,8 +281,8 @@ questions 4υσϑίίοῃβ False eng
 is 15 False eng
 not ἢοΐ False eng
 translated; ἰγδῃβίδιεα; False eng
-# 32 35 36 # sometimes introduces a dir. ques- ἤ ϑοτῃβίτηθ5 ἰηἰγοάποαβ ἃ αἶτ. 4865-
 ἤ # True lex
+# 32 35 36 # sometimes introduces a dir. ques- ἤ ϑοτῃβίτηθ5 ἰηἰγοάποαβ ἃ αἶτ. 4865-
 sometimes ϑοτῃβίτηθ5 False eng
 introduces ἰηἰγοάποαβ False eng
 a ἃ False eng
@@ -342,7 +337,7 @@ of τυογα False eng
 honor. ἄοπογ. False eng
 # 42 42 45 1 (dat. fem. of 8s,  who],  adv. (sc. 65@, ἢ [ἀαῖ. ἔδπι,  οἵ ὅς,  τυζο],  δᾶν. (86. ὁδῷ,
 ᾗ 1 True lem
-(dat. [ἀαῖ. False eng
+[dat. [ἀαῖ. False eng
 fem. ἔδπι, False eng
 of οἵ False eng
 ὅς, 8s, True lex

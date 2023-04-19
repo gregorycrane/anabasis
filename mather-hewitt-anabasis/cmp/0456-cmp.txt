@@ -55,7 +55,7 @@ plot, 2ἐοΐ, False eng
 # 11 11 10 conspiracy. εορδῥίγας.
 conspiracy. εορδῥίγας. False eng
 # 12 37 40 dmylyvopar [ylyvouat,  become),  come ἔπιγίγνομαι [γίγνομαι,  ὀφεον»:61,  4016
-ἔπιγίγνομαι dmylyvopar True pp
+ἐπιγίγνομαι dmylyvopar True pp
 [γίγνομαι, [ylyvouat, True pp
 become], ὀφεον»:61, False eng
 come 4016 False eng
@@ -63,7 +63,7 @@ come 4016 False eng
 upon, τῤο»ι, False eng
 attack. σίαεξ. False eng
 # 14 43 46 eridelxviue [Selxvipu,  show],  show,  ais- ἐπιδείκνῦμι [δείκνῦμι,  «λοτυ],  δίοτυ,  αἸ15-
-ἐπιδείκνῦμι False na
+ἐπιδείκνυμι False na
 δείκνῦμι, False na
 show], «λοτυ], False eng
 show, δίοτυ, False eng
@@ -96,18 +96,7 @@ pursue, 2ηγεμ6], False eng
 give φ1ε᾽ False eng
 # 19 6 7 chase. εἦαϑδε.
 chase. εἦαϑδε. False eng
-# 20 22 23 émBdvras,  see epopdw. ἐπιδόντας,  Ξεε ἐφοράω.
-ἐπιδόντας, émBdvras, True form
-see Ξεε False eng
-ἐφοράω. epopdw. True pp
-# 21 25 26 émdpapetv,  see émirpéxu. ἐπιδραμεῖν,  Ξες ἐπιτρέχω.
-ἐπιδραμεῖν, émdpapetv, True form
-see Ξες False eng
-ἐπιτρέχω. émirpéxu. True pp
-# 22 21 21 émcéfero,  see miétw. ἐπιέζετο,  566 πιέζω.
-ἐπιέζετο, émcéfero, True form
-see 566 False eng
-πιέζω. miétw. True pp
+
 # 23 42 46 érBeois,  -ews,  7 [érirlOnut,  put upon), ἐπίθεσις,  -εὡς,  ἡ [ἐπιτίθημι,  ῥτιεξ μῤο»:],
 ἐπίθεσις, érBeois, True lex
 -εως, -εὡς, False na
@@ -271,7 +260,7 @@ hold λοέω False eng
 of, οἵ, False eng
 catch. εαέεῖ. False eng
 # 56 41 39 éerAavOdvopat [ AavOd vw,  escape notice] ἐπιλανθάνομαι [λανθάνω,  ἐξεα2ε »οΖἼεε}
-ἐπιλανθάνομαι éerAavOdvopat True pp
+ἐπιλανθάνω éerAavOdvopat True pp
 [λανθάνω, [ True pp
 escape NA False eng
 notice] NA False eng
@@ -363,7 +352,7 @@ mix, ΤῊΪΧ, False eng
 mash], 1148}, False eng
 mix γπηὴχ False eng
 with; True form
-intr, ἱπῖτ, False eng
+intr., ἱπῖτ, False eng
 # 73 33 36 mingle with,  have dealings with. »εἰρρἷο τοῖζά,  ἦαυς αἰδαζέγερς τοι.
 mingle »εἰρρἷο False eng
 with, τοῖζά, False eng

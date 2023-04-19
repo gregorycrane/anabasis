@@ -1,5 +1,4 @@
-# 0 3 3 446 446
-446 446 False na
+
 # 1 35 35 émyeipéw,  érixeippow,  etc. [xelp, ἐπιχειρέω,  ἐπιχειρήσω,  εἴς. χείρ,
 ἐπιχειρέω, émyeipéw, True pp
 ἐπιχειρήσω, érixeippow, True pp
@@ -43,10 +42,7 @@ move »ιοῦε), False eng
 # 7 18 18 against,  advance. αραΐρεί,  αάσαρεέ.
 against, αραΐρεί, False eng
 advance. αάσαρεέ. False eng
-# 8 20 20 érXevorav,  see rdw, ἔπλευσαν,  5.6 πλέω.
-ἔπλευσαν, érXevorav, True form
-see 5.6 False eng
-πλέω. rdw, True pp
+
 # 9 42 41 drrorxoSopée [ olxodouew,  build a house), ἐποικοδομέω [οἰκοδομέω,  διεῖϊα α λοιδε],
 ἐποικοδομέω drrorxoSopée True pp
 [οἰκοδομέω, [ True pp
@@ -189,7 +185,7 @@ soil. τ False eng
 ἔργον, épyov, True pp
 -ου False na
 [root [τοοῦ False eng
-ٌϝεργ; False na
+ϝεργ; False na
 cogn., οορῃ., False na
 Eng. Επρ. False na
 # 35 37 40 work],  work,  deed,  act,  undertak- ΨΟΙΚΊ,  τοογξ,  αἰεεα,  ἀεί,  τρπαεγίας-
@@ -221,10 +217,7 @@ opposed , False eng
 to ἃ53 False eng
 # 39 5 5 word. ψοτά.
 word. ψοτά. False eng
-# 40 16 16 epet,  see elpw. ἐρεῖ,  5ε6 εἴρω.
-ἐρεῖ, epet, True form
-see 5ε6 False eng
-εἴρω. elpw. True pp
+
 # 42 42 44 épypla,  -as [Zpnuos],  loneliness,  soli- ἐρημία,  -ἂς [ἔρημος],  ἐρριδέϊγι655,  σοὐῖ-
 ἐρημία, épypla, True lex
 -ας False na
@@ -301,7 +294,7 @@ kid, α False eng
 kid's. ξις. False na
 # 57 40 40 éppynvets,  -éws,  5 [bor.,  Eng. herme- ἑρμηνεύς,  -ἔως,  ὁ [Ὅοτ.,  ΕἸρ. ΒΟΙΠΙΘ-
 ἑρμηνεύς, éppynvets, True lex
--éws, -ἔως, False na
+-έως, False na
 ὁ 5 True lex
 [bor., [Ὅοτ., False eng
 Eng. ΕἸρ. False na
@@ -337,14 +330,7 @@ with ΜῈ False eng
 acc. δοο. False eng
 of οὗ False eng
 person, ρείβοη. False eng
-# 63 20 19 épotivra,  see elpw. ἐροῦντα,  5ες εἴρω.
-ἐροῦντα, épotivra, True form
-see 5ες False eng
-εἴρω. elpw. True pp
-# 64 23 22 épptrrrovy,  see pirrw. ἐρρίπτουν,  8εε ῥίπτω.
-ἐρρίπτουν, épptrrrovy, True form
-see 8εε False eng
-ῥίπτω. pirrw. True pp
+
 # 65 38 38 éppwpévos,  -7,  -ov,  comp. éppwueré- ἐρρωμένος,  -,  “ον,  ΠΟΙΏΡ. ἐρρωμενέ-
 ἐρρωμένος, éppwpévos, True lex
 -η, -, False na
@@ -458,14 +444,7 @@ re- γε- False na
 # 83 10 12 course to, Ζ0147.56 20.
 course Ζ0147.56 False eng
 to, 20. False eng
-# 84 15 15 ép&,  see elpw. ἐρῶ,  5εε εἴρω.
-ἐρῶ, ép&, True lex
-see 5εε False eng
-εἴρω. elpw. True pp
-# 85 19 19 épdvres,  see épdw. ἐρῶντες,  5εε ἐράω.
-ἐρῶντες, épdvres, True pp
-see 5εε False eng
-ἐράω. épdw. True pp
+
 # 86 38 38 épws,  Epwros,  6 [€payar; bor.,  Eng. ἔρως,  ἔρωτος,  ὁ [ἔραμαι; Ὅοτ.,  Ἑπρ.
 ἔρως, épws, True lex
 ἔρωτος, Epwros, True pp

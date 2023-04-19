@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓΑΒΌΓΑΕΚΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΕΚΥ False na
+
 # 1 36 38 Gaaxynvol,  -dy [Odyaxos],  inhabit- Θαψακηνοί,  -ῶν [Θάψακος],  ἐρπλαῤῖἼέ-
 Θαψακηνοί, False na
 -ῶν False na
@@ -216,7 +215,7 @@ sum- 514721- False na
 mer. 77167΄. False eng
 
 # 41 42 40 OerraNrla,  -ας,  Thessaly,  the northern- Θετταλίᾳ,  -ας,  72ε:ςἄϊν,  [6 ποτίμεγη-
-Θετταλίᾳ, OerraNrla, True form
+Θετταλία, OerraNrla, True form
 -ας, -ας, False na
 Thessaly, 72ε:ςἄϊν, False na
 the [6 False eng

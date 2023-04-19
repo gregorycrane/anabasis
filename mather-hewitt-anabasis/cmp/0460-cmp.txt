@@ -105,7 +105,6 @@ ishness. True form
 [ἦθος, -es True lex
 disposition], ροοαί. False eng
 # 19 33 37 * natured,  simple-minded; hence, " κπαίμγεή,  εἰριῤῥεονεϊπαφα,  Ὠδηςα,
-* " False na
 good-natured, κπαίμγεή, False eng
 simple-minded; εἰριῤῥεονεϊπαφα, False na
 hence, Ὠδηςα, False eng
@@ -113,8 +112,9 @@ hence, Ὠδηςα, False eng
 silly, οὐδέν, False eng
 foolish. γοοἶϊεά. False eng
 # 21 43 44 ed0tpéopar [etOvuos ],  be tn good spirits, εὐθυμέομαι [εὔθυμος],  δέ ἱ»ι σοοαῖ ςῤ1)115,
-εὐθυμέομαι ed0tpéopar True pp
+εὐθυμέω ed0tpéopar True pp
 [εὔθυμος], [etOvuos True lex
+mid.,
 be ἱ»ι False eng
 in σοοαῖ False eng
 good ςῤ1)115, False eng
@@ -170,8 +170,10 @@ as 5007: False eng
 soon ας. False eng
 as. NA False eng
 # 30 39 40 eWObmpov [evOvs],  adv.,  2m a straight εὐθύωρον [εὐθύ5},  δᾶν.,  272 α εἰγαϊρλέ
-εὐθύωρον eWObmpov True pp
+εὐθύωρος
 [εὐθύς], False na
+neut. 
+εὐθύωρον eWObmpov True pp
 adv., δᾶν., False eng
 in 272 False na
 a α False eng
@@ -194,7 +196,6 @@ roads, τοδάβ, False eng
 comfortable, εο»εγογέαίε, False eng
 # 34 7 5 easy. | 4497.
 easy. 4497. False eng
-| NA False na
 # 35 36 35 edperaxelptorros,  -ov [peraxerpltw, εὐμεταχείριστος,  -ον [μεταχειρίζω,
 εὐμεταχείριστος, edperaxelptorros, True pp
 -ον -ov True pp
@@ -245,14 +246,14 @@ posed, 2οφφα, False eng
 friendly. 2 False eng
 
 # 47 38 39 Etgeuvos,  -o» [tetvos,  Ionic form of Εἰὔξεινος,  -ον [ξεῖνος,  Ιοπΐς ἰογη οἵ
-Etgeuvos, Εἰὔξεινος, False na
+εὔξεινος, Εἰὔξεινος, False na
 -ον -o» True pp
 ξεῖνος, False na
 Ionic Ιοπΐς False na
 form ἰογη False eng
 of οἵ False eng
-# 48 38 47 tévos,  stranger],  good to strangers, ξένος,  51:)47106 7},  ροραΐ 10 567,  41719675,
 ξένος, tévos, True lex
+# 48 38 47 tévos,  stranger],  good to strangers, ξένος,  51:)47106 7},  ροραΐ 10 567,  41719675,
 stranger], 51:)47106 False eng
 good 7}, False eng
 to ροραΐ False eng
@@ -406,7 +407,7 @@ obtain, οὐϊαϊ7, False eng
 secure. , False eng
 # 74 44 46 edpos,  -ous,  76 [evpts],  width,  breadth; εὖρος,  -ους,  τό [εὐρύς],  τυταϊᾷ,  ὀγεααἶλ,;
 εὖρος, edpos, True lex
--ous, -ους, False na
+-ους, False na
 τό 76 True form
 [εὐρύς], [evpts], True lex
 width, τυταϊᾷ, False eng
@@ -471,7 +472,7 @@ successful], σιεεεθοογε], False eng
 succeed. τεεεεοα. False eng
 # 86 42 42 Evdpatys,  -ov,  Euphrates,  a large river Εὐφράτης,  -ου,  Ξ ῤάγαϊες,  ἃ ἴατρε τῖνες
 Εὐφράτης, Evdpatys, True lex
--ov, -ου, False na
+-ου, False na
 Euphrates, Ξ False na
 a ῤάγαϊες, False eng
 large ἃ False eng

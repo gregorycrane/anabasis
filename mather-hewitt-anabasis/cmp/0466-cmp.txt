@@ -1,5 +1,4 @@
-# 0 3 4 454 4151
-454 4151 False na
+
 # 1 36 37 pwlny [Oruds,  spirit],  be angry or μώθην [θυῦμός,  «ῥίγιῆ,  ἐφ σα 7ν ΟΥ̓
 μώθην pwlny True pp
 [θυμός, False na
@@ -180,8 +179,7 @@ Figs, ΕἾρΡ5.11, False na
 pp. ΡΡ. False na
 55, 55, False na
 88. ὅδ. False na
-# 29 1 1 I Ι
-I Ι False na
+
 # 30 41 42 tdopar,  tdcoua,  tacduny,  idOnv,  heal, ἰάομαι,  ἰάσομαι,  ἰασάμην,  ἰάθην,  Ζεαΐ,
 ἰάομαι, tdopar, True pp
 ἰάσομαι, tdcoua, True pp
@@ -423,7 +421,7 @@ in θα False eng
 # 77 9 11 Lycaonia, Ι, γοδοηϊᾶ.
 Lycaonia, Ι, False na
 # 78 41 34 fAn,  -ns [efd\w,  roll up,  pack close], ἕλη,  -ς [εἴλω,  γοΐ π,  αςξ εἰσ),
-ἕλη, fAn, True form
+ἵλη, fAn, True form
 -ηs -ς False na
 [εἴλω, [efd\w, True pp
 roll γοΐ False eng
@@ -443,7 +441,7 @@ numbering Ὡυ False eng
 about οσῖηρ False eng
 70. ἀροῦῖ False na
 # 81 33 32 ips,  -dvros,  6,  thong,  strap. ἱμᾶς,  -άντος,  ὁ,  “λον,  εἴγα.
-ἱμᾶς, False eng
+ἱμάς, False eng
 -άντος, -dvros, True pp
 ὁ, 6, True lex
 thong, “λον, False eng

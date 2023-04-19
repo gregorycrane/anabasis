@@ -83,7 +83,7 @@ action; δοιαὶ; False eng
 # 14 31 37 (2) causal,  s¢ce,  with indic. (2) οαυϑ54],  σἔγεεό,  ΝΥ ἸΓὮ Ἰπα]1Ο.
 (2) (2) False na
 causal, οαυϑ54], False eng
-s¢ce, σἔγεεό, False na
+since, σἔγεεό, False na
 with ΝΥ False eng
 indic. ἸΓὮ False eng
 # 15 40 39 €rrecps [edul,  be],  be upon,  be over. ἔπειμι [εἰμί,  δε7,  ὧδ τῤο71:,  ὁξ οὐ.
@@ -184,16 +184,10 @@ time Ζ27216 False eng
 # 29 8 9 lo come. Ζο «0726.
 to Ζο False eng
 come. «0726. False eng
-# 30 21 21 éréraro,  see rdopat. ἐπέπατο,  566 πάομαι.
-ἐπέπατο, éréraro, True form
-see 566 False eng
-πάομαι. rdopat. True pp
-# 31 25 23 érérrecre,  see éxirtrrw. ἐπέπεσε,  5.6 ἐπιπίπτω.
-ἐπέπεσε, érérrecre, True form
-see 5.6 False eng
-ἐπιπίπτω. éxirtrrw. True pp
+
+
 # 32 44 42 Erépopar [epouat,  ask],  ask besides,  ask, ἔπέρομαι [ἔρομαι,  ας],  ἀφῇ ῥεεϊαξς,  ἀξ,
-ἔπέρομαι Erépopar True pp
+ἐπέρομαι Erépopar True pp
 [ἔρομαι, [epouat, True pp
 ask], ας], False eng
 ask ἀφῇ False eng
@@ -201,26 +195,10 @@ besides, ῥεεϊαξς, False eng
 ask, ἀξ, False eng
 # 33 10 11 inquire. : 2ρφ14176. .
 inquire. 2ρφ14176. False eng
-# 34 24 24 érreotdOn,  see édlornu. ἐπεστάθη,  5εε ἐφίστημι.
-ἐπεστάθη, érreotdOn, True form
-see 5εε False eng
-ἐφίστημι. édlornu. True lex
-# 35 27 26 érreoradte,  see émicraréw. ἐπεστάτει,  Ξε6 ἐπιστατέω.
-ἐπεστάτει, érreoradte, True form
-see Ξε6 False eng
-ἐπιστατέω. émicraréw. True pp
-# 36 21 22 étéotn,  see eplornu. ἐπέστη,  Ξεε ἐφίστημι.
-ἐπέστη, étéotn, True form
-see Ξεε False eng
-ἐφίστημι. eplornu. True lex
-# 37 21 21 érrécyov,  see éréxw. ἐπέσχον,  5εἜ6 ἐπέχω.
-ἐπέσχον, érrécyov, True pp
-see 5εἜ6 False eng
-ἐπέχω. éréxw. True pp
-# 38 26 26 éreréraxro,  see émirdrrw. ἐπετέτακτο,  5.6 ἐπιτάττω.
-ἐπετέτακτο, éreréraxro, True form
-see 5.6 False eng
-ἐπιτάττω. émirdrrw. True pp
+
+
+
+
 # 39 41 45 éréxw [2x 0,  hold],  hold on or in,  re- ἐπέχω [ἔχω,  λοία]7,  λοδαῖ ογ1. οὐ ἴ7:,  γ6-
 ἐπέχω éréxw True pp
 [ἔχω, [2x True pp
@@ -241,12 +219,7 @@ post- 0», False na
 pone, 2ο»θ, False eng
 with ἢ False eng
 gen. σεη. False eng
-# 42 27 30 dryer,  see Fret,  come on. ἔπει,  5εε ἔπειμι,  “0716 072.
-dryer, ἔπει, False eng
-see 5εε False eng
-ἔπειμι, Fret, True lex
-come “0716 False eng
-on. 072. False eng
+
 # 43 41 44 éfjxoos,  -ov [dxovw,  hear],  giving ear ἐπήκοος,  -ον [ἀκούω,  ἀεα;»,  ρίυΐγιρ᾽ ἐα 7
 ἐπήκοος, éfjxoos, True lex
 -ον -ov True pp
@@ -259,6 +232,9 @@ to, 2ο, False eng
 εἰς €mhxoov, True lex
 within ἑπήκοον, False eng
 earshot. τοϊζλλ7: False eng
+
+
+#
 ἐπί, ém(, True lex
 by Ὀ. False eng
 elision εἰ!ϑοπ False eng
@@ -290,7 +266,7 @@ dat., ἀδῖ., False eng
 or ΟΥὉ False eng
 # 55 17 17 acc.,  0m,  upon. 8ς(.,  022,  “02.
 acc., 8ς(., False eng
-0m, 022, False na
+on, 022, False na
 upon. “02. False eng
 # 56 32 32 With gen.,  the usual constr. of ὙῈ ροη.,  ἴῃ6 ἀδὰ8] οσοῃεοίτ. οὗ
 With ὙῈ False na
@@ -431,7 +407,7 @@ of; οὗ, False eng
 τούτοις, rovroas, True form
 hereupon, ἀφγειῥονι, False eng
 upon τῤο᾽1 False eng
-ἐξ 1t, True form
+it, 1t, True form
 # 75 36 41 upon this understanding,  upon these τ)0γ: λῆς τεγ16167.5:α716]γρ,  12071 2656
 upon τ)0γ: False eng
 this λῆς False eng

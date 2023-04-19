@@ -268,7 +268,7 @@ under- τε»16167- False na
 # 43 7 9 ground. Φ᾽ οι γε,
 ground. Φ᾽ False eng
 # 44 38 40 Karayeddw [vyehdw,  laugh],  laugh at, καταγελάῳ [γελάω,  μα πρλ 7,  ἐφεερὰ αἱ,
-καταγελάῳ False na
+καταγελάω False na
 [γελάω, [vyehdw, True pp
 laugh], μα False eng
 laugh πρλ False eng
@@ -289,8 +289,8 @@ derision αἰδγίδίορ False na
 or οὐ False eng
 defiance. ἀἰδβαρεε. False eng
 # 49 38 38 karadyvip. [dyviyu,  diw,  gata,  aya, κατάγνῦμι [ἄγνῦμι,  ἄξω,  ἔαξα,  ἔᾶγα,
-κατάγνῦμι karadyvip. True pp
-[ἄγνῦμι, [dyviyu, True pp
+κατάγνυμι karadyvip. True pp
+[ἄγνυμι, [dyviyu, True pp
 ἄξω, diw, True pp
 ἔαξα, False eng
 ἔαγα, False na

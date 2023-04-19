@@ -491,9 +491,9 @@ gen. ρθη, False eng
 or ΟΥ̓ False eng
 acc. 80Ο, False eng
 # 86 38 37 Aayds or Aayds,  -d or -wW,  6,  hare. λαγῶς οἵ λαγώς,  -ὦ οἵ -ώ,  ὁ,  λαγε.
-λαγῶς Aayds True lex
+λαγώς
 or οἵ False eng
-λαγώς, Aayds, True lex
+λαγῶς, Aayds, True lex
 -ῶ False na
 or οἵ False eng
 -ώ, False na

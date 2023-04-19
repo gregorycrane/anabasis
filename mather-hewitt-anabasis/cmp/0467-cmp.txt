@@ -102,7 +102,7 @@ the [86 False eng
 rider. τίἀευ. False eng
 
 # 20 42 44 icOpéds,  -of,  isthmus,  esp. the Isthmus ἱσθμός,  -ου,  2ελλ»ε1έ5,  Ἔ5Ρ0. ἦε 7 Ἴλρετς
-ἱσθμός, False na
+ἰσθμός, False na
 -ου, -of, True pp
 isthmus, 2ελλ»ε1έ5, False eng
 esp. Ἔ5Ρ0. False eng
@@ -120,7 +120,7 @@ with ἢ False eng
 the [6 False eng
 mainland. τηδ] False eng
 # 24 41 40 tadaAevpos,  -ov [icos,  mrAevpd,  side], ἱσόπλευρος,  -ον [ἴσος,  πλευρά,  “142],
-ἱσόπλευρος, False na
+ἰσόπλευρος, False na
 -ον -ov True pp
 [ἴσος, [icos, True lex
 πλευρά, mrAevpd, True lex
@@ -168,8 +168,8 @@ adv., δᾶν., False eng
 equally, εφιέαίν, False eng
 alike. αἰϊξε. False eng
 # 31 45 45 toroxerss,  -és [Yoos,  xetAos,  lip,  brim], ἱσοχειλής,  -ἔς [ἴσος,  χεῖλος,  ἐΐ,  ὁγ19, ,
-ἱσοχειλής, False na
--és -ἔς False na
+ἰσοχειλής, False na
+-ές -ἔς False na
 [ἴσος, [Yoos, True lex
 χεῖλος, xetAos, True lex
 lip, ἐΐ, False eng
@@ -192,7 +192,7 @@ a ἃ False eng
 full [ι]] False eng
 vessel. νε556]. False eng
 # 34 37 38 "Iocol,  -d» (commonly ‘Iaaés,  -08), Ἴσσοί,  -ῶν (σοπητηοηὶν ᾿Ισσός,  -ουν,
-Ἴσσοί, False na
+Ἰσσοί, False na
 -ῶν False na
 (commonly (σοπητηοηὶν False eng
 ᾿Ισσός, False na
@@ -338,7 +338,7 @@ Eng. Επρ. False na
 for ῖγ False eng
 'very’). “ False na
 # 60 46 46 la-xts,  -vos,  7,  strength,  force,  forces, ἰσχῦς,  -ύος,  ἡ,  σἰγεγιρίά,  γογεδ,  7ογεός,
-ἰσχῦς, False na
+ἰσχύς, False na
 -ύος, False na
 ἡ, 7, True case
 strength, σἰγεγιρίά, False eng
@@ -392,14 +392,14 @@ a ἃ False eng
 shield. 581ε]4, False eng
 
 # 70 43 44 ly Os,  -vos,  6 [bor.,  Eng. ichthyology], ἰχθύς,  -ὕος,  ὁ [θοτ.,  ΕΏὩρ. ἸοΒ ΒγοΪοσΥ],
-ἰχθύς, False eng
+ἰχθῦς, False eng
 -ύος, False na
 ὁ -vos, True lex
 [bor., ΕΏὩρ. False eng
 Eng. ἸοΒ False na
 ichthyology], ΒγοΪοσΥ], False eng
 # 71 6 7 fish.; , ελ. ᾿
-fish.; , False eng
+fish. , False eng
 # 72 37 38 txveov,  -ov [diminutive of Il xvos], ἴχνιον,  -ου [ἀϊτηϊπυῖϊδννε οἱ ἔχνος],
 ἴχνιον, txveov, True pp
 -ου -ov True pp
@@ -468,6 +468,7 @@ on ου False eng
 the [ῃς False eng
 # 82 6 6 south. ΒΟΌΓΗ,
 south. ΒΟΌΓΗ, False eng
+#
 Ἰωνικός, False na
 -ή, False na
 -όν -dy True pp

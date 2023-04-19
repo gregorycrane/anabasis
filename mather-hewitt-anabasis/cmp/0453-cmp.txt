@@ -13,10 +13,8 @@ adv., δάν. False eng
 # 3 11 12 Just where. 7μεέ τυλεγέ.
 Just 7μεέ False na
 where. τυλεγέ. False eng
-# 4 26 25 EvOépevor,  see evr lOniu. ἐνθέμενοι,  5εε ἐντίθημι.
-ἐνθέμενοι, EvOépevor, True form
-see 5εε False eng
-ἐντίθημι. evr True lex
+
+
 # 5 39 40 évOev,  adv.,  (1) rel.,  whence,  from ἔνθεν,  δΔήν.,  (1) τεῖ.,  τοόρεε,  7 οὔ
 ἔνθεν, évOev, True lex
 adv., δΔήν., False eng
@@ -91,10 +89,7 @@ Eng. Επρ. False na
 enthymeme ΘηΓΒΥΠΊΘΠ16]1, False eng
 ἑαΐξα. ], True pp
 idea. NA False na
-# 17 14 14 évi,  see els. ἑνί,  566 εἰς.
-ἑνί, évi, True form
-see 566 False eng
-els. εἰς. False eng
+
 # 18 36 38 éviaurés,  -00,  year; Kar’ évavrdy, ἐνιαυτός,  -οὔ,  γέαγ,; κατ᾽ ἐνιαυτόν,
 ἐνιαυτός, éviaurés, True lex
 -οῦ, False na
@@ -118,7 +113,6 @@ times, Ζ217165, False eng
 some- 50716- False na
 # 22 8 9 times. . Ζ1ρ165. .
 times. Ζ1ρ165. False eng
-. . False na
 # 23 39 44 évvéa [cogn.,  Lat. novem,  xine,  Eng. ἐννέα [ςορῃ.,  [, Δῖ. ΠΟΥ͂ΘΠι,  »27:4,  ΕὩρ.
 ἐννέα évvéa True lex
 [cogn., [ςορῃ., False na
@@ -197,10 +191,7 @@ reasons γεαδογς False eng
 the ἴῃς False eng
 matter) πχαίίεγ) False eng
 why. τυΐγ. False eng
-# 35 16 15 évéds,  see els. ἑνός,  566 εἷς.
-ἑνός, évéds, True form
-see 566 False eng
-els. εἷς. False eng
+
 # 36 36 36 évoxAéw,  evoxAjow,  hvwxAnTa,  Hvw- ἐνοχλέω,  ἐνοχλήσω,  ἠνώχλησα,  ἠνώ-
 ἐνοχλέω, évoxAéw, True pp
 ἐνοχλήσω, evoxAjow, True pp
@@ -418,10 +409,7 @@ Introd. [πηἰτοά, False na
 # 75 5 5 § 56. ὃ 56.
 § True form
 56. 56. False na
-# 76 12 12 df,  see éx. ἐξ,  5εε ἐκ.
-ἐξ, df, True form
-see 5εε False eng
-ἐκ. éx. True lex
+
 # 77 37 41 % [cogn.,  Lat. sex,  six,  Eng. six; ἕξ [οορῃ.,  1.41. 86Χ,  “1χ,  Ἑπρ. ΒὶζχΧ;
 ἕξ % True lex
 [cogn., [οορῃ., False na
@@ -493,8 +481,8 @@ acc. δος, False eng
 [ἑξάκις, [ False na
 six ἑξάκις, False eng
 times, εἦχ False na
-# 90 35 36 xtrrot,  thousand ],  stx thousand, χίλιοι,  ἐλοτέδα, α ,  οἵα ᾿δοιδαγώ,
 χίλιοι, xtrrot, True lex
+# 90 35 36 xtrrot,  thousand ],  stx thousand, χίλιοι,  ἐλοτέδα, α ,  οἵα ᾿δοιδαγώ,
 thousand ἐλοτέδα, False eng
 ], α False na
 six , False na

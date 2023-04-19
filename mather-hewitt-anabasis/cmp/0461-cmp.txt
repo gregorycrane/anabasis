@@ -111,6 +111,8 @@ standing βίαπάϊηρ False eng
 # 22 4 5 man, ΤΏΔΗ.
 man, ΤΏΔΗ. False eng
 # 23 40 40 édéropar [eropuat,  follow],  follow af- ἐφέπομαι [ἔπομαι,  γοἠζοτυ],  γολζοτυ αἴ
+ἐφέπω,
+mid.,
 ἐφέπομαι édéropar True pp
 [ἔπομαι, [eropuat, True pp
 follow], γοἠζοτυ], False eng
@@ -259,8 +261,7 @@ of οὗ False eng
 with νἸῃ False eng
 # 49 35 33 changed accent ],  Aa¢red,  enmity. οῆδηρεά δοοεηῖ],  ἀαδγεω,  δ)» ν.
 changed οῆδηρεά False eng
-accent δοοεηῖ], False eng
-ἀαδγεω], ], True pp
+accent], ], True pp
 enmity. ν. False eng
 # 50 40 40 éxOpés,  -d,  -6» [2x0w,  hale],  hated, ἐχθρός,  -ά,  -ὁν [ἔχθω,  ἀκ!6},  ἠαϊεω,
 ἐχθρός, éxOpés, True lex
@@ -306,7 +307,6 @@ held, ἀφ, False eng
 tenable, ἱφριαύἑε, False eng
 strong. σίγοηρ. False eng
 Cp. Ορ. False na
-# 57 7 7 éxupés. ὀχυρός.
 ὀχυρός. éxupés. True lex
 # 58 36 38 exw,  &w and cxhow,  ~rxov,  Eoxnka, ἔχω,  ἔξω ἀῃηή σχήσω,  ἔσχον,  ἔσχηκα,
 ἔχω, exw, True pp
@@ -330,8 +330,7 @@ from, 7», False eng
 with γι, False eng
 acc. ἢ False eng
 and δος. False eng
-gen. δηὰ False eng
-3 ρεη.; False na
+gen.; δηὰ False eng
 # 62 31 39 secure; wear; command,  have as 5671476.,  τύδαῇ ,  εκορηαηαῖ,  ἄσυέ ας
 secure; 5671476., False eng
 wear; τύδαῇ False eng
@@ -504,7 +503,7 @@ east, ας, False eng
 # 90 46 50 €ws,  conj.,  util,  while,  as long as,  with ἕως,  σΟη].,  τεη121}. τολ το,  ας ἐογρ' α5,  νυ ἢ
 ἕως, €ws, True lex
 conj., σΟη]., False eng
-util, τεη121}. False eng
+until, τεη121}. False eng
 while, τολ False eng
 as το, False eng
 long ας False eng

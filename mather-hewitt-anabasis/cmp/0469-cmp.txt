@@ -195,13 +195,7 @@ crasis οταβὶ5 False eng
 for ἴογ False eng
 καὶ False eng
 ἐντεῦθεν. évredOev. True lex
-# 35 36 35 Katretra,  by crasis for xal érevra. κἄπειτα,  ὈΥ οταϑὶβ ἴοσ καὶ ἔπειτα.
-κἄπειτα, False na
-by ὈΥ False eng
-crasis οταϑὶβ False eng
-for ἴοσ False eng
-καὶ xal True form
-ἔπειτα. érevra. True lex
+
 # 36 33 33 KamnAetov,  -ov [xdrndos,  relail καπηλεῖον,  -ου [κάπηλος,  γείαϊἠ
 καπηλεῖον, KamnAetov, True pp
 -ου -ov True pp

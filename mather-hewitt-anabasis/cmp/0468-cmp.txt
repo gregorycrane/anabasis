@@ -370,13 +370,7 @@ burn, ὀμγη, False eng
 kindle, ἀἐϊπαΐσ, False eng
 keep ἔεοῤ False eng
 burning. ὀπέγγεῖρρ. False eng
-# 62 37 37 Kaxetvos,  by crasis for xal éxeivos. κἀκεῖνος,  ὈΥ οταδὶ5 ἔοσ καὶ ἐκεῖνος.
-κἀκεῖνος, False na
-by ὈΥ False eng
-crasis οταδὶ5 False eng
-for ἔοσ False eng
-καὶ xal True form
-ἐκεῖνος. éxeivos. True lex
+
 # 63 39 40 kaxdvous,  -ovv [xaxds,  vois,  mind ], κακόνους,  -ουν [κακός,  νοῦς,  »εἰ»α7],
 κακόνους, kaxdvous, True pp
 -ovv -ουν False na

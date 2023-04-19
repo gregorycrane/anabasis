@@ -1,7 +1,7 @@
 # 0 3 3 452 452
 452 452 False na
 # 3 37 38 nmep [fem. dat. of b0mep,  just who), ἧπερ [{ετὰ. Αἱ,  οἵ ὅσπερ,  γι’ τυλοΊ,
-ἧπερ False na
+ᾗπερ False na
 [fem. [{ετὰ. False eng
 dat. Αἱ, False eng
 of οἵ False eng
@@ -333,7 +333,7 @@ boldness, ὀοζιίγεες, False eng
 136, 136, False na
 21. 21. False na
 # 70 39 39 Sappéw,  Oappiow,  €0dppnoa,  TeOdppnka ϑαρρέω,  θαρρήσω,  ἐθάρρησα,  τεθάρρηκα
-ϑαρρέω, Sappéw, True pp
+θαρρέω, Sappéw, True pp
 θαρρήσω, Oappiow, True pp
 ἐθάρρησα, €0dppnoa, True pp
 τεθάρρηκα TeOdppnka True pp

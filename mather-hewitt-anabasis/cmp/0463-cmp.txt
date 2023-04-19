@@ -2,10 +2,10 @@
 # 1 36 36 Hdopar,  Fob4oouar,  foOnv [root 4d, ἥδομαι,  ἡσθήσομαι,  ἤσθην [τοοὶ ἁδ,
 ἥδομαι, Hdopar, True pp
 ἡσθήσομαι, Fob4oouar, True pp
-ἤσθην foOnv True pp
+ἥσθην foOnv True pp
 [root [τοοὶ False eng
 ἁδ, False na
-# 2 36 39 originally fad; cogn.,  Lat. suavis, ΟΥ̓ΡΊΠΔΙΥ σραδ; σορῃ.,  [, Ἃϊ. ϑυᾶν 18,
+# 2 36 39 originally σϝαδ; cogn.,  Lat. suavis, ΟΥ̓ΡΊΠΔΙΥ σραδ; σορῃ.,  [, Ἃϊ. ϑυᾶν 18,
 originally ΟΥ̓ΡΊΠΔΙΥ False eng
 fad; σραδ; False eng
 cogn., σορῃ., False na
@@ -94,7 +94,7 @@ a ἃ False eng
 fut. ἔπϊ. False eng
 pf. ρ΄. False eng
 meaning), τηϑδηΐηρ), False eng
-de ὁέ False eng
+be ὁέ False eng
 # 19 32 34 come,  have come; come,  arrive; κοό,  ἄαυε «0725,  «γιό,  αγγῖίνε,
 come, κοό, False eng
 have ἄαυε False eng
@@ -104,15 +104,12 @@ arrive; αγγῖίνε, False eng
 # 20 10 10 come back. κοῦ! ὀαεξ.
 come κοῦ! False eng
 back. ὀαεξ. False eng
-# 21 19 19 NAace,  see éAavvw. ἤλασε,  5εε ἐλαύνω.
-ἤλασε, NAace, True form
-see 5εε False eng
-ἐλαύνω. éAavvw. True pp
+
 # 22 38 43 "Helos,  -ov ["Hds,  Zkis],  Eléan,  a ᾿Ηλεῖος,  -ου [Ἦλις,  ΖΦ 12],  ΤΕ Ἴξα»:,  ἃ
-"Helos, ᾿Ηλεῖος, False na
+Ἠλεῖος, False na
 -ου -ov True pp
 [Ἦλις, ["Hds, True lex
-Ekis], ΖΦ False na
+Elis], ΖΦ False na
 Eléan, 12], False na
 a ΤΕ False eng
 # 23 37 38 native of Elis,  a state in the west- ηδίϊνε οὗ ΕἸ15,  ἃ βίαϊες ἰὴ [6 ννοϑῖ-
@@ -183,7 +180,7 @@ is 158 False eng
 compared. σοπηρᾶτεά, False eng
 
 # 33 39 37 NAlBaros,  -ov,  poetic,  high,  steep. ἡλίβατος,  -ον,  ροεῖϊς,  ἀζρά,  «δε.
-ἡλίβατος, NAlBaros, True pp
+ἠλίβατος, NAlBaros, True pp
 -ον, -ov, True pp
 poetic, ροεῖϊς, False eng
 high, ἀζρά, False eng

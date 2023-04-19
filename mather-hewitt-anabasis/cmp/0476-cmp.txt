@@ -253,10 +253,7 @@ Fig. ΕἸρ. False na
 # 41 7 8 p. 165. Ρ. 1Ιός.
 p. Ρ. False eng
 165. 1Ιός. False na
-# 42 20 20 Aaxav,  see Aayxdvw, λαχών,  5ε6 λαγχάνω.
-Aaxav, λαχών, False na
-see 5ε6 False eng
-λαγχάνω. Aayxdvw, True pp
+
 # 43 41 41 Adyw,  Ad=w,  EreFa,  AdAeypar,  EAéyOny; λέγω,  λέξω,  ἔλεξα,  λέλεγμαι,  ἐλέχθην;
 λέγω, Adyw, True pp
 λέξω, Ad=w, True pp
@@ -459,7 +456,7 @@ the τΠ6 False eng
 modern τηοάδγῃ False eng
 Lentini. ΖθρμΖιγε. False na
 # 78 35 36 AevKoOwpak,  -axos [Aevxds,  Owpat, λευκοθώραᾶξ,  -ἄκος [λευκός,  θώρᾶξ,
-λευκοθώρααξ, False na
+λευκοθώραξ, False na
 -ᾶκος False na
 [λευκός, [Aevxds, True lex
 θώρᾶξ, False na
@@ -524,7 +521,7 @@ monolith ΤΊ False eng
 ], ΟΠ False na
 stone. 0110}, False eng
 # 91 30 34 Aipes,  -o0,  hunger,  famine. λῖμός,  -ου,  ἀτεγρε»,  , αρεῖγεθ.
-λῖμός, False na
+λιμός, False na
 -ου, -o0, True pp
 hunger, ἀτεγρε», False eng
 famine. , False eng

@@ -1,5 +1,4 @@
-# 0 3 3 460 40ο
-460 40ο False na
+
 # 1 36 35 xaropitre [dpirry,  dig),  dig down: κατορύττω [ὀρύττω,  εὐ],  αὐ ἀἰστον
 κατορύττω xaropitre True pp
 [ὀρύττω, [dpirry, True pp
@@ -255,7 +254,7 @@ of οὗ False eng
 Phrygia, ΡΒ False na
 
 # 47 38 39 Kepdvvtp,  exépaca,  xéxpauas,  éxepd- κεράννῦμι,  ἐκέρασα,  κέκρᾶμαι,  ἐκερά-
-κεράννῦμι, Kepdvvtp, True pp
+κεράννυμι, Kepdvvtp, True pp
 ἐκέρασα, exépaca, True pp
 κέκραμαι, xéxpauas, True pp
 ἐκερά- False na

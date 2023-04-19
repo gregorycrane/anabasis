@@ -16,12 +16,7 @@ swearing “τυφα False eng
 # 4 19 16 falsely,  perjured, 7)αἐδείν,  λεγε,
 falsely, 7)αἐδείν, False eng
 perjured, λεγε, False eng
-# 5 31 32 émiotora,  see éretu,  come on. ἐπιοῦσα,  566 ἔπειμι,  0516 071.
-ἐπιοῦσα, émiotora, True pp
-see 566 False eng
-ἔπειμι, éretu, True pp
-come 0516 False eng
-on. 071. False eng
+
 # 6 37 39 émumdperpe [wdpeu,  go fo],  go along ἐπιπάρειμι [πάρειμι,  ρὉ 10],  ρο αὐογρ
 ἐπιπάρειμι émumdperpe True pp
 [πάρειμι, [wdpeu, True pp
@@ -140,7 +135,7 @@ bor., ὍοΥ, False eng
 # 28 38 37 Eng. episcopal],  Jook upon,  inspect. Επρ. ΘΡί80Ο0Ρ411,  σοῦ τέῤογι,  7156.
 Eng. Επρ. False na
 episcopal], ΘΡί80Ο0Ρ411, False eng
-λlook True lex
+look True lex
 upon, τέῤογι, False eng
 inspect. 7156. False eng
 # 29 34 36 émusmdw [ordw,  draw),  draw to or ἐπισπάω [σπάω,  ἐγατυ,  ἐἄγατὺ 10 οτ
@@ -156,10 +151,7 @@ mid., ταϊά., False eng
 drag ἄγαρ False eng
 after α7167, False eng
 oneself. ογιοσοῦς False eng
-# 31 26 25 érlomowro,  see édérropat. ἐπίσποιτο,  5ες ἐφέπομαι.
-ἐπίσποιτο, érlomowro, True form
-see 5ες False eng
-ἐφέπομαι. édérropat. True pp
+
 # 32 37 36 érlorapar,  érisrhocouat,  AristHOny, ἐπίσταμαι,  ἐπιστήσομαι,  ἠπιστήθην,
 ἐπίσταμαι, érlorapar, True pp
 ἐπιστήσομαι, érisrhocouat, True pp
@@ -257,7 +249,7 @@ on, ο»:, False eng
 with Μ᾿ False eng
 dat. ἀδῖ. False eng
 # 54 31 34 émodatrwa [oddrrw,  slay],  sla ἐπισφάττω [σφάττω,  τ:ἰαγ}γ},  σία
-ἐπισφάττω émodatrwa True pp
+ἐπισφάζω émodatrwa True pp
 [σφάττω, [oddrrw, True pp
 slay], τ:ἰαγ}γ}, False eng
 slay,
@@ -273,7 +265,7 @@ acc. ἢ False eng
 and δος. False eng
 dat. δια False eng
 # 57 33 37 émratre [ratrw,  assign],  enjoin ἐπιτάττω [τάττω,  ἀ551071],  4᾽170172
-ἐπιτάττω émratre True pp
+ἐπιτάσσω émratre True pp
 [τάττω, [ratrw, True pp
 assign], ἀ551071], False eng
 enjoin 4᾽170172 False eng
@@ -406,7 +398,7 @@ rush γι False eng
 upon, 1401, False eng
 assault, ἀ55α False eng
 # 79 40 40 émurvyy ave [Truyxdvw,  happen),  chance ἐπιτνγχάνω [τυγχάνω,  λα ε᾽11,  εὐ αγ1εδ
-ἐπιτνγχάνω émurvyy True pp
+ἐπιτυγχάνω émurvyy True pp
 [τυγχάνω, False eng
 happen], ε᾽11, False eng
 chance εὐ False eng
@@ -418,19 +410,20 @@ find, Ληιαῖ, False eng
 with νι False eng
 dat. ἢ False eng
 # 81 40 39 émipalvopat [palvw,  show ,; bor.,  Eng. ἐπιφαίνομαι [φαίνω,  σἦοτὸ; Ὀοτ.,  Επρ.
-ἐπιφαίνομαι émipalvopat True pp
+ἐπιφαίνω émipalvopat True pp
 [φαίνω, [palvw, True pp
 show σἦοτὸ; False eng
 bor., Επρ. False eng
 Eng. NA False na
 # 82 34 36 epiphany],  show oneself,  come in ΘΡΙΡΒΔΗΥ7,  φἀοτυ ογιόδοῖς κοῦ 6 172
 epiphany], ΘΡΙΡΒΔΗΥ7, False eng
+mid.,
 show φἀοτυ False eng
 oneself, ογιόδοῖς False eng
 come κοῦ False eng
 in 6 False eng
 # 83 15 15 Sight,  appear. σἵρἠΐ,  αῤῥέαγ.
-Sight, σἵρἠΐ, False na
+sight, σἵρἠΐ, False na
 appear. αῤῥέαγ. False eng
 # 84 35 37 éridépw [dépw,  dear],  bring upon; ἐπιφέρω [φέρω,  ὀδωγ},  ὀγίτιρ το71:,
 ἐπιφέρω éridépw True pp

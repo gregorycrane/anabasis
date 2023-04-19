@@ -1,5 +1,4 @@
-# 0 2 3 62 402
-62 402 False na
+
 # 1 33 31 have lived near Trapezus in Xeno- πανὸ Ἰνο ποᾶὺ Τταρώζυ5 ἰῃ Χεπο-
 have πανὸ False eng
 lived Ἰνο False eng
@@ -61,7 +60,7 @@ inter- ἰπῖοτ- False na
 # 11 6 6 ested. ὀδίοη,
 ested. ὀδίοη, False na
 # 12 37 39 Kovuaros,  -η,  -dy (verbal of Komdw, κονιᾶτός,  -ή,  -όν (νοτῦ αὶ οἵ κονιάω,
-κονιᾶτός, False na
+κονιατός, False na
 -ή, -η, True pp
 -όν -dy True pp
 (verbal (νοτῦ False eng
@@ -492,8 +491,8 @@ barley. δαγέεγ. False eng
 [κριθή], [xpt04], True lex
 of 977 False eng
 barley; δαγίεν» False eng
-# 88 38 40 olvos xplOcvos,  beer,  which is still οἶνος κρίθινος,  ὁέεέγ,  ΜΏϊΪσ ἢ ἰ5. 51}
 οἶνος olvos True lex
+# 88 38 40 olvos xplOcvos,  beer,  which is still οἶνος κρίθινος,  ὁέεέγ,  ΜΏϊΪσ ἢ ἰ5. 51}
 κρίθινος, xplOcvos, True lex
 beer, ὁέεέγ, False eng
 which ΜΏϊΪσ False eng
