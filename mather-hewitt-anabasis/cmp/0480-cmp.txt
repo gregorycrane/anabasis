@@ -26,6 +26,7 @@ uses: δὲ: False eng
 ὁ 6 True lex
 μὲν, pey...6 True form
 ὁ dé, True lex
+δέ,
 # 5 38 44 one... the other,  pl. some... others, οὐδ... 4“λε οὐδεν,  Ηἱ. δορηι δ. .. οἱδενγς,
 one... οὐδ... False eng
 the 4“λε False eng
@@ -96,21 +97,22 @@ maneo, Δῖ. False na
 remain], πιδηθῦ, False eng
 remain, γενια False eng
 stay, 1], False eng
-# 15 35 36 watt,  Lat. waned,  rematnin force; τα,  Τα,  νια πε,  γένιαι.171 70 γε,
+# 15 35 36 watt,  Lat. waned,  remainin force; τα,  Τα,  νια πε,  γένιαι.171 70 γε,
 wait, τα, False eng
 Lat. Τα, False na
 waned, νια False eng
-rematnin πε, False na
+remain
+in πε, False na
 force; γένιαι.171 False eng
 # 16 38 36 transitive,  wart for,  Lat. exspecto. ἰγαποῖνο,  τα 207,  1, αἴ. ἐχςδεοίο,
 transitive, ἰγαποῖνο, False eng
-wart τα False eng
+wait τα False eng
 for, 207, False eng
 Lat. 1, False na
 αἴ. exspecto. True lex
 # 17 41 41 Mévwv,  -wvos,  6,  J/enon,  a general in Μένων,  -ωνος,  ὁ,  Ἴλομον,  ἃ βοπεταὶ ἴῃ
 Μένων, Mévwv, True pp
--wvos, -ωνος, False na
+-ωνος, False na
 ὁ, 6, True lex
 Menon, True pp
 a ἃ False eng
@@ -430,7 +432,8 @@ see αἷσδὸ False eng
 above. ΔΌονα. False eng
 # 70 25 23 peTayryvorkw  [yryveoKkw, μεταγιγνύσκω [γιγνώσκω,
 μεταγιγνώσκω peTayryvorkw True pp
-[γιγνώσκω, [yryveoKkw, True pp
+[γιγνώσκω, yryveoKkw, True pp
+think],
 # 71 18 20 change one’s mind. εὔσαηρε ογεῖς ρεῖρα,
 change εὔσαηρε False eng
 one’s ογεῖς False na
@@ -536,11 +539,8 @@ come σοῖηδ False eng
 to ἴο False eng
 oneself, ΟΠ False eng
 summon. φ56] False eng
-# 88 29 29 peracrdvres,  peracTyodpevos, μεταστάντες,  μεταστησάμενος,
-μεταστάντες, peracrdvres, True pp
-μεταστησάμενος, peracTyodpevos, True form
-# 89 9 10 peOlornm. μεθίστημι.
-μεθίστημι. peOlornm. True pp
+
+
 # 90 42 42 péreore [elul,  de],  impers.,  there is @ μέτεστι [εἰμί,  ὁ67,  ᾿τρετβ.,  δέεγε ἐς ὦ
 μέτεστι péreore True form
 [εἰμί, False eng

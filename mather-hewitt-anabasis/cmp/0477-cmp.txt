@@ -268,7 +268,7 @@ Cyrus. Ουγυβ. False na
 Λύδιος, AS8.0s, True lex
 -α, -4, True pp
 -ον -ov True pp
-[Avdés], [Λῦδός], False na
+[Λυδός], [Λῦδός], False na
 of οΓ False eng
 Lydia, δΔργαΐα, False na
 # 43 7 10 Lydian. 2, γαϊα»:.
@@ -352,7 +352,7 @@ of οὗ False eng
 the {π6 False eng
 empire. ετορῖγε. False eng
 # 59 41 44 Avxiovia,  -ας,  Lycadnta,  a district of ΔΛυκδονίᾷ,  -ας,  ἡ γεαδηιέα,  ἃ ἀἰκιτίοι οὗ
-Λυκδονία, False na
+Λυκαονία, False na
 -ας, -ας, False na
 ἡ Lycadnta, True case
 a γεαδηιέα, False eng

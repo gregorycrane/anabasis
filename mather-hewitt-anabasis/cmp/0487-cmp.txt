@@ -175,7 +175,7 @@ inf.; ἰπΐ,; False eng
 ὀλίγων, éXlywr, True pp
 a ἃ False eng
 # 29 36 36 Jew men deep. Neut. acc. as adv.,  a 7) νιϑρ αδοῤ. Νεαῖ. ἃςο. 85 δάν.,  ὦ
-Jew 7) False na
+few 7) False na
 men νιϑρ False eng
 deep. αδοῤ. False eng
 Neut. Νεαῖ. False na
@@ -434,8 +434,8 @@ equally. ἐφιαϊζίν. False eng
 etc. εἴς. False eng
 [cp. [ςρ. False eng
 ὁμοῦ, dpuod, True pp
-# 74 37 37 Aéyw,  say,  bor.,  Eng. homologous ] λέγω,  54),  Ὀοτ.,  Επρ. ΒΟΠΊΟΙΟΡΟΙΒ]
 λέγω, Aéyw, True pp
+# 74 37 37 Aéyw,  say,  bor.,  Eng. homologous ] λέγω,  54),  Ὀοτ.,  Επρ. ΒΟΠΊΟΙΟΡΟΙΒ]
 say, 54), False eng
 bor., Ὀοτ., False eng
 Eng. Επρ. False na

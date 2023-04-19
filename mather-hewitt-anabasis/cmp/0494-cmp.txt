@@ -115,8 +115,7 @@ word; ᾿'νοτὰ; False eng
 bor., Ὀογ., False eng
 # 20 33 39 Eng. paradise |; pu,  an inclosed Επρ. ρδῖδάϊ 86}; 2ι»γ,  ἐ,  δὴ ἱποϊοβεά
 Eng. Επρ. False na
-paradise ρδῖδάϊ False eng
-`; 86}; False na
+paradise]; ρδῖδάϊ False eng
 inclosed δὴ False eng
 # 21 33 31 pleasure ground,  usually stocked ΡΙόαθαγα στουηι,  ἀβιδ} 5ιοςκοὰ
 pleasure ΡΙόαθαγα False eng
@@ -331,8 +330,8 @@ off, σηονν, False eng
 run ἐἐ False eng
 off. οὔ» False eng
 Cp. γῃ False na
-# 66 9 9 weptppéw. περιρρέω.
 περιρρέω. weptppéw. True pp
+
 # 67 38 41 mwapacayyns,  -ov (Persian word,  mod- παρασάγγης,  -ου (Ρετγοίαῃ ννοτά,  τπηοᾶ-
 παρασάγγης, mwapacayyns, True lex
 -ου -ov True pp

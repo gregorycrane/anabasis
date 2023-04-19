@@ -377,8 +377,8 @@ up. ] False eng
 [παγχάλεπος [rayxdXeros True lex
 (πᾶς, False eng
 all, αἰ, False eng
-# 67 37 30 xarerbs,  dificult),  very dificult], χαλεπός,  ἀἠμεί,  νερν ἀϊμαρῆ,
 χαλεπός, xarerbs, True lex
+# 67 37 30 xarerbs,  dificult),  very dificult], χαλεπός,  ἀἠμεί,  νερν ἀϊμαρῆ,
 dificult), ἀἠμεί, False na
 very νερν False eng
 dificult], ἀϊμαρῆ, False na
@@ -489,7 +489,7 @@ of οὗ False eng
 little ἐΣχεϊδ False na
 # 87 14 15 child,  baby.; εἀτἰά,  δαόγ. .
 child, εἀτἰά, False eng
-baby.; δαόγ. False eng
+baby. δαόγ. False eng
 # 88 36 38 mwarsioxn,  -ys [diminutive of ais], παιδίσκη,  -ης [ἀϊπηϊπυῖίΐνα οὗ παῖς],
 παιδίσκη, mwarsioxn, True lex
 -ης False na

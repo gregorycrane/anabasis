@@ -354,7 +354,7 @@ on ου False eng
 the ἴῃῆε False eng
 Maeander. Μαβρδπάευ. False na
 # 66 38 40 weATaorhs,  -o8 [réAr7],  one who car- πελταστῆς,  -ου [πέλτη],  ογ:6 τυἦο εα7-
-πελταστῆς, False na
+πελταστής, False na
 -ου -o8 True pp
 [πέλτη], [réAr7], True lex
 one ογ:6 False eng
@@ -368,7 +368,7 @@ peltast, ὦ False eng
 targeteer. πέλτη, False eng
 See εΐαςί, False na
 # 68 40 41 Introd. §§ 57,  59,  and Fig. 8,  p. 41. Ιηἰτοά. δὲ ς7,  59,  8δηα ΕἸρ. 8,  Ρ. 41.
-Ιηἰτοά. Introd. True pp
+Introd. True pp
 δὲ §§ True form
 57, ς7, False na
 59, 59, False na

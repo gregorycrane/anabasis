@@ -1,5 +1,4 @@
-# 0 3 3 470 170
-470 170 False na
+
 # 1 34 37 Lat. neque; pyre... unre,  neither 7.αἱ. πιόφμο,  μήτε... μήτε,  μείΐλον
 Lat. 7.αἱ. False na
 neque; πιόφμο, False na
@@ -23,7 +22,7 @@ but ὁμ2 False eng
 also, α{δο, False eng
 # 4 17 22 Lat. segue... et. 1, Αἱ. μέψιιθ. .. ἐφ΄.
 Lat. 1, False na
-aegue... Αἱ. False eng
+aeque... Αἱ. False eng
 et. μέψιιθ. False eng
 # 5 40 43 BATHP,  unr pds,  7 [cogn.,  Lat. mater, μήτηρ,  μητρός,  ἡ [ὁοὑρῃ.,  [, 8ἴ. πιϑίοσ,
 μήτηρ, BATHP, True lex
@@ -51,7 +50,7 @@ mother. γεοδῇεν, False eng
 [μηχανή], [unxavh), True lex
 con- ε0»- False na
 # 10 6 3 “rive. ἦγ.
-tive. ἦγ. False na
+trive. ἦγ. False na
 # 11 31 39 Bnxavh,  -js [bor Lat. machina, μηχανή,  -ς [ὄ"οτ΄,  [, 4ἴ,  τη δοδίπα,
 μηχανή, Bnxavh, True lex
 -ῆς False na
@@ -76,7 +75,7 @@ device, πές, False eng
 means. ἀσυϊος, False eng
 
 # 16 41 44 Midas,  -ov,  A/idas,  a mythical king of Μίδᾶς,  -ου,  27 (κἀς-,  ἃ ταγτηϊοαὶ Κίηρ οὗ
-Midas, Μίδᾶς, False na
+Μίδας, False na
 -ου, -ov, True pp
 Midas, 27 False na
 a (κἀς-, False eng
@@ -340,7 +339,7 @@ pl. Μδ5ς. False eng
 as Ρ]. False eng
 subst., 85 False eng
 # 61 12 16 mercenartes. »167 “2714 7165.
-mercenartes. »167 False na
+mercenaries. »167 False na
 # 62 38 40 probde,  pucbdow,  etc. [molds],  hire μισθόω,  μισθώσω,  εἴς. [μισθός],  Ζλῖγε
 μισθόω, probde, True pp
 μισθώσω, pucbdow, True pp

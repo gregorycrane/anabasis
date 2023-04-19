@@ -370,8 +370,8 @@ about ἂροιΐ False eng
 B.C. Β.0. False na
 τὸ 7d True form
 Μηδίας Myédlas True form
-# 59 31 35 tetxos,  the wall of Media; its τεῖχος,  τὴς τουωδ οΥἡἹ Μεαϊα,  ἰῖ8
 τεῖχος, tetxos, True lex
+# 59 31 35 tetxos,  the wall of Media; its τεῖχος,  τὴς τουωδ οΥἡἹ Μεαϊα,  ἰῖ8
 the τὴς False eng
 wall τουωδ False eng
 of οΥἡἹ False eng
@@ -434,10 +434,7 @@ inhabitants ΠΑΡ False eng
 of ταηῖ5 False eng
 # 68 6 8 Media. Μεαϊΐαᾶ.
 Media. Μεαϊΐαᾶ. False na
-# 69 17 16 pO",  see purjre. μήθ᾽,  566 μήτε.
-μήθ᾽, False na
-see 566 False eng
-μήτε. purjre. True lex
+
 # 70 42 38 pykére [uu + ere,  stzd/,  with x inserted μηκέτι [μή -ἰ ἔτι,  2],  1  κ Ἰηβετίεά
 μηκέτι pykére True lex
 [μή [uu True lex
@@ -515,8 +512,8 @@ why, μήν, False eng
 and αηαἱ False eng
 surely φηγοὶν False eng
 not; πο, False eng
-ἢ % True lem
-why, μήν, False eng
+ἦ % True lem
+μήν, False eng
 on ογ᾽ False eng
 one’s ΟἿΘ᾽Β False na
 # 82 14 18 word of honor. τυογαΐ ο7 Ζο»107..
@@ -524,7 +521,7 @@ word τυογαΐ False eng
 of ο7 False eng
 honor. Ζο»107.. False eng
 # 83 36 40 phv,  unvds,  6 [cogn,  Lat. ménsis, μήν,  μηνός,  ὁ [ςορῃ.,  [, Δἴ. πιδη818,
-μήν, phv, True lex
+μείς, phv, True lex
 μηνός, unvds, True form
 ὁ 6 True lex
 [cogn, [ςορῃ., False na

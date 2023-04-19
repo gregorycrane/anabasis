@@ -80,7 +80,7 @@ mad, »ιαε, False eng
 ἐμακαρίσθην éuaxaplo True pp
 [μά- False na
 # 15 37 40 kap,  happy],  count happy,  consider καρ,  ἀαὴ}},  εοτε λα. .)}, ,  εοηδὴα δ᾽
-kap, καρ, False na
+καρ, False na
 happy], ἀαὴ}}, False eng
 count εοτε False eng
 happy, λα. False eng
@@ -458,7 +458,7 @@ strive. “ἴγῖσνε. False eng
 whip, τολτῥ, False eng
 flog. ον. False eng
 # 81 41 41 pdorté,  -iyos,  7,  whip,  bro pacrlywp, μάσττξ,  -ἴγος,  ἡ,  τυλίΖ; ὑπὸ μαστίγων,
-μάσττξ, False na
+μάστιξ, False na
 -ιγος, False na
 ἡ, 7, True case
 whip, τυλίΖ; False eng

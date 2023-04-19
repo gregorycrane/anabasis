@@ -127,23 +127,23 @@ retained τγεϊαϊηδα False eng
 in ἴῃ False eng
 ὁ pev... True lex
 μὲν...
-# 23 37 39 6 54,  one... the other,  ol pev...oi ὁ δέ,  ο:6.... 166 οἱἦξ᾽,  οἱ μὲν... οἱ
 ὁ 6 True lex
 δέ, 54, True lex
+# 23 37 39 6 54,  one... the other,  ol pev...oi ὁ δέ,  ο:6.... 166 οἱἦξ᾽,  οἱ μὲν... οἱ
 one... ο:6.... False eng
 the 166 False eng
 other, οἱἦξ᾽, False eng
 οἱ False eng
 μὲν...οἱ pev...oi True form
-# 24 34 37 dé,  some... others,  Ta pev... Ta δέ,  507, 16... οἵδόγε,  τὰ μὲν... τὰ
 δέ, dé, True lex
+# 24 34 37 dé,  some... others,  Ta pev... Ta δέ,  507, 16... οἵδόγε,  τὰ μὲν... τὰ
 some... 507, False eng
 others, 16... False eng
 τὰ pev... True form
 μὲν... Ta True form
 τὰ
-# 25 34 37 dé,  mow... now,  TH pev... TH 56, δέ,  πστο ... μοῖυ,  τῇ μὲν... τῇ δέ,
 δέ, dé, True lex
+# 25 34 37 dé,  mow... now,  TH pev... TH 56, δέ,  πστο ... μοῖυ,  τῇ μὲν... τῇ δέ,
 now... πστο False eng
 now, ... False eng
 τῇ pev... True lex

@@ -1,5 +1,4 @@
-# 0 3 3 486 486
-486 486 False na
+
 # 1 34 36 circle,  of fetters,  drop of. Cp. αἰγείε,  οἵ (εἰἴετθ,  ὡὐὐγοῦ οὕ. Οὐ.
 circle, αἰγείε, False eng
 of οἵ False eng
@@ -203,7 +202,7 @@ guardedly, γαγώ False eng
 # 40 11 8 cautiously. κατε ον.
 cautiously. κατε False eng
 # 41 32 34 ay,  enclitic adv.,  72 any way. πῇ,  ἐπο] εἰς δάν.,  722. 471} τα.
-πῇ, False eng
+πῃ, False eng
 enclitic ἐπο] False eng
 adv., εἰς False eng
 in δάν., False na
@@ -222,7 +221,7 @@ in ἴῃ False eng
 the ἴῃς False eng
 Anabasis. «ἡγαφας:ῖς. False na
 # 44 34 38 why,  miiw,  ernia,  wérnya,  érd- πήγνῦμι,  πήξω,  ἔπηξα,  πέπηγα,  ἐπά-
-πήγνῦμι, False eng
+πήγνυμι, False eng
 πήξω, miiw, True pp
 ἔπηξα, ernia, True pp
 πέπηγα, False na

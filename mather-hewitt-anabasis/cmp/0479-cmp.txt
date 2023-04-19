@@ -280,14 +280,8 @@ Eng. , False na
 amethyst], ἔπ. False eng
 be δλοῖθγυϑί], False eng
 drunk. ε False eng
-# 52 19 19 pelLwv,  see uéyas. μείζων,  566 μέγας.
-μείζων, pelLwv, True pp
-see 566 False eng
-μέγας. uéyas. True lex
-# 53 18 18 petvar,  see udvw. μεῖναι,  5.6 μένω.
-μεῖναι, petvar, True form
-see 5.6 False eng
-μένω. udvw. True pp
+
+
 # 54 44 44 petpdkcov,  -ov [petpat,  dass],  lad,  boy, μειράκιον,  -ουὐ [μεῖραξ,  ἦα5:7,  αἴ,  δον,
 μειράκιον, petpdkcov, True pp
 -ov -ουὐ False na
@@ -493,8 +487,8 @@ following [Ἰ]οννίηρ False eng
 δέ, 5é, True lex
 or οΥ False eng
 sometimes βοφμηδί!πηθ5 False eng
-with ψ False eng
 # 88 34 36 ad\Ad,  €reita,  or pévrow; it may ἀλλά,  ἔπειτα,  οΥἮ μέντοι : ἰἴ ΤῊΔΥ
+with ψ False eng
 ἀλλά, ad\Ad, True lex
 ἔπειτα, €reita, True lex
 or οΥἮ False eng

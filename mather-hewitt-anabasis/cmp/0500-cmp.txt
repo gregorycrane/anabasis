@@ -10,7 +10,7 @@ to γεαολέγρ᾽ False eng
 the ἦε False eng
 feet. Με. False eng
 # 3 38 38 -wodi{w,  -rodia,  werbdiopat,  érodl- -ποδίζω,  -ποδιῶ,  πεπόδισμαι,  ἐποδί-
--ποδίζω, -wodi{w, True pp
+ποδίζω, -wodi{w, True pp
 -ποδιῶ, -rodia, True pp
 πεπόδισμαι, werbdiopat, True pp
 ἐποδί- érodl- True half1
@@ -170,7 +170,7 @@ done. 410716. False eng
 -ή, -η, True pp
 -ον, -ov, True pp
 many-colored, »ηαγι)-εοὐογεα, False na
-arie- True half1
+varie- True half1
 # 28 6 4 gated. ΧΆ .
 gated. ΧΆ False eng
 # 29 45 45 arotos,  -a,  -ov [cp. olos,  of which sort], ποῖος,  -ἄἃ,  -ον [(Ρ. οἷος,  ογ τυλῖελ ςογῇ,

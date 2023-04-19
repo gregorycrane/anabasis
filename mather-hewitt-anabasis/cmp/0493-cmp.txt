@@ -8,7 +8,6 @@ girl, δον, False eng
 # 2 38 42 son,  daughter,  éx waidwy,  from boy- σο)1,  (πα ερλτεγ,  ἐκ παίδων,  “΄οηὲ ῥογ-
 son, σο)1, False eng
 daughter, (πα False eng
-éx ερλτεγ, False na
 ἐκ waidwy, True lex
 παίδων,
 from παίδων, False eng
@@ -176,8 +175,8 @@ by Ὀγ False eng
 the ἴῃς False eng
 Persian Ῥεγβίδῃ False na
 cavalry. οαναὶγγ. False eng
-Cp. Οὐ. False na
 # 28 5 5 dépu. δόρυ.
+Cp. Οὐ. False na
 δόρυ. dépu. True lex
 # 29 44 44 TraprAnOts,  -¢s [was,  a//,  rrAO0s,  greal παμπληθής,  -ές,  [πᾶς,  αὐ,  πλῆθος,  ργοωΐ
 παμπληθής, TraprAnOts, True lex
@@ -233,7 +232,7 @@ unscrupulous, η86, False na
 # 37 11 12 villainous, τι αϊγιοτές.
 villainous, τι False eng
 # 38 35 38 wavranact,  -c.v before vowcls [as, φιαντάπᾶσι,  -σιν Ὀεΐοτε νονοὶς [ πᾶς,
-παντάπᾶσι, False na
+παντάπασι, False na
 -σιν False na
 before Ὀεΐοτε False eng
 vowels νονοὶς False na

@@ -1,5 +1,4 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΑΒΌΙΑΚΥ False na
+
 # 1 35 37 sian king; miord,  pledges,  inter- δἰδὴ Κίηρ; πιστά,  ῤέξαϊσες,  ἱρμέεγ-
 sian δἰδὴ False na
 king; Κίηρ; False eng

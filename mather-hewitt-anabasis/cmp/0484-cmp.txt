@@ -71,7 +71,7 @@ in ῥαίέε. False eng
 battle. NA False eng
 # 13 42 45 vtxn,  -ns [bor.,  Eng. Nicholas,  Eunice, γίκη,  -ης- [Ῥοτ΄.,  Επν. ΝΊΟΒΟΙ48,  Επηΐοσθ,
 νίκη, False na
--ns -ης- False na
+-ης False na
 [bor., [Ῥοτ΄., False eng
 Eng. Επν. False na
 Nicholas, ΝΊΟΒΟΙ48, False na
@@ -329,7 +329,7 @@ the ἰἢς False eng
 Greek Οτεεὶκ False na
 army. Ἀυτηγ. False eng
 # 58 39 41 Flevls,  -ov,  Xenias,  a Greek general Ἐενίᾶς,  -ου,  Χιεμΐας,  ἃ Οτεεῖκ ρεπογαὶ
-Ξενίᾶς, False na
+Ξενίας, False na
 -ου, -ov, True pp
 Xenias, Χιεμΐας, False na
 a ἃ False eng

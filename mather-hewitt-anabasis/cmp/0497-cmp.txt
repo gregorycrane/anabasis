@@ -432,8 +432,8 @@ be ὧέ False eng
 walking. τυαῤξίγιρ. False eng
 
 # 79 37 41 mepirhyvipe [ryyviju,  freeze],  make περιπήγνῦμι [πήγνῦμι,  , »,  626},  »ιαΐέ
-περιπήγνῦμι mepirhyvipe True pp
-[πήγνῦμι, [ryyviju, True pp
+περιπήγνυμι mepirhyvipe True pp
+[πήγνυμι, [ryyviju, True pp
 freeze], , False eng
 make », False eng
 # 80 37 49 freeze round,  pass.,  intr.,  freeze , 7, )ὥέεωῶε γοιιαῖ,  Ῥᾶϑ85.,  ἰἴῃΐζ, ,  , ᾽ ἐξζέ

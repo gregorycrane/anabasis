@@ -341,8 +341,7 @@ phrases ρἤγδβεβ False eng
 # 65 30 35 ‘on a sudden, ’ ‘on the jump), “0γ ἃ 5υάάξη, ,  “0, 1 ἴῖῃ6 Ϊ0}Ρ}),
 ‘on “0γ False na
 a ἃ False eng
-sudden, 5υάάξη, False eng
-’ , False na
+sudden,’ 5υάάξη, False eng
 ‘on “0, False na
 the 1 False eng
 jump), ἴῖῃ6 False eng

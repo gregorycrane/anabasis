@@ -422,10 +422,7 @@ Eng. Επρ. False na
 # 70 15 16 otology],  eaz. οἴοϊοψν ],  ἐα7.
 otology], οἴοϊοψν False eng
 ear. ], False na
-# 71 16 16 otoa,  see elul. οὖσα,  566 εἰμί.
-οὖσα, otoa, True pp
-see 566 False eng
-εἰμί. False eng
+
 # 72 40 40 otre [ov + 7ré,  and],  conj.,  and not, οὔτε [οὐ - τέ,  “4,  σοπη].,  ἀραἹ γ1οΐ,
 οὔτε otre True lex
 [οὐ [ov True lex
@@ -526,9 +523,9 @@ important ᾿τηροτίδηϊ False eng
 qualification, 4 False eng
 and 4}1Ποδίΐοῃ, False eng
 that γα False eng
-too; Ζλαΐέοο, False eng
 # 88 39 37 kal otros,  Ae too,  even he,  xai rov- καὶ οὗτος,  ἦε οο,  στό ἦδ,  καὶ τού-
-kal καὶ False eng
+too; Ζλαΐέοο, False eng
+καὶ False eng
 οὗτος, otros, True pp
 he ἦε False na
 too, οο, False eng

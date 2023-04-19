@@ -87,7 +87,7 @@ Asia True lex
 Minor. Αϑβία False na
 # 17 41 42 Miool,  -d»,  A/ystans,  people of Mysia, Μυσοί,  -ῶν,  )7γεΐατι5,  ΡΕορΙε οὗ Μγϑῖα,
 Μυσοί, Miool, True lex
--d», -ῶν, False na
+-ῶν, False na
 Mysians, )7γεΐατι5, False na
 people ΡΕορΙε False eng
 of οὗ False eng
@@ -284,7 +284,7 @@ Fig. ΕἸξ. False na
 p. Ρ. False eng
 69. 69. False na
 # 49 44 44 vavoliropos,  -ov [ vais,  répos,  passage], νανσίπορος,  -ον [ ναῦς,  πόρος,  δαςΞ:αρε],
-νανσίπορος, False na
+ναυσίπορος, False na
 -ον -ov True pp
 [ναῦς, vais, True lex
 πόρος, répos, True lex
@@ -295,7 +295,7 @@ for γον» False eng
 ships, «ἠΐφε, False eng
 navigable, παυϊραῤίε. False eng
 # 51 40 38 vauTiKkés,  -7),  -dy [vais; bor.,  Eng. ναντικός,  -ή,  -όν [ναῦς; Ὀοτ.,  Επρ.
-ναντικός, False na
+ναυτικός, False na
 -ή, -7), True pp
 -όν -dy True pp
 [ναῦς; [vais; True lex
@@ -399,7 +399,7 @@ flay], False eng
 # 68 7 8 flayed.  αγεώ, .
 flayed. αγεώ, False eng
 # 69 44 44 véos,  -G,  -ov,  comp. vewrepos,  sup. vew- γέος,  -α,  -ον,  Πογρ. γεώτερος,  Β0Ρ. νεώ-
-vέος, False na
+νέος, False na
 -α, -G, True pp
 -ον, -ov, True pp
 comp. Πογρ. False eng
@@ -424,8 +424,8 @@ lithic, 1 False eng
 neophyte], 81ς, False eng
 vourzg. ΠΘΟΡψίθ], False na
 # 73 41 44 veup&,  -ας [cp. veipov],  cord of sinew, νευρᾶ,  -ας [ςρ. νεῦρον],  εογαΪ ο7 εἴϑιειυ,
-veup&, νευρᾶ, False na
--ας -ας False na
+νευρά, νευρᾶ, False na
+-ᾶς -ας False na
 [cp. [ςρ. False eng
 νεῦρον], veipov], True pp
 cord εογαΪ False eng
@@ -507,4 +507,4 @@ acc., δοο., False eng
 yes, μές, False eng
 by ὧν False eng
 # 89 6 5 Zeus | Ζεις!
-Zeus Ζεις! False na
+Zeus! Ζεις! False na

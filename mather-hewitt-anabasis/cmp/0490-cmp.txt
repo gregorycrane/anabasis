@@ -1,4 +1,4 @@
-\# 1 42 42 Spvis,  Spvidos,  6,  7 [bor.,  Eng. orni- ὄρνϊς,  ὄρνϊθος,  ὁ,  ἡ [Ὅοτ.,  Επρ. Οτηϊ-
+# 1 42 42 Spvis,  Spvidos,  6,  7 [bor.,  Eng. orni- ὄρνϊς,  ὄρνϊθος,  ὁ,  ἡ [Ὅοτ.,  Επρ. Οτηϊ-
 ὄρνις, False na
 ὄρνιθος, False na
 ὁ, 6, True lex
@@ -14,7 +14,7 @@ esp. γ, False eng
 fowl, οτοί, False eng
 chicken. εὐτεξορ. False eng
 # 3 39 38 ’"Opévriis,  -2 (Doric gen.),  Ovontas, ᾽Ορόντᾶς,  -α (]οτίς ρεπ.),  Ογοριέας,
-Ὀρόντᾶς, False na
+Ὀρόντας, False na
 -α -2 True pp
 (Doric (]οτίς False na
 gen.), ρεπ.), False eng
@@ -475,8 +475,8 @@ indic.; ἱπάϊς.; False eng
 whenever, τολεηπευεγ, False eng
 with ψΒ False eng
 opt. ορίῖ. False eng
-(cp. ((Ρ. False eng
 # 72 34 33 Sray with subj.); %o@ 8Sre,  some- ὅταν ΨΩ 50}].); ἔσθ᾽ ὅτε,  “ογιέ-
+(cp. ((Ρ. False eng
 ὅταν Sray True lex
 with ΨΩ False eng
 subj.); 50}].); False eng

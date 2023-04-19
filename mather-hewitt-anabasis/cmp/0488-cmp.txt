@@ -41,8 +41,8 @@ the 1016 False eng
 same φαϑιδ False eng
 # 7 36 38 time,  dpot elvat,  meet,  with gen. ζΖῖγ16, ,  ὁμοῦ εἶναι,  γερο,  ΜῊ ρέῃ.
 time, ζΖῖγ16, False eng
-dpot , False na
-ὁμοῦ elvat, True pp
+ὁμοῦ , False na
+εἶναι elvat, True pp
 meet, εἶναι, False eng
 with γερο, False eng
 gen. ΜῊ False eng
