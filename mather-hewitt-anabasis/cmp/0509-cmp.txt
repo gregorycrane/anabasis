@@ -14,7 +14,7 @@ work τυογξ False eng
 with τυ False eng
 alacrity. αἰαεγιν. False eng
 # 4 33 33 (omovSarodoyéopar),  éorovdarodd- (σπονδαιολογέομαι),  ἐσπουδαιολό-
-(σπονδαιολογέομαι), (omovSarodoyéopar), True pp
+(σπουδαιολογέω), (omovSarodoyéopar), True pp
 ἐσπουδαιολό- éorovdarodd- True half1g
 # 5 34 34 ynoa,  éorovdatoroy7Ony [omovdaco- γησα,  ἐσπουδαιολογήθην [σπουδαιο-
 γησα, ynoa, True pp
@@ -340,11 +340,7 @@ on 2 False eng
 # 65 9 10 a wreath, α τυγεαζᾷ.
 a α False eng
 wreath, τυγεαζᾷ. False eng
-# 66 28 29 orivat,  orhods,  see lornu. στῆναι,  στήσᾶς,  5ε6 ἴστημι.
-στῆναι, orivat, True form
-στήσας, False na
-see 5ε6 False eng
-ἴστημι. lornu. True pp
+
 # 67 38 38 or(Bos,  -ov [orelBw],  track,  trail. στίβος,  -ου [στείβωΊ,  Ζγαεξ,  ἐγαΐδ,
 στίβος, or(Bos, True pp
 -ου -ov True pp

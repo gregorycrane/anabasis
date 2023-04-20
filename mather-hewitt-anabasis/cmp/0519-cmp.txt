@@ -210,9 +210,9 @@ be δὲ False eng
 # 35 8 9 present, 27 ἐ5εης.
 present, 27 False eng
 # 36 38 42 Truptdaov,  -ov,  Zyriaéum,  a city of . Τπριάειον,  -ουὐ,  7γγίαξιενε,  ἃ ΟἿ οὗἉ
-Τπριάειον,
+Τυριάειον,
 -ου -ov, True pp
-Tyriaéum, -ουὐ, False na
+Tyriaeum, -ουὐ, False na
 a 7γγίαξιενε, False eng
 city ἃ False eng
 of ΟἿ False eng
@@ -357,7 +357,7 @@ bush, εἀγεό, False eng
 your, γον», False eng
 yours. γο1675. False eng
 # 67 34 37 vés,  -o [cogn.,  Eng. son],  son. ὑός,  -ου [͵ςορτι.,  Επρ. 80},  5072.
-ὑός, vés, True pp
+υἱός, vés, True pp
 -ου -o True pp
 [cogn., [͵ςορτι., False na
 Eng. Επρ. False eng

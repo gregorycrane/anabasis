@@ -1,6 +1,3 @@
-# 0 3 3 500 500
-500 500 False na
-# 1 40 39 gogue],  bring together,  collect,  call ξοφσυς],  ὀγίρρ ορεζλον,  εοὐέσεί,  καἰ
 gogue], ξοφσυς], False na
 bring ὀγίρρ False eng
 together, ορεζλον, False eng
@@ -106,7 +103,7 @@ inland πα False na
 with, τοῦ, False eng
 accom- True half1g
 # 20 23 23 pany inland,  with dat. 2αην ἡπέαρ αὶ,  ΜΈ ἀδῖ.
-2αην pany True pp
+pany True pp
 inland, ἡπέαρ False eng
 with αὶ, False eng
 dat. ΜΈ False eng
@@ -161,6 +158,7 @@ dinner. α71717167. False eng
 # 30 35 36 cuvSianphirropa: [diampdrroua,  ac- συνδιαπράᾶττομαι [διαπράττομαι,  “ε-
 συνδιαπράττομαι cuvSianphirropa: True pp
 [διαπράττομαι, [diampdrroua, True pp
+mid.,
 ac- “ε- False na
 # 31 41 44  complish,  stipulate),  join in negotia- ᾿ εορβέϊει,  εἰἐβιΖαζε],  7ογε ἐγε πεοροίία-
 complish, ᾿ False eng

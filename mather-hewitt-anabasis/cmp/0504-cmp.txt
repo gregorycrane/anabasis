@@ -81,8 +81,8 @@ attack αὐ False eng
 upon, ξ False eng
 abs. δον, False eng
 or 405. False eng
-with οὐ False eng
 # 15 13 13 mods and acc. πρός ιν] ἃος,
+with οὐ False eng
 πρός False eng
 and ιν] False eng
 acc. ἃος, False eng
@@ -91,9 +91,9 @@ acc. ἃος, False eng
 -ή, Bards, True pp
 -όν -7), True pp
 (verbal οὗ False eng
+# 17 20 20 Baivw),  accessible, βαίνων,  ἀειεεεῖ ἔξ,
 of 
 προσ- False eng
-# 17 20 20 Baivw),  accessible, βαίνων,  ἀειεεεῖ ἔξ,
 βαίνω, Baivw), True pp
 accessible, ἀειεεεῖ False eng
 # 18 38 37 wporBoAh,  -7s [rpocBdd\d\w],  attack, προσβολή,  -ῆς,  [προσβάλλω],  αὐαεξ,
@@ -136,10 +136,8 @@ expect, δα, False eng
 look ῥεοΐ, False eng
 for. ἰοοξ False eng
 # 26 44 43 awpoc Soxéw [ doxéw,  seem best],  seem best προσ δοκέω | δοκέω,  τοόηι ὁε51),  σε) ὠξεξ
-προσ False na
-δοκέω Soxéw True pp
-[ | False na
-δοκέω, doxéw, True pp
+προσδοκέω, doxéw, True pp
+[δοκέω
 seem τοόηι False eng
 best], ὁε51), False eng
 seem σε) False eng

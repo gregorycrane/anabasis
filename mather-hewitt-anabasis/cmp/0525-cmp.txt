@@ -1,5 +1,3 @@
-# 0 14 16 VOCABULARY 513 ΝνΟσΑΒυΠΑΚΥ͂ 513
-VOCABULARY ΝνΟσΑΒυΠΑΚΥ͂ False na
 
 # 2 42 40 XarSaton,  -wr,  of,  Chaldeans,  an inde- ΣΧ αλδαῖοι,  -ων,  οἱ,  (λα αι,  αὶ πη6-
 Χαλδαῖοι, False na
@@ -196,7 +194,7 @@ gorge. gorvy. True pp
 graceful, σγαςοεῖ, False eng
 # 35 17 17 elegant,  clever, εἰοσαρζ,  εἰθυέ7.
 elegant, εἰοσαρζ, False eng
-clever, εἰθυέ7. False eng
+clever. εἰθυέ7. False eng
 # 36 34 35 xaplfopar,  yapiotua,  éxapioduny, χαρίζομαι,  χαριοῦμαι,  ἐχαρισάμην,
 χαρίζομαι, xaplfopar, True pp
 χαριοῦμαι, yapiotua, True pp
@@ -498,7 +496,7 @@ coast σοδδί False eng
 of οἵ False eng
 Lydia. [νι]ὰ. False na
 # 88 41 46 Xttv,  -Ovos,  6,  wsndergarment,  shirt, χιτῶν,  -ὦνος,  ὁ,  τε)εὐργρῸ 210 712,  δἠϊγέ,
-χιτῶν, False na
+χιτών, False na
 -ῶνος, -Ovos, True pp
 ὁ, 6, True lex
 undergarment, τε)εὐργρῸ False na

@@ -114,10 +114,10 @@ as ας False eng
 it tt True form
 # 19 20 18 seemed,  apparently, σεονιφα,  αῥαγ εν.
 seemed, σεονιφα, False eng
-apparently, αῥαγ False eng
+apparently. αῥαγ False eng
 # 20 39 38 Gore [ws + 7é,  and],  conj.,  so that; ὥστε [ὡς - τέ,  α»α,  σοπ].,  59 Ζλαί,
 ὥστε Gore True lex
-[ws [ὡς False eng
+[ὡς False eng
 + - False na
 τέ, 7é, True form
 and], α»α, False eng

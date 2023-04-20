@@ -1,5 +1,4 @@
 
-515 δ15 False na
 # 1 36 36 pseudonym],  rare in act.,  deceive; Ῥϑουδοην7,  τατα ἴῃ δοῖ.,  αἰξεεῖσε,
 pseudonym], Ῥϑουδοην7, False eng
 rare τατα False eng
@@ -473,8 +472,8 @@ possible; 2οεειδέο,; False na
 as ας False eng
 best
 he ὑδεέ False na
-could, ἀξ False eng
 # 83 33 36 ws él Td mod,  as a rule,  gener- ὡς ἐπὶ τὸ πολύ,  ας ὦ γεέρ,  ρέ7167-
+could, ἀξ False eng
 ὡς False eng
 ἐπὶ él True form
 τὸ Td True form

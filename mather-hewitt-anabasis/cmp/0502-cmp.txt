@@ -107,7 +107,7 @@ slope, σέοῥε, False eng
 225, 225, False na
 19. 19. False na
 # 18 40 43 mpatis,  -ews,  7 [rpdrtw],  doing,  en- πράξις,  -εως,  ἡ [πράττω],  ὠἰοἵηιρ,  6;:-
-πράξις, False na
+πρᾶξις, False na
 -εως, -ews, True pp
 ἡ 7 True case
 [πράττω], [rpdrtw], True pp
@@ -133,7 +133,7 @@ and ἀπά False eng
 πέπραγμαι, wérpayua, True pp
 ἐπράχθην érpdxOny True pp
 # 23 32 37 [bor Eng. practical,  practice], [ὕῦυτ.,  Επρ. Ῥγδοῖϊοδὶ,  Ῥτγϑοίϊοθ],
-[bor [ὕῦυτ., False eng
+[bor. [ὕῦυτ., False eng
 Eng. Επρ. False eng
 practical, Ῥγδοῖϊοδὶ, False eng
 practice], Ῥτγϑοίϊοθ], False eng

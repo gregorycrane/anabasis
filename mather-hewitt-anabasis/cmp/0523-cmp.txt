@@ -306,7 +306,7 @@ cordially, εογ False eng
 talk ζα False eng
 nonsense. δ False eng
 # 59 43 42 pdrva pla,  -ας [cp. prvapéw],  silly talk, φλναρίᾶ,  -ας [ςΡ. φλυδρέω],  εἱδέἔν ἑαδξ,
-φλναρία, False na
+φλυαρία, False na
 -ας [ςΡ. False na
 [cp. φλυαρέω], False eng
 silly ἑαδξ, False eng
@@ -404,7 +404,7 @@ Tyre Τγτε False na
 and δπῃὰ False eng
 Sidon. δίάοῃ. False na
 # 77 33 35 howikirrhs,  -o8 [cp. goevixods], φοινϊκιστής,  -οὗ [ςρΡ. φοινϊκοῦς],
-φοινϊκιστής, False na
+φοινικιστής, False na
 -οῦ False na
 [cp. [ςρΡ. False eng
 φοινικοῦς], False na
@@ -452,10 +452,10 @@ dyehouses. ἀγεῃουβ65. False na
 -οῦν, False na
 contracted σοηϊταοῖε False eng
 from ἰγοτὴ False eng
-# 85 38 41 gpouvixeos,  -f,  -ov [Potmt,  Phoent- φοινίκεος,  -ά,  -ον [ Φοῖνιξ,  }λοο»γιῖ-
 φοινίκεος, gpouvixeos, True pp
 -α, -f, True pp
 -ον -ov True pp
+# 85 38 41 gpouvixeos,  -f,  -ov [Potmt,  Phoent- φοινίκεος,  -ά,  -ον [ Φοῖνιξ,  }λοο»γιῖ-
 [Φοῖνιξ, 
 Phoeni- True lex
 # 86 37 37 ctan ],  purple,  or rather dark red, εἴα)1},  φιεγῥίε,  οὐ ταῖμεσ οαγά γε,
@@ -485,8 +485,8 @@ Phoenicians, ἴο False na
 date «αἰό False eng
 palm, αΐνι, False eng
 palm δα False eng
-tree; ἐτὲ False eng
 # 90 35 37 olvos povikwv,  palm wine,  made of οἶνος φοινίκων,  ῥαδνι τοῦϑθ,  ταὶ οὗ
+tree; ἐτὲ False eng
 οἶνος olvos True pp
 φοινίκων, povikwv, True pp
 palm ῥαδνι False eng

@@ -66,8 +66,8 @@ pass; ραδε, False eng
 carry «α77} False eng
 out, ομεί, False eng
 act, ἀεί, False eng
-do; (ὁ, False eng
 # 13 41 39 eD moiety,  benefit,  do a service,  abs. εὖ ποιεῖν,  ὀδηιοηέ,  αο ἃ τεγυΐεθ,  Ὁ.
+do; (ὁ, False eng
 εὖ eD True lex
 ποιεῖν, False eng
 benefit, ὀδηιοηέ, False eng
@@ -510,8 +510,8 @@ joined Ἰοϊπεα False eng
 with ψῖῇ False eng
 another δηοῖμοσ False eng
 adj. 84]. False eng
-by ὉΥ False eng
 # 85 33 33 xal,  which is not translated. As καί,  ὨΙΟΝ 5 ποῖ ἰταηϑαῖϊεα,  Α5Ξ
+by ὉΥ False eng
 καί, xal, True lex
 which ὨΙΟΝ False eng
 is 5 False eng

@@ -202,14 +202,15 @@ gar- True half1g
 # 39 6 6 vison. γίξο).
 rison. γίξο). False eng
 # 40 40 40 dptyava,  -w»,  rd [Pptyw,  roast],  dry φρύγανα,  -ων,  τά [φρύγω,  γοαςἴ],  ἀν»
-φρύγανα, dptyava, True pp
--ων, -w», True pp
-τά False eng
+φρύγανον, dptyava, True pp
+-ου, -w», True pp
+τό False eng
 [φρύγω, [Pptyw, True pp
 roast], γοαςἴ], False eng
 dry ἀν» False eng
 # 41 19 21 sticks,  brushwood. ο“ἠεξς,  ὀγιφελιυοοί,
-sticks, ο“ἠεξς, False eng
+stick, ο“ἠεξς, False eng
+pl.,
 brushwood. ὀγιφελιυοοί, False eng
 # 42 41 41 Ppvyla,  -ας [Ppvt],  Phrygia,  a Persian Φρυγία,  -ας [Φρύξ],  δάγγρία,  ἃ Ῥετοίδῃ
 Φρυγία, Ppvyla, True lex

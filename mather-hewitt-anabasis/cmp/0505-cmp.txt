@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓςΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓςΑΒΌΙΑΚΥ False na
+
 # 1 34 34 apoorartw,  mpoecrdrnca [xpoordrns προστατέω,  προεστάτησα [προστάτης
 προστατέω, apoorartw, True pp
 προεστάτησα mpoecrdrnca True pp
@@ -230,17 +229,17 @@ plead δέρας False eng
 in 121 False eng
 excuse. ἐχοι56. False eng
 # 40 38 39 us,  -ews,  7) [Pnul,  say],  pretext, ις,  -εως,  ἡ [φημί,  5α4}7},  2» εεχί,
-us, ις, False eng
+πρόφασις, False eng
 -εως, -ews, True pp
 ἡ 7) True case
 [φημί, [Pnul, True lex
 say], 5α4}7}, False eng
 pretext, 2» False eng
 # 41 7 7 CxCUSE. ἐχειδέ.
-CxCUSE. ἐχειδέ. False na
+excuse. ἐχειδέ. False na
 # 42 40 36 awpopuvAakh,  -7s [pudAaKx},  guard],  a προφνλακή,  -ς [φυλακή,  ρσμαγα7,  ἃ
-awpopuvAakh, προφνλακή, False na
--7s -ς False na
+προφυλακή, προφνλακή, False na
+-ῆς False na
 [φυλακή, [pudAaKx}, True lex
 guard], ρσμαγα7, False eng
 a ἃ False eng
@@ -256,12 +255,8 @@ pickets. δτιοξείς. False eng
 ὁ 6 True lex
 [φύλαξ, [pvrak, True lex
 sentinel; «εγιἐἰγ6έ; False eng
-# 45 3 2 WT, “-
-WT, “- False na
-# 46 6 8 Google (πΘοορίς
-Google (πΘοορίς False na
-# 47 3 3 493 493
-493 493 False na
+
+
 # 48 35 35 bor.,  Eng. prophylactic],  seséry, θοτ.,  Επρ. ῬΙΟΡΒΥ ΔΟ 07,  “ερ27.},
 bor., θοτ., False eng
 Eng. Επρ. False eng
@@ -293,7 +288,7 @@ advantageous. NA False eng
 # 53 39 40 mpw,  comp. rpwaltrepov [rpd,  before], πρῴ,  οὐτὴρ. πρῳφαίτερον [πρό,  ὀεγογε],
 πρῴ, mpw, True form
 comp. οὐτὴρ. False eng
-πρῳφαίτερον rpwaltrepov True pp
+πρῳαίτερον rpwaltrepov True pp
 [πρό, [rpd, True lex
 before], ὀεγογε], False eng
 # 54 36 36 adv.,  early tn the morning,  early, δᾶν.,  ἐαγέν ἦμ 116 »μογ μη,  ἐαγέγ.
@@ -385,17 +380,16 @@ place, ῥέαεο, False eng
 at σέ False eng
 first, γε, False eng
 # 67 34 35 aradpvupat,  @rrapov [cogn.,  Lat. πτάρννμαι,  ἔπταρον [ουὐρῃ.,  [μΔἷ.
-πτάρννμαι, aradpvupat, True pp
+πτάρνυμαι, aradpvupat, True pp
 ἔπταρον @rrapov True pp
 [cogn., [ουὐρῃ., False na
 Lat. [μΔἷ. False na
 # 68 28 30 sternud,  szeeze ],  sneeze. ϑίοσηυδ,  τ,  2626],  5»: 626.
-sternud, ϑίοσηυδ, False na
 szeeze τ, False na
 ], 2626], False na
 sneeze. 5»: False eng
 # 69 37 37 wrépuf,  -vyos,  7 [cp. méroua,  fly; πτέρνξ,  -υγος,  ἡ [“Ρ. πέτομαι,  Αν;
-wrépuf, πτέρνξ, False na
+πτέρυξ, πτέρνξ, False na
 -υγος, -vyos, True pp
 ἡ 7 True case
 [cp. [“Ρ. False eng
@@ -405,17 +399,17 @@ fly; Αν; False eng
 bor., Ὀογ.. False eng
 Eng. Επρ. False eng
 apteryx], ΔΡίοσυχ, False eng
-wg , False eng
+wing , False eng
 of τοΐρρ' False eng
 a οὗ False eng
 # 71 37 41 bird; pl.,  sometimes flags of a cui- Ὀϊγτά; Ρ].,  Βοτηθιϊ πηῈὲ8 “α25 οὗ ἃ ουϊ-
 bird; Ὀϊγτά; False eng
 pl., Ρ]., False eng
 sometimes Βοτηθιϊ False eng
-flags πηῈὲ8 False eng
+flaps πηῈὲ8 False eng
 of “α25 False eng
 a οὗ False eng
-ἃ cui- True lex
+cui- True lex
 # 72 37 39 rass (see Introd. § 58,  and Figs. 6, γ855 (566 [ηἰτοά,  ὃ κ8,  ἀῃηὰ ΕἾρ8. ό,
 rass γ855 False na
 (see (566 False eng
@@ -441,7 +435,7 @@ pugnus, 4. False na
 /is¢, ῬαΣΠι8, False na
 # 75 36 36 pugna,  dattle; bor.,  Eng. pygmy ], Ῥυγηδ,  δαϊέο,  ὈοΥ.,  Επρ. ΡΥΦΙΙΥ],
 pugna, Ῥυγηδ, False na
-dattle; δαϊέο, False na
+battle; δαϊέο, False na
 bor., ὈοΥ., False eng
 Eng. Επρ. False eng
 pygmy ΡΥΦΙΙΥ], False eng
@@ -460,11 +454,11 @@ Fig. ΕἸρ. False na
 p. Ρ. False eng
 225. 225. False na
 # 78 40 40 TIv@aydpiis,  -ov,  Pythagoras,  a Spar- Πυθαγόρᾶς,  -ου,  ἐνήλαρύγας,  ἃ ϑ'ρατῖ-
-TIv@aydpiis, Πυθαγόρᾶς, False na
+Πυθαγόρας, False na
 -ου, -ov, True pp
 Pythagoras, ἐνήλαρύγας, False na
 a ἃ False eng
-ϑ'ρατῖ- Spar- True half1g
+Spar- True half1g
 # 79 12 13 tan admiral. ἴδῃ δατηϊγαὶ.
 tan ἴδῃ False eng
 admiral. δατηϊγαὶ. False eng
@@ -479,11 +473,10 @@ compact, σοὶ False eng
 solid, δοὐϊα, False eng
 # 82 38 36 IIlvAa,  -Gy,  Pylae,  ‘The Gates, ’ a Πύλαι,  -ῶν,  ἔνίαε,  “ΤῊς Οδίεβ,  ἃ
 Πύλαι, IIlvAa, True lex
--Gy, -ῶν, False na
+-ῶν, False na
 Pylae, ἔνίαε, False na
 ‘The “ΤῊς False na
-Gates, Οδίεβ, False na
-ἃ ’ True lex
+Gates’ True lex
 a NA False eng
 # 83 32 33 fortress on the frontier between ἰοτίγεββ οὐ ἴῃ6 ἔτγοπίϊοσ Ὀεΐν δε
 fortress ἰοτίγεββ False eng
@@ -497,11 +490,11 @@ and ἀηἀ False eng
 Babylonia. βαρυ]οπίδ. False na
 # 85 38 37 woAn,  -7s [bor.,  Eng. pylorus,  Pro- πύλη,  -ῆς [Ὀοτ.,  πρ. ῬΥΊΟΤΙ8,  Ῥτο-
 πύλη, woAn, True lex
--7s -ῆς False na
+-ῆς False na
 [bor., [Ὀοτ., False eng
 Eng. πρ. False eng
 pylorus, ῬΥΊΟΤΙ8, False eng
-Ῥτο- Pro- True half1g
+Pro- True half1g
 # 86 37 40 pylaea],  gate,  usually pl.,  of the ῬΥΪΔ4647,  ραΐξ,  ἀϑυδ}}ν Ρ].,  οὗὁἨ [86
 pylaea], ῬΥΪΔ4647, False na
 gate, ραΐξ, False eng

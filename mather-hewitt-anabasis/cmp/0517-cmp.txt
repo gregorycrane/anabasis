@@ -1,5 +1,4 @@
-# 0 10 10 VOCABULARY ΝΟΓΑΒΌΓΑΒΥ
-VOCABULARY ΝΟΓΑΒΌΓΑΒΥ False na
+
 # 1 42 43 ttuvos,  -d,  -ov [Tiny],  honorable; hon- τίμιος,  -α,  -ον [τ μή],  λομογαῤίε,  ἀο"-
 τίμιος, ttuvos, True pp
 -α, -d, True pp
@@ -13,10 +12,10 @@ held ἀφία False eng
 in ἐπε False eng
 esteem. ἐπίσοῦε. False eng
 # 3 35 35 tipwpéw,  rinwphow,  etc. [Tinwpds, τἱμωρέω,  τἱμωρήσω,  εἴς. [τἱμωρός,
-τἱμωρέω, tipwpéw, True pp
-τἱμωρήσω, rinwphow, True pp
+τιμωρέω, tipwpéw, True pp
+τιμωρήσω, rinwphow, True pp
 etc. εἴς. False eng
-[τἱμωρός, [Tinwpds, True pp
+[τιμωρός, [Tinwpds, True pp
 # 4 38 41 avenger ],  help,  avenge; mid.,  take αυεγιρ67,  ἀεί,  ανέριρέ ,  ταὶά, ,  ζαξε
 avenger αυεγιρ67, False eng
 ἀεί, ], True lex

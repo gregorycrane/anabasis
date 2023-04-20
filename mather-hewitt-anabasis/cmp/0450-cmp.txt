@@ -264,8 +264,8 @@ filled True case
 out μεα False eng
 or ομ False eng
 up. οὐ False eng
-Cp. True lex
 # 52 9 9 ovum ews. σύμπλεως.
+Cp. True lex
 σύμπλεως. False eng
 # 53 38 37 ixyhqrre [-wAjTTwW,  -wAHEW,  -éxAnka, ἐκελήττω [-πλήττω,  -πλήξω,  -ἐπληξα,
 ἐκπλήττω ixyhqrre True pp

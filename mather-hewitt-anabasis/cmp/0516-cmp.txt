@@ -307,23 +307,23 @@ that τλαέ False eng
 time, ΖἼ»ιε, False eng
 then. Ζἀε»ε. False eng
 # 60 36 37 vipa,  -ds,  tiara,  a Persian head- τιάρᾶ,  -ας,  2αγα,  ἃ Ῥετιβίδῃ Βεδά-
-τιάρᾶ, False na
+τιάρα, False na
 -ας, False na
 tiara, 2αγα, False eng
 a ἃ False eng
 Persian Ῥετιβίδῃ False na
-Βεδά- head- True half1g
+head- True half1g
 # 61 34 34 dress,  similar to the modern tur- ἄτεδ5,  βίσααγ ἴο ἴῆ6 τηοάφγῃ ἴυτ-
 dress, ἄτεδ5, False eng
 similar βίσααγ False eng
 to ἴο False eng
 the ἴῆ6 False eng
 modern τηοάφγῃ False eng
-ἴυτ- tur- True half1g
+tur- True half1g
 # 62 37 35 ban; tidpa 690%,  upright tiara,  the Ῥδῃ; τιάρα ὀρθή,  εῤγίρἠέαγα,  τἰᾺς
 ban; Ῥδῃ; False eng
 τιάρα tidpa True lex
-690%, ὀρθή, False na
+ὀρθή, False na
 upright εῤγίρἠέαγα, False eng
 tiara, τἰᾺς False eng
 the NA False eng

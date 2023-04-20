@@ -140,13 +140,13 @@ the [6 False eng
 wine νης False eng
 god. ροί. False eng
 # 21 40 42 @wavrov,  -js,  -o8,  contracted form of σαντοῦ,  -ῆς, ,  -ου,  οσοπίταςῖοα ἔοτῃ οὗ
-σαντοῦ, @wavrov, True pp
+σαυτοῦ, @wavrov, True pp
 -ῆς, False na
 contracted -ου, False eng
 form οσοπίταςῖοα False eng
 of ἔοτῃ False eng
-# 22 34 38 ceavrod [stem of ov,  you + atrés, σεαυτοῦ [5ἴεπι οὗ σύ,  γοιε -ἰ- αὐτός,
 σεαυτοῦ ceavrod True pp
+# 22 34 38 ceavrod [stem of ov,  you + atrés, σεαυτοῦ [5ἴεπι οὗ σύ,  γοιε -ἰ- αὐτός,
 [stem [5ἴεπι False eng
 of οὗ False eng
 σύ, ov, True lex
@@ -315,7 +315,7 @@ about ἃἀρουξ False eng
 22 22 False na
 cents. σδθηΐβ. False eng
 # 53 39 42 Dekvovios,  -ov [Zixvwy,  Sicion],  Si- Σικνώνιος,  -ου [Σικνών,  «51ε}ο7:},  .5]-
-Σικνώνιος, Dekvovios, True pp
+Σικυώνιος, Dekvovios, True pp
 -ου -ov True pp
 [Σικνών, False na
 Sicion], «51ε}ο7:}, False na

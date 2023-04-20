@@ -103,7 +103,7 @@ battle ἐμ False eng
 # 17 6 8 array. αγ7γ4}7.
 array. αγ7γ4}7. False eng
 # 18 36 37 ovvrlOnpe [7lOnu,  put,  bor.,  Eng. σνυντίθημι [τίθημι,  δι; Ὅοτ, ,  Επρ.
-σνυντίθημι ovvrlOnpe True pp
+συντίθημι ovvrlOnpe True pp
 [τίθημι, [7lOnu, True pp
 put, δι; False eng
 bor., Ὅοτ, False eng
@@ -357,8 +357,9 @@ tivity. ζυϊέγ. False na
 [στρατεύω, [orparetw, True pp
 make »πμαξέ False eng
 an αὉ False eng
-# 67 36 32 expedition),  join in an expedition. 44 1102,  7οἵρι ἐπε απ δε 2107:.
+# 67 36 32 expeditio],  join in an expedition. 44 1102,  7οἵρι ἐπε απ δε 2107:.
 expedition], 44 False eng
+mid.,
 join 1102, False eng
 in 7οἵρι False eng
 an ἐπε False eng

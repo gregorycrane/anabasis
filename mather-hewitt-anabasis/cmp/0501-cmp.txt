@@ -176,7 +176,7 @@ sti, 201], False na
 difficulty, αἀὐερν, False eng
 hardship. λαγαδλιῤ. False eng
 # 31 39 42 «évros,  -ov [bor.,  Lat. pontus,  sea, πόντος,  “οὐ [Ὀοτ.,  [, Δἴ. ῬΟΠίΠ15,  “έα,
-πόντος, «évros, True pp
+Πόντος, «évros, True pp
 -ου “οὐ False na
 [bor., [Ὀοτ., False eng
 Lat. [, False na
@@ -207,6 +207,7 @@ Sea. 524. False na
 πορεία, False na
 -ας False na
 [πορεύομαι], [mopevouac], True pp
+mid.,
 journey, 206», False eng
 # 37 14 15 march,  route. ηπαγεἦ,  γοτζε.
 march, ηπαγεἦ, False eng

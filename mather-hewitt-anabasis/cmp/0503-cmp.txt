@@ -1,5 +1,4 @@
-# 0 10 11 VOCABULARY ΝΟΓΟΑΒΌΙΑΚΥ
-VOCABULARY ΝΟΓΟΑΒΌΙΑΚΥ False na
+
 # 1 41 44 an enemy,  defray,  desert,  be false vo, Δ ΘὨΘΙΩΥ͂,  δε» 4},  αἷε56γ 1,  δὲ γαΐδε το,
 an Δ False eng
 enemy, ΘὨΘΙΩΥ͂, False eng
@@ -235,12 +234,8 @@ else, εἶδε, False eng
 seize δείζέ False eng
 # 52 11 13 beforehand. ὀεγογελαγι, .
 beforehand. ὀεγογελαγι, False eng
-# 53 32 34 TpoxareAnppéyny,  see mpoxaraan- προκατειλημμένην,  δε6 προκαταλαμ-
-προκατειλημμένην, TpoxareAnppéyny, True pp
-see δε6 False eng
-προκαταλαμ- mpoxaraan- True half1g
-# 54 6 5 Bdavw. βάνω.
-βάνω. Bdavw. True pp
+
+
 # 55 42 40 IIpoxAfis,  -¢ous,  6,  Procles,  governor Προκλῆς,  -ἔους,  ὁ,  γοείξες,  βΟνΕΥΠΟΣ
 Προκλῆς, IIpoxAfis, True lex
 -έους, -¢ous, True pp

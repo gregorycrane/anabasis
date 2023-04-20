@@ -47,7 +47,7 @@ Eng. τοι, False eng
 Himalaya Ἐπρ. False na
 # 7 25 20 (= snow-abode) J,  savzw. (Ξ- ὁπον 6),  τρίτο,
 (= (Ξ- False na
-snow-abode) True pp
+snow-abode)], True pp
 snow. τρίτο, False na
 # 8 42 42 Kotweg,  -cxos,  9,  choentx,  a Greck dry χοῖνιξ,  -ἰκος,  ἢ,  ἐλοεμίν,  ἃ τοοῖκ ἀτγ
 χοῖνιξ, Kotweg, True lex
@@ -257,7 +257,7 @@ and α6] False eng
 true, ἐγ False eng
 trusty, πὲ, False eng
 # 43 37 36 Xptpa,  -aros,  76 [xpiw; bor.,  Eng. Χρῖμα,  -ατος,  τό [χρίω; Ὀογ.,  Εν.
-Χρῖμα, Xptpa, True pp
+χρῖμα, Xptpa, True pp
 -ατος, -aros, True pp
 τό 76 True form
 [χρίω; [xpiw; True pp
@@ -335,8 +335,8 @@ gold. ροδαῖ, False eng
 -ῆς, -ἢ, False na
 -οῦν, False na
 contracted σοπίταοϊεα False eng
-from ἔτογ False eng
 # 58 38 40 xpbceos,  -a,  -ov [xpucds],  of gold, χρύσεος,  -α,  -ον [χρῦσός},  977 φοζαΐ,
+from ἔτογ False eng
 χρύσεος, xpbceos, True pp
 -α, -a, True pp
 -ον -ov True pp
@@ -353,7 +353,7 @@ with τοῦ False eng
 gold, κοὐ, False eng
 gold-mounted. True pp
 # 61 38 37 Xpicoxdrj{vos,  -oy [xpucds,  yartvbs, χρσοχάλῖϊνος,  -ον [χρῦσός,  χαλῖνός,
-χρσοχάλινος, Xpicoxdrj{vos, True pp
+χρυσοχάλινος, Xpicoxdrj{vos, True pp
 -ον -oy True pp
 [χρυσός, [xpucds, True pp
 χαλινός, yartvbs, True pp
@@ -434,9 +434,9 @@ with οἴϊξα False eng
 adjs. 85. False na
 meaning Ιπεδηΐηρ False eng
 strong, 527 False na
+# 76 17 17 éxupes,  loxupés. ὀχυρός,  ἰσχυρός.
 as 071, False eng
 ἐχυρός, , False na
-# 76 17 17 éxupes,  loxupés. ὀχυρός,  ἰσχυρός.
 ὀχυρός, éxupes, True pp
 ἰσχυρός. loxupés. True pp
 # 77 39 39 xwpls,  adv.,  apart,  separately; with χωρίς,  δάν.,  αῤαγί,  σέῤαγαΐίείν,  ΝᾺ

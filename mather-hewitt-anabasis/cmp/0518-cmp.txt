@@ -419,7 +419,7 @@ long. NA False eng
 -ον -η, True pp
 [τρίς, -ov True lex
 thrice, ἄσμε- False eng
-ἄσμε-- NA False na
+ἄσμε- NA False na
 # 71 37 40 vos,  glad ],  thrice glad,  with the γος,  ρἰαα77,  {άγίοεέ ρίαά,  «εὐἱξὰ 1{ε
 νος, vos, True pp
 glad ρἰαα77, False eng
@@ -450,8 +450,8 @@ thousand, NA False eng
 [τρεῖς], [Tpets], True lex
 third, “ἀϊγα,; False eng
 τρίτῃ tplry True form
-or οΥἵ False eng
 # 76 35 35 TH Tplry (sc. Hudpe),  on the third τῇ τρίτῃ (5.5. ἡμέρᾳ),  ο» ἦε τἀϊγά
+or οΥἵ False eng
 τῇ TH True lex
 τρίτῃ Tplry True form
 (sc. (5.5. False eng
