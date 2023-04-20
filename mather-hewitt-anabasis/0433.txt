@@ -85,8 +85,7 @@ disorder.
 ἀταξία, -ᾶς [ἄτακτος; bor., Eng.
 ataxia], disorder, lack of discipline.
 
-ἀτάρ, adversative conj., stronger than
-δέ, but weaker than ἀλλά, chiefly
+ἀτάρ, adversative conj., stronger than δέ, but weaker than ἀλλά, chiefly
 poetic, but, yet.
 
 ἀτασθαλία, -ᾶς, chiefly poetic, reckless
@@ -103,7 +102,7 @@ tax), exempt from tax], exemption,
 first from taxation, then from any
 duty or service.
 
-ἀττμάζω, ἀτιμάσω, etc. [ἄτιμος (ἀ-priv., τιμή, honour.), without honour],
+ἀτιμάζω, ἀτιμάσω, etc. [ἄτιμος (ἀ-priv., τιμή, honour.), without honour],
 dishonor, disgrace.
 
 ἀτμίζω, ἀτμίσω [ἄτμος, steam], steam.

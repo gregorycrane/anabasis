@@ -1,4 +1,4 @@
-422
+
 
 (our, etc.) part, furthermore, be-
 sides, moreover.
@@ -25,8 +25,7 @@ bivouac, pass the night.
 
 
 αὐτίκα [αὐτός], adv. (at the very mo-
-ment), at once, immediately ; αὐτίκα
-μάλα, instantly.
+ment), at once, immediately ; αὐτίκα μάλα, instantly.
 
 αὐτόθεν [αὐτός + -θεν, from]; adv.
 (from the very place), from there,
@@ -83,7 +82,7 @@ and acc. or gen. of person.
 
 ἀφανής, -ἐς [ἀ- priv., φαίνω, show],
 unseen, out of sight; unknown,
-doubtful, .
+doubtful.
 
 ἀφανίζω, ἀφανιῶ, ἠφάνισα, ἠφάνικα
 [ἀφανής] (make unseen), hide, blot

@@ -30,7 +30,7 @@ cave,
 ἀντρώδης, -ες [ἄντρον, εἶδος, form],
 cave-like,
 
-ἁνυστός, -ή, -όν (verbal of ἁνύω, ac-
+ἀνυστός, -ή, -όν (verbal of ἁνύω, ac-
 complish), that can be accomplished,
 practicable; σιγῇ ὡς ἁνυστόν, as
 silently as possible.

@@ -79,8 +79,7 @@ cause, since.
 δίπηχυς, -υ [δύο, two, πῆχυς, cubit
 (1.5 Eng. feet)], two cubits long.
 
-διπλάσιος, -α, -ον [δύο, two, cp. 
-πίμπλημι, fill], twice as many, double.
+διπλάσιος, -α, -ον [δύο, two, cp. πίμπλημι, fill], twice as many, double.
 Neut. acc. as adv., twice as far.
 
 δίπλεθρος, -ον [δύο, two, πλέθρον,
@@ -103,7 +102,7 @@ and driver], body of a chariot.
 διψάω, διψήσω, ἐδίψησα [ δίψα, thirst;
 bor., Eng. dipsomania ], be thirsty.
 
-διωκτέον (verbal of διώκω), necessary
+διωκτέος (verbal of διώκω), necessary
 to pursue.
 
 διώκω, διώξω and διώξομαι, ἐδίωξα,
