@@ -4,13 +4,13 @@
  * References to the text are made by page and line. Grammar references are grouped in footnotes. H A.= Hadley-Allen’s Greek Grammar; B.= Babbitt’s Grammar of Attic and Ionic Greek; G.=Goodwin’s Greek Grammar; Gl.= Goodell’s School Grammar of Attic Greek.
 
 CHAPTER I. 
-51,1. Δαρείου, etc. : genitive of source.1 
+51,1. Δαρείου, etc. : genitive of source [GenSep].1 
 
 γίγνονται: historical present,1 here better called the annalistic or notebook present, which is used as in diaries or notebooks to record incidents, especially births, deaths, and accessions. 
 
 παῖδες δύο: a plural noun is often used with δύο. Darius and Parysatis had in all thirteen children, nine of whom died young. Of the surviving four, these two only are of importance for the narrative. See Introd. § 1.
 
-51,2. μὲν. .. δέ: here, as often, these particles are to be translated only by stress of voice on the words which they follow. 
+51,2. μὲν ... δέ: here, as often, these particles are to be translated only by stress of voice on the words which they follow. 
 
 Κῦρος: not to be confused with his more famous ancestor, Cyrus the Great. The following amusing lines are quoted by Robert Browning (Works, Riverside edition, IV, p. xi) as the beginning of a young friend’s poetical translation of the Anabasis:
 
@@ -62,9 +62,11 @@ HA. B. G. Gl.
 
 Καστωλοῦ πεδίον: without the article, equivalent to a proper name.
 
-51,8. ἁθροίζονται: not historical present.7—ὁ: the article is frequently used with proper nouns, especially with the names of persons well known or previously mentioned. 
+51,8. ἁθροίζονται: not historical present.7—
 
-λαβών: the commonest use of the circumstantial participle.® English uses the present tense, but Greek is more accurate, the aorist participle expressing simple occurrence and usually implying the completion of the action of the participle before the time of the main verb. Cyrus ad taken Tissaphernes before he started.9
+ὁ: the article is frequently used with proper nouns, especially with the names of persons well known or previously mentioned. 
+
+λαβών: the commonest use of the circumstantial participle.8 English uses the present tense, but Greek is more accurate, the aorist participle expressing simple occurrence and usually implying the completion of the action of the participle before the time of the main verb. Cyrus had taken Tissaphernes before he started.9
 HA, B. G. Gl.
 1 362a 175,1 543 268b,438a
 2 939 342 895,3 570d
@@ -83,28 +85,34 @@ HA, B. G. Gl.
 51,9. ὡς φίλον: as a friend, so he said. By the use of ὡς Xenophon means to imply that Cyrus, the subject of the sentence, believed, or at least pretended to believe, that Tissaphernes was his friend, without implying that Xenophon himself held that opinion. He knew, in fact, that Tissaphernes was no friend to Cyrus, as we see from 1. 13 f. 
 
 τῶν
-Ἑλλήνων: of his Greeks, mercenaries in his service. The genitive is partitive. 
+Ἑλλήνων: of his Greeks, mercenaries in his service. The genitive is partitive [GenPart]. 
 
 ἔχων: wth; a present participle expresses continuance ; cp. λαβών, l.8. The act of taking preceded the going, but the having continued. 
 
 ὁπλίτας: see Introd. §§ 56,58. These soldiers were taken as a bodyguard.
 
-51,10. ἀνέβη: an aorist and a historical present (άναβαίνει, l. 8) are often used in close connection. 
+51,10. ἀνέβη: an aorist and a historical present (ἀναβαίνει, l. 8) are often used in close connection. 
 
-ἄρχοντα: as commander, in apposition with Heviay; cp. the construction with that of σατράπηνγ, l. 6.—
+ἄρχοντα: as commander, in apposition with Ξενίαν; cp. the construction with that of σατράπην, l. 6.—
 δέ: and; cp. l.7.
 
-αὐτῶν: objective genitive.2 
+αὐτῶν: objective genitive [GenObj].2 
 
 Παρράσιον: the Arcadian mountaineers were prized as mercenaries, much as the Swiss, who inhabit a similarly mountainous and isolated country, have been in demand in more modern times.
 
-51,12. ἐτελεύτησε: sc. τὸν βίον; cp. τελευτὴν τοῦ Biov, l.3; for the translation, see on ézoince, l.6. — els: see on l.7.
+51,12. ἐτελεύτησε: sc. τὸν βίον; cp. τελευτὴν τοῦ βίου, l.3; for the translation, see on ἐποίησε, l.6. — 
 
-51,12. ἐτελεύτησε . . . αὐτῷ: accused Cyrus to his brother of plotting against him; see Introd. § 2. ὡς introduces indirect discourse following the idea of saying implied in διαβάλλει, which is historical present.3 Hence the mood4 of ἐπιβουλεύοι.
+εἰς: see on l.7.
+
+51,12. ἐτελεύτησε . . . αὐτῷ: accused Cyrus to his brother of plotting against him; see Introd. § 2. 
+
+ὡς introduces indirect discourse following the idea of saying implied in διαβάλλει, which is historical present.3 Hence the mood4 of ἐπιβουλεύοι.
 
 51,14. τόν: like τοῦ, l.3, and τῶν, l.9, equivalent to a possessive pronoun. 
 
-αὐτῷ: dative with a compound verb. — ὁ δέ: and he, in Attic usually indicates a change of subject, a survival of the old use of the article as a demonstrative pronoun.
+αὐτῷ: dative with a compound verb. — 
+
+ὁ δέ: and he, in Attic usually indicates a change of subject, a survival of the old use of the article as a demonstrative pronoun.
 
 51,15. ὡς ἀποκτενῶν: future participle implying purpose,5 wth the avowed purpose of putting him to death. By using ὡς Xenophon marks this purpose as the one put forward by the king himself, and at the same
 HA. B. G. Gl.
@@ -161,7 +169,7 @@ HA, B. G, Gl.
 <pb n="231"/>
 #231
 
-52,7. ὥστε... εἶναι: expresses the result as fending to follow the action of οὕτω διατιθείς, with such treatment as to make them, etc. It implies, but does not definitely state, that they were actually more friendly to him. To emphasize the attainment of a result, Greek uses ὥστε with the indicative.1
+52,7. ὥστε... εἶναι: expresses the result as tending to follow the action of οὕτω διατιθείς, with such treatment as to make them, etc. It implies, but does not definitely state, that they were actually more friendly to him. To emphasize the attainment of a result, Greek uses ὥστε with the indicative.1
 
 αὐτῷ: depends on the adjective; the indirect reflexive αὑτῷ might have been used.2
 
@@ -169,7 +177,7 @@ HA, B. G, Gl.
 
 52,8. καί: see καί, 51,6.
 
-τῶν βαρβάρων: genitive with a verb of caring for.3 We might expect ἐπεμελεῖτο ὡς οἱ παρ᾽ ἑαυτῷ βάρβαροι πολεμεῖν, etc., but the substantive is transferred to the main clause and made to depend on ἐπεμελεῖτο. Any one not a Greek was styled a βάρβαρος, and even now foreigners traveling in Greece are sometimes so called. 
+τῶν βαρβάρων: genitive with a verb of caring for[GenVerb].3 We might expect ἐπεμελεῖτο ὡς οἱ παρ᾽ ἑαυτῷ βάρβαροι πολεμεῖν, etc., but the substantive is transferred to the main clause and made to depend on ἐπεμελεῖτο. Any one not a Greek was styled a βάρβαρος, and even now foreigners traveling in Greece are sometimes so called. 
 
 παρ᾽ ἑαυτῷ: a prepositional phrase used attributively, like παρὰ βασιλέως, l. 6. ---- 
 
@@ -213,15 +221,18 @@ HA. B. . G. GL
 
 52,15. Πελοποννησίους: the Greek force of Cyrus was largely composed of Peloponnesians, at this time the best soldiers among the Greeks. See Introd. §§ 8, 53.
 
-52,16. ὡς ἐπιβουλεύοντος Τισσαφέρνους: genitive absolute of cause.2 ὡς indicates the cause as that assigned by Cyrus, not by Xenophon; see on ὡς φίλον, 51,9, and ὡς ἀποκτενῶν, 51,15. Translate because, as he said, Tissaphernes was plotting.
+52,16. ὡς ἐπιβουλεύοντος Τισσαφέρνους: genitive absolute[GenAbs] of cause.2 
+
+ὡς indicates the cause as that assigned by Cyrus, not by Xenophon; see on ὡς φίλον, 51,9, and ὡς ἀποκτενῶν, 51,15. Translate because, as he said, Tissaphernes was plotting.
 
 52,17. πόλεσι : See on αὐτῷ, 51,14.
 
 52,18. καὶ γάρ: and in fact (γάρ being an adverb), though often it may best be rendered by for. The theory of an ellipsis (as and [thes was so] for), which could easily be supplied from the context, arose from the idea that γάρ was always a conjunction. See γάρ in Vocab. —
-ἦσαν: with predicate genitive, Aad belonged to (lit., used to be of ).—
+
+ἦσαν: with predicate genitive[Gen???], had belonged to (lit., used to be of ).—
 Ἰωνικαί: Ionia (see map, frontispiece) contained some of the wealthiest and most populous cities in Asia Minor, among them Ephesus, Miletus, and Smyrna.
 
-52,19. ἀφειστήκεσαν: predicate genitive of possession.2— 
+52,19. ἀφειστήκεσαν: predicate genitive of possession[???Where is the genitive in this sentence].2— 
 
 τὸ ἀρχαῖον: adverbial accusative. — 
 
@@ -243,9 +254,10 @@ HA. OB G. Gl.
 #233
 
 52,23. τὰ αὐτὰ ταῦτα: note the article.1 Where English uses a singular, indicating the whole, Greek often employs a plural, emphasizing the parts. The accusative is cognate, forming this same plan. —
-βουλευομένους: sc. rivas; the participle is supplementary in indirect discourse,2 the present tense representing the present indicative of direct discourse. 
 
-ἀποστῆναι: in apposition with airda; it may be introduced in translation by namely or that ts.
+βουλευομένους: sc. τινας; the participle is supplementary in indirect discourse,2 the present tense representing the present indicative of direct discourse. 
+
+ἀποστῆναι: in apposition with αὐτά; it may be introduced in translation by namely or that is.
 
 52,24. τοὺς μὲν... τοὺς δ᾽: some... others; note the difference in meaning between the article with μὲν... δέ3 and the article with δέ alone; cp. 51,14. In either case the article has its original demonstrative force.
 
@@ -260,41 +272,45 @@ HA. OB G. Gl.
 
 53,2. αὐτῷ: dat. of possessor, and in this again he had, etc. 
 
-τοῦ
-ἁθροίζειν: for collecting, objective genitive with πρόφασις. The infinitive (as in English, Latin, and other languages) is often used as a noun; at the same time it may take an object, like a verb.
+τοῦ ἀθροίζειν: for collecting, objective genitive[GenObj] with πρόφασις. The infinitive (as in English, Latin, and other languages) is often used as a noun; at the same time it may take an object, like a verb.
 
-53,3- ἀδελφὸς ὢν: the ground of the demand; see on φιλοῦσα, §2, 4.
+53,3. ἀδελφὸς ὢν: the ground of the demand; see on φιλοῦσα, §2, 4.
 
 
 αὐτοῦ: with this use 5 of αὐτός cp. τὰ αὐτά, 52,23.
 
 53,4. δοθῆναι, ἄρχειν: objects of a verb of asking. 
 
-οἷ: = sibi, the indirect reflexive6 It is accented because emphatic,7 being opposed to Τισσαφέρνην. --- πόλεις : subject of δοθῆναι, that these cities be given.
+οἷ: = sibi, the indirect reflexive6 It is accented because emphatic,7 being opposed to Τισσαφέρνην. --- 
 
-53,5. αὐτῶν: the genitive depends on the idea of ruler contained in the verb. 
+πόλεις : subject of δοθῆναι, that these cities be given.
+
+53,5. αὐτῶν: the genitive[GenVerb] depends on the idea of ruler contained in the verb. 
 
 αὐτῷ: see on αὐτῷ, 51,14. 
 
 ταῦτα: object of συνέπραττεν, cooperated with him in this.
-HA. B. G, Gl. x 679 475,1  989, 2 199b
-2 982 661 1588 586 a
-3 654-and-a 443, 2 981 549a
+HA. B. G, Gl. 
+1 679 475,1  989,2 199b
+2 982 661 1588 586a
+3 654-and-a 443,2 981 549a
 4 820 513 1241 499a
-5 682 475,3 3 989, 3 199a
+5 682 475,3 989,3 199a
 6 685 472 987 Cp.-197
 7 1196 71,3 144 20a
-8 741 356 3109, I110 510c
+8 741 356 1109,1110 510c
 
 <pb n="234"/>
 234 XENOPHON’S ANABASIS {1,1
 
-53,6. ὥστε... ἠσθάνετο: see on ὥστε. .. εἶναι, 52,7. Diphthongs are augmented by lengthening their first vowel. — wpds éavrév: see on παρ᾽ ἑαυτῷ, 52,8.
+53,6. ὥστε... ἠσθάνετο: see on ὥστε. .. εἶναι, 52,7. Diphthongs are augmented by lengthening their first vowel. — 
 
-53,7. Τισσαφέρνει: stands first in its clause because emphatic in opposition to éavroy. The dative of association is regular with verbs of fighting!; ovv Ticoadepver would mean on the side of Tissaphernes.
+πρὸς ἑαυτόν: see on παρ᾽ ἑαυτῷ, 52,8.
+
+53,7. Τισσαφέρνει: stands first in its clause because emphatic in opposition to ἑαυτόν. The dative of association is regular with verbs of fighting1; σὺν Τισσαφέρνει would mean on the side of Tissaphernes.
 
 
-πολεμοῦντα : see on dirovaa, 52,4.
+πολεμοῦντα : see on φιλοῦσα, 52,4.
 
 53,8. δαπανᾶν: in indirect discourse.? — 
 
@@ -309,7 +325,7 @@ HA. B. G, Gl. x 679 475,1  989, 2 199b
 
 γιγνομένους: as they became due.
 
-53,10. βασιλεῖ: the dative with a verb of sending denotes not so much the person ¢o whom, as the one for whom a thing is sent (dative of interest), but 4o may be used in translation. 
+53,10. βασιλεῖ: the dative with a verb of sending denotes not so much the person to whom, as the one for whom a thing is sent (dative of interest), but to may be used in translation. 
 
 πόλεων ὧν : for πόλεων ἅς. ὧν serves as object of ἔχων and is attracted into the case of its antecedent.8 — 
 
@@ -321,9 +337,9 @@ HA. B. G, Gl. x 679 475,1  989, 2 199b
 
 συνελέγετο: was being collected; cp. ἀπέπεμπε, l.9.
 
-53,13. κατ' ἀντιπέρας: an adverbial phrase of place, followed by the genitive.5
+53,13. κατ' ἀντιπέρας: an adverbial phrase of place, followed by the genitive[Gen???].5
 
-53,15. φυγάς: Clearchus was exiled for disobedience to the military authorities at Sparta (134, 18 81). -- 
+53,15. φυγάς: Clearchus was exiled for disobedience to the military authorities at Sparta (134, 18 ff.). -- 
 
 τούτῳ : cp. αὐτῷ, l.5.
 
@@ -364,7 +380,7 @@ HA. B. G. Gl.
 
 εἰς: of purpose, for, towards.
 
-53,25. τῶν στρατιωτῶν: objective genitive; cp. αὐτῶν, 51,10.
+53,25. τῶν στρατιωτῶν: objective genitive[GenObj]; cp. αὐτῶν, 51,10.
 
 53,26. ἑκοῦσαι: usually best translated as an adverb; here it might be rendered and were glad to do it. 
 
@@ -392,21 +408,25 @@ HA, B. G. Gl.
 
 εἰς. .. ξένους: since Cyrus would hardly have been willing to send to such a distance as Thessaly troops which he had at hand, already assembled in Asia, it seems best to take closely with μισθόν not only τριῶν μηνῶν but also εἰς . . . ξένους, pay for 2000 mercenaries (and) for three months (cp. εἰς, 53,24) ; that is, Aristippus was to raise the forces himself with money furnished by Cyrus. Later he sent 1500 men under Menon to take part in the expedition of Cyrus; see 56,13.
 
-54,4. μηνῶν: genitive of measure.2 
+54,4. μηνῶν: genitive of measure[§GenMeas].2 
 
 ὡς... περιγενόμενος ἄν : because (expressed by the circumstantial participle of cause), as he said, he would thus, etc. For ὡς, see on ὡς ἀποκτενῶν, 51,15. The participle with ἄν 3 is equivalent to the potential optative,4 representing the apodosis of a less vivid future condition, of which the protasis (‘if he should give them to him’) is implied in οὕτως.
 
-54,5. ἀντιστασιωτῶν : genitive of comparison.5— 
+54,5. ἀντιστασιωτῶν : genitive of comparison[§GenComp].5 
 
 δίδωσιν: Cyrus may have been the more willing to grant this request because Aristippus belonged to the noble family of the Aleuadae, who had been the first of the Greeks to submit to Xerxes when he invaded Greece in 480 B.c.
 
-54,6. αὐτοῦ: the genitive serves as one object of  δεῖται,6 μὴ... καταλῦσαι Being another object; cp. “let him ask of God,” James I. 5.
+54,6. αὐτοῦ: the genitive[GenVerb] serves as one object of  δεῖται,6 
+
+μὴ... καταλῦσαι Being another object; cp. “let him ask of God,” James I. 5.
 
 54,7. μή: the regular negative with the infinitive when it is not in indirect discourse.7
 
 πρόσθεν: anticipates the following πρίν and is not to be translated. 
 
-καταλῦσαι: weds: fo come to terms with. πρὶν ἂν . .. συμβουλεύσηται: πρίν takes the finite moods chiefly after negatives. The subjunctive® refers vividly to the future (cp. more vivid future conditions) and expresses the thought as it existed in the mind of Cyrus when he made the request (implied indirect discourse 10) ; the aorist subjunctive expresses simple occurrence in the future, and so may
+καταλῦσαι πρός: to come to terms with. 
+
+πρὶν ἂν . .. συμβουλεύσηται: πρίν takes the finite moods chiefly after negatives.8 The subjunctive9 refers vividly to the future (cp. more vivid future conditions) and expresses the thought as it existed in the mind of Cyrus when he made the request (implied indirect discourse 10) ; the aorist subjunctive expresses simple occurrence in the future, and so may
 HA. B. G. Gl.
 1 724 340 1069 535
 2 729d 352 N. 1085, 5 506a
@@ -448,9 +468,11 @@ HA. B. G. Gl.
 54,16. ἐλθεῖν: for the force of the tense, see on παραγενέσθαι, l. 11.
 
 
-ὡς πολεμήσων: intending, as he said, to make war; see on os ἀποκτενῶν, 51,15. --- Τισσαφέρνει : see on Τισσαφέρνει, 53,7.
+ὡς πολεμήσων: intending, as he said, to make war; see on ὡς ἀποκτενῶν, 51,15. --- 
 
-54,17. σύν: an example of Xenophon’s violation of pure Attic usage (see Introd. § 43). Other prose writers generally used μετά with the genitive to express accompaniment. On the pretexts used by Cyrus in collecting his Greek troops, see Introd. § 6.
+Τισσαφέρνει : see on Τισσαφέρνει, 53,7.
+
+54,17. σύν: an example of Xenophon’s violation of pure Attic usage (see Introd. § 43). Other prose writers generally used μετά with the genitive to express accompaniment. On the pretexts used by Cyrus in collecting his Greek troops, see Introd. § 6. <note>GRC:obviously something we can quantify</note>
 
 54,18. οὕτως: so spelled before a vowel, but cp. οὕτω, 53,26; see on ὧδε, 52,13.
 
@@ -466,7 +488,7 @@ CHAPTER 2.
 
 54,20. μέν: used with the excuse, as if δέ were later to introduce the real reason, but in describing the preparations for the pretended expedition Xenophon overlooked, or purposely neglected, the formal antithesis. 
 
-ἐποιεῖτο: see On ἀπέπεμπε, 53,9. 
+ἐποιεῖτο: see on ἀπέπεμπε, 53,9. 
 
 ὡς. . . βουλόμενος: that he wished; cp. ὡς... βουλόμενος, 1. 11.
 
@@ -505,7 +527,7 @@ HA. Β. G. Gl.
 
 προειστήκει: see on ἀφειστήκεσαν, 52,20. When the perfect has a present meaning, the pluperfect is equivalent to the imperfect.1
 
-τοῦ... ξενικοῦ: see on βαρβαρικόν, 54,22; for the genitive, see on αὐτῶν, 53,5.
+τοῦ... ξενικοῦ: see on βαρβαρικόν, 54,22; for the genitive, see on αὐτῶν, 53,5. [GenVerb]
 
 55,4. ἐν ταῖς πόλεσι: with the position of this attributive phrase cp. παρ᾽ ἑαυτῷ, 52,8.
 
@@ -513,9 +535,7 @@ HA. Β. G. Gl.
 
 55,5. ὁπόσοι: with omitted antecedent τοσούτων, depending on πλήν (cp. 52,21), except as many as.
 
-55,9. τοὺς φυγάδας : -- 
-
-τοὺς ἐκπεπτωκότας, 53,1.
+55,9. τοὺς φυγάδας : -- τοὺς ἐκπεπτωκότας, 53,1.
 
 55,12. καταπράξειεν : in indirect discourse after a past tense3 representing ἐὰν καταπράξω of direct discourse. When a subjunctive with ἂν is changed to the optative, ἂν is omitted.4 
 
@@ -559,26 +579,26 @@ HA. B. G. Gl.
 
 55,28. ἦν: agrees with the nearer subject. 
 
-τῶν... στρατενομένων: predicate partitive genitive ;3 the present participle here represents the imperfect of the indicative.
+τῶν... στρατευομένων: predicate partitive genitive [GenPart] ;3 the present participle here represents the imperfect of the indicative.
 
 55,29. αὐτῷ: see on 53,12; translate, in response to his summons.
 
 56,1. μείζονα. .. παρασκενήν : thinking that the expedition was too great to be against the Pistdians ; μείζονα is a predicate adjective; ὡς after a comparative and ἤ is equivalent to ὥστε, and takes the infinitive (here εἶναι implied).
 
-56,3. ὡς: a preposition.5— (sc. ὁδῷ) ἐδύνατο τάχιστα: cρ. ὡς μάλιστα ἐδύνατο, 52,10.
+56,3. ὡς: a preposition.5 (sc. ὁδῷ) ἐδύνατο τάχιστα: cρ. ὡς μάλιστα ἐδύνατο, 52,10.
 
 56,4. δή: naturally.
 
-56,5. Τισσαφέρνους: genitive of source.6
+56,5. Τισσαφέρνους: genitive of source[GenSep].6
 
 56,6. Κῦρος δέ: corresponding to βασιλεὺς μέν, l.4. --- 
 
-ὡρμᾶτο: was (meanwhile) setting out. The date is calculated, though not with certainty, to have been March 6, 401 B.c.— 
+ὡρμᾶτο: was (meanwhile) setting out. The date is calculated, though not with certainty, to have been March 6, 401 B.C.— 
 
 ἀπό: (not ἐκ, out of ) shows that the troops were quartered outside the town.
 
 56,7. διὰ τῆς Λυδίας: follow the route on the map (frontispiece). Since the main highway to the east ran from Sardis to Ceramon Agora, it seems likely that in his march to Celaenae Cyrus was keeping up the pretense of a campaign against Pisidia. 
-HA. Β. σ. Ο!.
+HA. Β. G. Gl.
 1 948a 549,2 1286,1496 579a
 2 217 137,2 293  228
 3 732a 355,2 1094,7 508
@@ -610,7 +630,7 @@ HA. Β. σ. Ο!.
 
 ἦν: with a neuter plural subject,! which, however, as not infrequently, has a singular meaning; cp. Lat. castra, camp.
 
-56,19. θηρίων: genitive with an adjective of fullness (NODID). 
+56,19. θηρίων: genitive with an adjective of fullness (GEN???). 
 
 ἐκεῖνος ἐθήρευεν : he used to hunt; see on ἀπεπέμπετο, 52,6. 
 
@@ -634,7 +654,7 @@ HA. B. G. Gl.
 <pb n="241"/>
 #241
 
-56,23. Κελαινῶν: a poetical use, in which the genitive takes the place of a noun in apposition; so regularly in English, as ‘city of London,’ ‘state of Maine.
+56,23. Κελαινῶν: a poetical use, in which the genitive[Gen???] takes the place of a noun in apposition; so regularly in English, as ‘city of London,’ ‘state of Maine.
 
 ἔστι: observe the accent.1— 
 
@@ -644,7 +664,7 @@ HA. B. G. Gl.
 
 καὶ οὗτος: this too, as well as the Meander (56,22 f.).
 
-57. 3. ποδῶν: predicate genitive of measure.2
+57. 3. ποδῶν: predicate genitive of measure[§GenMeas].2
 
 57,4. λέγεται Ἀπόλλων: the personal construction (Apollo is said) with the passive of verbs which take an infinitive of indirect discourse, and with some other expressions, is more frequent than the impersonal (λέγεται Ἀπόλλωνα, it is said that Apollo).3— The story ran that Athena, after inventing the flute, threw it away in disgust because she found that the act of blowing it distorted her comely features. If was discovered by Marsyas, the god of the river which rises at Celaenae. He was so delighted with his discovery and his musical ability that he had the presumption to challenge Apollo, the leader of the Muses and patron of the fine arts, who was proficient with the far more melodious lyre. The challenger, defeated, was punished for his arrogance in the manner mentioned by Xenophon. The story is given by Ovid, Metamorphoses 6. 382 ff., Hastd 6. 697 ff. 
 
@@ -700,7 +720,7 @@ HA. B. G. GI.
 
 59,3. πλέον: as adverb, for more. 
 
-μηνῶν: genitive of measure ; cp. ποδῶν, 57,3 .
+μηνῶν: genitive of measure [§GenMeas]; cp. ποδῶν, 57,3 .
 
 59,4. θύρας: since it applies to a camp, translate headquarters. —
 
@@ -764,7 +784,7 @@ HA. B. G. Gl. x 9692 653,6 1563, 5 583
 
 αὐτήν: the spring. The English idiom requires by mixing wine with it. 
 
-59,21. Κύρου: for the genitive, see on αὐτοῦ, 54; 6. --- 
+59,21. Κύρου: for the genitive, see on αὐτοῦ, 54; 6[GenVerb]. --- 
 
 ἐπιδεῖξαι :  see on δοθῆναι, 53,4.
 
@@ -817,7 +837,7 @@ HA. B. G. Gl. x 9692 653,6 1563, 5 583
 
 60,22. θᾶττον: faster and faster.
 
-60,23. προϊόντων: SC. αὐτῶν, genitive absolute. 
+60,23. προϊόντων: SC. αὐτῶν, genitive absolute[GenAbs]. 
 
 ἀπὸ τοῦ αὐτομάτου : i.e. without orders from Cyrus. They caught his idea and of their own accord made this contribution to the entertainment of the queen.
 
@@ -890,7 +910,7 @@ HA. “ B. G. Gl,
 
 εἴσω: on the Cilician side. 
 
-ὁρῶν: genitive with an adverb ; cp. Ἀβύδου, 53,13. 
+ὁρῶν: genitive with an adverb[Gen???] ; cp. Ἀβύδου, 53,13. 
 
 ὅτι: because. 
 
@@ -915,9 +935,9 @@ HA. B. G. GI.
 
 ἔχοντα: participle in indirect discourse, was in charge of (had) triremes; see on βουλευομένους, 52,23.
 
-62,16. Λακεδαιμονίων: possessive genitive (§Gen1), belonging to the Spartans. See Introd. § 7. To keep the emphasis as expressed by the Greek order, translate, he kept hearing that triremes belonging to the Spartans and to Cyrus himself were sailing round from Ionia to Cilicia under the command of Tamos. See on τοῦτο. .. τὸ στράτευμα, 53,26.
+62,16. Λακεδαιμονίων: possessive genitive (§GenPos), belonging to the Spartans. See Introd. § 7. To keep the emphasis as expressed by the Greek order, translate, he kept hearing that triremes belonging to the Spartans and to Cyrus himself were sailing round from Ionia to Cilicia under the command of Tamos. See on τοῦτο. .. τὸ στράτευμα, 53,26.
 
-62,17. οὐδενὸς κωλύοντος: without opposition; genitive absolute (§Gen15). —
+62,17. οὐδενὸς κωλύοντος: without opposition; genitive absolute (GenAbs). —
 
 σκηνάς: camp (see Vocab.) or huts, for tents would have been taken away. Probably, too, a permanent guard was kept there.
 
@@ -943,7 +963,7 @@ HA. B. G. GI.
 
 63,1. ὄνομα, εὖρος: accusative of specification. 
 
-πλέθρων: genitive of measure, limiting ποταμός; for the number, cp. παῖδες δύο, 51,1. The numeral is here indeclinable.
+πλέθρων: genitive of measure[§GenMeas], limiting ποταμός; for the number, cp. παῖδες δύο, 51,1. The numeral is here indeclinable.
 
 63,2. ἐξέλιπον... εἰς χωρίον : left and went to or left for (as ‘he left for Boston ’).
 
@@ -966,7 +986,7 @@ HA. B. G. Gl.
 
 63,6. προτέρα: adjective equivalent to an English adverb; see on ἑκοῦσαι, 53,26.
 
-Κύρου: genitive of comparison with προτέρα.1
+Κύρου: genitive of comparison[§GenComp] with προτέρα.1
 
 63,7. ἡμέραις: dative of degree of difference.2
 
@@ -1001,7 +1021,7 @@ HA. B. G. Gl.
 
 63,18. πρότερον: superfluous with πω. 
 
-οὐδενί: being a compound negative, it does not make an affirmative with οὔτε, but strengthens the negation.4 Translate the dative 5 as a possessive genitive, of anybody, with εἰς χεῖρας. 
+οὐδενί: being a compound negative, it does not make an affirmative with οὔτε, but strengthens the negation.4 Translate the dative 5 as a possessive genitive[§GenPos], of anybody, with εἰς χεῖρας. 
 
 ἑαυτοῦ: see on Κύρου, l. 6.
 HA. : Β. σ. Gl.
@@ -1038,7 +1058,7 @@ HA. : Β. σ. Gl.
 
 64,4. CHAPTER 3. οὐκ ἔφασαν: see on οὔτε . . . ἔφη, 63,17. --ἱέναι: with future meaning in indirect discourse (see Vocab., and cp. Eng. “I am going,” “are you going?” etc., which refer to the future more often than to the present). In l.7 and in προϊέναι, l. 9, the infinitive is not in indirect discourse, and so has no idea of time; see on wapayeveoa, 54,11. 
 
-τοῦ πρόσω: genitive of place.2
+τοῦ πρόσω: genitive of place[GenLoc].2
 
 64,5. ὑπώπτενον: their suspicions were now brought to a head, because to reach Pisidia from Tarsus they would have to retrace their steps and march west. — ἰέναι, μισθωθῆναι: observe that, unlike the usage of Latin, the subject of an infinitive in indirect discourse is omitted if it is the same as the subject of the principal verb.
 
@@ -1107,7 +1127,7 @@ HA. B. G. σι.
 ἀνθ᾽ ὧν εὖ ἔπαθον: the full form would be ἀντὶ
 τούτων ἃ εὖ ἔπαθον ; the antecedent is omitted, while the relative, as often in English, is attached to the preposition and attracted to the case of the omitted word; in return for the benefits which I had received from him. 
 
-64,25. ὑπ᾽ ἐκείνου : εὖ ἔπαθον, as passive of εὖ ἐποίησα,1 takes the genitive of agent. 
+64,25. ὑπ᾽ ἐκείνου : εὖ ἔπαθον, as passive of εὖ ἐποίησα,1 takes the genitive of agent[Gen???]. 
 
 ἐπεί : causal. 
 
@@ -1127,7 +1147,7 @@ HA. B. G. σι.
 
 δ' οὖν: i.e. whether right or wrong; see on 59,9.
 
-65,4. ὅ τι ἂν δέῃ: a conditional relative clause equivalent to a more vivid future condition ; 3 sc. πάσχειν with δέῃ. Distinguish ὅ τι from ὅτι."
+65,4. ὅ τι ἂν δέῃ: a conditional relative clause equivalent to a more vivid future condition ; 3 sc. πάσχειν with δέῃ. Distinguish ὅ τι from ὅτι.4
 
 65,5. οὐδείς: see on οὐδενί, 63,18.
 
@@ -1149,15 +1169,14 @@ HA. ᾿ B. G. Gl.
 2 1016 578 1605 655
 3 916 623 1434 616a,618a
 4 280 150 426 221b
-5 9644a647 1308 579
+5 9644a 647 1308 579
 
 <pb n="252"/>
 #252 XENOPHON’S ANABASIS [l.3 other modifier of the omitted subject is in the nominative.1 
 
-ὅπου ἂν ὦ: as secondary protasis to ἂν εἶναι, this would naturally be less vivid also,
-ὅπου εἴην. To secure greater vividness, the subjunctive with ἂν is used instead, may be for might be. 
+ὅπου ἂν ὦ: as secondary protasis to ἂν εἶναι, this would naturally be less vivid also, ὅπου εἴην. To secure greater vividness, the subjunctive with ἂν is used instead, may be for might be. 
 
-ὑμῶν: genitive of separation.
+ὑμῶν: genitive of separation[GenSep].
 
 65,11. ὦν: that the participle implies condition is shown by the ἄν of the following clause. The complete condition in direct discourse would be εἰ εἴην ἔρημος, οὐκ ἂν ἱκανὸς εἴην. 
 
@@ -1165,9 +1184,9 @@ HA. ᾿ B. G. Gl.
 
 ὅ5, 12. ὠφελῆσαι, ἀλέξασθαι : with an adjective. 
 
-ὡς: introduces the genitive absolute, which takes the place of a participle in indirect discourse after οὕτω τὴν γνώμην ἔχετε (equivalent ἰο γιγνώσκετε τοῦτο), make up your minds to this, that, etc. (lit., in the belief (as) that, etc., so make up your minds).
+ὡς: introduces the genitive absolute[GenAbs], which takes the place of a participle in indirect discourse after οὕτω τὴν γνώμην ἔχετε (equivalent ἰο γιγνώσκετε τοῦτο), make up your minds to this, that, etc. (lit., in the belief (as) that, etc., so make up your minds).
 
-ἐμοῦ... ἰόντος: genitive absolute with future force; translate I shall go; cp. ἰέναι, 64,4, and see note.
+ἐμοῦ... ἰόντος: genitive absolute[GenAbs] with future force; translate I shall go; cp. ἰέναι, 64,4, and see note.
 
 65,13. ὅπῃ ἂν καὶ ὑμεῖς : sc. ἴητε. 
 
@@ -1188,7 +1207,7 @@ HA. ᾿ B. G. Gl.
 
 μετεπέμπετο: note the tense.
 
-65,21. στρατιωτῶν: genitive of separation with an adverb.4 
+65,21. στρατιωτῶν: genitive of separation[GenSep] with an adverb.4 
 
 θαρρεῖν: the infinitive is used with λέγω and εἶπον, when they signify tell or bid. 
 
@@ -1222,7 +1241,7 @@ HA. Β. σ. Gl.
 ἀδικεῖσθαι: subject omitted because it is the same as that of the principal verb; see on ἰέναι, etc., 64,5.
 
 66,6. ὥστε... ἐθέλω: see on ὥστε... εἶναι, 52,7. ---- μεταπεμπομένου
-αὐτοῦ: the genitive absolute implying concession! is often strengthened by καί or καίπερ.3
+αὐτοῦ: the genitive absolute[GenAbs] implying concession! is often strengthened by καί or καίπερ.3
 
 65,7. τὸ μέγιστον : adverbial accusative ; so πάντα, l.8.
 
@@ -1233,13 +1252,13 @@ HA. Β. σ. Gl.
 66,9. δίκην ἐπιθῇ : 56. μοι; an object clause with a verb of fearing.4
 
 
-ὧν: genitive of cause; the full expression would be δίκην τούτων ἃ (in: which5) νομίζει ἠδικῆσθαι. On the attraction of the relative to the case of its omitted antecedent, see on ἀνθ᾽ ὧν, 64,24.
+ὧν: genitive of cause[GenCause]; the full expression would be δίκην τούτων ἃ (in: which5) νομίζει ἠδικῆσθαι. On the attraction of the relative to the case of its omitted antecedent, see on ἀνθ᾽ ὧν, 64,24.
 
 66,10. δοκεῖ: ὥρα is the subject, the personal construction (see on λέγεται Ἀπόλλων, 57,4) being usual with δοκέω in the meaning seem, be thought ; the impersonal construction is often preferable in English, as, _ it seems to me not to be a time. The infinitive is the object of δοκεῖ and in indirect discourse (hence the negatives οὐχ, οὐδέ; see on μή, 54,7)With δοκεῖ meaning it seems best an infinitive is the Subject and not in indirect discourse. 
 
 καθεύδειν, ἀμελεῖν: depend on ὥρα.6
 
-66,11. ἡμῶν αὐτῶν: genitive with a verb of neglecting.7— ὅ τι χρή: indirect questions are often introduced by the indefinite relative.
+66,11. ἡμῶν αὐτῶν: genitive with a verb of neglecting[GenVerb].7— ὅ τι χρή: indirect questions are often introduced by the indefinite relative.
 
 66,12. αὐτοῦ: adverb. 
 
@@ -1261,18 +1280,18 @@ HA. B. G. Gl.
 
 66,14. ἄπιμεν: equivalent to a future; see on ἰέναι, 64,4.
 
-66,15. οὔτε στρατηγοῦ, etc.: predicate genitive (sc. ἐστί) of source ; translate neither general nor private is of any use.
+66,15. οὔτε στρατηγοῦ, etc.: predicate genitive (sc. ἐστί) of source[Gen???] ; translate neither general nor private is of any use.
 
 66,16. ὁ ἀνήρ: our man, Cyrus. 
 
-πολλοῦ: genitive of value with ἄξιος 1 (sc. ἐστίν). --- ᾧ ἂν φίλος 4: conditional relative clause equivalent to a present general condition.2 See on δύνηται, 52,3.
+πολλοῦ: genitive of value[GenVal] with ἄξιος 1 (sc. ἐστίν). --- ᾧ ἂν φίλος 4: conditional relative clause equivalent to a present general condition.2 See on δύνηται, 52,3.
 
 66,17. ἐχθρός: indicates that Cyrus made a personal matter of his public enmities, a very bitter personal foe to any one with whom he is at war. 
 
 66,19. ὁμοίως: join with πάντες. ---- καὶ γάρ: see on 52,18. --- οὐδέ: not by any means.
 
 66,20. δοκοῦμεν: for the personal construction, see on δοκεῖ, l. 10. —
-αὐτοῦ: genitive of separation with πόρρω. This sentence is a crafty suggestion of the difficulty of deserting Cyrus. 
+αὐτοῦ: genitive of separation[GenSep] with πόρρω. This sentence is a crafty suggestion of the difficulty of deserting Cyrus. 
 
 ὥρα: sc. ἐστί; cp. ἀνάγκη,
 65,1.— ὅ τι τις γιγνώσκει : see on ὅ τι χρή, l. 11.
@@ -1331,7 +1350,7 @@ HA. Β, σ. σι.
 
 67,8. καταλαβόντες: supplementary participle with φθάσωσι; see on παρών, 51,5.
 
-67,9. ὧν... χρήματα: many of whose men and much of whose property; ὧν is partitive genitive with πολλούς, but possessive genitive with χρήματα. --- ἔχομεν : with a participle ἔχω is not a mere auxiliary like English ‘have,’ but keeps its full force4; we have in our possession, having gained them by plunder. If Syennesis made any search for his kidnapped Cilicians (64,2), it had evidently not been very successful.
+67,9. ὧν... χρήματα: many of whose men and much of whose property; ὧν is partitive genitive[GenPart] with πολλούς, but possessive genitive[§GenPos] with χρήματα. --- ἔχομεν : with a participle ἔχω is not a mere auxiliary like English ‘have,’ but keeps its full force4; we have in our possession, having gained them by plunder. If Syennesis made any search for his kidnapped Cilicians (64,2), it had evidently not been very successful.
 
 67. 11. τοσοῦτον : (only) so much, merely, an allusion to Laconian brevity. This word ordinarily refers to what precedes. 
 
@@ -1375,7 +1394,7 @@ HA, B. G. Gl.
 
 67,18. αἰτεῖν: object infinitive with κελεύοντος ; sc. αὐτούς as direct object of κελεύοντος. — 
 
-ὥσπερ... Κύρον ποιουμένον: genitive absolute with ὥσπερ; just as if Cyrus were making the journey back home again.
+ὥσπερ... Κύρον ποιουμένον: genitive absolute[GenAbs] with ὥσπερ; just as if Cyrus were making the journey back home again.
 
 67,19. εἴη: impersonal, the subject being αἰτεῖν; indirectly quoted, but the construction changes at once to direct discourse.
 
@@ -1794,8 +1813,7 @@ HA. B. G. Gl.
 πέντε
 ἀργυρίον μνᾶς: about $112, if, as is likely, not the Attic, but the heavier Persian mina is meant. Note the genitive of material.
 
-73,11. ἐπὰν. ... ἥκωσι: a temporal clause referring vividly to the future, and so equivalent to a more vivid future condition; cp.  ὅ τι ἂν
-δέῃ, 65,4. The mood of direct discourse is retained. Since the present indicative of ἥκω is equivalent to a perfect (cp. οἴχονται, 71,7, and note), the present subjunctive, with its added idea of futurity, has the force of a future perfect. 
+73,11. ἐπὰν. ... ἥκωσι: a temporal clause referring vividly to the future, and so equivalent to a more vivid future condition; cp.  ὅ τι ἂν δέῃ, 65,4. The mood of direct discourse is retained. Since the present indicative of ἥκω is equivalent to a perfect (cp. οἴχονται, 71,7, and note), the present subjunctive, with its added idea of futurity, has the force of a future perfect. 
 
 τὸν μισθόν: the pay agreed upon (68,23 f.).
 
@@ -1805,7 +1823,7 @@ HA. B. G. Gl.
 
 73,13. τὸ... πολύ: the greater part. 
 
-τοῦ “Ἑλληνικοῦ: sc. στρατεύματος, partitive genitive.
+τοῦ Ἑλληνικοῦ: sc. στρατεύματος, partitive genitive.
 
 73,14. δῆλον: predicate; the indirect question is the subject of the infinitive. 
 
@@ -2191,10 +2209,9 @@ HA. B. G. Gl.
 
 79. 12. αὐτοῦ: genitive with a verb of missing.2
 
-79,13. κραυγῆς γενομένης: the tense expresses mere occurrence, and
-‘there was an uproar.
+79,13. κραυγῆς γενομένης: the tense expresses mere occurrence, <gloss>and there was an uproar</gloss>.
 
-79,15. παραγγέλλει. . ὅπλα: he gave the order ‘To arms! ; cp. Lat. ad arma conclamare. .
+79,15. παραγγέλλει... ὅπλα: he gave the order ‘To arms! '; cp. Lat. ad arma conclamare. 
 
 79,17. αὐτοῦ: cp. 66,12.
 
@@ -2971,13 +2988,13 @@ HA. B. G. Gl.
 
 ὡς: temporal conjunction with ἐξεκύμαινε. ---- 
 
-πορευομένων : σψ. αὐτῶν, genitive absolute of time.
+πορευομένων : sc. αὐτῶν, genitive absolute of time.
 
-92,9. τι: 86. μέρος ; so also with τὸ ὑπολειπόμενον, of which observe the tense, was being left behind.
+92,9. τι: sc. μέρος ; so also with τὸ ὑπολειπόμενον, of which observe the tense, was being left behind.
 
 92,10. οἷον: adverb (originally cognate accusative with ἐλελίζουσι, the sort of battle cry they raise).
 
-92, If. ἐλελίζουσι: the war cry was distinct from the war song (cp.
+92, 11. ἐλελίζουσι: the war cry was distinct from the war song (cp.
 ἐπαιάνιζον, l.7); see Introd. § 66.
 
 92,12. ἀσπίσι: for case, cp. ἀξίνῃ, 79,11. We might expect πρὸς
@@ -2992,7 +3009,8 @@ HA, Β. σ. Gl.
 #289
 
 92,13. φόβον ποιοῦντες: thus frightening; the participle has a touch of purpose, though it is present; cp. ἐπιδεικνύντες, 66,24, and see note.
-- πρὶν... ἐξικνεῖσθαι : see on εἶναι, 73,14.
+
+πρὶν... ἐξικνεῖσθαι : see on εἶναι, 73,14.
 
 92,16. μὴ θεῖν: see on ἄγειν, 91,5. They feared a rally and sudden attack by the enemy.
 
@@ -3214,7 +3232,7 @@ HA. Β. 6, Gl.
 
 96,17. μηδέν: would be οὐδέν in direct discourse, and is therefore somewhat irregular, but is used perhaps because the main verb is equivalent to a verb of hoping.2
 
-96,18. ἐπολέμησε: see on ἠγάσθη; 53; 16.
+96,18. ἐπολέμησε: see on ἠγάσθη; 53, 16.
 
 96,19. ἑκοῦσαι: see on 53,26.
 
@@ -3558,7 +3576,8 @@ HA. B. G. Gl.
 
 ται,1 and containing the main idea. οἴχονται remains in the indicative, although νικῶσι of the direct discourse has become optative (l. 13) 5 see on ἥξοι; 81,3.
 
-101, 17. πλησιαίτατος: observe the irregular comparison; cp. φιλαίτερον, 100, 4. --
+101, 17. πλησιαίτατος: observe the irregular comparison; cp. φιλαίτερον, 100, 4. 
+
 εἰ πέμποιεν. .. ἴοιεν : the optative represents the deliberative subjunctive 2 of the direct discourse.3 εἰ . . . ἤ introduce indirect alternative questions.4
 
 101, 18. ἐν τούτῳ: sc. τῷ χρόνῳ, meanwhile.
@@ -3569,7 +3588,7 @@ HA. B. G. Gl.
 
 101, 21. προσιόντος : sc. αὐτοῦ, and see on προϊόντων, 80,15; καί connects the genitive absolute with the circumstantial participle, ὡς belonging with both.
 
-101, 22. οὐκ ἦγεν: aid not advance; cp. dywv, 79,28. — 
+101, 22. οὐκ ἦγεν: did not advance; cp. ἄγων, 79,28. — 
 
 παρῆλθεν : in his pursuit of the barbarian army of Cyrus (100, 18). Translate as pluperfect. — 
 
