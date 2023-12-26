@@ -1,0 +1,514 @@
+
+Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek.
+ 
+ Greek: 186 ἐπεὶ τοίνυν τάχιστα τῶν πολιτευομένων ὑπέλαβον κρείττονες εἶναι, Σωκράτει μὲν οὐκέτι προσῇσαν ·
+English: So soon, then, as they presumed themselves to be the superiors of the politicians, they no longer came near Socrates.
+
+Greek: 187 οὔτε γὰρ αὐτοῖς ἄλλως ἤρεσκεν, εἴ τε προσέλθοιεν, ὑπὲρ ὧν ἡμάρτανον ἐλεγχόμενοι ἤχθοντο ·
+English: For apart from their general want of sympathy with him, they resented being cross-examined about their errors when they came.
+
+Greek: 188 τὰ δὲ τῆς πόλεως ἔπραττον, ὧνπερ ἕνεκεν καὶ Σωκράτει προσῆλθον.
+English: Politics had brought them to Socrates, and for politics they left him.
+
+Greek: 189 ἀλλὰ Κρίτων τε Σωκράτους ἦν ὁμιλητὴς καὶ Χαιρεφῶν καὶ Χαιρεκράτης καὶ Ἑρμογένης καὶ Σιμμίας καὶ Κέβης καὶ Φαιδώνδας καὶ ἄλλοι, οἳ ἐκείνῳ συνῆσαν, οὐχ ἵνα δημηγορικοὶ ἢ δικανικοὶ γένοιντο, ἀλλ’ ἵνα καλοί τε κ- ἀγαθοὶ γενόμενοι καὶ οἴκῳ καὶ οἰκέταις καὶ οἰκείοις καὶ φίλοις καὶ πόλει καὶ πολίταις δύναιντο καλῶς χρῆσθαι.
+English: But Criton was a true associate of Socrates, as were Chaerophon, Chaerecrates, Hermogenes, Simmias, Cebes, Phaedondas, and others who consorted with him not that they might shine in the courts or the assembly, but that they might become gentlemen, and be able to do their duty by house and household, and relatives and friends, and city and citizens.
+
+Greek: 190 καὶ τούτων οὐδεὶς οὔτε νεώτερος οὔτε πρεσβύτερος ὢν οὔτ’ ἐποίησε κακὸν οὐδὲν οὔτ’ αἰτίαν ἔσχεν.
+English: Of these not one, in his youth or old age, did evil or incurred censure.
+
+Greek: 191 ἀλλὰ Σωκράτης γε, ἔφη ὁ κατήγορος, τοὺς πατέρας προπηλακίζειν ἐδίδασκε, πείθων μὲν τοὺς συνόντας αὐτῷ σοφωτέρους ποιεῖν τῶν πατέρων, φάσκων δὲ κατὰ νόμον ἐξεῖναι παρανοίας ἑλόντι καὶ τὸν πατέρα δῆσαι, τεκμηρίῳ τούτῳ χρώμενος, ὡς τὸν ἀμαθέστερον ὑπὸ τοῦ σοφωτέρου νόμιμον εἴη δεδέσθαι.
+English: But, said his accuser, Socrates taught sons to treat their fathers with contempt: he persuaded them that he made his companions wiser than their fathers: he said that the law allowed a son to put his father in prison if he convinced a jury that he was insane; and this was a proof that it was lawful for the wiser to keep the more ignorant in gaol.
+
+Greek: 192 Σωκράτης δὲ τὸν μὲν ἀμαθίας ἕνεκα δεσμεύοντα δικαίως ἂν καὶ αὐτὸν ᾤετο δεδέσθαι ὑπὸ τῶν ἐπισταμένων ἃ μὴ αὐτὸς ἐπίσταται;
+English: In reality Socrates held that, if you clap fetters on a man for his ignorance, you deserve to be kept in gaol yourself by those whose knowledge is greater than your own.
+
+Greek: 193 καὶ τῶν τοιούτων ἕνεκα πολλάκις ἐσκόπει, τί διαφέρει μανίας ἀμαθία;
+English: And such reasoning led him frequently to consider the difference between Madness and Ignorance.
+
+Greek: 194 καὶ τοὺς μὲν μαινομένους ᾤετο συμφερόντως ἂν δεδέσθαι καὶ ἑαυτοῖς καὶ τοῖς φίλοις, τοὺς δὲ μὴ ἐπισταμένους τὰ δέοντα δικαίως ἂν μανθάνειν παρὰ τῶν ἐπισταμένων.
+English: That madmen should be kept in prison was expedient, he thought, both for themselves and for their friends: but those who are ignorant of what they ought to know deserve to learn from those who know it.
+
+Greek: 195 ἀλλὰ Σωκράτης γε, ἔφη ὁ κατήγορος, οὐ μόνον τοὺς πατέρας ἀλλὰ καὶ τοὺς ἄλλους συγγενεῖς ἐποίει ἐν ἀτιμίᾳ εἶναι παρὰ τοῖς ἑαυτῷ συνοῦσι, λέγων ὡς οὔτε τοὺς κάμνοντας οὔτε τοὺς δικαζομένους οἱ συγγενεῖς ὠφελοῦσιν, ἀλλὰ τοὺς μὲν οἱ ἰατροί, τοὺς δὲ οἱ συνδικεῖν ἐπιστάμενοι.
+English: But, said his accuser, Socrates caused his companions to dishonour not only their fathers, but their other relations as well, by saying that invalids and litigants get benefit not from their relations, but from their doctor or their counsel.
+
+Greek: 196 ἔφη δὲ καὶ περὶ τῶν φίλων αὐτὸν λέγειν ὡς οὐδὲν ὄφελος εὔνους εἶναι, εἰ μὴ καὶ ὠφελεῖν δυνήσονται.
+English: Of friends too he said that their goodwill was worthless, unless they could combine with it some power to help one.
+
+Greek: 197 μόνους δὲ φάσκειν αὐτὸν ἀξίους εἶναι τιμῆς τοὺς εἰδότας τὰ δέοντα καὶ ἑρμηνεῦσαι δυναμένους.
+English: Only those deserved honour who knew what was the right thing to do, and could explain it.
+
+Greek: 198 ἀναπείθοντα οὖν τοὺς νέους αὐτόν, ὡς αὐτὸς εἴη σοφώτατός τε καὶ ἄλλους ἱκανώτατος ποιῆσαι σοφούς, οὕτω διατιθέναι τοὺς ἑαυτῷ συνόντας, ὥστε μηδαμοῦ παρ' αὐτοῖς τοὺς ἄλλους εἶναι πρὸς ἑαυτόν.
+English: Thus by leading the young to think that he excelled in wisdom and in ability to make others wise, he had such an effect on his companions that no one counted for anything in their estimation in comparison with him.
+
+Greek: 199 ἐγὼ δ' αὐτὸν οἶδα μὲν καὶ περὶ πατέρων τε καὶ τῶν ἄλλων συγγενῶν τε καὶ περὶ φίλων ταῦτα λέγοντα.
+English: Now I know that he did use this
+
+ language about fathers, relations and friends.
+
+Greek: 200 καὶ πρὸς τούτοις γε δή, ὅτι τῆς ψυχῆς ἐξελθούσης, ἐν ᾗ μόνῃ γίγνεται φρόνησις, τὸ σῶμα τοῦ οἰκειοτάτου ἀνθρώπου τὴν ταχίστην ἐξενέγκαντες ἀφανίζουσιν.
+English: And, what is more, he would say that so soon as the soul, the only seat of intelligence, is gone out of a man, even though he be our nearest and dearest, we carry out his body and hide it in the tomb.
+
+Greek: 201 ἔλεγε δ' ὅτι καὶ ζῶν ἕκαστος ἑαυτοῦ, ὃ πάντων μάλιστα φιλεῖ, τοῦ σώματος ὅ τι ἂν ἀχρεῖον ᾖ καὶ ἀνωφελές, αὐτός τε ἀφαιρεῖ καὶ ἄλλῳ παρέχει.
+English: Moreover, a man’s dearest friend is himself: yet, even in his lifetime he removes or lets another remove from his body whatever is useless and unprofitable.
+
+Greek: 202 αὐτοί τέ γε αὑτῶν ὄνυχάς τε καὶ τρίχας καὶ τύλους ἀφαιροῦσι καὶ τοῖς ἰατροῖς παρέχουσι μετὰ πόνων τε καὶ ἀλγηδόνων καὶ ἀποτέμνειν καὶ ἀποκάειν, καὶ τούτων χάριν οἴονται δεῖν αὐτοῖς καὶ μισθὸν τίνειν.
+English: He removes his own nails, hair, corns: he lets the surgeon cut and cauterize him, and, aches and pains notwithstanding, feels bound to thank and fee him for it.
+
+Greek: 203 καὶ τὸ σίαλον ἐκ τοῦ στόματος ἀποπτύουσιν ὡς δύνανται πορρωτάτω, διότι ὠφελεῖ μὲν οὐδὲν αὐτοὺς ἐνόν, βλάπτει δὲ πολὺ μᾶλλον.
+English: He spits out the saliva from his mouth as far away as he can, because to retain it doesn’t help him, but harms him rather.
+
+Greek: 204 ταῦτ' οὖν ἔλεγεν οὐ τὸν μὲν πατέρα ζῶντα κατορύττειν διδάσκων, ἑαυτὸν δὲ κατατέμνειν, ἀλλ' ἐπιδεικνύων ὅτι τὸ ἄφρον ἄτιμόν ἐστι παρεκάλει ἐπιμελεῖσθαι τοῦ ὡς φρονιμώτατον εἶναι καὶ ὠφελιμώτατον, ὅπως, ἐάν τε ὑπὸ πατρὸς ἐάν τε ὑπὸ ἀδελφοῦ ἐάν τε ὑπ' ἄλλου τινὸς βούληται τιμᾶσθαι, μὴ τῷ οἰκεῖος εἶναι πιστεύων ἀμελῇ, ἀλλὰ πειρᾶται, ὑφ' ὧν ἂν βούληται τιμᾶσθαι, τούτοις ὠφέλιμος εἶναι.
+English: Now in saying all this, he was not giving a lesson on the duty of burying one’s father alive, or making mincemeat of one’s body: he meant to show that unreason is unworth, and was urging the necessity of cultivating sound sense and usefulness, in order that he who would fain be valued by father or by brother or by anyone else may not rely on the bond of familiarity and neglect him, but may try to be useful to all those by whom he would be valued.
+
+Greek: 205 ἔφη δ’ αὐτὸν ὁ κατήγορος καὶ τῶν ἐνδοξοτάτων ποιητῶν ἐκλεγόμενον τὰ πονηρότατα καὶ τούτοις μαρτυρίοις χρώμενον διδάσκειν τοὺς συνόντας κακούργους τε εἶναι καὶ τυραννικούς, Ἡσιόδου μὲν τὸ ἔργον δ’ οὐδὲν ὄνειδος, ἀεργίη δέ τ’ ὄνειδος.
+English: Again, his accuser alleged that he selected from the most famous poets the most immoral passages, and used them as evidence in teaching his companions to be tyrants and malefactors: for example, Hesiod’s line: "No work is a disgrace, but idleness is a disgrace."
+
+Greek: 206 τοῦτο δὴ λέγειν αὐτόν, ὡς ὁ ποιητὴς κελεύει μηδενὸς ἔργου μήτ’ ἀδίκου μήτ’ αἰσχροῦ ἀπέχεσθαι, ἀλλὰ καὶ ταῦτα ποιεῖν ἐπὶ τῷ κέρδει.
+English: He was charged with explaining this line as an injunction to refrain from no work, dishonest or disgraceful, but to do anything for gain.
+
+Greek: 207 Σωκράτης δ’ ἐπεὶ διομολογήσαιτο τὸ μὲν ἐργάτην εἶναι ὠφέλιμόν τε ἀνθρώπῳ καὶ ἀγαθὸν εἶναι, τὸ δὲ ἀργὸν βλαβερόν τε καὶ κακόν, καὶ τὸ μὲν ἐργάζεσθαι ἀγαθόν, τὸ δ’ ἀργεῖν κακόν, τοὺς μὲν ἀγαθόν τι ποιοῦντας ἐργάζεσθαί τε ἔφη καὶ ἐργάτας ἀγαθοὺς εἶναι, τοὺς δὲ κυβεύοντας ἤ τι ἄλλο πονηρὸν καὶ ἐπιζήμιον ποιοῦντας ἀργοὺς ἀπεκάλει.
+English: Now, though Socrates would fully agree that it is a benefit and a blessing to a man to be a worker, and a disadvantage and an evil to be an idler — that work, in fact, is a blessing, idleness an evil — working, being a worker, meant to him doing good work; but gambling and any occupation that is immoral and leads to loss he called idling. 
+
+Greek: 208 ἐκ δὲ τούτων ὀρθῶς ἂν ἔχοι τὸ ἔργον δ’ οὐδὲν ὄνειδο
+
+ς, ἀεργίη δέ τ’ ὄνειδος.
+English: When thus interpreted there is nothing amiss with the line: "No work is a disgrace, but idleness is a disgrace."
+
+Greek: 209 τὸ δὲ Ὀμήρου ἔφη ὁ κατήγορος πολλάκις αὐτὸν λέγειν, ὅτι Ὀδυσσεὺς ὅντινα μὲν βασιλῆα καὶ ἔξοχον ἄνδρα κιχείη, τὸν δ’ ἀγανοῖς ἐπέεσσιν ἐρητύσασκε παραστάς.
+English: Again, his accuser said that he often quoted the passage from Homer, showing how Odysseus: "Whenever he found one that was a captain and a man of mark, stood by his side, and restrained him with gentle words."
+
+Greek: 210 δαιμόνι’, οὔ σε ἔοικε κακὸν ὣς δειδίσσεσθαι, ἀλλ’ αὐτός τε κάθησο καὶ ἄλλους ἵδρυε λαούς.
+211 ὃν δ’ αὖ δήμου τ’ ἄνδρα ἴδοι βοόωντά τ’ ἐφεύροι, τὸν σκήπτρῳ ἐλάσασκεν ὁμοκλήσασκέ τε μύθῳ.
+212 δαιμόνι’, ἀτρέμας ἧσο, καὶ ἄλλων μῦθον ἄκουε, οἳ σέο φέρτεροί εἰσι. σὺ δ’ ἀπτόλεμος καὶ ἄναλκις, οὔτε ποτ’ ἐν πολέμῳ ἐναρίθμιος οὔτ’ ἐνὶ βουλῇ.
+English: But whatever man of the people he saw and found him shouting, him he drove with his sceptre and chid him with loud words: "Good sir, sit still and hearken to the words of others that are thy betters: but thou art no warrior and a weakling, never reckoned whether in battle or in council."
+
+Greek: 213 σὺ δ’ ἀπτόλεμος καὶ ἄναλκις, οὔτε ποτ’ ἐν πολέμῳ ἐναρίθμιος οὔτ’ ἐνὶ βουλῇ.
+214 ταῦτα δὴ αὐτὸν ἐξηγεῖσθαι, ὡς ὁ ποιητὴς ἐπαινοίη παίεσθαι τοὺς δημότας καὶ πένητας.
+English: This passage, it was said, he explained to mean that the poet approved of chastising common and poor folk.
+
+Greek: 215	Σωκράτης δ’ οὐ ταῦτ’ ἔλεγε ·
+English: But Socrates never said that.
+
+Greek: 216	καὶ γὰρ ἑαυτὸν οὕτω γ’ ἂν ᾤετο δεῖν παίεσθαι ·
+English: Indeed, on that view he would have thought himself worthy of chastisement.
+
+Greek: 217	ἀλλ’ ἔφη δεῖν τοὺς μήτε λόγῳ μήτ’ ἔργῳ ὠφελίμους ὄντας μήτε στρατεύματι μήτε πόλει μήτε αὐτῷ τῷ δήμῳ, εἴ τι δέοι, βοηθεῖν ἱκανούς, ἄλλως τ’ ἐὰν πρὸς τούτῳ καὶ θρασεῖς ὦσι, πάντα τρόπον κωλύεσθαι, κἂν πάνυ πλούσιοι τυγχάνωσιν ὄντες.
+English: But what he did say was that those who render no service either by word or deed, who cannot help army or city or the people itself in time of need, ought to be stopped, even if they have riches in abundance, especially if they are insolent as well as inefficient.
+
+Greek: 218	ἀλλὰ Σωκράτης γε τ- ἐναντία τούτων φανερὸς ἦν καὶ δημοτικὸς καὶ φιλάνθρωπος ὤν.
+English: But Socrates was just the opposite of all that, showing himself to be one of the people and a friend of mankind.
+
+Greek: 219	ἐκεῖνος γὰρ πολλοὺς ἐπιθυμητὰς καὶ ἀστοὺς καὶ ξένους λαβὼν οὐδένα πώποτε μισθὸν τῆς συνουσίας ἐπράξατο, ἀλλὰ πᾶσιν ἀφθόνως ἐπήρκει τῶν ἑαυτοῦ ·
+English: For although he had many eager disciples among citizens and strangers, yet he never exacted a fee for his society from one of them, but of his abundance he gave without stint to all.
+
+Greek: 220	ὧν τινες μικρὰ μέρη παρ’ ἐκείνου προῖκα λαβόντες πολλοῦ τοῖς ἄλλοις ἐπώλουν, καὶ οὐκ ἦσαν ὥσπερ ἐκεῖνος δημοτικοί ·
+English: Some indeed, after getting from him a few trifles for nothing, became vendors of them at a great price to others.
+
+Greek: 221	τοῖς γὰρ μὴ ἔχουσι χρήματα διδόναι οὐκ ἤθελον διαλέγεσθαι.
+English:  For they showed none of his sympathy with the people, refusing to talk with those who had no money to give them.
+
+Greek: 222	ἀλλὰ Σωκράτης γε καὶ πρὸς τοὺς ἄλλους ἀνθρώπους κόσμον τῇ πόλει παρεῖχε πολλῷ μᾶλλον ἢ Λίχας τῇ Λακεδαιμονίων, ὃς ὀνομαστὸς ἐπὶ τούτῳ γέγονε.
+English: But Socrates did far more to win respect for the State in the world at large than Lichas, whose services to Sparta have made his name immortal. 
+
+Greek: 223	Λίχας μὲν γὰρ ταῖς γυμνοπαιδίαις τοὺς ἐπιδημοῦντας ἐν Λακεδαίμονι ξένους ἐδείπνιζε, Σωκράτης δὲ διὰ παντὸς τοῦ βίου τὰ ἑαυτοῦ δαπανῶν τὰ μέγιστα πάντας τοὺς βουλομένους ὠφέλει.
+English: For Lichas used to entertain the strangers staying at Sparta during the Feast of the Dancing Boys; but Socrates spent his life in lavishing his gifts and rendering the greatest services to all who cared to receive them.
+
+Greek: 224	βελτίους γὰρ ποιῶν τοὺς συγγιγνομένους ἀπέπεμπεν.
+English: For he always made his associates better men before he parted with them.
+
+Greek: 225	ἐμοὶ μὲν δὴ Σωκράτης τοιοῦτος ὢν ἐδόκει τιμῆς ἄξιος εἶναι τῇ πόλει μᾶλλον ἢ θανάτου.
+English: To me, he seemed to deserve honour rather than death at the hands of the State.
+
+Greek: 226	καὶ κατὰ τοὺς νόμους δὲ σκοπῶν ἄν τις τοῦθ’ εὕροι.
+English: And a consideration of his case in its legal aspect will confirm my opinion.
+
+Greek: 227	κατὰ γὰρ τοὺς νόμους, ἐάν τις φανερὸς γένηται κλέπτων ἢ λωποδυτῶν ἢ βαλλαντιοτομῶν ἢ τοιχωρυχῶν ἢ ἀνδραποδιζόμενος ἢ ἱεροσυλῶν, τούτοις θάνατός ἐστιν ἡ ζημία.
+English: Under the laws, death is the penalty inflicted on persons proved to be thieves, highwaymen, cutpurses, kidnappers, robbers of temples.
+
+Greek: 228	ὧν ἐκεῖνος πάντων ἀνθρώπων πλεῖστον ἀπεῖχεν.
+English: And from such criminals no man was so widely separated as he.
+
+Greek: 229	ἀλλὰ μὴν τῇ πόλει γε οὔτε πολέμου κακῶς συμβάντος οὔτε στάσεως οὔτε προδοσίας οὔτε ἄλλου κακοῦ οὐδενὸς πώποτε αἴτιος ἐγένετο.
+English: Moreover, to the State he was never the cause of disaster in war, or strife or treason or any evil whatever.
+
+Greek: 230	οὐδὲ μὴν ἰδίᾳ γε οὐδένα πώποτε ἀνθρώπων οὔτε ἀγαθῶν ἀπεστέρησεν οὔτε κακοῖς περιέβαλεν, ἀλλ’ οὐδ’ αἰτίαν τῶν εἰρημένων οὐδενὸς πώποτ’ ἔσχε.
+English: Again, in private life no man by him was ever deprived of good or involved in ill. None of these crimes was ever so much as imputed to him. 
+
+Greek: 231	πῶς οὖν ἂν ἔνοχος εἴη τῇ γραφῇ;
+English: How then could he be guilty of the charges?
+
+Greek: 232	ὃς ἀντὶ μὲν τοῦ μὴ νομίζειν θεούς, ὡς ἐν τῇ γραφῇ ἐγέγραπτο, φανερὸς ἦν θεραπεύων τοὺς θεοὺς μάλιστα τῶν ἄλλων ἀνθρώπων, ἀντὶ δὲ τοῦ διαφθείρειν τοὺς νέους, ὃ δὴ ὁ γραψάμενος αὐτὸν ᾐτιᾶτο, φανερὸς ἦν τῶν συνόντων τοὺς πονηρὰς ἐπιθυμίας ἔχοντας τούτων μὲν παύων, τῆς δὲ καλλίστης καὶ μεγαλοπρεπεστάτης ἀρετῆς, ᾗ πόλεις τε καὶ οἶκοι εὖ οἰκοῦσι, προτρέπων ἐπιθυμεῖν.
+English: For so far was he from rejecting the gods, as charged in the indictment, that no man was more conspicuous for his devotion to the service of the gods: so far from corrupting the youth, as his accuser actually charged against him, that if any among his companions had evil desires, he openly tried to reform them and exhorted them to desire the fairest and noblest virtue, by which men prosper in public life and in their homes.
+
+Greek: 233	ταῦτα δὲ πράττων πῶς οὐ μεγάλης ἄξιος ἦν τιμῆς τῇ πόλει;
+English: By this conduct did he not deserve high honour from the State?
+
+Greek: 234	ὡς δὲ δὴ καὶ ὠφελεῖν ἐδόκει μοι τοὺς συνόντας τὰ μὲν ἔργῳ δεικνύων ἑαυτὸν οἷος ἦν, τὰ δὲ καὶ διαλεγόμενος, τούτων δὴ γράψω ὁπόσα ἂν διαμνημονεύσω.
+English: In order to support my opinion that he benefited his companions, alike by actions that revealed his own character and by his conversation, I will set down what I recollect of these.
+
+Greek: 235	τὰ μὲν τοίνυν πρὸς τοὺς θεοὺς φανερὸς ἦν καὶ ποιῶν καὶ λέγων ᾗπερ ἡ Πυθία ἀποκρίνεται τοῖς ἐρωτῶσι πῶς δεῖ ποιεῖν ἢ περὶ θυσίας ἢ περὶ προγόνων θεραπείας ἢ περὶ ἄλλου τινὸς τῶν τοιούτων.
+English: First, then, for his attitude towards religion; his deeds and words were clearly in harmony with the answer given by the Priestess at Delphi to such questions as "What is my duty about sacrifice?" or about "cult of ancestors."
+
+Greek: 236	ἥ τε γὰρ Πυθία νόμῳ πόλεως ἀναιρεῖ ποιοῦντας εὐσεβῶς ἂν ποιεῖν, Σωκράτης τε οὕτω καὶ αὐτὸς ἐποίει καὶ τοῖς ἄλλοις παρῄνει, τοὺς δὲ ἄλλως πως ποιοῦντας περιέργους καὶ ματαίους ἐνόμιζεν εἶναι.
+English: For the answer of the Priestess is, "Follow the custom of the State: that is the way to act piously." And so Socrates acted himself and counselled others to act. To take any other course he considered presumption and folly.
+
+Greek: 237	καὶ ηὔχετο δὲ πρὸς τοὺς θεοὺς ἁπλῶς τ- ἀγαθὰ διδόναι, ὡς τοὺς θεοὺς κάλλιστα εἰδότας ὁποῖα ἀγαθά ἐστι.
+English: And again, when he prayed he asked simply for good gifts, "for the gods know best what things are good."
+
+Greek: 238	τοὺς δ’ εὐχομένους χρυσίον ἢ ἀργύριον ἢ τυραννίδα ἢ ἄλλο τι τῶν τοιούτων οὐδὲν διάφορον ἐνόμιζεν εὔχεσθαι ἢ εἰ κυβείαν ἢ μάχην ἢ ἄλλο τι εὔχοιντο τῶν φανερῶς ἀδήλων ὅπως ἀποβήσοιτο.
+English: To pray for gold or silver or sovereignty or any other such thing, was just like praying for a gamble or a fight or anything of which the result is obviously uncertain.
+
+Greek: 239	θυσίας δὲ θύων μικρὰς ἀπὸ μικρῶν οὐδὲν ἡγεῖτο μειοῦσθαι τῶν ἀπὸ πολλῶν καὶ μεγάλων πολλὰ καὶ μεγάλα θυόντων.
+English: Though his sacrifices were humble, according to his means, he thought himself not a whit inferior to those who made frequent and magnificent sacrifices out of great possessions.
+
+Greek: 240	οὔτε γὰρ τοῖς θεοῖς ἔφη καλῶς ἔχειν, εἰ ταῖς μεγάλαις θυσίαις μᾶλλον ἢ ταῖς μικραῖς ἔχαιρον.
+English: The gods (he said) could not well delight more in great offerings than in small.
+
+Greek: 241	πολλάκις γὰρ ἂν αὐτοῖς τὰ παρὰ τῶν πονηρῶν μᾶλλον ἢ τὰ παρὰ τῶν χρηστῶν εἶναι κεχαρισμένα.
+English: For in that case must the gifts of the wicked often have found more favour in their sight than the gifts of the upright.
+
+Greek: 242	οὔτ’ ἂν τοῖς ἀνθρώποις ἄξιον εἶναι ζῆν, εἰ τὰ παρὰ τῶν πονηρῶν μᾶλλον ἦν κεχαρισμένα τοῖς θεοῖς ἢ τὰ παρὰ τῶν χρηστῶν.
+English: And man would not find life worth having, if the gifts of the wicked were received with more favour by the gods than the gifts of the upright.
+
+Greek: 243	ἀλλ’ ἐνόμιζε τοὺς θεοὺς ταῖς παρὰ τῶν εὐσεβεστάτων τιμαῖς μάλιστα χαίρειν.
+English: No, the greater the piety of the giver, the greater (he thought) was the delight of the gods in the gift.
+
+Greek: 244	ἐπαινέτης δ’ ἦν καὶ τοῦ ἔπους τούτου ·
+English: He would quote with approval the line.
+
+Greek: 245	καδδύναμιν δ’ ἔρδειν ἱέρ’ ἀθανάτοισι θεοῖσι, καὶ πρὸς φίλους δὲ καὶ ξένους καὶ πρὸς τὴν ἄλλην δίαιταν καλὴν ἔφη παραίνεσιν εἶναι τὴν καδδύναμιν δ’ ἔρδειν.
+English: "According to thy power render sacrifice to the immortal gods," and he would add that in our treatment of friends and strangers, and in all our behaviour, it is a noble principle to render according to our power.
+
+Greek: 246	εἰ δέ τι δόξειεν αὐτῷ σημαίνεσθαι παρὰ τῶν θεῶν, ἧττον ἂν ἐπείσθη παρὰ τὰ σημαινόμενα ποιῆσαι ἢ εἴ τις αὐτὸν ἔπειθεν ὁδοῦ λαβεῖν ἡγεμόνα τυφλὸν καὶ μὴ εἰδότα τὴν ὁδὸν ἀντὶ βλέποντος καὶ εἰδότος.
+English: If ever any warning seemed to be given him from heaven, he would more easily have been persuaded to choose a blind guide who did not know the road in preference to one who could see and knew the way, than to disregard the admonition.
+
+Greek: 247	καὶ τῶν ἄλλων δὲ μωρίαν κατηγόρει, οἵτινες παρὰ τὰ ὑπὸ τῶν θεῶν σημαινόμενα ποιοῦσί τι, φυλαττόμενοι τὴν παρὰ τοῖς ἀνθρώποις ἀδοξίαν.
+English: All men, in fact, who flouted the warnings of the gods in their anxiety to avoid the censure of men, he denounced for their foolishness.
+
+Greek: 248	αὐτὸς δὲ πάντα τ- ἀνθρώπινα ὑπερεώρα πρὸς τὴν παρὰ τῶν θεῶν συμβουλίαν.
+English: He himself despised all human opinions in comparison with counsel given by the gods.
+
+Greek: 249	διαίτῃ δὲ τήν τε ψυχὴν ἐπαίδευσε καὶ τὸ σῶμα ᾗ χρώμενος ἄν τις, εἰ μή τι δαιμόνιον εἴη, θαρραλέως καὶ ἀσφαλῶς διάγοι καὶ οὐκ ἂν ἀπορήσειε τοσαύτης δαπάνης.
+English: He schooled his body and soul by following a system which, in all human calculation, would give him a life of confidence and security, and would make it easy to meet his expenses.
+
+Greek: 250	οὕτω γὰρ εὐτελὴς ἦν, ὥστ’ οὐκ οἶδ’ εἴ τις οὕτως ἂν ὀλίγα ἐργάζοιτο ὥστε μὴ λαμβάνειν τὰ Σωκράτει ἀρκοῦντα.
+English: For he was so frugal that it is hardly possible to imagine a man doing so little work as not to earn enough to satisfy the needs of Socrates.
+
+Greek: 251	σίτῳ μὲν γὰρ τοσούτῳ ἐχρῆτο, ὅσον ἡδέως ἤσθιε, καὶ ἐπὶ τοῦτο οὕτω παρεσκευασμένος ᾔει ὥστε τὴν ἐπιθυμίαν τοῦ σίτου ὄψον αὐτῷ εἶναι.
+English: He ate just sufficient food to make eating a pleasure, and he was so ready for his food that he found appetite the best sauce.
+
+Greek: 252	ποτὸν δὲ πᾶν ἡδὺ ἦν αὐτῷ διὰ τὸ μὴ πίνειν, εἰ μὴ διψῴη.
+English: And any kind of drink he found pleasant, because he drank only when he was thirsty.
+
+Greek: 253	εἰ δέ ποτε κληθεὶς ἐθελήσειεν ἐπὶ δεῖπνον ἐλθεῖν, ὃ τοῖς πλείστοις ἐργωδέστατόν ἐστιν, ὥστε φυλάξασθαι τὸ ὑπὲρ τὸν κόρον ἐμπίμπλασθαι, τοῦτο ῥᾳδίως πάνυ ἐφυλάττετο.
+English: Whenever he accepted an invitation to dinner, he resisted without difficulty the common temptation to exceed the limit of satiety.
+
+Greek: 254	τοῖς δὲ μὴ δυναμένοις τοῦτο ποιεῖν συνεβούλευε φυλάττεσθαι τὰ πείθοντα μὴ πεινῶντας ἐσθίειν μηδὲ διψῶντας πίνειν.
+English: And he advised those who could not do likewise to
+
+ avoid appetizers that encouraged them to eat and drink what they did not want.
+
+Greek: 255	καὶ γὰρ τὰ λυμαινόμενα γαστέρας καὶ κεφαλὰς καὶ ψυχὰς ταῦτ’ ἔφη εἶναι.
+English: For such trash was the ruin of stomach and brain and soul.
+
+Greek: 256	οἴεσθαι δ’ ἔφη ἐπισκώπτων καὶ τὴν Κίρκην ὗς ποιεῖν τοιούτοις πολλοῖς δειπνίζουσαν.
+English: I believe, he said in jest, it was by providing a feast of such things that Circe made swine.
+
+Greek: 257	τὸν δὲ Ὀδυσσέα Ἑρμοῦ τε ὑποθημοσύνῃ καὶ αὐτὸν ἐγκρατῆ ὄντα καὶ ἀποσχόμενον τοῦ ὑπὲρ τὸν κόρον τῶν τοιούτων ἅπτεσθαι, διὰ ταῦτα οὐ γενέσθαι ὗν.
+English: And it was partly by the prompting of Hermes, partly through his own self-restraint and avoidance of excessive indulgence in such things, that Odysseus was not turned into a pig.
+
+Greek: 258	τοιαῦτα μὲν περὶ τούτων ἔπαιζεν ἅμα σπουδάζων.
+English: This was how he would talk on the subject, half joking, half in earnest.
+
+Greek: 259	ἀφροδισίων δὲ παρῄνει τῶν καλῶν ἰσχυρῶς ἀπέχεσθαι;
+English: Of sensual passion he would say: "Avoid it resolutely: 
+
+Greek: 260	οὐ γὰρ ἔφη ῥᾴδιον εἶναι τῶν τοιούτων ἁπτόμενον σωφρονεῖν.
+English: it is not easy to control yourself once you meddle with that sort of thing."
+
+Greek: 261	ἀλλὰ καὶ Κριτόβουλόν ποτε τὸν Κρίτωνος πυθόμενος ὅτι ἐφίλησε τὸν Ἀλκιβιάδου υἱὸν καλὸν ὄντα, παρόντος τοῦ Κριτοβούλου ἤρετο Ξενοφῶντα.
+English: Thus, on hearing that Critobulus had kissed Alcibiades’ pretty boy, he put this question to Xenophon before Critobulus.
+
+Greek: 262	εἰπέ μοι, ἔφη, ὦ Ξενοφῶν, οὐ σὺ Κριτόβουλον ἐνόμιζες εἶναι τῶν σωφρονικῶν ἀνθρώπων μᾶλλον ἢ τῶν θρασέων καὶ τῶν προνοητικῶν μᾶλλον ἢ τῶν ἀνοήτων τε καὶ ῥιψοκινδύνων;
+English: "Tell me, Xenophon, did you not suppose Critobulus to be a sober person, and by no means rash; prudent, and not thoughtless or adventurous?"
+
+Greek: 263	πάνυ μὲν οὖν, ἔφη ὁ Ξενοφῶν.
+English: "Certainly," said Xenophon.
+
+Greek: 264	νῦν τοίνυν νόμιζε αὐτὸν θερμουργότατον εἶναι καὶ λεωργότατον.
+English: "Then you are to look on him henceforth as utterly hot-headed and reckless."
+
+Greek: 265	οὗτος κἂν εἰς μαχαίρας κυβιστήσειε κἂν εἰς πῦρ ἅλοιτο.
+English: "The man would do a somersault into a ring of knives; he would jump into fire."
+
+Greek: 266	καὶ τί δή, ἔφη ὁ Ξενοφῶν, ἰδὼν ποιοῦντα τοιαῦτα κατέγνωκας αὐτοῦ;
+English: "What on earth has he done to make you think so badly of him?" asked Xenophon.
+
+Greek: 267	οὐ γὰρ οὗτος, ἔφη, ἐτόλμησε τὸν Ἀλκιβιάδου υἱὸν φιλῆσαι, ὄντα εὐπροσωπότατον καὶ ὡραιότατον?
+English: "What has the man done? He dared to kiss Alcibiades’ son, and the boy is very good-looking and attractive."
+
+Greek: 268	ἀλλ’ εἰ μέντοι, ἔφη ὁ Ξενοφῶν, τοιοῦτόν ἐστι τὸ ῥιψοκίνδυνον ἔργον, κἂν ἐγὼ δοκῶ μοι τὸν κίνδυνον τοῦτον ὑπομεῖναι.
+English: "Oh, if that is the sort of adventure you mean, I think I might make that venture myself."
+
+Greek: 269	ὦ τλῆμον, ἔφη ὁ Σωκράτης, καὶ τί ἂν οἴει παθεῖν καλὸν φιλήσας;
+English: "What do you think will happen to you through kissing a pretty face?"
+
+Greek: 270	ἆρ’ οὐκ ἂν αὐτίκα μάλα δοῦλος μὲν εἶναι ἀντ’ ἐλευθέρου, πολλὰ δὲ δαπανᾶν εἰς βλαβερὰς ἡδονάς, πολλὴν δὲ ἀσχολίαν ἔχειν τοῦ ἐπιμεληθῆναί τινος καλοῦ κ- ἀγαθοῦ, σπουδάζειν δ’ ἀναγκασθῆναι ἐφ’ οἷς οὐδ’ ἂν μαινόμενος σπουδάσειεν;
+English: "Won’t you lose your liberty in a trice and become a slave, begin spending large sums on harmful pleasures, have no time to give to anything fit for a gentleman, be forced to concern yourself with things that no madman even would care about?"
+
+Greek: 271	ὦ Ἡράκλεις, ἔφη ὁ Ξενοφῶν, ὡς δεινήν τινα λέγεις δύναμιν τοῦ φιλήματος εἶναι.
+English: "Heracles! what alarming power in a kiss!" cried Xenophon.
+
+Greek: 272	καὶ τοῦτο, ἔφη ὁ Σωκράτης, θαυμάζεις;
+English: "What? Does that surprise you?" continued Socrates.
+
+Greek: 273	οὐκ οἶσθ’ ὅτι τὰ φαλάγγια οὐδ’ ἡμιωβελιαῖα τὸ μέγεθος ὄντα προσαψάμενα μόνον τῷ στόματι ταῖς τε ὀδύναις ἐπιτρίβει τοὺς ἀνθρώπους καὶ τοῦ φρονεῖν ἐξίστησι;
+English: "Don’t you know that the scorpion, though smaller than a farthing, if it but fasten on the tongue, inflicts excruciating and maddening pain?"
+
+Greek: 274	ναὶ μὰ Δί’, ἔφη ὁ Ξενοφῶν;  
+
+Greek: 275	ἐνίησι γάρ τι τὰ φαλάγγια κατὰ τὸ δῆγμα.
+English: "Yes, to be sure;
+English: for the scorpion injects something by its bite," said Xenophon.
+
+Greek: 276	ὦ μῶρε, ἔφη ὁ Σωκράτης, τοὺς δὲ καλοὺς οὐκ οἴει φιλοῦντας ἐνιέναι τι, ὅτι σὺ οὐχ ὁρᾷς;
+English: "And do you think, you foolish fellow, that the fair inject nothing when they kiss, just because you don’t see it?"
+
+Greek: 277	οὐκ οἶσθ’ ὅτι τοῦτο τὸ θηρίον, ὃ καλοῦσι καλὸν καὶ ὡραῖον, τοσούτῳ δεινότερόν ἐστι τῶν φαλαγγίων, ὅσῳ ἐκεῖνα μὲν ἁψάμενα, τοῦτο δὲ οὐδ’ ἁπτόμενον, ἐάν τις αὐτὸ θεᾶται, ἐνίησί τι καὶ πάνυ πρόσωθεν τοιοῦτον ὥστε μαίνεσθαι ποιεῖν;
+English: "Don’t you know that this creature called ‘fair and young’ is more dangerous than the scorpion, seeing that it need not even come in contact, like the insect, but at any distance can inject a maddening poison into anyone who only looks at it?"
+
+Greek: 278	ἴσως δὲ καὶ οἱ ἔρωτες τοξόται διὰ τοῦτο καλοῦνται, ὅτι καὶ πρόσωθεν οἱ καλοὶ τιτρώσκουσιν.
+English: "Maybe, too, the loves are called archers for this reason, that the fair can wound even at a distance."
+
+Greek: 279	ἀλλὰ συμβουλεύω σοι, ὦ Ξενοφῶν, ὁπόταν ἴδῃς τινὰ καλόν, φεύγειν προτροπάδην.
+English: "Nay, I advise you, Xenophon, as soon as you see a pretty face to take to your heels and fly."
+
+Greek: 280	σοὶ δ’, ὦ Κριτόβουλε, συμβουλεύω ἀπενιαυτίσαι· 
+English: "And you, Critobulus, I advise to spend a year abroad. 
+
+Greek: 281	μόλις γὰρ ἂν ἴσως ἐν τοσούτῳ χρόνῳ τὸ δῆγμα ὑγιὴς γένοιο.
+English: It will certainly take you at least as long as that to recover from the bite."
+
+Greek: 282	οὕτω δὴ καὶ ἀφροδισιάζειν τοὺς μὴ ἀσφαλῶς ἔχοντας πρὸς ἀφροδίσια ᾤετο χρῆναι πρὸς τοιαῦτα , οἷα μὴ πάνυ μὲν δεομένου τοῦ σώματος οὐκ ἂν προσδέξαιτο ἡ ψυχή , δεομένου δὲ οὐκ ἂν πράγματα παρέχοι .
+English: Thus in the matter of carnal appetite, he held that those whose passions were not under complete control should limit themselves to such indulgence as the soul would reject unless the need of the body were pressing, and such as would do no harm when the need was there.
+
+Greek: 283	αὐτὸς δὲ πρὸς ταῦτα φανερὸς ἦν οὕτω παρεσκευασμένος ὥστε ῥᾷον ἀπέχεσθαι τῶν καλλίστων καὶ ὡραιοτάτων ἢ οἱ ἄλλοι τῶν αἰσχίστων καὶ ἀωροτάτων .
+English: As for his own conduct in this matter, it was evident that he had trained himself to avoid the fairest and most attractive more easily than others avoid the ugliest and most repulsive.
+
+Greek: 284	περὶ μὲν δὴ βρώσεως καὶ πόσεως καὶ ἀφροδισίων οὕτω κατεσκευασμένος ἦν καὶ ᾤετο οὐδὲν ἂν ἧττον ἀρκούντως ἥδεσθαι τῶν πολλὰ ἐπὶ τούτοις πραγματευομένων , λυπεῖσθαι δὲ πολὺ ἔλαττον .
+English: Concerning eating and drinking then and carnal indulgence such were his views, and he thought that a due portion of pleasure would be no more lacking to him than to those who give themselves much to these, and that much less trouble would fall to his lot.
+
+Greek: 285	εἰ δέ τινες Σωκράτην νομίζουσιν , ὡς ἔνιοι γράφουσί τε καὶ λέγουσι περὶ αὐτοῦ τεκμαιρόμενοι , προτρέψασθαι μὲν ἀνθρώπους ἐπ’ ἀρετὴν κράτιστον γεγονέναι , προαγαγεῖν δ’ ἐπ’ αὐτὴν οὐχ ἱκανόν , σκεψάμενοι μὴ μόνον ἃ ἐκεῖνος κολαστηρίου ἕνεκα τοὺς πάντ’ οἰομένους εἰδέναι ἐρωτῶν ἤλεγχεν , ἀλλὰ καὶ ἃ λέγων συνημέρευε τοῖς συνδιατρίβουσι , δοκιμαζόντων εἰ ἱκανὸς ἦν βελτίους ποιεῖν τοὺς συνόντας .
+English: If any hold the opinion expressed in some written and spoken criticisms of Socrates that are based on inference, and think, that though he was consummate in exhorting men to virtue, he was an incompetent guide to it, let them consider not only the searching cross-examination with which he chastised those who thought themselves omniscient, but his daily talks with his familiar friends, and then judge whether he was capable of improving his companions.
+
+Greek: 286	λέξω δὲ πρῶτον ἅ ποτε αὐτοῦ ἤκουσα περὶ τοῦ δαιμονίου διαλεγομένου πρὸς Ἀριστόδημον τὸν μικρὸν ἐπικαλούμενον .
+English: I will first state what I once heard him say about the godhead in conversation with Aristodemus the dwarf, as he was called.
+
+Greek: 287	καταμαθὼν γὰρ αὐτὸν οὔτε θύοντα τοῖς θεοῖς οὔτε μαντικῇ χρώμενον , ἀλλὰ καὶ τῶν ποιούντων ταῦτα καταγελῶντα , εἰπέ μοι , ἔφη , ὦ Ἀριστόδημε , ἔστιν οὕστινας ἀνθρώπους τεθαύμακας ἐπὶ σοφίᾳ ;
+English: On learning that he was not known to sacrifice or pray or use divination, and actually made a mock of those who did so, he said: Tell me, Aristodemus, do you admire any human beings for wisdom?
+
+Greek: 288	ἔγωγ’ , ἔφη .
+English: I do, he answered.
+
+Greek: 289	καὶ ὅς , λέξον ἡμῖν , ἔφη , τὰ ὀνόματα αὐτῶν .
+English: Tell us their names.
+
+Greek: 290	ἐπὶ μὲν τοίνυν ἐπῶν ποιήσει Ὅμηρον ἔγωγε μάλιστα τεθαύμακα , ἐπὶ δὲ διθυράμβῳ Μελανιππίδην , ἐπὶ δὲ τραγῳδίᾳ Σοφοκλέα , ἐπὶ δὲ ἀνδριαντοποιίᾳ Πολύκλειτον , ἐπὶ δὲ ζωγραφίᾳ Ζεῦξιν .
+English: In epic poetry Homer comes first, in my opinion; in dithyramb, Melanippides; in tragedy, Sophocles; in sculpture, Polycleitus; in painting, Zeuxis.
+
+Greek: 291	πότερά σοι δοκοῦσιν οἱ ἀπεργαζόμενοι εἴδωλα ἄφρονά τε καὶ ἀκίνητα ἀξιοθαυμαστότεροι εἶναι ἢ οἱ ζῷα ἔμφρονά τε καὶ ἐνεργά;
+English: Which, think you, deserve the greater admiration, the creators of phantoms without sense and motion, or the creators of living, intelligent, and active beings?
+
+Greek: 292	πολὺ νὴ Δία οἱ ζῷα, εἴπερ γε μὴ τύχῃ τινί, ἀλλ’ ὑπὸ γνώμης ταῦτα γίγνεται.
+English: Oh, of living beings, by far, provided only they are created by design and not mere chance.
+
+Greek: 293	τῶν δὲ ἀτεκμάρτως ἐχόντων ὅτου ἕνεκα ἔστι καὶ τῶν φανερῶς ἐπ’ ὠφελείᾳ ὄντων πότερα τύχης καὶ πότερα γνώμης ἔργα κρίνεις;
+English: Suppose that it is impossible to guess the purpose of one creature’s existence, and obvious that another’s serves a useful end, which, in your judgment, is the work of chance, and which of design?
+
+Greek: 294	πρέπει μὲν τὰ ἐπ’ ὠφελείᾳ γιγνόμενα γνώμης εἶναι ἔργα.
+English: Presumably the creature that serves some useful end is the work of design.
+
+Greek: 295	οὐκοῦν δοκεῖ σοι ὁ ἐξ ἀρχῆς ποιῶν ἀνθρώπους ἐπ’ ὠφελείᾳ προσθεῖναι αὐτοῖς δι’ ὧν αἰσθάνονται ἕκαστα, ὀφθαλμοὺς μὲν ὥσθ’ ὁρᾶν τὰ ὁρατά, ὦτα δὲ ὥστ’ ἀκούειν τὰ ἀκουστά;
+English: Do you not think then that he who created man from the beginning had some useful end in view when he endowed him with his several senses, giving eyes to see visible objects, ears to hear sounds?
+
+
+Greek: 296 ὀσμῶν γε μήν, εἰ μὴ ῥῖνες προσετέθησαν, τί ἂν ἡμῖν ὄφελος ἦν;
+English: Would odours again be of any use to us had we not been endowed with nostrils?
+
+Greek: 297 τίς δ’ ἂν αἴσθησις ἦν γλυκέων καὶ δριμέων καὶ πάντων τῶν διὰ στόματος ἡδέων, εἰ μὴ γλῶττα τούτων γνώμων ἐνειργάσθη;
+English: What perception should we have of sweet and bitter and all things pleasant to the palate had we no tongue in our mouth to discriminate between them?
+
+Greek: 298 πρὸς δὲ τούτοις οὐ δοκεῖ σοι καὶ τάδε προνοίας ἔργοις ἐοικέναι, τὸ ἐπεὶ ἀσθενὴς μέν ἐστιν ἡ ὄψις, βλεφάροις αὐτὴν θυρῶσαι, ἅ, ὅταν μὲν αὐτῇ χρῆσθαί τι δέῃ, ἀναπετάννυται, ἐν δὲ τῷ ὕπνῳ συγκλείεται, ὡς δ’ ἂν μηδὲ ἄνεμοι βλάπτωσιν, ἡθμὸν βλεφαρίδας ἐμφῦσαι, ὀφρύσι τε ἀπογεισῶσαι τὰ ὑπὲρ τῶν ὀμμάτων, ὡς μηδ’ ὁ ἐκ τῆς κεφαλῆς ἱδρὼς κακουργῇ;
+English: Besides these, are there not other contrivances that look like the results of forethought? Thus the eyeballs, being weak, are set behind eyelids, that open like doors when we want to see, and close when we sleep: on the lids grow lashes through which the very winds filter harmlessly: above the eyes is a coping of brows that lets no drop of sweat from the head hurt them.
+
+Greek: 299 τὸ δὲ τὴν ἀκοὴν δέχεσθαι μὲν πάσας φωνάς, ἐμπίμπλασθαι δὲ μήποτε;
+English: The ears catch all sounds, but are never choked with them.
+
+Greek: 300 καὶ τοὺς μὲν πρόσθεν ὀδόντας πᾶσι ζῴοις οἵους τέμνειν εἶναι, τοὺς δὲ γομφίους οἵους παρὰ τούτων δεξαμένους λεαίνειν;
+English: Again, the incisors of all creatures are adapted for cutting, the molars for receiving food from them and grinding it.
+
+Greek: 301 καὶ στόμα μέν, δι’ οὗ ὧν ἐπιθυμεῖ τὰ ζῷα εἰσπέμπεται, πλησίον ὀφθαλμῶν καὶ ῥινῶν καταθεῖναι;
+English: And again, the mouth, through which the food they want goes in, is set near the eyes and nostrils.
+
+Greek: 302 ἐπεὶ δὲ τὰ ἀποχωροῦντα δυσχερῆ, ἀποστρέψαι τοὺς τούτων ὀχετοὺς καὶ ἀπενεγκεῖν ᾗ δυνατὸν προσωτάτω ἀπὸ τῶν αἰσθήσεων;
+English: But since what goes out is unpleasant, the ducts through which it passes are turned away and removed as far as possible from the organs of sense.
+
+Greek: 303 ταῦτα οὕτω προνοητικῶς πεπραγμένα ἀπορεῖς πότερα τύχης ἢ γνώμης ἔργα ἐστίν;
+English: With such signs of forethought in these arrangements, can you doubt whether they are the works of chance or design?
+
+Greek: 304 οὐ μὰ τὸν Δί’, ἔφη, ἀλλ’ οὕτω γε σκοπουμένῳ πάνυ ἔοικε ταῦτα σοφοῦ τινος δημιουργοῦ καὶ φιλοζῴου τεχνήμασι.
+English: "No, of course not," he said, "but when I regard them in this light they do look very like the handiwork of a wise and loving creator."
+
+Greek: 305 τὸ δὲ ἐμφῦσαι μὲν ἔρωτα τῆς τεκνοποιίας, ἐμφῦσαι δὲ ταῖς γειναμέναις ἔρωτα τοῦ ἐκτρέφειν, τοῖς δὲ τραφεῖσι μέγιστον μὲν πόθον τοῦ ζῆν, μέγιστον δὲ φόβον τοῦ θανάτου;
+English: "What of the natural desire to beget children, the mother’s desire to rear her babe, the child’s strong will to live and strong fear of death?"
+
+Greek: 306 ἀμέλει καὶ ταῦτα ἔοικε μηχανήμασί τινος ζῷα εἶναι βουλευσαμένου.
+English: "Undoubtedly these, too, look like the contrivances of one who deliberately willed the existence of living creatures."
+
+Greek: 307 σὺ δὲ σαυτῷ δοκεῖς τι φρόνιμον ἔχειν;
+English: "Do you think you have any wisdom yourself?"
+
+Greek: 308 ἐρώτα γοῦν καὶ ἀποκρινοῦμαι.
+English: "Oh! Ask me a question and judge from my answer."
+
+Greek: 309 ἄλλοθι δὲ οὐδαμοῦ οὐδὲν οἴει φρόνιμον εἶναι;
+English: "And do you suppose that wisdom is nowhere else to be found,
+
+Greek: 310 καὶ ταῦτ’ εἰδὼς ὅτι γῆς τε μικρὸν μέρος ἐν τῷ σώματι πολλῆς οὔσης ἔχεις καὶ ὑγροῦ βραχὺ πολλοῦ ὄντος καὶ τῶν ἄλλων δήπου μεγάλων ὄντων ἑκάστου μικρὸν μέρος λαβόντι τὸ σῶμα συνήρμοσταί σοι;
+English:  although you know that you have a mere speck of all the earth in your body and a mere drop of all the water, and that of all the other mighty elements you received, I suppose, just a scrap towards the fashioning of your body?"
+
+
+Greek: 311 νοῦν δὲ μόνον ἄρα οὐδαμοῦ ὄντα σε εὐτυχῶς πως δοκεῖς συναρπάσαι, καὶ τάδε τὰ ὑπερμεγέθη καὶ πλῆθος ἄπειρα δι’ ἀφροσύνην τινά, ὡς οἴει, εὐτάκτως ἔχειν;
+English: "But as for mind, which alone, it seems, is without mass, do you think that you snapped it up by a lucky accident, and that the orderly ranks of all these huge masses, infinite in number, are due, forsooth, to a sort of absurdity?"
+
+
+Greek: 312 μὰ Δί’ οὐ γὰρ ὁρῶ τοὺς κυρίους, ὥσπερ τῶν ἐνθάδε γιγνομένων τοὺς δημιουργούς.
+English: "Yes; for I don’t see the master hand, whereas I see the makers of things in this world."
+
+
+Greek: 313 οὐδὲ γὰρ τὴν σαυτοῦ σύγε ψυχὴν ὁρᾷς, ἣ τοῦ σώματος κυρία ἐστίν;
+English: "Neither do you see your own soul, which has the mastery of the body; 
+
+Greek: 314 ὥστε κατά γε τοῦτο ἔξεστί σοι λέγειν, ὅτι οὐδὲν γνώμῃ, ἀλλὰ τύχῃ πάντα πράττεις.
+English: so that, as far as that goes, you may say that you do nothing by design, but everything by chance." 
+
+Greek: 315 καὶ ὁ Ἀριστόδημος, οὔτοι, ἔφη, ἐγώ, ὦ Σώκρατες, ὑπερορῶ τὸ δαιμόνιον, ἀλλ’ ἐκεῖνο μεγαλοπρεπέστερον ἡγοῦμαι ἢ ὡς τῆς ἐμῆς θεραπείας προσδεῖσθαι.
+English: Here Aristodemus exclaimed: "Really, Socrates, I don’t despise the godhead. But I think it is too great to need my service." 
+
+Greek: 316 οὐκοῦν, ἔφη, ὅσῳ μεγαλοπρεπέστερον ὂν ἀξιοῖ σε θεραπεύειν, τοσούτῳ μᾶλλον τιμητέον αὐτό.
+English: "So, the greater the power that deigns to serve you, the more honor it demands of you," Socrates replied.
+
+Continuing from Greek sentence 317:
+
+Greek: 317 εὖ ἴσθι , ἔφη , ὅτι , εἰ νομίζοιμι θεοὺς ἀνθρώπων τι φροντίζειν , οὐκ ἂν ἀμελοίην αὐτῶν .
+English: "Rest assured," he said, "if I thought that the gods took any care of men, I would not neglect them."
+
+Greek: 318 ἔπειτ’ οὐκ οἴει φροντίζειν ;
+English: "Then do you think they do not care?"
+
+Greek: 319 οἳ πρῶτον μὲν μόνον τῶν ζῴων ἄνθρωπον ὀρθὸν ἀνέστησαν ·
+English: "They, who of all creatures made only man stand upright."
+
+Greek: 320 ἡ δὲ ὀρθότης καὶ προορᾶν πλέον ποιεῖ δύνασθαι καὶ τὰ ὕπερθεν μᾶλλον θεᾶσθαι καὶ ἧττον κακοπαθεῖν καὶ ὄψιν καὶ ἀκοὴν καὶ στόμα ἐνεποίησαν ·
+English: "This erect posture enables him to see farther, to observe things above, and lessens his suffering; and for him they created vision, hearing, and speech."
+
+Greek: 321 ἔπειτα τοῖς μὲν ἄλλοις ἑρπετοῖς πόδας ἔδωκαν , οἳ τὸ πορεύεσθαι μόνον παρέχουσιν , ἀνθρώπῳ δὲ καὶ χεῖρας προσέθεσαν , αἳ τὰ πλεῖστα οἷς εὐδαιμονέστεροι ἐκείνων ἐσμὲν ἐξεργάζονται .
+English: "Then, to other creeping creatures they gave feet, which only enable movement, but to man they added hands, which are instruments for our greater happiness."
+
+Greek: 322 καὶ μὴν γλῶττάν γε πάντων τῶν ζῴων ἐχόντων , μόνην τὴν τῶν ἀνθρώπων ἐποίησαν οἵαν ἄλλοτε ἀλλαχῇ ψαύουσαν τοῦ στόματος ἀρθροῦν τε τὴν φωνὴν καὶ σημαίνειν πάντα ἀλλήλοις ἃ βουλόμεθα .
+English: "And though all animals have a tongue, only man's tongue has the ability to articulate speech and express all our desires to each other."
+
+Greek: 323 τὸ δὲ καὶ τὰς τῶν ἀφροδισίων ἡδονὰς τοῖς μὲν ἄλλοις ζῴοις δοῦναι περιγράψαντας τοῦ ἔτους χρόνον , ἡμῖν δὲ συνεχῶς μέχρι γήρως ταῦτα παρέχειν .
+English: "Furthermore, while limiting sexual pleasures to a certain season for other animals, for humans they provided it continuously up to old age."
+
+Greek: 324 οὐ τοίνυν μόνον ἤρκεσε τῷ θεῷ τοῦ σώματος ἐπιμεληθῆναι , ἀλλ’ , ὅπερ μέγιστόν ἐστι , καὶ τὴν ψυχὴν κρατίστην τῷ ἀνθρώπῳ ἐνέφυσε .
+English: "So it was not enough for the deity to care for the body; he also imparted to man the noblest soul, which is of utmost importance."
+
+Greek: 325 τίνος γὰρ ἄλλου ζῴου ψυχὴ πρῶτα μὲν θεῶν τῶν τὰ μέγιστα καὶ κάλλιστα συνταξάντων ᾔσθηται ὅτι εἰσί ;
+English: "For what other animal's soul is aware, first and foremost, of the gods who have ordained the greatest and fairest things?"
+
+Greek: 326 τί δὲ φῦλον ἄλλο ἢ ἄνθρωποι θεοὺς θεραπεύουσι ;
+English: "And what race other than humans worships the gods?"
+
+Greek: 327 ποία δὲ ψυχὴ τῆς ἀνθρωπίνης ἱκανωτέρα προφυλάττεσθαι ἢ λιμὸν ἢ δίψος ἢ ψύχη ἢ θάλπη , ἢ νόσοις ἐπικουρῆσαι , ἢ ῥώμην ἀσκῆσαι , ἢ πρὸς μάθησιν ἐκπονῆσαι , ἢ ὅσα ἂν ἀκούσῃ ἢ ἴδῃ ἢ μάθῃ ἱκανωτέρα ἐστὶ διαμεμνῆσθαι ;
+English: "And which soul, other than the human soul, is more capable of guarding against hunger, thirst, cold, heat, to heal sickness, to develop strength, to toil for learning, and to remember accurately all that it hears, sees, or learns?"
+
+Continuing from Greek sentence 317:
+
+Greek: 317 εὖ ἴσθι, ἔφη, ὅτι, εἰ νομίζοιμι θεοὺς ἀνθρώπων τι φροντίζειν, οὐκ ἂν ἀμελοίην αὐτῶν.
+English: "Rest assured," he said, "if I thought that the gods took any care of men, I would not neglect them."
+
+Greek: 318 ἔπειτ’ οὐκ οἴει φροντίζειν;
+English: "Then do you think they do not care?"
+
+Greek: 319 οἳ πρῶτον μὲν μόνον τῶν ζῴων ἄνθρωπον ὀρθὸν ἀνέστησαν;
+English: "They, who of all creatures made only man stand upright."
+
+Greek: 320 ἡ δὲ ὀρθότης καὶ προορᾶν πλέον ποιεῖ δύνασθαι καὶ τὰ ὕπερθεν μᾶλλον θεᾶσθαι καὶ ἧττον κακοπαθεῖν καὶ ὄψιν καὶ ἀκοὴν καὶ στόμα ἐνεποίησαν;
+English: "This upright posture enables him to see farther, to observe things above, and lessens his suffering; and for him they created vision, hearing, and speech."
+
+Greek: 321 ἔπειτα τοῖς μὲν ἄλλοις ἑρπετοῖς πόδας ἔδωκαν, οἳ τὸ πορεύεσθαι μόνον παρέχουσιν, ἀνθρώπῳ δὲ καὶ χεῖρας προσέθεσαν, αἳ τὰ πλεῖστα οἷς εὐδαιμονέστεροι ἐκείνων ἐσμὲν ἐξεργάζονται.
+English: "Then, to other creeping creatures they gave feet, which only enable movement, but to man they added hands, which are instruments for our greater happiness."
+
+Greek: 322 καὶ μὴν γλῶττάν γε πάντων τῶν ζῴων ἐχόντων, μόνην τὴν τῶν ἀνθρώπων ἐποίησαν οἵαν ἄλλοτε ἀλλαχῇ ψαύουσαν τοῦ στόματος ἀρθροῦν τε τὴν φωνὴν καὶ σημαίνειν πάντα ἀλλήλοις ἃ βουλόμεθα.
+English: "And though all animals have a tongue, the tongue of man alone has been formed by them to be capable of contact with different parts of the mouth, so as to enable us to articulate the voice and express all our wants to one another."
+
+Greek: 323 τὸ δὲ καὶ τὰς τῶν ἀφροδισίων ἡδονὰς τοῖς μὲν
+
+ ἄλλοις ζῴοις δοῦναι περιγράψαντας τοῦ ἔτους χρόνον, ἡμῖν δὲ συνεχῶς μέχρι γήρως ταῦτα παρέχειν.
+English: "Furthermore, while limiting sexual pleasures to a certain season for other animals, for humans they provided it continuously up to old age."
+
+Greek: 324 οὐ τοίνυν μόνον ἤρκεσε τῷ θεῷ τοῦ σώματος ἐπιμεληθῆναι, ἀλλ’, ὅπερ μέγιστόν ἐστι, καὶ τὴν ψυχὴν κρατίστην τῷ ἀνθρώπῳ ἐνέφυσε.
+English: "So it was not enough for the deity to care for the body; he also imparted to man the noblest soul, which is of utmost importance."
+
+Greek: 325 τίνος γὰρ ἄλλου ζῴου ψυχὴ πρῶτα μὲν θεῶν τῶν τὰ μέγιστα καὶ κάλλιστα συνταξάντων ᾔσθηται ὅτι εἰσί;
+English: "For what other animal's soul is aware, first and foremost, of the gods who have ordained the greatest and fairest things?"
+
+Greek: 326 τί δὲ φῦλον ἄλλο ἢ ἄνθρωποι θεοὺς θεραπεύουσι;
+English: "And what race other than humans worships the gods?"
+
+Greek: 327 ποία δὲ ψυχὴ τῆς ἀνθρωπίνης ἱκανωτέρα προφυλάττεσθαι ἢ λιμὸν ἢ δίψος ἢ ψύχη ἢ θάλπη, ἢ νόσοις ἐπικουρῆσαι, ἢ ῥώμην ἀσκῆσαι, ἢ πρὸς μάθησιν ἐκπονῆσαι, ἢ ὅσα ἂν ἀκούσῃ ἢ ἴδῃ ἢ μάθῃ ἱκανωτέρα ἐστὶ διαμεμνῆσθαι;
+English: "And which soul, other than the human soul, is more capable of guarding against hunger, thirst, cold, heat, to heal sickness, to develop strength, to toil for learning, and to remember accurately all that it hears, sees, or learns?"
+
+Greek: 328 οὐ γὰρ πάνυ σοι κατάδηλον ὅτι παρὰ τ- ἄλλα ζῷα ὥσπερ θεοὶ ἄνθρωποι βιοτεύουσι, φύσει καὶ τῷ σώματι καὶ τῇ ψυχῇ κρατιστεύοντες;
+English: "Is it not quite clear to you that compared to other animals, humans live as if they were gods, surpassing in nature, body, and soul?"
+
+Greek: 329 οὔτε γὰρ βοὸς ἂν ἔχων σῶμα, ἀνθρώπου δὲ γνώμην ἐδύνατ’ ἂν πράττειν ἃ ἐβούλετο, οὔθ’ ὅσα χεῖρας ἔχει, ἄφρονα δ’ ἐστί, πλέον οὐδὲν ἔχει.
+English: "For neither could a creature with an ox's body and a man's intellect carry out his desires, nor one with hands but without reason achieve more."
+
+Greek: 330 σὺ δ’ ἀμφοτέρων τῶν πλείστου ἀξίων τετυχηκὼς οὐκ οἴει σοῦ θεοὺς ἐπιμελεῖσθαι;
+English: "Do you, having received the two most valuable gifts, not think that the gods take care of you?"
+
+Greek: 331 ἀλλ’ ὅταν τί ποιήσωσι, νομιεῖς αὐτοὺς σοῦ φροντίζειν;
+English: "But when they do something, do you think they care for you?"
+
+Greek: 332 ὅταν πέμπωσιν, ὥσπερ σὺ φὴς πέμπειν αὐτούς, συμβούλους ὅ τι χρὴ ποιεῖν καὶ μὴ ποιεῖν.
+English: "When they send, as you claim they do, counsellors to advise what to do and what not to do."
+
+Greek: 333 ὅταν δὲ Ἀθηναίοις, ἔφη, πυνθανομένοις τι διὰ μαντικῆς φράζωσιν, οὐ καὶ σοὶ δοκεῖς φράζειν αὐτούς, οὐδ’ ὅταν τοῖς Ἕλλησι τέρατα πέμποντες προσημαίνωσιν, οὐδ’ ὅταν πᾶσιν ἀνθρώποις, ἀλλὰ μόνον σὲ ἐξαιροῦντες ἐν ἀμελείᾳ κατατίθενται;
+English: "And when the Athenians, through divination, seek guidance and they provide answers, do you not think they also guide you? Or when they send omens to the Greeks or to all mankind? Do you think they neglect everyone but you?"
+
+Continuing from Greek sentence 334:
+
+Greek: 334 οἴει δ’ ἂν τοὺς θεοὺς τοῖς ἀνθρώποις δόξαν ἐμφῦσαι ὡς ἱκανοί εἰσιν εὖ καὶ κακῶς ποιεῖν, εἰ μὴ δυνατοὶ ἦσαν, καὶ ἀνθρώπους ἐξαπατωμένους τὸν πάντα χρόνον οὐδέποτ’ ἂν αἰσθέσθαι;
+English: "Do you really think the gods would instill in humans the belief that they have the power to do good or harm if they weren't capable of it, and that humans would be deceived all this time without ever realizing it?"
+
+Greek: 335 οὐχ ὁρᾷς ὅτι τὰ πολυχρονιώτατα καὶ σοφώτατα τῶν ἀνθρωπίνων, πόλεις καὶ ἔθνη, θεοσεβέστατά ἐστι, καὶ αἱ φρονιμώταται ἡλικίαι θεῶν ἐπιμελέσταται;
+English: "Don't you see that the most enduring and wisest of human institutions, such as cities and nations, are the most devout in worshipping gods, and the most sensible people are the most attentive to the gods?"
+
+Greek: 336 ὠγαθέ, ἔφη, κατάμαθε ὅτι καὶ ὁ σὸς νοῦς ἐνὼν τὸ σὸν σῶμα ὅπως βούλεται μεταχειρίζεται.
+English: "O good man, understand that just as your mind, residing within your body, uses it as it wishes, so it is with these things."
+
+Greek: 337 οἴεσθαι οὖν χρὴ καὶ τὴν ἐν τῷ παντὶ φρόνησιν τὰ πάντα, ὅπως ἂν αὐτῇ ἡδὺ ᾖ, οὕτω τίθεσθαι, καὶ μὴ τὸ σὸν μὲν ὄμμα δύνασθαι ἐπὶ πολλὰ στάδια ἐξικνεῖσθαι, τὸν δὲ τοῦ θεοῦ ὀφθαλμὸν ἀδύνατον εἶναι ἅμα πάντα ὁρᾶν, μηδὲ τὴν σὴν μὲν ψυχὴν καὶ περὶ τῶν ἐνθάδε καὶ περὶ τῶν ἐν Αἰγύπτῳ καὶ ἐν Σικελίᾳ δύνασθαι φροντίζειν, τὴν δὲ τοῦ θεοῦ φρόνησιν μὴ ἱκανὴν εἶναι ἅμα πάντων ἐπιμελεῖσθαι.
+English: "So, do you believe that the wisdom within the universe arranges all things as it pleases, and that while your own eye can reach over many miles, God's eye cannot see everything at once? And that your own soul can concern itself with things here and in Egypt and Sicily, but the wisdom of God is not capable of caring for everything simultaneously?"
+
+
+Greek: 338 ἂν μέντοι, ὥσπερ ἀνθρώπους θεραπεύων γιγνώσκεις τοὺς ἀντιθεραπεύειν ἐθέλοντας καὶ χαριζόμενος τοὺς ἀντιχαριζομένους καὶ συμβουλευόμενος καταμανθάνεις τοὺς φρονίμους, οὕτω καὶ τῶν θεῶν πεῖραν λαμβάνῃς θεραπεύων, εἴ τί σοι θελήσουσι περὶ τῶν ἀδήλων ἀνθρώποις συμβουλεύειν, γνώσει τὸ θεῖον ὅτι τοσοῦτον καὶ τοιοῦτόν ἐστιν ὥσθ’ ἅμα πάντα ὁρᾶν καὶ πάντα ἀκούειν καὶ πανταχοῦ παρεῖναι καὶ ἅμα πάντων ἐπιμελεῖσθαι αὐτούς.
+English: Similarly, just as you recognize those who reciprocate your service, show kindness to those who are kind to you, and discern the wise by seeking their counsel, try serving the gods and observe whether they offer you guidance in matters hidden from humans. Then you will understand the divine nature, so great and such that it can see and hear all things, be everywhere at once, and be mindful of everything.
+
+Greek: 339 ἐμοὶ μὲν οὖν ταῦτα λέγων οὐ μόνον τοὺς συνόντας ἐδόκει ποιεῖν ὁπότε ὑπὸ τῶν ἀνθρώπων ὁρῷντο, ἀπέχεσθαι τῶν ἀνοσίων τε καὶ ἀδίκων καὶ αἰσχρῶν, ἀλλὰ καὶ ὁπότε ἐν ἐρημίᾳ εἶεν, ἐπείπερ ἡγήσαιντο μηδὲν ἄν ποτε ὧν πράττοιεν θεοὺς διαλαθεῖν.
+English: In saying these things, he not only encouraged those present to abstain from impious, unjust, and shameful actions when observed by others, but even when alone, as they were convinced that nothing they did could ever escape the notice of the gods.
+
+Greek: 340 εἰ δὲ δὴ καὶ ἐγκράτεια καλόν τε κ- ἀγαθὸν ἀνδρὶ κτῆμά ἐστιν, ἐπισκεψώμεθα εἴ τι προυβίβαζε λέγων εἰς ταύτην τοιάδε; ὦ ἄνδρες, εἰ πολέμου ἡμῖν γενομένου βουλοίμεθα ἑλέσθαι ἄνδρα, ὑφ’ οὗ μάλιστ’ ἂν αὐτοὶ μὲν σῳζοίμεθα, τοὺς δὲ πολεμίους χειροίμεθα, ἆρ’ ὅντινα ἂν αἰσθανοίμεθα ἥττω γαστρὸς ἢ οἴνου ἢ ἀφροδισίων ἢ πόνου ἢ ὕπνου, τοῦτον ἂν αἱροίμεθα; καὶ πῶς ἂν οἰηθείημεν τὸν τοιοῦτον ἢ ἡμᾶς σῶσαι ἢ τοὺς πολεμίους κρατῆσαι;
+English: If self-control is indeed a valuable and noble possession for a man, let us consider if he led them toward this virtue with words like these: 'Men, if in a war we needed to choose a leader under whom we could be saved and conquer our enemies, would we select someone who is less dominated by hunger, wine, lust, toil, or sleep? How could we then expect such a person to save us or defeat our enemies?'
+
