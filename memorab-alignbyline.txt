@@ -1,7 +1,7 @@
 
-Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek.
+Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek. Do not add extra quotes around the English. Make sure you use the Greek sentence numbers listed for each sentence.
  
- Greek: 186 ἐπεὶ τοίνυν τάχιστα τῶν πολιτευομένων ὑπέλαβον κρείττονες εἶναι, Σωκράτει μὲν οὐκέτι προσῇσαν ·
+Greek: 186 ἐπεὶ τοίνυν τάχιστα τῶν πολιτευομένων ὑπέλαβον κρείττονες εἶναι, Σωκράτει μὲν οὐκέτι προσῇσαν ·
 English: So soon, then, as they presumed themselves to be the superiors of the politicians, they no longer came near Socrates.
 
 Greek: 187 οὔτε γὰρ αὐτοῖς ἄλλως ἤρεσκεν, εἴ τε προσέλθοιεν, ὑπὲρ ὧν ἡμάρτανον ἐλεγχόμενοι ἤχθοντο ·
@@ -512,3 +512,876 @@ English: In saying these things, he not only encouraged those present to abstain
 Greek: 340 εἰ δὲ δὴ καὶ ἐγκράτεια καλόν τε κ- ἀγαθὸν ἀνδρὶ κτῆμά ἐστιν, ἐπισκεψώμεθα εἴ τι προυβίβαζε λέγων εἰς ταύτην τοιάδε; ὦ ἄνδρες, εἰ πολέμου ἡμῖν γενομένου βουλοίμεθα ἑλέσθαι ἄνδρα, ὑφ’ οὗ μάλιστ’ ἂν αὐτοὶ μὲν σῳζοίμεθα, τοὺς δὲ πολεμίους χειροίμεθα, ἆρ’ ὅντινα ἂν αἰσθανοίμεθα ἥττω γαστρὸς ἢ οἴνου ἢ ἀφροδισίων ἢ πόνου ἢ ὕπνου, τοῦτον ἂν αἱροίμεθα; καὶ πῶς ἂν οἰηθείημεν τὸν τοιοῦτον ἢ ἡμᾶς σῶσαι ἢ τοὺς πολεμίους κρατῆσαι;
 English: If self-control is indeed a valuable and noble possession for a man, let us consider if he led them toward this virtue with words like these: 'Men, if in a war we needed to choose a leader under whom we could be saved and conquer our enemies, would we select someone who is less dominated by hunger, wine, lust, toil, or sleep? How could we then expect such a person to save us or defeat our enemies?'
 
+Greek: 341 ὦ ἄνδρες, εἰ πολέμου ἡμῖν γενομένου βουλοίμεθα ἑλέσθαι ἄνδρα, ὑφ’ οὗ μάλιστ’ ἂν αὐτοὶ μὲν σῳζοίμεθα, τοὺς δὲ πολεμίους χειροίμεθα, ἆρ’ ὅντινα ἂν αἰσθανοίμεθα ἥττω γαστρὸς ἢ οἴνου ἢ ἀφροδισίων ἢ πόνου ἢ ὕπνου, τοῦτον ἂν αἱροίμεθα;
+
+English: 
+My friends, if we were at war and wanted to choose a leader most capable of helping us to save ourselves and conquer the enemy, should we choose one whom we knew to be the slave of the belly, or of wine, or lust, or sleep? How could we expect that such an one would either save us or defeat the enemy?
+
+Greek: 342 καὶ πῶς ἂν οἰηθείημεν τὸν τοιοῦτον ἢ ἡμᾶς σῶσαι ἢ τοὺς πολεμίους κρατῆσαι;
+
+English: 
+How could we expect that such an one would either save us or defeat the enemy?
+
+Greek: 343 εἰ δ’ ἐπὶ τελευτῇ τοῦ βίου γενόμενοι βουλοίμεθά τῳ ἐπιτρέψαι ἢ παῖδας ἄρρενας παιδεῦσαι ἢ θυγατέρας παρθένους διαφυλάξαι ἢ χρήματα διασῶσαι, ἆρ’ ἀξιόπιστον εἰς ταῦθ’ ἡγησόμεθα τὸν ἀκρατῆ;
+
+English: 
+Or if at the end of our life we should wish to appoint a guardian to educate our boys or protect our girls or to take care of our goods, should we think a loose liver a trustworthy man to choose?
+
+Greek: 344 δούλῳ δ’ ἀκρατεῖ ἐπιτρέψαιμεν ἂν ἢ βοσκήματα ἢ ταμιεῖα ἢ ἔργων ἐπιστασίαν;
+
+English: 
+Should we entrust live stock or storehouses or the management of works to a vicious slave?
+
+Greek: 345 διάκονον δὲ καὶ ἀγοραστὴν τοιοῦτον ἐθελήσαιμεν ἂν προῖκα λαβεῖν;
+
+English: 
+Should we be willing to take as a gift a page or an errandboy with such a character?
+
+Greek: 346 ἀλλὰ μὴν εἴ γε μηδὲ δοῦλον ἀκρατῆ δεξαίμεθ’ ἄν, πῶς οὐκ ἄξιον αὐτόν γε φυλάξασθαι τοιοῦτον γενέσθαι;
+
+English: 
+Surely then, if we should refuse a vicious slave, the master must look to it that he does not grow vicious himself?
+
+Greek: 347 καὶ γὰρ οὐχ ὥσπερ οἱ πλεονέκται τῶν ἄλλων ἀφαιρούμενοι χρήματα ἑαυτοὺς δοκοῦσι πλουτίζειν, οὕτως ὁ ἀκρατὴς τοῖς μὲν ἄλλοις βλαβερός, ἑαυτῷ δ’ ὠφέλιμος, ἀλλὰ κακοῦργος μὲν τῶν ἄλλων, ἑαυτοῦ δὲ πολὺ κακουργότερος, εἴ γε κακουργότατόν ἐστι μὴ μόνον τὸν οἶκον τὸν ἑαυτοῦ φθείρειν, ἀλλὰ καὶ τὸ σῶμα καὶ τὴν ψυχήν;
+
+English: 
+For whereas the covetous, by robbing other men of their goods, seem to enrich themselves, a vicious man reaps no advantage from the harm he does to others. If he is a worker of mischief to others, he brings much greater mischief on himself, if indeed the greatest mischief of all is to ruin not one’s home merely, but the body and the soul.
+
+Greek: 348 ἐν συνουσίᾳ δὲ τίς ἂν ἡσθείη τῷ τοιούτῳ, ὃν εἰδείη τῷ ὄψῳ τε καὶ τῷ οἴνῳ χαίροντα μᾶλλον ἢ τοῖς φίλοις καὶ τὰς πόρνας ἀγαπῶντα μᾶλλον ἢ τοὺς ἑταίρους;
+
+English: 
+In social intercourse what pleasure could you find in such a man, knowing that he prefers your sauces and your wines to your friends, and likes the women better than the company?
+
+Greek: 349 ἆρά γε οὐ χρὴ πάντα ἄνδρα, ἡγησάμενον τὴν ἐγκράτειαν ἀρετῆς εἶναι κρηπῖδα, ταύτην πρῶτον ἐν τῇ ψυχῇ κατασκευάσασθαι;
+
+English: 
+Should not every man hold self-control to be the foundation of all virtue, and first lay this foundation firmly in his soul?
+
+Greek: 350 τίς γὰρ ἄνευ ταύτης ἢ μάθοι τι ἂν ἀγαθὸν ἢ μελετήσειεν ἀξιολόγως;
+
+English: 
+For who without this can learn any good or practise it worthily?
+
+Greek: 351 ἢ τίς οὐκ ἂν ταῖς ἡδοναῖς δουλεύων αἰσχρῶς διατεθείη καὶ τὸ σῶμα καὶ τὴν ψυχήν;
+
+English: 
+Or what man that is the slave of his pleasures is not in an evil plight body and soul alike?
+
+Greek: 352 ἐμοὶ μὲν δοκεῖ νὴ τὴν Ἥραν ἐλευθέρῳ μὲν ἀνδρὶ εὐκτὸν εἶναι μὴ τυχεῖν δούλου τοιούτου, δουλεύοντα δὲ ταῖς τοιαύταις ἡδοναῖς ἱκετευτέον τοὺς θεοὺς δεσποτῶν ἀγαθῶν τυχεῖν;
+
+English: 
+From my heart I declare that every free man should pray not to have such a man among his slaves; and every man who is a slave to such pleasures should entreat the gods to give him good masters: thus, and only thus, may he find salvation.
+
+Greek: 353 οὕτω γὰρ ἂν μόνως ὁ τοιοῦτος σωθείη.
+
+English: 
+Thus, and only thus, may he find salvation.
+
+Greek: 354 τοιαῦτα δὲ λέγων ἔτι ἐγκρατέστερον τοῖς ἔργοις ἢ τοῖς λόγοις ἑαυτὸν ἐπεδείκνυεν ·
+English: Such were his words; but his own self-control was shown yet more clearly by his deeds than by his words.
+
+Greek: 355 οὐ γὰρ μόνον τῶν διὰ τοῦ σώματος ἡδονῶν ἐκράτει, ἀλλὰ καὶ τῆς διὰ τῶν χρημάτων, νομίζων τὸν παρὰ τοῦ τυχόντος χρήματα λαμβάνοντα δεσπότην ἑαυτοῦ καθιστάναι καὶ δουλεύειν δουλείαν οὐδεμιᾶς ἧττον αἰσχράν.
+English: For he kept in subjection not only the pleasures of the body, but those too that money brings, in the belief that he who takes money from any casual giver puts himself under a master and endures the basest form of slavery.
+
+Greek: 356 ἄξιον δ’ αὐτοῦ καὶ ἃ πρὸς Ἀντιφῶντα τὸν σοφιστὴν διελέχθη μὴ παραλιπεῖν.
+English: It is due to him that a conversation he had with Antiphon the Sophist should not go unrecorded.
+
+Greek: 357 ὁ γὰρ Ἀντιφῶν ποτε βουλόμενος τοὺς συνουσιαστὰς αὐτοῦ παρελέσθαι προσελθὼν τῷ Σωκράτει παρόντων αὐτῶν ἔλεξε τάδε ·
+English: Antiphon came to Socrates with the intention of drawing his companions away from him, and spoke thus in their presence:
+
+Greek: 358 ὦ Σώκρατες, ἐγὼ μὲν ᾤμην τοὺς φιλοσοφοῦντας εὐδαιμονεστέρους χρῆναι γίγνεσθαι ·
+English: “Socrates, I supposed that philosophy must add to one’s store of happiness.
+
+Greek: 359 σὺ δέ μοι δοκεῖς τ- ἐναντία τῆς φιλοσοφίας ἀπολελαυκέναι.
+English: But the fruits you have reaped from philosophy are apparently very different.
+
+Greek: 360 ζῇς γοῦν οὕτως ὡς οὐδ’ ἂν εἷς δοῦλος ὑπὸ δεσπότῃ διαιτώμενος μείνειε ·
+English: For example, you are living a life that would drive even a slave to desert his master.
+
+Greek: 361 σῖτά τε σιτῇ καὶ ποτὰ πίνεις τὰ φαυλότατα, καὶ ἱμάτιον ἠμφίεσαι οὐ μόνον φαῦλον, ἀλλὰ τὸ αὐτὸ θέρους τε καὶ χειμῶνος, ἀνυπόδητός τε καὶ ἀχίτων διατελεῖς.
+English: Your meat and drink are of the poorest: the cloak you wear is not only a poor thing, but is never changed summer or winter; and you never wear shoes or tunic.
+
+Greek: 362 καὶ μὴν χρήματά γε οὐ λαμβάνεις, ἃ καὶ κτωμένους εὐφραίνει καὶ κεκτημένους ἐλευθεριώτερόν τε καὶ ἥδιον ποιεῖ ζῆν.
+English: Besides you refuse to take money, the mere getting of which is a joy, while its possession makes one more independent and happier.
+
+Greek: 363 εἰ οὖν ὥσπερ καὶ τῶν ἄλλων ἔργων οἱ διδάσκαλοι τοὺς μαθητὰς μιμητὰς ἑαυτῶν ἀποδεικνύουσιν, οὕτω καὶ σὺ τοὺς συνόντας διαθήσεις, νόμιζε κακοδαιμονίας διδάσκαλος εἶναι.
+English: Now the professors of other subjects try to make their pupils copy their teachers: if you too intend to make your companions do that, you must consider yourself a professor of unhappiness.”
+
+Greek: 364 καὶ ὁ Σωκράτης πρὸς ταῦτα εἶπε ·
+
+English: To this Socrates replied:
+
+Greek: 365 δοκεῖς μοι, ὦ Ἀντιφῶν, ὑπειληφέναι με οὕτως ἀνιαρῶς ζῆν, ὥστε πέπεισμαι σὲ μᾶλλον ἀποθανεῖν ἂν ἑλέσθαι ἢ ζῆν ὥσπερ ἐγώ.
+
+English: "Antiphon, you seem to have a notion that my life is so miserable, that I feel sure you would choose death in preference to a life like mine."
+
+Greek: 366 ἴθι οὖν ἐπισκεψώμεθα τί χαλεπὸν ᾔσθησαι τοῦ ἐμοῦ βίου.
+
+English: "Come then, let us consider together what hardship you have noticed in my life."
+
+Greek: 367 πότερον ὅτι τοῖς μὲν λαμβάνουσιν ἀργύριον ἀναγκαῖόν ἐστιν ἀπεργάζεσθαι τοῦτο ἐφ’ ᾧ ἂν μισθὸν λάβωσιν, ἐμοὶ δὲ μὴ λαμβάνοντι οὐκ ἀνάγκη διαλέγεσθαι ᾧ ἂν μὴ βούλωμαι;
+
+English: "Is it that those who take money are bound to carry out the work for which they get a fee, while I, because I refuse to take it, am not obliged to talk with anyone against my will?"
+
+Greek: 368 ἢ τὴν δίαιτάν μου φαυλίζεις ὡς ἧττον μὲν ὑγιεινὰ ἐσθίοντος ἐμοῦ ἢ σοῦ, ἧττον δὲ ἰσχὺν παρέχοντα;
+
+English: "Or do you think my food poor because it is less wholesome than yours or less nourishing?"
+
+Greek: 369 ἢ ὡς χαλεπώτερα πορίσασθαι τὰ ἐμὰ διαιτήματα τῶν σῶν διὰ τὸ σπανιώτερά τε καὶ πολυτελέστερα εἶναι;
+
+English: "Or because my viands are harder to get than yours, being scarcer and more expensive?"
+
+Greek: 370 ἢ ὡς ἡδίω σοι ἃ σὺ παρασκευάζῃ ὄντα ἢ ἐμοὶ ἃ ἐγώ;
+
+English: "Or because your diet is more enjoyable than mine?"
+
+Greek: 371 οὐκ οἶσθ’ ὅτι ὁ μὲν ἥδιστα ἐσθίων ἥκιστα ὄψου δεῖται, ὁ δὲ ἥδιστα πίνων ἥκιστα τοῦ μὴ παρόντος ἐπιθυμεῖ ποτοῦ;
+
+English: "Do you not know that the greater the enjoyment of eating the less the need of sauce; the greater the enjoyment of drinking, the less the desire for drinks that are not available?"
+
+Greek: 372 τά γε μὴν ἱμάτια οἶσθ’ ὅτι οἱ μεταβαλλόμενοι ψύχους καὶ θάλπους ἕνεκα μεταβάλλονται, καὶ ὑποδήματα ὑποδοῦνται, ὅπως μὴ διὰ τὰ λυποῦντα τοὺς πόδας κωλύωνται πορεύεσθαι;
+
+English: "As for cloaks, they are changed, as you know, on account of cold or heat. And shoes are worn as a protection to the feet against pain and inconvenience in walking."
+
+Greek: 373 ἤδη οὖν ποτε ᾔσθου ἐμὲ ἢ διὰ ψῦχος μᾶλλόν του ἔνδον μένοντα, ἢ διὰ θάλπος μαχόμενόν τῳ περὶ σκιᾶς, ἢ διὰ τὸ ἀλγεῖν τοὺς πόδας οὐ βαδίζοντα ὅπου ἂν βούλωμαι;
+
+English: "Now did you ever know me to stay indoors more than others on account of the cold, or to fight with any man for the shade because of the heat, or to be prevented from walking anywhere by sore feet?"
+
+Greek: 374 οὐκ οἶσθ’ ὅτι οἱ φύσει ἀσθενέστατοι τῷ σώματι μελετήσαντες τῶν ἰσχυροτάτων ἀμελησάντων κρείττους τε γίγνονται πρὸς ἃ ἂν μελετῶσι καὶ ῥᾷον αὐτὰ φέρουσιν;
+
+English: "Do you not know that by training, a puny weakling comes to be better at any form of exercise he practises, and gets more staying power, than the muscular prodigy who neglects to train?"
+
+Greek: 375 ἐμὲ δὲ ἄρα οὐκ οἴει, τῷ σώματι ἀεὶ τὰ συντυγχάνοντα μελετῶντα καρτερεῖν, πάντα ῥᾷον φέρειν σοῦ μὴ μελετῶντος;
+
+English: "Seeing then that I am always training my body to answer any and every call on its powers, do you not think that I can stand every strain better than you can without training?"
+
+Greek: 376 τοῦ δὲ μὴ δουλεύειν γαστρὶ μηδ’ ὕπνῳ καὶ λαγνείᾳ οἴει τι ἄλλο αἰτιώτερον εἶναι ἢ τὸ ἕτερα ἔχειν τούτων ἡδίω, ἃ οὐ μόνον ἐν χρείᾳ ὄντα εὐφραίνει, ἀλλὰ καὶ ἐλπίδας παρέχοντα ὠφελήσειν ἀεί;
+
+English: "For avoiding slavery to the belly or to sleep and incontinence, is there, think you, any more effective specific than the possession of other and greater pleasures, which are delightful not only to enjoy, but also because they arouse hopes of lasting benefit?"
+
+Greek: 377 καὶ μὴν τοῦτό γε οἶσθα, ὅτι οἱ μὲν οἰόμενοι μηδὲν εὖ πράττειν οὐκ εὐφραίνονται, οἱ δὲ ἡγούμενοι καλῶς προχωρεῖν ἑαυτοῖς ἢ γεωργίαν ἢ ναυκληρίαν ἢ ἄλλ’ ὅ τι ἂν τυγχάνωσιν ἐργαζόμενοι ὡς εὖ πράττοντες εὐφραίνονται.
+
+English: "And again, you surely know that while he who supposes that nothing goes well with him is unhappy, he who believes that he is successful in farming or a shipping concern or any other business he is engaged in is happy in the thought of his prosperity."
+
+Greek: 378 οἴει οὖν ἀπὸ πάντων τούτων τοσαύτην ἡδονὴν εἶναι ὅσην ἀπὸ τοῦ ἑαυτόν τε ἡγεῖσθαι βελτίω γίγνεσθαι καὶ φίλους ἀμείνους κτᾶσθαι;
+
+English: "Do you think then that out of all this thinking there comes anything so pleasant as the thought: 'I am growing in goodness and I am making better friends?'"
+
+Greek: 379 ἐγὼ τοίνυν διατελῶ ταῦτα νομίζων.
+
+English: "And that, I may say, is my constant thought."
+
+Greek: 380 ἐὰν δὲ δὴ φίλους ἢ πόλιν ὠφελεῖν δέῃ, ποτέρῳ ἡ πλείων σχολὴ τούτων ἐπιμελεῖσθαι, τῷ ὡς ἐγὼ νῦν ἢ τῷ ὡς σὺ μακαρίζεις διαιτωμένῳ;
+
+English: "Further, if help is wanted by friends or city, which of the two has more leisure to supply their needs, he who lives as I am living or he whose life you call happy?"
+
+Greek: 381 στρατεύοιτο δὲ πότερος ἂν ῥᾷον, ὁ μὴ δυνάμενος ἄνευ πολυτελοῦς διαίτης ζῆν ἢ ᾧ τὸ παρὸν ἀρκοίη;
+
+English: "Which will find soldiering the easier task, he who cannot exist without expensive food or he who is content with what he can get?"
+
+Greek: 382 ἐκπολιορκηθείη δὲ πότερος ἂν θᾶττον, ὁ τῶν χαλεπωτάτων εὑρεῖν δεόμενος ἢ ὁ τοῖς ῥᾴστοις ἐντυγχάνειν ἀρκούντως χρώμενος;
+
+English: "Which when besieged will surrender first, he who wants what is very hard to come by or he who can make shift with whatever is at hand?"
+
+Greek: 383 ἔοικας, ὦ Ἀντιφῶν, τὴν εὐδαιμονίαν οἰομένῳ τρυφὴν καὶ πολυτέλειαν εἶναι· ἐγὼ δὲ νομίζω τὸ μὲν μηδενὸς δεῖσθαι θεῖον εἶναι, τὸ δ' ὡς ἐλαχίστων ἐγγυτάτω τοῦ θείου, καὶ τὸ μὲν θεῖον κράτιστον, τὸ δ' ἐγγυτάτω τοῦ θείου ἐγγυτάτω τοῦ κρατίστου.
+
+
+Greek: 384 Εγὼ δὲ νομίζω τὸ μὲν μηδενὸς δεῖσθαι θεῖον εἶναι, τὸ δ' ὡς ἐλαχίστων ἐγγυτάτω τοῦ θείου, καὶ τὸ μὲν θεῖον κράτιστον, τὸ δ' ἐγγυτάτω τοῦ θείου ἐγγυτάτω τοῦ κρατίστου.
+
+English: "You seem, Antiphon, to imagine that happiness consists in luxury and extravagance. But my belief is that to have no wants is divine; to have as few as possible comes next to the divine; and as that which is divine is supreme, so that which approaches nearest to its nature is nearest to the supreme."
+
+Greek: 385 πάλιν δέ ποτε ὁ Ἀντιφῶν διαλεγόμενος τῷ Σωκράτει εἶπεν·
+
+English: "In another conversation with Socrates, Antiphon said:"
+
+Greek: 386 ὦ Σώκρατες, ἐγώ τοί σε δίκαιον μὲν νομίζω, σοφὸν δὲ οὐδ' ὁπωστιοῦν·
+
+English: "Socrates, I for my part believe you to be a just, but by no means a wise man."
+
+Greek: 387 δοκεῖς δέ μοι καὶ αὐτὸς τοῦτο γιγνώσκειν·
+
+English: "And I think you realise it yourself."
+
+Greek: 388 οὐδένα γοῦν τῆς συνουσίας ἀργύριον πράττῃ.
+
+English: "Anyhow, you decline to take money for your society."
+
+Greek: 389 καίτοι τό γε ἱμάτιον ἢ τὴν οἰκίαν ἢ ἄλλο τι ὧν κέκτησαι νομίζων ἀργυρίου ἄξιον εἶναι οὐδενὶ ἂν μὴ ὅτι προῖκα δοίης, ἀλλ’ οὐδ’ ἔλαττον τῆς ἀξίας λαβών.
+
+English: "Yet if you believed your cloak or house or anything you possess to be worth money, you would not part with it for nothing or even for less than its value."
+
+Greek: 390 δῆλον δὴ ὅτι εἰ καὶ τὴν συνουσίαν ᾤου τινὸς ἀξίαν εἶναι, καὶ ταύτης ἂν οὐκ ἔλαττον τῆς ἀξίας ἀργύριον ἐπράττου.
+
+English: "Clearly, then, if you set any value on your society, you would insist on getting the proper price for that too."
+
+Greek: 391 δίκαιος μὲν οὖν ἂν εἴης, ὅτι οὐκ ἐξαπατᾷς ἐπὶ πλεονεξίᾳ, σοφὸς δὲ οὐκ ἄν, μηδενός γε ἄξια ἐπιστάμενος.
+
+English: "It may well be that you are a just man because you do not cheat people through avarice; but wise you cannot be, since your knowledge is not worth anything."
+
+392 ὁ δὲ Σωκράτης πρὸς ταῦτα εἶπεν·
+To this Socrates replied:
+
+393 ὦ Ἀντιφῶν, παρ’ ἡμῖν νομίζεται τὴν ὥραν καὶ τὴν σοφίαν ὁμοίως μὲν καλόν, ὁμοίως δὲ αἰσχρὸν διατίθεσθαι εἶναι.
+"Antiphon, it is common opinion among us in regard to beauty and wisdom that there is an honourable and a shameful way of bestowing them."
+
+394 τήν τε γὰρ ὥραν ἐὰν μέν τις ἀργυρίου πωλῇ τῷ βουλομένῳ, πόρνον αὐτὸν ἀποκαλοῦσιν, ἐὰν δέ τις, ὃν ἂν γνῷ καλόν τε κ- ἀγαθὸν ἐραστὴν ὄντα, τοῦτον φίλον ἑαυτῷ ποιῆται, σώφρονα νομίζομεν·
+"For to offer one’s beauty for money to all comers is called prostitution; but we think it virtuous to become friendly with a lover who is known to be a man of honour."
+
+395 καὶ τὴν σοφίαν ὡσαύτως τοὺς μὲν ἀργυρίου τῷ βουλομένῳ πωλοῦντας σοφιστὰς ὥσπερ πόρνους ἀποκαλοῦσιν, ὅστις δὲ ὃν ἂν γνῷ εὐφυᾶ ὄντα διδάσκων ὅ τι ἂν ἔχῃ ἀγαθὸν φίλον ποιεῖται, τοῦτον νομίζομεν, ἃ τῷ καλῷ κ- ἀγαθῷ πολίτῃ προσήκει, ταῦτα ποιεῖν.
+"So is it with wisdom. Those who offer it to all comers for money are known as sophists, prostitutors of wisdom, but we think that he who makes a friend of one whom he knows to be gifted by nature, and teaches him all the good he can, fulfils the duty of a citizen and a gentleman."
+
+396 ἐγὼ δ’ οὖν καὶ αὐτός, ὦ Ἀντιφῶν, ὥσπερ ἄλλος τις ἢ ἵππῳ ἀγαθῷ ἢ κυνὶ ἢ ὄρνιθι ἥδεται, οὕτω καὶ ἔτι μᾶλλον ἥδομαι φίλοις ἀγαθοῖς, καὶ ἐάν τι ἔχω ἀγαθόν, διδάσκω, καὶ ἄλλοις συνίστημι παρ’ ὧν ἂν ἡγῶμ
+
+αι ὠφελήσεσθαί τι αὐτοὺς εἰς ἀρετήν·
+"That is my own view, Antiphon. Others have a fancy for a good horse or dog or bird: my fancy, stronger even than theirs, is for good friends. And I teach them all the good I can, and recommend them to others from whom I think they will get some moral benefit."
+
+397 καὶ τοὺς θησαυροὺς τῶν πάλαι σοφῶν ἀνδρῶν, οὓς ἐκεῖνοι κατέλιπον ἐν βιβλίοις γράψαντες, ἀνελίττων κοινῇ σὺν τοῖς φίλοις διέρχομαι, καὶ ἄν τι ὁρῶμεν ἀγαθὸν ἐκλεγόμεθα·
+"And the treasures that the wise men of old have left us in their writings I open and explore with my friends. If we come on any good thing, we extract it, and we set much store on being useful to one another."
+
+398 καὶ μέγα νομίζομεν κέρδος, ἐὰν ἀλλήλοις φίλοι γιγνώμεθα.
+"For my part, when I heard these words fall from his lips, I judged him to be a happy man himself and to be putting his hearers in the way of being gentlemen."
+
+399 ἐμοὶ μὲν δὴ ταῦτα ἀκούοντι ἐδόκει αὐτός τε μακάριος εἶναι καὶ τοὺς ἀκούοντας ἐπὶ καλοκἀγαθίαν ἄγειν.
+"And we set much store on being useful to one another."
+
+400 καὶ πάλιν ποτὲ τοῦ Ἀντιφῶντος ἐρομένου αὐτόν, πῶς ἄλλους μὲν ἡγεῖται πολιτικοὺς ποιεῖν, αὐτὸς δ’ οὐ πράττει τὰ πολιτικά, εἴπερ ἐπίσταται·
+On yet another occasion Antiphon asked him: "How can you suppose that you make politicians of others, when you yourself avoid politics even if you understand them?"
+
+401 ποτέρως δ’ ἄν, ἔφη, ὦ Ἀντιφῶν, μᾶλλον τὰ πολιτικὰ πράττοιμι, εἰ μόνος αὐτὰ πράττοιμι ἢ εἰ ἐπιμελοίμην τοῦ ὡς πλείστους ἱκανοὺς εἶναι πράττειν αὐτά;
+"How now, Antiphon?" he retorted, "should I play a more important part in politics by engaging in them alone or by taking pains to turn out as many competent politicians as possible?"
+
+402 ἐπισκεψώμεθα δὲ εἰ καὶ ἀλαζονείας ἀποτρέπων τοὺς συνόντας ἀρετῆς ἐπιμελεῖσθαι προέτρεπεν·
+Let us next consider whether by discouraging imposture he encouraged his companions to cultivate virtue.
+
+403 ἀεὶ γὰρ ἔλεγεν ὡς οὐκ εἴη καλλίων ὁδὸς ἐπ’ εὐδοξίαν ἢ δι’ ἧς ἄν τις ἀγαθὸς τοῦτο γένοιτο, ὃ καὶ δοκεῖν βούλοιτο.
+For he always said that the best road to glory is the way that makes a man as good as he wishes to be thought.
+
+404 ὅτι δ’ ἀληθῆ ἔλεγεν, ὧδ’ ἐδίδασκεν·
+And this was how he demonstrated the truth of this saying:
+
+405 ἐνθυμώμεθα γάρ, ἔφη, εἴ τις μὴ ὢν ἀγαθὸς αὐλητὴς δοκεῖν βούλοιτο, τί ἂν αὐτῷ ποιητέον εἴη.
+"Suppose a bad flute-player wants to be thought a good one, let us note what he must do."
+
+406 ἆρ’ οὐ τὰ ἔξω τῆς τέχνης μιμητέον τοὺς ἀγαθοὺς αὐλητάς;
+"Must he not imitate good players in the accessories of the art?"
+
+407 καὶ πρῶτον μέν, ὅτι ἐκεῖνοι σκεύη τε καλὰ κέκτηνται καὶ ἀκολούθους πολλοὺς περιάγονται, καὶ τούτῳ ταῦτα ποιητέον·
+"First, as they wear fine clothes and travel with many attendants, he must do the same."
+
+408 ἔπειτα, ὅτι ἐκείνους πολλοὶ ἐπαινοῦσι, καὶ τούτῳ πολλοὺς ἐπαινέτας παρασκευαστέον.
+"Further, seeing that they win the applause of crowds, he must provide himself with a large claque."
+
+409 ἀλλὰ μὴν ἔργον γε οὐδαμοῦ ληπτέον, ἢ εὐθὺς ἐλεγχθήσεται γελοῖος ὢν καὶ οὐ μόνον αὐλητὴς κακός, ἀλλὰ καὶ ἄνθρωπος ἀλαζών.
+"But, of course, he must never accept an engagement, or he will promptly expose himself to ridicule as an incompetent player and an impostor to boot."
+
+410 καίτοι πολλὰ μὲν δαπανῶν, μηδὲν δ’ ὠφελούμενος, πρὸς δὲ τούτοις κακοδοξῶν, πῶς οὐκ ἐπιπόνως τε καὶ ἀλυσιτελῶς καὶ καταγελάστως βιώσεται;
+"And so, what with incurring heavy expense and gaining nothing, and bringing disgrace on himself as well, he will make his life burdensome, unprofitable and ridiculous."
+
+411 ὣς δ’ αὔτως εἴ τις βούλοιτο στρατηγὸς ἀγαθὸς μὴ ὢν φαίνεσθαι ἢ κυβερνήτης, ἐννοῶμεν τί ἂν αὐτῷ συμβαίνοι.
+"So too if a man who is not a general or a pilot wanted to be thought a good one, let us imagine what would happen to him."
+
+412 ἆρ’ οὐκ ἄν, εἰ μὲν ἐπιθυμῶν τοῦ δοκεῖν ἱκανὸς εἶναι ταῦτα πράττειν μὴ δύναιτο πείθειν, τοῦτ’ εἴη λυπηρόν, εἰ δὲ πείσειεν, ἔτι ἀθλιώτερον;
+"If his efforts to seem proficient in these duties failed to carry conviction, would not his failure be galling to him? if they succeeded, would not his success be still more disastrous?"
+
+413 δῆλον γὰρ ὅτι κυβερνᾶν κατασταθεὶς ὁ μὴ ἐπιστάμενος ἢ στρατηγεῖν ἀπολέσειεν ἂν οὓς ἥκιστα βούλοιτο καὶ αὐτὸς αἰσχρῶς ἂν καὶ κακῶς ἀπαλλάξειεν.
+"for it is certain that if a man who knew nothing about piloting a ship or commanding an army were appointed to such work, he would lose those whom he least wanted to lose and would bring ruin and disgrace on himself."
+
+414 ὡσαύτως δὲ καὶ τὸ πλούσιον καὶ τὸ ἀνδρεῖον καὶ τὸ ἰσχυρὸν μὴ ὄντα δοκεῖν ἀλυσιτελὲς ἀπέφαινε;
+"By similar reasoning he would show how unprofitable is a reputation for wealth or courage or strength when it is undeserved."
+
+415 προστάττεσθαι γὰρ αὐτοῖς ἔφη μείζω ἢ κατὰ δύναμιν, καὶ μὴ δυναμένους ταῦτα ποιεῖν, δοκοῦντας ἱκανοὺς εἶναι, συγγνώμης οὐκ ἂν τυγχάνειν.
+"Tasks beyond their powers," he would say, "are laid on the incompetent, and no mercy is shown to them when they disappoint the expectation formed of their capability."
+
+416 ἀπατεῶνα δ’ ἐκάλει οὐ μικρὸν μὲν οὐδ’ εἴ τις ἀργύριον ἢ σκεῦος παρά του πειθοῖ λαβὼν ἀποστεροίη, πολὺ δὲ μέγιστον ὅστις μηδενὸς ἄξιος ὢν ἐξηπατήκοι πείθων ὡς ἱκανὸς εἴη τῆς πόλεως ἡγεῖσθαι.
+"The man who persuades you to lend him money or goods and then keeps them is without doubt a rogue; but much the greatest rogue of all is the man who has gulled his city into the belief that he is fit to direct it."
+
+417 ἐμοὶ μὲν οὖν ἐδόκει καὶ τοῦ ἀλαζονεύεσθαι ἀποτρέπειν τοὺς συνόντας τοιάδε διαλεγόμενος.
+"For my part I thought that such talks did discourage imposture among his companions."
+
+418 ἐδόκει δέ μοι καὶ τοιαῦτα λέγων προτρέπειν τοὺς συνόντας ἀσκεῖν ἐγκράτειαν πρὸς ἐπιθυμίαν βρωτοῦ καὶ ποτοῦ καὶ λαγνείας καὶ ὕπνου καὶ ῥίγους καὶ θάλπους καὶ πόνου.
+"In other conversations I thought that he exhorted his companions to practise self-control in the matter of eating and drinking, and sexual indulgence, and sleeping, and endurance of cold and heat and toil."
+
+419 γνοὺς γάρ τινα τῶν συνόντων ἀκολαστοτέρως ἔχοντα πρὸς τὰ τοιαῦτα, εἰπέ μοι, ἔφη, ὦ Ἀρίστιππε, εἰ δέοι σε παιδεύειν παραλαβόντα δύο τῶν νέων, τὸν μέν, ὅπως ἱκανὸς ἔσται ἄρχειν, τὸν δ’, ὅπως μηδ’ ἀντιποιήσεται ἀρχῆς, πῶς ἂν ἑκάτερον παιδεύοις;
+"Aware that one of his companions was rather intemperate in such matters, he said: 'Tell me, Aristippus, if you were required to take charge of two youths and educate them so that the one would be fit to rule and the other would never think of putting himself forward, how would you educate them? Shall we consider it, beginning with the elementary question of food?'"
+
+420 βούλει σκοπῶμεν ἀρξάμενοι ἀπὸ τῆς τροφῆς ὥσπερ ἀπὸ τῶν στοιχείων;
+"Oh yes," replied Aristippus, "food does seem to come first; for one can’t live without food."
+
+421 καὶ ὁ Ἀρίστιππος ἔφη·
+Aristippus agreed, saying, "Yes, naturally."
+
+422 δοκεῖ γοῦν μοι ἡ τροφὴ ἀρχὴ εἶναι·
+He continued, "Food does seem to come first."
+
+423 οὐδὲ γὰρ ζῴη γ’ ἄν τις, εἰ μὴ τρέφοιτο.
+"For one can't live without food."
+
+424 οὐκοῦν τὸ μὲν βούλεσθαι σίτου ἅπτεσθαι, ὅταν ὥρα ἥκῃ, ἀμφοτέροις εἰκὸς παραγίγνεσθαι;
+"Well, now, will not a desire for food naturally arise in both at certain times?" 
+
+425 εἰκὸς γάρ, ἔφη.
+"Yes, naturally," Aristippus responded.
+
+426 τὸ οὖν προαιρεῖσθαι τὸ κατεπεῖγον μᾶλλον πράττειν ἢ τῇ γαστρὶ
+
+ χαρίζεσθαι πότερον ἂν αὐτῶν ἐθίζοιμεν;
+"Now which of the two should we train in the habit of transacting urgent business before he satisfies his hunger?"
+
+427 τὸν εἰς τὸ ἄρχειν, ἔφη, νὴ Δία παιδευόμενον, ὅπως μὴ τὰ τῆς πόλεως ἄπρακτα γίγνηται παρὰ τὴν ἐκείνου ἀρχήν.
+"The one who is being trained to rule, undoubtedly; else State business might be neglected during his tenure."
+
+428 οὐκοῦν, ἔφη, καὶ ὅταν πιεῖν βούλωνται, τὸ δύνασθαι διψῶντα ἀνέχεσθαι τῷ αὐτῷ προσθετέον;
+"And must not the same one be given power to resist thirst when both want to drink?"
+
+429 πάνυ μὲν οὖν, ἔφη.
+"Certainly," said Aristippus.
+
+430 τὸ δὲ ὕπνου ἐγκρατῆ εἶναι, ὥστε δύνασθαι καὶ ὀψὲ κοιμηθῆναι καὶ πρῲ ἀναστῆναι καὶ ἀγρυπνῆσαι, εἴ τι δέοι, ποτέρῳ ἂν προσθείημεν;
+"And to which shall we give the power of limiting his sleep so that he can go late to bed and get up early, and do without sleep if need be?"
+
+431 καὶ τοῦτο, ἔφη, τῷ αὐτῷ.
+"To the same again," Aristippus agreed.
+
+432 τί δέ, ἔφη, τὸ ἀφροδισίων ἐγκρατῆ εἶναι, ὥστε μὴ διὰ ταῦτα κωλύεσθαι πράττειν, εἴ τι δέοι;
+"And the power to control his passions, so that he may not be hindered in doing necessary work?"
+
+433 καὶ τοῦτο, ἔφη, τῷ αὐτῷ.
+"To the same again," he said.
+
+434 τί δέ, τὸ μὴ φεύγειν τοὺς πόνους, ἀλλ’ ἐθελοντὴν ὑπομένειν ποτέρῳ ἂν προσθείημεν;
+"And to which shall we give the habit of not shirking a task, but undertaking it willingly?"
+
+435 καὶ τοῦτο, ἔφη, τῷ ἄρχειν παιδευομένῳ.
+"That too will go to the one who is being trained to rule," said Aristippus.
+
+
+436	τί δέ , τὸ μαθεῖν εἴ τι ἐπιτήδειόν ἐστι μάθημα πρὸς τὸ κρατεῖν τῶν ἀντιπάλων , ποτέρῳ ἂν προσθεῖναι μᾶλλον πρέποι ;
+"And to which would the knowledge needful for overcoming enemies be more appropriately given?"
+
+437	πολὺ νὴ Δί’ , ἔφη , τῷ ἄρχειν παιδευομένῳ ·
+"Without doubt to the one who is being trained to rule;
+
+438	καὶ γὰρ τῶν ἄλλων οὐδὲν ὄφελος ἄνευ τῶν τοιούτων μαθημάτων .
+ for the other lessons would be useless without such knowledge."
+
+439	οὐκοῦν ὁ οὕτω πεπαιδευμένος ἧττον ἂν δοκεῖ σοι ὑπὸ τῶν ἀντιπάλων ἢ τὰ λοιπὰ ζῷα ἁλίσκεσθαι ;
+"Don’t you think that with this education he will be less likely to be caught by his enemy than other creatures?"
+
+440	τούτων γὰρ δήπου τὰ μὲν γαστρὶ δελεαζόμενα , καὶ μάλα ἔνια δυσωπούμενα , ὅμως τῇ ἐπιθυμίᾳ τοῦ φαγεῖν ἀγόμενα πρὸς τὸ δέλεαρ ἁλίσκεται , τὰ δὲ ποτῷ ἐνεδρεύεται .
+"Some of them, you know, are so greedy, that in spite of extreme timidity in some cases, they are drawn irresistibly to the bait to get food, and are caught; and others are snared by drink."
+
+441	πάνυ μὲν οὖν , ἔφη .
+"Yes, certainly."
+
+442	οὐκοῦν καὶ ἄλλα ὑπὸ λαγνείας , οἷον οἵ τε ὄρτυγες καὶ οἱ πέρδικες , πρὸς τὴν τῆς θηλείας φωνὴν τῇ ἐπιθυμίᾳ καὶ τῇ ἐλπίδι τῶν ἀφροδισίων φερόμενοι καὶ ἐξιστάμενοι τοῦ τὰ δεινὰ ἀναλογίζεσθαι τοῖς θηράτροις ἐμπίπτουσι ;
+"Others again — quails and partridges, for instance — are so amorous, that when they hear the cry of the female, they are carried away by desire and anticipation, throw caution to the winds and blunder into the nets. Is it not so?"
+
+443	συνέφη καὶ ταῦτα .
+He agreed again.
+
+444	οὐκοῦν δοκεῖ σοι
+
+ αἰσχρὸν εἶναι ἀνθρώπῳ τ- αὐτὰ πάσχειν τοῖς ἀφρονεστάτοις τῶν θηρίων ;
+"Now, don’t you think it disgraceful that a man should be in the same plight as the silliest of wild creatures?"
+
+445	ὥσπερ οἱ μοιχοὶ εἰσέρχονται εἰς τὰς εἰρκτάς , εἰδότες ὅτι κίνδυνος τῷ μοιχεύοντι ἅ τε ὁ νόμος ἀπειλεῖ παθεῖν καὶ ἐνεδρευθῆναι καὶ ληφθέντα ὑβρισθῆναι ·
+"Thus an adulterer enters the women’s quarters, knowing that by committing adultery he is in danger of incurring the penalties threatened by the law, and that he may be trapped, caught and ill-treated."
+
+446	καὶ τηλικούτων μὲν ἐπικειμένων τῷ μοιχεύοντι κακῶν τε καὶ αἰσχρῶν , ὄντων δὲ πολλῶν τῶν ἀπολυσόντων τῆς τῶν ἀφροδισίων ἐπιθυμίας ἐν ἀδείᾳ , ὅμως εἰς τὰ ἐπικίνδυνα φέρεσθαι , ἆρ’ οὐκ ἤδη τοῦτο παντάπασι κακοδαιμονῶντός ἐστιν ;
+"When such misery and disgrace hang over the adulterer’s head, and there are many remedies to relieve him of his carnal desire without risk, is it not sheer lunacy to plunge headlong into danger?"
+
+447	ἔμοιγε δοκεῖ , ἔφη .
+"Yes, I think it is."
+
+448	τὸ δὲ εἶναι μὲν τὰς ἀναγκαιοτάτας πλείστας πράξεις τοῖς ἀνθρώποις ἐν ὑπαίθρῳ , οἷον τάς τε πολεμικὰς καὶ τὰς γεωργικὰς καὶ τῶν ἄλλων οὐ τὰς ἐλαχίστας , τοὺς δὲ πολλοὺς ἀγυμνάστως ἔχειν πρός τε ψύχη καὶ θάλπη οὐ δοκεῖ σοι πολλὴ ἀμέλεια εἶναι ;
+"And considering that the great majority of essential occupations, warfare, agriculture and very many others, are carried on in the open air, don’t you think it gross negligence that so many men are untrained to withstand cold and heat?"
+
+449	συνέφη καὶ τοῦτο .
+He agreed again.
+
+450	οὐκοῦν δοκεῖ σοι τὸν μέλλοντα ἄρχειν ἀσκεῖν δεῖν καὶ ταῦτα εὐπετῶς φέρειν ;
+"Don’t you think then, that one who is going to rule must adapt himself to bear them lightly?"
+
+451	πάνυ μὲν οὖν , ἔφη .
+"Certainly."
+
+452	οὐκοῦν εἰ τοὺς ἐγκρατεῖς τούτων ἁπάντων εἰς τοὺς ἀρχικοὺς τάττομεν , τοὺς ἀδυνάτους ταῦτα ποιεῖν εἰς τοὺς μηδ’ ἀντιποιησομένους τοῦ ἄρχειν τάξομεν ;
+"If then we classify those who control themselves in all these matters as fit to rule, shall we not classify those who cannot behave so as men with no claim to be rulers?"
+
+453	συνέφη καὶ τοῦτο .
+He agreed again.
+
+454	τί οὖν ;
+"Well now, 
+
+455	ἐπειδὴ καὶ τούτων ἑκατέρου τοῦ φύλου τὴν τάξιν οἶσθα , ἤδη ποτ’ ἐπεσκέψω , εἰς ποτέραν τῶν τάξεων τούτων σαυτὸν δικαίως ἂν τάττοις ;
+as you know the category to which each of these species belongs, have you ever considered in which category you ought to put yourself?"
+
+456	ἔγωγ’ , ἔφη ὁ Ἀρίστιππος ·
+"I have; 
+
+457	καὶ οὐδαμῶς γε τάττω ἐμαυτὸν εἰς τὴν τῶν ἄρχειν βουλομένων τάξιν .
+and I do not for a moment put myself in the category of those who want to be rulers."
+
+"For considering how hard a matter it is to provide for one’s own needs, I think it absurd not to be content to do that, but to shoulder the burden of supplying the wants of the community as well."
+
+458	καὶ γὰρ πάνυ μοι δοκεῖ ἄφρονος ἀνθρώπου εἶναι τό , μεγάλου ἔργου ὄντος τοῦ ἑαυτῷ τὰ δέοντα παρασκευάζειν , μὴ ἀρκεῖν τοῦτο , ἀλλὰ προσαναθέσθαι τὸ καὶ τοῖς ἄλλοις πολίταις ὧν δέονται πορίζειν ·
+
+
+459	καὶ ἑαυτῷ μὲν πολλὰ ὧν βούλεται ἐλλείπειν , τῆς δὲ πόλεως προεστῶτα , ἐὰν μὴ πάντα ὅσα ἡ πόλις βούλεται καταπράττῃ , τούτου δίκην ὑπέχειν , τοῦτο πῶς οὐ πολλὴ ἀφροσύνη ἐστί ;
+"That anyone should sacrifice a large part of his own wishes and make himself accountable as head of the state for the least failure to carry out all the wishes of the community is surely the height of folly."
+
+460	καὶ γὰρ ἀξιοῦσιν αἱ πόλεις τοῖς ἄρχουσιν ὥσπερ ἐγὼ τοῖς οἰκέταις χρῆσθαι .
+"For states claim to treat their rulers just as I claim to treat my servants."
+
+461	ἐγώ τε γὰρ ἀξιῶ τοὺς θεράποντας ἐμοὶ μὲν ἄφθονα τὰ ἐπιτήδεια παρασκευάζειν , αὐτοὺς δὲ μηδενὸς τούτων ἅπτεσθαι , αἵ τε πόλεις οἴονται χρῆναι τοὺς ἄρχοντας ἑαυταῖς μὲν ὡς πλεῖστα ἀγαθὰ πορίζειν , αὐτοὺς δὲ πάντων τούτων ἀπέχεσθαι .
+"I expect my men to provide me with necessaries in abundance, but not to touch any of them; and states hold it to be the business of the ruler to supply them with all manner of good things, and to abstain from all of them himself."
+
+462	ἐγὼ οὖν τοὺς μὲν βουλομένους πολλὰ πράγματα ἔχειν αὐτούς τε καὶ ἄλλοις παρέχειν οὕτως ἂν παιδεύσας εἰς τοὺς ἀρχικοὺς καταστήσαιμι ·
+"And so, should anyone want to bring plenty of trouble on himself and others, I would educate him as you propose and number him with those fitted to be rulers."
+
+463	ἐμαυτόν γε μέντοι τάττω εἰς τοὺς βουλομένους ᾗ ῥᾷστά τε καὶ ἥδιστα βιοτεύειν .
+"but myself I classify with those who wish for a life of the greatest ease and pleasure that can be had."
+
+464	καὶ ὁ Σωκράτης ἔφη ·
+Here Socrates asked:
+
+465	βούλει οὖν καὶ τοῦτο σκεψώμεθα , πότερον ἥδιον ζῶσιν οἱ ἄρχοντες ἢ οἱ ἀρχόμενοι ;
+"Shall we then consider whether the rulers or the ruled live the pleasanter life?"
+
+466	πάνυ μὲν οὖν , ἔφη .
+"Certainly," replied Aristippus.
+
+467	πρῶτον μὲν τοίνυν τῶν ἐθνῶν ὧν ἡμεῖς ἴσμεν ἐν μὲν τῇ Ἀσίᾳ Πέρσαι μὲν ἄρχουσιν , ἄρχονται δὲ Σύροι καὶ Φρύγες καὶ Λ
+
+υδοί ·
+"To take first the nations known to us. In Asia the rulers are the Persians; the Syrians, Lydians and Phrygians are the ruled."
+
+468	ἐν δὲ τῇ Εὐρώπῃ Σκύθαι μὲν ἄρχουσι , Μαιῶται δὲ ἄρχονται ·
+"In Europe the Scythians rule, and the Maeotians are ruled."
+
+469	ἐν δὲ τῇ Λιβύῃ Καρχηδόνιοι μὲν ἄρχουσι , Λίβυες δὲ ἄρχονται .
+"In Africa the Carthaginians rule, and the Libyans are ruled."
+
+470	τούτων οὖν ποτέρους ἥδιον οἴει ζῆν ;
+"Which of the two classes, think you, enjoys the pleasanter life?"
+
+471	ἢ τῶν Ἑλλήνων , ἐν οἷς καὶ αὐτὸς εἶ , πότερά σοι δοκοῦσιν ἥδιον οἱ κρατοῦντες ἢ οἱ κρατούμενοι , ζῆν ;
+"Or take the Greeks, of whom you yourself are one; do you think that the controlling or the controlled communities enjoy the pleasanter life?"
+
+472	ἀλλ’ ἐγώ τοι , ἔφη ὁ Ἀρίστιππος , οὐδὲ εἰς τὴν δουλείαν ἐμαυτὸν τάττω , ἀλλ’ εἶναί τίς μοι δοκεῖ μέση τούτων ὁδός , ἣν πειρῶμαι βαδίζειν , οὔτε δι’ ἀρχῆς οὔτε διὰ δουλείας , ἀλλὰ δι’ ἐλευθερίας , ἥπερ μάλιστα πρὸς εὐδαιμονίαν ἄγει .
+"Nay," replied Aristippus, "for my part I am no candidate for slavery; but there is, as I hold, a middle path in which I am fain to walk. That way leads neither through rule nor slavery, but through liberty, which is the royal road to happiness."
+
+473	ἀλλ’ εἰ μέν , ἔφη ὁ Σωκράτης , ὥσπερ οὔτε δι’ ἀρχῆς οὔτε διὰ δουλείας ἡ ὁδὸς αὕτη φέρει , οὕτω μηδὲ δι’ ἀνθρώπων , ἴσως ἄν τι λέγοις ·
+"Ah," said Socrates, "if only that path can avoid the world as well as rule and slavery, there may be something in what you say. But, since you are in the world, if you intend neither to rule nor to be ruled, and do not choose to truckle to the rulers"
+
+474	εἰ μέντοι ἐν ἀνθρώποις ὢν μήτε ἄρχειν ἀξιώσεις μήτε ἄρχεσθαι μηδὲ τοὺς ἄρχοντας ἑκὼν θεραπεύσεις , οἶμαί σε ὁρᾶν ὡς ἐπίστανται οἱ κρείττονες τοὺς ἥττονας καὶ κοινῇ καὶ ἰδίᾳ κλαίοντας καθίσαντες δούλοις χρῆσθαι ·
+ — "I think you must see that the stronger have a way of making the weaker rue their lot both in public and in private life, and treating them like slaves."
+
+475	ἢ λανθάνουσί σε οἱ ἄλλων σπειράντων καὶ φυτευσάντων τόν τε σῖτον τέμνοντες καὶ δενδροκοποῦντες καὶ πάντα τρόπον πολιορκοῦντες τοὺς ἥττονας καὶ μὴ θέλοντας θεραπεύειν , ἕως ἂν πείσωσιν ἑλέσθαι δουλεύειν ἀντὶ τοῦ πολεμε
+
+ῖν τοῖς κρείττσι ;
+"You cannot be unaware that where some have sown and planted, others cut their corn and fell their trees, and in all manner of ways harass the weaker if they refuse to bow down, until they are persuaded to accept slavery as an escape from war with the stronger."
+
+476	καὶ ἰδίᾳ αὖ οἱ ἀνδρεῖον καὶ δυνατοὶ τοὺς ἀνάνδρους καὶ ἀδυνάτους οὐκ οἶσθα ὅτι καταδουλωσάμενοι καρποῦνται ;
+"So, too, in private life do not brave and mighty men enslave and plunder the cowardly and feeble folk?"
+
+477	ἀλλ’ ἐγώ τοι , ἔφη , ἵνα μὴ πάσχω ταῦτα , οὐδ’ εἰς πολιτείαν ἐμαυτὸν κατακλείω , ἀλλὰ ξένος πανταχοῦ εἰμι .
+"Yes, but my plan for avoiding such treatment is this. I do not shut myself up in the four corners of a community, but am a stranger in every land," Aristippus replied.
+
+478	καὶ ὁ Σωκράτης ἔφη ·
+"A very cunning trick, that!" cried Socrates.
+
+479	τοῦτο μέντοι ἤδη λέγεις δεινὸν πάλαισμα .
+"For ever since the death of Sinis and Sceiron and Procrustes,"
+
+480	τοὺς γὰρ ξένους , ἐξ οὗ ὅ τε Σίνις καὶ ὁ Σκείρων καὶ ὁ Προκρούστης ἀπέθανον , οὐδεὶς ἔτι ἀδικεῖ ·
+"no one injures strangers! And yet nowadays those who take a hand in the affairs of their homeland pass laws to protect themselves from injury,"
+
+481	ἀλλὰ νῦν οἱ μὲν πολιτευόμενοι ἐν ταῖς πατρίσι καὶ νόμους τίθενται , ἵνα μὴ ἀδικῶνται , καὶ φίλους πρὸς τοῖς ἀναγκαίοις καλουμένοις ἄλλους κτῶνται βοηθούς , καὶ ταῖς πόλεσιν ἐρύματα περιβάλλονται , καὶ ὅπλα κτῶνται οἷς ἀμυνοῦνται τοὺς ἀδικοῦντας , καὶ πρὸς τούτοις ἄλλους ἔξωθεν συμμάχους κατασκευάζονται ·
+"get friends to help them over and above those whom nature has given them, encompass their cities with fortresses, get themselves weapons to ward off the workers of mischief; and besides all this seek to make allies in other lands; and in spite of all these precautions, they are still wronged."
+
+482	καὶ οἱ μὲν ταῦτα πάντα κεκτημένοι ὅμως ἀδικοῦνται ·
+"But you, with none of these advantages, spend much time on the open road, where so many come to harm; and into whatever city you enter, you rank below all its citizens,"
+
+483	σὺ δὲ οὐδὲν μὲν τούτων ἔχων , ἐν δὲ ταῖς ὁδοῖς , ἔνθα πλεῖστοι ἀδικοῦνται , πολὺν χρόνον διατρίβων , εἰς ὁποίαν δ’ ἂν πόλιν ἀφίκῃ , τῶν πολιτῶν πάντων ἥττων ὤν , καὶ τοιοῦτος , οἵοις μάλιστα ἐπιτίθενται οἱ βουλόμενοι ἀδικεῖν , ὅμως διὰ τὸ ξένος εἶναι οὐκ ἂν ο
+
+ἴει ἀδικηθῆναι ;
+"and are one of those specially marked down for attack by intending wrongdoers; and yet, because you are a stranger, do you expect to escape injury? What gives you confidence?"
+
+484	ἦ διότι αἱ πόλεις σοι κηρύττουσιν ἀσφάλειαν καὶ προσιόντι καὶ ἀπιόντι , θαρρεῖς ;
+"Is it that the cities by proclamation guarantee your safety in your coming and going?"
+
+485	ἢ διότι καὶ δοῦλος ἂν οἴει τοιοῦτος εἶναι οἷος μηδενὶ δεσπότῃ λυσιτελεῖν ;
+"Or is it the thought that no master would find you worth having among his slaves?"
+
+486	τίς γὰρ ἂν ἐθέλοι ἄνθρωπον ἐν οἰκίᾳ ἔχειν πονεῖν μὲν μηδὲν ἐθέλοντα , τῇ δὲ πολυτελεστάτῃ διαίτῃ χαίροντα ;
+"For who would care to have a man in his house who wants to do no work and has a weakness for high living?"
+
+487	σκεψώμεθα δὲ καὶ τοῦτο , πῶς οἱ δεσπόται τοῖς τοιούτοις οἰκέταις χρῶνται .
+"But now let us see how masters treat such servants."
+
+488	ἆρα οὐ τὴν μὲν λαγνείαν αὐτῶν τῷ λιμῷ σωφρονίζουσι ;
+"Do they not starve them to keep them from immorality,"
+
+489	κλέπτειν δὲ κωλύουσιν ἀποκλείοντες ὅθεν ἄν τι λαβεῖν ᾖ ;
+"lock up the stores to stop their stealing,"
+
+490	τοῦ δὲ δραπετεύειν δεσμοῖς ἀπείργουσι ;
+"clap fetters on them so that they can’t run away,"
+
+491	τὴν ἀργίαν δὲ πληγαῖς ἐξαναγκάζουσιν ;
+"and beat the laziness out of them with whips?"
+
+492	ἢ σὺ πῶς ποιεῖς , ὅταν τῶν οἰκετῶν τινα τοιοῦτον ὄντα καταμανθάνῃς ;
+"What do you do yourself to cure such faults among your servants?"
+
+493	κολάζω , ἔφη , πᾶσι κακοῖς , ἕως ἂν δουλεύειν ἀναγκάσω .
+"I make their lives a burden to them until I reduce them to submission."
+
+494	ἀλλὰ γάρ , ὦ Σώκρατες , οἱ εἰς τὴν βασιλικὴν τέχνην παιδευόμενοι , ἣν δοκεῖς μοι σὺ νομίζειν εὐδαιμονίαν εἶναι , τί διαφέρουσι τῶν ἐξ ἀνάγκης κακοπαθούντων , εἴ γε πεινήσουσι καὶ διψήσουσι καὶ ῥιγώσουσι καὶ ἀγρυπνήσουσι καὶ τ- ἄλλα πάντα μοχθήσουσιν ἑκόντες ;
+"But how about those who are trained in the art of kingship, Socrates, which you appear to identify with happiness? How are they better off than those whose sufferings are compulsory, if they must bear hunger, thirst, cold, sleeplessness, and endure all these tortures willingly?"
+
+495	ἐγὼ μὲν γὰρ οὐκ οἶδ’ ὅ τι διαφέρει τὸ αὐτὸ δέρμα ἑκόντα ἢ ἄκοντα μαστιγοῦσθαι ἢ ὅλως τὸ αὐτὸ σῶμα πᾶσι τοῖς τοιούτοις ἑκόντα ἢ ἄκοντα πολιορ
+
+κεῖσθαι ἄλλο γε ἢ ἀφροσύνη πρόσεστι τῷ θέλοντι τὰ λυπηρὰ ὑπομένειν .
+"For if the same back gets the flogging whether its owner kicks or consents, or, in short, if the same body, consenting or objecting, is besieged by all these torments, I see no difference, apart from the folly of voluntary suffering."
+
+496	τί δέ , ὦ Ἀρίστιππε ;
+"What, Aristippus?"
+
+497	ὁ Σωκράτης ἔφη , οὐ δοκεῖ σοι τῶν τοιούτων διαφέρειν τὰ ἑκούσια τῶν ἀκουσίων , ᾗ ὁ μὲν ἑκὼν πεινῶν φάγοι ἂν ὁπότε βούλοιτο καὶ ὁ ἑκὼν διψῶν πίοι καὶ τ- ἄλλα ὡσαύτως , τῷ δ’ ἐξ ἀνάγκης ταῦτα πάσχοντι οὐκ ἔξεστιν ὁπόταν βούληται παύεσθαι ;
+"Socrates asked, 'Don’t you think that there is just this difference between these voluntary and involuntary sufferings, that if you bear hunger or thirst willingly, you can eat, drink, or what not, when you choose, whereas compulsory suffering is not to be ended at will?'"
+
+498	ἔπειτα ὁ μὲν ἑκουσίως ταλαιπωρῶν ἐπ’ ἀγαθῇ ἐλπίδι πονῶν εὐφραίνεται , οἷον οἱ τὰ θηρία θηρῶντες ἐλπίδι τοῦ λήψεσθαι ἡδέως μοχθοῦσι .
+"Besides, he who endures willingly enjoys his work because he is comforted by hope; hunters, for instance, toil gladly in hope of game."
+
+499	καὶ τὰ μὲν τοιαῦτα ἆθλα τῶν πόνων μικροῦ τινος ἄξιά ἐστι , τοὺς δὲ πονοῦντας ἵνα φίλους ἀγαθοὺς κτήσωνται , ἢ ὅπως ἐχθροὺς χειρώσωνται , ἢ ἵνα δυνατοὶ γενόμενοι καὶ τοῖς σώμασι καὶ ταῖς ψυχαῖς καὶ τὸν ἑαυτῶν οἶκον καλῶς οἰκῶσι καὶ τοὺς φίλους εὖ ποιῶσι καὶ τὴν πατρίδα εὐεργετῶσι , πῶς οὐκ οἴεσθαι χρὴ τούτους καὶ πονεῖν ἡδέως εἰς τὰ τοιαῦτα καὶ ζῆν εὐφραινομένους , ἀγαμένους μὲν ἑαυτούς , ἐπαινουμένους δὲ καὶ ζηλουμένους ὑπὸ τῶν ἄλλων ;
+
+Rewards like these are indeed of little worth after all the toil; but what of those who toil to win good friends, or to subdue enemies, or to make themselves capable in body and soul of managing their own homes well, of helping their friends and serving their country? Surely these toil gladly for such prizes and live a joyous life, well content with themselves, praised and envied by everyone else?
+
+Yes, I understand the prompt now. Let me intersperse the corresponding English translations for each Greek sentence, following the specific sentence numbers you provided, and ensuring the English fits the Greek without altering the sentence breaks:
+
+500. ἔτι δὲ αἱ μὲν ῥᾳδιουργίαι καὶ ἐκ τοῦ παραχρῆμα ἡδοναὶ οὔτε σώματι εὐεξίαν ἱκαναί εἰσιν ἐνεργάζεσθαι, ὥς φασιν οἱ γυμνασταί, οὔτε ψυχῇ ἐπιστήμην ἀξιόλογον οὐδεμίαν ἐμποιοῦσιν, αἱ δὲ διὰ καρτερίας ἐπιμέλειαι τῶν καλῶν τε καὶ ἀγαθῶν ἔργων ἐξικνεῖσθαι ποιοῦσιν, ὥς φασιν οἱ ἀγαθοὶ ἄνδρες.
+
+"Moreover, indolence and present enjoyment can never bring the body into good condition, as trainers say, neither do they put into the soul knowledge of any value, but strenuous effort leads up to good and noble deeds, as good men say."
+
+501. λέγει δέ που καὶ Ἡσίοδος ·
+"And so says Hesiod somewhere:"
+
+502. τὴν μὲν γὰρ κακότητα καὶ ἰλαδὸν ἔστιν ἑλέσθαι ῥηιδίως ·
+"'Wickedness can be had in abundance easily:"
+
+503. λείη μὲν ὁδός, μάλα δ’ ἐγγύθι ναίει.
+"smooth is the road and very nigh she dwells."
+
+504. τῆς δ’ ἀρετῆς ἱδρῶτα θεοὶ προπάροιθεν ἔθηκαν ἀθάνατοι ·
+"But in front of virtue the gods immortal have put sweat:"
+
+505. μακρὸς δὲ καὶ ὄρθιος οἶμος ἐς αὐτὴν καὶ τρηχὺς τὸ πρῶτον ·
+"long and steep is the path to her and rough at first;"
+
+506. ἐπὴν δ’ εἰς ἄκρον ἵκηαι, ῥηιδίη δὴ ἔπειτα πέλει, χαλεπή περ ἐοῦσα.
+"but when you reach the top, then at length the road is easy, hard though it was."
+
+507. μαρτυρεῖ δὲ καὶ Ἐπίχαρμος ἐν τῷδε ·
+"And we have the testimony of Epicharmus too in the line:"
+
+508. τῶν πόνων πωλοῦσιν ἡμῖν πάντα τἀγάθ’ οἱ θεοί.
+"'The gods demand of us toil
+
+ as the price of all good things.'"
+
+509. καὶ ἐν ἄλλῳ δὲ τόπῳ φησίν ·
+"And elsewhere he says:"
+
+510. ὦ πονηρέ, μὴ τὰ μαλακὰ μῶσο, μὴ τὰ σκλήρ’ ἔχῃς.
+"'Knave, yearn not for the soft things, lest thou earn the hard.'"
+
+511. καὶ Πρόδικος δὲ ὁ σοφὸς ἐν τῷ συγγράμματι τῷ περὶ Ἡρακλέους, ὅπερ δὴ καὶ πλείστοις ἐπιδείκνυται, ὡσαύτως περὶ τῆς ἀρετῆς ἀποφαίνεται, ὧδέ πως λέγων, ὅσα ἐγὼ μέμνημαι.
+"Aye, and Prodicus the wise expresses himself to the like effect concerning Virtue in the essay 'On Heracles' that he recites to throngs of listeners. This, so far as I remember, is how he puts it:"
+
+512. φησὶ γὰρ Ἡρακλέα, ἐπεὶ ἐκ παίδων εἰς ἥβην ὡρμᾶτο, ἐν ᾗ οἱ νέοι ἤδη αὐτοκράτορες γιγνόμενοι δηλοῦσιν εἴτε τὴν δι’ ἀρετῆς ὁδὸν τρέψονται ἐπὶ τὸν βίον εἴτε τὴν διὰ κακίας, ἐξελθόντα εἰς ἡσυχίαν καθῆσθαι ἀποροῦντα ποτέραν τῶν ὁδῶν τράπηται ·
+"When Heracles was passing from boyhood to youth’s estate, wherein the young, now becoming their own masters, show whether they will approach life by the path of virtue or the path of vice, he went out into a quiet place, and sat pondering which road to
+take."
+
+513 καὶ φανῆναι αὐτῷ δύο γυναῖκας προσιέναι μεγάλας , τὴν μὲν ἑτέραν εὐπρεπῆ τε ἰδεῖν καὶ ἐλευθέριον φύσει , κεκοσμημένην τὸ μὲν σῶμα καθαρότητι , τὰ δὲ ὄμματα αἰδοῖ , τὸ δὲ σχῆμα σωφροσύνῃ , ἐσθῆτι δὲ λευκῇ , τὴν δ’ ἑτέραν τεθραμμένην μὲν εἰς πολυσαρκίαν τε καὶ ἁπαλότητα , κεκαλλωπισμένην δὲ τὸ μὲν χρῶμα ὥστε λευκοτέραν τε καὶ ἐρυθροτέραν τοῦ ὄντος δοκεῖν φαίνεσθαι , τὸ δὲ σχῆμα ὥστε δοκεῖν ὀρθοτέραν τῆς φύσεως εἶναι , τὰ δὲ ὄμματα ἔχειν ἀναπεπταμένα , ἐσθῆτα δὲ ἐξ ἧς ἂν μάλιστα ὥρα διαλάμποι ·
+"And there appeared two women of great stature making towards him. The one was fair to see and of high bearing; and her limbs were adorned with purity, her eyes with modesty; sober was her figure, and her robe was white. The other was plump and soft, with high feeding. Her face was made up to heighten its natural white and pink, her figure to exaggerate her height. Open-eyed was she; and dressed so as to disclose all her charms. Now she eyed herself; anon looked whether any noticed her; and often stole a glance at her own shadow."
+
+514	κατασκοπεῖσθαι δὲ θαμὰ ἑαυτήν , ἐπισκοπεῖν δὲ καὶ εἴ τις ἄλλος αὐτὴν θεᾶται , πολλάκις δὲ καὶ εἰς τὴν ἑαυτῆς σκιὰν ἀποβλέπειν .
+"Now she eyed herself; anon looked whether any noticed her; and
+often stole a glance at her own shadow."
+
+515. ὡς δ’ ἐγένοντο πλησιαίτερον τοῦ Ἡρακλέους, τὴν μὲν πρόσθεν ῥηθεῖσαν ἰέναι τὸν αὐτὸν τρόπον, τὴν δ’ ἑτέραν φθάσαι βουλομένην προσδραμεῖν τῷ Ἡρακλεῖ καὶ εἰπεῖν:
+When they drew nigh to Heracles, the first pursued the even tenor of her way: but the other, all eager to outdo her, ran to meet him, crying:
+
+516. ὁρῶ σε, ὦ Ἡράκλεις, ἀποροῦντα ποίαν ὁδὸν ἐπὶ τὸν βίον τράπῃ.
+"Heracles, I see that you are in doubt which path to take towards life."
+
+517. ἐὰν οὖν ἐμὲ φίλην ποιησάμενος, ἐπὶ τὴν ἡδίστην τε καὶ ῥᾴστην ὁδὸν ἄξω σε, καὶ τῶν μὲν τερπνῶν οὐδενὸς ἄγευστος ἔσει, τῶν δὲ χαλεπῶν ἄπειρος διαβιώσῃ.
+"Make me your friend; follow me, and I will lead you along the pleasantest and easiest road. You shall taste all the sweets of life; and hardship you shall never know."
+
+518. πρῶτον μὲν γὰρ οὐ πολέμων οὐδὲ πραγμάτων φροντιεῖς, ἀλλὰ σκοπούμενος διέσῃ τί ἂν κεχαρισμένον ἢ σιτίον ἢ ποτὸν εὕροις, ἢ τί ἂν ἰδὼν ἢ ἀκούσας τερφθείης ἢ τίνων ὀσφραινόμενος ἢ ἁπτόμενος, τίσι δὲ παιδικοῖς ὁμιλῶν μάλιστ’ ἂν εὐφρανθείης, καὶ πῶς ἂν μαλακώτατα καθεύδοις, καὶ πῶς ἂν ἀπονώτατα τούτων πάντων τυγχάνοις.
+"First, of wars and worries you shall not think, but shall ever be considering what choice food or drink you can find, what sight or sound will delight you, what touch or perfume; what tender love can give you most joy, what bed the softest slumbers; and how to come by all these pleasures with least trouble."
+
+519. ἐὰν δέ ποτε γένηταί τις ὑποψία σπάνεως ἀφ’ ὧν ἔσται ταῦτα, οὐ φόβος μή σε ἀγάγω ἐπὶ τὸ πονοῦντα καὶ ταλαιπωροῦντα τῷ σώματι καὶ τῇ ψυχῇ ταῦτα πορίζεσθαι, ἀλλ’ οἷς ἂν οἱ ἄλλοι ἐργάζωνται, τούτοις σὺ χρήσῃ, οὐδενὸς ἀπεχόμενος ὅθεν ἂν δυνατὸν ᾖ τι κερδᾶναι.
+"And should there arise misgiving that lack of means may stint your enjoyments, never fear that I may lead you into winning them by toil and anguish of body and soul. Nay; you shall have the fruits of others’ toil, and refrain from nothing that can bring you gain."
+
+520. πανταχόθεν γὰρ ὠφελεῖσθαι τοῖς ἐμοὶ συνοῦσιν ἐξουσίαν ἐγὼ παρέχω.
+"For to my companions I give authority to pluck advantage where they will."
+
+521. καὶ ὁ Ἡρακλῆς ἀκούσας ταῦτα, ὦ γύναι, ἔφη, ὄνομα δέ σοι τί ἐστιν;
+"Now when Heracles heard this, he asked, 'Lady, pray what is your name?"
+
+522. ἡ δέ, οἱ μὲν ἐμοὶ φίλοι, ἔφη, καλοῦσί με Εὐδαιμονίαν, οἱ δὲ μισοῦντές με ὑποκοριζόμενοι ὀνομάζουσι Κακίαν.
+"My friends call me Happiness,' she said, 'but among those that hate me I am nicknamed Vice."
+
+523 καὶ ἐν τούτῳ ἡ ἑτέρα γυνὴ προσελθοῦσα εἶπε ·  
+Meantime the other had drawn near, and she said:
+
+524 καὶ ἐγὼ ἥκω πρὸς σέ , ὦ Ἡράκλεις , εἰδυῖα τοὺς γεννήσαντάς σε καὶ τὴν φύσιν τὴν σὴν ἐν τῇ παιδείᾳ καταμαθοῦσα , ἐξ ὧν ἐλπίζω , εἰ τὴν πρὸς ἐμὲ ὁδὸν τράποιο , σφόδρ’ ἄν σε τῶν καλῶν καὶ σεμνῶν ἀγαθὸν ἐργάτην γενέσθαι καὶ ἐμὲ ἔτι πολὺ ἐντιμοτέραν καὶ ἐπ’ ἀγαθοῖς διαπρεπεστέραν φανῆναι .  
+I, too, am come to you, Heracles: I know your parents and I have taken note of your character during the time of your education. Therefore, I hope that, if you take the road that leads to me, you will turn out a right good doer of high and noble deeds, and I shall be yet more highly honoured and more illustrious for the blessings I bestow.
+
+525 οὐκ ἐξαπατήσω δέ σε προοιμίοις ἡδονῆς , ἀλλ’ ᾗπερ οἱ θεοὶ διέθεσαν τὰ ὄντα διηγήσομαι μετ’ ἀληθείας .  
+But I will not deceive you by a pleasant prelude: I will rather tell you truly the things that are, as the gods have ordained them.
+
+526 τῶν γὰρ ὄντων ἀγαθῶν καὶ καλῶν οὐδὲν ἄνευ πόνου καὶ ἐπιμελείας θεοὶ διδόασιν ἀνθρώποις , ἀλλ’ εἴτε τοὺς θεοὺς ἵλεως εἶναί σοι βούλει , θεραπευτέον τοὺς θεούς , εἴτε ὑπὸ φίλων ἐθέλεις ἀγαπᾶσθαι , τοὺς φίλους εὐεργετητέον , εἴτε ὑπό τινος πόλεως ἐπιθυμεῖς τιμᾶσθαι , τὴν πόλιν ὠφελητέον , εἴτε ὑπὸ τῆς Ἑλλάδος πάσης ἀξιοῖς ἐπ’ ἀρετῇ θαυμάζεσθαι , τὴν Ἑλλάδα πειρατέον εὖ ποιεῖν , εἴτε γῆν βούλει σοι καρποὺς ἀφθόνους φέρειν , τὴν γῆν θεραπευτέον , εἴτε ἀπὸ βοσκημάτων οἴει δεῖν πλουτίζεσθαι , τῶν βοσκημάτων ἐπιμελητέον , εἴτε διὰ πολέμου ὁρμᾷς αὔξεσθαι καὶ βούλει δύνασθαι τούς τε φίλους ἐλευθεροῦν καὶ τοὺς ἐχθροὺς χειροῦσθαι , τὰς πολεμικὰς τέχνας αὐτάς τε παρὰ τῶν ἐπισταμένων μαθητέον καὶ ὅπως αὐταῖς δεῖ χρῆσθαι ἀσκητέον ·
+For of all things good and fair, the gods give nothing to an without toil and effort. If you want the favour of the gods, you must worship the gods: if you desire the love of friends, you must do good to your friends: if you covet honour from a city, you must aid that city: if you are fain to win the admiration of all Hellas for virtue, you must strive to do good to Hellas: if you want land to yield you fruits in abundance, you must cultivate that land: if you are resolved to get wealth from locks, you must care for those flocks: if you essay to grow great through war and want power to liberate your friends and subdue your foes, you must learn the arts of war from those who know them and must practise their right use:
+
+527	εἰ δὲ καὶ τῷ σώματι βούλει δυνατὸς εἶναι , τῇ γνώμῃ ὑπηρετεῖν ἐθιστέον τὸ σῶμα καὶ γυμναστέον σὺν πόνοις καὶ ἱδρῶτι . 
+if you want your body to be strong, you must accustom your body to be the servant of your mind, and train it with toil and sweat.
+
+528	καὶ ἡ Κακία ὑπολαβοῦσα εἶπεν , ὥς φησι Πρόδικος ·
+And Vice, as Prodicus tells, answered and said:
+
+529	ἐννοεῖς , ὦ Ἡράκλεις , ὡς χαλεπὴν καὶ μακρὰν ὁδὸν ἐπὶ τὰς εὐφροσύνας ἡ γυνή σοι αὕτη διηγεῖται ;
+"Heracles, mark you how hard and long is that road to joy, of which this woman tells?
+
+530	ἐγὼ δὲ ῥᾳδίαν καὶ βραχεῖαν ὁδὸν ἐπὶ τὴν εὐδαιμονίαν ἄξω σε .
+ but I will lead you by a short and easy road to happiness."
+531	καὶ ἡ Ἀρετὴ εἶπεν ·
+And Virtue said:
+
+532	ὦ τλῆμον , τί δὲ σὺ ἀγαθὸν ἔχεις ;
+"What good thing is thine, poor wretch,
+
+533	ἢ τί ἡδὺ οἶσθα μηδὲν τούτων ἕνεκα πράττειν ἐθέλουσα ;
+or what pleasant thing dost thou know, if thou wilt do nought to win them?
+
+534	ἥτις οὐδὲ τὴν τῶν ἡδέων ἐπιθυμίαν ἀναμένεις , ἀλλὰ πρὶν ἐπιθυμῆσαι πάντων ἐμπίμπλασαι , πρὶν μὲν πεινῆν ἐσθίουσα , πρὶν δὲ διψῆν πίνουσα , ἵνα μὲν ἡδέως φάγῃς , ὀψοποιοὺς μηχανωμένη , ἵνα δὲ ἡδέως πίῃς , οἴνους τε πολυτελεῖς παρασκευάζῃ καὶ τοῦ θέρους χιόνα περιθέουσα ζητεῖς , ἵνα δὲ καθυπνώσῃς ἡδέως , οὐ μόνον τὰς στρωμνὰς μαλακάς , ἀλλὰ καὶ τὰς κλίνας καὶ τὰ ὑπόβαθρα ταῖς κλίναις παρασκευάζῃ ·
+Thou dost not even tarry for the desire of pleasant things, but fillest thyself with all things before thou desirest them, eating before thou art hungry, drinking before thou art thirsty, getting thee cooks, to give zest to eating, buying thee costly wines and running to and fro in search of snow in summer, to give zest to drinking; to soothe thy slumbers it is not enough for thee to buy soft coverlets, but thou must have frames for thy beds.
+
+535	οὐ γὰρ διὰ τὸ πονεῖν , ἀλλὰ διὰ τὸ μηδὲν ἔχειν ὅ τι ποιῇς ὕπνου ἐπιθυμεῖς ·
+For not toil, but the tedium of having nothing to do, makes thee long for sleep.
+
+536	τὰ δ’ ἀφροδίσια πρὸ τοῦ δεῖσθαι ἀναγκάζεις , πάντα μηχανωμένη καὶ γυναιξὶ τοῖς ἀνδράσι χρωμένη ·
+Thou dost rouse lust by many a trick, when there is no need, using men as women:
+
+537	οὕτω γὰρ παιδεύεις τοὺς σεαυτῆς φίλους , τῆς μὲν νυκτὸς ὑβρίζουσα , τῆς δ’ ἡμέρας τὸ χρησιμώτατον κατακοιμίζουσα .
+thus thou trainest thy friends, waxing wanton by night, consuming in sleep the best hours of day."
+
+538 ἀθάνατος δὲ οὖσα ἐκ θεῶν μὲν ἀπέρριψαι, ὑπὸ δὲ ἀνθρώπων ἀγαθῶν ἀτιμάζῃ·
+Immortal art thou, yet the outcast of the gods, the scorn of good men.
+
+539 τοῦ δὲ πάντων ἡδίστου ἀκούσματος, ἐπαίνου σεαυτῆς, ἀνήκοος εἶ, καὶ τοῦ πάντων ἡδίστου θεάματος ἀθέατος·
+Praise, sweetest of all things to hear, thou hearest not: the sweetest of all sights thou beholdest not,
+
+540 οὐδὲν γὰρ πώποτε σεαυτῆς ἔργον καλὸν τεθέασαι.
+for never yet hast thou beheld a good work wrought by thyself.
+
+541 τίς δ’ ἄν σοι λεγούσῃ τι πιστεύσειε;
+Who will believe what thou dost say?
+
+542 τίς δ’ ἂν δεομένῃ τινὸς ἐπαρκέσειεν;
+who will grant what thou dost ask?
+
+543 ἢ τίς ἂν εὖ φρονῶν τοῦ σοῦ θιάσου τολμήσειεν εἶναι;
+Or what sane man will dare join thy throng?
+
+544 οἳ νέοι μὲν ὄντες τοῖς σώμασιν ἀδύνατοί εἰσι, πρεσβύτεροι δὲ γενόμενοι ταῖς ψυχαῖς ἀνόητοι, ἀπόνως μὲν λιπαροὶ διὰ νεότητος τρεφόμενοι, ἐπιπόνως δὲ αὐχμηροὶ διὰ γήρως περῶντες, τοῖς μὲν πεπραγμένοις αἰσχυνόμενοι, τοῖς δὲ πραττομένοις βαρυνόμενοι, τὰ μὲν ἡδέα ἐν τῇ νεότητι διαδραμόντες, τὰ δὲ χαλεπὰ εἰς τὸ γῆρας ἀποθέμενοι.
+While thy votaries are young their bodies are weak, when they wax old, their souls are without sense; idle and sleek they thrive in youth, withered and weary they journey through old age, and their past deeds bring them shame, their present deeds distress. Pleasure they ran through in their youth: hardship they laid up for their old age.
+
+545 ἐγὼ δὲ σύνειμι μὲν θεοῖς, σύνειμι δὲ ἀνθρώποις τοῖς ἀγαθοῖς·
+But I company with gods and good men,
+
+546 ἔργον δὲ καλὸν οὔτε θεῖον οὔτ’ ἀνθρώπειον χωρὶς ἐμοῦ γίγνεται.
+and no fair deed of god or man is done without my aid.
+
+547 τιμῶμαι δὲ μάλιστα πάντων καὶ παρὰ θεοῖς καὶ παρὰ ἀνθρώποις οἷς προσήκω, ἀγαπητὴ μὲν συνεργὸς τεχνίταις, πιστὴ δὲ φύλαξ οἴκων δεσπόταις, εὐμενὴς δὲ παραστάτις οἰκέταις, ἀγαθὴ δὲ συλλήπτρια τῶν ἐν εἰρήνῃ πόνων, βεβαία δὲ τῶν ἐν πολέμῳ σύμμαχος ἔργων, ἀρίστη δὲ φιλίας κοινωνός.
+I am first in honour among the gods and among men that are akin to me: to craftsmen a beloved fellow-worker, to masters a faithful guardian of the house, to servants a kindly protector: good helpmate in the toils of peace, staunch ally in the deeds of war, best partner in friendship.
+
+548 ἔστι δὲ τοῖς μὲν ἐμοῖς φίλοις ἡδεῖα μὲν καὶ ἀπράγμων σίτων καὶ ποτῶν ἀπόλαυσις·
+To my friends meat and drink bring sweet and simple enjoyment:
+
+549 ἀνέχονται γὰρ ἕως ἂν ἐπιθυμήσωσιν αὐτῶν·
+for they wait till they crave them.
+
+550 ὕπνος δ’ αὐτοῖς πάρεστιν ἡδίων ἢ τοῖς ἀμόχθοις, καὶ οὔτε ἀπολείποντες αὐτὸν ἄχθονται οὔτε διὰ τοῦτον μεθιᾶσι τὰ δέοντα πράττειν.
+And a sweeter sleep falls on them than on idle folk: they are not vexed at awaking from it, nor for its sake do they neglect to do their duties.
+
+551 καὶ οἱ μὲν νέοι τοῖς τῶν πρεσβυτέρων ἐπαίνοις χαίρουσιν, οἱ δὲ γεραίτεροι ταῖς τῶν νέων τιμαῖς ἀγάλλονται·
+The young rejoice to win the praise of the old; the elders are glad to be honoured by the young;
+
+552 καὶ ἡδέως μὲν τῶν παλαιῶν πράξεων μέμνηνται, εὖ δὲ τὰς παρούσας ἥδονται πράττοντες, δι’ ἐμὲ φίλοι μὲν θεοῖς ὄντες, ἀγαπητοὶ δὲ φίλοις, τίμιοι δὲ πατρίσιν·
+With joy they recall their deeds past, and their present well-doing is joy to them, for through me they are dear to the gods, lovely to friends, precious to their native land.
+
+553 ὅταν δ’ ἔλθῃ τὸ πεπρωμένον τέλος, οὐ μετὰ λήθης ἄτιμοι κεῖνται, ἀλλὰ μετὰ μνήμης τὸν ἀεὶ χρόνον ὑμνούμενοι θάλλουσι.
+And when comes the appointed end, they lie not forgotten and dishonoured, but live on, sung and remembered for all time.
+
+554 τοιαῦτά σοι, ὦ παῖ τοκέων ἀγαθῶν Ἡράκλεις, ἔξεστι διαπονησαμένῳ τὴν μακαριστοτάτην εὐδαιμονίαν κεκτῆσθαι.
+O Heracles, thou son of goodly parents, if thou wilt labour earnestly on this wise, thou mayest have for thine own the most blessed happiness.
+
+555 οὕτω πως διώκει Πρόδικος τὴν ὑπ’ Ἀρετῆς Ἡρακλέους παίδευσιν·
+Such, in outline, is Prodicus’ story of the training of Heracles by Virtue; 
+
+556 ἐκόσμησε μέντοι τὰς γνώμας ἔτι μεγαλειοτέροις ῥήμασιν ἢ ἐγὼ νῦν.
+only he has clothed the thoughts in even finer phrases than I have done now.
+
+
+557 σοὶ δ’ οὖν ἄξιον, ὦ Ἀρίστιππε, τούτων ἐνθυμουμένῳ πειρᾶσθαί τι καὶ τῶν εἰς τὸν μέλλοντα χρόνον τοῦ βίου φροντίζειν.
+But anyhow, Aristippus, it were well that you should think on these things and try to show some regard for the life that lies before you.
+
+558 αἰσθόμενος δέ ποτε Λαμπροκλέα τὸν πρεσβύτατον υἱὸν αὐτοῦ πρὸς τὴν μητέρα χαλεπαίνοντα, εἰπέ μοι, ἔφη, ὦ παῖ, οἶσθά τινας ἀνθρώπους ἀχαρίστους καλουμένους;
+On noticing that his eldest son, Lamprocles, was out of humour with his mother, he said: Tell me, my boy, do you know that some men are called ungrateful?
+
+559 καὶ μάλα, ἔφη ὁ νεανίσκος.
+Indeed I do, replied the young man.
+
+560 καταμεμάθηκας οὖν τοὺς τί ποιοῦντας τὸ ὄνομα τοῦτο ἀποκαλοῦσιν;
+Do you realize how they come to have this bad name?
+
+561 ἔγωγ’, ἔφη·
+I do; 
+
+562 τοὺς γὰρ εὖ παθόντας, ὅταν δυνάμενοι χάριν ἀποδοῦναι μὴ ἀποδῶσιν, ἀχαρίστου καλοῦσιν.
+the word is used of those who do not show the gratitude that it is in their power to show for benefits received.
+
+563 οὐκοῦν δοκοῦσί σοι ἐν τοῖς ἀδίκοις καταλογίζεσθαι τοὺς ἀχαρίστους;
+You take it, then, that the ungrateful are reckoned among the unjust?
+
+
+564 ἔμοιγε, ἔφη.
+Yes.
+
+565 ἤδη δέ ποτ’ ἐσκέψω εἰ ἄρα, ὥσπερ τὸ ἀνδραποδίζεσθαι τοὺς μὲν φίλους ἄδικον εἶναι δοκεῖ, τοὺς δὲ πολεμίους δίκαιον εἶναι, οὕτω καὶ τὸ ἀχαριστεῖν πρὸς μὲν τοὺς φίλους ἄδικόν ἐστι, πρὸς δὲ τοὺς πολεμίους δίκαιον;
+Now, seeing that enslavement is considered a just or an unjust act according as the victims are friends or enemies, have you ever considered whether the case of ingratitude is analogous, ingratitude being unjust towards friends, but just towards enemies?
+
+566 καὶ μάλα, ἔφη·
+Indeed I have;
+
+567 καὶ δοκεῖ μοι, ὑφ’ οὗ ἄν τις εὖ παθὼν εἴτε φίλου εἴτε πολεμίου μὴ πειρᾶται χάριν ἀποδιδόναι, ἄδικος εἶναι.
+and I think that it is always unjust not to show gratitude for a favour from whomsoever it is received, be he friend or enemy.
+
+568 οὐκοῦν, εἴ γ’ οὕτως ἔχει τοῦτο, εἰλικρινής τις ἂν εἴη ἀδικία ἡ ἀχαριστία;
+If that is so, must not ingratitude be injustice pure and simple?
+
+569 συνωμολόγει.
+He assented.
+
+570 οὐκοῦν ὅσῳ ἄν τις μείζω ἀγαθὰ παθὼν μὴ ἀποδιδῷ χάριν, τοσούτῳ ἀδικώτερος ἂν εἴη;
+Therefore the greater the benefits received the greater the injustice of not showing gratitude?
+
+571 συνέφη καὶ τοῦτο.
+He agreed again.
+
+572 τίνας οὖν, ἔφη, ὑπὸ τίνων εὕροιμεν ἂν μείζω εὐηργετημένους ἢ παῖδας ὑπὸ γονέων;
+Now what deeper obligation can we find than that of children to their parents?
+
+573 οὓς οἱ γονεῖς ἐκ μὲν οὐκ ὄντων ἐποίησαν εἶναι, τοσαῦτα δὲ καλὰ ἰδεῖν καὶ τοσούτων ἀγαθῶν μετασχεῖν, ὅσα οἱ θεοὶ παρέχουσι τοῖς ἀνθρώποις;
+To their parents children owe their being and their portion of all fair sights and all blessings that the gods bestow on men —
+
+574 ἃ δὴ καὶ οὕτως ἡμῖν δοκεῖ παντὸς ἄξια εἶναι ὥστε πάντες τὸ καταλιπεῖν αὐτὰ πάντων μάλιστα φεύγομεν, καὶ αἱ πόλεις ἐπὶ τοῖς μεγίστοις ἀδικήμασι ζημίαν θάνατον πεποιήκασιν ὡς οὐκ ἂν μείζονος κακοῦ φόβῳ τὴν ἀδικίαν παύσαντες.
+gifts so highly prized by us that all will sacrifice anything rather than lose them; and the reason why governments have made death the penalty for the greatest crimes is that the fear of it is the strongest deterrent against crime.
+
+575 καὶ μὴν οὐ τῶν γε ἀφροδισίων ἕνεκα παιδοποιεῖσθαι τοὺς ἀνθρώπους ὑπολαμβάνεις, ἐπεὶ τούτου γε τῶν ἀπολυσόντων μεσταὶ μὲν αἱ ὁδοί, μεστὰ δὲ τὰ οἰκήματα.
+Of course you don’t suppose that lust provokes men to beget children, when the streets and the stews are full of means to satisfy that?
+
+576 φανεροὶ δ’ ἐσμὲν καὶ σκοπούμενοι ἐξ ὁποίων ἂν γυναικῶν βέλτιστα ἡμῖν τέκνα γένοιτο;
+We obviously select for wives the women who will bear us the best children,
+
+577 αἷς συνελθόντες τεκνοποιούμεθα.
+and then marry them to raise a family.
+
+578 καὶ ὁ μέν γε ἀνὴρ τήν τε συντεκνοποιήσουσαν ἑαυτῷ τρέφει καὶ τοῖς μέλλουσιν ἔσεσθαι παισὶ προπαρασκευάζει πάντα, ὅσα ἂν οἴηται συνοίσειν αὐτοῖς πρὸς τὸν βίον, καὶ ταῦτα ὡς ἂν δύνηται πλεῖστα·
+The man supports the woman who is to share with him the duty of parentage and provides for the expected children whatever he thinks will contribute to their benefit in life, and accumulates as much of it as he can.
+
+579 ἡ δὲ γυνὴ ὑποδεξαμένη τε φέρει τὸ φορτίον τοῦτο, βαρυνομένη τε καὶ κινδυνεύουσα περὶ τοῦ βίου καὶ μεταδιδοῦσα τῆς τροφῆς, ᾗ καὶ αὐτὴ τρέφεται, καὶ σὺν πολλῷ πόνῳ διενεγκοῦσα καὶ τεκοῦσα τρέφει τε καὶ ἐπιμελεῖται, οὔτε προπεπονθυῖα οὐδὲν ἀγαθὸν οὔτε γιγνῶσκον τὸ βρέφος ὑφ’ ὅτου εὖ πάσχει, οὐδὲ σημαίνειν δυνάμενον ὅτου δεῖται, ἀλλ’ αὐτὴ στοχαζομένη τά τε συμφέροντα καὶ τὰ κεχαρισμένα πειρᾶται ἐκπληροῦν, καὶ τρέφει πολὺν χρόνον καὶ ἡμέρας καὶ νυκτὸς ὑπομένουσα πονεῖν, οὐκ εἰδυῖα εἴ τινα τούτων χάριν ἀπολήψεται.
+The woman conceives and bears her burden in travail, risking her life, and giving of her own food; and, with much labour, having endured to the end and brought forth her child, she rears and cares for it, although she has not received any good thing, and the babe neither recognizes its benefactress nor can make its wants known to her: still she guesses what is good for it and what it likes, and seeks to supply these things, and rears it for a long season, enduring toil day and night, nothing knowing what return she will get.
+
+580 καὶ οὐκ ἀρκεῖ θρέψαι μόνον, ἀλλὰ καί, ἐπειδὰν δόξωσιν ἱκανοὶ εἶναι οἱ παῖδες μανθάνειν τι, ἃ μὲν ἂν αὐτοὶ ἔχωσιν οἱ γονεῖς ἀγαθὰ πρὸς τὸν βίον, διδάσκουσιν, ἃ δ’ ἂν οἴωνται ἄλλον ἱκανώτερον εἶναι διδάξαι, πέμπουσι πρὸς τοῦτον δαπανῶντες, καὶ ἐπιμελοῦνται πάντα ποιοῦντες ὅπως οἱ παῖδες αὐτοῖς γένωνται ὡς δυνατὸν βέλτιστοι.
+Nor are the parents content just to supply food, but so soon as their children seem capable of learning they teach them what they can for their good, and if they think that another is more competent to teach them anything, they send them to him at a cost, and strive their utmost that the children may turn out as well as possible.
+
+581 πρὸς ταῦτα ὁ νεανίσκος εἶπεν·
+To this the young man replied: 
+
+582 ἀλλά τοι εἰ καὶ πάντα ταῦτα πεποίηκε καὶ ἄλλα τούτων πολλαπλάσια, οὐδεὶς ἂν δύναιτο αὐτῆς ἀνασχέσθαι τὴν χαλεπότητα.
+Nay, but even if she has done all this and far more than this, no one could put up with her vile temper.
+
+583 καὶ ὁ Σωκράτης, πότερα δέ, ἔφη, οἴει θηρίου ἀγριότητα δυσφορωτέραν εἶναι ἢ μητρός;
+Which, think you, asked Socrates, is the harder to bear, a wild beast’s brutality or a mother’s?
+
+584 ἐγὼ μὲν οἶμαι, ἔφη, τῆς μητρός, τῆς γε τοιαύτης.
+I should say a mother’s, when she is like mine.
+
+585 ἤδη πώποτε οὖν ἢ δακοῦσα κακόν τί σοι ἔδωκεν ἢ λακτίσασα, οἷα ὑπὸ θηρίων ἤδη πολλοὶ ἔπαθον;
+Well now, many people get bitten or kicked by wild beasts; has she ever done you an injury of that sort?
+
+586 ἀλλὰ νὴ Δία, ἔφη, λέγει ἃ οὐκ ἄν τις ἐπὶ τῷ βίῳ παντὶ βούλοιτο ἀκοῦσαι.
+Oh no, but she says things one wouldn’t listen to for anything in the world.
+
+587 σὺ δὲ πόσα, ἔφη ὁ Σωκράτης, οἴει ταύτῃ δυσάνεκτα καὶ τῇ φωνῇ καὶ τοῖς ἔργοις ἐκ παιδίου δυσκολαίνων καὶ ἡμέρας καὶ νυκτὸς πράγματα παρασχεῖν, πόσα δὲ λυπῆσαι κάμνων;
+Well, how much trouble do you think you have given her by your peevish words and froward acts day and night since you were a little child; and how much pain when you were ill?
+
+588 ἀλλ’ οὐδεπώποτε αὐτήν, ἔφη, οὔτ’ εἶπα οὔτ’ ἐποίησα οὐδὲν ἐφ’ ᾧ ᾐσχύνθη.
+But I have never yet said or done anything to cause her shame.
+
+589 τί δ’;
+What then?
+
+590 οἴει, ἔφη, χαλεπώτερον εἶναί σοι ἀκούειν ὧν αὕτη λέγει ἢ τοῖς ὑποκριταῖς, ὅταν ἐν ταῖς τραγῳδίαις ἀλλήλους τὰ ἔσχατα λέγωσιν;
+Now do you really think it harder for you to listen to what she says than for actors when they abuse one another in a tragedy?
+
+591 ἀλλ’, οἶμαι, ἐπειδὴ οὐκ οἴονται τῶν λεγόντων οὔτε τὸν ἐλέγχοντα ἐλέγχειν ἵνα ζημιώσῃ οὔτε τὸν ἀπειλοῦντα ἀπειλεῖν ἵνα κακόν τι ποιήσῃ, ῥᾳδίως φέρουσι.
+But an actor, I suppose, doesn’t think that a question put to him will lead to punishment, or that a threat means any harm: and so he makes light of it.
+
+592 σὺ δ’ εὖ εἰδὼς ὅτι ἃ λέγει σοι ἡ μήτηρ οὐ μόνον οὐδὲν κακὸν νοοῦσα λέγει, ἀλλὰ καὶ βουλομένη σοι ἀγαθὰ εἶναι ὅσα οὐδενὶ ἄλλῳ, χαλεπαίνεις;
+And why should you be annoyed? You know well that there is no malice in what your mother says to you; on the contrary, she wishes you to be blessed above all other beings — 
+
+593 ἢ νομίζεις κακόνουν τὴν μητέρα σοι εἶναι;
+unless, indeed, you suppose that your mother is maliciously set against you?
+
+594 οὐ δῆτα, ἔφη;
+Oh no, he said,
+
+595 τοῦτό γε οὐκ οἴομαι.
+I don’t think that.
+
+596 καὶ ὁ Σωκράτης, οὐκοῦν, ἔφη, σὺ ταύτην, εὔνουν τέ σοι οὖσαν καὶ ἐπιμελομένην ὡς μάλιστα δύναται κάμνοντος ὅπως ὑγιάνῃς τε καὶ ὅπως τῶν ἐπιτηδείων μηδενὸς ἐνδεὴς ἔσει, καὶ πρὸς τούτοις πολλὰ τοῖς θεοῖς εὐχομένην ἀγαθὰ ὑπὲρ σοῦ καὶ εὐχὰς ἀποδιδοῦσαν, χαλεπὴν εἶναι φής;
+Then Socrates exclaimed: So this mother of yours is kindly disposed towards you; she nurses you devotedly in sickness and sees that you want for nothing; more than that, she prays the gods to bless you abundantly and pays vows on your behalf; and yet you say she is a trial! 
+
+597	ἐγὼ μὲν οἶμαι , εἰ τοιαύτην μὴ δύνασαι φέρειν μητέρα , τ- ἀγαθά σε οὐ δύνασθαι φέρειν .
+It seems to me that, if you can’t endure a mother like her, you can’t endure a good thing.
+
+598 εἰπὲ δέ μοι, ἔφη, πότερον ἄλλον τινὰ οἴει δεῖν θεραπεύειν;
+Now tell me, is there any other being whom you feel bound to regard?
+
+599 ἢ παρεσκεύασαι μηδενὶ ἀνθρώπων πειρᾶσθαι ἀρέσκειν μηδὲ πείθεσθαι μήτε στρατηγῷ μήτε ἄλλῳ ἄρχοντι;
+Or are you set on trying to please nobody, and obeying neither general nor other ruler?
+
+600 ναὶ μὰ Δί’ ἔγωγε, ἔφη.
+Of course not!
+
+601 οὐκοῦν, ἔφη ὁ Σωκράτης, καὶ τῷ γείτονι βούλῃ σὺ ἀρέσκειν, ἵνα σοι καὶ πῦρ ἐναύῃ, ὅταν τούτου δέῃ, καὶ ἀγαθοῦ τέ σοι γίγνηται συλλήπτωρ καί, ἄν τι σφαλλόμενος τύχῃς, εὐνοϊκῶς ἐγγύθεν βοηθῇ σοι;
+Do you want to please your neighbour, for instance, so that he may kindle a fire for you at your need, may support you in prosperity, and in case of accident or failure may be ready to hold out a helping hand?
+
+602 ἔγωγε, ἔφη.
+Yes, I do.
+
+603 τί δέ;
+What then?
+
+604 συνοδοιπόρον ἢ σύμπλουν, ἢ εἴ τῳ ἄλλῳ ἐντυγχάνοις, οὐδὲν ἄν σοι διαφέροι φίλον ἢ ἐχθρὸν γενέσθαι, ἢ καὶ τῆς παρὰ τούτων εὐνοίας οἴει δεῖν ἐπιμελεῖσθαι;
+When you find yourself with a travelling companion on land or at sea, or happen to meet anyone, is it a matter of indifference to you whether he prove a friend or an enemy? Or do you think his goodwill worth cultivating? 
+
+605	ἔγωγε , ἔφη .
+Yes, I do.
