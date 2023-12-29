@@ -1,0 +1,19 @@
+Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek. Do not add extra quotes around the English. Make sure you use the Greek sentence numbers listed for each sentence. Do not place extra quotes around the English. Do not generate new translations yourself! Keep the translation for each Greek sentence on a single line. Place the sentence number followed by a tab and the Greek on one line with the English on the next line. Again, do not add extra "" around the English! And do the whole job -- do not stop and wait to be prompted to finish!
+
+24902	κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος προσευξόμενός τε τῇ θεῷ καὶ ἅμα τὴν ἑορτὴν βουλόμενος θεάσασθαι τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες .
+24903	καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι , οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον .
+24904	προσευξάμενοι δὲ καὶ θεωρήσαντες ἀπῇμεν πρὸς τὸ ἄστυ .
+24905	κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους Πολέμαρχος ὁ Κεφάλου ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι .
+24906	καί μου ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου , κελεύει ὑμᾶς , ἔφη , Πολέμαρχος περιμεῖναι .
+24907	καὶ ἐγὼ μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη .
+24908	οὗτος , ἔφη , ὄπισθεν προσέρχεται ·
+24909	ἀλλὰ περιμένετε .
+24910	ἀλλὰ περιμενοῦμεν , ἦ δ’ ὃς ὁ Γλαύκων .
+24911	καὶ ὀλίγῳ ὕστερον ὅ τε Πολέμαρχος ἧκε καὶ Ἀδείμαντος ὁ τοῦ Γλαύκωνος ἀδελφὸς καὶ Νικήρατος ὁ Νικίου καὶ ἄλλοι τινὲς ὡς ἀπὸ τῆς πομπῆς .
+
+Socrates
+I1 went down yesterday to the Peiraeus2 with Glaucon, the son of Ariston, to pay my devotions3 to the Goddess,4 and also because I wished to see how they would conduct the festival since this was its inauguration.5 I thought the procession of the citizens very fine, but it was no better than the show, made by the marching of the Thracian contingent. [327b]
+
+After we had said our prayers and seen the spectacle we were starting for town when Polemarchus, the son of Cephalus, caught sight of us from a distance as we were hastening homeward6 and ordered his boy7 run and bid us to wait8 for him, and the boy caught hold9 of my himation from behind and said, “Polemarchus wants you to wait.” And I turned around and asked where his master10 was. “There he is,” he said, “behind you, coming this way. Wait for him.” “So we will,” said Glaucon, [327c] and shortly after Polemarchus came up and Adeimantus, the brother of Glaucon, and Niceratus, the son of Nicias, and a few others apparently from the procession.
+
+

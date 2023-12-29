@@ -1,0 +1,20 @@
+Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split German sentences into smaller parts to line up Greek and German. Never change the Greek sentence breaks. Make the German fit the Greek. Do not add extra quotes around the German. Make sure you use the Greek sentence numbers listed for each sentence. Do not place extra quotes around the German. Do not generate new translations yourself! Keep the translation for each Greek sentence on a single line. Place the sentence number followed by a tab and the Greek on one line with the German on the next line. Again, do not add extra "" around the German! And do the whole job -- do not stop and wait to be prompted to finish! Do correct small OCR errors in the German.
+
+24902	κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος προσευξόμενός τε τῇ θεῷ καὶ ἅμα τὴν ἑορτὴν βουλόμενος θεάσασθαι τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες .
+24903	καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι , οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον .
+24904	προσευξάμενοι δὲ καὶ θεωρήσαντες ἀπῇμεν πρὸς τὸ ἄστυ .
+24905	κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους Πολέμαρχος ὁ Κεφάλου ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι .
+24906	καί μου ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου , κελεύει ὑμᾶς , ἔφη , Πολέμαρχος περιμεῖναι .
+24907	καὶ ἐγὼ μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη .
+24908	οὗτος , ἔφη , ὄπισθεν προσέρχεται ·
+24909	ἀλλὰ περιμένετε .
+24910	ἀλλὰ περιμενοῦμεν , ἦ δ’ ὃς ὁ Γλαύκων .
+24911	καὶ ὀλίγῳ ὕστερον ὅ τε Πολέμαρχος ἧκε καὶ Ἀδείμαντος ὁ τοῦ Γλαύκωνος ἀδελφὸς καὶ Νικήρατος ὁ Νικίου καὶ ἄλλοι τινὲς ὡς ἀπὸ τῆς πομπῆς .
+24912	ὁ οὖν Πολέμαρχος ἔφη ·
+24913	ὦ Σώκρατες , δοκεῖτέ μοι πρὸς ἄστυ ὡρμῆσθαι ὡς ἀπιόντες .
+24914	οὐ γὰρ κακῶς δοξάζεις , ἦν δ’ ἐγώ .
+24915	ὁρᾷς οὖν ἡμᾶς , ἔφη , ὅσοι ἐσμέν ;
+24916	πῶς γὰρ οὔ ;
+24917	ἢ τοίνυν τούτων , ἔφη , κρείττους γένεσθε ἢ μένετ’ αὐτοῦ .
+
+Ich ging gestern mit Glaukon dem Sohne des Ariston in den 327 Peiraieus hinunter, theils um die Göttin anzubeten, dann aber wollte ich auch zugleich das Fest* sehen, wie sie es feiern woll- ten, da sie es jezt zum ersten Mal begehen. Schön nun dünkte mich auch unserer Einheimischen Aufzug zu sein, nicht minder vortrefflich jedoch nahm sich auch der aus, den die Thrakier ge- schikkt hatten. Nachdem wir nun gebetet und die Feier mit an- geschaut hatten, gingen wir fort nach der Stadt. Wie nun Pole- marchos der Sohn des Kephalos uns von fern' nach Hause zu steigeu sab, hiess er seinen Knaben laufen und uns heissen ihn erwarten. Der Knabe also fasste mich von hinten beim Mantel und sprach, Polemarchos heisst euch ihn erwarten. Ich wendete mich um und fragte, wo denn er selbst wäre. Hier, sprach er, kommt er hinter euch, wartet nur. Nun ja, wir wollen warten, sagte Glaukon. Und bald darauf kam denn Polemarchos und Adeimantos der Bru- der des Glaukon, und Nikeratos der Sohn des Nikias und einige Andere auch wie von dem Feste her. Polemarchos nun sagte, o Sokrates Ihr scheint mir nach der Stadt zuzuschreiten, als wolltet ihr fortgehn. Du vermuthest nicht Unrecht, sprach ich. Siehst du 'nun uns wol, sprach er, wieviel unserer sind? Wie sollte ich nicht? - Entweder nun, sprach er, überwältigt diese, oder bleibt hier.
