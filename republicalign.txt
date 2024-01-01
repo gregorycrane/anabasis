@@ -2696,3 +2696,40 @@ Therefore, the just soul and the just man will live well, but the unjust poorly.
 25737 φαίνεται, ἔφη, κατὰ τὸν σὸν λόγον.  
 So it appears, he said, according to your argument.
 
+25738 ἀλλὰ μὴν ὅ γε εὖ ζῶν μακάριός τε καὶ εὐδαίμων, ὁ δὲ μὴ τ- ἐναντία.  
+But surely, he who lives well is blessed and happy, and he who does not the opposite.
+
+25739 πῶς γὰρ οὔ;  
+Of course.
+
+25740 ὁ μὲν δίκαιος ἄρα εὐδαίμων, ὁ δ’ ἄδικος ἄθλιος.  
+So, the just is happy and the unjust miserable.
+
+25741 ἔστω, ἔφη.  
+So be it, he said.
+
+25742 ἀλλὰ μὴν ἄθλιόν γε εἶναι οὐ λυσιτελεῖ, εὐδαίμονα δέ.  
+But being miserable surely does not pay, while being happy does.
+
+25743 πῶς γὰρ οὔ;  
+Of course not.
+
+25744 οὐδέποτ’ ἄρα, ὦ μακάριε Θρασύμαχε, λυσιτελέστερον ἀδικία δικαιοσύνης.  
+Never, then, most worshipful Thrasymachus, can injustice be more profitable than justice.
+
+25745 ταῦτα δή σοι, ἔφη, ὦ Σώκρατες, εἱστιάσθω ἐν τοῖς Βενδιδίοις.  
+Let this complete your entertainment, Socrates, at the festival of Bendis, he said.
+
+25746 ὑπὸ σοῦ γε, ἦν δ’ ἐγώ, ὦ Θρασύμαχε, ἐπειδή μοι πρᾷος ἐγένου καὶ χαλεπαίνων ἐπαύσω.  
+A feast furnished by you, Thrasymachus, I said, now that you have become gentle with me and are no longer angry.
+
+25747 οὐ μέντοι καλῶς γε εἱστίαμαι, δι’ ἐμαυτὸν ἀλλ’ οὐ διὰ σέ;  
+I have not dined well, however, by my own fault, not yours.
+
+25748 ἀλλ’ ὥσπερ οἱ λίχνοι τοῦ ἀεὶ παραφερομένου ἀπογεύονται ἁρπάζοντες, πρὶν τοῦ προτέρου μετρίως ἀπολαῦσαι, καὶ ἐγώ μοι δοκῶ οὕτω, πρὶν ὃ τὸ πρῶτον ἐσκοποῦμεν εὑρεῖν, τὸ δίκαιον ὅτι ποτ’ ἐστίν, ἀφέμενος ἐκείνου ὁρμῆσαι ἐπὶ τὸ σκέψασθαι περὶ αὐτοῦ εἴτε κακία ἐστὶν καὶ ἀμαθία, εἴτε σ
+
+οφία καὶ ἀρετή, καὶ ἐμπεσόντος αὖ ὕστερον λόγου, ὅτι λυσιτελέστερον ἡ ἀδικία τῆς δικαιοσύνης, οὐκ ἀπεσχόμην τὸ μὴ οὐκ ἐπὶ τοῦτο ἐλθεῖν ἀπ’ ἐκείνου, ὥστε μοι νυνὶ γέγονεν ἐκ τοῦ διαλόγου μηδὲν εἰδέναι;
+But just as gluttons snatch at every dish that is handed along and taste it before they have properly enjoyed the preceding, so I, methinks, before finding the first object of our inquiry—what justice is—let go of that and set out to consider something about it, namely whether it is vice and ignorance or wisdom and virtue; and again, when later the view was sprung upon us that injustice is more profitable than justice I could not refrain from turning to that from the other topic. So that for me the present outcome of the discussion is that I know nothing.
+
+25749 ὁπότε γὰρ τὸ δίκαιον μὴ οἶδα ὅ ἐστιν, σχολῇ εἴσομαι εἴτε ἀρετή τις οὖσα τυγχάνει εἴτε καὶ οὔ, καὶ πότερον ὁ ἔχων αὐτὸ οὐκ εὐδαίμων ἐστὶν ἢ εὐδαίμων.  
+For if I don't know what the just is, I shall hardly know whether it is a virtue or not, and whether its possessor is or is not happy.
