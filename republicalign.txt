@@ -1,0 +1,2698 @@
+Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek. Do not add extra quotes around the English. Make sure you use the Greek sentence numbers listed for each sentence. Do not place extra quotes around the English. Do not generate new translations yourself! Keep the translation for each Greek sentence on a single line. Place the sentence number followed by a tab and the Greek on one line with the English on the next line. Again, do not add extra "" around the English! And do the whole job -- do not stop and wait to be prompted to finish! Do lightly modernize archaic language, but keep the translation close to the Greek.
+
+24902	κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος προσευξόμενός τε τῇ θεῷ καὶ ἅμα τὴν ἑορτὴν βουλόμενος θεάσασθαι τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες.
+I went down yesterday to the Peiraeus with Glaucon, the son of Ariston, to pay my devotions to the Goddess, and also because I wished to see how they would conduct the festival since this was its inauguration.
+
+24903	καλὴ μὲν οὖν μοι καὶ ἡ τῶν ἐπιχωρίων πομπὴ ἔδοξεν εἶναι, οὐ μέντοι ἧττον ἐφαίνετο πρέπειν ἣν οἱ Θρᾷκες ἔπεμπον.
+I thought the procession of the citizens very fine, but it was no better than the show, made by the marching of the Thracian contingent.
+
+24904	προσευξάμενοι δὲ καὶ θεωρήσαντες ἀπῇμεν πρὸς τὸ ἄστυ.
+After we had said our prayers and seen the spectacle we were starting for town
+
+24905	κατιδὼν οὖν πόρρωθεν ἡμᾶς οἴκαδε ὡρμημένους Πολέμαρχος ὁ Κεφάλου ἐκέλευσε δραμόντα τὸν παῖδα περιμεῖναί ἑ κελεῦσαι.
+when Polemarchus, the son of Cephalus, caught sight of us from a distance as we were hastening homeward and ordered his boy to run and bid us to wait for him,
+
+24906	καί μου ὄπισθεν ὁ παῖς λαβόμενος τοῦ ἱματίου, κελεύει ὑμᾶς, ἔφη, Πολέμαρχος περιμεῖναι.
+and the boy caught hold of my himation from behind and said, “Polemarchus wants you to wait.”
+
+24907	καὶ ἐγὼ μετεστράφην τε καὶ ἠρόμην ὅπου αὐτὸς εἴη.
+And I turned around and asked where his master was.
+
+24908	οὗτος, ἔφη, ὄπισθεν προσέρχεται.
+“There he is,” he said, “behind you, coming this way.”
+
+24909	ἀλλὰ περιμένετε.
+“Wait for him.”
+
+24910	ἀλλὰ περιμενοῦμεν, ἦ δ’ ὃς ὁ Γλαύκων.
+“So we will,” said Glaucon.
+
+24911 καὶ ὀλίγῳ ὕστερον ὅ τε Πολέμαρχος ἧκε καὶ Ἀδείμαντος ὁ τοῦ Γλαύκωνος ἀδελφὸς καὶ Νικήρατος ὁ Νικίου καὶ ἄλλοι τινὲς ὡς ἀπὸ τῆς πομπῆς.
+and shortly after Polemarchus came up and Adeimantus, the brother of Glaucon, and Niceratus, the son of Nicias, and a few others apparently from the procession.
+
+24912	ὁ οὖν Πολέμαρχος ἔφη ·
+Whereupon Polemarchus said,
+
+24913	ὦ Σώκρατες, δοκεῖτέ μοι πρὸς ἄστυ ὡρμῆσθαι ὡς ἀπιόντες.
+“Socrates, you appear to have turned your faces townward and to be going to leave us.”
+
+24914	οὐ γὰρ κακῶς δοξάζεις, ἦν δ’ ἐγώ.
+“Not a bad guess,” said I.
+
+24915	ὁρᾷς οὖν ἡμᾶς, ἔφη, ὅσοι ἐσμέν;
+“But you see how many we are?” he said.
+
+24916	πῶς γὰρ οὔ;
+“Surely.”
+
+24917	ἢ τοίνυν τούτων, ἔφη, κρείττους γένεσθε ἢ μένετ’ αὐτοῦ.
+“You must either then prove yourselves the better men or stay here.”
+
+24918	οὐκοῦν, ἦν δ’ ἐγώ, ἔτι ἓν λείπεται, τὸ ἢν πείσωμεν ὑμᾶς ὡς χρὴ ἡμᾶς ἀφεῖναι;
+“Why, is there not left,” said I, “the alternative of our persuading you that you ought to let us go?”
+
+24919	ἦ καὶ δύναισθ’ ἄν, ἦ δ’ ὅς, πεῖσαι μὴ ἀκούοντας;
+“But could you persuade us,” said he, “if we refused to listen?”
+
+24920	οὐδαμῶς, ἔφη ὁ Γλαύκων.
+“Nohow,” said Glaucon.
+
+24921	ὡς τοίνυν μὴ ἀκουσομένων, οὕτω διανοεῖσθε.
+“Well, we won't listen, and you might as well make up your minds to it.”
+
+
+24922 καὶ ὁ Ἀδείμαντος, ἆρά γε, ἦ δ’ ὅς, οὐδ’ ἴστε ὅτι λαμπὰς ἔσται πρὸς ἑσπέραν ἀφ’ ἵππων τῇ θεῷ;
+“Do you mean to say,” interposed Adeimantus, “that you haven't heard that there is to be a torchlight race this evening on horseback in honor of the Goddess?”
+
+24923 ἀφ’ ἵππων;
+“On horseback?” 
+
+24924 ἦν δ’ ἐγώ;
+said I.
+
+24924 ἦν δ’ ἐγώ;
+said I.
+
+24925 καινόν γε τοῦτο.
+"That is a new idea."
+
+24926 λαμπάδια ἔχοντες διαδώσουσιν ἀλλήλοις ἁμιλλώμενοι τοῖς ἵπποις;
+"Will they carry torches and pass them along to one another as they race with the horses?"
+
+24927 ἢ πῶς λέγεις;
+"Or how do you mean?"
+
+24928 οὕτως, ἔφη ὁ Πολέμαρχος.
+"That's the way of it," said Polemarchus.
+
+24929 καὶ πρός γε παννυχίδα ποιήσουσιν, ἣν ἄξιον θεάσασθαι;
+"And, besides, there is to be a night festival which will be worth seeing."
+
+24930 ἐξαναστησόμεθα γὰρ μετὰ τὸ δεῖπνον καὶ τὴν παννυχίδα θεασόμεθα.
+"For after dinner we will get up and go out and see the sights."
+
+24931 καὶ συνεσόμεθά τε πολλοῖς τῶν νέων αὐτόθι καὶ διαλεξόμεθα.
+"And meet a lot of the lads there and have good talk."
+
+24932 ἀλλὰ μένετε καὶ μὴ ἄλλως ποιεῖτε.
+"So stay and do as we ask."
+
+24933 καὶ ὁ Γλαύκων, ἔοικεν, ἔφη, μενετέον εἶναι.
+"It looks as if we should have to stay," said Glaucon.
+
+24934 ἀλλ’ εἰ δοκεῖ, ἦν δ’ ἐγώ, οὕτω χρὴ ποιεῖν.
+"Well," said I, "if it so be, so be it."
+
+24935 ἦιμεν οὖν οἴκαδε εἰς τοῦ Πολεμάρχου, καὶ Λυσίαν τε αὐτόθι κατελάβομεν καὶ Εὐθύδημον, τοὺς τοῦ Πολεμάρχου ἀδελφούς, καὶ δὴ καὶ Θρασύμαχον τὸν Καλχηδόνιον καὶ Χαρμαντίδην τὸν Παιανιᾶ καὶ Κλειτοφῶντα τὸν Ἀριστωνύμου;
+So we went with them to Polemarchus's house, and there we found Lysias and Euthydemus, the brothers of Polemarchus, yes, and Thrasymachus, too, of Chalcedon, and Charmantides of the deme of Paeania, and Kleitophon the son of Aristonymus.
+
+24936 ἦν δ’ ἔνδον καὶ ὁ πατὴρ ὁ τοῦ Πολεμάρχου Κέφαλος.
+And the father of Polemarchus, Cephalus, was also at home.
+
+24937 καὶ μάλα
+
+ πρεσβύτης μοι ἔδοξεν εἶναι;
+And I thought him much aged,
+
+24938 διὰ χρόνου γὰρ καὶ ἑωράκη αὐτόν.
+for it was a long time since I had seen him.
+
+24939 καθῆστο δὲ ἐστεφανωμένος ἐπί τινος προσκεφαλαίου τε καὶ δίφρου;
+He was sitting on a sort of couch with cushions and he had a chaplet on his head,
+
+24940 τεθυκὼς γὰρ ἐτύγχανεν ἐν τῇ αὐλῇ.
+for he had just finished sacrificing in the court.
+
+24941 ἐκαθεζόμεθα οὖν παρ’ αὐτόν;
+So we went and sat down beside him,
+
+24942 ἔκειντο γὰρ δίφροι τινὲς αὐτόθι κύκλῳ.
+for there were seats there disposed in a circle.
+
+24943 εὐθὺς οὖν με ἰδὼν ὁ Κέφαλος ἠσπάζετό τε καὶ εἶπεν;
+As soon as he saw me Cephalus greeted me and said,
+
+24944 ὦ Σώκρατες, οὐ δὲ θαμίζεις ἡμῖν καταβαίνων εἰς τὸν Πειραιᾶ.
+“You are not a very frequent visitor, Socrates. You don't often come down to the Peiraeus to see us."
+
+24945 χρῆν μέντοι.
+"That is not right."
+
+24946 εἰ μὲν γὰρ ἐγὼ ἔτι ἐν δυνάμει ἦ τοῦ ῥᾳδίως πορεύεσθαι πρὸς τὸ ἄστυ, οὐδὲν ἂν σὲ ἔδει δεῦρο ἰέναι, ἀλλ’ ἡμεῖς ἂν παρὰ σὲ ᾖμεν;
+"For if I were still able to make the journey up to town easily, there would be no need of your resorting hither, but we would go to visit you."
+
+24947 νῦν δέ σε χρὴ πυκνότερον δεῦρο ἰέναι.
+"But as it is, you should not space too widely your visits here."
+
+24948 ὡς εὖ ἴσθι ὅτι ἔμοιγε ὅσον αἱ ἄλλαι αἱ κατὰ τὸ σῶμα ἡδοναὶ ἀπομαραίνονται, τοσοῦτον αὔξονται αἱ περὶ τοὺς λόγους ἐπιθυμίαι τε καὶ ἡδοναί.
+"For I would have you know that, as the satisfactions of the body decay, in the same measure my desire for the pleasures of good talk and my delight in them increase."
+
+
+24949	μὴ οὖν ἄλλως ποίει, ἀλλὰ τοῖσδέ τε τοῖς νεανίσκοις σύνισθι καὶ δεῦρο παρ’ ἡμᾶς φοίτα ὡς παρὰ φίλους τε καὶ πάνυ οἰκείους.
+"Don't refuse then, but be yourself a companion to these lads and make our house your resort and regard us as your very good friends and intimates.”
+
+24950	καὶ μήν, ἦν δ’ ἐγώ, ὦ Κέφαλε, χαίρω γε διαλεγόμενος τοῖς σφόδρα πρεσβύταις.
+“Why, yes, Cephalus,” said I, “and I enjoy talking with the very aged."
+
+24951	δοκεῖ γάρ μοι χρῆναι παρ’ αὐτῶν πυνθάνεσθαι, ὥσπερ τινὰ ὁδὸν προεληλυθότων ἣν καὶ ἡμᾶς ἴσως δεήσει πορεύεσθαι, ποία τίς ἐστιν, τραχεῖα καὶ χαλεπή, ἢ ῥᾳδία καὶ εὔπορος.
+“For to my thinking we have to learn of them as it were from wayfarers who have preceded us on a road on which we too, it may be, must some time fare—what it is like—is it rough and hard going or easy and pleasant to travel."
+
+24952	καὶ δὴ καὶ σοῦ ἡδέως ἂν πυθοίμην ὅτι σοι φαίνεται τοῦτο, ἐπειδὴ ἐνταῦθα ἤδη εἶ τῆς ἡλικίας ὃ δὴ ἐπὶ γήραος οὐδῷ φασιν εἶναι οἱ ποιηταί, πότερον χαλεπὸν τοῦ βίου, ἢ πῶς σὺ αὐτὸ ἐξαγγέλλεις.
+“And so now I would fain learn of you what you think of this thing, now that your time has come to it, the thing that the poets call ‘the threshold of old age.’ Is it a hard part of life to bear or what report have you to make of it?”
+
+24953	ἐγώ σοι, ἔφη, νὴ τὸν Δία ἐρῶ, ὦ Σώκρατες, οἷόν γέ μοι φαίνεται.
+“Yes, indeed, Socrates,” he said, “I will tell you my own feeling about it."
+
+24954	πολλάκις γὰρ συνερχόμεθά τινες εἰς τ- αὐτὸν παραπλησίαν ἡλικίαν ἔχοντες, διασῴζοντες τὴν παλαιὰν παροιμίαν;
+"For it often happens that some of us elders of about the same age come together and verify the old saw of like to like."
+
+24955	οἱ οὖν πλεῖστοι ἡμῶν ὀλοφύρονται συνιόντες, τὰς ἐν τῇ νεότητι ἡδονὰς ποθοῦντες καὶ ἀναμιμνῃσκόμενοι περί τε τ- ἀφροδίσια καὶ περὶ πότους τε καὶ εὐωχίας καὶ ἄλλ’ ἄττα ἃ τῶν τοιούτων ἔχεται, καὶ ἀγανακτοῦσιν ὡς μεγάλων τινῶν ἀπεστερημένοι καὶ τότε μὲν εὖ ζῶντες, νῦν δὲ οὐδὲ ζῶντες.
+"At these reunions most of us make lament, longing for the lost joys of youth and recalling to mind the pleasures of wine, women, and feasts, and other things thereto appertaining, and they repine in the belief that the greatest things have been taken from them and that then they lived well and now it is no life at all."
+
+24956	ἔνιοι δὲ καὶ τὰς τῶν οἰκείων προπηλακίσεις τοῦ γήρως ὀδύρονται, καὶ ἐπὶ τούτῳ δὴ τὸ γῆρας ὑμνοῦσιν ὅσων κακῶν σφίσιν αἴτιον.
+"And some of them complain of the indignities that friends and kinsmen put upon old age and thereto recite a doleful litany of all the miseries for which they blame old age."
+
+24957	ἐμοὶ δὲ δοκοῦσιν, ὦ Σώκρατες, οὗτοι οὐ τὸ αἴτιον αἰτιᾶσθαι.
+"But in my opinion, Socrates, they do not put the blame on the real cause."
+
+24958	εἰ γὰρ ἦν τοῦτ’ αἴτιον, κἂν ἐγὼ τὰ αὐτὰ ταῦτα ἐπεπόνθη, ἕνεκά γε γήρως, καὶ οἱ ἄλλο
+
+ι πάντες ὅσοι ἐνταῦθα ἦλθον ἡλικίας.
+"For if it were the cause I too should have had the same experience so far as old age is concerned, and so would all others who have come to this time of life."
+
+24959	νῦν δ’ ἔγωγε ἤδη ἐντετύχηκα οὐχ οὕτως ἔχουσιν καὶ ἄλλοις, καὶ δὴ καὶ Σοφοκλεῖ ποτε τῷ ποιητῇ παρεγενόμην ἐρωτωμένῳ ὑπό τινος;
+"But in fact I have ere now met with others who do not feel in this way, and in particular I remember hearing Sophocles the poet greeted by a fellow who asked,"
+
+24960	πῶς, ἔφη, ὦ Σοφόκλεις, ἔχεις πρὸς τ- ἀφροδίσια;
+'How about your service of Aphrodite, Sophocles—is your natural force still unabated?'
+
+24961	ἔτι οἷός τε εἶ γυναικὶ συγγίγνεσθαι;
+'Can you still consort with a woman?'
+
+24962	καὶ ὅς, εὐφήμει, ἔφη, ὦ ἄνθρωπε;
+And he replied, 'Hush, man,"
+
+24963	ἁσμενέστατα μέντοι αὐτὸ ἀπέφυγον, ὥσπερ λυττῶντά τινα καὶ ἄγριον δεσπότην ἀποδράς.
+'most gladly have I escaped this thing you talk of, as if I had run away from a raging and savage beast of a master.'
+
+24964	εὖ οὖν μοι καὶ τότε ἔδοξεν ἐκεῖνος εἰπεῖν, καὶ νῦν οὐχ ἧττον.
+"I thought it a good answer then and now I think so still more."
+
+24965	παντάπασι γὰρ τῶν γε τοιούτων ἐν τῷ γήρᾳ πολλὴ εἰρήνη γίγνεται καὶ ἐλευθερία;
+"For in very truth there comes to old age a great tranquility in such matters and a blessed release."
+
+24966	ἐπειδὰν αἱ ἐπιθυμίαι παύσωνται κατατείνουσαι καὶ χαλάσωσιν, παντάπασιν τὸ τοῦ Σοφοκλέους γίγνεται, δεσποτῶν πάνυ πολλῶν ἐστι καὶ μαινομένων ἀπηλλάχθαι.
+"When the fierce tensions of the passions and desires relax, then is the word of Sophocles approved, and we are rid of many and mad masters."
+
+
+24967	ἀλλὰ καὶ τούτων πέρι καὶ τῶν γε πρὸς τοὺς οἰκείους μία τις αἰτία ἐστίν, οὐ τὸ γῆρας, ὦ Σώκρατες, ἀλλ’ ὁ τρόπος τῶν ἀνθρώπων.
+"But indeed in respect of these complaints and in the matter of our relations with kinsmen and friends there is just one cause, Socrates—not old age, but the character of the man."
+
+24968	ἂν μὲν γὰρ κόσμιοι καὶ εὔκολοι ὦσιν, καὶ τὸ γῆρας μετρίως ἐστὶν ἐπίπονον.
+"For if men are temperate and cheerful, even old age is only moderately burdensome."
+
+24969	εἰ δὲ μή, καὶ γῆρας, ὦ Σώκρατες, καὶ νεότης χαλεπὴ τῷ τοιούτῳ συμβαίνει.
+"But if the reverse, old age, Socrates, and youth are hard for such dispositions."
+
+24970	καὶ ἐγὼ ἀγασθεὶς αὐτοῦ εἰπόντος ταῦτα, βουλόμενος ἔτι λέγειν αὐτὸν ἐκίνουν καὶ εἶπον.
+"And I was filled with admiration for the man by these words, and desirous of hearing more I tried to draw him out and said,"
+
+24971	ὦ Κέφαλε, οἶμαί σου τοὺς πολλούς, ὅταν ταῦτα λέγῃς, οὐκ ἀποδέχεσθαι ἀλλ’ ἡγεῖσθαί σε ῥᾳδίως τὸ γῆρας φέρειν οὐ διὰ τὸν τρόπον ἀλλὰ διὰ τὸ πολλὴν οὐσίαν κεκτῆσθαι.
+“I fancy, Cephalus, that most people, when they hear you talk in this way, are not convinced but think that you bear old age lightly not because of your character but because of your wealth."
+
+24972	τοῖς γὰρ πλουσίοις πολλὰ παραμύθιά φασιν εἶναι.
+“'For the rich,' they say, 'have many consolations.'”
+
+24973	ἀληθῆ, ἔφη, λέγεις;
+"You speak the truth," he said.
+
+24974	οὐ γὰρ ἀποδέχονται.
+"They do not accept it,"
+
+24975	καὶ λέγουσι μέν τι, οὐ μέντοι γε ὅσον οἴονται.
+"and they have a point, but not as much as they think."
+
+24976	ἀλλὰ τὸ τοῦ Θεμιστοκλέους εὖ ἔχει, ὃς τῷ Σεριφίῳ λοιδορουμένῳ καὶ λέγοντι ὅτι οὐ δι’ αὑτὸν ἀλλὰ διὰ τὴν πόλιν εὐδοκιμοῖ, ἀπεκρίνατο ὅτι οὔτ’ ἂν αὐτὸς Σερίφιος ὢν ὀνομαστὸς ἐγένετο οὔτ’ ἐκεῖνος Ἀθηναῖος.
+"But it's like what Themistocles said to the man from Seriphos who insulted him, saying that he was famous not because of himself but because of his city. Themistocles replied that neither he, being from Seriphos, would have been famous, nor the other man if he had been an Athenian."
+
+24977	καὶ τοῖς δὴ μὴ πλουσίοις, χαλεπῶς δὲ τὸ γῆρας φέρουσιν, εὖ ἔχει ὁ αὐτὸς λόγος, ὅτι οὔτ’ ἂν ὁ ἐπιεικὴς πάνυ τι ῥᾳδίως γῆρας μετὰ πενίας ἐνέγκοι οὔθ’ ὁ μὴ ἐπιεικὴς πλουτήσας εὔκολός ποτ’ ἂν ἑαυτῷ γένοιτο.
+"And this applies well to those who are not rich and find old age hard. It suggests that neither the reasonable man could easily bear old age with poverty, nor the unreasonable man, even if wealthy, ever find it easy."
+
+24978	πότερον δέ, ἦν δ’ ἐγώ, ὦ Κέφαλε, ὧν κέκτησαι τὰ πλείω παρέλαβες ἢ ἐπεκτήσω;
+"Then I asked, 'Cephalus, did you inherit most of your wealth or acquire it yourself?'"
+
+24979	ποῖ’ ἐπεκτησάμην, ἔφη, ὦ Σώκρατες;
+"'Acquire it myself?' he said. 'No, Socrates.'"
+
+24980	μέσος τις γέγονα χρηματιστὴς τοῦ τε πάππου καὶ τοῦ πατρός.
+"I fall somewhere in the middle as a money-maker between my grandfather and my father."
+
+24981	ὁ μὲν γὰρ πάππος τε καὶ ὁμώνυμος ἐμοὶ σχεδόν τι ὅση
+
+ν ἐγὼ νῦν οὐσίαν κέκτημαι παραλαβὼν πολλάκις τοσαύτην ἐποίησεν, Λυσανίας δὲ ὁ πατὴρ ἔτι ἐλάττω αὐτὴν ἐποίησε τῆς νῦν οὔσης.
+"My grandfather, who had the same name as me, inherited about as much as I have now and multiplied it many times over. My father Lysanias, however, reduced it to less than it is now."
+
+24982	ἐγὼ δὲ ἀγαπῶ ἐὰν μὴ ἐλάττω καταλίπω τούτοισιν, ἀλλὰ βραχεῖ γέ τινι πλείω ἢ παρέλαβον.
+"I would be happy if I do not leave less to my successors, but rather a little more than I received."
+
+24983	οὗ τοι ἕνεκα ἠρόμην, ἦν δ’ ἐγώ, ὅτι μοι ἔδοξας οὐ σφόδρα ἀγαπᾶν τὰ χρήματα, τοῦτο δὲ ποιοῦσιν ὡς τὸ πολὺ οἳ ἂν μὴ αὐτοὶ κτήσωνται.
+"The reason I asked," I said, "is because you seem not to be very fond of money, which is often the case with those who did not earn it themselves."
+
+24984	οἱ δὲ κτησάμενοι διπλῇ ἢ οἱ ἄλλοι ἀσπάζονται αὐτά.
+"But those who have acquired it themselves value it twice as much as others."
+
+24985	ὥσπερ γὰρ οἱ ποιηταὶ τὰ αὑτῶν ποιήματα καὶ οἱ πατέρες τοὺς παῖδας ἀγαπῶσιν, ταύτῃ τε δὴ καὶ οἱ χρηματισάμενοι περὶ τὰ χρήματα σπουδάζουσιν ὡς ἔργον ἑαυτῶν, καὶ κατὰ τὴν χρείαν ᾗπερ οἱ ἄλλοι.
+"Just as poets love their own poems and fathers love their children, so do those who have made money cherish it as their own creation, and also for its utility, like others."
+
+24986	χαλεποὶ οὖν καὶ συγγενέσθαι εἰσίν, οὐδὲν ἐθέλοντες ἐπαινεῖν ἀλλ’ ἢ τὸν πλοῦτον.
+"They are therefore hard to get along with, willing to praise nothing but wealth."
+
+24987	ἀληθῆ, ἔφη, λέγεις.
+"True," he said, "you speak the truth."
+
+
+24988	πάνυ μὲν οὖν, ἦν δ’ ἐγώ.
+"I assuredly am," said I.
+
+24989	ἀλλά μοι ἔτι τοσόνδε εἰπέ.
+"But tell me further this," I continued.
+
+24990	τί μέγιστον οἴει ἀγαθὸν ἀπολελαυκέναι τοῦ πολλὴν οὐσίαν κεκτῆσθαι;
+"What do you regard as the greatest benefit you have enjoyed from the possession of property?"
+
+24991	ὅ, ἦ δ’ ὅς, ἴσως οὐκ ἂν πολλοὺς πείσαιμι λέγων.
+“Something,” he said, “which I might not easily bring many to believe if I told them."
+
+24992	εὖ γὰρ ἴσθι, ἔφη, ὦ Σώκρατες, ὅτι, ἐπειδάν τις ἐγγὺς ᾖ τοῦ οἴεσθαι τελευτήσειν, εἰσέρχεται αὐτῷ δέος καὶ φροντὶς περὶ ὧν ἔμπροσθεν οὐκ εἰσῄει.
+“For let me tell you, Socrates,” he said, “that when a man begins to realize that he is going to die, he is filled with apprehensions and concern about matters that before did not occur to him."
+
+24993	οἵ τε γὰρ λεγόμενοι μῦθοι περὶ τῶν ἐν Ἅιδου, ὡς τὸν ἐνθάδε ἀδικήσαντα δεῖ ἐκεῖ διδόναι δίκην, καταγελώμενοι τέως, τότε δὴ στρέφουσιν αὐτοῦ τὴν ψυχὴν μὴ ἀληθεῖς ὦσιν.
+"The tales that are told of the world below and how the men who have done wrong here must pay the penalty there, though he may have laughed them down hitherto, then begin to torture his soul with the doubt that there may be some truth in them."
+
+24994	καὶ αὐτός — ἤτοι ὑπὸ τῆς τοῦ γήρως ἀσθενείας ἢ καὶ ὥσπερ ἤδη ἐγγυτέρω ὢν τῶν ἐκεῖ μᾶλλόν τι καθορᾷ αὐτά — ὑποψίας δ’ οὖν καὶ δείματος μεστὸς γίγνεται καὶ ἀναλογίζεται ἤδη καὶ σκοπεῖ εἴ τινά τι ἠδίκησεν.
+"And apart from that the man himself either from the weakness of old age or possibly as being now nearer to the things beyond has a somewhat clearer view of them. Be that as it may, he is filled with doubt, surmises, and alarms and begins to reckon up and consider whether he has ever wronged anyone."
+
+24995	ὁ μὲν οὖν εὑρίσκων ἑαυτοῦ ἐν τῷ βίῳ πολλὰ ἀδικήματα καὶ ἐκ τῶν ὕπνων, ὥσπερ οἱ παῖδες, θαμὰ ἐγειρόμενος δειμαίνει καὶ ζῇ μετὰ κακῆς ἐλπίδος.
+"Now he to whom the ledger of his life shows an account of many evil deeds starts up even from his dreams like children again and again in affright and his days are haunted by anticipations of worse to come."
+
+24996	τῷ δὲ μηδὲν ἑαυτῷ ἄδικον συνειδότι ἡδεῖα ἐλπὶς ἀεὶ πάρεστι καὶ ἀγαθὴ γηροτρόφος, ὡς καὶ Πίνδαρος λέγει.
+"But on him who is conscious of no wrong that he has done a sweet hope ever attends and a goodly to be nurse of his old age, as Pindar too says."
+
+24997	χαριέντως γάρ τοι, ὦ Σώκρατες, τοῦτ’ ἐκεῖνος εἶπεν, ὅτι ὃς ἂν δικαίως καὶ ὁσίως τὸν βίον διαγάγῃ, γλυκεῖά οἱ καρδίαν ἀτάλλοισα γηροτρόφος συναορεῖ ἐλπὶς ἃ μάλιστα θνατῶν πολύστροφον γνώμαν κυβερνᾷ.
+"For a beautiful saying it is, Socrates, of the poet that when a man lives out his days in justice and piety 'sweet companion with him, to cheer his heart and nurse his old age, accompanies Hope, who chiefly rules the changeful mind of mortals.'"
+
+24998	εὖ οὖν λέγει θαυμαστῶς ὡς σφόδρα.
+"That is a fine saying and an admirable."
+
+24999	πρὸς δὴ τοῦτ’ ἔγωγε τίθημι τὴν τῶν χρημάτων κτῆσιν πλείστου ἀξίαν εἶναι, οὔ τι παντὶ ἀνδρὶ ἀλλὰ τῷ ἐπιεικεῖ καὶ κοσμίῳ.
+"It is for this, then, that I affirm that the possession of wealth is of most value not it may be to every man but to the good man."
+
+25000	τὸ γὰρ μηδὲ ἄκοντά τινα ἐξαπατῆσαι ἢ ψεύσασθαι, μηδ’ αὖ ὀφείλοντα ἢ θεῷ θυσίας τινὰς ἢ ἀνθρώπῳ χρήματα ἔπειτα ἐκεῖσε ἀπι
+
+έναι δεδιότα, μέγα μέρος εἰς τοῦτο ἡ τῶν χρημάτων κτῆσις συμβάλλεται.
+"Not to cheat any man even unintentionally or play him false, not remaining in debt to a god for some sacrifice or to a man for money, so to depart in fear to that other world—to this result the possession of property contributes not a little."
+
+25001	ἔχει δὲ καὶ ἄλλας χρείας πολλάς.
+"It has also many other uses."
+
+25002	ἀλλὰ ἕν γε ἀνθ’ ἑνὸς οὐκ ἐλάχιστον ἔγωγε θείην ἂν εἰς τοῦτο ἀνδρὶ νοῦν ἔχοντι, ὦ Σώκρατες, πλοῦτον χρησιμώτατον εἶναι.
+"But, setting one thing against another, I would lay it down, Socrates, that for a man of sense this is the chief service of wealth."
+
+25003	παγκάλως, ἦν δ’ ἐγώ, λέγεις, ὦ Κέφαλε.
+"An admirable sentiment, Cephalus," said I.
+
+25004	τοῦτο δ’ αὐτό, τὴν δικαιοσύνην, πότερα τὴν ἀλήθειαν αὐτὸ φήσομεν εἶναι ἁπλῶς οὕτως καὶ τὸ ἀποδιδόναι ἄν τίς τι παρά του λάβῃ, ἢ καὶ αὐτὰ ταῦτα ἔστιν ἐνίοτε μὲν δικαίως, ἐνίοτε δὲ ἀδίκως ποιεῖν;
+"But speaking of this very thing, justice, are we to affirm thus without qualification that it is truth-telling and paying back what one has received from anyone, or may these very actions sometimes be just and sometimes unjust?"
+
+25005	οἷον τοιόνδε λέγω.
+"I mean, for example,"
+
+25006	πᾶς ἄν που εἴποι, εἴ τις λάβοι παρὰ φίλου ἀνδρὸς σωφρονοῦντος ὅπλα, εἰ μανεὶς ἀπαιτοῖ, ὅτι οὔτε χρὴ τὰ τοιαῦτα ἀποδιδόναι, οὔτε δίκαιος ἂν εἴη ὁ ἀποδιδούς, οὐδ’ αὖ πρὸς τὸν οὕτως ἔχοντα πάντα ἐθέλων τ- ἀληθῆ λέγειν.
+"As everyone I presume would admit, if one took over weapons from a friend who was in his right mind and then the lender should go mad and demand them back, that we ought not to return them in that case and that he who did so return them would not be acting justly—nor yet would he who chose to speak nothing but the truth to one who was in that state."
+
+25007	ὀρθῶς, ἔφη, λέγεις.
+"You are right," he replied.
+
+25008	οὐκ ἄρα οὗτος ὅρος ἐστὶν δικαιοσύνης, ἀληθῆ τε λέγειν καὶ ἃ ἂν λάβῃ τις ἀποδιδόναι.
+"Then this is not the definition of justice: to tell the truth and return what one has received."
+
+25009	πάνυ μὲν οὖν, ἔφη, ὦ Σώκρατες, ὑπολαβὼν ὁ Πολέμαρχος, εἴπερ γέ τι χρὴ Σιμωνίδῃ πείθεσθαι.
+"Nay, but it is, Socrates," said Polemarchus breaking in, "if indeed we are to put any faith in Simonides."
+
+25010	καὶ μέντοι, ἔφη ὁ Κέφαλος, καὶ παραδίδωμι ὑμῖν τὸν λόγον.
+"Very well," said Cephalus, "indeed I make over the whole argument to you. For it is time for me to attend the sacrifices."
+
+25011	δεῖ γάρ με ἤδη τῶν ἱερῶν ἐπιμεληθῆναι.
+"For it is time for me to attend to the sacred rites."
+
+25012	οὐκοῦν, ἔφη, ἐγώ, ὁ Πολέμαρχος, τῶν γε σῶν κληρονόμος;
+"Well," said I, "is not Polemarchus the heir of everything that is yours?"
+
+25013	πάνυ γε, ἦ δ’ ὅς γελάσας, καὶ ἅμα ᾔει πρὸς τὰ ἱερά.
+"Certainly," said he with a laugh, and at the same time went out to the sacred rites.
+
+25014	λέγε δή, εἶπον ἐγώ, σὺ ὁ τοῦ λόγου κληρονόμος, τί φῂς τὸν Σιμωνίδην λέγοντα ὀρθῶς λέγειν περὶ δικαιοσύνης;
+"Tell me, then, you the inheritor of the argument, what it is that you affirm that Simonides says and rightly says about justice."
+
+25015	ὅτι, ἦ δ’ ὅς, τὸ τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι δίκαιόν ἐστι.
+"That it is just," he replied, "to render to each his due."
+
+25016	τοῦτο λέγων δοκεῖ ἔμοιγε καλῶς λέγειν .
+In saying this I think he speaks well.”
+
+25064	μὴ ἐν καιρῷ ὁμοίως ;
+“Is not agriculture also useful when the time is right?”
+
+25065	ἀληθῆ.
+“True,” he replied.
+
+25066	ἀλλ’ οὖν τὸ δίκαιον τί ποτ’ ἐστὶ τοιοῦτον, ὅπερ ἐν ἐκείνῳ τῷ καιρῷ καὶ πολεμίῳ καὶ εἰρηνικῷ χρήσιμον ;
+“But what is this quality in justice which makes it useful both in war and peace?”
+
+25067	ἐπὶ πολλῷ, ἔφη, καὶ ἐν πόλει καὶ ἐν οἴκῳ.
+“In many ways,” he said, “both in a city and in a household.”
+
+25068	ἐν πόλει δή τοι πῶς ;
+“In a city, how so?”
+
+25069	ὅταν ἄρα τις αὐτὴν ἔχῃ, δυνατώτερος ὁ τοιοῦτος ἐστὶν καταλύειν τε καὶ οἰκοδομεῖν στρατιῶτας καὶ ἄλλα ἔργα ποιεῖν τὰ τῆς πόλεως ;
+“When someone possesses it, is he more capable of disbanding and enlisting soldiers and executing other works of the city?”
+
+25070	οὐδαμῶς.
+“Not at all.”
+
+25071	ἐν οἴκῳ δή ;
+“And in a household?”
+
+25072	οὐδὲ ἐν οἴκῳ, ἦν δ’ ἐγώ, τὸ δίκαιον ἐν τοῖς δούλοις καὶ ἐν τοῖς ἄλλοις πράγμασιν οὐδὲν πλέον ἢ τὸ ἀδίκαιον, ὅταν ἀλεκτρυόνων ἀγοράζῃ τε καὶ πωλεῖ καὶ θεραπείαν ἐπιτηδεύῃ ;
+“Nor in a household, right? Justice is no more useful than injustice when buying or selling roosters and caring for other things?”
+
+25073	ἀληθῆ, ἔφη.
+“True,” he said.
+
+25074	ἀλλ’ ἢ ἐπὶ τῶν τοιούτων οὐδέν τι ἡ δικαιοσύνη χρήσιμόν ἐστιν ;
+“But is justice not useful for such things?”
+
+25075	οὐδέν, ἔφη.
+“Not at all,” he said.
+
+25076	ἐπὶ τοῖς ἔμποροις, ἔφη ἐγώ, τὸ ἀδικεῖν πλεονέκτημά τι ἔχει ;
+“In dealings with merchants, does injustice have any advantage?”
+
+25077	οὐδαμῶς, ἔφη.
+“Not at all,” he replied.
+
+25078	ἢ ἐπὶ τοῖς ναυτ
+
+ιλλομένοις ἐν κινδύνῳ ;
+“Or for those navigating in danger?”
+
+25079	οὐδαμῶς, ἔφη.
+“Not at all,” he said.
+
+25080	ἢ ἐπὶ τῶν νοσοῦντων ;
+“Or for those who are ill?”
+
+25081	οὐδαμῶς.
+“Not at all.”
+
+25082	οὐδ’ ἐπὶ τῶν ἀθλούντων ;
+“Or for those competing in athletics?”
+
+25083	οὐδαμῶς.
+“Not at all.”
+
+25084	τί δὲ ἐπὶ τῶν δούλων ;
+“What about in relation to slaves?”
+
+25085	οὐδαμῶς, ἔφη.
+“Not at all,” he said.
+
+25086	ἢ ἐπὶ τοῖς ἐλευθέροις ;
+“Or for free men?”
+
+25087	οὐδαμῶς.
+“Not at all.”
+
+25088	ἢ ἐπὶ τῶν πολλῶν ;
+“Or for the many?”
+
+25089	οὐδαμῶς.
+“Not at all.”
+
+25090	τί οὖν ἐπὶ τίνι ἡ δικαιοσύνη χρήσιμόν ἐστιν ;
+“So for what, then, is justice useful?”
+
+25091	ἐπὶ τῷ πλούτῳ, ἔφη ἐγώ, ὅταν ἴδιον ἔχῃ τις καὶ φυλάττῃ ;
+“For wealth,” I said, “when one possesses something of his own and guards it?”
+
+25092	οὐδαμῶς, ἔφη.
+“Not at all,” he replied.
+
+25093	τί δὲ ἐπὶ τίνι ;
+“What then is it useful for?”
+
+25094	ἐπὶ τῷ πόλεμον ποιεῖν.
+“For making war.”
+
+25095	ἦ ἄρα, ἔφη, ὁ δίκαιος ἐν πολέμῳ ἀγαθὸς ἀνήρ ;
+“Is the just man then good in war?” he asked.
+
+25096	καὶ ἐν εἰρήνῃ.
+“And in peace too.”
+
+25097	ἀληθῆ.
+“True,” he said.
+
+25098	ἡ δικαιοσύνη ἄρα ἐπὶ τῷ ἀγαθῷ ἀνδρὶ χρήσιμος ;
+“So justice is useful for a good man?”
+
+25099	οὐδαμῶς, ἔφη.
+“Not at all,” he said.
+
+25100	ἡ δικαιοσύνη ἄρα οὐδαμοῦ χρήσιμος ;
+“So is justice not useful anywhere?”
+
+25101	οὐδαμοῦ, ἔφη.
+“Nowhere,” he said.
+
+25002	ἀλλὰ ἕν γε ἀνθ’ ἑνὸς οὐκ ἐλάχιστον ἔγωγε θείην ἂν εἰς τοῦτο ἀνδρὶ νοῦν ἔχοντι, ὦ Σώκρατες, πλοῦτον χρησιμώτατον εἶναι.
+"But, setting one thing against another, I would lay it down, Socrates, that for a man of sense this is the chief service of wealth.”
+
+25003	παγκάλως, ἦν δ’ ἐγώ, λέγεις, ὦ Κέφαλε.
+"An admirable sentiment, Cephalus," said I.
+
+25004	τοῦτο δ’ αὐτό, τὴν δικαιοσύνην, πότερα τὴν ἀλήθειαν αὐτὸ φήσομεν εἶναι ἁπλῶς οὕτως καὶ τὸ ἀποδιδόναι ἄν τίς τι παρά του λάβῃ, ἢ καὶ αὐτὰ ταῦτα ἔστιν ἐνίοτε μὲν δικαίως, ἐνίοτε δὲ ἀδίκως ποιεῖν;
+"But speaking of this very thing, justice, are we to affirm thus without qualification that it is truth-telling and paying back what one has received from anyone, or may these very actions sometimes be just and sometimes unjust?
+
+25005	οἷον τοιόνδε λέγω:
+I mean, for example,
+
+25006	πᾶς ἄν που εἴποι, εἴ τις λάβοι παρὰ φίλου ἀνδρὸς σωφρονοῦντος ὅπλα, εἰ μανεὶς ἀπαιτοῖ, ὅτι οὔτε χρὴ τὰ τοιαῦτα ἀποδιδόναι, οὔτε δίκαιος ἂν εἴη ὁ ἀποδιδούς, οὐδ’ αὖ πρὸς τὸν οὕτως ἔχοντα πάντα ἐθέλων τ- ἀληθῆ λέγειν.
+as everyone I presume would admit, if one took over weapons from a friend who was in his right mind and then the lender should go mad and demand them back, that we ought not to return them in that case and that he who did so return them would not be acting justly—nor yet would he who chose to speak nothing but the truth to one who was in that state.
+
+25007	ὀρθῶς, ἔφη, λέγεις.
+"You are right," he replied.
+
+25008	οὐκ ἄρα οὗτος ὅρος ἐστὶν δικαιοσύνης, ἀληθῆ τε λέγειν καὶ ἃ ἂν λάβῃ τις ἀποδιδόναι.
+"Then this is not the definition of justice: to tell the truth and return what one has received."
+
+25009	πάνυ μὲν οὖν, ἔφη,
+
+ ὦ Σώκρατες, ὑπολαβὼν ὁ Πολέμαρχος, εἴπερ γέ τι χρὴ Σιμωνίδῃ πείθεσθαι.
+"Nay, but it is, Socrates," said Polemarchus breaking in, "if indeed we are to put any faith in Simonides."
+
+25010	καὶ μέντοι, ἔφη ὁ Κέφαλος, καὶ παραδίδωμι ὑμῖν τὸν λόγον;
+“Very well,” said Cephalus, “indeed I make over the whole argument to you.
+
+25011	δεῖ γάρ με ἤδη τῶν ἱερῶν ἐπιμεληθῆναι.
+For it is time for me to attend the sacrifices.”
+
+25012	οὐκοῦν, ἔφη, ἐγώ, ὁ Πολέμαρχος, τῶν γε σῶν κληρονόμος;
+“Well,” said I, “is not Polemarchus the heir of everything that is yours?”
+
+25013	πάνυ γε, ἦ δ’ ὃς γελάσας, καὶ ἅμα ᾔει πρὸς τὰ ἱερά.
+“Certainly,” said he with a laugh, and at the same time went out to the sacred rites.
+
+25014	λέγε δή, εἶπον ἐγώ, σὺ ὁ τοῦ λόγου κληρονόμος, τί φῂς τὸν Σιμωνίδην λέγοντα ὀρθῶς λέγειν περὶ δικαιοσύνης;
+“Tell me, then, you the inheritor of the argument, what it is that you affirm that Simonides says and rightly says about justice.”
+
+25015	ὅτι, ἦ δ’ ὅς, τὸ τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι δίκαιόν ἐστι;
+“That it is just,” he replied, “to render to each his due.”
+
+25016	τοῦτο λέγων δοκεῖ ἔμοιγε καλῶς λέγειν.
+“In saying this I think he speaks well.”
+
+25017 ἀλλὰ μέντοι, ἦν δ’ ἐγώ, Σιμωνίδῃ γε οὐ ῥᾴδιον ἀπιστεῖν — σοφὸς γὰρ καὶ θεῖος ἀνήρ — τοῦτο μέντοι ὅτι ποτὲ λέγει, σὺ μέν, ὦ Πολέμαρχε, ἴσως γιγνώσκεις, ἐγὼ δὲ ἀγνοῶ.
+"But indeed, it's not easy to distrust Simonides, for he is a wise and divine man. However, as for what he meant by this, Polemarchus, you may know, but I am ignorant."
+
+25018 δῆλον γὰρ ὅτι οὐ τοῦτο λέγει, ὅπερ ἄρτι ἐλέγομεν, τό τινος παρακαταθεμένου τι ὁτῳοῦν μὴ σωφρόνως ἀπαιτοῦντι ἀποδιδόναι.
+"For obviously he does not mean what we were just speaking of, that is, to return something deposited by someone to anyone who demands it foolishly."
+
+25019 καίτοι γε ὀφειλόμενόν πού ἐστιν τοῦτο ὃ παρακατέθετο · ἦ γάρ ;
+"And yet what is deposited is in some sense owed, isn't it?"
+
+25020 ἦ γάρ.
+"Yes, indeed."
+
+25021 ἀποδοτέον δέ γε οὐδ’ ὁπωστιοῦν τότε ὁπότε τις μὴ σωφρόνως ἀπαιτοῖ;
+"But it should not be returned under any circumstances when someone demands it in an unreasonable state, right?"
+
+25022 ἀληθῆ, ἦ δ’ ὅς.
+"True," he said.
+
+25023 ἄλλο δή τι ἢ τὸ τοιοῦτον, ὡς ἔοικεν, λέγει Σιμωνίδης τὸ τὰ ὀφειλόμενα δίκαιον εἶναι ἀποδιδόναι.
+"It seems, then, that Simonides means something other than this when he says that it is just to render back what is owed."
+
+25024 ἄλλο μέντοι νὴ Δί’ , ἔφη ·
+"Something else, indeed, by Zeus," he said.
+
+25025 τοῖς γὰρ φίλοις οἴεται ὀφείλειν τοὺς φίλους ἀγαθὸν μέν τι δρᾶν, κακὸν δὲ μηδέν.
+"For he thinks that friends owe it to friends to do some good and no evil."
+
+25026 μανθάνω, ἦν δ’ ἐγώ — ὅτι οὐ τὰ ὀφειλόμενα ἀποδίδωσιν ὃς ἄν τῳ χρυσίον ἀποδῷ παρακαταθεμένῳ, ἐάνπερ ἡ ἀπόδοσις καὶ ἡ λῆψις βλαβερὰ γίγνηται, φίλοι δὲ ὦσιν ὅ τε ἀπολαμβάνων καὶ ὁ ἀποδιδούς — οὐχ οὕτω λέγειν φῂς τὸν Σιμωνίδην ;
+"I understand," said I, "that he who returns gold to someone who deposited it does not render what is due if the return and receipt are harmful, and both the returner and the recipient are friends. Isn't this what you say Simonides means?"
+
+25027 πάνυ μὲν οὖν.
+"Quite so," he affirmed.
+
+25028 τί δέ; τοῖς ἐχθροῖς ἀποδοτέον ὅτι ἂν τύχῃ ὀφειλόμενον;
+"What then? Should one render to enemies whatever happens to be owed?"
+
+25029 παντάπασι μὲν οὖν, ἔφη, ὅ γε ὀφείλεται αὐτοῖς, ὀφείλεται δέ γε οἶμαι παρά γε τοῦ ἐχθροῦ τῷ ἐχθρῷ ὅπερ καὶ προσήκει, κακόν τι.
+"Absolutely," he said, "whatever is owed to them, and what is due from an enemy to an enemy, I suppose, is something evil."
+
+25030 ἠινίξατο ἄρα, ἦν δ’ ἐγώ, ὡς ἔοικεν, ὁ Σιμωνίδης ποιητικῶς τὸ δίκαιον ὃ εἴη.
+"So it seems, Simonides, like a poet, has given us a riddling definition of justice," I said.
+
+25031 διενοεῖτο μὲν γάρ, ὡς φαίνεται, ὅτι τοῦτ’ εἴη δίκαιον, τὸ προσῆκον ἑκάστῳ ἀποδιδόναι, τοῦτο δὲ ὠνόμασεν ὀφειλόμενον.
+"For it appears that his intent was to define justice as rendering to each what befits him, which he named as being due."
+
+25032 ἀλλὰ τί οἴει; ἔφη.
+"But what do you think?" he asked.
+
+25033 ὦ πρὸς Διός, ἦν δ’ ἐγώ, εἰ οὖν τις αὐτὸν ἤρετο: ὦ Σιμωνίδη, ἡ τίσιν οὖν τί ἀποδιδοῦσα ὀφειλόμενον καὶ προσῆκον τέχνη ἰατρικὴ καλεῖται;
+"By Zeus," I said, "suppose someone were to ask Simonides: 'Simonides, what is that art called which renders what is due and appropriate as a recompense? Is it not called medicine?'"
+
+25034 τί ἂν οἴει ἡμῖν αὐτὸν ἀποκρίνασθαι;
+"What do you think he would reply to us?"
+
+
+
+25035	ἔφη.
+he said.
+
+25036	ὦ πρὸς Διός, ἦν δ’ ἐγώ, εἰ οὖν τις αὐτὸν ἤρετο:
+“In heaven’s name,” said I, “if someone had asked him:
+
+25037	ὦ Σιμωνίδη, ἡ τίσιν οὖν τί ἀποδιδοῦσα ὀφειλόμενον καὶ προσῆκον τέχνη ἰατρικὴ καλεῖται;
+‘Tell me, Simonides, is the art that renders what is due and fitting, called the art of medicine?'
+
+25038	τί ἂν οἴει ἡμῖν αὐτὸν ἀποκρίνασθαι;
+What do you think he would have replied to us?”
+
+25039	δῆλον ὅτι, ἔφη, ἡ σώμασιν φάρμακά τε καὶ σιτία καὶ ποτά.
+“Obviously,” he said, “the art that administers drugs, foods, and drinks to bodies.”
+
+25040	ἡ δὲ τίσιν τί ἀποδιδοῦσα ὀφειλόμενον καὶ προσῆκον τέχνη μαγειρικὴ καλεῖται;
+“And what is the art called that renders what is due and fitting in the culinary art?”
+
+25041	ἡ τοῖς ὄψοις τὰ ἡδύσματα.
+“The one that adds seasonings to dishes.”
+
+25042	εἶεν;
+“Go on.”
+
+25043	ἡ οὖν δὴ τίσιν τί ἀποδιδοῦσα τέχνη δικαιοσύνη ἂν καλοῖτο;
+“So then, what art that renders what to whom would be called justice?”
+
+25044	εἰ μέν τι, ἔφη, δεῖ ἀκολουθεῖν, ὦ Σώκρατες, τοῖς ἔμπροσθεν εἰρημένοις, ἡ τοῖς φίλοις τε καὶ ἐχθροῖς ὠφελίας τε καὶ βλάβας ἀποδιδοῦσα.
+“If indeed we are to follow what was said earlier, Socrates,” he said, “it would be the art that renders benefits and harms to friends and enemies.”
+
+25045	τὸ τοὺς φίλους ἄρα εὖ ποιεῖν καὶ τοὺς ἐχθροὺς κακῶς δικαιοσύνην λέγει;
+“Then, does justice mean doing good to friends and evil to enemies?”
+
+25046	δοκεῖ μοι.
+“It seems so to me.”
+
+25047	τίς οὖν δυνατώτατος κάμνοντας φίλους εὖ ποιεῖν καὶ ἐχθροὺς κακῶς πρὸς νόσον καὶ ὑγίειαν;
+“Who then is most able to benefit friends and harm enemies in sickness and health?”
+
+25048	ἰατρός
+
+.
+“The physician.”
+
+25049	τίς δὲ πλέοντας πρὸς τὸν τῆς θαλάττης κίνδυνον;
+“And who in respect to the perils of the sea?”
+
+25050	κυβερνήτης.
+“The pilot.”
+
+25051	τί δὲ ὁ δίκαιος;
+“And what about the just man?”
+
+25052	ἐν τίνι πράξει καὶ πρὸς τί ἔργον δυνατώτατος φίλους ὠφελεῖν καὶ ἐχθροὺς βλάπτειν;
+“In what action and for what work is he most competent to benefit friends and harm enemies?”
+
+25053	ἐν τῷ προσπολεμεῖν καὶ ἐν τῷ συμμαχεῖν, ἔμοιγε δοκεῖ.
+“In making war and as an ally, I should say.”
+
+25054	εἶεν;
+“Go on.”
+
+25055	μὴ κάμνουσί γε μήν, ὦ φίλε Πολέμαρχε, ἰατρὸς ἄχρηστος.
+“Indeed, friend Polemarchus, the physician is useless to those who are not sick.”
+
+25056	ἀληθῆ.
+“True.”
+
+25057	καὶ μὴ πλέουσι δὴ κυβερνήτης.
+“And so to those who are not at sea, the pilot.”
+
+25058	ναί.
+“Yes.”
+
+25059	ἆρα καὶ τοῖς μὴ πολεμοῦσιν ὁ δίκαιος ἄχρηστος;
+“Then, is the just man useless to those who are not at war?”
+
+25060	οὐ πάνυ μοι δοκεῖ τοῦτο.
+“I do not think so.”
+
+25061	χρήσιμον ἄρα καὶ ἐν εἰρήνῃ δικαιοσύνη;
+“So justice is useful even in peace?”
+
+25062	χρήσιμον.
+“Useful.”
+
+25063	καὶ γὰρ γεωργία;
+“And so is agriculture, 
+
+25064	ἢ οὔ ;
+isn't it?”
+
+25065	ναί.
+“Yes.”
+
+25066	πρός γε καρποῦ κτῆσιν;
+“Namely, for the getting of a harvest?”
+
+25067	ναί.
+“Yes.”
+
+25068	καὶ μὴν καὶ σκυτοτομική;
+“But likewise the cobbler's art?”
+
+25069	ναί.
+“Yes.”
+
+25070	πρός γε ὑποδημάτων ἂν οἶμαι φαίης κτῆσιν;
+“Namely, I presume you would say, for the getting of shoes.”
+
+25071	πάνυ γε.
+“Certainly.”
+
+25072	τί δὲ δή;
+“Then tell me, for the service and getting of what would you say that justice is useful in time of peace?”
+
+25073	τὴν δικαιοσύνην πρὸς τίνος χρείαν ἢ κτῆσιν ἐν εἰρήνῃ φαίης ἂν χρήσιμον εἶναι;
+“In engagements and dealings, Socrates.”
+
+25074	πρὸς τὰ συμβόλαια, ὦ Σώκρατες.
+“And by dealings do you mean associations, partnerships, or something else?”
+
+25075	συμβόλαια δὲ λέγεις κοινωνήματα ἤ τι ἄλλο;
+“Associations, of course.”
+
+25076	κοινωνήματα δῆτα.
+“Is it the just man, then, who is a good and useful associate and partner in the placing of draughts or the draught-player?”
+
+25077	ἆρ’ οὖν ὁ δίκαιος ἀγαθὸς καὶ χρήσιμος κοινωνὸς εἰς πεττῶν θέσιν, ἢ ὁ πεττευτικός;
+“The player.”
+
+25078	ὁ πεττευτικός.
+“And in the placing of bricks and stones is the just man a more useful and better associate than the builder?”
+
+25079	ἀλλ’ εἰς πλίνθων καὶ λίθων θέσιν ὁ δίκαιος χρησιμώτερός τε καὶ ἀμείνων κοινωνὸς τοῦ οἰκοδομικοῦ;
+“By no means.”
+
+25080	οὐδαμῶς.
+“Then what is the association in which the just man is a better partner than the harpist as a harpist is better than the just man for striking the chords?”
+
+25081	ἀλλ’ εἰς τίνα δὴ κοινωνίαν ὁ δίκαιος ἀμείνων κοινωνὸς τοῦ οἰκοδομικοῦ τε καὶ κιθαριστικοῦ, ὥσπερ ὁ κιθαριστικὸς τοῦ δικαίου εἰς κρουμάτων;
+“For money-dealings, I think.”
+
+25082	εἰς ἀργυρίου, ἔμοιγε δοκεῖ.
+“Except, I presume, Polemarchus, for the use of money when there is occasion to buy in common or sell a horse. Then, I take it, the man who knows horses, isn't it so?”
+
+25083	πλήν γ’ ἴσως, ὦ
+
+ Πολέμαρχε, πρὸς τὸ χρῆσθαι ἀργυρίῳ, ὅταν δέῃ ἀργυρίου κοινῇ πρίασθαι ἢ ἀποδόσθαι ἵππον;
+“Apparently.”
+
+25084	τότε δέ, ὡς ἐγὼ οἶμαι, ὁ ἱππικός.
+“And again, if it is a vessel, the shipwright or the pilot.”
+
+25085	ἦ γάρ;
+“It would seem so.”
+
+25086	φαίνεται.
+“And again, if it is a vessel, the shipwright or the pilot.”
+
+25087	καὶ μὴν ὅταν γε πλοῖον, ὁ ναυπηγὸς ἢ ὁ κυβερνήτης;
+“What then is the use of money in common for which a just man is the better partner?”
+
+25088	ἔοικεν.
+“When it is to be deposited and kept safe, Socrates.”
+
+25089	ὅταν οὖν τί δέῃ ἀργυρίῳ ἢ χρυσίῳ κοινῇ χρῆσθαι, ὁ δίκαιος χρησιμώτερος τῶν ἄλλων;
+“You mean when it is to be put to no use but is to lie idle?”
+
+25090	ὅταν παρακαταθέσθαι καὶ σῶν εἶναι, ὦ Σώκρατες.
+“Quite so.”
+
+25091	οὐκοῦν λέγεις ὅταν μηδὲν δέῃ αὐτῷ χρῆσθαι ἀλλὰ κεῖσθαι;
+“Then it is when money is useless that justice is useful in relation to it?”
+
+25092	πάνυ γε.
+“It looks that way.”
+
+25093	ὅταν ἄρα ἄχρηστον ᾖ ἀργύριον, τότε χρήσιμος ἐπ’ αὐτῷ ἡ δικαιοσύνη;
+“And similarly when a scythe is to be kept safe, then justice is useful both in public and private. But when it is to be used, the vinedresser's art is useful?”
+
+25094	κινδυνεύει.
+“Apparently.”
+
+25095	καὶ ὅταν δὴ δρέπανον δέῃ φυλάττειν, ἡ δικαιοσύνη χρήσιμος καὶ κοινῇ καὶ ἰδίᾳ;
+“And so you will have to say that when a shield and a lyre are to be kept and put to no use, justice is useful, but when they are to be made use of, the military art and music.”
+
+25096	ὅταν δὲ χρῆσθαι, ἡ ἀμπελουργική;
+“Necessarily.”
+
+25097	φαίνεται.
+“And so in all other cases, in the use of each thing, justice is useless but in its uselessness useful?”
+
+
+25098 φήσεις δὲ καὶ ἀσπίδα καὶ λύραν ὅταν δέῃ φυλάττειν καὶ μηδὲν χρῆσθαι, χρήσιμον εἶναι τὴν δικαιοσύνην, ὅταν δὲ χρῆσθαι, τὴν ὁπλιτικὴν καὶ τὴν μουσικήν;
+"And so you will have to say that when a shield and a lyre are to be kept and put to no use, justice is useful, but when they are to be made use of, the military art and music."
+
+25099 ἀνάγκη.
+"Necessarily."
+
+25100 καὶ περὶ τ- ἄλλα δὴ πάντα ἡ δικαιοσύνη ἑκάστου ἐν μὲν χρήσει ἄχρηστος, ἐν δὲ ἀχρηστίᾳ χρήσιμος;
+"And so in all other cases, in the use of each thing, justice is useless but in its uselessness useful?"
+
+25101 κινδυνεύει.
+"It looks that way."
+
+25102 οὐκ ἂν οὖν, ὦ φίλε, πάνυ γέ τι σπουδαῖον εἴη ἡ δικαιοσύνη, εἰ πρὸς τὰ ἄχρηστα χρήσιμον ὂν τυγχάνει.
+"Then, my friend, justice cannot be a thing of much worth if it is useful only for things out of use and useless."
+
+25103 τόδε δὲ σκεψώμεθα.
+"But let us consider this point."
+
+25104 ἆρ’ οὐχ ὁ πατάξαι δεινότατος ἐν μάχῃ εἴτε πυκτικῇ εἴτε τινὶ καὶ ἄλλῃ, οὗτος καὶ φυλάξασθαι;
+"Is not the man who is most skilful to strike or inflict a blow in a fight, whether as a boxer or elsewhere, also the most wary to guard against a blow?"
+
+25105 πάνυ γε.
+"Assuredly."
+
+25106 ἆρ’ οὖν καὶ νόσον ὅστις δεινὸς φυλάξασθαι, καὶ λαθεῖν οὗτος δεινότατος ἐμποιήσας;
+"Is it not also true that he who best knows how to guard against disease is also most cunning to communicate it and escape detection?"
+
+25107 ἔμοιγε δοκεῖ.
+"I think so."
+
+25108 ἀλλὰ μὴν στρατοπέδου γε ὁ αὐτὸς φύλαξ ἀγαθός, ὅσπερ καὶ τὰ τῶν πολεμίων κλέψαι καὶ βουλεύματα καὶ τὰς ἄλλας πράξεις;
+"But again the very same man is a good guardian of an army who is good at stealing a march upon the enemy in respect of their designs and proceedings generally."
+
+25109 πάνυ γε.
+“Certainly.”
+
+25110 ὅτου τις ἄρα δεινὸς φύλαξ, τούτου καὶ φὼρ δεινός.
+“Of whatsoever, then, anyone is a skilful guardian, of that he is also a skilful thief?”
+
+25111 ἔοικεν.
+“It seems so.”
+
+25112 εἰ ἄρα ὁ δίκαιος ἀργύριον δεινὸς φυλάττειν, καὶ κλέπτειν δεινός.
+“If then the just man is an expert in guarding money, he is an expert in stealing it.”
+
+25113 ὡς γοῦν ὁ λόγος, ἔφη, σημαίνει.
+“The argument certainly points that way,” he said.
+
+25114 κλέπτης ἄρα τις ὁ δίκαιος, ὡς ἔοικεν, ἀναπέφανται, καὶ κινδυνεύεις παρ’ Ὁμήρου μεμαθηκέναι αὐτό.
+“A kind of thief then the just man it seems has turned out to be, and it is likely that you acquired this idea from Homer.”
+
+25115 καὶ γὰρ ἐκεῖνος τὸν τοῦ Ὀδυσσέως πρὸς μητρὸς πάππον Αὐτόλυκον ἀγαπᾷ τε καί φησιν αὐτὸν πάντας ἀνθρώπους κεκάσθαι κλεπτοσύνῃ θ’ ὅρκῳ τε.
+“For he regards with complacency Autolycus, the maternal uncle of Odysseus, and says he was gifted beyond all men in thievery and perjury.”
+
+25116 ἔοικεν οὖν ἡ δικαιοσύνη καὶ κατὰ σὲ καὶ καθ’ Ὅμηρον καὶ κατὰ Σιμωνίδην κλεπτική τις εἶναι, ἐπ’ ὠφελίᾳ μέντοι τῶν φίλων καὶ ἐπὶ βλάβῃ τῶν ἐχθρῶν.
+“So justice, according to you and Homer and Simonides, seems to be a kind of stealing, for the benefit of friends and the harm of enemies.”
+
+25117 οὐχ οὕτως ἔλεγες;
+“Isn't that what you meant?”
+
+25118 οὐ μὰ τὸν Δί’, ἔφη, ἀλλ’ οὐκέτι οἶδα ἔγωγε ὅτι ἔλεγον.
+“No, by Zeus,” he replied, “I no longer know what I did mean.”
+
+25119 τοῦτο μέντοι ἔμοιγε δοκεῖ ἔτι, ὠφελεῖν μὲν τοὺς φίλους ἡ δικαιοσύνη, βλάπτειν δὲ τοὺς ἐχθρούς.
+“Yet this I still believe, that justice benefits friends and harms enemies.”
+
+25120 φίλους δὲ λέγεις εἶναι πότερο
+
+ν τοὺς δοκοῦντας ἑκάστῳ χρηστοὺς εἶναι, ἢ τοὺς ὄντας, κἂν μὴ δοκῶσι, καὶ ἐχθροὺς ὡσαύτως;
+“May I ask whether by friends you mean those who seem to a man to be worthy, or those who really are so, even if they do not seem, and similarly of enemies?”
+
+25121 εἰκὸς μέν, ἔφη, οὓς ἄν τις ἡγῆται χρηστοὺς φιλεῖν, οὓς δ’ ἂν πονηροὺς μισεῖν.
+“It is likely,” he said, “that men will love those whom they suppose to be good and dislike those whom they deem bad.”
+
+25122 ἆρ’ οὖν οὐχ ἁμαρτάνουσιν οἱ ἄνθρωποι περὶ τοῦτο, ὥστε δοκεῖν αὐτοῖς πολλοὺς μὲν χρηστοὺς εἶναι μὴ ὄντας, πολλοὺς δὲ τ- ἐναντίον;
+“Do not men make mistakes in this matter so that many seem good to them who are not and the reverse?”
+
+25123 ἁμαρτάνουσιν.
+“They do.”
+
+25124 τούτοις ἄρα οἱ μὲν ἀγαθοὶ ἐχθροί, οἱ δὲ κακοὶ φίλοι;
+“For those, then, who thus err, the good are their enemies and the bad their friends?”
+
+25125 πάνυ γε.
+“Certainly.”
+
+25126 ἀλλ’ ὅμως δίκαιον τότε τούτοις τοὺς μὲν πονηροὺς ὠφελεῖν, τοὺς δὲ ἀγαθοὺς βλάπτειν;
+“But all the same, is it just for them to benefit the bad and injure the good?”
+
+25127 φαίνεται.
+“It would seem so.”
+
+25128 ἀλλὰ μὴν οἵ γε ἀγαθοὶ δίκαιοί τε καὶ οἷοι μὴ ἀδικεῖν;
+“But again, the good are just and incapable of injustice?”
+
+25129 ἀληθῆ.
+“True.”
+
+25130 κατὰ δὴ τὸν σὸν λόγον τοὺς μηδὲν ἀδικοῦντας δίκαιον κακῶς ποιεῖν.
+“On your reasoning, then, it is just to wrong those who do no injustice.”
+
+25131 μηδαμῶς, ἔφη, ὦ Σώκρατες; 
+“Not at all, Socrates,” he said,
+
+25132	πονηρὸς γὰρ ἔοικεν εἶναι ὁ λόγος .
+"For the argument seems to be wicked."
+
+25133	τοὺς ἀδίκους ἄρα , ἦν δ’ ἐγώ , δίκαιον βλάπτειν , τοὺς δὲ δικαίους ὠφελεῖν ;
+"Then, I said, is it just to harm the unjust and to benefit the just?"
+
+25134	οὗτος ἐκείνου καλλίων φαίνεται .
+"That seems a better conclusion than the other."
+
+25135	πολλοῖς ἄρα , ὦ Πολέμαρχε , συμβήσεται , ὅσοι διημαρτήκασιν τῶν ἀνθρώπων , δίκαιον εἶναι τοὺς μὲν φίλους βλάπτειν — πονηροὶ γὰρ αὐτοῖς εἰσιν — τοὺς δ’ ἐχθροὺς ὠφελεῖν — ἀγαθοὶ γάρ ·
+"Then, Polemarchus, it will happen to many, who have misjudged men, that it is just to harm their friends—for they are wicked to them—and to benefit their enemies—for they are good."
+
+25136	καὶ οὕτως ἐροῦμεν αὐτὸ τ- ἐναντίον ἢ τὸν Σιμωνίδην ἔφαμεν λέγειν .
+"And so we shall find ourselves saying the very opposite of what we affirmed Simonides to mean."
+
+25137	καὶ μάλα , ἔφη , οὕτω συμβαίνει .
+"Most certainly," he said, "it does work out so."
+
+25138	ἀλλὰ μεταθώμεθα ·
+"But let us change our ground."
+
+25139	κινδυνεύομεν γὰρ οὐκ ὀρθῶς τὸν φίλον καὶ ἐχθρὸν θέσθαι .
+"For it looks as if we were wrong in the notion we took up about the friend and the enemy."
+
+25140	πῶς θέμενοι , ὦ Πολέμαρχε ;
+"What notion, Polemarchus?"
+
+25141	τὸν δοκοῦντα χρηστόν , τοῦτον φίλον εἶναι .
+"That the man who seems to us good is the friend."
+
+25142	νῦν δὲ πῶς , ἦν δ’ ἐγώ , μεταθώμεθα ;
+"And to what shall we change it now?" said I.
+
+25143	τὸν δοκοῦντά τε , ἦ δ’ ὅς , καὶ τὸν ὄντα χρηστὸν φίλον ·
+"That the man who both seems and is good is the friend,"
+
+25144	τὸν δὲ δοκοῦντα μέν , ὄντα δὲ μή , δοκεῖν ἀλλὰ μὴ εἶναι φίλον .
+"but that he who seems but is not really so seems but is not really the friend."
+
+25145	καὶ περὶ τοῦ ἐχθροῦ δὲ ἡ αὐτὴ θέσις .
+"And there will be the same assumption about the enemy."
+
+25146	φίλος μὲν δή , ὡς ἔοικε , τούτῳ τῷ λόγῳ ὁ ἀγαθὸς ἔσται , ἐχθρὸς δὲ ὁ πονηρός .
+"Then on this view it appears the friend will be the good man and the bad the enemy."
+
+25147	ναί .
+"Yes."
+
+25148	κελεύεις δὴ ἡμᾶς προσθεῖναι τῷ δικαίῳ ἢ ὡς τὸ πρῶτον ἐλέγομεν , λέγοντες δίκαιον εἶναι τὸν μὲν φίλον εὖ ποιεῖν , τὸν δ’ ἐχθρὸν κακῶς ·
+"So you would have us qualify our former notion of the just man by an addition. We then said it was just to do good to a friend and evil to an enemy,"
+
+25149	νῦν πρὸς τούτῳ ὧδε λέγειν , ὅτι ἔστιν δίκαιον τὸν μὲν φίλον ἀγαθὸν ὄντα εὖ ποιεῖν , τὸν δ’ ἐχθρὸν κακὸν ὄντα βλάπτειν ;
+"but now we are to add that it is just to benefit the friend if he is good and harm the enemy if he is bad?"
+
+25150	πάνυ μὲν οὖν , ἔφη , οὕτως ἄν μοι δοκεῖ καλῶς λέγεσθαι .
+"By all means," he said, "that, I think, would be the right way to put it."
+
+25151	ἔστιν ἄρα , ἦν δ’ ἐγώ , δικαίου ἀνδρὸς βλάπτειν καὶ ὁντινοῦν ἀνθρώπων ;
+"Is it then," said I, "the part of a good man to harm anybody whatsoever?"
+
+25152	καὶ πάνυ γε , ἔφη ·
+"Certainly it is," he replied;
+
+25153	τούς γε πονηρούς τε καὶ ἐχθροὺς δεῖ βλάπτειν .
+"a man ought to harm those who are both bad and his enemies."
+
+25154	βλαπτόμενοι δ’ ἵπποι βελτίους ἢ χεί
+
+ρους γίγνονται ;
+"When horses are harmed does it make them better or worse?"
+
+25155	χείρους .
+"Worse."
+
+25156	ἆρα εἰς τὴν τῶν κυνῶν ἀρετήν , ἢ εἰς τὴν τῶν ἵππων ;
+"In respect of the excellence or virtue of dogs or that of horses?"
+
+25157	εἰς τὴν τῶν ἵππων .
+"Of horses."
+
+25158	ἆρ’ οὖν καὶ κύνες βλαπτόμενοι χείρους γίγνονται εἰς τὴν τῶν κυνῶν ἀλλ’ οὐκ εἰς τὴν τῶν ἵππων ἀρετήν ;
+"And do not also dogs when harmed become worse in respect of canine and not of equine virtue?"
+
+25159	ἀνάγκη .
+"Necessarily."
+
+25160	ἀνθρώπους δέ , ὦ ἑταῖρε , μὴ οὕτω φῶμεν , βλαπτομένους εἰς τὴν ἀνθρωπείαν ἀρετὴν χείρους γίγνεσθαι ;
+"And men, my dear fellow, must we not say that when they are harmed it is in respect of the distinctive excellence or virtue of man that they become worse?"
+
+25161	πάνυ μὲν οὖν .
+"Assuredly."
+
+25162	ἀλλ’ ἡ δικαιοσύνη οὐκ ἀνθρωπεία ἀρετή ;
+"And is not justice the specific virtue of man?"
+
+25163	καὶ τοῦτ’ ἀνάγκη .
+"That too must be granted."
+
+25164	καὶ τοὺς βλαπτομένους ἄρα , ὦ φίλε , τῶν ἀνθρώπων ἀνάγκη ἀδικωτέρους γίγνεσθαι .
+"Then it must also be admitted, my friend, that men who are harmed become more unjust."
+
+25165	ἔοικεν .
+"It seems so."
+
+25166	ἆρ’ οὖν τῇ μουσικῇ οἱ μουσικοὶ ἀμούσους δύνανται ποιεῖν ;
+"Do musicians then make men unmusical by the art of music?"
+
+25167	ἀδύνατον .
+"Impossible."
+
+25168	ἀλλὰ τῇ ἱππικῇ οἱ ἱππικοὶ ἀφίππους ;
+"Well, do horsemen by horsemanship unfit men for dealing with horses?"
+
+25169	οὐκ ἔστιν .
+"No."
+
+25170	ἀλλὰ τῇ δικαιοσύνῃ δὴ οἱ δίκαιοι ἀδίκους ;
+"By justice then do the just make men unjust,"
+
+25171	ἢ καὶ συλλήβδην ἀρετῇ οἱ ἀγαθοὶ κακούς ;
+"or in sum do the good by virtue make men bad?"
+
+25172	ἀλλὰ ἀδύνατον .
+"Nay, it is impossible."
+
+25173	οὐ γὰρ
+
+25173	οὐ γὰρ θερμότητος οἶμαι ἔργον ψύχειν ἀλλὰ τοῦ ἐναντίου .
+"It is not, I take it, the function of heat to chill but of its opposite."
+
+25174	ναί .
+"Yes."
+
+25175	οὐδὲ ξηρότητος ὑγραίνειν ἀλλὰ τοῦ ἐναντίου .
+"Nor of dryness to moisten but of its opposite."
+
+25176	πάνυ γε .
+"Assuredly."
+
+25177	οὐδὲ δὴ τοῦ ἀγαθοῦ βλάπτειν ἀλλὰ τοῦ ἐναντίου .
+"Nor yet of the good to harm but of its opposite."
+
+25178	φαίνεται .
+"So it appears."
+
+25179	ὁ δέ γε δίκαιος ἀγαθός ;
+"But the just man is good?"
+
+25180	πάνυ γε .
+"Certainly."
+
+25181	οὐκ ἄρα τοῦ δικαίου βλάπτειν ἔργον , ὦ Πολέμαρχε , οὔτε φίλον οὔτ’ ἄλλον οὐδένα , ἀλλὰ τοῦ ἐναντίου , τοῦ ἀδίκου .
+"It is not then the function of the just man, Polemarchus, to harm either friend or anyone else, but of his opposite, the unjust."
+
+25182	παντάπασί μοι δοκεῖς ἀληθῆ λέγειν , ἔφη , ὦ Σώκρατες .
+"I think you are altogether right, Socrates," he said.
+
+25183	εἰ ἄρα τὰ ὀφειλόμενα ἑκάστῳ ἀποδιδόναι φησίν τις δίκαιον εἶναι , τοῦτο δὲ δὴ νοεῖ αὐτῷ τοῖς μὲν ἐχθροῖς βλάβην ὀφείλεσθαι παρὰ τοῦ δικαίου ἀνδρός , τοῖς δὲ φίλοις ὠφελίαν , οὐκ ἦν σοφὸς ὁ ταῦτα εἰπών .
+"If, then, anyone affirms that it is just to render to each his due and he means by this, that injury and harm is what is due to his enemies from the just man, and benefits to his friends, he was no truly wise man who said it."
+
+25184	οὐ γὰρ ἀληθῆ ἔλεγεν ·
+"For what he meant was not true."
+
+25185	οὐδαμοῦ γὰρ δίκαιον οὐδένα ἡμῖν ἐφάνη ὂν βλάπτειν .
+"For it has been made clear to us that in no case is it just to harm anyone."
+
+25186	συγχωρῶ , ἦ δ’ ὅς .
+"I concede it," he said.
+
+25187	μαχούμεθα ἄρα , ἦν δ’ ἐγώ , κοινῇ ἐγώ τε καὶ σύ , ἐάν τις αὐτὸ φῇ ἢ Σιμωνίδην ἢ Βίαντα ἢ Πιττακὸν εἰρηκέναι ἤ τιν’ ἄλλον τῶν σοφῶν τε καὶ μακαρίων ἀνδρῶν .
+"We will take up arms against him, then," said I, "you and I together, if anyone affirms that either Simonides or Bias or Pittacus or any other of the wise and blessed said such a thing."
+
+25188	ἐγὼ γοῦν , ἔφη , ἕτοιμός εἰμι κοινωνεῖν τῆς μάχης .
+"I, for my part," he said, "am ready to join in the battle with you."
+
+25189	ἀλλ’ οἶσθα , ἦν δ’ ἐγώ , οὗ μοι δοκεῖ εἶναι τὸ ῥῆμα , τὸ φάναι δίκαιον εἶναι τοὺς μὲν φίλους ὠφελεῖν , τοὺς δ’ ἐχθροὺς βλάπτειν ;
+“Do you know,” said I, “to whom I think the saying belongs—this statement that it is just to benefit friends and harm enemies?”
+
+25190	τίνος ;
+“Who?” he said.
+
+25191	ἔφη .
+He said.
+
+25192	οἶμαι αὐτὸ Περιάνδρου εἶναι ἢ Περδίκκου ἢ Ξέρξου ἢ Ἰσμηνίου τοῦ Θηβαίου ἤ τινος ἄλλου μέγα οἰομένου δύνασθαι πλουσίου ἀνδρός .
+“I think it was the saying of Periander or Perdiccas or Xerxes or Ismenias the Theban or some other rich man who had great power in his own conceit.”
+
+25193	ἀληθέστατα , ἔφη , λέγεις .
+“That is most true,” he replied.
+
+25194	εἶεν , ἦν δ’ ἐγώ ·
+“Very well,” said I.
+
+25195	ἐπειδὴ δὲ οὐδὲ τοῦτο ἐφάνη ἡ δικαιοσύνη ὂν οὐδὲ τὸ δίκαιον , τί ἂν ἄλλο τις αὐτὸ φαίη εἶναι ;
+“Since it has been made clear that this too is not justice and the just, what else is there that we might say justice to be?”
+
+25196	καὶ ὁ Θρασύμαχος πολλάκις μὲν καὶ διαλεγομένων ἡμῶν μεταξὺ ὥρμα ἀντιλαμβάνεσθαι τοῦ λόγου , ἔπειτα ὑπὸ τῶν παρακαθημένων διεκωλύετο βουλομένων διακοῦσαι τὸν λόγον ·
+“Now Thrasymachus had tried several times to intervene in our conversation but was restrained by those sitting by who wished to hear the argument out.”
+
+25197	ὡς δὲ διεπαυσάμεθα καὶ ἐγὼ ταῦτ’ εἶπον , οὐκέτι ἡσυχίαν ἦγεν , ἀλλὰ συστρέψας ἑαυτὸν ὥσπερ θηρίον ἧκεν ἐφ’ ἡμᾶς ὡς διαρπασόμενος .
+“But when we paused and I had said this, he no longer held his peace but burst forth upon us like a wild beast.”
+
+25198	καὶ ἐγώ τε καὶ ὁ Πολέμαρχος δείσαντες διεπτοήθημεν
+
+ ·
+“Polemarchus and I were frightened and startled.”
+
+25199	ὁ δ’ εἰς τὸ μέσον φθεγξάμενος , τίς , ἔφη , ὑμᾶς πάλαι φλυαρία ἔχει , ὦ Σώκρατες ;
+“Then he spoke up in the midst, 'What nonsense is this that has been holding you, Socrates?'”
+
+25200	καὶ τί εὐηθίζεσθε πρὸς ἀλλήλους ὑποκατακλινόμενοι ὑμῖν αὐτοῖς ;
+“And why are you so silly, trifling with each other?”
+
+25201	ἀλλ’ εἴπερ ὡς ἀληθῶς βούλει εἰδέναι τὸ δίκαιον ὅτι ἔστι , μὴ μόνον ἐρώτα μηδὲ φιλοτιμοῦ ἐλέγχων ἐπειδάν τίς τι ἀποκρίνηται , ἐγνωκὼς τοῦτο , ὅτι ῥᾷον ἐρωτᾶν ἢ ἀποκρίνεσθαι , ἀλλὰ καὶ αὐτὸς ἀπόκριναι καὶ εἰπὲ τί φῂς εἶναι τὸ δίκαιον .
+“But if you really want to know what justice is, don't just ask questions or make a show of refuting anyone's answers, knowing that it's easier to ask than to answer, but give your own answer and tell what you say justice is.”
+
+25202	καὶ ὅπως μοι μὴ ἐρεῖς ὅτι τὸ δέον ἐστὶν μηδ’ ὅτι τὸ ὠφέλιμον μηδ’ ὅτι τὸ λυσιτελοῦν μηδ’ ὅτι τὸ κερδαλέον μηδ’ ὅτι τὸ συμφέρον , ἀλλὰ σαφῶς μοι καὶ ἀκριβῶς λέγε ὅτι ἂν λέγῃς ·
+“And make sure you don't tell me it is the obligatory, or the beneficial, or the profitable, or the gainful, or the advantageous, but speak clearly and precisely whatever you say.”
+
+25203	ὡς ἐγὼ οὐκ ἀποδέξομαι ἐὰν ὕθλους τοιούτους λέγῃς .
+“For I won't accept any such rubbish if you say it.”
+
+
+25204	καὶ ἐγὼ ἀκούσας ἐξεπλάγην καὶ προσβλέπων αὐτὸν ἐφοβούμην , καί μοι δοκῶ , εἰ μὴ πρότερος ἑωράκη αὐτὸν ἢ ἐκεῖνος ἐμέ , ἄφωνος ἂν γενέσθαι .
+"And I, when I heard him, was dismayed, and looking upon him was filled with fear, and I believe that if I had not looked at him before he did at me I should have lost my voice."
+
+25205	νῦν δὲ ἡνίκα ὑπὸ τοῦ λόγου ἤρχετο ἐξαγριαίνεσθαι , προσέβλεψα αὐτὸν πρότερος , ὥστε αὐτῷ οἷός τ’ ἐγενόμην ἀποκρίνασθαι , καὶ εἶπον ὑποτρέμων ·
+"But now, when he began to get wild because of the argument, I looked at him first, so I was able to respond to him, and I said, trembling:"
+
+25206	ὦ Θρασύμαχε , μὴ χαλεπὸς ἡμῖν ἴσθι ·
+"Thrasymachus, do not be harsh with us;"
+
+25207	εἰ γάρ τι ἐξαμαρτάνομεν ἐν τῇ τῶν λόγων σκέψει ἐγώ τε καὶ ὅδε , εὖ ἴσθι ὅτι ἄκοντες ἁμαρτάνομεν .
+"if we err in our consideration of the matter, be sure that we do so unwittingly."
+
+25208	μὴ γὰρ δὴ οἴου , εἰ μὲν χρυσίον ἐζητοῦμεν , οὐκ ἄν ποτε ἡμᾶς ἑκόντας εἶναι ὑποκατακλίνεσθαι ἀλλήλοις ἐν τῇ ζητήσει καὶ διαφθείρειν τὴν εὕρεσιν αὐτοῦ , δικαιοσύνην δὲ ζητοῦντας , πρᾶγμα πολλῶν χρυσίων τιμιώτερον , ἔπειθ’ οὕτως ἀνοήτως ὑπείκειν ἀλλήλοις καὶ οὐ σπουδάζειν ὅτι μάλιστα φανῆναι αὐτό .
+"For you must not suppose that if we were seeking gold, we would willingly concede to each other in our search and ruin the discovery of it. But when searching for justice, a thing more precious than much gold, then surely we would not so foolishly yield to each other and not strive as much as possible to reveal it."
+
+25209	οἴου γε σύ , ὦ φίλε .
+"You surely must not suppose that, my friend."
+
+25210	ἀλλ’ οἶμαι οὐ δυνάμεθα ·
+"But I think we are not able,"
+
+25211	ἐλεεῖσθαι οὖν ἡμᾶς πολὺ μᾶλλον εἰκός ἐστίν που ὑπὸ ὑμῶν τῶν δεινῶν ἢ χαλεπαίνεσθαι .
+"to be pitied by you, the clever ones, rather than to be treated harshly."
+
+25212	καὶ ὃς ἀκούσας ἀνεκάγχασέ τε μάλα σαρδάνιον καὶ εἶπεν ·
+And he, on hearing this, laughed very sardonically and said:
+
+25213	ὦ Ἡράκλεις , ἔφη , αὕτη ’κείνη ἡ εἰωθυῖα εἰρωνεία Σωκράτους , καὶ ταῦτ’ ἐγὼ ᾔδη τε καὶ τούτοις προύλεγον , ὅτι σὺ ἀποκρίνασθαι μὲν οὐκ ἐθελήσοις , εἰρωνεύσοιο δὲ καὶ πάντα μᾶλλον ποιήσοις ἢ ἀποκρινοῖο , εἴ τίς τί σε ἐρωτᾷ .
+"By Hercules," he said, "this is that customary irony of Socrates, which I both knew and told these people here, that you would refuse to answer, would pretend, and do everything rather than answer, if anyone asks you anything."
+
+25214	σοφὸς γὰρ εἶ , ἦν δ’ ἐγώ , ὦ Θρασύμαχε ·
+"For you are wise, Thrasymachus," I said.
+
+25215	εὖ οὖν ᾔδησθα ὅτι εἴ τινα ἔροιο ὁπόσα ἐστὶν τὰ δώδεκα , καὶ ἐρόμενος προείποις αὐτῷ — ὅπως μοι , ὦ ἄνθρωπε , μὴ ἐρεῖς ὅτι ἔστιν τὰ δώδεκα δὶς ἓξ μηδ’ ὅτι τρὶς τέτταρα μηδ’ ὅτι ἑξάκις δύο μηδ’ ὅτι τετράκις τρία ·
+"Well you knew then, if you were to ask someone how much twelve is, and in asking preface it with — 'Don't tell me, man, that twelve is twice six or three times four or six times two or four times three;'
+
+25216 ὡς οὐκ ἀποδέξομαί σου ἐὰν τοιαῦτα φλυαρῇς — δῆλον οἶμαί σοι ἦν ὅτι οὐδεὶς ἀποκρινοῖτο τῷ οὕτως πυνθανομένῳ .
+"I will not accept it from you if you talk such nonsense" — it was clear, I think, to you that no one would respond to a question put in that way.
+
+25217 ἀλλ’ εἴ σοι εἶπεν ·
+But if he were to say to you:
+
+25218 ὦ Θρασύμαχε , πῶς λέγεις ;
+"Thrasymachus, what do you mean?"
+
+25219 μὴ ἀποκρίνωμαι ὧν προεῖπες μηδέν ;
+"Am I not to give any of the prohibited answers?"
+
+25220 πότερον , ὦ θαυμάσιε , μηδ’ εἰ τούτων τι τυγχάνει ὄν , ἀλλ’ ἕτερον εἴπω τι τοῦ ἀληθοῦς ;
+"Or, wonderful as you are, should I say something other than the truth even if it happens to be one of these?"
+
+25221 ἢ πῶς λέγεις ;
+"Or what do you mean?"
+
+25222 τί ἂν αὐτῷ εἶπες πρὸς ταῦτα ;
+"What would you say to him in response to that?"
+
+25223 εἶεν , ἔφη ·
+"Go ahead," he said;
+
+25224 ὡς δὴ ὅμοιον τοῦτο ἐκείνῳ .
+"as this is indeed similar to that."
+
+25225 οὐδέν γε κωλύει , ἦν δ’ ἐγώ ·
+"There is nothing to prevent it," I said;
+
+25226 εἰ δ’ οὖν καὶ μὴ ἔστιν ὅμοιον , φαίνεται δὲ τῷ ἐρωτηθέντι τοιοῦτον , ἧττόν τι αὐτὸν οἴει ἀποκρινεῖσθαι τὸ φαινόμενο ἑαυτῷ , ἐάντε ἡμεῖς ἀπαγορεύωμεν ἐάντε μή ;
+"But if it is not similar, yet appears so to the person being asked, do you think him any less likely to answer what appears to himself, whether we forbid it or not?"
+
+25227 ἄλλο τι οὖν , ἔφη , καὶ σὺ οὕτω ποιήσεις ·
+"Then something else," he said, "you will do likewise;"
+
+25228 ὧν ἐγὼ ἀπεῖπον , τούτων τι ἀποκρινῇ ;
+"Will you answer one of the things I forbade?"
+
+25229 οὐκ ἂν θαυμάσαιμι , ἦν δ’ ἐγώ ·
+"I would not be surprised," I said;
+
+25230 εἴ μοι σκεψαμένῳ οὕτω δόξειεν .
+"If it seemed so to me after reflection."
+
+25231	τί οὖν , ἔφη , ἂν ἐγὼ δείξω ἑτέραν ἀπόκρισιν παρὰ πάσας ταύτας περὶ δικαιοσύνης , βελτίω τούτων ;
+"What then," he said, "if I show you another answer about justice different from all these, a better one?"
+
+25232	τί ἀξιοῖς παθεῖν ;
+"What do you think you deserve to suffer?"
+
+25233	τί ἄλλο , ἦν δ’ ἐγώ , ἢ ὅπερ προσήκει πάσχειν τῷ μὴ εἰδότι ;
+"Why, what else," I said, "than that which it is fitting for one who does not know to suffer?"
+
+25234	προσήκει δέ που μαθεῖν παρὰ τοῦ εἰδότος ·
+"It is fitting, I presume, to learn from the one who knows."
+
+25235	καὶ ἐγὼ οὖν τοῦτο ἀξιῶ παθεῖν .
+"And so I desire to suffer that."
+
+25236	ἡδὺς γὰρ εἶ , ἔφη ·
+"You are a pleasant fellow," he said;
+
+25237	ἀλλὰ πρὸς τῷ μαθεῖν καὶ ἀπότεισον ἀργύριον .
+"but in addition to learning, also pay a fine of money."
+
+25238	οὐκοῦν ἐπειδάν μοι γένηται , εἶπον .
+"Then when I have it," I said.
+
+25239	ἀλλ’ ἔστιν , ἔφη ὁ Γλαύκων .
+"But you do have it," said Glaucon.
+
+25240	ἀλλ’ ἕνεκα ἀργυρίου , ὦ Θρασύμαχε , λέγε ·
+"Go ahead for the sake of the money, Thrasymachus;"
+
+25241	πάντες γὰρ ἡμεῖς Σωκράτει εἰσοίσομεν .
+"for we all will contribute for Socrates."
+
+25242	πάνυ γε οἶμαι , ἦ δ’ ὅς ·
+"I think so," he said;
+
+25243	ἵνα Σωκράτης τὸ εἰωθὸς διαπράξηται ·
+"so that Socrates may carry out his usual practice;"
+
+25244	αὐτὸς μὲν μὴ ἀποκρίνηται , ἄλλου δ’ ἀποκρινομένου λαμβάνῃ λόγον καὶ ἐλέγχῃ .
+"he himself will not answer, but when another answers, he will take up the argument and refute it."
+
+25245	πῶς γὰρ ἄν , ἔφην ἐγώ , ὦ βέλτιστε , τὶς ἀποκρίναιτο πρῶτον μὲν μὴ εἰδὼς μηδὲ φάσκων εἰδέναι , ἔπειτα , εἴ τι καὶ οἴεται , περὶ τούτων ἀπειρημένον αὐτῷ εἴη ὅπως μηδὲν ἐρεῖ ὧν ἡγεῖται ὑπ’ ἀνδρὸς οὐ φαύλου ;
+“How could anyone,” I said, “my excellent friend, give an answer if, in the first place, he did not know and did not even claim to know, and then, even if he did think he knew, was forbidden by a person of authority to utter any of his supposed knowledge?”
+
+25246	ἀλλὰ σὲ δὴ μᾶλλον εἰκὸς λέγειν ·
+“But it is more fitting for you to speak;”
+
+25247	σὺ γὰρ δὴ φῂς εἰδέναι καὶ ἔχειν εἰπεῖν .
+“for you claim to know and to be able to tell us.”
+
+25248	μὴ οὖν ἄλλως ποίει , ἀλλὰ ἐμοί τε χαρίζου ἀποκρινόμενος καὶ μὴ φθονήσῃς καὶ Γλαύκωνα τόνδε διδάξαι καὶ τοὺς ἄλλους .
+“So, please do not behave otherwise, but grant me the favor of responding, and do not begrudge teaching Glaucon here and the others.”
+
+25249	εἰπόντος δέ μου ταῦτα , ὅ τε Γλαύκων καὶ οἱ ἄλλοι ἐδέοντο αὐτοῦ μὴ ἄλλως ποιεῖν .
+After I said this, both Glaucon and the others pleaded with him not to act otherwise.
+
+25250	καὶ ὁ Θρασύμαχος φανερὸς μὲν ἦν ἐπιθυμῶν εἰπεῖν ἵν’ εὐδοκιμήσειεν , ἡγούμενος ἔχειν ἀπόκρισιν παγκάλην ·
+And Thrasymachus clearly desired to speak in order to gain approval, believing he had a most excellent answer;
+
+25251	προσεποιεῖτο δὲ φιλονικεῖν πρὸς τὸ ἐμὲ εἶναι τὸν ἀποκρινόμενον .
+but he pretended to be contentious to make me the respondent.
+
+25252	τελευτῶν δὲ συνεχώρησεν , κ- ἔπειτα , αὕτη δή , ἔφη , ἡ Σωκράτους σοφία ·
+In the end, he consented and then said, "So this is the wisdom of
+
+ Socrates;"
+
+25253	αὐτὸν μὲν μὴ ἐθέλειν διδάσκειν , παρὰ δὲ τῶν ἄλλων περιιόντα μανθάνειν καὶ τούτων μηδὲ χάριν ἀποδιδόναι .
+"he himself does not want to teach but goes around learning from others and does not even pay them thanks."
+
+25254	ὅτι μέν , ἦν δ’ ἐγώ , μανθάνω παρὰ τῶν ἄλλων , ἀληθῆ εἶπες , ὦ Θρασύμαχε , ὅτι δὲ οὔ με φῂς χάριν ἐκτίνειν , ψεύδῃ ·
+"That I learn from others, you have spoken the truth, Thrasymachus, but that you say I do not pay my thanks, you lie;"
+
+25255	ἐκτίνω γὰρ ὅσην δύναμαι .
+"for I give as much thanks as I can."
+
+25256	δύναμαι δὲ ἐπαινεῖν μόνον ·
+"And I am able only to praise;"
+
+25257	χρήματα γὰρ οὐκ ἔχω .
+"for I do not have money."
+
+25258	ὡς δὲ προθύμως τοῦτο δρῶ , ἐάν τίς μοι δοκῇ εὖ λέγειν , εὖ εἴσῃ αὐτίκα δὴ μάλα , ἐπειδὰν ἀποκρίνῃ ·
+"And how willingly I do this, if anyone appears to speak well, you will know very well, as soon as you respond;"
+
+25259	οἶμαι γάρ σε εὖ ἐρεῖν .
+"for I think you will speak well."
+
+25260	ἄκουε δή , ἦ δ’ ὅς .
+"Listen then," he said.
+
+25261	φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον .
+"I assert that the just is nothing other than the advantage of the stronger."
+
+25262	ἀλλὰ τί οὐκ ἐπαινεῖς ;
+"But why don't you applaud?"
+
+25263	ἀλλ’ οὐκ ἐθελήσεις .
+"But you won't want to."
+
+25264	ἐὰν μάθω γε πρῶτον , ἔφην , τί λέγεις ·
+"If I first understand what you are saying," I said;
+
+25265	νῦν γὰρ οὔπω οἶδα .
+"for now I still do not know."
+
+25266	τὸ τοῦ κρείττονος φῂς συμφέρον δίκαιον εἶναι .
+"You say that the advantage of the stronger is just."
+
+25267	καὶ τοῦτο , ὦ Θρασύμαχε , τί ποτε λέγεις ;
+"And this, Thrasymachus, what exactly do you mean by it?"
+
+25268	οὐ γάρ που τό γε τοιόνδε φῄς ·
+"You surely don't mean this," I said.
+
+25269	εἰ Πουλυδάμας ἡμῶν κρείττων ὁ παγκρατιαστὴς καὶ αὐτῷ συμφέρει τὰ βόεια κρέα πρὸς τὸ σῶμα , τοῦτο τὸ σιτίον εἶναι καὶ ἡμῖν τοῖς ἥττοσιν ἐκείνου συμφέρον ἅμα καὶ δίκαιον .
+"You don't mean, for example, that if Polydamas, our pancratium champion, is stronger than we are and beef is good for his body, that this food should also be advantageous and just for us who are weaker than he is."
+
+25270	βδελυρὸς γὰρ εἶ , ἔφη , ὦ Σώκρατες , καὶ ταύτῃ ὑπολαμβάνεις ᾗ ἂν κακουργήσαις μάλιστα τὸν λόγον .
+"You are a disgusting person, Socrates," he said, "for you interpret things in a way that distorts the argument the most."
+
+25271	οὐδαμῶς , ὦ ἄριστε , ἦν δ’ ἐγώ ·
+"Not at all, my dear fellow," I said.
+
+25272	ἀλλὰ σαφέστερον εἰπὲ τί λέγεις .
+"But please explain more clearly what you mean."
+
+25273	εἶτ’ οὐκ οἶσθ’ , ἔφη , ὅτι τῶν πόλεων αἱ μὲν τυραννοῦνται , αἱ δὲ δημοκρατοῦνται , αἱ δὲ ἀριστοκρατοῦνται ;
+"Don’t you know," he said, "that some cities are under tyranny, some are democracies, and others aristocracies?"
+
+25274	πῶς γὰρ οὔ ;
+"How could I not?"
+
+25275	οὐκοῦν τοῦτο κρατεῖ ἐν ἑκάστῃ πόλει , τὸ ἄρχον ;
+"Isn't it the case that in each city it is the ruling power that prevails?"
+
+25276	πάνυ γε .
+"Certainly."
+
+25277	τίθεται δέ γε τοὺς νόμους ἑκάστη ἡ ἀρχὴ πρὸς τὸ αὑτῇ συμφέρον , δημοκρατία μὲν δημοκρατικούς , τυραννὶς δὲ τυραννικούς , καὶ αἱ ἄλλαι οὕτως ·
+"And each ruling power sets laws to its own advantage—democracy makes democratic laws, tyranny makes tyrannical laws, and the others in the same way."
+
+25278	θέμεναι δὲ ἀπέφηναν τοῦτο δίκαιον τοῖς ἀρχομένοις εἶναι , τὸ σφίσι συμφέρον , καὶ τὸν τούτου ἐκβαίνοντα κολάζουσιν ὡς παρανομοῦντά τε καὶ ἀδικοῦντα .
+"And having established this, they declare it to be just for their subjects, what is to their own advantage, and they punish anyone who deviates from it as law-breaking and unjust."
+
+25279	τοῦτ’ οὖν ἐστιν , ὦ βέλτιστε , ὃ λέγω ἐν ἁπάσαις ταῖς πόλεσιν τ- αὐτὸν εἶναι δίκαιον , τὸ τῆς καθεστηκυίας ἀρχῆς συμφέρον ·
+This, then, my good sir, is what I say is the identical principle of justice that obtains in all states—the advantage of the established government. 
+25280	αὕτη δέ που κρατεῖ , ὥστε συμβαίνει τῷ ὀρθῶς λογιζομένῳ πανταχοῦ εἶναι τὸ αὐτὸ δίκαιον , τὸ τοῦ κρείττονος συμφέρον .
+This then holds sway, so it follows that for the rightly reasoning mind justice is the same everywhere, the advantage of the stronger.
+25281	νῦν , ἦν δ’ ἐγώ , ἔμαθον ὃ λέγεις ·
+"Now," said I, "I have learned what you are saying; 
+25282	εἰ δὲ ἀληθὲς ἢ μή , πειράσομαι μαθεῖν .
+but whether it is true or not I have to try to learn.
+25283	τὸ συμφέρον μὲν οὖν , ὦ Θρασύμαχε , καὶ σὺ ἀπεκρίνω δίκαιον εἶναι — καίτοι ἔμοιγε ἀπηγόρευες ὅπως μὴ τοῦτο ἀποκρινοίμην — πρόσεστιν δὲ δὴ αὐτόθι τὸ τοῦ κρείττονος .
+The advantageous, then, is also your reply, Thrasymachus, to the question, what is the just—though you forbade me to give that answer. But you add thereto that of the stronger.
+25284	σμικρά γε ἴσως , ἔφη , προσθήκη .
+"Perhaps a slight addition," he said.
+25285	οὔπω δῆλον οὐδ’ εἰ μεγάλη ·
+"It is not yet clear whether it is a large one either; 
+25286	ἀλλ’ ὅτι μὲν τοῦτο σκεπτέον εἰ ἀληθῆ λέγεις , δῆλον .
+but that we must inquire whether what you say is true, is clear.
+25287	ἐπειδὴ γὰρ συμφέρον γέ τι εἶναι καὶ ἐγὼ ὁμολογῶ τὸ δίκαιον , σὺ δὲ προστιθεῖς καὶ αὐτὸ φῂς εἶναι τὸ τοῦ κρείττονος , ἐγὼ δὲ ἀγνοῶ , σκεπτέον δή .
+For since I too admit that the just is something that is of advantage—but you are for making an addition and affirm it to be the advantage of the stronger, while I don
+
+'t profess to know, we must pursue the inquiry."
+25288	σκόπει , ἔφη .
+"Consider it," he said.
+25289	ταῦτ’ ἔσται , ἦν δ’ ἐγώ .
+"I will do so," said I.
+25290	καί μοι εἰπέ ·
+"And tell me this; 
+25291	οὐ καὶ πείθεσθαι μέντοι τοῖς ἄρχουσιν δίκαιον φῂς εἶναι ;
+do you not affirm that obedience to rulers is just?"
+25292	ἔγωγε .
+"Certainly," he replied.
+25293	πότερον δὲ ἀναμάρτητοί εἰσιν οἱ ἄρχοντες ἐν ταῖς πόλεσιν ἑκάσταις ἢ οἷοί τι καὶ ἁμαρτεῖν ;
+"Are the rulers in the various states infallible or capable sometimes of error?"
+25294	πάντως που , ἔφη , οἷοί τι καὶ ἁμαρτεῖν .
+"Surely," he said, "they are liable to err."
+25295	οὐκοῦν ἐπιχειροῦντες νόμους τιθέναι τοὺς μὲν ὀρθῶς τιθέασιν , τοὺς δέ τινας οὐκ ὀρθῶς ;
+"Then in their attempts at legislation they enact some laws rightly and some not rightly, do they not?"
+25296	οἶμαι ἔγωγε .
+"So I suppose."
+25297	τὸ δὲ ὀρθῶς ἆρα τὸ τὰ συμφέροντά ἐστι τίθεσθαι ἑαυτοῖς , τὸ δὲ μὴ ὀρθῶς ἀσύμφορα ;
+"And by rightly we are to understand for their advantage, and by wrongly to their disadvantage? Do you mean that or not?"
+25298	ἢ πῶς λέγεις ;
+"Or what do you mean?"
+25299	οὕτως .
+"That."
+25300	ἃ δ’ ἂν θῶνται ποιητέον τοῖς ἀρχομένοις , καὶ τοῦτό ἐστι τὸ δίκαιον ;
+"But whatever they enact must be performed by their subjects and is justice?"
+25301	πῶς γὰρ οὔ ;
+"Of course."
+25302	οὐ μόνον ἄρα δίκαιόν ἐστιν κατὰ τὸν σὸν λόγον τὸ τοῦ κρείττονος συμφέρον ποιεῖν ἀλλὰ καὶ τ- ἐναντίον , τὸ μὴ συμφέρον .
+"Then on your theory it is just not only to do what is the advantage of the stronger but also the opposite, what is not to his advantage."
+25303	τί λέγεις σύ ;
+"What's that you're saying?" 
+25304	ἔφη .
+he replied.
+
+"What you yourself are saying, I think."
+25304	ἔφη .
+“What do you say?”
+
+25305	ἃ σὺ λέγεις , ἔμοιγε δοκῶ ·
+“That is what you say, I fancy.”
+
+25306	σκοπῶμεν δὲ βέλτιον .
+“Let us consider it further.”
+
+25307	οὐχ ὡμολόγηται τοὺς ἄρχοντας τοῖς ἀρχομένοις προστάττοντας ποιεῖν ἄττα ἐνίοτε διαμαρτάνειν τοῦ ἑαυτοῖς βελτίστου , ἃ δ’ ἂν προστάττωσιν οἱ ἄρχοντες δίκαιον εἶναι τοῖς ἀρχομένοις ποιεῖν ;
+“Was it not admitted that the rulers commanding the ruled sometimes make mistakes about what is best for themselves and that whatever the rulers enjoin the subjects must do is justice?”
+
+25308	ταῦτ’ οὐχ ὡμολόγηται ;
+“Was not that admitted?”
+
+25309	οἶμαι ἔγωγε , ἔφη .
+“I think so,” he said.
+
+25310	οἴου τοίνυν , ἦν δ’ ἐγώ , καὶ τὸ ἀσύμφορα ποιεῖν τοῖς ἄρχουσί τε καὶ κρείττοσι δίκαιον εἶναι ὡμολογῆσθαί σοι , ὅταν οἱ μὲν ἄρχοντες ἄκοντες κακὰ αὑτοῖς προστάττωσιν , τοῖς δὲ δίκαιον εἶναι φῇς ταῦτα ποιεῖν ἃ ἐκεῖνοι προσέταξαν — ἆρα τότε , ὦ σοφώτατε Θρασύμαχε , οὐκ ἀναγκαῖον συμβαίνειν αὐτὸ οὑτωσί , δίκαιον εἶναι ποιεῖν τ- ἐναντίον ἢ ὃ σὺ λέγεις ;
+“You will have to admit, then, Thrasymachus, that it is just for the ruled to do the disadvantageous when the rulers unwittingly enjoin what is bad for themselves, and that it is just for them to do what the rulers have commanded. Does this not then, most wise Thrasymachus, necessarily involve doing the opposite of what you say? For the disadvantageous to the superior is surely enjoined on the inferiors to perform.”
+
+25311	τὸ γὰρ τοῦ κρείττονος ἀσύμφορον δήπου προστάττεται τοῖς ἥττοσιν ποιεῖν .
+“For the disadvantageous to the stronger is what is enjoined on the weaker to perform.”
+
+25312	ναὶ μὰ Δί’ , ἔφη , ὦ Σώκρατες , ὁ Πολέμαρχος , σαφέστατά γε .
+“Yes, by Zeus, Socrates,” said Polemarchus, “nothing could be more conclusive.”
+
+25313	ἐὰν σύ γ’ , ἔφη , αὐτῷ μαρτυρήσῃς , ὁ Κλειτοφῶν ὑπολαβών .
+“If you are his witness,” interposed Cleitophon.
+
+25314	καὶ τί , ἔφη , δεῖται μάρτυρος ;
+“And what need is there of a witness?” he said.
+
+25315	αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν , τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν .
+“For Thrasymachus himself admits that the rulers sometimes command what is bad for themselves, and yet it is just for their subjects to do these things.”
+
+25316	τὸ γὰρ τὰ κελευόμενα ποιεῖν , ὦ Πολέμαρχε , ὑπὸ τῶν ἀρχόντων δίκαιον εἶναι ἔθετο Θρασύμαχος .
+“For Thrasymachus has laid down that it is just to do what is commanded by the rulers, Polemarchus.”
+
+25317	καὶ γὰρ τὸ τοῦ κρείττονος , ὦ Κλειτοφῶν , συμφέρον δίκαιον εἶναι ἔθετο .
+“And he also set forth, Cleitophon, that what is advantageous to the superior is just.”
+
+25318	ταῦτα δὲ ἀμφότερα θέμενος ὡμολόγησεν αὖ ἐνίοτε τοὺς κρείττους τὰ αὑτοῖς ἀσύμφορα κελεύειν τοὺς ἥττους τε καὶ ἀρχομένους ποιεῖν .
+“Having established both, he has further admitted that sometimes the superiors command the inferiors and those under them to do what is disadvantageous to the superiors.”
+
+25319	ἐκ δὲ τούτων τῶν ὁμολογιῶν οὐδὲν μᾶλλον τὸ τοῦ κρείττονος συμφέρον δίκαιον ἂν εἴη ἢ τὸ μὴ συμφέρον .
+“And from these admissions, it is no more just to do what is advantageous for the superior than what is not advantageous.”
+
+
+25320	ἀλλ’ , ἔφη ὁ Κλειτοφῶν , τὸ τοῦ κρείττονος συμφέρον ἔλεγεν ὃ ἡγοῖτο ὁ κρείττων αὑτῷ συμφέρειν ·
+“But,” said Cleitophon, “he spoke of the superior's advantage as what the superior deemed advantageous for himself;
+
+25321	τοῦτο ποιητέον εἶναι τῷ ἥττονι , καὶ τὸ δίκαιον τοῦτο ἐτίθετο .
+declaring that this must be done by the inferior, and this he asserted was just.
+
+25322	ἀλλ’ οὐχ οὕτως , ἦ δ’ ὃς ὁ Πολέμαρχος , ἐλέγετο .
+“But not so,” objected Polemarchus.
+
+25323	οὐδέν , ἦν δ’ ἐγώ , ὦ Πολέμαρχε , διαφέρει , ἀλλ’ εἰ νῦν οὕτω λέγει Θρασύμαχος , οὕτως αὐτοῦ ἀποδεχώμεθα .
+“No matter, Polemarchus,” I said, “but if Thrasymachus now declares thus, let us accept it from him.
+
+25324	καί μοι εἰπέ , ὦ Θρασύμαχε ·
+And tell me, Thrasymachus;
+
+25325	τοῦτο ἦν ὃ ἐβούλου λέγειν τὸ δίκαιον , τὸ τοῦ κρείττονος συμφέρον δοκοῦν εἶναι τῷ κρείττονι , ἐάντε συμφέρῃ ἐάντε μή ;
+was this what you wished to assert about justice, that it is the advantage of the stronger as it seems to the stronger, whether it is advantageous or not?
+
+25326	οὕτω σε φῶμεν λέγειν ;
+Is that what we are to say you mean?
+
+25327	ἥκιστά γε , ἔφη ·
+“By no means,” he said.
+
+25328	ἀλλὰ κρείττω με οἴει καλεῖν τὸν ἐξαμαρτάνοντα ὅταν ἐξαμαρτάνῃ ;
+“But do you think I call one superior when he makes a mistake?
+
+25329	ἔγωγε , εἶπον , ᾤμην σε τοῦτο λέγειν ὅτε τοὺς ἄρχοντας ὡμολόγεις οὐκ ἀναμαρτήτους εἶναι ἀλλά τι καὶ ἐξαμαρτάνειν .
+Indeed,” I replied, “I thought that was your meaning when you acknowledged that rulers are not infallible but are liable to make mistakes.
+
+25330	συκοφάντης γὰρ εἶ , ἔφη , ὦ Σώκρατες , ἐν τοῖς λόγοις ·
+“For you are a slanderer, Socrates,” he said, “in your arguments;
+
+25331	ἐπεὶ αὐτίκα ἰατρὸν καλεῖς σὺ τὸν ἐξαμαρτάνοντα περὶ τοὺς κάμνοντας κατ’ αὐτὸ τοῦτο ὃ ἐξαμαρτάνει ;
+since do you immediately call someone a physician who makes a mistake regarding the sick just because of that mistake?
+
+25332	ἢ λογιστικόν , ὃς ἂν ἐν λογισμῷ ἁμαρτάνῃ , τότε ὅταν ἁμαρτάνῃ , κατὰ ταύτην τὴν ἁμαρτίαν ;
+Or a calculator who errs in a calculation at the time of the error, for that specific mistake?
+
+25333	ἀλλ’ οἶμαι λέγομεν τῷ ῥήματι οὕτως , ὅτι ὁ ἰατρὸς ἐξήμαρτεν καὶ ὁ λογιστὴς ἐξήμαρτεν καὶ ὁ γραμματιστής ·
+Yet, I suppose, we speak in this way, that the physician made a mistake, and so did the calculator and the teacher;
+
+25334	τὸ δ’ οἶμαι ἕκαστος τούτων , καθ’ ὅσον τοῦτ’ ἔστιν ὃ προσαγορεύομεν αὐτόν , οὐδέποτε ἁμαρτάνει ·
+but I believe, as far as each one is what we call him, he never makes a mistake;
+
+25335	ὥστε κατὰ τὸν ἀκριβῆ λόγον , ἐπειδὴ καὶ σὺ ἀκριβολογῇ , οὐδεὶς τῶν δημιουργῶν ἁμαρτάνει .
+so according to the precise argument, since you too are a stickler for precision, no craftsman ever makes a mistake.
+
+25336	ἐπιλειπούσης γὰρ ἐπιστήμης ὁ ἁμαρτάνων ἁμαρτάνει , ἐν ᾧ οὐκ ἔστι δημιουργός ·
+For it is in the absence of knowledge that the error occurs, in which case he is not a craftsman;
+
+25337	ὥστε δημιουργὸς ἢ σοφὸς ἢ ἄρχων οὐδεὶς ἁμαρτάνει τότε ὅταν ἄρχων ᾖ , ἀλλὰ πᾶς γ’ ἂν εἴποι ὅτι ὁ ἰατρὸς ἥμαρτεν καὶ ὁ ἄρχων ἥμαρτεν .
+Thus, no craftsman, wise man, or ruler makes a mistake when he is in the role of a ruler, although everyone might say that the physician made a mistake and the ruler erred.
+
+25338	τοιοῦτον οὖν δή σοι καὶ ἐμὲ ὑπόλαβε νυνδὴ ἀποκρίνεσθαι ·
+25338	So then, take it that I and you are to answer in this loose way.
+
+25339	τὸ δὲ ἀκριβέστατον ἐκεῖνο τυγχάνει ὄν , τὸν ἄρχοντα , καθ’ ὅσον ἄρχων ἐστίν , μὴ ἁμαρτάνειν , μὴ ἁμαρτάνοντα δὲ τὸ αὑτῷ βέλτιστον τίθεσθαι , τοῦτο δὲ τῷ ἀρχομένῳ ποιητέον .
+25339	But the most precise statement is that the ruler, insofar as he is a ruler, does not err, and not erring, he should establish for himself what is best, and this the subject must do, as I said from the start.
+
+25340	ὥστε ὅπερ ἐξ ἀρχῆς ἔλεγον δίκαιον λέγω , τὸ τοῦ κρείττονος ποιεῖν συμφέρον .
+25340	So, as I was saying from the beginning, I affirm that it is just to do what is advantageous for the stronger.
+
+25341	εἶεν , ἦν δ’ ἐγώ , ὦ Θρασύμαχε ·
+25341	“Let it be,” said I, “Thrasymachus.”
+
+25342	δοκῶ σοι συκοφαντεῖν ;
+25342	“Do you think I am trying to get the better of you?” 
+
+25343	πάνυ μὲν οὖν , ἔφη .
+25343	“Certainly,” he said.
+
+25344	οἴει γάρ με ἐξ ἐπιβουλῆς ἐν τοῖς λόγοις κακουργοῦντά σε ἐρέσθαι ὡς ἠρόμην ;
+25344	“For do you suppose that I was trying to beard you in argument with malice aforethought, as I asked that question?”
+
+25345	εὖ μὲν οὖν οἶδα , ἔφη .
+25345	“Well, I know that,” he said.
+
+25346	καὶ οὐδέν γέ σοι πλέον ἔσται ·
+25346	“And nothing more will come of it for you;
+
+25347	οὔτε γὰρ ἄν με λάθοις κακουργῶν , οὔτε μὴ λαθὼν βιάσασθαι τῷ λόγῳ δύναιο .
+25347	for neither could you get the better of me by stealth, nor, being detected, could you use force with your argument.
+
+25348	οὐδέ γ’ ἂν ἐπιχειρήσαιμι , ἦν δ’ ἐγώ , ὦ μακάριε .
+25348	Nor, indeed, would I even attempt it,” said I, “blessed man.”
+
+25349	ἀλλ’ ἵνα μὴ αὖθις ἡμῖν τοιοῦτον ἐγγένηται , διόρισαι ποτέρως λέγεις τὸν ἄρχοντά τε καὶ τὸν κρείττονα , τὸν ὡς ἔπος εἰπεῖν ἢ τὸν ἀκριβεῖ λόγῳ , ὃ νυνδὴ ἔλεγες , οὗ τὸ συμφέρον κρείττονος ὄντος δίκαιον ἔσται τῷ ἥττονι ποιεῖν .
+25349	“But that there may be no recurrence of such a thing between us, tell me, in which way do you say the ruler and the stronger should be defined, as you spoke of them just now, and in whose case, as you said, it will be just for the inferior to do what is for the advantage of the superior?”
+
+25350	τὸν τῷ ἀκριβεστάτῳ , ἔφη , λόγῳ ἄρχοντα ὄντα .
+25350	“In the very most precise sense of the word,” he said, “the ruler is the one who is in command.”
+
+25351	πρὸς ταῦτα κακούργει καὶ συκοφάντει , εἴ τι δύνασαι — οὐδέν σου παρίεμαι — ἀλλ’ οὐ μὴ οἷός τ’ ᾖς .
+25351	“Acting unjustly and calumniating in regard to these things, if you can—no objection from me—but you are not likely to.”
+
+25352	οἴει γὰρ ἄν με , εἶπον , οὕτω μα
+
+νῆναι ὥστε ξυρεῖν ἐπιχειρεῖν λέοντα καὶ συκοφαντεῖν Θρασύμαχον ;
+25352	“You think, do you,” said I, “that I am so mad as to try to beard a lion and attempt to calumniate Thrasymachus?”
+
+25353	νῦν γοῦν , ἔφη , ἐπεχείρησας , οὐδὲν ὢν καὶ ταῦτα .
+25353	“Indeed you did try just now,” he said, “though you were nothing at all and these things too.”
+
+25354	ἅδην , ἦν δ’ ἐγώ , τῶν τοιούτων .
+25354	“Enough,” said I, “of such things.”
+
+25355	ἀλλ’ εἰπέ μοι  ·
+25355	“But tell me,
+
+25356	ὁ τῷ ἀκριβεῖ λόγῳ ἰατρός , ὃν ἄρτι ἔλεγες , πότερον χρηματιστής ἐστιν ἢ τῶν καμνόντων θεραπευτής ;
+25356	the physician in the precise sense of whom you were just now speaking, is he a moneymaker, an earner of fees, or a healer of the sick?
+
+25357	καὶ λέγε τὸν τῷ ὄντι ἰατρὸν ὄντα .
+25357	And tell of the one who is truly a physician.
+
+25358	τῶν καμνόντων , ἔφη , θεραπευτής .
+25358	“Healer of the sick,” he replied.
+
+25359	τί δὲ κυβερνήτης ;
+25359	“And what of the pilot?” 
+
+25360	ὁ ὀρθῶς κυβερνήτης ναυτῶν ἄρχων ἐστὶν ἢ ναύτης ;
+25360	“Is the true pilot the one who rightly commands sailors or is he himself a sailor?”
+
+25361	ναυτῶν ἄρχων .
+25361	“He who rightly commands sailors.”
+
+25362	οὐδὲν οἶμαι τοῦτο ὑπολογιστέον , ὅτι πλεῖ ἐν τῇ νηί , οὐδ’ ἐστὶν κλητέος ναύτης  ·
+25362	“I think,” said he, “that this calculation is not to be overlooked, that he commands on shipboard, but is not to be called a sailor;
+
+25363	οὐ γὰρ κατὰ τὸ πλεῖν κυβερνήτης καλεῖται , ἀλλὰ κατὰ τὴν τέχνην καὶ τὴν τῶν ναυτῶν ἀρχήν .
+25363	for it is not in respect of his sailing that he is called a pilot but in respect of his art and his ruling of the sailors.”
+
+25364	ἀληθῆ , ἔφη .
+25364	“True,” he said.
+
+25365	οὐκοῦν ἑκάστῳ τούτων ἔστιν τι συμφέρον ;
+25365	“Then, for each of these, is there not something advantageous?”
+
+25366	πάνυ γε .
+25366	“Yes, certainly.”
+
+25367	οὐ καὶ ἡ τέχνη , ἦν δ’ ἐγώ , ἐπὶ τούτῳ πέφυκεν , ἐπὶ τῷ τὸ συμφέρον ἑκάστῳ ζητεῖν τε καὶ ἐκπορίζειν ;
+25367	“And is not the art naturally adapted to seek and provide for each his advantage in this way?”
+
+25368	ἐπὶ τούτῳ , ἔφη .
+25368	“In this way,” he said.
+
+25369	ἆρ’ οὖν καὶ ἑκάστῃ τῶν τεχνῶν ἔστιν τι συμφέρον ἄλλο ἢ ὅτι μάλιστα τελέαν εἶναι ;
+25369	“Then for each of the arts is there any other advantage than to be perfect as possible?”
+
+25370	πῶς τοῦτο ἐρωτᾷς ;
+25370	“How do you mean?”
+
+25371	ὥσπερ , ἔφην ἐγώ , εἴ με ἔροιο εἰ ἐξαρκεῖ σώματι εἶναι σώματι ἢ προσδεῖταί τινος , εἴποιμ’ ἂν ὅτι παντάπασι μὲν οὖν προσδεῖται .
+25372	διὰ ταῦτα καὶ ἡ τέχνη ἐστὶν ἡ ἰατρικὴ νῦν ηὑρημένη , ὅτι σῶμά ἐστιν πονηρὸν καὶ οὐκ ἐξαρκεῖ αὐτῷ τοιούτῳ εἶναι .
+25373	τούτῳ οὖν ὅπως ἐκπορίζῃ τὰ συμφέροντα , ἐπὶ τούτῳ παρεσκευάσθη ἡ τέχνη .
+25374	ἦ ὀρθῶς σοι δοκῶ , ἔφην , ἂν εἰπεῖν οὕτω λέγων , ἢ οὔ ;
+25375	Οὐκοῦν , ἔφην , εἴπερ καθ’ ἑκάστην τέχνην ἑκάστῳ τι συμφέρον ἔστιν καὶ οὐδέν ἐστιν ἄλλο συμφέρον τῇ καθ’ αὑτὴν αὐτῆς ἀρετῇ , τὸ τούτῳ τέλεον εἶναι προσήκει , ἄλλο τι ἢ αὐτὸ τοῖς κρείττοσιν συμφέρον ὄν ;
+25376	οὐκ ἄλλο , ἔφη .
+25377	ὥστε ὅπερ ἐξ ἀρχῆς ἔλεγον δίκαιον λέγω , τὸ τοῦ κρείττονος ποιεῖν συμφέρον .
+25378	ἢ οὐκ ἔγωγε , ἦν δ’ ἐγώ , πάντῃ , ὦ Θρασύμαχε , λέγων τὸ τοῦ κρείττονος ποιεῖν συμφέρον ;
+25379	πάντῃ μὲν οὖν , ἔφην .
+25380	Τοῦτο λοιπὸν ἐντυγχάνει τῷ πράγματι καὶ πάντα οἱ ὅμοιοι , οὐκ ἄλλο ποτε ἄνθρωποι τὴν δικαιοσύνην ἢ τὸ σῶμα αὐτοῦ [341e] σῶμα καλὸν καὶ ὑγιὲς εἶναι ἢ τὴν ψυχὴν αὐτοῦ ψυχὴν καλὴν καὶ σοφὴν εἶναι , πρὶν ἂν τὴν ἀρετὴν αὐτῶν σπουδάσωσιν , εἰ τοῖς κρείττοσι συμφέρον ἐστὶ τὸ ἔργον αὐτῶν ποιεῖν .
+25381	ὅταν οὖν τοὺς νοῦν ἐμπεριέχοντας ὀψόμενοι τὸν πόνον ἴδωσιν καὶ ὅταν περὶ αὑτῶν συνειδῶσιν ὡς ὅ τι ἄριστον καὶ [342a] ἄριστον ὑπάρχει τὸ ἔργον τούτῳ ποιεῖν , τὸ τοῦ κρείττονος ποιεῖν συμφέρον , ταχέως τὰ πρὸς τὸ ὡρισμένον στάσιν ἐπιτελοῦντες ἐπὶ τὸ κοινὸν τὸν τῶν ἄλλων κατευφραίνονται τούτῳ , [342b] δοκοῦντες τὴν ἑαυτῶν ἀρετὴν πλεῖστον εὐτυχεῖν .
+
+25375	ὀρθῶς , ἔφη .
+	Correct,” he said.
+
+25376	τί δὲ δή ;
+	“But how about this?
+
+25377	αὐτὴ ἡ ἰατρική ἐστιν πονηρά , ἢ ἄλλη τις τέχνη ἔσθ’ ὅτι προσδεῖταί τινος ἀρετῆς — ὥσπερ ὀφθαλμοὶ ὄψεως καὶ ὦτα ἀκοῆς καὶ διὰ ταῦτα ἐπ’ αὐτοῖς δεῖ τινος τέχνης τῆς τὸ συμφέρον εἰς αὐτὰ ταῦτα σκεψομένης τε καὶ ἐκποριούσης — ἆρα καὶ ἐν αὐτῇ τῇ τέχνῃ ἔνι τις πονηρία , καὶ δεῖ ἑκάστῃ τέχνῃ ἄλλης τέχνης ἥτις αὐτῇ τὸ συμφέρον σκέψεται , καὶ τῇ σκοπουμένῃ ἑτέρας αὖ τοιαύτης , καὶ τοῦτ’ ἔστιν ἀπέραντον ;
+	Is the medical art itself defective or faulty, or has any other art any need of some virtue, quality, or excellence—as the eyes of vision, the ears of hearing, and for this reason is there need of some art over them that will consider and provide what is advantageous for these very ends—does there exist in the art itself some defect and does each art require another art to consider its advantage and is there need of still another for the considering art and so on ad infinitum, or will the art look out for its own advantage?
+
+25378	ἢ αὐτὴ αὑτῇ τὸ συμφέρον σκέψεται ;
+	Or is it a fact that it needs neither itself nor another art to consider its advantage and provide against its deficiency?
+
+25379	ἢ οὔτε αὑτῆς οὔτε ἄλλης προσδεῖται ἐπὶ τὴν αὑτῆς πονηρίαν τὸ συμφέρον σκοπεῖν ·
+	Nor does any physician in so far as he is a physician seek or enjoin the advantage of the physician but that of the patient?
+
+25380	οὔτε γὰρ πονηρία οὔτε ἁμαρτία οὐδεμία οὐδεμιᾷ τέχνῃ πάρεστιν , οὐδὲ προσήκει τέχνῃ ἄλλῳ τὸ συμφέρον ζητεῖν ἢ ἐκείνῳ οὗ τέχνη ἐστίν , αὐτὴ δὲ ἀβλαβὴς καὶ ἀκέραιός ἐστιν ὀρθὴ οὖσα , ἕωσπερ ἂν ᾖ ἑκάστη ἀκριβὴς ὅλη ἥπερ ἐστίν ;
+	For there is no defect or error at all that dwells in any art. Nor does it befit an art to seek the advantage of anything else than that of its object. But the art itself is free from all harm and admixture of evil, and is right so long as each art is precisely and entirely that which it is.
+
+25381	καὶ σκόπει ἐκείνῳ τῷ ἀκριβεῖ λόγῳ ·
+	And consider the matter in that precise way of speaking.
+
+25382	οὕτως ἢ ἄλλως ἔχει ;
+	Is it so or not?
+
+25383	οὕτως , ἔφη , φαίνεται .
+	“It appears to be so,” he said.
+
+25384	οὐκ ἄρα , ἦν δ’ ἐγώ , ἰατρικὴ ἰατρικῇ τὸ συμφέρον σκοπεῖ ἀλλὰ σώματι .
+	“Then medicine,” said I, “does not consider the advantage of medicine but of the body?”
+
+25385	ναί , ἔφη .
+	“Yes,” he said.
+
+25386	οὐδὲ ἱππικὴ ἱππικῇ ἀλλ’ ἵπποις ·
+	Nor horsemanship of horsemanship but of horses,
+
+25387	οὐδὲ ἄλλη τέχνη οὐδεμία ἑαυτῇ — οὐδὲ γὰρ προσδεῖται — ἀλλ’ ἐκείν
+
+ῳ οὗ τέχνη ἐστίν .
+	nor does any other art look out for itself—for it has no need—but for that of which it is the art.
+
+25388	φαίνεται , ἔφη , οὕτως .
+	“So it seems,” he replied.
+
+25389	ἀλλὰ μήν , ὦ Θρασύμαχε , ἄρχουσί γε αἱ τέχναι καὶ κρατοῦσιν ἐκείνου οὗπέρ εἰσιν τέχναι .
+	“But surely, Thrasymachus, the arts do hold rule and are stronger than that of which they are the arts.”
+
+25390	συνεχώρησεν ἐνταῦθα καὶ μάλα μόγις .
+	He conceded this but it went very hard.
+
+25391	οὐκ ἄρα ἐπιστήμη γε οὐδεμία τὸ τοῦ κρείττονος συμφέρον σκοπεῖ οὐδ’ ἐπιτάττει , ἀλλὰ τὸ τοῦ ἥττονός τε καὶ ἀρχομένου ὑπὸ ἑαυτῆς .
+	“Then no art considers or enjoins the advantage of the stronger but every art that of the weaker which is ruled by it.”
+
+25392	συνωμολόγησε μὲν καὶ ταῦτα τελευτῶν , ἐπεχείρει δὲ περὶ αὐτὰ μάχεσθαι ·
+	This too he was finally brought to admit though he tried to contest it. 
+
+25393	ἐπειδὴ δὲ ὡμολόγησεν , ἄλλο τι οὖν , ἦν δ’ ἐγώ , οὐδὲ ἰατρὸς οὐδείς , καθ’ ὅσον ἰατρός , τὸ τῷ ἰατρῷ συμφέρον σκοπεῖ οὐδ’ ἐπιτάττει , ἀλλὰ τὸ τῷ κάμνοντι ;
+But when he had agreed—“Can we deny, then,” said I, “that neither does any physician in so far as he is a physician seek or enjoin the advantage of the physician but that of the patient?
+
+25394 ὡμολόγηται γὰρ ὁ ἀκριβὴς ἰατρὸς σωμάτων εἶναι ἄρχων ἀλλ’ οὐ χρηματιστής .
+For we have agreed that the physician, 'precisely' speaking, is a ruler and governor of bodies and not a moneymaker. 
+
+25395 ἢ οὐχ ὡμολόγηται ;
+Did we agree on that?” 
+
+25396 συνέφη .
+He assented.
+
+
+25397	οὐκοῦν καὶ ὁ κυβερνήτης ὁ ἀκριβὴς ναυτῶν εἶναι ἄρχων ἀλλ’ οὐ ναύτης ;
+“And so the 'precise' pilot is a ruler of sailors, not a sailor?” That was admitted.
+
+25398	ὡμολόγηται .
+This was admitted.
+
+25399	οὐκ ἄρα ὅ γε τοιοῦτος κυβερνήτης τε καὶ ἄρχων τὸ τῷ κυβερνήτῃ συμφέρον σκέψεταί τε καὶ προστάξει , ἀλλὰ τὸ τῷ ναύτῃ τε καὶ ἀρχομένῳ .
+“Then that sort of a pilot and ruler will not consider and enjoin the advantage of the pilot but that of the sailor whose ruler he is.”
+
+25400	συνέφησε μόγις .
+He assented reluctantly.
+
+25401 οὐκοῦν , ἦν δ’ ἐγώ , ὦ Θρασύμαχε , οὐδὲ ἄλλος οὐδεὶς ἐν οὐδεμιᾷ ἀρχῇ , καθ’ ὅσον ἄρχων ἐστίν , τὸ αὑτῷ συμφέρον σκοπεῖ οὐδ’ ἐπιτάττει , ἀλλὰ τὸ τῷ ἀρχομένῳ καὶ ᾧ ἂν αὐτὸς δημιουργῇ , καὶ πρὸς ἐκεῖνο βλέπων καὶ τὸ ἐκείνῳ συμφέρον καὶ πρέπον , καὶ λέγει ἃ λέγει καὶ ποιεῖ ἃ ποιεῖ ἅπαντα .
+“Then,” said I, “Thrasymachus, neither does anyone in any office of rule in so far as he is a ruler consider and enjoin his own advantage but that of the one whom he rules and for whom he exercises his craft, and he keeps his eyes fixed on that and on what is advantageous and suitable to that in all that he says and does.”
+
+25402 ἐπειδὴ οὖν ἐνταῦθα ἦμεν τοῦ λόγου καὶ πᾶσι καταφανὲς ἦν ὅτι ὁ τοῦ δικαίου λόγος εἰς τ- ἐναντίον περιειστήκει , ὁ Θρασύμαχος ἀντὶ τοῦ ἀποκρίνεσθαι , εἰπέ μοι , ἔφη , ὦ Σώκρατες , τίτθη σοι ἔστιν ;
+When we had come to this point in the discussion and it was apparent to everybody that his formula of justice had suffered a reversal of form, Thrasymachus, instead of replying, said, “Tell me, Socrates, have you got a nurse?”
+
+25403 τί δέ ;
+“What do you mean?” 
+
+25404 ἦν δ’ ἐγώ ·
+said I.
+
+25405 οὐκ ἀποκρίνεσθαι χρῆν μᾶλλον ἢ τοιαῦτα ἐρωτᾶν ;
+"Why didn't you answer me instead of asking such a question?"
+
+25406 ὅτι τοί σε , ἔφη , κορυζῶντα περιορᾷ καὶ οὐκ ἀπομύττει δεόμενον , ὅς γε αὐτῇ οὐδὲ πρόβατα οὐδὲ ποιμένα γιγνώσκεις .
+"Because," he said, "she lets her little 'snotty' run about drivelling and doesn't wipe your face clean, though you need it badly, if she can't get you to know the difference between the shepherd and the sheep."
+
+25407 ὅτι δὴ τί μάλιστα ;
+“And what, pray, makes you think that?”
+
+25408 ἦν δ’ ἐγώ .
+said I.
+
+25409 ὅτι οἴει τοὺς ποιμένας ἢ τοὺς βουκόλους τὸ τῶν προβάτων ἢ τὸ τῶν βοῶν ἀγαθὸν σκοπεῖν καὶ παχύνειν αὐτοὺς καὶ θεραπεύειν πρὸς ἄλλο τι βλέποντας ἢ τὸ τῶν δεσποτῶν ἀγαθὸν καὶ τὸ αὑτῶν ;
+“Because you think that the shepherds or the herdsmen look to the good of the sheep or the cattle, fattening and caring for them with some other aim than the good of their masters and themselves; and in the same way, you seem to believe that the rulers in the cities, those who truly rule, think of their subjects any differently than as a man regards his sheep, and that they have any other focus night and day than their own benefit.”
+
+
+25410	καὶ οὕτω πόρρω εἶ περί τε τοῦ δικαίου καὶ δικαιοσύνης καὶ ἀδίκου τε καὶ ἀδικίας , ὥστε ἀγνοεῖς ὅτι ἡ μὲν δικαιοσύνη καὶ τὸ δίκαιον ἀλλότριον ἀγαθὸν τῷ ὄντι , τοῦ κρείττονός τε καὶ ἄρχοντος συμφέρον , οἰκεία δὲ τοῦ πειθομένου τε καὶ ὑπηρετοῦντος βλάβη , ἡ δὲ ἀδικία τ- ἐναντίον , καὶ ἄρχει τῶν ὡς ἀληθῶς εὐηθικῶν τε καὶ δικαίων , οἱ δ’ ἀρχόμενοι ποιοῦσιν τὸ ἐκείνου συμφέρον κρείττονος ὄντος , καὶ εὐδαίμονα ἐκεῖνον ποιοῦσιν ὑπηρετοῦντες αὐτῷ , ἑαυτοὺς δὲ οὐδ’ ὁπωστιοῦν .
+"And so you are so far from the truth about justice and injustice that you don't realize justice and what is just are literally the other's good—the advantage of the stronger and ruler, but a loss for the one who obeys and serves; whereas injustice is the opposite, ruling over those who are truly simple and just, making them serve the interests of the stronger, bringing happiness to the ruler, but not benefiting themselves in any way."
+
+25411	σκοπεῖσθαι δέ , ὦ εὐηθέστατε Σώκρατες , οὑτωσὶ χρή , ὅτι δίκαιος ἀνὴρ ἀδίκου πανταχοῦ ἔλαττον ἔχει .
+"And you must understand, my naive Socrates, that a just man always ends up with less than an unjust one in every situation."
+
+25412	πρῶτον μὲν ἐν τοῖς πρὸς ἀλλήλους συμβολαίοις , ὅπου ἂν ὁ τοιοῦτος τῷ τοιούτῳ κοινωνήσῃ , οὐδαμοῦ ἂν εὕροις ἐν τῇ διαλύσει τῆς κοινωνίας πλέον ἔχοντα τὸν δίκαιον τοῦ ἀδίκου ἀλλ’ ἔλαττον ·
+"Firstly, in mutual agreements, wherever a just person partners with an unjust one, at the dissolution of their partnership, you will never find the just person coming out ahead, but always less."
+
+25413	ἔπειτα ἐν τοῖς π
+
+ρὸς τὴν πόλιν , ὅταν τέ τινες εἰσφοραὶ ὦσιν , ὁ μὲν δίκαιος ἀπὸ τῶν ἴσων πλέον εἰσφέρει , ὁ δ’ ἔλαττον , ὅταν τε λήψεις , ὁ μὲν οὐδέν , ὁ δὲ πολλὰ κερδαίνει .
+"Then in matters concerning the city, when taxes are due, the just man pays more from an equal share, and the unjust pays less; and in receiving, the just man gains nothing, while the unjust gains much."
+
+25414	καὶ γὰρ ὅταν ἀρχήν τινα ἄρχῃ ἑκάτερος , τῷ μὲν δικαίῳ ὑπάρχει , καὶ εἰ μηδεμία ἄλλη ζημία , τά γε οἰκεῖα δι’ ἀμέλειαν μοχθηροτέρως ἔχειν , ἐκ δὲ τοῦ δημοσίου μηδὲν ὠφελεῖσθαι διὰ τὸ δίκαιον εἶναι , πρὸς δὲ τούτοις ἀπεχθέσθαι τοῖς τε οἰκείοις καὶ τοῖς γνωρίμοις , ὅταν μηδὲν ἐθέλῃ αὐτοῖς ὑπηρετεῖν παρὰ τὸ δίκαιον ·
+"And indeed, when each holds a position of power, to the just man it means, even if no other harm, his own affairs suffer through neglect, while he gains nothing from the public because of his justice; besides this, he becomes disliked by his own people and acquaintances when he refuses to serve them unjustly."
+
+25415	τῷ δὲ ἀδίκῳ πάντα τούτων τ- ἐναντία ὑπάρχει .
+"But for the unjust man, the exact opposite is true in all these situations."
+
+25416	λέγω γὰρ ὅνπερ νυνδὴ ἔλεγον , τὸν μεγάλα δυνάμενον πλεονεκτεῖν ·
+"For I am saying what I have just been saying, that he who is able to overreach greatly benefits from it."
+
+25417	τοῦτον οὖν σκόπει , εἴπερ βούλει κρίνειν ὅσῳ μᾶλλον συμφέρει ἰδίᾳ αὑτῷ ἄδικον εἶναι ἢ τὸ δίκαιον .
+"Consider this, if you want to judge how much more it benefits a man personally to be unjust rather than just."
+
+25418	πάντων δὲ ῥᾷστα μαθήσῃ , ἐὰν ἐπὶ τὴν τελεωτάτην ἀδικίαν ἔλθῃς , ἣ τὸν μὲν ἀδικήσαντα εὐδαιμονέστατον ποιεῖ , τοὺς δὲ ἀδικηθέντας καὶ ἀδικῆσαι οὐκ ἂν ἐθέλοντας ἀθλιωτάτους .
+"You will learn most easily if you consider the most extreme form of injustice, which makes the perpetrator extremely happy, and those who suffer it, even if unwilling to commit injustice themselves, most miserable."
+
+25419	ἔστιν δὲ τοῦτο τυραννίς , ἣ οὐ κατὰ σμικρὸν τ- ἀλλότρια καὶ λάθρᾳ καὶ βίᾳ ἀφαιρεῖται , καὶ ἱερὰ καὶ ὅσια καὶ ἴδια καὶ δημόσια , ἀλλὰ συλλήβδην ·
+"This extreme form is tyranny, which does not just take a little here and there by stealth and force, but takes everything all at once - sacred, holy, private, and public."
+
+25420	ὧν ἐφ’ ἑκάστῳ μέρει ὅταν τις ἀδικήσας μὴ λάθῃ , ζημιοῦταί τε καὶ ὀνείδη ἔχει τὰ μέγιστα — καὶ γὰρ ἱερόσυλοι καὶ ἀνδραποδισταὶ καὶ τοιχωρύχοι καὶ ἀποστερηταὶ καὶ κλέπται οἱ κατὰ μέρη ἀδικοῦντες τῶν τοιούτων κακουργημάτων καλοῦνται — ἐπειδὰν δέ τις πρὸς τοῖς τῶν πολιτῶν χρήμασιν καὶ αὐτοὺς ἀνδραποδισάμενος δουλώ
+
+σηται , ἀντὶ τούτων τῶν αἰσχρῶν ὀνομάτων εὐδαίμονες καὶ μακάριοι κέκληνται , οὐ μόνον ὑπὸ τῶν πολιτῶν ἀλλὰ καὶ ὑπὸ τῶν ἄλλων ὅσοι ἂν πύθωνται αὐτὸν τὴν ὅλην ἀδικίαν ἠδικηκότα ·
+"When someone commits such injustice and is not concealed, they are penalized and bear the greatest reproach. They are called temple-robbers, kidnappers, burglars, swindlers, thieves. But when someone enslaves the citizens themselves along with their possessions, instead of these shameful names, they are called happy and blessed, not only by the citizens but also by all who learn of the entire injustice they have committed."
+
+25421	οὐ γὰρ τὸ ποιεῖν τὰ ἄδικα ἀλλὰ τὸ πάσχειν φοβούμενοι ὀνειδίζουσιν οἱ ὀνειδίζοντες τὴν ἀδικίαν .
+"For it is not the act of committing injustices but the fear of suffering them that leads those who denounce injustice to do so."
+
+25422	οὕτως , ὦ Σώκρατες , καὶ ἰσχυρότερον καὶ ἐλευθεριώτερον καὶ δεσποτικώτερον ἀδικία δικαιοσύνης ἐστὶν ἱκανῶς γιγνομένη , καὶ ὅπερ ἐξ ἀρχῆς ἔλεγον , τὸ μὲν τοῦ κρείττονος συμφέρον τὸ δίκαιον τυγχάνει ὄν , τὸ δ’ ἄδικον ἑαυτῷ λυσιτελοῦν τε καὶ συμφέρον .
+"Thus, Socrates, injustice, when it is on a large enough scale, is stronger, freer, and more masterful than justice. As I said from the beginning, the just is the advantage of the stronger, while the unjust is beneficial and advantageous to oneself."
+
+25423	ταῦτα εἰπὼν ὁ Θρασύμαχος ἐν νῷ εἶχεν ἀπιέναι , ὥσπερ βαλανεὺς ἡμῶν καταντλήσας κατὰ τῶν ὤτων ἁθρόον καὶ πολὺν τὸν λόγον ·
+"After saying this, Thrasymachus intended to leave, as if he had poured his argument upon our ears in one deluge."
+
+25424	οὐ μὴν εἴασάν γε αὐτὸν οἱ παρόντες , ἀλλ’ ἠνάγκασαν ὑπομεῖναί τε καὶ παρασχεῖν τῶν εἰρημένων λόγον .
+The company, however, did not let him go but insisted that he stay and explain his statements.
+
+25425	καὶ δὴ ἔγωγε καὶ αὐτὸς πάνυ ἐδεόμην τε καὶ εἶπον ·
+And indeed, I myself was very eager for him to do so and said:
+
+25426	ὦ δαιμόνιε Θρασύμαχε , οἷον ἐμβαλὼν λόγον ἐν νῷ ἔχεις ἀπιέναι πρὶν διδάξαι ἱκανῶς ἢ μαθεῖν εἴτε οὕτως εἴτε ἄλλως ἔχει ;
+"Great heavens, Thrasymachus, what a doctrine you are hurling at us, and do you intend to leave before you have taught us sufficiently or learned whether it is actually true?"
+
+25427	ἢ σμικρὸν οἴει ἐπιχειρεῖν πρᾶγμα διορίζεσθαι ὅλου βίου διαγωγήν , ᾗ ἂν διαγόμενος ἕκαστος ἡμῶν λυσιτελεστάτην ζωὴν ζῴη ;
+"Do you think it's a trivial matter to define a way of life that would lead each of us to the most advantageous life?"
+
+25428	ἐγὼ γὰρ οἶμαι , ἔφη ὁ Θρασύμαχος , τουτὶ ἄλλως ἔχειν ;
+"I certainly think otherwise," said Thrasymachus.
+
+25429	ἔοικας , ἦν δ’ ἐγώ — ἤτοι ἡμῶν γε οὐδὲν κήδεσθαι , οὐδέ τι φροντίζειν εἴτε χεῖρον εἴτε βέλτιον βιωσόμεθα ἀγνοοῦντες ὃ σὺ φῂς εἰδέναι .
+"You seem," I replied, "to care nothing for us, and not to mind whether we will live worse or better lives in our ignorance of what you claim to know."
+
+25430	ἀλλ’ , ὠγαθέ , προθυμοῦ καὶ ἡμῖν ἐνδείξασθαι — οὔτοι κακῶς σοι κείσεται ὅτι ἂν ἡμᾶς τοσούσδε ὄντας εὐεργετήσῃς — ἐγὼ γὰρ δή σοι λέγω τό γ’ ἐμόν , ὅτι οὐ πείθομαι οὐδ’ οἶμαι ἀδικίαν δικαιοσύνης κερδαλεώτερον εἶναι , οὐδ’ ἐὰν ἐᾷ τις αὐτὴν καὶ μὴ διακωλύῃ πράττειν ἃ βούλεται .
+"But please, good sir, be eager to show us as well – it will not be a bad investment for you to benefit so many of us here. I tell you my view, that I am not persuaded, nor do I believe that injustice is more profitable than justice, even if it is allowed to act unimpeded."
+
+25431	ἀλλ’ , ὠγαθέ , ἔστω μὲν ἄδικος , δυνάσθω δὲ ἀδικεῖν ἢ τῷ λανθάνειν ἢ τῷ διαμάχεσθαι , ὅμως ἐμέ γε οὐ πείθει ὡς ἔστι τῆς δικαιοσύνης κερδαλεώτερον .
+"But even if someone is unjust and has the power to commit injustice, either by deception or by force, this still does not convince me that it is more profitable than justice."
+
+25432	ταῦτ’ οὖν καὶ ἕτερος ἴσως τις ἡμῶν πέπονθεν , οὐ μόνος ἐγώ ·
+"Perhaps others among us feel the same way; it's not just me."
+
+25433	πεῖσον οὖν , ὦ μακάριε , ἱκανῶς ἡμᾶς ὅτι οὐκ ὀρθῶς βουλευόμεθα δικαιοσύνην ἀδικίας περὶ πλείονος ποιούμενοι .
+"So please, honored sir, convince us adequately that we are not right in valuing justice over injustice."
+
+25434	καὶ πῶς , ἔφη , σὲ πείσω ;
+"And how," he said, "shall I convince you?"
+
+25435	εἰ γὰρ οἷς νυνδὴ ἔλεγον μὴ πέπεισαι , τί σοι ἔτι ποιήσω ;
+"If you are not convinced by what I have just said, what more can I do for you?"
+
+25436	ἢ εἰς τὴν ψυχὴν φέρων ἐνθῶ τὸν λόγον ;
+"Should I take the argument and force it into your soul?"
+
+25437	μὰ Δί’ , ἦν δ’ ἐγώ , μὴ σύ γε ·
+"By Zeus,"
+
+ I said, "please don't do that."
+
+25438	ἀλλὰ πρῶτον μέν , ἃ ἂν εἴπῃς , ἔμμενε τούτοις , ἢ ἐὰν μετατιθῇ , φανερῶς μετατίθεσο καὶ ἡμᾶς μὴ ἐξαπάτα .
+"But first, whatever you say, stick to it, or if you change your position, do so openly and do not deceive us."
+
+25439	νῦν δὲ ὁρᾷς , ὦ Θρασύμαχε — ἔτι γὰρ τὰ ἔμπροσθεν ἐπισκεψώμεθα — ὅτι τὸν ὡς ἀληθῶς ἰατρὸν τὸ πρῶτον ὁριζόμενος τὸν ὡς ἀληθῶς ποιμένα οὐκέτι ᾤου δεῖν ὕστερον ἀκριβῶς φυλάξαι , ἀλλὰ πιαίνειν οἴει αὐτὸν τὰ πρόβατα , καθ’ ὅσον ποιμήν ἐστιν , οὐ πρὸς τὸ τῶν προβάτων βέλτιστον βλέποντα ἀλλ’ , ὥσπερ δαιτυμόνα τινὰ καὶ μέλλοντα ἑστιάσεσθαι , πρὸς τὴν εὐωχίαν , ἢ αὖ πρὸς τὸ ἀποδόσθαι , ὥσπερ χρηματιστὴν ἀλλ’ οὐ ποιμένα .
+"Now, Thrasymachus, let's reconsider what was said before. You defined a true physician and a true shepherd, but you didn't maintain this precision later on. Instead, you think that the shepherd fattens the sheep not for their best interest, but as if he were a banqueter preparing for a feast, or a merchant looking to profit, not as a true shepherd."
+
+25440	τῇ δὲ ποιμενικῇ οὐ δήπου ἄλλου του μέλει ἢ ἐφ’ ᾧ τέτακται , ὅπως τούτῳ τὸ βέλτιστον ἐκποριεῖ — ἐπεὶ τά γε αὑτῆς ὥστ’ εἶναι βελτίστη ἱκανῶς δήπου ἐκπεπόρισται , ἕως γ’ ἂν μηδὲν ἐνδέῃ τοῦ ποιμενικὴ εἶναι — οὕτω δὲ ᾤμην ἔγωγε νυνδὴ ἀναγκαῖον εἶναι ἡμῖν ὁμολογεῖν πᾶσαν ἀρχήν , καθ’ ὅσον ἀρχή , μηδενὶ ἄλλῳ τὸ βέλτιστον σκοπεῖσθαι ἢ ἐκείνῳ , τῷ ἀρχομένῳ τε καὶ θεραπευομένῳ , ἔν τε πολιτικῇ καὶ ἰδιωτικῇ ἀρχῇ .
+"For the shepherd's art surely cares for nothing else than to provide the best for that over which it is set, since its own best condition has surely been amply secured, provided it in no way falls short of being shepherding. Thus, I thought we now had to admit that every form of rule, in so far as it is rule, aims at what is best for nothing else than that which is ruled and cared for, both in political and private governance."
+
+25441	σὺ δὲ τοὺς ἄρχοντας ἐν ταῖς πόλεσιν , τοὺς ὡς ἀληθῶς ἄρχοντας , ἑκόντας οἴει ἄρχειν ;
+"Do you think that those who hold offices in the cities, the true rulers, rule willingly?"
+
+25442	μὰ Δί’ οὔκ , ἔφη , ἀλλ’ εὖ οἶδα .
+"By Zeus, no," he said, "but I know very well."
+
+25443	τί δέ , ἦν δ’ ἐγώ , ὦ Θρασύμαχε ;
+"What, then," I said, "Thrasymachus?"
+
+25444	τὰς ἄλλας ἀρχὰς οὐκ ἐννοεῖς ὅτι οὐδεὶς ἐθέλει ἄρχειν ἑκών , ἀλλὰ μισθὸν αἰτοῦσιν , ὡς οὐχὶ αὐτοῖσιν ὠφελίαν ἐσομένην ἐκ τοῦ ἄρχειν ἀλλὰ τοῖς ἀρχομένοις ;
+"Do you not realize that no one willingly holds other offices of rule but they demand a wage, indicating that the benefit of holding office accrues not to themselves but to those whom they rule?"
+
+25445	ἐπεὶ τοσόνδε εἰπέ ·
+"Since you have said so much,"
+
+25446	οὐχὶ ἑκάστην μέντοι φαμὲν ἑκάστοτε τῶν τεχνῶν τούτῳ ἑτέραν εἶναι , τῷ ἑτέραν τὴν δύναμιν ἔχειν ;
+"Do we not say that each art is distinct from every other art in so far as it has a different power or function?"
+
+25447	καί , ὦ μακάριε , μὴ παρὰ δόξαν ἀποκρίνου , ἵνα τι καὶ περαίνωμεν .
+"And, my dear Thrasymachus, do not answer against your belief, so that we may reach some conclusion."
+
+25448	ἀλλὰ τούτῳ , ἔφη , ἑτέρα .
+"But to this," he said, "it is different."
+
+25449	οὐκοῦν καὶ ὠφελίαν ἑκάστη τούτων ἰδίαν τινὰ ἡμῖν παρέχεται ἀλλ’ οὐ κοινήν , οἷον ἰατρικὴ μὲν ὑγίειαν , κυβερνητικὴ δὲ σωτηρίαν ἐν τῷ πλεῖν , καὶ αἱ ἄλλαι οὕτω ;
+"Is it not so that each of these arts provides a specific benefit to us, not a general one, such as medicine with health, the art of the pilot with safety at sea, and the others similarly?"
+
+25450	πάνυ γε .
+"Very much so."
+
+25451	οὐκοῦν καὶ μισθωτικὴ μισθόν ;
+"And does not the wage-earning art yield a wage?"
+
+25452	αὕτη γὰρ αὐτῆς ἡ δύναμις ·
+"For this is its power."
+
+25453	ἢ τὴν ἰατρικὴν σὺ καὶ τὴν κυβερνητικὴν τὴν αὐτὴν καλεῖς ;
+"Or do you call medicine and the art of piloting the same thing?"
+
+
+
+25454	ἢ ἐάνπερ βούλῃ ἀκριβῶς διορίζειν , ὥσπερ ὑπέθου , οὐδέν τι μᾶλλον , ἐάν τις κυβερνῶν ὑγιὴς γίγνηται διὰ τὸ συμφέρον αὐτῷ πλεῖν ἐν τῇ θαλάττῃ , ἕνεκα τούτου καλεῖς μᾶλλον αὐτὴν ἰατρικήν ;
+"Or, if you wish to define precisely as you suggested, would you not say that if someone becomes healthy while piloting due to the beneficial nature of sailing, this does not make it medicine?"
+
+25455	οὐ δῆτα , ἔφη .
+"Certainly not," he said.
+
+25456	οὐδέ γ’ , οἶμαι , τὴν μισθωτικήν , ἐὰν ὑγιαίνῃ τις μισθαρνῶν .
+"Nor would you call it wage-earning if someone is healthy while earning wages."
+
+25457	οὐ δῆτα .
+"Certainly not."
+
+25458	τί δέ ;
+"But what then?"
+
+25459	τὴν ἰατρικὴν μισθαρνητικήν , ἐὰν ἰώμενός τις μισθαρνῇ ;
+"Do you call it wage-earning medicine if someone earns wages while being treated?"
+
+25460	οὐκ ἔφη .
+"He said no."
+
+25461	οὐκοῦν τήν γε ὠφελίαν ἑκάστης τῆς τέχνης ἰδίαν ὡμολογήσαμεν εἶναι ;
+"Then, have we not agreed that the benefit of each art is its own and not shared?"
+
+25462	ἔστω , ἔφη .
+"So be it," he said.
+
+25463	ἥντινα ἄρα ὠφελίαν κοινῇ ὠφελοῦνται πάντες οἱ δημιουργοί , δῆλον ὅτι κοινῇ τινι τῷ αὐτῷ προσχρώμενοι ἀπ’ ἐκείνου ὠφελοῦνται .
+"So it is clear that whatever common benefit all craftsmen share, they derive from their common use of the same thing."
+
+25464	ἔοικεν , ἔφη .
+"It seems so," he said.
+
+25465	φαμὲν δέ γε τὸ μισθὸν ἀρνυμένους ὠφελεῖσθαι τοὺς δημιουργοὺς ἀπὸ τοῦ προσχρῆσθαι τῇ μισθωτικῇ τέχνῃ γίγνεσθαι αὐτοῖς .
+"We say that craftsmen benefit from receiving wages by employing the wage-earning art."
+
+25466	συνέφη μόγις .
+He agreed reluctantly.
+
+25467	οὐκ ἄρα ἀπὸ τῆς αὑτοῦ τέχνης ἑκάστῳ αὕτη ἡ ὠφελία ἐστίν , ἡ τοῦ μισθοῦ λῆψις , ἀλλ’ , εἰ δεῖ ἀκριβῶς σκοπεῖσθαι , ἡ μὲν ἰατρικὴ ὑγίειαν ποιεῖ , ἡ δὲ μισθαρνητικὴ μισθόν , καὶ ἡ μὲν οἰκοδομικὴ οἰκίαν , ἡ δὲ μισθαρνητικὴ αὐτῇ ἑπομένη μισθόν , καὶ αἱ ἄλλαι πᾶσαι οὕτως τὸ αὑτῆς ἑκάστη ἔργον ἐργάζεται καὶ ὠφελεῖ ἐκεῖνο ἐφ’ ᾧ τέτακται .
+"Therefore, the benefit for each individual from his own craft is not the earning of wages; rather, if we must look at it precisely, medicine produces health, the wage-earning art produces wages, architecture produces a house, and the wage-earning art that follows it produces wages, and so each of the other arts works and benefits that for which it has been appointed."
+
+25468	ἐὰν δὲ μὴ μισθὸς αὐτῇ προσγίγνηται , ἔσθ’ ὅτι ὠφελεῖται ὁ δημιουργὸς ἀπὸ τῆς τέχνης ;
+"But if no wage accrues to it, is there any benefit that the craftsman receives from the craft?"
+
+25469	οὐ φαίνεται , ἔφη .
+"It does not appear so," he said.
+
+25470	ἆρ’ οὖν οὐδ’ ὠφελεῖ τότε , ὅταν προῖκα ἐργάζηται ;
+"Then does it not even benefit when he works for nothing?"
+
+25471	οἶμαι ἔγωγε .
+"I think it does," I said.
+
+25472	οὐκοῦν , ὦ Θρασύμαχε , τοῦτο ἤδη δῆλον , ὅτι οὐδεμία τέχνη οὐδὲ ἀρχὴ τὸ αὑτῇ ὠφέλιμον παρασκευάζει , ἀλλ’ , ὅπερ πάλαι ἐλέγομεν , τὸ τῷ ἀρχομένῳ καὶ παρασκευάζει καὶ ἐπιτάττει , τὸ ἐκείνου συμφέρον ἥττονος ὄντος σκοποῦσα , ἀλλ’ οὐ τὸ τοῦ κρείττονος .
+"Therefore, Thrasymachus, it is now clear that no art or rule provides what is beneficial for itself, but, as we said earlier, it provides and prescribes what is beneficial for the subject, focusing on the advantage of the weaker, not the stronger."
+
+25473	διὰ δὴ ταῦτα ἔγωγε , ὦ φίλε Θρασύμαχε , καὶ ἄρτι ἔλεγον μηδένα ἐθέλειν ἑκόντα ἄρχειν καὶ τὰ ἀλλότρια κακὰ μεταχειρίζεσθαι ἀνορθοῦντα , ἀλλὰ μισθὸν αἰτεῖν , ὅτι ὁ μέλλων καλῶς τῇ τέχνῃ πράξειν οὐδέποτε αὑτῷ τὸ βέλτιστον πράττει οὐδ’ ἐπιτάττει κατὰ τὴν τέχνην ἐπιτάττων , ἀλλὰ τῷ ἀρχομένῳ ·
+"For this reason, my dear Thrasymachus, I was saying earlier that no one willingly chooses to govern and handle other people's problems to set them right, but demands payment, because whoever is going to act well in his craft never does what is best for himself nor commands it according to the craft, but what is best for the subject."
+
+25474	ὧν δὴ ἕνεκα , ὡς ἔοικε , μισθὸν δεῖν ὑπάρχειν τοῖς μέλλουσιν ἐθελήσειν ἄρχειν , ἢ ἀργύριον ἢ τιμήν , ἢ ζημίαν ἐὰν μὴ ἄρχῃ .
+"For this reason, it seems necessary that those who are to consent to rule should be paid, whether in money or honor, or else they should face a penalty if they refuse to rule."
+
+25475	πῶς τοῦτο λέγεις , ὦ Σώκρατες ;
+"How do you mean that, Socrates?" said Glaucon.
+
+25476	ἔφη ὁ Γλαύκων ·
+said Glaucon.
+
+25477	τοὺς μὲν γὰρ δύο μισθοὺς γιγνώσκω , τὴν δὲ ζημίαν ἥντινα λέγεις καὶ ὡς ἐν μισθοῦ μέρει εἴρηκας , οὐ συνῆκα .
+"I recognize the two forms of payment you mentioned, but the penalty you speak of and describe as a form of wage, I do not understand."
+
+25478	τὸν τῶν βελτίστων ἄρα μισθόν , ἔφην , οὐ συνιεῖς , δι’ ὃν ἄρχουσιν οἱ ἐπιεικέστατοι , ὅταν ἐθέλωσιν ἄρχειν .
+"The best form of payment, I said, you do not understand—the one for which the most equitable men govern when they consent to rule."
+
+25479	ἢ οὐκ οἶσθα ὅτι τὸ φιλότιμόν τε καὶ φιλάργυρον εἶναι ὄνει
+
+δος λέγεταί τε καὶ ἔστιν ;
+"Do you not know that being ambitious and covetous of money is considered and indeed is a reproach?"
+
+25480	ἔγωγε , ἔφη .
+"Certainly," he said.
+
+25481	διὰ ταῦτα τοίνυν , ἦν δ’ ἐγώ , οὔτε χρημάτων ἕνεκα ἐθέλουσιν ἄρχειν οἱ ἀγαθοὶ οὔτε τιμῆς ·
+"For this reason, then," I continued, "the good do not wish to rule either for the sake of money or honor."
+
+25482	οὔτε γὰρ φανερῶς πραττόμενοι τῆς ἀρχῆς ἕνεκα μισθὸν μισθωτοὶ βούλονται κεκλῆσθαι , οὔτε λάθρᾳ αὐτοὶ ἐκ τῆς ἀρχῆς λαμβάνοντες κλέπται .
+"They do not wish to be called hirelings for openly doing it for the sake of ruling, nor thieves for secretly taking from their position of power."
+
+25483	οὐδ’ αὖ τιμῆς ἕνεκα ·
+"Nor do they desire it for the sake of honor;"
+
+25484	οὐ γάρ εἰσι φιλότιμοι .
+"for they are not ambitious."
+
+25485	δεῖ δὴ αὐτοῖς ἀνάγκην προσεῖναι καὶ ζημίαν , εἰ μέλλουσιν ἐθέλειν ἄρχειν — ὅθεν κινδυνεύει τὸ ἑκόντα ἐπὶ τὸ ἄρχειν ἰέναι ἀλλὰ μὴ ἀνάγκην περιμένειν αἰσχρὸν νενομίσθαι — τῆς δὲ ζημίας μεγίστη τὸ ὑπὸ πονηροτέρου ἄρχεσθαι , ἐὰν μὴ αὐτὸς ἐθέλῃ ἄρχειν ·
+"So there must be a necessity and a penalty for them if they are to be willing to rule—so that it becomes disgraceful to willingly go for ruling rather than waiting out of necessity. The greatest penalty is to be governed by someone worse, if one does not wish to govern oneself."
+
+25486	ἣν δείσαντές μοι φαίνονται ἄρχειν , ὅταν ἄρχωσιν , οἱ ἐπιεικεῖς , καὶ τότε ἔρχονται ἐπὶ τὸ ἄρχειν οὐχ ὡς ἐπ’ ἀγαθόν τι ἰόντες οὐδ’ ὡς εὐπαθήσοντες ἐν αὐτῷ , ἀλλ’ ὡς ἐπ’ ἀναγκαῖον καὶ οὐκ ἔχοντες ἑαυτῶν βελτίοσιν ἐπιτρέψαι οὐδὲ ὁμοίοις .
+"Fearing this penalty, it seems to me, the decent people rule when they do rule. And then they approach ruling not as if going to something good, nor as if they will find happiness in it, but as a necessary duty and because they cannot entrust it to better or like persons."
+
+25487	ἐπεὶ κινδυνεύει πόλις ἀνδρῶν ἀγαθῶν εἰ γένοιτο , περιμάχητον ἂν εἶναι τὸ μὴ ἄρχειν ὥσπερ νυνὶ τὸ ἄρχειν , καὶ ἐνταῦθ’ ἂν καταφανὲς γενέσθαι ὅτι τῷ ὄντι ἀληθινὸς ἄρχων οὐ πέφυκε τὸ αὑτῷ συμφέρον σκοπεῖσθαι ἀλλὰ τὸ τῷ ἀρχομένῳ ·
+"For if a city of good men were to exist, the fight to not rule would be as fierce as the fight to rule now. And then it would become clear that the true ruler is not naturally inclined to seek his own benefit but the benefit of the ruled."
+
+25488	ὥστε πᾶς ἂν ὁ γιγνώσκων τὸ ὠφελεῖσθαι μᾶλλον ἕλοιτο ὑπ’ ἄλλου ἢ ἄλλον ὠφελῶν πράγματα ἔχειν .
+"Therefore, anyone who truly understands what it means to benefit would prefer to be benefited by others rather than to be in the position of benefiting others."
+
+25489	τοῦτο μὲν οὖν ἔγωγε οὐδαμῇ συγχωρῶ Θρασυμάχῳ , ὡς τὸ δίκαιόν ἐστιν τὸ τοῦ κρείττονος συμφέρον .
+"This then, I by no means concede to Thrasymachus, that justice is the interest of the stronger."
+
+25490	ἀλλὰ τοῦτο μὲν δὴ καὶ εἰς αὖθις σκεψόμεθα ·
+"But we will consider this further another time."
+
+25491	πολὺ δέ μοι δοκεῖ μεῖ
+
+ζον εἶναι ὃ νῦν λέγει Θρασύμαχος , τὸν τοῦ ἀδίκου βίον φάσκων εἶναι κρείττω ἢ τὸν τοῦ δικαίου .
+"And much more significant seems to me the current statement of Thrasymachus, claiming that the life of the unjust is better than that of the just."
+
+25492	σὺ οὖν ποτέρως , ἦν δ’ ἐγώ , ὦ Γλαύκων , αἱρῇ ;
+"Which then do you choose, Glaucon," I asked, "and which seems to you to be the truer statement?"
+
+25493	καὶ πότερον ἀληθεστέρως δοκεῖ σοι λέγεσθαι ;
+"And which appears to you to be more true?"
+
+25494	τὸν τοῦ δικαίου ἔγωγε λυσιτελέστερον βίον εἶναι .
+"That the life of the just is more advantageous," he replied.
+
+25495	ἤκουσας , ἦν δ’ ἐγώ , ὅσα ἄρτι Θρασύμαχος ἀγαθὰ διῆλθεν τῷ τοῦ ἀδίκου ;
+"Did you hear," I said, "all the advantages that Thrasymachus just now attributed to the life of the unjust?"
+
+25496	ἤκουσα , ἔφη , ἀλλ’ οὐ πείθομαι .
+"I heard," he said, "but I am not convinced."
+
+25497	βούλει οὖν αὐτὸν πείθωμεν , ἂν δυνώμεθά πῃ ἐξευρεῖν , ὡς οὐκ ἀληθῆ λέγει ;
+"Do you then want us to persuade him, if we can somehow find a way, that what he says is not true?"
+
+25498	πῶς γὰρ οὐ βούλομαι ;
+"Of course I want that," he said.
+
+25499	ἦ δ’ ὅς .
+"Indeed," I replied.
+
+25500	ἂν μὲν τοίνυν , ἦν δ’ ἐγώ , ἀντικατατείναντες λέγωμεν αὐτῷ λόγον παρὰ λόγον , ὅσα αὖ ἀγαθὰ ἔχει τὸ δίκαιον εἶναι , καὶ αὖθις οὗτος , καὶ ἄλλον ἡμεῖς , ἀριθμεῖν δεήσει τ- ἀγαθὰ καὶ μετρεῖν ὅσα ἑκάτεροι ἐν ἑκατέρῳ λέγομεν , καὶ ἤδη δικαστῶν τινων τῶν διακρινούντων δεησόμεθα ·
+"If, then," I said, "we oppose him with an argument against argument, listing all the advantages of being just, and he again, and we another, we will need to count up the advantages and measure how many each of us states in each case, and then we will need some judges to decide between us."
+
+25501	ἂν δὲ ὥσπερ ἄρτι ἀνομολογούμενοι πρὸς ἀλλήλους σκοπῶμεν , ἅμα αὐτοί τε δικασταὶ καὶ ῥήτορες ἐσόμεθα .
+"But if, as we did just now, we proceed by mutual agreement in our examination, we ourselves will be both the judges and the speakers."
+
+25502	πάνυ μὲν οὖν , ἔφη .
+"Very well then," he said.
+
+25503	ὁποτέρως οὖν σοι , ἦν δ’ ἐγώ , ἀρέσκει .
+"Which way do you prefer?" I asked.
+
+25504	οὕτως , ἔφη .
+"This way," he said.
+
+25505	ἴθι δή , ἦν δ’ ἐγώ , ὦ Θρασύμαχε , ἀπόκριναι ἡμῖν ἐξ ἀρ
+
+χῆς .
+"Come then," I said, "Thrasymachus, answer us from the beginning."
+
+25506	τὴν τελέαν ἀδικίαν τελέας οὔσης δικαιοσύνης λυσιτελεστέραν φῂς εἶναι ;
+"Do you say that perfect injustice is more profitable than perfect justice?"
+
+25507	πάνυ μὲν οὖν καὶ φημί , ἔφη , καὶ δι’ ἅ , εἴρηκα .
+"Most certainly I do," he said, "and for the reasons I have given."
+
+25508	φέρε δή , τὸ τοιόνδε περὶ αὐτῶν πῶς λέγεις ;
+"Tell me then, what do you say about this aspect of them?"
+
+25509	τὸ μέν που ἀρετὴν αὐτοῖν καλεῖς , τὸ δὲ κακίαν ;
+"Do you call one of them virtue and the other vice?"
+
+25510	πῶς γὰρ οὔ ;
+"How could it be otherwise?"
+
+25511	οὐκοῦν τὴν μὲν δικαιοσύνην ἀρετήν , τὴν δὲ ἀδικίαν κακίαν ;
+"Is not then justice a virtue and injustice a vice?"
+
+25512	εἰκός γ’ , ἔφη , ὦ ἥδιστε , ἐπειδή γε καὶ λέγω ἀδικίαν μὲν λυσιτελεῖν , δικαιοσύνην δ’ οὔ .
+"It's likely," he said, "my sweet Socrates, since I say that injustice is profitable, but justice is not."
+
+25513	ἀλλὰ τί μήν ;
+"But what about it?"
+
+25514	τ- ἐναντίον , ἦ δ’ ὅς .
+"The opposite," I said.
+
+25515	ἦ τὴν δικαιοσύνην κακίαν ;
+"Is justice then vice?"
+
+25516	οὔκ , ἀλλὰ πάνυ γενναίαν εὐήθειαν .
+"No, but a very noble simplicity."
+
+25517	τὴν ἀδικίαν ἄρα κακοήθειαν καλεῖς ;
+"Do you call injustice badness of character?"
+
+25518	οὔκ , ἀλλ’ εὐβουλίαν , ἔφη .
+"No, but good judgement," he said.
+
+25519	ἦ καὶ φρόνιμοί σοι , ὦ Θρασύμαχε , δοκοῦσιν εἶναι καὶ ἀγαθοὶ οἱ ἄδικοι ;
+"Do you think, Thrasymachus, that the unjust are wise and good?"
+
+25520	οἵ γε τελέως , ἔφη , οἷοί τε ἀδικεῖν , πόλεις τε καὶ ἔθνη δυνάμενοι ἀνθρώπων ὑφ’ ἑαυτοὺς ποιεῖσθαι ·
+"Those who are capable of complete injustice, able to subject cities and nations of men to themselves," he said, "yes, they are."
+
+25521	σὺ δὲ οἴει με ἴσως τοὺς τὰ βαλλάντια ἀποτέμνοντας λέγειν .
+"Do you think I am referring to those who cut purses?"
+
+25522	λυσιτελεῖ μὲν οὖν , ἦ δ’ ὅς , καὶ τὰ τοιαῦτα , ἐάνπερ λανθάνῃ ·
+"It is profitable, indeed," I said, "to do such things, provided one does not get caught."
+
+25523	ἔστι δὲ οὐκ ἄξια λόγου , ἀλλ’ ἃ νυνδὴ ἔλεγον .
+"But they are not worthy of serious consideration; rather, what I was speaking about just now is."
+
+25524	τοῦτο μέν , ἔφην , οὐκ ἀγνοῶ ὃ βούλει λέγειν , ἀλλὰ τόδε ἐθαύμασα , εἰ ἐν ἀρετῆς καὶ σοφίας τιθεῖς μέρει τὴν ἀδικίαν , τὴν δὲ δικαιοσύνην ἐν τοῖς ἐναντίοις .
+"I understand what you want to say," I said, "but I am surprised if you place injustice in the category of virtue and wisdom, and justice in the opposite category."
+
+25525	ἀλλὰ πάνυ οὕτω τίθημι .
+"Yes, I do place them just so," he replied.
+
+25526	τοῦτο , ἦν δ’ ἐγώ , ἤδη στερεώτερον , ὦ ἑταῖρε , καὶ οὐκέτι ῥᾴδιον ἔχειν ὅτι τις εἴπῃ .
+"This," I said, "is indeed a more substantial claim, my friend, and not so easy to maintain."
+
+25527	εἰ γὰρ λυσιτελεῖν μὲν τὴν ἀδικίαν ἐτίθεσο, κακίαν μέντοι ἢ αἰσχρὸν αὐτὸ ὡμολόγεις εἶναι ὥσπερ ἄλλοι τινές, εἴχομεν ἄν τι λέγειν κατὰ τὰ νομιζόμενα λέγοντες.
+"If you were to claim that injustice is profitable but admit that it is wicked or shameful, as some others do, we could have an argument according to conventional ideas."
+
+25528	νῦν δὲ δῆλος εἶ ὅτι φήσεις αὐτὸ καὶ καλὸν καὶ ἰσχυρὸν εἶναι καὶ τ- ἄλλα αὐτῷ πάντα προσθήσεις ἃ ἡμεῖς τῷ δικαίῳ προσετίθεμεν, ἐπειδή γε καὶ ἐν ἀρετῇ αὐτὸ καὶ σοφίᾳ ἐτόλμησας θεῖναι.
+"But now, it's clear that you will say that injustice is both good and strong, and you will add to it all those other attributes that we attribute to justice, since you dared to place it in the category of virtue and wisdom."
+
+25529	ἀληθέστατα, ἔφη, μαντεύῃ.
+"You are absolutely right in your guess," he said.
+
+25530	ἀλλ’ οὐ μέντοι, ἦν δ’ ἐγώ, ἀποκνητέον γε τῷ λόγῳ ἐπεξελθεῖν σκοπούμενον, ἕως ἄν σε ὑπολαμβάνω λέγειν ἅπερ διανοῇ.
+"Nevertheless," I said, "we should not be deterred from pursuing the argument, as long as I think you are saying what you really believe."
+
+25531	ἐμοὶ γὰρ δοκεῖς σύ, ὦ Θρασύμαχε, ἀτεχνῶς νῦν οὐ σκώπτειν, ἀλλὰ τὰ δοκοῦντα περὶ τῆς ἀληθείας λέγειν.
+"For it seems to me, Thrasymachus, that you are not jesting now but are seriously stating your beliefs about the truth."
+
+25532	τί δέ σοι, ἔφη, τοῦτο διαφέρει, εἴτε μοι δοκεῖ εἴτε μή, ἀλλ’ οὐ τὸν λόγον ἐλέγχεις;
+"What does it matter to you," he said, "whether I believe it or not? Shouldn't you be refuting the argument?"
+
+25533	οὐδέν, ἦν δ’ ἐγώ.
+"Nothing," I said.
+
+25534	ἀλλὰ τόδε μοι πειρῶ ἔτι πρὸς τούτοις ἀποκρίνασθαι: ὁ δίκαιος τοῦ δικαίου δοκεῖ τί σοι ἂν ἐθέλειν πλέον ἔχειν;
+"But let me try to ask you something else: Does a just person seem to you to want to have more than another just person?"
+
+25535	οὐδαμῶς, ἔφη.
+"Not at all," he said.
+
+25536	οὐ γὰρ ἂν ἦν ἀστεῖος, ὥσπερ νῦν, καὶ εὐήθης.
+"For then he would not be as amusing and naive as he is now."
+
+25537	τί δέ; τῆς δικαίας πράξεως;
+"What then? Of a just action?"
+
+25538	οὐδὲ τῆς δικαίας, ἔφη.
+"Not even of a just action," he said.
+
+25539	τοῦ δὲ ἀδίκου πότερον ἀξιοῖ ἂν πλεονεκτεῖν καὶ ἡγοῖτο δίκαιον εἶναι, ἢ οὐκ ἂν ἡγοῖτο;
+"Would an unjust person then think it proper to have more than an unjust person and consider it just, or would he not think so?"
+
+25540	ἡγοῖτ' ἄν, ἦ δ’ ὅς, καὶ ἀξιοῖ, ἀλλ’ οὐκ ἂν δύναιτο.
+"He would think so," he said, "and would consider it just, but he would not be able to achieve it."
+
+25541	ἀλλ’ οὐ τοῦτο, ἦν δ’ ἐγώ, ἐρωτῶ, ἀλλ’ εἰ τοῦ μὲν δικαίου μὴ ἀξιοῖ πλέον ἔχειν μηδὲ βούλεται ὁ δίκαιος, τοῦ δὲ ἀδίκου;
+"But that's not what I'm asking," I said. "I'm asking whether a just person would not want to have more than another just person, but would he want to have more than an unjust person?"
+
+25542	ἀλλ’ οὕτως, ἔφη, ἔχει.
+"Yes, that's how it is," he said.
+
+25543	τί δὲ δὴ ὁ ἄδικος; ἆρα ἀξιοῖ τοῦ δικαίου πλεονεκτεῖν καὶ τῆς δικαίας πράξεως;
+"What about the unjust man then? Would he aim to have more than the just man and a just action?"
+
+25544	πῶς γὰρ οὔκ; ἔφη, ὅς γε πάντων πλέον ἔχειν ἀξιοῖ.
+"How could he not?" he said. "He would certainly aim to have more than everyone."
+
+25545	τί δὲ δὴ ὁ ἄδικος ;
+"What about the unjust man?"
+
+25546	ἆρα ἀξιοῖ τοῦ δικαίου πλεονεκτεῖν καὶ τῆς δικαίας πράξεως ;
+"Does he think it right to take advantage of the just and of just actions?"
+
+25547	πῶς γὰρ οὔκ ;
+"Of course he does," he said, "since he thinks it right to have the advantage over everything."
+
+25548	ἔφη , ὅς γε πάντων πλέον ἔχειν ἀξιοῖ ;
+"He said that the unjust man aims to have more than everyone else."
+
+25549	οὐκοῦν καὶ ἀδίκου γε ἀνθρώπου τε καὶ πράξεως ὁ ἄδικος πλεονεκτήσει καὶ ἁμιλλήσεται ὡς ἁπάντων πλεῖστον αὐτὸς λάβῃ ;
+"So, the unjust man will seek to take advantage of not only the just, but also the unjust, both people and actions, competing to gain the most for himself?"
+
+25550	ἔστι ταῦτα .
+"That is so," he agreed.
+
+25551	ὧδε δὴ λέγωμεν , ἔφην ·
+"Let us then state it this way," I said.
+
+25552	ὁ δίκαιος τοῦ μὲν ὁμοίου οὐ πλεονεκτεῖ , τοῦ δὲ ἀνομοίου , ὁ δὲ ἄδικος τοῦ τε ὁμοίου καὶ τοῦ ἀνομοίου ;
+"The just man does not take advantage of his like but of his unlike, whereas the unjust man takes advantage of both his like and his unlike?"
+
+25553	ἄριστα , ἔφη , εἴρηκας .
+"Excellently put," he said.
+
+25554	ἔστιν δέ γε , ἔφην , φρόνιμός τε καὶ ἀγαθὸς ὁ ἄδικος , ὁ δὲ δίκαιος οὐδέτερα ;
+"And is it not the case," I said, "that the unjust man is considered intelligent and good, while the just man is neither?"
+
+25555	καὶ τοῦτ’ , ἔφη , εὖ .
+"And that too," he said, "is well put."
+
+25556	οὐκοῦν , ἦν δ’ ἐγώ , καὶ ἔοικε τῷ φρονίμῳ καὶ τῷ ἀγαθῷ ὁ ἄδικος , ὁ δὲ δίκαιος οὐκ ἔοικεν ;
+"Then," I said, "the unjust man resembles the intelligent and the good, while the just man does not?"
+
+25557	πῶς γὰρ οὐ μέλλει , ἔφη , ὁ τοιοῦτος ὢν καὶ ἐοικέναι τοῖς τοιούτοις , ὁ δὲ μὴ ἐοικέναι ;
+"How could he not," he said, "being such,
+
+ resemble such people, and the other not resemble them?"
+
+25558	καλῶς .
+"Well put."
+
+25559	τοιοῦτος ἄρα ἐστὶν ἑκάτερος αὐτῶν οἷσπερ ἔοικεν ;
+"Then each is as he appears to be?"
+
+25560	ἀλλὰ τί μέλλει ;
+"What else could it be?" he said.
+
+25561	ἔφη .
+He agreed.
+
+25562	εἶεν , ὦ Θρασύμαχε ·
+"So be it, Thrasymachus."
+
+25563	μουσικὸν δέ τινα λέγεις , ἕτερον δὲ ἄμουσον ;
+"Do you agree that one man is musical and another unmusical?"
+
+25564	ἔγωγε .
+"Certainly."
+
+25565	πότερον φρόνιμον καὶ πότερον ἄφρονα ;
+"Which is the intelligent and which the unintelligent?"
+
+25566	τὸν μὲν μουσικὸν δήπου φρόνιμον , τὸν δὲ ἄμουσον ἄφρονα .
+"The musical man is surely intelligent, and the unmusical man unintelligent."
+
+25567	οὐκοῦν καὶ ἅπερ φρόνιμον , ἀγαθόν , ἃ δὲ ἄφρονα , κακόν ;
+"Then the things pertaining to the intelligent are good, and those to the unintelligent are bad?"
+
+25568	ναί .
+"Yes."
+
+25569	τί δὲ ἰατρικόν ;
+"And what about the medical profession?"
+
+25570	οὐχ οὕτως ;
+"Is it not the same?"
+
+25571	οὕτως .
+"Yes, it is."
+
+25572	δοκεῖ ἂν οὖν τίς σοι , ὦ ἄριστε , μουσικὸς ἀνὴρ ἁρμοττόμενος λύραν ἐθέλειν μουσικοῦ ἀνδρὸς ἐν τῇ ἐπιτάσει καὶ ἀνέσει τῶν χορδῶν πλεονεκτεῖν ἢ ἀξιοῦν πλέον ἔχειν ;
+"Then, my excellent friend, do you think a musical man, when tuning a lyre, would want to outdo another musician in the tightening and relaxing of the strings, or claim to have more?"
+
+25573	οὐκ ἔμοιγε .
+"Certainly not," I replied.
+
+25574	τί δέ ;
+"What then?"
+
+25575	ἀμούσου ;
+"What about the unmusical?"
+
+25576	ἀνάγκη , ἔφη .
+"Necessarily," he said.
+
+25577	τί δὲ ἰατρικός ;
+"What about the physician?"
+
+25578	ἐν τῇ ἐδωδῇ ἢ πόσει ἐθέλειν ἄν τι ἰατρικοῦ πλεονεκτεῖν ἢ ἀνδρὸς ἢ πράγματος ;
+"Would a physician want to outdo another physician in prescribing food or drink, or in any medical procedure?"
+
+25579	οὐ δῆτα .
+"Certainly not."
+
+25580	μὴ ἰατρικοῦ δέ ;
+"But would he do so over a non-physician?"
+
+25581	ναί .
+"Yes."
+
+25582	περὶ πάσης δὴ ὅρα ἐπιστήμης τε καὶ ἀνεπιστημοσύνης εἴ τίς σοι δοκεῖ ἐπιστήμων ὁστισοῦν πλείω ἂν ἐθέλειν αἱρεῖσθαι ἢ ὅσα ἄλλος ἐπιστήμων ἢ πράττειν ἢ λέγειν , καὶ οὐ τ- αὐτὰ τῷ ὁμοίῳ ἑαυτῷ εἰς τὴν αὐτὴν πρᾶξιν .
+"So, consider all forms of knowledge and ignorance: do you think that someone knowledgeable would ever choose to do or say more than another knowledgeable person in the same field of expertise or action?"
+
+25583	ἀλλ’ ἴσως , ἔφη , ἀνάγκη τοῦτό γε οὕτως ἔχειν .
+"Perhaps," he said, "it is necessary that it be so."
+
+25584	τί δὲ ὁ ἀνεπιστήμων ;
+"What about the ignorant person?"
+
+25585	οὐχὶ ὁμοίως μὲν ἐπιστήμονος πλεονεκτήσειεν ἄν , ὁμοίως δὲ ἀνεπιστήμονος ;
+"Would he not try to outdo both the knowledgeable and the ignorant alike?"
+
+25586	ἴσως .
+"Possibly."
+
+25587	ὁ δὲ ἐπιστήμων σοφός ;
+"And is the knowledgeable person wise?"
+
+25588	φημί .
+"I assert so."
+
+25589	ὁ δὲ σοφὸς ἀγαθός ;
+"And is the wise person good?"
+
+25590	φημί .
+"I assert so."
+
+25591	ὁ ἄρα ἀγαθός τε καὶ σοφὸς τοῦ μὲν ὁμοίου οὐκ ἐθελήσει πλεονεκτεῖν , τοῦ δὲ ἀνομοίου τε καὶ ἐναντίου .
+"So, the good and wise person would not wish to take advantage over their similar, but might over their dissimilar or opposite."
+
+25592	ἔοικεν , ἔφη .
+"It seems so," he said.
+
+25593	ὁ δὲ κακός τε καὶ ἀμαθὴς τοῦ τε ὁμοίου καὶ τοῦ ἐναντ
+
+ίου .
+"But the bad and ignorant person will try to outdo both the similar and the opposite."
+
+25594	φαίνεται .
+"It appears so."
+
+25595	οὐκοῦν , ὦ Θρασύμαχε , ἦν δ’ ἐγώ , ὁ ἄδικος ἡμῖν τοῦ ἀνομοίου τε καὶ ὁμοίου πλεονεκτεῖ ;
+"So, Thrasymachus," I said, "does the unjust person seek to take advantage over both the dissimilar and similar?"
+
+25596	ἢ οὐχ οὕτως ἔλεγες ;
+"Is that not what you said?"
+
+25597	ἔγωγε , ἔφη .
+"Indeed," he said.
+
+25598	ὁ δέ γε δίκαιος τοῦ μὲν ὁμοίου οὐ πλεονεκτήσει , τοῦ δὲ ἀνομοίου ;
+"And the just person will not take advantage of the similar, but may of the dissimilar?"
+
+25599	ναί .
+"Yes."
+
+25600	ἔοικεν ἄρα , ἦν δ’ ἐγώ , ὁ μὲν δίκαιος τῷ σοφῷ καὶ ἀγαθῷ , ὁ δὲ ἄδικος τῷ κακῷ καὶ ἀμαθεῖ .
+"So, it seems," I said, "that the just person resembles the wise and good, while the unjust resembles the bad and ignorant."
+
+25601	κινδυνεύει .
+"It is likely."
+
+25602	ἀλλὰ μὴν ὡμολογοῦμεν , ᾧ γε ὅμοιος ἑκάτερος εἴη , τοιοῦτον καὶ ἑκάτερον εἶναι .
+"But indeed, we agreed that each is such as they resemble."
+
+25603	ὡμολογοῦμεν γάρ .
+"Yes, we agreed."
+
+25604	ὁ μὲν ἄρα δίκαιος ἡμῖν ἀναπέφανται ὢν ἀγαθός τε καὶ σοφός , ὁ δὲ ἄδικος ἀμαθής τε καὶ κακός .
+"So, the just person has turned out to be good and wise, and the unjust person ignorant and bad."
+
+25605	ὁ δὴ Θρασύμαχος ὡμολόγησε μὲν πάντα ταῦτα, οὐχ ὡς ἐγὼ νῦν ῥᾳδίως λέγω, ἀλλ’ ἑλκόμενος καὶ μόγις, μετὰ ἱδρῶτος θαυμαστοῦ ὅσου, ἅτε καὶ θέρους ὄντος — τότε καὶ εἶδον ἐγώ, πρότερον δὲ οὔπω, Θρασύμαχον ἐρυθριῶντα — ἐπειδὴ δὲ οὖν διωμολογησάμεθα τὴν δικαιοσύνην ἀρετὴν εἶναι καὶ σοφίαν, τὴν δὲ ἀδικίαν κακίαν τε καὶ ἀμαθίαν, εἶεν, ἦν δ’ ἐγώ, τοῦτο μὲν ἡμῖν οὕτω κείσθω, ἔφαμεν δὲ δὴ καὶ ἰσχυρὸν εἶναι τὴν ἀδικίαν.
+
+Thrasymachus indeed admitted all these things, but not as easily as I now speak of them. He was dragged into conceding them, only with great reluctance and after a tremendous amount of sweating, as it was summer — that was the first time I saw Thrasymachus actually blushing. Since we have therefore agreed that justice is virtue and wisdom, and injustice is vice and ignorance, let us accept this conclusion. We also declared that injustice is strong.
+
+25606	ἢ οὐ μέμνησαι, ὦ Θρασύμαχε;
+"Do you not remember, Thrasymachus?"
+
+25607	μέμνημαι, ἔφη.
+"I remember," he said.
+
+25608	ἀλλ’ ἔμοιγε οὐδὲ ἃ νῦν λέγεις ἀρέσκει, καὶ ἔχω περὶ αὐτῶν λέγειν.
+"But I am not pleased with what you are now saying, and I have something to say about it."
+
+25609	εἰ οὖν λέγοιμι, εὖ οἶδ’ ὅτι δημηγορεῖν ἄν με φαίης.
+"If I were to speak, I know well that you would accuse me of making a speech."
+
+25610	ἢ οὖν ἔα με εἰπεῖν ὅσα βούλομαι, ἤ, εἰ βούλει ἐρωτᾶν, ἐρώτα;
+"So either let me say what I wish, or if you prefer to ask questions, then ask."
+
+25611	ἐγὼ δέ σοι, ὥσπερ ταῖς γραυσὶν ταῖς τοὺς μύθους λεγούσαις, εἶεν ἐρῶ καὶ κατανεύσομαι καὶ ἀνανεύσομαι.
+"And I, like the old women who tell tales, will either agree or disagree."
+
+25612	μηδαμῶς, ἦν δ’ ἐγώ, παρά γε τὴν σαυτοῦ δόξαν.
+"By no means," I said, "should you speak against your own opinion."
+
+25613	ὥστε σοί, ἔφη, ἀρέσκειν, ἐπειδήπερ οὐκ ἐᾷς λέγειν.
+"So, it pleases you," he said, "since you do not allow me to speak freely."
+
+25614	καίτοι τί ἄλλο βούλει;
+"But what else do you want?"
+
+25615	οὐδὲν μὰ Δία, ἦν δ’ ἐγώ, ἀλλ’ εἴπερ τοῦτο ποιήσεις, ποίει;
+"Nothing by Zeus," I said, "but if you are going to do this, then do it."
+
+25616	ἐγὼ δὲ ἐρωτήσω.
+"And I will ask questions."
+
+25617	ἐρώτα δή.
+"Ask away," he said.
+
+25618 τοῦτο τοίνυν ἐρωτῶ, ὅπερ ἄρτι, ἵνα καὶ ἑξῆς διασκεψώμεθα τὸν λόγον, ὁποῖόν τι τυγχάνει ὂν δικαιοσύνη πρὸς ἀδικίαν.
+"I therefore ask this, as I did just now, so that we may examine the argument in sequence, what sort of thing justice is in relation to injustice."
+
+25619 ἐλέχθη γάρ που ὅτι καὶ δυνατώτερον καὶ ἰσχυρότερον εἴη ἀδικία δικαιοσύνης ·
+"It was said somewhere that injustice might be both more powerful and stronger than justice."
+
+25620 νῦν δέ γ’, ἔφην, εἴπερ σοφία τε καὶ ἀρετή ἐστιν δικαιοσύνη, ῥᾳδίως οἶμαι φανήσεται καὶ ἰσχυρότερον ἀδικίας, ἐπειδήπερ ἐστὶν ἀμαθία ἡ ἀδικία — οὐδεὶς ἂν ἔτι τοῦτο ἀγνοήσειεν — ἀλλ’ οὔ τι οὕτως ἁπλῶς, ὦ Θρασύμαχε, ἔγωγε ἐπιθυμῶ, ἀλλὰ τῇδέ πῃ σκέψασθαι ·
+"But now," I said, "if justice is indeed wisdom and virtue, it will easily, I think, appear stronger than injustice, since injustice is ignorance — no one could still be ignorant of this — but not so simply, Thrasymachus, I indeed desire to consider it in this way;"
+
+25621 πόλιν φαίης ἂν ἄδικον εἶναι καὶ ἄλλας πόλεις ἐπιχειρεῖν δουλοῦσθαι ἀδίκως καὶ καταδεδουλῶσθαι, πολλὰς δὲ καὶ ὑφ’ ἑαυτῇ ἔχειν δουλωσαμένην;
+"Would you say that a city is unjust and tries to enslave other cities unjustly and to have enslaved them, having many under itself as slaves?"
+
+25622 πῶς γὰρ οὔκ; ἔφη.
+"How could it not be?" he said.
+
+25623 καὶ τοῦτό γε ἡ ἀρίστη μάλιστα ποιήσει καὶ τελεώτατα οὖσα ἄδικος.
+"And this the very best [city] will do most of all, being the most completely unjust."
+
+25624 μανθάνω, ἔφην, ὅτι σὸς οὗτος ἦν ὁ λόγος.
+"I understand," I said, "that this was your argument."
+
+25625 ἀλλὰ τόδε περὶ αὐτοῦ σκοπῶ: πότε
+
+ρον ἡ κρείττων γιγνομένη πόλις πόλεως ἄνευ δικαιοσύνης τὴν δύναμιν ταύτην ἕξει, ἢ ἀνάγκη αὐτῇ μετὰ δικαιοσύνης;
+"But I am considering this about it: Will a city becoming superior have this power without justice, or must it necessarily be with justice?"
+
+25626 εἰ μέν, ἔφη, ὡς σὺ ἄρτι ἔλεγες ἔχει — ἡ δικαιοσύνη σοφία — μετὰ δικαιοσύνης;
+"If indeed," he said, "it is as you just now said — justice is wisdom — with justice."
+
+25627 εἰ δ' ὡς ἐγὼ ἔλεγον, μετὰ ἀδικίας.
+"If it is as I said, with injustice."
+
+25628 πάνυ ἄγαμαι, ἦν δ' ἐγώ, ὦ Θρασύμαχε, ὅτι οὐκ ἐπινεύεις μόνον καὶ ἀνανεύεις, ἀλλὰ καὶ ἀποκρίνῃ πάνυ καλῶς.
+"I am very pleased, Thrasymachus," I said, "that you not only nod and shake your head, but also answer very well."
+
+25629 σοὶ γάρ, ἔφη, χαρίζομαι.
+"For you," he said, "I make concessions."
+
+25630 εὖ γε σὺ ποιῶν; ἀλλὰ δὴ καὶ τόδε μοι χάρισαι καὶ λέγε: δοκεῖς ἂν ἢ πόλιν ἢ στρατόπεδον ἢ λῃστὰς ἢ κλέπτας ἢ ἄλλο τι ἔθνος, ὅσα κοινῇ ἐπί τι ἔρχεται ἀδίκως, πρᾶξαι ἄν τι δύνασθαι, εἰ ἀδικοῖεν ἀλλήλους;
+"Very well you do; but please also grant me this and tell me: do you think a city, an army, bandits, thieves, or any other group, which comes together unjustly, could accomplish anything, if they wronged one another?"
+
+25631 οὐ δῆτα, ἦ δ’ ὅς.
+"Surely not," he said.
+
+25632 τί δ' εἰ μὴ ἀδικοῖεν; οὐ μᾶλλον;
+"What if they did not wrong each other? Wouldn't they more likely?"
+
+25633 πάνυ γε.
+"Most certainly."
+
+25634 στάσεις γάρ που, ὦ Θρασύμαχε, ἥ γε ἀδικία καὶ μίση καὶ μάχας ἐν ἀλλήλοις παρέχει, ἡ δὲ δικαιοσύνη ὁμόνοιαν καὶ φιλίαν; ἦ γάρ;
+"For factions, Thrasymachus, result from injustice, which produces hatred and conflicts among each other, while justice bring unity of thinking and friendship. Is it not so?
+
+25635 οὐ δῆτα, ἦ δ’ ὅς.
+"No indeed," he said.
+
+25636 τί δ’ εἰ μὴ ἀδικοῖεν;
+"And what if they didn't wrong each other?"
+
+25637 οὐ μᾶλλον;
+"Wouldn't they be more likely to succeed?"
+
+25638 πάνυ γε.
+"Assuredly."
+
+25639 στάσεις γάρ που, ὦ Θρασύμαχε, ἥ γε ἀδικία καὶ μίση καὶ μάχας ἐν ἀλλήλοις παρέχει, ἡ δὲ δικαιοσύνη ὁμόνοιαν καὶ φιλίαν;
+"For, Thrasymachus, isn't it true that injustice brings about factions, hatreds, and conflicts among themselves, whereas justice brings harmony and friendship?"
+
+25640 ἦ γάρ;
+"Is it not so?"
+
+25641 ἔστω, ἦ δ’ ὅς, ἵνα σοι μὴ διαφέρωμαι.
+"So be it," he said, "not to differ from you."
+
+25642 ἀλλ’ εὖ γε σὺ ποιῶν, ὦ ἄριστε.
+"Well, you are doing well, my excellent friend."
+
+25643 τόδε δέ μοι λέγε; 
+"Tell me this then; 
+
+
+25644 ἆρα εἰ τοῦτο ἔργον ἀδικίας, μῖσος ἐμποιεῖν ὅπου ἂν ἐνῇ, οὐ καὶ ἐν ἐλευθέροις τε καὶ δούλοις ἐγγιγνομένη μισεῖν ποιήσει ἀλλήλους καὶ στασιάζειν καὶ ἀδυνάτους εἶναι κοινῇ μετ’ ἀλλήλων πράττειν;
+if it is the work of injustice to engender hatred wherever it exists, wouldn't it, when it arises among both freemen and slaves, cause them to hate one another, to be in conflict, and to be unable to act together?"
+
+25645 πάνυ γε.
+"Indeed, very much so."
+
+25646 τί δὲ ἂν ἐν δυοῖν ἐγγένηται; 
+
+25647 οὐ διοίσονται καὶ μισήσουσιν καὶ ἐχθροὶ ἔσονται ἀλλήλοις τε καὶ τοῖς δικαίοις;
+"And what if injustice arises between two people? Won't they become divided, hate each other, and be enemies both to one another and to the just?"
+
+25648 ἔσονται, ἔφη.
+"They will be," he said.
+
+25649 ἐὰν δὲ δή, ὦ θαυμάσιε, ἐν ἑνὶ ἐγγένηται ἀδικία, μῶν μὴ ἀπολεῖ τὴν αὑτῆς δύναμιν, ἢ οὐδὲν ἧττον ἕξει;
+"But if, O Thrasymachus, injustice arises in a single individual, will it not destroy his own power, or will he have no less power?"
+
+25650 μηδὲν ἧττον ἐχέτω, ἔφη.
+"Let it be that he will have no less power," he said.
+
+25651 οὐκοῦν τοιάνδε τινὰ φαίνεται ἔχουσα τὴν δύναμιν, οἵαν, ᾧ ἂν ἐγγένηται, εἴτε πόλει τινὶ εἴτε γένει εἴτε στρατοπέδῳ εἴτε ἄλλῳ ὁτῳοῦν, πρῶτον μὲν ἀδύνατον αὐτὸ ποιεῖν πράττειν μεθ’ αὑτοῦ διὰ τὸ στασιάζειν καὶ διαφέρεσθαι, ἔτι δ’ ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ;
+"Does it not appear then that injustice has such a nature, that wherever it occurs, whether in a city, a family, a military camp, or in any other group, it first makes it incapable of acting together because it creates faction and conflict, and also makes it its own enemy as well as the enemy of all that is opposite and just?"
+
+25652 οὐχ οὕτως;
+"Is it not so?"
+
+25653 πάνυ γε.
+"Very much so."
+
+25654 καὶ ἐν ἑνὶ δὴ οἶμαι ἐνοῦσα τ-αὐτὰ ταῦτα ποιήσει ἅπερ πέφυκεν ἐργάζεσθαι· πρῶτον μὲν ἀδύνατον αὐτὸν πράττειν ποιήσει στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ, ἔπειτα ἐχθρὸν καὶ ἑαυτῷ καὶ τοῖς δικαίοις;
+"And in a single person, I believe, its presence will produce the same effects inherent in its nature: first, it will make him incapable of acting by creating internal strife and a lack of self-harmony, and then it will make him an enemy to himself and to the just."
+
+25655 ἦ γάρ;
+"Isn't that so?"
+
+25656 ναί.
+"Yes."
+
+25657 δίκαιοι δέ γ’ εἰσίν, ὦ φίλε, καὶ οἱ θεοί;
+"And the gods are just, are they not, my friend?"
+
+25658 ἔστω, ἔφη.
+"Let it be so," he said.
+
+25659 καὶ θεοῖς ἄρα ἐχθρὸς ἔσται ὁ ἄδικος, ὦ Θρασύμαχε, ὁ δὲ δίκαιος φίλος.
+"So to the gods also, Thrasymachus, the unjust man will be an enemy, but the just man a friend."
+
+25660 εὐωχοῦ τοῦ λόγου, ἔφη, θαρρῶν; οὐ γὰρ ἔγωγέ σοι ἐναντιώσ
+
+ομαι, ἵνα μὴ τοῖσδε ἀπέχθωμαι.
+"Indulge in your discourse," he said, "boldly; for I shall not oppose you, so as not to be disliked by these."
+
+25661 ἴθι δή, ἦν δ’ ἐγώ, καὶ τὰ λοιπά μοι τῆς ἑστιάσεως ἀποπλήρωσον ἀποκρινόμενος ὥσπερ καὶ νῦν.
+"Proceed then," I said, "and complete the rest of my feast by answering as you have been doing."
+
+25662 ὅτι μὲν γὰρ καὶ σοφώτεροι καὶ ἀμείνους καὶ δυνατώτεροι πράττειν οἱ δίκαιοι φαίνονται, οἱ δὲ ἄδικοι οὐδὲ πράττειν μετ’ ἀλλήλων οἷοί τε: "Indeed, it appears that the just are wiser, better, and more capable of action, while the unjust are not even capable of acting together..."
+
+25663 ἀλλὰ δὴ καὶ οὕς φαμεν ἐρρωμένως πώποτέ τι μετ’ ἀλλήλων κοινῇ πρᾶξαι ἀδίκους ὄντας, τοῦτο οὐ παντάπασιν ἀληθὲς λέγομεν: "But even those who we say have acted strongly together while being unjust, we do not speak the whole truth about them..."
+
+25664 οὐ γὰρ ἂν ἀπείχοντο ἀλλήλων κομιδῇ ὄντες ἄδικοι, ἀλλὰ δῆλον ὅτι ἐνῆν τις αὐτοῖς δικαιοσύνη, ἣ αὐτοὺς ἐποίει μήτοι καὶ ἀλλήλους γε καὶ ἐφ’ οὓς ᾖσαν ἅμα ἀδικεῖν, δι’ ἣν ἔπραξαν ἃ ἔπραξαν, ὥρμησαν δὲ ἐπὶ τὰ ἄδικα ἀδικίᾳ ἡμιμόχθηροι ὄντες, ἐπειδὴ οἵ γε παμπόνηροι καὶ τελέως ἄδικοι τελέως εἰσὶ καὶ πράττειν ἀδύνατοι: "For if they were truly unjust to the core, they would not have refrained from wronging each other, but clearly, there must have been some justice among them, which made them capable of not wronging each other while they were committing injustices together. They acted as they did because they were only partially unjust, as those utterly wicked and completely unjust are completely incapable of action."
+
+25665 ταῦτα μὲν οὖν ὅτι οὕτως ἔχει μανθάνω, ἀλλ’ οὐχ ὡς σὺ τὸ πρῶτον ἐτίθεσο: "So, I understand that this is how it is, but not as you initially presented it."
+
+25666 εἰ δὲ καὶ ἄμεινον ζῶσιν οἱ δίκαιοι τῶν ἀδίκων καὶ εὐδαιμονέστεροί εἰσιν, ὅπερ τὸ ὕστερον προυθέμεθα σκέψασθαι, σκεπτέον: "But if it is also true that the just live better lives than the unjust and are happier, which is what we later proposed to examine, we must consider it."
+
+25667 φαίνονται μὲν οὖν καὶ νῦν, ὥς γέ μοι δοκεῖ, ἐξ ὧν εἰρήκαμεν: "So, it seems to me now, from what we have said, that this is the case."
+
+25668 ὅμως δ’ ἔτι βέλτιον σκεπτέον: "However, we should still examine it more thoroughly."
+
+25669 οὐ γὰρ περὶ τοῦ ἐπιτυχόντος ὁ λόγος, ἀλλὰ περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν: "For the discussion is not just about what happens to be the case, but about how one ought to live."
+
+25670 σκόπει δή, ἔφη: "Consider, then," he said.
+
+25671 σκοπῶ, ἦν δ’ ἐγώ: "I am considering," I replied.
+
+25672 καί μοι λέγε · "And tell me this:"
+
+25673 δοκεῖ τί σοι εἶναι ἵππου ἔργον; "Do you think there is a specific function for a horse?"
+
+25674 ἔμοιγε: "Yes, indeed."
+
+25675 ἆρ’ οὖν τοῦτο ἂν θείης καὶ ἵππου καὶ ἄλλου ὁτουοῦν ἔργον, ὃ ἂν ἢ μόνῳ ἐκείνῳ ποιῇ τις ἢ ἄριστα; "Would you then define that as the function of a horse, or of anything else, which one could either perform only with it or perform best with it?"
+
+25676 οὐ μανθάνω, ἔφη: "I don't understand," he said.
+
+25677 ἀλλ’ ὧδε: "But consider this:"
+
+25678 ἔσθ’ ὅτῳ ἂν ἄλλῳ ἴδοις ἢ ὀφθαλμοῖς; "Can you see with anything other than the eyes?"
+
+25679 οὐ δῆτα: "Certainly not."
+
+25680 τί δέ; "And what about this?"
+
+25681 ἀκούσαις ἄλλῳ ἢ ὠσίν; "Could you hear with anything other than the ears?"
+
+25682 οὐδαμῶς: "Absolutely not."
+
+25683 οὐκοῦν δικαίως ἂν ταῦτα τούτων φαμὲν ἔργα εἶναι; "So, wouldn't we rightly say that these are their respective functions?"
+
+25684 πάνυ γε: "Certainly."
+
+25685 τί δέ ;  
+"What about this?"
+
+25686 μαχαίρᾳ ἂν ἀμπέλου κλῆμα ἀποτέμοις καὶ σμίλῃ καὶ ἄλλοις πολλοῖς ;  
+"Could you use a dirk to trim vine branches and a knife and many other instruments?"
+
+25687 πῶς γὰρ οὔ ;  
+"Certainly."
+
+25688 ἀλλ’ οὐδενί γ’ ἂν οἶμαι οὕτω καλῶς ὡς δρεπάνῳ τῷ ἐπὶ τούτῳ ἐργασθέντι .  
+"But nothing so well, I take it, as a pruning-knife fashioned for this purpose."
+
+25689 ἀληθῆ .  
+"That is true."
+
+25690 ἆρ’ οὖν οὐ τοῦτο τούτου ἔργον θήσομεν ;  
+"Must we not then assume this to be the work or function of that?"
+
+25691 θήσομεν μὲν οὖν .  
+"We must."
+
+25692 νῦν δὴ οἶμαι ἄμεινον ἂν μάθοις ὃ ἄρτι ἠρώτων, πυνθανόμενος εἰ οὐ τοῦτο ἑκάστου εἴη ἔργον ὃ ἂν ἢ μόνον τι ἢ κάλλιστα τῶν ἄλλων ἀπεργάζηται .  
+"You will now, then, I fancy, better apprehend the meaning of my question when I asked whether that is not the work of a thing which it only or it better than anything else can perform."
+
+25693 ἀλλά, ἔφη, μανθάνω τε καί μοι δοκεῖ τοῦτο ἑκάστου πράγματος ἔργον εἶναι .  
+"Well," he said, "I do understand, and agree that the work of anything is that."
+
+25694 εἶεν, ἦν δ’ ἐγώ .  
+"Very good," said I.
+
+25695 οὐκοῦν καὶ ἀρετὴ δοκεῖ σοι εἶναι ἑκάστῳ ᾧπερ καὶ ἔργον τι προστέτακται ;  
+"Do you not also think that there is a specific virtue or excellence of everything for which a specific work or function is appointed?"
+
+25696 ἴωμεν δὲ ἐπὶ τὰ αὐτὰ πάλιν ;  
+"Let us return to the same examples."
+
+25697 ὀφθαλμῶν, φαμέν, ἔστι τι ἔργον ;  
+"The eyes we say have a function?"
+
+25698 ἔστιν .  
+"They have."
+
+25699 ἆρ’ οὖν καὶ ἀρετὴ ὀφθαλμῶν ἔστιν ;  
+"Is there also a virtue of the eyes?"
+
+25700 καὶ ἀρετή .  
+"There is."
+
+25701 τί δέ ;  
+"And was there not a function of the ears?"
+
+25702 ὤτων ἦν τι ἔργον ;  
+"Yes."
+
+25703 οὐκο
+
+ῦν καὶ ἀρετή ;  
+"And so also a virtue?"
+
+25704 καὶ ἀρετή .  
+"Also a virtue."
+
+25705 τί δὲ πάντων πέρι τῶν ἄλλων ;  
+"And what of all other things?"
+
+25706 οὐχ οὕτω ;  
+"Is the case not the same?"
+
+25707 οὕτω .  
+"The same."
+
+25708 ἔχε δή ;  
+"Take note now."
+
+25709 ἆρ’ ἄν ποτε ὄμματα τὸ αὑτῶν ἔργον καλῶς ἀπεργάσαιντο μὴ ἔχοντα τὴν αὑτῶν οἰκείαν ἀρετήν, ἀλλ’ ἀντὶ τῆς ἀρετῆς κακίαν ;  
+"Could the eyes possibly fulfil their function well if they lacked their own proper excellence and had in its stead the defect?"
+
+25710 καὶ πῶς ἄν ;  
+"How could they?"
+
+25711 ἔφη ; τυφλότητα γὰρ ἴσως λέγεις ἀντὶ τῆς ὄψεως .  
+he said; "for I presume you meant blindness instead of vision."
+
+25712 ἥτις, ἦν δ’ ἐγώ, αὐτῶν ἡ ἀρετή ;  
+"Whatever," said I, "the excellence may be."
+
+25713 οὐ γάρ πω τοῦτο ἐρωτῶ, ἀλλ’ εἰ τῇ οἰκείᾳ μὲν ἀρετῇ τὸ αὑτῶν ἔργον εὖ ἐργάσεται τὰ ἐργαζόμενα, κακίᾳ δὲ κακῶς .  
+"For I have not yet come to that question, but am only asking whether whatever operates will not do its own work well by its own virtue and badly by its own defect."
+
+25714 ἀληθές, ἔφη, τοῦτό γε λέγεις .  
+"That much," he said, "you may affirm to be true."
+
+25715 οὐκοῦν καὶ ὦτα στερόμενα τῆς αὑτῶν ἀρετῆς κακῶς τὸ αὑτῶν ἔργον ἀπεργάσεται ;  
+"Then the ears, too, if deprived of their own virtue will do their work ill?"
+
+25716 πάνυ γε .  
+"Assuredly."
+
+25717 τίθεμεν οὖν καὶ τ- ἄλλα πάντα εἰς τὸν αὐτὸν λόγον ;  
+"And do we then apply the same principle to all things?"
+
+25718 ἔμοιγε δοκεῖ .  
+"I think so."
+
+25719 ἴθι δή, μετὰ ταῦτα τόδε σκέψαι .  
+"Then next consider this."
+
+25720 ἔμοιγε δοκεῖ.  
+I think so.
+
+25721 ἴθι δή, μετὰ ταῦτα τόδε σκέψαι.  
+Then next consider this.
+
+25722 ψυχῆς ἔστιν τι ἔργον ὃ ἄλλῳ τῶν ὄντων οὐδ’ ἂν ἑνὶ πράξαις, οἷον τὸ τοιόνδε: τὸ ἐπιμελεῖσθαι καὶ ἄρχειν καὶ βουλεύεσθαι καὶ τὰ τοιαῦτα πάντα, ἔσθ’ ὅτῳ ἄλλῳ ἢ ψυχῇ δικαίως ἂν αὐτὰ ἀποδοῖμεν καὶ φαῖμεν ἴδια ἐκείνης εἶναι;  
+Is there a specific work of the soul which you couldn't perform with anything else in the world, such as caring, ruling, deliberating, and the like, is there anything other than soul to which we could justly assign these functions and say that they are peculiarly its own?
+
+25723 οὐδενὶ ἄλλῳ.  
+Nothing else.
+
+25724 τί δ’ αὖ τὸ ζῆν; οὐ ψυχῆς φήσομεν ἔργον εἶναι;  
+And what about living? Shall we not say that too is the function of the soul?
+
+25725 μάλιστά γ’, ἔφη.  
+Most certainly, he said.
+
+25726 οὐκοῦν καὶ ἀρετήν φαμέν τινα ψυχῆς εἶναι;  
+And do we not also say that there is a virtue or excellence of the soul?
+
+25727 μάλιστά γ’, ἔφη.  
+Most certainly, he said.
+
+25728 οὐκοῦν καὶ ἀρετήν φαμέν τινα ψυχῆς εἶναι;  
+And do we not also say that there is a virtue or excellence of the soul?
+
+25729 φαμέν.  
+We do say so.
+
+25730 ἆρ’ οὖν ποτε, ὦ Θρασύμαχε, ψυχὴ τὰ αὑτῆς ἔργα εὖ ἀπεργάσεται στερομένη τῆς οἰκείας ἀρετῆς, ἢ ἀδύνατον;  
+Will the soul ever accomplish its own work well if deprived of its own proper virtue, or is this impossible?
+
+25731 ἀδύνατον.  
+It is impossible.
+
+25732 ἀνάγκη ἄρα κακῇ ψυχῇ κακῶς ἄρχειν καὶ ἐπιμελεῖσθαι, τῇ δὲ ἀγαθῇ πάντα ταῦτα εὖ πράττειν.  
+Of necessity, then, a bad soul will govern and manage things badly, while a good soul will do all these things well.
+
+25733 ἀνάγκη.  
+Of necessity.
+
+25734 οὐκοῦν ἀρετήν γε συ
+
+νεχωρήσαμεν ψυχῆς εἶναι δικαιοσύνην, κακίαν δὲ ἀδικίαν;  
+Did we not agree that the virtue of the soul is justice and its defect injustice?
+
+25735 συνεχωρήσαμεν γάρ.  
+Yes, we agreed.
+
+25736 ἡ μὲν ἄρα δικαία ψυχὴ καὶ ὁ δίκαιος ἀνὴρ εὖ βιώσεται, κακῶς δὲ ὁ ἄδικος.  
+Therefore, the just soul and the just man will live well, but the unjust poorly.
+
+25737 φαίνεται, ἔφη, κατὰ τὸν σὸν λόγον.  
+So it appears, he said, according to your argument.
+
