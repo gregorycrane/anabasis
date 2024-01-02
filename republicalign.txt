@@ -67,8 +67,6 @@ Whereupon Polemarchus said,
 24923 ἀφ’ ἵππων;
 “On horseback?” 
 
-24924 ἦν δ’ ἐγώ;
-said I.
 
 24924 ἦν δ’ ἐγώ;
 said I.
@@ -109,9 +107,7 @@ So we went with them to Polemarchus's house, and there we found Lysias and Euthy
 24936 ἦν δ’ ἔνδον καὶ ὁ πατὴρ ὁ τοῦ Πολεμάρχου Κέφαλος.
 And the father of Polemarchus, Cephalus, was also at home.
 
-24937 καὶ μάλα
-
- πρεσβύτης μοι ἔδοξεν εἶναι;
+24937 καὶ μάλα πρεσβύτης μοι ἔδοξεν εἶναι;
 And I thought him much aged,
 
 24938 διὰ χρόνου γὰρ καὶ ἑωράκη αὐτόν.
@@ -2449,89 +2445,115 @@ if it is the work of injustice to engender hatred wherever it exists, wouldn't i
 25649 ἐὰν δὲ δή, ὦ θαυμάσιε, ἐν ἑνὶ ἐγγένηται ἀδικία, μῶν μὴ ἀπολεῖ τὴν αὑτῆς δύναμιν, ἢ οὐδὲν ἧττον ἕξει;
 "But if, O Thrasymachus, injustice arises in a single individual, will it not destroy his own power, or will he have no less power?"
 
-25650 μηδὲν ἧττον ἐχέτω, ἔφη.
-"Let it be that he will have no less power," he said.
+25651	οὐκοῦν τοιάνδε τινὰ φαίνεται ἔχουσα τὴν δύναμιν, οἵαν, ᾧ ἂν ἐγγένηται, εἴτε πόλει τινὶ εἴτε γένει εἴτε στρατοπέδῳ εἴτε ἄλλῳ ὁτῳοῦν, πρῶτον μὲν ἀδύνατον αὐτὸ ποιεῖν πράττειν μεθ’ αὑτοῦ διὰ τὸ στασιάζειν καὶ διαφέρεσθαι, ἔτι δ’ ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ;
+“And is it not apparent that its force is such that wherever it is found in city, family, camp, or in anything else it first renders the thing incapable of cooperation with itself owing to faction and difference, and secondly an enemy to itself and to its opposite in every case, the just?”
 
-25651 οὐκοῦν τοιάνδε τινὰ φαίνεται ἔχουσα τὴν δύναμιν, οἵαν, ᾧ ἂν ἐγγένηται, εἴτε πόλει τινὶ εἴτε γένει εἴτε στρατοπέδῳ εἴτε ἄλλῳ ὁτῳοῦν, πρῶτον μὲν ἀδύνατον αὐτὸ ποιεῖν πράττειν μεθ’ αὑτοῦ διὰ τὸ στασιάζειν καὶ διαφέρεσθαι, ἔτι δ’ ἐχθρὸν εἶναι ἑαυτῷ τε καὶ τῷ ἐναντίῳ παντὶ καὶ τῷ δικαίῳ;
-"Does it not appear then that injustice has such a nature, that wherever it occurs, whether in a city, a family, a military camp, or in any other group, it first makes it incapable of acting together because it creates faction and conflict, and also makes it its own enemy as well as the enemy of all that is opposite and just?"
-
-25652 οὐχ οὕτως;
-"Is it not so?"
-
-25653 πάνυ γε.
-"Very much so."
-
-25654 καὶ ἐν ἑνὶ δὴ οἶμαι ἐνοῦσα τ-αὐτὰ ταῦτα ποιήσει ἅπερ πέφυκεν ἐργάζεσθαι· πρῶτον μὲν ἀδύνατον αὐτὸν πράττειν ποιήσει στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ, ἔπειτα ἐχθρὸν καὶ ἑαυτῷ καὶ τοῖς δικαίοις;
-"And in a single person, I believe, its presence will produce the same effects inherent in its nature: first, it will make him incapable of acting by creating internal strife and a lack of self-harmony, and then it will make him an enemy to himself and to the just."
-
-25655 ἦ γάρ;
+25652	οὐχ οὕτως;
 "Isn't that so?"
 
-25656 ναί.
-"Yes."
+25653	πάνυ γε.
+“By all means.”
 
-25657 δίκαιοι δέ γ’ εἰσίν, ὦ φίλε, καὶ οἱ θεοί;
-"And the gods are just, are they not, my friend?"
+25654	καὶ ἐν ἑνὶ δὴ οἶμαι ἐνοῦσα τ- αὐτὰ ταῦτα ποιήσει ἅπερ πέφυκεν ἐργάζεσθαι ·
+“Then in the individual too, I presume, its presence will operate all these effects which it is its nature to produce."
 
-25658 ἔστω, ἔφη.
-"Let it be so," he said.
+25655	πρῶτον μὲν ἀδύνατον αὐτὸν πράττειν ποιήσει στασιάζοντα καὶ οὐχ ὁμονοοῦντα αὐτὸν ἑαυτῷ, ἔπειτα ἐχθρὸν καὶ ἑαυτῷ καὶ τοῖς δικαίοις ·
+“It will in the first place make him incapable of accomplishing anything because of inner faction and lack of self-agreement, and then an enemy to himself and to the just."
 
-25659 καὶ θεοῖς ἄρα ἐχθρὸς ἔσται ὁ ἄδικος, ὦ Θρασύμαχε, ὁ δὲ δίκαιος φίλος.
-"So to the gods also, Thrasymachus, the unjust man will be an enemy, but the just man a friend."
+25656	ἦ γάρ;
+"Is it not so?"
 
-25660 εὐωχοῦ τοῦ λόγου, ἔφη, θαρρῶν; οὐ γὰρ ἔγωγέ σοι ἐναντιώσ
+25657	ναί.
+“Yes.”
 
-ομαι, ἵνα μὴ τοῖσδε ἀπέχθωμαι.
-"Indulge in your discourse," he said, "boldly; for I shall not oppose you, so as not to be disliked by these."
+25658	δίκαιοι δέ γ’ εἰσίν, ὦ φίλε, καὶ οἱ θεοί;
+“But, my friend, the gods too are just.”
 
-25661 ἴθι δή, ἦν δ’ ἐγώ, καὶ τὰ λοιπά μοι τῆς ἑστιάσεως ἀποπλήρωσον ἀποκρινόμενος ὥσπερ καὶ νῦν.
-"Proceed then," I said, "and complete the rest of my feast by answering as you have been doing."
+25659	ἔστω, ἔφη.
+“Have it that they are,” he said.
 
-25662 ὅτι μὲν γὰρ καὶ σοφώτεροι καὶ ἀμείνους καὶ δυνατώτεροι πράττειν οἱ δίκαιοι φαίνονται, οἱ δὲ ἄδικοι οὐδὲ πράττειν μετ’ ἀλλήλων οἷοί τε: "Indeed, it appears that the just are wiser, better, and more capable of action, while the unjust are not even capable of acting together..."
+25660	καὶ θεοῖς ἄρα ἐχθρὸς ἔσται ὁ ἄδικος, ὦ Θρασύμαχε, ὁ δὲ δίκαιος φίλος.
+“So to the gods also, it seems, the unjust man will be hateful, but the just man dear.”
 
-25663 ἀλλὰ δὴ καὶ οὕς φαμεν ἐρρωμένως πώποτέ τι μετ’ ἀλλήλων κοινῇ πρᾶξαι ἀδίκους ὄντας, τοῦτο οὐ παντάπασιν ἀληθὲς λέγομεν: "But even those who we say have acted strongly together while being unjust, we do not speak the whole truth about them..."
+25661	εὐωχοῦ τοῦ λόγου, ἔφη, θαρρῶν ·
+“Revel in your discourse,” he said, “without fear, for I shall not oppose you, so as not to offend your partisans here
 
-25664 οὐ γὰρ ἂν ἀπείχοντο ἀλλήλων κομιδῇ ὄντες ἄδικοι, ἀλλὰ δῆλον ὅτι ἐνῆν τις αὐτοῖς δικαιοσύνη, ἣ αὐτοὺς ἐποίει μήτοι καὶ ἀλλήλους γε καὶ ἐφ’ οὓς ᾖσαν ἅμα ἀδικεῖν, δι’ ἣν ἔπραξαν ἃ ἔπραξαν, ὥρμησαν δὲ ἐπὶ τὰ ἄδικα ἀδικίᾳ ἡμιμόχθηροι ὄντες, ἐπειδὴ οἵ γε παμπόνηροι καὶ τελέως ἄδικοι τελέως εἰσὶ καὶ πράττειν ἀδύνατοι: "For if they were truly unjust to the core, they would not have refrained from wronging each other, but clearly, there must have been some justice among them, which made them capable of not wronging each other while they were committing injustices together. They acted as they did because they were only partially unjust, as those utterly wicked and completely unjust are completely incapable of action."
+.”
 
-25665 ταῦτα μὲν οὖν ὅτι οὕτως ἔχει μανθάνω, ἀλλ’ οὐχ ὡς σὺ τὸ πρῶτον ἐτίθεσο: "So, I understand that this is how it is, but not as you initially presented it."
+25662	οὐ γὰρ ἔγωγέ σοι ἐναντιώσομαι, ἵνα μὴ τοῖσδε ἀπέχθωμαι.
+“I will not oppose you, so as not to become hateful to these people.”
 
-25666 εἰ δὲ καὶ ἄμεινον ζῶσιν οἱ δίκαιοι τῶν ἀδίκων καὶ εὐδαιμονέστεροί εἰσιν, ὅπερ τὸ ὕστερον προυθέμεθα σκέψασθαι, σκεπτέον: "But if it is also true that the just live better lives than the unjust and are happier, which is what we later proposed to examine, we must consider it."
+25663	ἴθι δή, ἦν δ’ ἐγώ, καὶ τὰ λοιπά μοι τῆς ἑστιάσεως ἀποπλήρωσον ἀποκρινόμενος ὥσπερ καὶ νῦν.
+“Fill up the measure of my feast, then, and complete it for me,” I said, “by continuing to answer as you have been doing."
 
-25667 φαίνονται μὲν οὖν καὶ νῦν, ὥς γέ μοι δοκεῖ, ἐξ ὧν εἰρήκαμεν: "So, it seems to me now, from what we have said, that this is the case."
+25664	ὅτι μὲν γὰρ καὶ σοφώτεροι καὶ ἀμείνους καὶ δυνατώτεροι πράττειν οἱ δίκαιοι φαίνονται, οἱ δὲ ἄδικοι οὐδὲ πράττειν μετ’ ἀλλήλων οἷοί τε — ἀλλὰ δὴ καὶ οὕς φαμεν ἐρρωμένως πώποτέ τι μετ’ ἀλλήλων κοινῇ πρᾶξαι ἀδίκους ὄντας, τοῦτο οὐ παντάπασιν ἀληθὲς λέγομεν ·
+"Now that the just appear to be wiser and better and more capable of action and the unjust incapable of any common action, and that if we ever say that any men who are unjust have vigorously combined to put something over, our statement is not altogether true."
 
-25668 ὅμως δ’ ἔτι βέλτιον σκεπτέον: "However, we should still examine it more thoroughly."
+25665	οὐ γὰρ ἂν ἀπείχοντο ἀλλήλων κομιδῇ ὄντες ἄδικοι , ἀλλὰ δῆλον ὅτι ἐνῆν τις αὐτοῖς δικαιοσύνη , ἣ αὐτοὺς ἐποίει μήτοι καὶ ἀλλήλους γε καὶ ἐφ’ οὓς ᾖσαν ἅμα ἀδικεῖν , δι’ ἣν ἔπραξαν ἃ ἔπραξαν , ὥρμησαν δὲ ἐπὶ τὰ ἄδικα ἀδικίᾳ ἡμιμόχθηροι ὄντες , ἐπεὶ οἵ γε παμπόνηροι καὶ τελέως ἄδικοι τελέως εἰσὶ καὶ πράττειν ἀδύνατοι — ταῦτα μὲν οὖν ὅτι οὕτως ἔχει μανθάνω , ἀλλ’ οὐχ ὡς σὺ τὸ πρῶτον ἐτίθεσο ·
+For if they were utterly unjust they would not stay away from one another, but clearly there was some justice among them which made them not wrong one another as well as those whom they jointly attacked. By virtue of this, they accomplished whatever they did, and set out to do injustice only half corrupted by injustice, since the utterly wicked and completely unjust are completely incapable of action — this, then, is how it is, I understand, and not as you first proposed.
 
-25669 οὐ γὰρ περὶ τοῦ ἐπιτυχόντος ὁ λόγος, ἀλλὰ περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν: "For the discussion is not just about what happens to be the case, but about how one ought to live."
+25666	εἰ δὲ καὶ ἄμεινον ζῶσιν οἱ δίκαιοι τῶν ἀδίκων καὶ εὐδαιμονέστεροί εἰσιν , ὅπερ τὸ ὕστερον προυθέμεθα σκέψασθαι , σκεπτέον .
+But if it is also true that the just live better than the unjust and are happier, which is the point we proposed for examination afterwards, it must be considered.
 
-25670 σκόπει δή, ἔφη: "Consider, then," he said.
+25667	φαίνονται μὲν οὖν καὶ νῦν , ὥς γέ μοι δοκεῖ , ἐξ ὧν εἰρήκαμεν ·
+It seems even now, as it appears to me, from what we have said.
 
-25671 σκοπῶ, ἦν δ’ ἐγώ: "I am considering," I replied.
+25668	ὅμως δ’ ἔτι βέλτιον σκεπτέον .
+But all the same, we must examine it more carefully.
 
-25672 καί μοι λέγε · "And tell me this:"
+25669	οὐ γὰρ περὶ τοῦ ἐπιτυχόντος ὁ λόγος , ἀλλὰ περὶ τοῦ ὅντινα τρόπον χρὴ ζῆν .
+For the discussion is not about what is advantageous, but about how one ought to live.
 
-25673 δοκεῖ τί σοι εἶναι ἵππου ἔργον; "Do you think there is a specific function for a horse?"
+25670	σκόπει δή , ἔφη .
+"Consider then," he said.
 
-25674 ἔμοιγε: "Yes, indeed."
+25671	σκοπῶ , ἦν δ’ ἐγώ .
+"I am considering," I replied.
 
-25675 ἆρ’ οὖν τοῦτο ἂν θείης καὶ ἵππου καὶ ἄλλου ὁτουοῦν ἔργον, ὃ ἂν ἢ μόνῳ ἐκείνῳ ποιῇ τις ἢ ἄριστα; "Would you then define that as the function of a horse, or of anything else, which one could either perform only with it or perform best with it?"
+25672	καί
 
-25676 οὐ μανθάνω, ἔφη: "I don't understand," he said.
+ μοι λέγε ·
+"And tell me this:"
 
-25677 ἀλλ’ ὧδε: "But consider this:"
+25673	δοκεῖ τί σοι εἶναι ἵππου ἔργον ;
+"Do you think a horse has a specific function?"
 
-25678 ἔσθ’ ὅτῳ ἂν ἄλλῳ ἴδοις ἢ ὀφθαλμοῖς; "Can you see with anything other than the eyes?"
+25674	ἔμοιγε .
+"Certainly."
 
-25679 οὐ δῆτα: "Certainly not."
+25675	ἆρ’ οὖν τοῦτο ἂν θείης καὶ ἵππου καὶ ἄλλου ὁτουοῦν ἔργον , ὃ ἂν ἢ μόνῳ ἐκείνῳ ποιῇ τις ἢ ἄριστα ;
+"Then would you define the work of a horse, or of anything else, as that which one can either do only with it or best with it?"
 
-25680 τί δέ; "And what about this?"
+25676	οὐ μανθάνω , ἔφη .
+"I don't understand," he said.
 
-25681 ἀκούσαις ἄλλῳ ἢ ὠσίν; "Could you hear with anything other than the ears?"
+25677	ἀλλ’ ὧδε ·
+"But consider this:"
 
-25682 οὐδαμῶς: "Absolutely not."
+25678	ἔσθ’ ὅτῳ ἂν ἄλλῳ ἴδοις ἢ ὀφθαλμοῖς ;
+"Is there anything else with which you can see other than eyes?"
 
-25683 οὐκοῦν δικαίως ἂν ταῦτα τούτων φαμὲν ἔργα εἶναι; "So, wouldn't we rightly say that these are their respective functions?"
+25679	οὐ δῆτα .
+"Certainly not."
 
-25684 πάνυ γε: "Certainly."
+25680	τί δέ ;
+"And what about this?"
+
+25681	ἀκούσαις ἄλλῳ ἢ ὠσίν ;
+"Could you hear with anything but ears?"
+
+25682	οὐδαμῶς .
+"By no means."
+
+25683	οὐκοῦν δικαίως ἂν ταῦτα τούτων φαμὲν ἔργα εἶναι ;
+"Would you not rightly say that these are the functions of these organs?"
+
+25684	πάνυ γε .
+"By all means."
+
+
+
+
 
 25685 τί δέ ;  
 "What about this?"
