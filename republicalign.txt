@@ -614,9 +614,7 @@ What do you think he would have replied to us?”
 25047	τίς οὖν δυνατώτατος κάμνοντας φίλους εὖ ποιεῖν καὶ ἐχθροὺς κακῶς πρὸς νόσον καὶ ὑγίειαν;
 “Who then is most able to benefit friends and harm enemies in sickness and health?”
 
-25048	ἰατρός
-
-.
+25048	ἰατρός.
 “The physician.”
 
 25049	τίς δὲ πλέοντας πρὸς τὸν τῆς θαλάττης κίνδυνον;
@@ -710,67 +708,73 @@ isn't it?”
 “And in the placing of bricks and stones is the just man a more useful and better associate than the builder?”
 
 25079	ἀλλ’ εἰς πλίνθων καὶ λίθων θέσιν ὁ δίκαιος χρησιμώτερός τε καὶ ἀμείνων κοινωνὸς τοῦ οἰκοδομικοῦ;
-“By no means.”
 
 25080	οὐδαμῶς.
-“Then what is the association in which the just man is a better partner than the harpist as a harpist is better than the just man for striking the chords?”
+“By no means.”
+
 
 25081	ἀλλ’ εἰς τίνα δὴ κοινωνίαν ὁ δίκαιος ἀμείνων κοινωνὸς τοῦ οἰκοδομικοῦ τε καὶ κιθαριστικοῦ, ὥσπερ ὁ κιθαριστικὸς τοῦ δικαίου εἰς κρουμάτων;
-“For money-dealings, I think.”
+“Then what is the association in which the just man is a better partner than the harpist as a harpist is better than the just man for striking the chords?”
 
 25082	εἰς ἀργυρίου, ἔμοιγε δοκεῖ.
-“Except, I presume, Polemarchus, for the use of money when there is occasion to buy in common or sell a horse. Then, I take it, the man who knows horses, isn't it so?”
+“For money-dealings, I think.”
 
-25083	πλήν γ’ ἴσως, ὦ
+25083	πλήν γ’ ἴσως, ὦ Πολέμαρχε, πρὸς τὸ χρῆσθαι ἀργυρίῳ, ὅταν δέῃ ἀργυρίου κοινῇ πρίασθαι ἢ ἀποδόσθαι ἵππον;
+“Except, I presume, Polemarchus, for the use of money when there is occasion to buy in common or sell a horse. 
 
- Πολέμαρχε, πρὸς τὸ χρῆσθαι ἀργυρίῳ, ὅταν δέῃ ἀργυρίου κοινῇ πρίασθαι ἢ ἀποδόσθαι ἵππον;
+
+
+
 “Apparently.”
 
 25084	τότε δέ, ὡς ἐγὼ οἶμαι, ὁ ἱππικός.
-“And again, if it is a vessel, the shipwright or the pilot.”
+Then, I take it, the man who knows horses, 
+
 
 25085	ἦ γάρ;
-“It would seem so.”
+isn't it so?”
+
 
 25086	φαίνεται.
-“And again, if it is a vessel, the shipwright or the pilot.”
+“It would seem so.”
 
 25087	καὶ μὴν ὅταν γε πλοῖον, ὁ ναυπηγὸς ἢ ὁ κυβερνήτης;
-“What then is the use of money in common for which a just man is the better partner?”
+“And again, if it is a vessel, the shipwright or the pilot.”
 
 25088	ἔοικεν.
-“When it is to be deposited and kept safe, Socrates.”
+Apparently.
+
 
 25089	ὅταν οὖν τί δέῃ ἀργυρίῳ ἢ χρυσίῳ κοινῇ χρῆσθαι, ὁ δίκαιος χρησιμώτερος τῶν ἄλλων;
-“You mean when it is to be put to no use but is to lie idle?”
+“What then is the use of money in common for which a just man is the better partner?”
 
 25090	ὅταν παρακαταθέσθαι καὶ σῶν εἶναι, ὦ Σώκρατες.
-“Quite so.”
+“When it is to be deposited and kept safe, Socrates.”
 
 25091	οὐκοῦν λέγεις ὅταν μηδὲν δέῃ αὐτῷ χρῆσθαι ἀλλὰ κεῖσθαι;
-“Then it is when money is useless that justice is useful in relation to it?”
+“You mean when it is to be put to no use but is to lie idle?”
 
 25092	πάνυ γε.
-“It looks that way.”
+“Quite so.”
 
 25093	ὅταν ἄρα ἄχρηστον ᾖ ἀργύριον, τότε χρήσιμος ἐπ’ αὐτῷ ἡ δικαιοσύνη;
-“And similarly when a scythe is to be kept safe, then justice is useful both in public and private. But when it is to be used, the vinedresser's art is useful?”
+“Then it is when money is useless that justice is useful in relation to it?”
 
 25094	κινδυνεύει.
-“Apparently.”
+“It looks that way.”
 
 25095	καὶ ὅταν δὴ δρέπανον δέῃ φυλάττειν, ἡ δικαιοσύνη χρήσιμος καὶ κοινῇ καὶ ἰδίᾳ;
-“And so you will have to say that when a shield and a lyre are to be kept and put to no use, justice is useful, but when they are to be made use of, the military art and music.”
+“And similarly when a scythe is to be kept safe, then justice is useful both in public and private. 
 
 25096	ὅταν δὲ χρῆσθαι, ἡ ἀμπελουργική;
-“Necessarily.”
+But when it is to be used, the vinedresser's art is useful?”
 
 25097	φαίνεται.
-“And so in all other cases, in the use of each thing, justice is useless but in its uselessness useful?”
-
+“Apparently.”
 
 25098 φήσεις δὲ καὶ ἀσπίδα καὶ λύραν ὅταν δέῃ φυλάττειν καὶ μηδὲν χρῆσθαι, χρήσιμον εἶναι τὴν δικαιοσύνην, ὅταν δὲ χρῆσθαι, τὴν ὁπλιτικὴν καὶ τὴν μουσικήν;
-"And so you will have to say that when a shield and a lyre are to be kept and put to no use, justice is useful, but when they are to be made use of, the military art and music."
+“And so you will have to say that when a shield and a lyre are to be kept and put to no use, justice is useful, but when they are to be made use of, the military art and music.”
+
 
 25099 ἀνάγκη.
 "Necessarily."
