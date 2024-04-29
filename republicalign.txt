@@ -1,4 +1,4 @@
-Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek. Do not add extra quotes around the English. Make sure you use the Greek sentence numbers listed for each sentence. Do not place extra quotes around the English. Do not generate new translations yourself! Keep the translation for each Greek sentence on a single line. Place the sentence number followed by a tab and the Greek on one line with the English on the next line. Again, do not add extra "" around the English! And do the whole job -- do not stop and wait to be prompted to finish! Do lightly modernize archaic language, but keep the translation close to the Greek.
+Prompt: Intersperse for each Greek sentence the corresponding section of the translation. Remove TEI XML tags (and remove TEI XML <note/> content.) You will often have to split English sentences into smaller parts to line up Greek and English. Never change the Greek sentence breaks. Make the English fit the Greek. Do not add extra quotes around the English. Make sure you use the Greek sentence numbers listed for each sentence. Do not place extra quotes around the English. Do not generate new translations yourself! Keep the translation for each Greek sentence on a single line. Place the sentence number followed by a tab and the Greek on one line with the English on the next line. Again, do not add extra "" around the English! And do the whole job -- do not stop and wait to be prompted to finish! Do lightly modernize archaic language, but keep the translation close to the Greek. Use the English sentence breaks to break the Greek into smaller chunks when possible.
 
 24902	κατέβην χθὲς εἰς Πειραιᾶ μετὰ Γλαύκωνος τοῦ Ἀρίστωνος προσευξόμενός τε τῇ θεῷ καὶ ἅμα τὴν ἑορτὴν βουλόμενος θεάσασθαι τίνα τρόπον ποιήσουσιν ἅτε νῦν πρῶτον ἄγοντες.
 I went down yesterday to the Peiraeus with Glaucon, the son of Ariston, to pay my devotions to the Goddess, and also because I wished to see how they would conduct the festival since this was its inauguration.
@@ -1407,13 +1407,13 @@ he replied.
 25311	τὸ γὰρ τοῦ κρείττονος ἀσύμφορον δήπου προστάττεται τοῖς ἥττοσιν ποιεῖν .
 “For the disadvantageous to the stronger is what is enjoined on the weaker to perform.”
 
-25312	ναὶ μὰ Δί’ , ἔφη , ὦ Σώκρατες , ὁ Πολέμαρχος , σαφέστατά γε .
-“Yes, by Zeus, Socrates,” said Polemarchus, “nothing could be more conclusive.”
+25312	ναὶ[Yes] μὰ[by] Δί’ [Zeus], ἔφη[said] , ὦ Σώκρατες [Socrates], ὁ[0] Πολέμαρχος [Polemarchus], σαφέστατά[most clearly] γε [at least].
+“Yes[ναὶ], by[μὰ] Zeus[Δί’], Socrates[ὦ Σώκρατες],” said[ἔφη] Polemarchus, “nothing could be more conclusive.”
 
-25313	ἐὰν σύ γ’ , ἔφη , αὐτῷ μαρτυρήσῃς , ὁ Κλειτοφῶν ὑπολαβών .
+25313	ἐὰν[If] σύ[you] γ’ [at least], ἔφη[he said] , αὐτῷ'[for him] μαρτυρήσῃς [you bear witness], ὁ[0] Κλειτοφῶν[Cleitophon] ὑπολαβών[having interrupted] .
 “If you are his witness,” interposed Cleitophon.
 
-25314	καὶ τί , ἔφη , δεῖται μάρτυρος ;
+25314	καὶ[And] τί[why] , ἔφη , δεῖται[is there a need] μάρτυρος ;
 “And what need is there of a witness?” he said.
 
 25315	αὐτὸς γὰρ Θρασύμαχος ὁμολογεῖ τοὺς μὲν ἄρχοντας ἐνίοτε ἑαυτοῖς κακὰ προστάττειν , τοῖς δὲ δίκαιον εἶναι ταῦτα ποιεῖν .
