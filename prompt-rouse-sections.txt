@@ -1,0 +1,16 @@
+The provided prompt is a detailed XML-encoded text that includes both Greek source content and its English translation. The Greek content is divided into sections and formatted using TEI XML tags, with proper handling of section markers (<div>), paragraph markers (<p>), page breaks (<pb>), and explanatory notes (<note>). The English translation mirrors the structure and retains all the original content, including explanations in <note> tags and other details.
+
+The request involves ensuring:
+	1.	The English translation follows the exact section breaks as the Greek text.
+	2.	All content in <note> tags is included in the English.
+    3.  All <milestone/>, <pb/> and other tags are kept
+	4.	The translation remains faithful to the structure and content of the Greek source while adhering to XML formatting conventions.
+    5. Do not leave out ANY of the English translation.
+    6. You can fix OCR errors but DO NOT EDIT THE LANGUAGE of the translator. We are studying the translator's language.
+
+Again -- only fix OCR errors and make minimal changes if you need to split English sentences to align to the Greek.
+
+One text cell formatted like:    <div type="textpart" subtype="section" n="16">
+      <p>Once this was settled, they marched, the youths leading with the river on their left. The crossing point was about four stadia away.
+      </p>
+   </div>
