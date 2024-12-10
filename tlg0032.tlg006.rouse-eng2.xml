@@ -1,5 +1,5 @@
 <TEI><text><body>
-   <div type="textpart" subtype="book" n="1"><head>BOOK ONE</head>
+   <div type="textpart" subtype="book" n="1"><head>Book One</head>
    <div type="textpart" subtype="chapter" n="1">
    
    <pb n="1"/>
@@ -87,7 +87,7 @@
    </div>
    <div type="textpart" subtype="section" n="5">
       <p>
-         Cyros then, with the forces I have mentioned, set out from Sardis. Three stages, 22 leagues, <note>The parasang was a little over three miles. The plethron is about 100 feet. The men-at-arms are hoplites in heavy armour, the targeteers peltasts with light shields, light troops.</note> brought him as far as the River Maiandros. The river is 200 feet wide, with a bridge supported on floating vessels.      </p>
+         Cyros then, with the forces I have mentioned, set out from Sardis. Three stages, 22 leagues, <note>The parasang was a little over three miles. The plethron is about 101 feet. I call it 100. The men-at-arms are hoplites in heavy armour, the targeteers peltasts with light shields, light troops.</note> brought him as far as the River Maiandros. The river is 200 feet wide, with a bridge supported on floating vessels.      </p>
    </div>
    <div type="textpart" subtype="section" n="6">
       <p>
@@ -441,10 +441,7 @@ but if the business is bigger than the
          the fine spirit of Cyros, if anyone was rather discouraged
          about the enterprise, they went on more happily and more
          willingly.
-      </p>
-   </div>
-   <div type="textpart" subtype="section" n="10">
-      <p>
+
          <milestone unit="para"/>After this, Cyros marched four stages, 20 leagues, to the
          River Chalos, 100 feet wide, which was full of large tame
          fish, which the Syrians, revering as gods, would not let
@@ -612,7 +609,7 @@ As they seemed to be lazy about it, he was angry,
          with speed.
       </p>
    </div>
-   <div type="textpart" subtype="section" n="7">
+   <div type="textpart" subtype="section" n="10">
       <p>
          On the other side of the Euphrates in the desert was a
          city great and prosperous named Charmande; from this
@@ -648,7 +645,7 @@ As they seemed to be lazy about it, he was angry,
    </p>
 </div>
 <pb n="18"/>
-<div type="textpart" subtype="section" n="12">
+<div type="textpart" subtype="section" n="13">
    <p>
       Clearchos got away into his own
       camp, and at once called them to arms; he told his own
@@ -1603,7 +1600,7 @@ As
     </div>
 </div>
 </div>
-<div type="textpart" subtype="book" n="2">
+<div type="textpart" subtype="book" n="2"><head>Book Two</head>
 <div type="textpart" subtype="chapter" n="1">
     <div type="textpart" subtype="section" n="2">
         <p>
@@ -1618,7 +1615,7 @@ As
         <p>
             As they were just starting, at sunrise, up came
             Procles, the governor of Teuthrania, a man descended from
-            Damaratos the Laconian, and with him Glûs, the son of
+            Damaratos the Laconian,<note>a Spartan king deposed, who had settled in Mysia</note> and with him Glûs, the son of
             Tamó. These told them that Cyros was dead, but Ariaios
             had escaped, and was with the other Asiatics in the stagehouse
             from which they marched on the day before; he said
@@ -1753,7 +1750,7 @@ As
     </div>
     <div type="textpart" subtype="section" n="22">
         <p>
-            Clearchos said, “Report then, that our view is the same as the king’s.” “What does that mean?” said Phalinos.
+            “Report then," said Clearchus, "that our view is the same as the king’s.” “What does that mean?” said Phalinos.
  
             Clearchos answered, “If we stay where we are, a truce; if we move forwards or backwards, war.”        </p>
     </div>
@@ -2225,7 +2222,7 @@ When this was proclaimed, the men knew that it was an empty panic and the comman
     <div type="textpart" subtype="section" n="15">
         <p>
             "When I think over all this in my mind it seems astonishing that you distrust us, and I would gladly hear you tell me by name who is an orator clever enough to persuade you that we are plotting against you."
-            Clearchos said these words. Tissaphernes then replied:
+            Tissaphernes then answered the speech of Clearchus:
         </p>
     </div>
     <div type="textpart" subtype="section" n="16">
@@ -2512,11 +2509,7 @@ When this was proclaimed, the men knew that it was an empty panic and the comman
 <div type="textpart" subtype="section" n="28">
    <p>
       There are indeed certain obscure charges against him which may not be true, but here are some things which everyone knows.
-   </p>
-</div>
 
-<div type="textpart" subtype="section" n="28">
-   <p>
       <pb n="57"/>He was in the bloom of his youth when he got command of the mercenaries from Aristippos; 
       he became very intimate with Ariaios, who was a barbarian, because the man liked handsome lads; 
       he himself, while yet beardless, had a bearded favourite in Tharypas. 
@@ -2540,7 +2533,7 @@ When this was proclaimed, the men knew that it was an empty panic and the comman
 </div>
 </div>
 
-<div type="textpart" subtype="book" n="3">
+<div type="textpart" subtype="book" n="3"><head>Book Three</head>
 <div type="textpart" subtype="chapter" n="1">
    <div type="textpart" subtype="section" n="2">
       <p>
@@ -2728,9 +2721,11 @@ When this was proclaimed, the men knew that it was an empty panic and the comman
 </div>
 <div type="textpart" subtype="section" n="30">
    <p>
-      In my opinion, gentlemen, we should not admit such a man into our ranks. Strip him of his command, take away his equipment, 
-      and let him go wherever he pleases. Such a man is a disgrace not only to his city but to all Hellas, for though he is a Hellene, 
-      he behaves in such a manner as this!
+      In my opinion, men, we ought not to
+let this man be one of us. We ought to take his rank from
+him, and put a pack on his back, and make him carry for
+us. This man is a disgrace to his own country and to all
+Hellas, because he is a Hellene and yet behaves like this.”
    </p>
 </div>
 <div type="textpart" subtype="section" n="31">
@@ -3580,7 +3575,7 @@ Why didn’t you bring the targeteers?” He replied that he did not think it sa
 </div>
 
 
-<div type="textpart" subtype="book" n="4">
+<div type="textpart" subtype="book" n="4"><head>Book Four</head>
 <div type="textpart" subtype="chapter" n="1">
    <div type="textpart" subtype="section" n="5">
       <p>
@@ -3988,16 +3983,25 @@ Xenophon, and the baggage-train to cross in the middle.
    <p>Cheirisophos then plunged in with his division; but Xenophon took the handiest men of the rearguard and doubled back to the passage on the road which led away into the Armenian mountains, pretending that he wished to cross there and cut off the horsemen along the river.</p>
 </div>
 <div type="textpart" subtype="section" n="21">
-   <p>The enemy saw Cheirisophos and his forces easily crossing the water, and Xenophon doubling back. Fearing they might be cut off, they galloped away towards the upper crossing, but as soon as they reached the road, they turned upwards towards the mountains.</p>
+   <p>The enemy saw Cheirisophos and his forces easily crossing the water, and Xenophon doubling back. Then, fearing they might be cut off, they galloped away towards the upper crossing, but as soon as they reached the road, they turned upwards towards the mountains.</p>
 </div>
 <div type="textpart" subtype="section" n="22">
    <p>Lycios, who commanded the division of horsemen in the army of Cheirisophos, and Aischines, who commanded the light-armed troops, followed the cavalry when they saw them galloping away; and the soldiers called out, “Don’t let them get away! Follow into the mountains!”</p>
 </div>
 <div type="textpart" subtype="section" n="23">
-   <p>Cheirisophos, when he had crossed, did not pursue the cavalry but climbed the high banks opposite the place to attack the enemy above. These, seeing their own cavalry in flight and the men-at-arms moving to attack them, abandoned the higher ground above the river.</p>
+   <p>
+   However, Cheirisophos did
+not pursue the cavalry when his crossing was made, but
+
+<pb n="93"/>
+climbed the high banks opposite the place to attack the
+enemy there above. But these saw their own cavalry in
+flight, and saw the men-at-arms moving to attack them, and
+left the higher ground above the river.</p>
 </div>
 <div type="textpart" subtype="section" n="24">
-   <p>Xenophon, seeing that all went well across the river, doubled back towards the crossing troops, for the Kurds were visible coming down from the hills to attack the last men.</p>
+   <p>Now Xenophon saw that all went well across the river
+and he doubled back towards the crossing troops; for the Kurds were visible coming down from the hills to attack the last men.</p>
 </div>
 <div type="textpart" subtype="section" n="25">
    <p>Cheirisophos already held the upper parts, and Lycios with his little troop in pursuit caught the last of their baggage train and with it a load of fine dress and drinking cups.</p>
@@ -4358,7 +4362,7 @@ Cheirisophos then struck him, but he did not bind him, and in consequence that n
    </div>
    <div type="textpart" subtype="section" n="5">
       <p>
-         Thence they marched two stages, 10 leagues, and in the descent they were met by Chalybeans, Taothans, and Phasians.
+         Thence they marched two stages, 10 leagues, and in the descent they were met by Chalybeans and Taothans and Phasians.
       </p>
    </div>
    <div type="textpart" subtype="section" n="6">
@@ -4377,7 +4381,7 @@ I think it best to order the men to breakfast, and then we should deliberate whe
    </div>
    <div type="textpart" subtype="section" n="9">
       <p>
-         Cleanor said, “My opinion is that when we have breakfasted, we should arm at once and attack. If we delay today, the present enemy will be bolder, and it is likely that many others will join them while they are confident.”
+         “My opinion,” said Cleanor, “is that when we have breakfasted, we should arm at once and attack. If we delay today, the present enemy will be bolder, and it is likely that many others will join them while they are confident.”
       </p>
    </div>
    <div type="textpart" subtype="section" n="10">
@@ -4765,7 +4769,7 @@ When the enemy saw them, they also ran to left and right trying to keep parallel
 
 </div>
 
-         <div type="textpart" subtype="book" n="5">
+         <div type="textpart" subtype="book" n="5"><head>Book Five</head>
 <div type="textpart" subtype="chapter" n="1">
    <div type="textpart" subtype="section" n="2">
       <p>
@@ -5301,31 +5305,51 @@ at 620 leagues. Time taken, eight months.</note>
    </p>
 </div>
 
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="section" n="5">
    <p>
-They stayed forty-five days. In this time they offered sacrifices to the gods, and made procession, each nation of the Hellenic race by itself, and held games and sports. They got their provisions partly from Paphlagonia, partly from the villages of the district, for they would neither give them a market nor allow the sick to be brought within their walls.
+They stayed forty-five days. In this time they offered sacrifices to the gods, and made procession, each nation of the Hellenic race by itself, and held games and sports.    </p>
+</div>
+
+<div type="textpart" subtype="section" n="6">
+   <p>They got their provisions partly from Paphlagonia, partly from the villages of the district, for they would neither give them a market nor allow the sick to be brought within their walls.
    </p>
 </div>
 
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" n="7">
    <p>
 After a while an embassy came from Sinope; Cotyora was their city and paid them tribute, so they were anxious about the city, and the country also, which they heard was being raided. They came to the camp for a parley; their spokesman was Hecatonymos, reputed to be an accomplished orator, and he said:
    </p>
 </div>
 
-<div type="textpart" subtype="section" n="5">
+<div type="textpart" subtype="section" n="8">
    <p>
-“We are sent to you, soldiers and gentlemen, by the city of Sinope, to congratulate you Hellenes as victors over barbarians; and to say we rejoice with you that, after so many great dangers, as we have heard, you are with us safe and sound. We are Hellenes, and you are Hellenes, and we expect from you no unkindness but some kindness. These men of Cotyora are colonists of ours; this country we have taken from barbarians and given to them, and they in return pay us tribute like Cerasfis and Trapezûs, so that if you do any harm to them the city of Sinope considers this as done to herself. Now we hear that some of you have violently entered the city and there made yourselves at home in the houses, and that you take what you want from the farms by force, not by consent. We do not think that right. If you will do that, we must needs make friends with Corylas and the Paphlagonians and anyone else we can find.”
+“We are sent to you, soldiers and gentlemen, by the city of Sinope, to congratulate you Hellenes as victors over barbarians; and to say we rejoice with you that, after so many great dangers, as we have heard, you are with us safe and sound.    </p>
+</div>
+
+<div type="textpart" subtype="section" n="9">
+   <p>We are Hellenes, and you are Hellenes, and we expect from you no unkindness but some kindness.    </p>
+</div>
+
+<div type="textpart" subtype="section" n="10">
+   <p>These men of Cotyora are colonists of ours; this country we have taken from barbarians and given to them, and they in return pay us tribute like Cerasfis and Trapezûs, so that if you do any harm to them the city of Sinope considers this as done to herself.    </p>
+</div>
+
+<div type="textpart" subtype="section" n="11">
+   <p>Now we hear that some of you have violently entered the city and there made yourselves at home in the houses, and that you take what you want from the farms by force, not by consent.    </p>
+</div>
+
+<div type="textpart" subtype="section" n="12">
+   <p>We do not think that right. If you will do that, we must needs make friends with Corylas and the Paphlagonians and anyone else we can find.”
    </p>
 </div>
 
-<div type="textpart" subtype="section" n="6">
+<div type="textpart" subtype="section" n="13">
    <p>
 In answer to this, Xenophon rose and spoke for the army:
    </p>
 </div>
 
-<div type="textpart" subtype="section" n="7">
+<div type="textpart" subtype="section" n="14">
    <p>
 “We also, gentlemen of Sinope, are well content that we have come through with our lives and our arms all safe; for it is impossible at one time both to fight our enemies and to plunder their goods and chattels. And now we have reached the cities of our own race. Well, at Trapezûs a market was given us, and we paid for our provisions, and for their good respect and the hospitable gifts they gave to the army we respected them in return, and kept our hands off all friends they had among the natives; as for their enemies, they led us themselves against them, and we did them whatever damage we could.
    </p>
@@ -5801,7 +5825,7 @@ Then if you are prudent, you will treat him the opposite way to a dog. Dangerous
 </div>
 </div>
          </div>
-<div type="textpart" subtype="book" n="6">
+<div type="textpart" subtype="book" n="6"><head>Book Six</head>
 <div type="textpart" subtype="chapter" n="1">
 <div type="textpart" subtype="section" n="1">
    <p>
@@ -6535,7 +6559,7 @@ they will dare to follow.
 </div>
 </div>
 </div>
-        <div type="textpart" subtype="book" n="7">
+        <div type="textpart" subtype="book" n="7"><head>Book Seven</head>
             <div type="textpart" subtype="chapter" n="1">
             <div type="textpart" subtype="section" n="2">
    <p>After this Pharnabazos was afraid that the army might march into his country; so he sent to Admiral Anaxibios, who was in Byzantion as it happened, and begged him to transport the army out of Asia, promising to do all that was necessary.</p>
@@ -7207,7 +7231,7 @@ and all said go with Seuthes, all voted for that.
             you have to blame me for this estrangement when I chose
             you instead of Seuthes?
         </p>
-    </div>
+    
 </div>
     <div type="textpart" subtype="section" n="16">
         <p>
@@ -7480,8 +7504,435 @@ and all said go with Seuthes, all voted for that.
             or to leave along with the army. The answer was to leave.
         </p>
     </div>
+
+
 </div>
+
+
+<div type="textpart" subtype="chapter" n="7">
+   <div type="textpart" subtype="section" n="1">
+      <p>
+         <milestone unit="para" ed="P"/>After that, Seuthes went farther away and encamped; the Hellenes took up quarters in the villages where they could collect as much food as possible before they went down to the sea. These villages had been given by Seuthes to Menosades.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="2">
+      <p>
+         Menosades was indignant when he saw his property being used up there. So, taking with him Odryses, a very powerful chief of those who had come down from inland, and about thirty horsemen, he came to the Hellenic camp and called Xenophon outside. Xenophon came to meet him with some of his officers and friends.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="3">
+      <p>
+         Menosades said, “I protest against this pillaging of our villages. I speak for Seuthes, and this man has come from Medocos, who is king inland, and we demand that you leave the country; otherwise, we will not put up with it, but we will resist you as enemies if you ravage our country.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="4">
+      <p>
+         <milestone unit="para" ed="P"/>Xenophon answered, “You are the last man who ought to speak so, and it is not easy to answer you; but for the sake of this young man, I will tell him about us both, and he may compare us.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="5">
+      <p>
+         Before we became your friends,” he said, “we marched where we would through this country, plundering and burning at will.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="6">
+      <p>
+         When you came to us on embassy, you lodged beside us fearing no enemy. Your people hardly came into the country at all, or if you did, you lodged as in an enemy country, with your horses bitted and bridled.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="7">
+      <p>
+         Then you became our friends, and through us, you hold the land by God’s help; and now see how you drive us from this land, which we gained by force of arms and handed over to you! For as you know, the enemy were not able to drive us out.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="8">
+      <p>
+         <milestone unit="para" ed="P"/>You gave us no gifts and no help; it is no return for service that you  claim now as you send us away. Far from it—we are on the way out already, and as far as possible, you will not let us even camp in the country.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="9">
+      <p>
+         When you make this demand, you have no shame before heaven, or before this man; although he sees you now rich, whereas you lived on pillage before you became our friend, as you said yourself.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="10">
+      <p>
+         “And then what’s the use of addressing me?” says he; “I am no longer in command, but the Lacedaemonians, to whom you have passed over that army to take away—without consulting me, if you please! I came into their bad graces by bringing the army to you, and you would not give me the chance of doing them a good turn by passing them on!”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="11">
+      <p>
+         <milestone unit="para" ed="P"/>When Odryses heard this, he said, “I’m ready to sink into the earth with shame, Medosades, when I hear such things! If I had known before, I would never have come with you.
+     
+         <pb n="197"/>And now I depart. King Medocos would not be pleased either if I should drive out a benefactor.”  </p>
+   </div>
+   <div type="textpart" subtype="section" n="12">
+      <p>With these words, he got on his horse and rode off with the other horsemen, all but four or five.
+      
+         <milestone unit="para" ed="P"/>Medosades was still angry at the plundering and told Xenophon to summon the two Laconians.</p>
+   </div>
+   <div type="textpart" subtype="section" n="13">
+      <p>
+      
+         Xenophon approached them in the company of the best men he had and told them that Medosades summoned them, and what his demand was—that they should leave the country. </p>
+   </div>
+   <div type="textpart" subtype="section" n="14">
+      <p>“I believe then,” he said, “that you will get the money due if you say they have asked you to demand their pay from Seuthes, whether he likes it or not, and that they will follow you gladly if they get that; that you have promised the soldiers to go at once when they have their rights.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="15">
+      <p>
+         The Laconians agreed; they would say this and more as forcibly as they could, and they set out at once, taking with them the most suitable persons. When they arrived, Charminos said:
+“Have you anything to say to us, Medosades? If not, we
+have something to say to you.”
+      </p>
+   </div>
+      <div type="textpart" subtype="section" n="16">
+      <p>
+         Medosades answered very submissively, “I have to say this, and Seuthes the same: we expect not to be injured by you now that we have become friends. For if you injure these people, you injure us; they are our people.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="17">
+      <p>
+         Then the Laconians answered, “Well, we are ready to go as soon as the men receive the pay which they demand from you. If not, we are coming to defend them now and to punish certain persons who have broken their oaths and wronged them. If you are really such, we shall begin to gain our rights from you.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="18">
+      <p>
+         And Xenophon said, “Would you be content, Medosades, to leave it to these people in whose country we are, your friends as you call them? Let them decide by vote whether you should leave the country or we?”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="19">
+      <p>
+         He said no to that; but he said the best thing would be for the two Laconians to approach Seuthes about the pay, and he thought Seuthes would agree. The next thing was to send Xenophon with him, and he promised to demand it. He only asked them not to burn the villages.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="20">
+      <p>
+         <milestone unit="para" ed="P"/>Then they sent Xenophon with the men who seemed best, and he said to Seuthes: “I come to claim nothing, Seuthes; </p>
+   </div>
+   <div type="textpart" subtype="section" n="21">
+      <p>but to show that you were not right to be angry with me,  because I claimed so urgently from you what you had promised for the soldiers."
+    
+         "In fact, I thought it no less useful for yourself than for them.  </p>
+   </div>
+   <div type="textpart" subtype="section" n="22">
+      <p>First, I believed that after heaven it was they who had made you famous; they made you king of a great country and a great population, so that nothing you do can be hidden, whether good or bad."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="23">
+      <p>
+         "For such a man it seemed a great thing not to be thought so ungrateful as to dismiss his benefactors; and a great thing to have a good name with six thousand men; but greatest of all, not to make yourself distrusted when you make a promise."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="24">
+      <p>
+         "Indeed, I see that when men are distrusted, their words are blown about empty and ineffective and despised; but whenever men are known to keep their word, if they want anything, their words have no less power than the force of others."
+     
+     
+         "And if they desire to make people reasonable, I perceive that their threats bring them to reason no less than summary punishment from others. And if such men make a promise, they achieve no less than others do by a gift on the spot."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="25">
+      <p>
+         "Just remember yourself what you paid in advance when you took us as allies. Nothing!—you know it. But we believed what you said would be made true, when you encouraged all these men to join your army, and to win you a domain worth no less than thirty talents, the sum which these men claim, many times more indeed."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="26">
+      <p>
+         "Then the belief and trust, which won your empire, is being sold only for the money we claim."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="27">
+      <p>
+         "Remember again how great a prize you thought the conquest which you have made. I am well assured that you would rather have achieved what you have achieved than to receive many times as much as our claim."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="28">
+      <p>
+         "I believe myself that it would be a heavier blow, and more discreditable, not to keep now what you have than not to get it then; just as it is harder to become poor after being rich than never to have been rich at all, and more painful to become nobody after being king than never to have been king at all."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="29">
+      <p>
+         "You know also that those who have become your subjects were not persuaded by friendship to be ruled by you, but yielded to necessity, and they would try to make themselves free again unless fear restrained them."
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="30">
+      <p>
+         "Then what do you think would make them fear you more and behave reasonably? If they should see the soldiers so disposed to you that they would stand by if you told them, and come back at once if you needed them, and if others heard from them such good stories about you that they would join you whenever you wished? Or if they should suspect that no one else would ever come to you because these doings made them distrust your word, and even your own men felt much inclined to this same feeling?”
+      </p>
+   </div>
+      <div type="textpart" subtype="section" n="31">
+      <p>
+         Really and truly, these people yielded to you from no lack of numbers, but only from lack of leaders. Then there’s a risk now that they may find leaders in some of those who think you have wronged them, or even in the Lacedaemonians who are stronger still: suppose the soldiers promise more willing service to them if they exact what is due from you, and if the Lacedaemonians agree because they want the army!
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="32">
+      <p>
+         Besides, it is plain enough that the Thracians who are now under your rule would be readier to march against you than with you; for under your rule slavery is their lot; if you were conquered it would be freedom.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="33">
+      <p>
+         Again, if you think you must care for the country now as being your own, how do you think it more likely to be uninjured? Suppose these men receive what they claim; they would depart and leave peace behind them.
+   
+         But suppose they remain in the country as enemies, and you should try to bring in as many again and more to fight on your side, all wanting provisions!    </p>
+   </div>
+   <div type="textpart" subtype="section" n="34">
+      <p>And which would cost you more money—if you pay what is due to these, or if you have to pay others, a force strong enough to conquer them, and leave the debt still due?
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="35">
+      <p>
+         Heracleides, indeed, as he used to explain to me, found the sum enormous. Well, I declare it is much less now for you to get and to give than it was then to pay the tenth part before we came.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="36">
+      <p>
+         For no fixed limit divides much and little, but only how much one can give and the other can take. And now your yearly income will be more than your whole possessions then.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="37">
+      <p>
+         All I have said, Seuthes, has been forethought for a friend; I wished you to be thought worthy of the goods which the gods have given you; and also that my name should not be ruined in the army.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="38">
+      <p>
+         For I assure you that I could do nothing in the army now, whether I wished to injure an enemy or to help you again. That is how they are disposed towards me.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="39">
+      <p>
+         But I protest before the gods, who know, and before you, that I have never received anything from you on account of the soldiers, and I have never asked you for what is theirs, and indeed never asked you to give me what you promised.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="40">
+      <p>
+         If you had offered it, on my oath I never would have taken it, unless the soldiers were to receive their own also. It would have been a disgrace to make sure of mine, and to look on while they were wronged, especially as they held me in honor.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="41">
+      <p>
+         Of course, Heracleides thinks everything is rubbish compared with money, wholly and absolutely; but my opinion is, Seuthes, that a man can have no finer or more glorious possession, especially a ruler, than virtue and justice and generosity.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="42">
+      <p>
+         For who has these is rich: friends are his wealth, those many he has and the many who wish to be; while he prospers, many are glad with him, and if he comes to grief, he lacks not those who will help.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="43">
+      <p>
+         However, if you have not found out from my actions that I was heart and soul your friend, and if you cannot learn this from these words of mine, at least take notice of the words of all the soldiers: you were there yourself, and you heard what they said, wishing to find fault with me.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="44">
+      <p>
+         They accused me to the Lacedaemonians that I rated you higher than the Lacedaemonians, and their private charge was that I cared more for your interests than theirs; they also said I had received gifts from you.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="45">
+      <p>
+         What do you think: did they see any ill will in me towards you when they accuse me of receiving gifts from you? Had they not noticed my great readiness to serve you?
+      </p>
+   </div>
+
+    <div type="textpart" subtype="section" n="46">
+      <p>
+         I really think all the world believe that one ought to show goodwill to one who presents him with gifts. And what of you? Before I had served you in any way you received me pleasantly with eyes and voice, you entertained me, and made promises for the future—which have not been fulfilled; and when you had done what you wished, and now that you have become very great, and I did my best, now the soldiers dishonour me, and you can endure to look on!
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="47">
+      <p>
+         No, I believe you will decide to pay this money; time will be your teacher, and you will never allow yourself to see your benefactors accusing you. Therefore I beg you, when you do pay, that you will take care to leave me as you found me with the soldiers.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="48">
+      <p>
+         <milestone unit="para" ed="P"/>After hearing this Seuthes cursed the man who was the cause why this pay had not been given long ago; all suspected this to be Heracleides. “I myself,” says he, “never had a notion to cheat you, and pay I will!”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="49">
+      <p>
+         Then Xenophon said again, “Since you mean to pay, now I beg you to pay through me! Don’t allow me to stand differently in the army now from the time when we came to you.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="50">
+      <p>
+         He said, “No! you shall not be less in honour with the army for my sake; and if you will stay with me, bringing only a thousand men-at-arms, I will give you those forts and all else that I promised!”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="51">
+      <p>
+         Xenophon said, “To do that is quite impossible; just let us go.” “Why, look,” said Seuthes, “you will be safer here with me.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="52">
+      <p>
+         Xenophon said again, “Many thanks for your goodwill, but for me, to stay is impossible. Yet when I shall be in better honour, believe that this will be a blessing for you also.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="53">
+      <p>
+         Then Seuthes said, “Money I have only a little here, and that I give you, a talent; but oxen six hundred, and sheep about four thousand, and captives a hundred and fifty or so. Take these, and take those who cheated you as hostages, and then you may go.”
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="54">
+      <p>
+         Xenophon laughed, and said, “Well, if this does not come up to the pay, whose talent shall I say this is? There’s danger for me, and I had better look out for stones; you heard the threats.” For the time he stayed there.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="55">
+      <p>
+         <milestone unit="para" ed="P"/>Next day Seuthes gave over what he had promised, and sent drovers with them. The soldiers had been saying that Xenophon intended to make a home with Seuthes and to get what he had been promised; but as soon as they saw him, they ran up to him with joy.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="56">
+      <p>
+         Xenophon saw Charminos and Polynicos, and said to them, “Because of you, all this has been kept safe for the army, and here I give it to you; pray arrange to distribute it to the men.” So they took it over, and appointed spoil-sellers and sold it, and the men were very much discontented.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="57">
+      <p>
+         Xenophon took no part; he was clearly preparing for his homeward journey, for this was before the sentence of his banishment had been given in Athens. But the authorities in the army came and begged him not to leave until he should lead them to Thibron and hand over the army to him.
+      </p>
+   </div>
+</div>
+<div type="textpart" subtype="chapter" n="8">
+   <div type="textpart" subtype="section" n="1">
+      <p>
+         <milestone unit="para" ed="P"/>After that, they sailed across to Lampsacos, and there Xenophon was met by Eucleides, a Phleiasian seer, the son of Cleagoras, who painted the frescoes in the Lyceion. This man congratulated Xenophon on being safe and sound and asked how much gold he had.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="2">
+      <p>
+         Xenophon said on his oath that there would not be enough to pay his way home unless he could sell his horse and what he had about him. </p>
+   </div>
+   <div type="textpart" subtype="section" n="3">
+      <p>The man would not believe.
+      
+         The Lampsacenes sent him gifts of friendship, and while he was sacrificing to Apollo, he asked Eucleides to be there; then Eucleides at the sacrifice said he believed now that Xenophon had no money. “But I’m sure,” says he, “that even if you are going to get some, an obstacle comes in the way; if no other, you are your own obstacle!” Xenophon agreed.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="4">
+      <p>
+         The man said, “Yes, the obstacle is Zeus Merciful;” and he asked, “Have you sacrificed already, as I used to do at home for you, with whole burnt-offering?” Xenophon replied that he had never sacrificed to that god since his travels began. So the man advised him to do as he used to do; he said things would be better that way.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="5">
+      <p>
+         Next day Xenophon went to Ophrynion and sacrificed a whole burnt-offering of pigs in the family fashion, and the omens were good.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="6">
+      <p>
+         On this day arrived Bion and Nausicleides with pay for the army; they were entertained by Xenophon, and they brought back his horse, which he had sold in Lampsacos for fifty darics. They suspected he had sold it for want of money, because they had heard how he loved that horse, so they gave it back and would not let him return the price.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="7">
+      <p>
+         <milestone unit="para" ed="P"/>After that, they marched through the Troad, and crossing Ida, they reached Antandros, then sailed by sea to the plain of Thebe.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="8">
+      <p>
+         From that place, they made their way through Adramyttion and Certonos to the plain of the Caicos and so reached Pergamos in Mysia.
+      </p>
  
+       <p>
+         Then Xenophon was entertained by Hellas, the wife of Gongylos the Eretrian. </p>
+   </div>
+   <div type="textpart" subtype="section" n="9">
+      <p>She informed him that there was a Persian, Asidates, in that plain; she said he could capture him with wife and children and and cattle, numbers of cattle, if he attacked at night with three hundred men. She sent to show them the way her own cousin and Daphnagoras, one whom she valued very highly.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="10">
+      <p>
+         So Xenophon, keeping these two with him, sacrificed. Basias the Elean seer was present and said the omens were most favourable and that the man could be taken.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="11">
+      <p>
+         After supper, then, he set out, taking with him the officers who had been most friendly and faithful to him all through, in hopes to do them a good turn. Others came thrusting themselves in to join, but the officers refused, “We don’t want them to have a share,” they said, as if the spoil was in their hands.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="12">
+      <p>
+         <milestone unit="para" ed="P"/>They arrived about midnight, but they neglected captives and cattle around the tower, and most of them escaped, for they wanted to capture the man himself and his belongings.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="13">
+      <p>
+         They attacked the tower but failed to storm it, for it was very tall and large, had bulwarks, and strong men to defend it. So they began to dig through the wall.
+      </p>
+   </div>
+      <div type="textpart" subtype="section" n="14">
+      <p>
+         It was eight clay bricks in thickness, but by daybreak the light showed through; at the first glimpse of light, someone struck through with an iron rod large enough to spit a whole ox, and ran through the thigh of the nearest man.
+          After that, they shot arrows through the hole so that it was not safe to come anywhere near the place.      </p>
+   </div>
+   <div type="textpart" subtype="section" n="15">
+      <p>
+Then with shouting and beacon-fires, they brought help—Itamenes and his force, and from Comania, Assyrian men-at-arms and Hyrcanian horsemen, about eighty, who were also in the king’s pay, and others, light-armed troops, about eight hundred, others from Parthenion, others from Apollonia and from the
+neighbouring villages, and horsemen also.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="16">
+      <p>
+         <milestone unit="para" ed="P"/>Then it was high time to look for a way of retreat. They took all the cattle and sheep and captives and made a square with these in the middle; they were not anxious about the booty so much as fearful that the retreat might become a scampering if they left the booty behind, and if the enemy should be bold and the soldiers discouraged—but now they retreated ready to fight for their winnings.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="17">
+      <p>
+         When Gongylos saw how few the Hellenes were, and how many the enemy, he sallied out himself against his mother’s wish with his own force, eager to take a part. Other supports were Procles from Halisarna and Teuthranias, who was descended from Damaratos.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="18">
+      <p>
+         Xenophon’s party was very hard-pressed by this time with arrows and slingstones. They marched in a ring to keep their shields in front of the arrows; it was all they could do to cross the River Carcasos, and almost half of them were wounded.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="19">
+      <p>
+         There Agasias, the Stymphalian lieutenant, was wounded; he had been fighting the whole time. They came in safe at last with about two hundred captives and sheep enough for sacrifices.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="20">
+      <p>
+         <milestone unit="para" ed="P"/>Next day, Xenophon sacrificed and led out the whole army by night. He intended to take the most roundabout way through Lydia, to put the people off their guard; he hoped they might not be alarmed by thinking he was near.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="21">
+      <p>
+         Asidates heard that Xenophon had sacrificed for another attack on himself and was out with all the army. He quartered himself in some villages under the town of Parthenion.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="22">
+      <p>
+         There, Xenophon and his force came upon him, and captured him and his wife and children and the horses and all he had; so the first omens came true.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="23">
+      <p>
+         Then they returned to Pergamos. There Xenophon gave hearty thanks to God; for all joined together, the Laconians, the other captains, the under-officers, and the soldiers, and gave him the choice of horses and oxen and everything. So he was now well able to do a good turn to another.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="24">
+      <p>
+         <milestone unit="para" ed="P"/>Then Thibron arrived and took over the army, which he mingled with the rest of the Hellenic forces, and marched to the war against Tissaphernes and Pharnabazos.
+      </p>
+   </div>
+   <div type="textpart" subtype="section" n="26"><head>Note by an ancient editor.</head>
+      <p>
+         <del>The distance of the whole journey, up country and down country, was 215 stages, 1,150 leagues, 34,255 stades, or about 3,360 geographic miles.</del>
+
+         <del>The time taken was one year and three months.</del>
+      </p>
+   </div>
+</div>
+ </div>
 
 </body>
 </text>

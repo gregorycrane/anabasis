@@ -14,3 +14,5 @@ One text cell formatted like:    <div type="textpart" subtype="section" n="16">
       <p>Once this was settled, they marched, the youths leading with the river on their left. The crossing point was about four stadia away.
       </p>
    </div>
+
+The English should have exactly the same number of chunks as the Greek. If there are 15 sections in the Greek, break the English up into 15 chunks that are translations of the Greek.
