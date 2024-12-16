@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anabasis</title>
+                <author>Xenophon</author>
+                <editor role="transl">W. H. D. Rouse</editor>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name>Gregory Crane</name>
+                </respStmt>
+                <funder>Tufts University</funder>
+            </titleStmt>
+            <extent>about 531Kb</extent>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <notesStmt>
+                <note anchored="true">Text scanned, OCRd, and corrected at Tufts in December 2024.</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Xenophon</author>
+                        <title>The March Up Country: a translation of Xenophon's Anabasis</title>
+                        <editor role="transl">W. H. D. Rouse</editor>
+                        <imprint>
+                            <publisher>London ; T. Nelson.</publisher>
+                            <date>1947</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="section" matchPattern="(\w+).(\w+).(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+                    <p>This pointer pattern extracts book and chapter and section</p>
+                </cRefPattern>
+                <cRefPattern n="chapter" matchPattern="(\w+).(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts book and chapter</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts book</p>
+                </cRefPattern>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="book" delim="."/>
+                <refState unit="chapter" delim="."/>
+                <refState unit="section"/>
+            </refsDecl>
+            <!--refsDecl doctype="TEI.2">
+<state unit="book"/>
+<state unit="chapter"/>
+<state unit="section"/>
+</refsDecl>-->
+            <editorialDecl>
+                <quotation marks="none"/>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+
+        <revisionDesc>
+            <change when="2024-12-14" who="GRC">Did first pass of TEI encoding</change>
+
+        </revisionDesc>
+    </teiHeader>
